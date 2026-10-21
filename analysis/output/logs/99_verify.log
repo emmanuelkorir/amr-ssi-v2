@@ -1,6 +1,6 @@
 ECSA SSI/AMR verification
 =========================
-Run: 2026-10-21 11:07:28 
+Run: 2026-10-21 11:10:42 
 
 [PASS] PRISMA documents = 56
 [PASS] PRISMA excluded = 18
@@ -81,7 +81,7 @@ Run: 2026-10-21 11:07:28
 [PASS] Manuscript Rmd exists
 [PASS] Manuscript HTML exists
 [PASS] Manuscript DOCX exists
-[PASS] Manuscript DOCX is non-empty  (2485553)
+[PASS] Manuscript DOCX is non-empty  (2485987)
 
 Summary: 80 checks; 80 passed; 0 failed.
 

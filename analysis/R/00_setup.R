@@ -37,6 +37,9 @@ tab_dir  <- file.path(root, "analysis/output/tables")
 log_dir  <- file.path(root, "analysis/output/logs")
 data_dir <- file.path(root, "analysis/data")
 
+# Reproducible jitter positions and any other stochastic graphical element.
+set.seed(20261021)
+
 theme_ecsa <- function(base_size = 11) {
   theme_minimal(base_size = base_size) +
     theme(
