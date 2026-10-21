@@ -1,0 +1,1174 @@
+
+
+===== PAGE 1 =====
+
+Misha et al. Ann Clin Microbiol Antimicrob           (2021) 20:33  
+https://doi.org/10.1186/s12941-021-00440-z
+RESEARCH
+Bacterial profile and antimicrobial 
+susceptibility patterns of isolates 
+among patients diagnosed with surgical 
+site infection at a tertiary teaching hospital 
+in Ethiopia: a prospective cohort study
+Gemedo Misha1, Legese Chelkeba2 and Tsegaye Melaku3,4* 
+Abstract 
+Background:  Globally, surgical site infections are the most reported healthcare-associated infection and common 
+surgical complication. In developing countries such as Ethiopia, there is a paucity of published reports on the micro-
+biologic profile and resistance patterns of an isolates.
+Objective:  This study aimed at assessing the bacterial profile and antimicrobial susceptibility patterns of isolates 
+among patients diagnosed with surgical site infection at Jimma Medical Center in Ethiopia.
+Methods:  A prospective cohort study was employed among adult patients who underwent either elective or emer-
+gency surgical procedures. All the eligible patients were followed for 30 days for the occurrence of surgical site infec-
+tion (SSI). From those who developed SSI, infected wound specimens were collected and studied bacteriologically.
+Results:  Of 251 study participants, 126 (50.2%) of them were females. The mean ± SD age of the patients was 
+38 ± 16.30 years. The overall postoperative surgical site infection rate was 21.1% and of these 71.7% (38/53) were 
+culture positive. On gram stain analysis, 78% of them were Gram-negative, 11.5% were Gram-positive and 10.5% were 
+a mixture of two microbial growths. Escherichia coli accounted for (21.43%), followed by Pseudomonas aeruginosa 
+(19.05%), Proteus species (spp.) 14.29%), Staphylococcus aureus (11.90%), Klebsiella species (11.90%), Citrobacter spp. 
+(9.5%), streptococcal spp. (7.14%), Coagulase-negative S. aureus (CoNS) (2.38%)
+Conclusion:  Gram-negative bacteria were the most dominant isolates from surgical sites in the study area. Among 
+the Gram-negative bacilli, Escherichia coli were the most common bacteria causing surgical site infection. As there is 
+high antibiotic resistance observed in the current study, it is necessary for routine microbial analysis of samples and 
+their antibiogram.
+Keywords:  Antimicrobial susceptibility, Bacterial isolates, Surgical site infection, Ethiopia
+© The Author(s) 2021. This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and 
+the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material 
+in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material 
+is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the 
+permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://​creat​iveco​
+mmons.​org/​licen​ses/​by/4.​0/. The Creative Commons Public Domain Dedication waiver (http://​creat​iveco​mmons.​org/​publi​cdoma​in/​
+zero/1.​0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Introduction
+Infections caused by an invasive surgical procedure that 
+occurs in the wound are commonly referred to as surgi-
+cal site infections (SSIs) [1]. It is clinically characterized 
+as an infection that occurs within 30 days of surgery 
+(or within a year if an implant is left in place after the 
+Open Access
+Annals of Clinical Microbiology
+and Antimicrobials
+*Correspondence:  tsegayemlk@yahoo.com
+3 Department of Clinical Pharmacy, School of Pharmacy, Institute 
+of Health, Jimma University, Jimma, Ethiopia
+Full list of author information is available at the end of the article
+
+
+===== PAGE 2 =====
+
+Page 2 of 10
+Misha et al. Ann Clin Microbiol Antimicrob           (2021) 20:33 
+procedure) and affects either the incision or deep tis-
+sue at the site of the surgery [2]. These infections can be 
+superficial or deep incisional infections, or infections 
+affecting organs or body spaces. SSIs are the most com-
+mon infections associated with health care settings. 
+They are associated with significant morbidity and over 
+one-third of postoperative deaths have been reported 
+to be linked to SSI [3, 4]. SSI will double the duration of 
+a patient’s hospital stay and therefore increase the cost 
+of health care [4]. Depending on the type of surgery 
+and the severity of the infection, extra costs due to SSI 
+of between 800 and £ 7000 have been recorded [5, 6].
+Contamination of wound site and pathogenicity of 
+microorganisms, balanced against the host’s immune 
+response will determine the occurrence of SSI [7–9]. 
+The organism which causes SSI—are usually derived 
+from the endogenous environment, that is the patient 
+skin or opened viscus). Surgical instrument or theatre 
+environment will contaminate the site during opera-
+tion leads to exogenous causes of SSI [2, 10, 11]. Hema-
+togenous spread of organisms from distant sources 
+of infection can rarely cause SSI by attachment to the 
+prosthesis or other implant left in the operative site. 
+The infection prevention and control practices of SSI 
+are therefore aimed at minimizing the number of path-
+ogens at surgical site [12, 13].
+The most common microorganism cultured from 
+SSIs is Staphylococcus aureus [14–16]. When a viscus, 
+such as the large bowel, is opened, tissues are likely to 
+be contaminated by numerous organisms. For exam-
+ple, Enterobacteriaceae and anaerobes can cause SSI 
+after colorectal surgery [11]. The presence of a foreign 
+body from prosthetic surgery reduces the number of 
+pathogenic organisms required to cause SSI [17, 18]. 
+Microorganisms, which are non-pathogenic such as 
+Staphylococcus epidermidis, may also cause SSI in such 
+environment. The type of wound also dictates the pres-
+ence of microorganisms at surgical sites. For instance, 
+operations on sterile sites have less than 2%, whereas, 
+SSI will occur more than 10% after operations in “con-
+taminated” or “dirty” sites [19, 20].
+Resistance patterns of SSI-associated bacteria vary 
+globally, depending on the region, local epidemiology 
+reports, and susceptibility testing methodology. Bac-
+terial resistances pose a challenge and complicated 
+the SSI treatment. Most of the data on drug resistance 
+were obtained from high-income countries [21, 22]. 
+However, there were limited reports on the prevalence 
+and incidence of resistant bacteria causing SSI, espe-
+cially from developing countries [21, 23]. Therefore, 
+this study aimed at assessing the bacterial profile and 
+antimicrobial susceptibility patterns of isolates among 
+patients diagnosed with surgical site infection at Jimma 
+Medical Center in Ethiopia.
+Methods
+Study area and period
+The study was conducted at Jimma Medical Centre 
+(JMC). Jimma Medical Centre is the only teaching and 
+referral hospital in southwest Ethiopia. Geographically, it 
+is located 352 km southwest of Addis Ababa, the capital. 
+JMC provides services for ~ 15,000 inpatients, 160,000 
+outpatients, 11,000 emergency cases, and 4500 deliveries 
+in a year with a catchment population of over 20 million 
+people. It has around 800 beds with 21 clinical service 
+units. The surgery department has about 286 beds. It has 
+different subunits such as general surgical, gynecology, 
+obstetric/maternity, and orthopedics units. The study 
+was conducted from April 20 to August 20, 2019.
+Study design and population
+A prospective cohort study was employed among adult 
+patients (age ≥ 18 years) who underwent either elective 
+or emergency surgical procedures at general surgery, 
+gynecology/obstetric, and orthopedics wards of JMC. 
+All the eligible patients were followed for 30 days for the 
+occurrence of SSI. From those who developed SSI during 
+30 days of follow up specimen was collected for bacterio-
+logical analysis. We excluded patients who were initially 
+diagnosed with SSIs, died within 48 h, or refused to par-
+ticipate in the study.
+Sampling size determination and sampling technique
+The sample size was calculated using a single popula-
+tion proportion formula, by considering, 95% confidence 
+level, a 5% margin of error, and a 19.1% estimated pro-
+portion of surgical site infections among patients who 
+underwent surgery in Ethiopia [24];
+Considering 5% non-response rate, the total sample 
+size for this study was 251 patients.
+Data collection procedures and wound swab sample 
+collection
+For sociodemographic and clinical characteristics of the 
+patients, predesigned and semi-structured questionnaire 
+was used. The current study used Centers for Disease 
+Control and Prevention (CDC) SSI surveillance methods 
+[25]. Trained study assistants (one nurse and one clinical 
+pharmacist in the profession) conducted indirect surveil-
+lance by acquiring patient information using a form con-
+taining SSI risk factors.
+n = (1.96)2(0.191) (1 −0.191) = 239
+0.052
+.
+
+
+===== PAGE 3 =====
+
+Page 3 of 10
+Misha et al. Ann Clin Microbiol Antimicrob           (2021) 20:33 
+	
+The clinical evaluation of surgical sites (wound) was 
+done by the attending physician. The clinical features of 
+wound such as pain, redness, swelling, warm skin around 
+the wound, yellow or green discharge, unpleasant odor, 
+fever and chills were considered for clinical diagnosis of 
+surgical site infection. Wounds bed with suspected bac-
+terial infection was prepared for specimen collection 
+by with moist sterile gauze and sterile normal saline. 
+All surgical sites were inspected 24–48 h after surgery 
+at the time of change of dressing. Swabs from wounds 
+were aseptically collected using sterile cotton. For post-
+discharge surveillance, patients were asked to return for 
+follow-up within 30 days post-discharge at the hospital’s 
+surgical outpatient clinic. If this did not occur, patients 
+were contacted by mobile phone, and, if an SSI was sus-
+pected, they were asked to return to JMC to confirm the 
+diagnosis.
+Culture of specimen
+The clinical samples (i.e. pus, pus aspirates, and wound 
+swabs) were collected aseptically and processed imme-
+diately in the microbiology laboratory within 30 min by 
+placing the swabs into the sterile test tubes having 0.5 mL 
+of sterile normal saline. The collected samples were inoc-
+ulated onto MacConkeys agar, Blood agar, and chocolate 
+agar plates. Then after, the inoculated MacConkeys and 
+Blood agar plates were incubated in aerobic condition 
+while Chocolate agar plates were incubated in a 5–10% 
+­CO2 atmosphere environment at 37 °C for 24–48 h.
+Identification of bacterial pathogens
+Characterization of cultures was done using morpho-
+logical appearances on selective and differential media. 
+Based on standard techniques [26] the motility tests and 
+biochemical tests were carried out.
+Antibiotic susceptibility test
+From each confirmed culture isolate, a suspension of 
+a pure colony was done in sterile normal saline, which 
+was incubated at 37 °C for at least 15 min. For uniform-
+ity of a suspension on Mueller–Hinton agar (Oxoid Ltd) 
+sterile cotton tip applicator stick was used. For antibi-
+otic susceptibility test (AST), the Kirby-Bauer disk diffu-
+sion technique was implemented. For the AST different 
+antibiotic disk were used. These were ciprofloxacin (5 
+μg), penicillin (10 IU), clindamycin (2 μg), gentamycin 
+(10 μg), trimethoprim-sulfamethoxazole (1.25/23.75 
+μg), erythromycin (15 μg), tetracycline (30 μg), ceftriax-
+one (30 μg), ampicillin (10 μg), chloramphenicol (30 μg), 
+meropenem (10 μg), ceftazidime (30 μg), vancomycin (30 
+μg), cefepime(30 μg) and, cefuroxime(30 μg) (Oxoid Ltd). 
+The zone of inhibition was measured using a ruler. The 
+AST result was classified as susceptible, intermediate, 
+and resistant using the Clinical and Laboratory Standards 
+Institute (CLSI) 2018 performance standards for antimi-
+crobial susceptibility testing interpretation [27].
+Data and laboratory quality control
+Different techniques were used for data quality manage-
+ment. These included standardization of data collection 
+materials, training of data collectors, and supervision 
+during data collection. To ensure appropriateness of 
+data collection tool, the questionnaire was pretested 
+before the actual study. Quality assurance process that 
+is incorporated in standard operating procedures of the 
+Microbiology Laboratory of JMC was strictly followed for 
+laboratory analysis. An experienced medical laboratory 
+technologist participated in the laboratory identifica-
+tion procedure. The performance of prepared media was 
+checked by inoculating control strains, S. aureus (ATCC-
+25923) and E. coli (ATCC-25922) as control. In addition, 
+sterility was checked by incubating 5% of prepared media 
+at 37 °C for 24–48 h, and reagents for gram stain and 
+biochemical tests were cheeked by standard strains of S. 
+aureus and E. coli.
+Data analysis
+Complete data were entered EPI data version 3.1 and 
+exported to statistical package for social science (SPSS) 
+version 22.0. To present antimicrobial susceptibility pat-
+terns the descriptive statistics were used. Frequencies 
+and cross-tabulations were used to summarize descrip-
+tive statistics. Statistical significance were considered at p 
+values less than or equal to 0.05.
+Ethical consideration
+We obtained ethical clearance from institutional review 
+board (IRB) of the institute of health, Jimma Univer-
+sity (Reference number: IHRPGD/585/2019). Written 
+informed consent was secured from each study partici-
+pant. All participants’ information was kept confidential. 
+Patients who developed SSIs were treated according to 
+the protocol of the hospital.
+Results
+Sociodemographic and clinical data
+A total of 251 patients were included in the study. Out 
+of 251 patients, 126 (50.2%) were females. The mean ± SD 
+age of the study participant was 38 ± 16.30 years. Nearly 
+three-fourths of patients were from rural areas. More 
+than two-thirds of surgical procedures were emergent. 
+About 148 (59%) of surgical incision sites were abdomi-
+nal. The clean or clean contaminated dominated the 
+wound class, whereas only 37 (14.74%) patients had 
+contaminated wounds. Nearly one-fourth of patients 61 
+
+
+===== PAGE 4 =====
+
+Page 4 of 10
+Misha et al. Ann Clin Microbiol Antimicrob           (2021) 20:33 
+(24.3%) had an extended duration of preoperative hospi-
+tal stay of ≥ 7 days (Table 1).
+Disease comorbidity
+Fifty (19.92%) of patients were presented with one or 
+more co-morbidities. The common one were cardiac 
+disorder 20 (7.97%), respiratory disorder 7 (2.79%), 
+psychiatry problem 7 (2.79%) diabetic mellitus 6 (2.39%), 
+malignancy 6 (2.39%), and HIV/AIDS 4 (1.59%) (Table 2).
+Incidence of SSI
+From a cohort of 251 patients who underwent surgery 
+at Jimma Medical Center, 53 (21.1%) of them developed 
+surgical site infections. Study participants were followed 
+for 6651 person-days. During the study period incidence 
+Table 1  Sociodemographic and clinical data of study participants
+ASA American Society of Anesthesiologists, AMP antimicrobial prophylaxis
+a Percentages are calculated from the number of a participant in each column
+Variables
+Totala
+N (%)
+Surgical site infection
+x2(p-value)
+Yes [n (%)] 53 (21.1)a
+No [n (%)] 198 (78.9)a
+Sex
+   Male
+125 (49.80)
+34 (64.15)
+91 (45.96)
+0.019
+   Female
+126 (50.20)
+19 (35.85)
+107 (54.04)
+Age (years)
+    < 60
+214 (85.30)
+42 (79.2)
+172 (86.90)
+0.614
+    ≥ 60
+37 (14.70)
+11 (20.8)
+26 (13.10)
+Residence
+   Rural
+182 (72.50)
+10 (18.87)
+59 (29.80)
+0.113
+   Urban
+69 (27.50)
+43 (81.13)
+139 (70.20)
+ASA score
+    < 3
+240 (95.60)
+44 (83.02)
+196 (99)
+ < 0.001
+    ≥ 3
+11 (4.40)
+9 (16.98)
+2 (1)
+Comorbidity
+   Yes
+50 (20)
+16 (30.2)
+34 (17.20)
+0.035
+   No
+201 (80)
+37 (69.8)
+164 (82.80)
+Preoperative hospital stay
+    ≤ 7 days
+190 (75.70)
+43 (81.13)
+147 (74.24)
+0.299
+    > 7 days
+61 (24.30)
+10 (18.87)
+51 (25.76)
+Wards
+   General surgery
+143 (57)
+27 (51)
+116 (58.60)
+ < 0.001
+   Orthopedics
+39 (15.50)
+19 (35.80)
+20 (10.10)
+   Gynecology and obsteristics
+69 (27.50)
+7 (13.20)
+62 (31.30)
+Urgency of surgery
+   Scheduled
+84 (33.50)
+8 (15.09)
+76 (38.38)
+0.001
+   Emergent
+167 (65.50)
+45 (84.91)
+122 (61.62)
+Duration of surgery
+    < 2 h
+187 (74.50)
+29 (54.72)
+158 (79.80)
+ < 0.001
+    ≥ 2 h
+64 (25.50)
+24 (45.28)
+40 (19.20)
+Types of wound
+   Clean or clean contaminated
+214 (85.30)
+25 (47.17)
+189 (95.45)
+ < 0.001
+   Contaminated
+37 (14.70)
+28 (52.83)
+9 (4.55)
+   Used antibiotic preoperatively
+206 (82.10)
+50 (94.34)
+156 (78.79)
+0.009
+   Used antibiotic post-operatively
+45 (17.90)
+23 (43.40)
+22 (11.11)
+ < 0.001
+Duration of AMP
+   Within 24 h
+40 (15.94)
+3 (5.66)
+37 (18.86)
+0.007
+    > 24 h
+166 (66.14)
+47 (88.68)
+119 (60.10)
+
+
+===== PAGE 5 =====
+
+Page 5 of 10
+Misha et al. Ann Clin Microbiol Antimicrob           (2021) 20:33 
+	
+rate of SSI was 43.74 [95% CI (33.41–57.25)] per 100,000 
+person-years (Fig. 1).
+Identified bacterial isolates
+From patients who developed SSI (n = 53), wound swabs 
+or pus aspirates were collected. Out of these, 71.7% 
+(38/53) were culture positive, while the rest, 28.3% 
+(15/53), were culture negative. Out of a total of 38 bac-
+terial isolates, 78% of them were Gram-negative, 11.5% 
+were Gram-positive and 10.5% were a mixture of two 
+microbial growths. Among the types of bacteria identi-
+fied, Escherichia coli accounted for 9 (21.43%), followed 
+by Pseudomonas aeruginosa 8 (19.05%), Proteus species 
+spp. 6 (14.29%), Staphylococcus aureus 5 (11.90%), Kleb-
+siella species 5 (11.90%), Citrobacter spp. 4 (9.5%), Strep-
+tococcal spp. 3 (7.14%), Coagulase-negative S. aureus 
+(CoNS) 1 (2.38%) and Serratia spp. 1 (2.38%) (Fig. 2).
+Antibiotic susceptibility pattern of SSI isolates
+Antibiotic resistance profiles were reported for the 
+organisms isolated from surgical incision site of infected 
+patients. The Gram-positive pathogens showed high 
+resistance toward penicillin (66.67%), erythromycin 
+(66.67%), and clindamycin (66.67%). The Gram-negative 
+pathogens showed high resistance toward Cefepime 
+(87.88%), ceftriaxone (78.79%), Cefuroxime (63.63%), cot-
+rimoxazole (54.55%), ciprofloxacin (60.60%), and ampicil-
+lin (60.60%). Clindamycin and erythromycin-resistant S. 
+aureus accounted 80% of all S. aureus isolates and showed 
+resistance toward cotrimoxazole (60%). However, only 
+one strain of it showed resistance to vancomycin. Two 
+of three isolates of streptococcus were resistant to Peni-
+cillin, erythromycin, vancomycin, and clindamycin. All 
+strains of Pseudomonas aeruginosa (P. aeruginosa) and 
+proteus spp. were resistant to Ceftriaxone. Pseudomonas 
+aeruginosa isolates were resistant to meropenem (62.5%), 
+ceftazidime (62.5%) ciprofloxacin (50%), and gentamicin 
+(50%). All strains of Proteus spp. showed were resist-
+ant to cefepime and cefuroxime. Similarly, all isolates 
+Table 2  Prevalence of disease comorbidity among study participants
+HIV human immunodeficiency virus, AIDS acquired immunodeficiency syndrome
+a Percentages are calculated from the number of a participant in each column
+Variables
+Totala
+N (%)
+Surgical site infection
+x2(p-value)
+Yes [n (%)] ­53a
+No [n (%)] ­198a
+Cardiac disorder
+   Yes
+20 (7.97)
+6 (11.32)
+14 (7.07)
+0.31
+   No
+231 (92.03)
+47 (88.68)
+184 (92.93)
+Diabetes mellitus
+   Yes
+6 (2.39)
+5 (9.43)
+1 (0.51)
+ < 0.001
+   No
+245 (97.61)
+48 (9.57)
+197 (99.49)
+Malignancy
+   Yes
+6 (2.39)
+2 (3.77)
+4 (2.02)
+0.45
+   No
+245 (97.61)
+51 (96.23)
+194 (97.98)
+HIV/AIDS
+   Yes
+4 (1.59)
+1 (1.89)
+3 (1.52)
+0.86
+   No
+247 (98.41)
+52 (98.11)
+195 (98.48)
+Psychiatry problem
+   Yes
+7 (2.79)
+3 (5.66)
+4 (2.02)
+0.15
+   No
+244 (97.21)
+50 (94.34)
+194 (97.98)
+Respiratory disorder
+   Yes
+7 (2.79)
+4 (7.55)
+3 (1.52)
+0.06
+   No
+244 (97.21)
+49 (92.45)
+195 (98.48)
+21.10%
+78.90%
+ SSI
+No SSI
+Fig. 1  Incidence of surgical site infection among study participants 
+(in percentage)
+
+
+===== PAGE 6 =====
+
+Page 6 of 10
+Misha et al. Ann Clin Microbiol Antimicrob           (2021) 20:33 
+of Citrobacter spp. showed resistance to cefepime. The 
+identified Serratia spp. were resistant to all tested antibi-
+otics. Meropenem is 100% effective against E. coli which 
+was the predominant pathogen in this study (Table 3).
+Discussion
+Postoperative SSI remains one of the most significant 
+causes of morbidity among surgically treated patients. 
+These patients incur higher costs due to longer hospi-
+talizations, more nursing care, additional wound care, 
+potential hospital admissions, and further surgical pro-
+cedures. Identification of bacterial pathogens and the 
+selection of an effective antibiotic against the organ-
+ism are essential in successful management of bacterial 
+infection. In the current study, the overall culture posi-
+tivity rate from patients with surgical site infection was 
+71.7%, which was slightly higher than results previously 
+reported from India (68%) [28], but lower than a report 
+from Mekelle (75%) [29] and Nigeria (82%) [30]. Lower 
+rates of positive culture were reported from India (50%) 
+[31] and Nepal (63.3%) [16], Bangladesh (61.8%) [32].
+The isolation rate of Gram-negative bacteria was 
+greater (78%) than Gram-positive bacteria (11.5%) in 
+this study. This, in contrast, to study done from Bang-
+ladesh [32], and Nepal [33, 34]. This might be related to 
+the study population. In the latter studies, most of the 
+patients were from the orthopedics department where 
+Gram-positive bacteria such as staphylococcus and strep-
+tococcus are the main causative agents [35, 36]. The prev-
+alence of mixed infections in the current study (10.5%) 
+was lower than previous study from Jimma (22.9%) 
+[37], Dessie (18.5%) [38] and Nigeria (33.2%) [39]. The 
+difference might be due to difference in identification 
+methods, which will influence is known to influence the 
+relative prevalence of bacteria.
+Similar to the present study, S.M. Patel et al. [40] dem-
+onstrated that Escherichia coli (35.7%)was the most 
+common pathogenic isolate followed by Staphylococ-
+cus aureus (21.4%), Pseudomonas aeruginosa (14.3%), 
+and Klebsiella spp. (14.3%). In a similar study from India 
+[41] and Chennai [11] Escherichia coli (41.17%) was 
+reported as the most common bacterial isolates, followed 
+by Staphylococcus aureus (13.72%), Klebsiella pneumo-
+nia (9.80%), Pseudomonas aeruginosa (7.84%). Varsha 
+Shahane et  al. [42] has also demonstrated Escherichia 
+coli as the commonest isolate in their studies. A similar 
+study finding from Gondar (Ethiopia) [43] reported that 
+Escherichia coli a major isolate. However, this finding 
+was in contrast with many other studies [29, 35, 44–49]. 
+In these studies, authors have observed Staphylococcus 
+aureus as the commonest pathogen causing SSI in their 
+respective studies. The difference in the report might be 
+explained by the difference in the setting and study pop-
+ulation. In the current study, most of the patients were 
+from the general surgery ward. Most of the surgical pro-
+cedures performed were laparotomies and most wounds 
+were either clean-contaminated or contaminated, which 
+had spillage from the gastrointestinal tract. This might 
+be due to Escherichia coli’s natural habitat is the gas-
+trointestinal tract. In the current study, a relatively low 
+orthopedic procedure was done, where staphylococcus 
+predominates as the causative agent.
+In this study, Proteus spp. conferred high resistant 
+to Cefepime (100%), Cefuroxime (100%) ceftriaxone 
+21.43
+19.05
+14.29
+11.9
+11.9
+9.52
+7.14
+2.38
+2.38
+0
+5
+10
+15
+20
+25
+Percentage
+Fig. 2  Percentage and types of bacteria among patients diagnosed with surgical site infection
+
+
+===== PAGE 7 =====
+
+Page 7 of 10
+Misha et al. Ann Clin Microbiol Antimicrob           (2021) 20:33 
+	
+Table 3  Antibiotic resistance profile of bacteria isolates from surgical sites
+Percentage of resistance strain is calculated by dividing of the number of resistance specific isolate to the identified isolate (e.g. there were 5 isolates of S. aureus identified; of which 4 are resistance to Erythromycin, which 
+showed the Erythromycin of 80% (4/5)
+ND not done, Ds done susceptible, CONS coagulase-negative staphylococcus
+S. no.
+Antibiotics 
+tested
+Gram-positives
+Gram-negatives
+Total
+S. aureus 
+(n = 5)
+CoNS (n = 1)
+Streptococcus 
+(n = 3)
+P. aeruginosa 
+(n = 8)
+Proteus spp. 
+(n = 6)
+E. Coli (n = 9)
+Klebsiella spp. 
+(n = 5)
+Citrobacter 
+spp. (n = 4)
+Serratia spp. 
+(n = 1)
+Resistance; n
+Resistance; n
+Resistance; n
+Resistance; n
+Resistance; n
+Resistance; n
+Resistance; n
+Resistance; n
+Resistance; n
+Resistance n (%)
+1
+Penicillin
+3
+1
+2
+ND
+ND
+ND
+ND
+ND
+ND
+6 (66.7)
+2
+Erythromycin
+4
+Ds
+2
+ND
+ND
+ND
+ND
+ND
+ND
+6 (66.7)
+3
+Vancomycin
+1
+Ds
+2
+ND
+ND
+ND
+ND
+ND
+ND
+3 (33.3)
+4
+Clindamycin
+4
+Ds
+2
+ND
+ND
+ND
+ND
+ND
+ND
+6 (66.7)
+5
+Tetracycline
+Ds
+Ds
+1
+ND
+ND
+ND
+ND
+ND
+ND
+1 (11.1)
+6
+Cotrimoxazole
+3
+Ds
+1
+6
+4
+2
+2
+3
+1
+22 (52.4)
+7
+Chlorampheni-
+col
+Ds
+Ds
+1
+4
+4
+1
+4
+2
+ND
+16 (48.48)
+8
+Ampicillin
+ND
+ND
+ND
+3
+4
+4
+5
+3
+1
+20 (60.60)
+9
+Cefepime
+ND
+ND
+ND
+8
+6
+6
+4
+4
+1
+29 (87.88)
+10
+Ceftazidime
+ND
+ND
+ND
+5
+2
+4
+2
+3
+1
+17 (51.51)
+11
+Ceftriaxone
+ND
+ND
+ND
+8
+6
+5
+3
+3
+1
+26 (78.79)
+12
+Cefuroxime
+ND
+ND
+ND
+6
+6
+5
+3
+1
+ND
+21 (63.63)
+13
+Ciprofloxacin
+ND
+ND
+ND
+4
+4
+5
+4
+3
+ND
+20 (60.60)
+14
+Meropenem
+ND
+ND
+ND
+5
+3
+Ds
+2
+1
+1
+12 (36.36)
+15
+Gentamycin
+ND
+ND
+ND
+4
+2
+3
+2
+1
+1
+13 (39.39)
+
+
+===== PAGE 8 =====
+
+Page 8 of 10
+Misha et al. Ann Clin Microbiol Antimicrob           (2021) 20:33 
+(100%), ciprofloxacin (67%), ampicillin (67%), cotri-
+moxazole (67%) and chloramphenicol (67%) which 
+agrees reports in other studies [37, 38]. In this study, 
+multi-drug resistance (MDR) to commonly used anti-
+biotics was identified. Resistance to antibiotics ranged 
+from 11.1% to 100%. Similarly, a study from Mekelle 
+(Ethiopia) [29] showed a multi-drug resistance to the 
+commonly used antibiotics. In Tikur Anbessa spe-
+cialized Hospital [50], about 95% of the isolates were 
+resistance to two or more antimicrobials while 82.3% 
+of them were resistance to three or more antimicrobi-
+als. Besides these similar national studies, the current 
+study findings were consistent with many other global 
+studies [4, 13, 29, 43, 45, 50, 51]. This might be because 
+these antibiotics are widely prescribed empirically for 
+the treatment of various infections in our setting.
+Overall, ceftriaxone resistance in this study was about 
+78.79%. All pseudomonas and Proteus spp. isolated were 
+100% resistant to ceftriaxone. This remarkably higher 
+resistance might be the indiscriminate use of ceftriaxone 
+as prophylaxis to all who underwent surgery in our hos-
+pital. Even though, high drug resistance was observed by 
+this study meropenem was effective against Escherichia 
+coli which was the predominant cause of SSI in the cur-
+rent study. A high rate (nearly half) of bacterial resist-
+ance against chloramphenicol and cotrimoxazole was 
+observed. This is consistent with a study done in Saudi 
+Arabia [49]. This might be due to the indiscriminate use 
+of antibiotics in both hospitals.
+In this study, Citrobacter maximum resistance was 
+conferred to cefepime (100%), ampicillin (75%), cipro-
+floxacin (75%), ceftazidime (75%), cotrimoxazole (75%) 
+and ceftriaxone (75%), which was comparable to the 
+result reported Girma et al. [37] in contrast another study 
+report 66.7% resistance for ampicilin [52]. The difference 
+might be due to the setting and included patients in the 
+study. The consumption of cefepime in the study set-
+ting is very low. Thus, the high resistance of Citrobacter 
+to such antibiotics needs special attention, especially on 
+their empirical use. Only one-third of streptococcus spp. 
+isolates were sensitive to penicillin, erythromycin, vanco-
+mycin, and clindamycin. This showed great concern for 
+an infectious condition caused by these bacteria species 
+such as pneumonia, meningitis. The rise in antibiotic 
+resistance emphasizes the importance of sound hospital 
+infection control, rational prescribing policies, and the 
+need for new antimicrobial drugs and vaccines. In gen-
+eral, the current study showed that the reported antibi-
+otic susceptibility data was similar to the previous overall 
+susceptibility pattern of isolates in the study area [53–55]. 
+However, some of the virulent bacteria such as P. aerugi-
+nosa, E. coli, and S. aureus showed increasing trends in 
+resistance [56–58].
+Limitations of the study
+It was not possible to include anaerobic bacteria due to 
+the lack of microbiology laboratory facilities constraints 
+during the study period.
+Conclusion
+In conclusion, Gram-negative bacteria were the most 
+dominant isolates from surgical sites in the study area. 
+Among the Gram-negative bacilli, Escherichia coli were 
+the most common bacteria causing surgical site infec-
+tion. A multi-center study should be conducted to see 
+the actual incidence of resistance isolates among patients 
+with wound infection. As there is high antibiotic resist-
+ance observed in the current study, it is necessary for 
+routine microbial analysis of samples and their anti-
+biogram. In addition, we recommend proper infection 
+prevention practices to break the disease transmission 
+cycle, strengthening the available antimicrobial steward-
+ship program in the setting and periodic antimicrobial 
+surveillance.
+Abbreviations
+CoNS: Coagulase negative S. aureus; CLSI: Clinical and Laboratory Standards 
+Institute; SSIs: Surgical site infections; JMC: Jimma Medical Centre; MDR: Multi-
+drug resistances.
+Acknowledgements
+We would like to express our heartfelt gratitude to the Jimma University, Insti-
+tute of Health, for financially supporting this research. We thank all participat-
+ing surgeons, other health care professionals, data collectors, and patients for 
+their cooperation during data collection.
+Authors’ contributions
+The analysis was conceptualized by GM, LCH. Data collection was managed 
+by GM and LCH and data analysis was conducted by GM. LCH and TM drafted 
+the manuscript. All authors participated in editing, feedback, and revisions. All 
+authors read and approved the final manuscript.
+Funding
+This study was sponsored by Jimma University, Ethiopia.
+Availability of data and materials
+The data sets generated during and/or analyzed during the current study are 
+available from the corresponding authors on reasonable request.
+Declarations
+Ethics approval and consent to participate
+Ethical clearance and approval was obtained from the institution review board 
+(IRB) of Jimma University.
+Consent for publication
+Not applicable.
+Competing interests
+The authors have no competing interests to declare. The funder had no role in 
+the study design, data collection, and analysis, decision to publish, or prepara-
+tion of the manuscript.
+Author details
+1 Department of Pharmacy, College of Health Sciences, Arsi University, Assela, 
+Ethiopia. 2  Department of Pharmacology and Clinical Pharmacy, College 
+
+
+===== PAGE 9 =====
+
+Page 9 of 10
+Misha et al. Ann Clin Microbiol Antimicrob           (2021) 20:33 
+	
+of Health Sciences, Addis Ababa University, Addis Ababa, Ethiopia. 3 Depart-
+ment of Clinical Pharmacy, School of Pharmacy, Institute of Health, Jimma 
+University, Jimma, Ethiopia. 4 Jimma Medical Center, Institute of Health, Jimma 
+University, Jimma, Ethiopia. 
+Received: 18 January 2021   Accepted: 3 May 2021
+References
+	1.	
+Horan TC, et al. CDC definitions of nosocomial surgical site infections, 
+1992: a modification of CDC definitions of surgical wound infections. 
+Infect Control Hosp Epidemiol. 1992;13(10):606–8.
+	2.	
+Mangram AJ, et al. Guideline for prevention of surgical site infection, 
+1999. Infect Control Hosp Epidemiol. 1999;20(4):247–80.
+	3.	
+Astagneau P, et al. Morbidity and mortality associated withsurgical site 
+infections: results from the 1997–1999 INCISO surveillance. J Hosp Infect. 
+2001;48(4):267–74.
+	4.	
+Mukagendaneza MJ, et al. Incidence, root causes, and outcomes of 
+surgical site infections in a tertiary care hospital in Rwanda: a prospective 
+observational cohort study. Patient Saf Surg. 2019;13(1):1–8.
+	5.	
+Coello R, et al. Adverse impact of surgical site infections in English hospi-
+tals. J Hosp Infect. 2005;60(2):93–103.
+	6.	
+Plowman R, et al. The rate and cost of hospital-acquired infections 
+occurring in patients admitted to selected specialties of a district general 
+hospital in England and the national burden imposed. J Hosp Infect. 
+2001;47(3):198–209.
+	7.	
+Barie PS. Surgical site infections: epidemiology and prevention. Surg 
+Infect. 2002;3(S1):s9–21.
+	8.	
+Pipaliya B et al. Prevalence of SSI in post operative patients in tertiary 
+health care hospital. Nat J Integr Res Med. 2017;8(2).
+	9.	
+Attah O et al. Risk factors associated with post-operative infections 
+among orthopaedic patients with clean wounds in OAUTHC, Ile Ife, 
+Nigeria.
+	10.	 Nel DC. Surgical site infections. South Afr Family Pract. 2014;56(5):33–7.
+	11.	 Sunanthini ARC. Prevalence of nosocomial infection in surgical wounds 
+among postoperative patients and their antimicrobial susceptibility pat-
+tern. 2015, Madras Medical College, Chennai.
+	12.	 Gallo J, Nieslanikova E. Prevention of prosthetic joint infection: from 
+traditional approaches towards quality improvement and data mining. J 
+Clin Med. 2020;9(7):2190.
+	13.	 Allegranzi B, et al. A multimodal infection control and patient safety 
+intervention to reduce surgical site infections in Africa: a multicentre, 
+before–after, cohort study. Lancet Infect Dis. 2018;18(5):507–15.
+	14.	 Benito N, et al. Etiology of surgical site infections after primary total joint 
+arthroplasties. J Orthop Res. 2014;32(5):633–7.
+	15.	 Cantlon CA, et al. Significant pathogens isolated from surgical site 
+infections at a community hospital in the Midwest. Am J Infect Control. 
+2006;34(8):526–9.
+	16.	 Regmi SM, et al. Bacteriological profile and antimicrobial susceptibility 
+patterns of wound infections among adult patients attending Gandaki 
+Medical College Teaching Hospital, Nepal. J Gandaki Med College-Nepal. 
+2020;13(1):60–4.
+	17.	 Bosco III JA, Mehta SA. Orthopedic surgical site infections: analysis of 
+causative bacteria and implications for antibiotic stewardship. 2014.
+	18.	 Anderson DJ. Surgical site infections. Infect Dis Clin. 2011;25(1):135–53.
+	19.	 Astagneau P, et al. Reducing surgical site infection incidence through a 
+network: results from the French ISO-RAISIN surveillance system. J Hosp 
+Infect. 2009;72(2):127–34.
+	20.	 Admassie M, Tsige E, Chanie M. Isolation, identification and antibiotic sus-
+ceptibility pattern of bacteria isolated from wounds of patients attending 
+at arsho advanced medical laboratory. Science. 2018;7(2):20–4.
+	21.	 National Institute for Health and Clinical Excellence. National collaborat-
+ing centre for women’s and children’s health; Caesarean section: clinical 
+guideline; 2003; pp. 5–17.
+	22.	 National Institute for Health and Clinical Excellence. Surgical site infec-
+tion: prevention and treatment of surgical site infection. 2008; pp. 9–11.
+	23.	 Iskandar K, et al. Highlighting the gaps in quantifying the economic 
+burden of surgical site infections associated with antimicrobial-resistant 
+bacteria. World J Emerg Surg. 2019;14(1):50.
+	24.	 Laloto TL, Gemeda DH, Abdella SH. Incidence and predictors of 
+surgical site infection in Ethiopia: prospective cohort. BMC Infect Dis. 
+2017;17(1):119.
+	25.	 Horan TC, Andrus M, Dudeck MA. CDC/NHSN surveillance definition of 
+health care-associated infection and criteria for specific types of infec-
+tions in the acute care setting. Am J Infect Control. 2008;36(5):309–32.
+	26.	 Steel KJ, Barrow G, Feltham R. Cowan and steel’s manual for the identifi-
+cation of medical bacteria. Cambridge: Cambridge University Press; 1993.
+	27.	 Humphries RM et al. CLSI methods development and standardization 
+working group best practices for evaluation of antimicrobial susceptibil-
+ity tests. J Clin Microbiol. 2018;56(4).
+	28.	 Shabnum M. Microbial profile and antibiotic susceptibility pattern of 
+orthopedic infections in a tertiary care hospital: a study from South India. 
+Int J Med Sci Public Health. 2017;6(5):838–42.
+	29.	 Mengesha RE, et al. Aerobic bacteria in post surgical wound infections 
+and pattern of their antimicrobial susceptibility in Ayder Teaching and 
+Referral Hospital, Mekelle, Ethiopia. BMC Res Notes. 2014;7(1):1–6.
+	30.	 Mohammed A, Adeshina GO, Ibrahim YK. Incidence and antibiotic sus-
+ceptibility pattern of bacterial isolates from wound infections in a tertiary 
+hospital in Nigeria. Trop J Pharm Res. 2013;12(4):617–21.
+	31.	 Shreeram G et al. Bacteriological profile and antibiogram of aerobic 
+wound infection isolates in tertiary health care centre. Int J Med Sci Educ. 
+2016;3(3).
+	32.	 Khanam RA, et al. Bacteriological profiles of pus with antimicrobial sensi-
+tivity pattern at a teaching hospital in Dhaka City, Bangladesh. J Infect Dis. 
+2018;5(1):10–4.
+	33.	 Maharjan N, Mahawal B. Bacteriological profile of wound infection and 
+antibiotic susceptibility pattern of various isolates in a tertiary care center. 
+J Lumbini Med College. 2020;8(2):7.
+	34.	 Pandeya U, et al. Bacteriological profile and antibiogram of bacterial iso-
+lates from pus samples in tertiary care hospital of Kathmandu. Tribhuvan 
+Univ J Microbiol. 2017;4:55–62.
+	35.	 Li G-Q, et al. Epidemiology and outcomes of surgical site infections fol-
+lowing orthopedic surgery. Am J Infect Control. 2013;41(12):1268–71.
+	36.	 Li B, Webster TJ. Bacteria antibiotic resistance: New challenges and oppor-
+tunities for implant-associated orthopedic infections. J Orthopaedic Res. 
+2018;36(1):22–32.
+	37.	 Godebo G, Kibru G, Tassew H. Multidrug-resistant bacterial isolates in 
+infected wounds at Jimma University Specialized Hospital, Ethiopia. Ann 
+Clin Microbiol Antimicrob. 2013;12(1):17.
+	38.	 Azene MK, Beyene BA. Bacteriology and antibiogram of pathogens from 
+wound infections at Dessie Laboratory, North East Ethiopia. Tanzania J 
+Health Res. 2011;13(4).
+	39.	 Aye EC et al. Microbiology of wound infections and its associated risk 
+factors among patients of a Tertiary hospital in Benin City, Nigeria. 2011.
+	40.	 Patel S, et al. Study of risk factors including NNIS risk index in surgical site 
+infections in abdominal surgeries. Gujarat Med J. 2011;66(1):42–5.
+	41.	 Kakati B et al. Surgical site abdominal wound infections: experience at a 
+north Indian tertiary care hospital. Indian Acad Clin Med. 2013.
+	42.	 Shahane V, Bhawal S, Lele MU. Surgical site infections: a one year prospec-
+tive study in a tertiary care center. Int J Health Sci. 2012;6(1):79.
+	43.	 Amare B, et al. Postoperative surgical site bacterial infections and drug 
+susceptibility patterns at Gondar University Teaching Hospital, Northwest 
+Ethiopia. J Bacteriol Parasitol. 2011;2(8):126.
+	44.	 Shriyan A, Sheetal R, Nayak N. Aerobic micro-organisms in post-operative 
+wound infections and their antimicrobial susceptibility patterns. J Clin 
+Diagn Res. 2010;4(6):3392–6.
+	45.	 Lubega A, Joel B, X, Justina Lucy N. Incidence and etiology of surgical site 
+infections among emergency postoperative patients in mbarara regional 
+referral hospital, South Western Uganda. Surg Res Pract. 2017.
+	46.	 Al-Mulhim FA, et al. Prevalence of surgical site infection in orthopedic 
+surgery: a 5-year analysis. Int Surg. 2014;99(3):264–8.
+	47.	 Mardanpour K, et al. Surgical site infections in orthopedic surgery: 
+incidence and risk factors at an Iranian teaching hospital. Clin Trials 
+Orthopedic Disord. 2017;2(4):132.
+	48.	 Carvalho RLRd et al. Incidence and risk factors for surgical site infection in 
+general surgeries. Rev Latino-Am Enfermagem. 2017;25.
+	49.	 AL-Aali K. Evaluation of surveillance for surgical site infections and drug 
+susceptibility patterns, Taif, Saudi Arabia. Ann Clin Lab Res. 2016;4:2.
+
+
+===== PAGE 10 =====
+
+Page 10 of 10
+Misha et al. Ann Clin Microbiol Antimicrob           (2021) 20:33 
+•
+ 
+fast, convenient online submission
+ 
+•
+  
+thorough peer review by experienced researchers in your ﬁeld
+• 
+ 
+rapid publication on acceptance
+• 
+ 
+support for research data, including large and complex data types
+•
+  
+gold Open Access which fosters wider collaboration and increased citations 
+ 
+maximum visibility for your research: over 100M website views per year 
+•
+  
+At BMC, research is always in progress.
+Learn more biomedcentral.com/submissions
+Ready to submit your research
+Ready to submit your research ?  Choose BMC and benefit from: 
+?  Choose BMC and benefit from: 
+	50.	 Tadesse S, et al. Antimicrobial resistance profile of Staphylococcus aureus 
+isolated from patients with infection at Tikur Anbessa specialized Hospi-
+tal, Addis Ababa, Ethiopia. BMC Pharmacol Toxicol. 2018;19(1):24.
+	51.	 Singh R, Singla P, Chaudhary U. Surgical site infections: classification, 
+risk factors, pathogenesis and preventive management. Int J Pharm Res 
+Health Sci. 2014;2:203–14.
+	52.	 Abraham Y, Wamisho BL. Microbial susceptibility of bacteria isolated from 
+open fracture wounds presenting to the err of black-lion hospital, Addis 
+Ababa University, Ethiopia. Afr J Microbiol Res. 2009;3(12):939–51.
+	53.	 Regasa B, Yilma D, Sewunet T. Antimicrobial susceptibility pattern of bac-
+terial isolates from community‑acquired pneumonia patients in Jimma 
+University Specialized Hospital, Jimma, Ethiopia. 2015.
+	54.	 Awoke N, Kassa T, Teshager L. Magnitude of biofilm formation and anti-
+microbial resistance pattern of bacteria isolated from urinary catheterized 
+inpatients of Jimma university medical center, Southwest Ethiopia. Int J 
+Microbiol. 2019;2019:1–9.
+	55.	 Diriba K, et al. In vitro biofilm formation and antibiotic susceptibility 
+patterns of bacteria from suspected external eye infected patients 
+attending ophthalmology clinic, Southwest Ethiopia. Int J Microbiol. 
+2020;2020:1–12.
+	56.	 Mama M, Abdissa A, Sewunet T. Antimicrobial susceptibility pattern of 
+bacterial isolates from wound infection and their sensitivity to alternative 
+topical agents at Jimma University Specialized Hospital, South-West 
+Ethiopia. Ann Clin Microbiol Antimicrob. 2014;13(1):1–10.
+	57.	 Gashaw M, et al. Emergence of high drug resistant bacterial isolates 
+from patients with health care associated infections at Jimma University 
+medical center: a cross sectional study. Antimicrob Resist Infect Control. 
+2018;7(1):1–8.
+	58.	 Bekele T, et al. Pseudomonas aeruginosa isolates and their antimicrobial 
+susceptibility pattern among catheterized patients at Jimma University 
+Teaching Hospital, Jimma, Ethiopia. BMC Res Notes. 2015;8(1):1–4.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.

@@ -1,0 +1,4469 @@
+{
+ "doc_id": "aaron-oladipo-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Aaron Oladipo et al..pdf",
+ "sha256": "1505cbe295beacc267b5f6ebbea7c910a60ffe0a57a40c151e74ca127febc76a",
+ "document_type": "pdf",
+ "n_pages": 10,
+ "pdf_metadata": {
+  "format": "PDF 1.7",
+  "title": "Microbiology testing capacity and antimicrobial drug resistance in surgical-site infections: a post-hoc, prospective, secondary analysis of the FALCON randomised trial in seven low-income and middle-income countries",
+  "author": "Aaron Oladipo Aboderin",
+  "subject": "The Lancet Global Health, 12 (2024) e1816-e1825. doi:10.1016/S2214-109X(24)00330-9",
+  "keywords": "",
+  "creator": "Elsevier",
+  "producer": "Adobe PDF Library 15.0",
+  "creationDate": "D:20241009044108+05'30'",
+  "modDate": "D:20241015153104+05'30'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:52+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "www.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1816\nArticles\nLancet Glob Health 2024; \n12: e1816–25\nPublished Online\nSeptember 5, 2024\nhttps://doi.org/10.1016/\nS2214-109X(24)00330-9\nSee Comment page e1744\nFor the French translation of the \nabstract see Online for \nappendix 1\nFor the Spanish translation of the \nabstract see Online for \nappendix 2\n*Collaborating authors are listed \nin appendix 3 (pp 117–122)\nCorrespondence to:\nDr Shereen Rachel Varghese, \nDepartment of Microbiology, \nChristian Medical College & \nHospital, Ludhiana 141008, India\nshereenrv@gmail.com\nor\nDr Elizabeth Li, NIHR Global \nHealth Research Unit on Global \nSurgery, Institute of Applied \nHealth Research, University of \nBirmingham, Birmingham \nB15 2TT, UK\ny.e.li@bham.ac.uk\nSee Online for appendix 3\nMicrobiology testing capacity and antimicrobial drug \nresistance in surgical-site infections: a post-hoc, prospective, \nsecondary analysis of the FALCON randomised trial in \nseven low-income and middle-income countries\nNIHR Global Health Research Unit on Global Surgery*\nSummary\nBackground Surgical-site infection (SSI) is one of the most common health-care-associated infections, substantially \ncontributing to antibiotic use. Targeted antibiotic prophylaxis to prevent SSIs and effective treatment are crucial to \ncontrolling antimicrobial resistance (AMR). This study aimed to describe the testing capacity and multidrug \nresistance (MDR) of SSI microorganisms in low-income and middle-income countries (LMICs).\nMethods This analysis included patients undergoing abdominal surgery in seven LMICs (Benin, Ghana, India, \nMexico, Nigeria, Rwanda, and South Africa) as part of the FALCON randomised controlled trial. Wound swabs were \ncollected from patients diagnosed with SSI, as per US Centers for Disease Control and Prevention (CDC) definition. \nData on microorganism species and MDR, as per CDC and European Centre for Disease Prevention and Control \ndefinitions, were analysed alongside hospital-level data on local microbiological practices. An adjusted analysis was \nperformed to identify perioperative factors associated with MDR. Testing capacity was assessed by the completion of \nswab testing in positively diagnosed SSIs.\nFindings Between Dec 10, 2018, and Sept 7, 2020, 5788 patients were recruited to the FALCON trial. 1163 patients were \ndiagnosed with an SSI, of whom 905 (77·8%) received prophylactic antibiotics before surgery. In patients with SSIs, \n935 of 1163 (80·4%) did not have a wound swab; 195 were from hospitals not performing swabs (15 hospitals) and \n740 were from hospitals with capacity but no swab performed (35 hospitals). Of 228 patients swabbed, 200 (88·5%) \nhad microorganisms detected. Escherichia coli (89 of 200, 37·9%) was the most common microorganism and \n116 of 200 (58·0%) patients were not covered by the perioperative prophylactic antibiotic. MDR was found in \n102 of 147 (69·4%) patients for whom data were available to determine MDR status. Adjusted analysis found that \nappropriate prophylactic antibiotic coverage (adjusted odds ratio 0·43, 95% CI 0·19–0·96) and regular availability of \ninfection control teams (0·32, 0·11–0·93) were associated with a significant reduction in MDR.\nInterpretation Targeted perioperative antibiotic prophylaxis during contaminated abdominal surgery is insufficient in \nLMICs, with very few SSI organisms undergoing formal diagnosis. Expansion of testing capacity, development of \nlocal guidelines, and implementation of infection control teams could support the prevention of SSI through directed \nantibiotic prophylaxis, subsequently reducing the burden of MDR.\nFunding National Institute for Health and Care Research.\nCopyright © 2024 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 \nlicense.\nIntroduction\nSurgical-site infection (SSI) is one of the most \ncommon health-care-associated infections globally \nand the most frequent postoperative complication,1,2 \naffecting 15–25% of all patients undergoing abdominal \nsurgery.2–4 Patients from low-income countries are \ndisproportionately affected (23·2%) compared with \nthose in middle-income (14·0%) and high-income \ncountries (9·4%).2 Because SSIs typically require \nantibiotic treatment, the development of SSIs increases \nthe need for additional antibiotic use. Therefore, SSI \nprevention and targeted antibiotics are key in controlling \nantimicrobial resistance (AMR). WHO guidelines \nstrongly recommend prophylactic antibiotics to prevent \nSSIs.5 However, inappropriate use is common. In the \npast two decades, the biggest growth in antibiotic use \nhas been in low-income and middle-income countries \n(LMICs),6 and a 165% rise in the use of second-line \nantibiotics—which are normally reserved for when \nfirst-line antibiotics fail— has been seen in these \nsettings.7 Antimicrobial-resistant SSIs have a higher \nincidence in low-income countries (35·9%) compared \nwith that in middle-income (19·8%) and high-income \ncountries (16·6%).2 WHO has declared that AMR is in \nthe top ten global public health threats facing humanity,8 \nand the Africa Centres for Disease Control and \n",
+   "n_chars": 5147,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      36.9,
+      772.5,
+      564.1,
+      781.0
+     ],
+     "text": "www.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1816\n"
+    },
+    {
+     "bbox": [
+      489.6,
+      29.8,
+      544.3,
+      51.8
+     ],
+     "text": "Articles\n"
+    },
+    {
+     "bbox": [
+      484.7,
+      250.3,
+      549.2,
+      267.0
+     ],
+     "text": "Lancet Glob Health 2024; \n12: e1816–25\n"
+    },
+    {
+     "bbox": [
+      484.7,
+      270.6,
+      548.6,
+      304.8
+     ],
+     "text": "Published Online\nSeptember 5, 2024\nhttps://doi.org/10.1016/\nS2214-109X(24)00330-9\n"
+    },
+    {
+     "bbox": [
+      484.7,
+      308.5,
+      550.9,
+      316.4
+     ],
+     "text": "See Comment page e1744\n"
+    },
+    {
+     "bbox": [
+      484.7,
+      320.1,
+      565.2,
+      345.5
+     ],
+     "text": "For the French translation of the \nabstract see Online for \nappendix 1\n"
+    },
+    {
+     "bbox": [
+      484.7,
+      349.1,
+      568.0,
+      374.6
+     ],
+     "text": "For the Spanish translation of the \nabstract see Online for \nappendix 2\n"
+    },
+    {
+     "bbox": [
+      484.7,
+      378.2,
+      566.3,
+      394.9
+     ],
+     "text": "*Collaborating authors are listed \nin appendix 3 (pp 117–122)\n"
+    },
+    {
+     "bbox": [
+      484.7,
+      398.6,
+      568.2,
+      450.3
+     ],
+     "text": "Correspondence to:\nDr Shereen Rachel Varghese, \nDepartment of Microbiology, \nChristian Medical College & \nHospital, Ludhiana 141008, India\nshereenrv@gmail.com\n"
+    },
+    {
+     "bbox": [
+      484.7,
+      453.9,
+      490.0,
+      461.9
+     ],
+     "text": "or\n"
+    },
+    {
+     "bbox": [
+      484.7,
+      465.5,
+      562.3,
+      525.9
+     ],
+     "text": "Dr Elizabeth Li, NIHR Global \nHealth Research Unit on Global \nSurgery, Institute of Applied \nHealth Research, University of \nBirmingham, Birmingham \nB15 2TT, UK\ny.e.li@bham.ac.uk\n"
+    },
+    {
+     "bbox": [
+      484.7,
+      529.6,
+      548.9,
+      537.5
+     ],
+     "text": "See Online for appendix 3\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      117.8,
+      479.0,
+      205.8
+     ],
+     "text": "Microbiology testing capacity and antimicrobial drug \nresistance in surgical-site infections: a post-hoc, prospective, \nsecondary analysis of the FALCON randomised trial in \nseven low-income and middle-income countries\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      215.2,
+      197.3,
+      225.5
+     ],
+     "text": "NIHR Global Health Research Unit on Global Surgery*\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      234.7,
+      478.5,
+      291.9
+     ],
+     "text": "Summary\nBackground Surgical-site infection (SSI) is one of the most common health-care-associated infections, substantially \ncontributing to antibiotic use. Targeted antibiotic prophylaxis to prevent SSIs and effective treatment are crucial to \ncontrolling antimicrobial resistance (AMR). This study aimed to describe the testing capacity and multidrug \nresistance (MDR) of SSI microorganisms in low-income and middle-income countries (LMICs).\n"
+    },
+    {
+     "bbox": [
+      36.8,
+      302.6,
+      478.5,
+      379.9
+     ],
+     "text": "Methods This analysis included patients undergoing abdominal surgery in seven LMICs (Benin, Ghana, India, \nMexico, Nigeria, Rwanda, and South Africa) as part of the FALCON randomised controlled trial. Wound swabs were \ncollected from patients diagnosed with SSI, as per US Centers for Disease Control and Prevention (CDC) definition. \nData on microorganism species and MDR, as per CDC and European Centre for Disease Prevention and Control \ndefinitions, were analysed alongside hospital-level data on local microbiological practices. An adjusted analysis was \nperformed to identify perioperative factors associated with MDR. Testing capacity was assessed by the completion of \nswab testing in positively diagnosed SSIs.\n"
+    },
+    {
+     "bbox": [
+      36.8,
+      390.6,
+      478.5,
+      489.9
+     ],
+     "text": "Findings Between Dec 10, 2018, and Sept 7, 2020, 5788 patients were recruited to the FALCON trial. 1163 patients were \ndiagnosed with an SSI, of whom 905 (77·8%) received prophylactic antibiotics before surgery. In patients with SSIs, \n935 of 1163 (80·4%) did not have a wound swab; 195 were from hospitals not performing swabs (15 hospitals) and \n740 were from hospitals with capacity but no swab performed (35 hospitals). Of 228 patients swabbed, 200 (88·5%) \nhad microorganisms detected. Escherichia coli (89 of 200, 37·9%) was the most common microorganism and \n116 of 200 (58·0%) patients were not covered by the perioperative prophylactic antibiotic. MDR was found in \n102 of 147 (69·4%) patients for whom data were available to determine MDR status. Adjusted analysis found that \nappropriate prophylactic antibiotic coverage (adjusted odds ratio 0·43, 95% CI 0·19–0·96) and regular availability of \ninfection control teams (0·32, 0·11–0·93) were associated with a significant reduction in MDR.\n"
+    },
+    {
+     "bbox": [
+      36.8,
+      500.6,
+      478.4,
+      544.9
+     ],
+     "text": "Interpretation Targeted perioperative antibiotic prophylaxis during contaminated abdominal surgery is insufficient in \nLMICs, with very few SSI organisms undergoing formal diagnosis. Expansion of testing capacity, development of \nlocal guidelines, and implementation of infection control teams could support the prevention of SSI through directed \nantibiotic prophylaxis, subsequently reducing the burden of MDR.\n"
+    },
+    {
+     "bbox": [
+      36.8,
+      555.6,
+      251.6,
+      566.9
+     ],
+     "text": "Funding National Institute for Health and Care Research.\n"
+    },
+    {
+     "bbox": [
+      36.8,
+      577.6,
+      478.5,
+      599.9
+     ],
+     "text": "Copyright © 2024 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 \nlicense.\n"
+    },
+    {
+     "bbox": [
+      36.8,
+      608.7,
+      253.1,
+      753.9
+     ],
+     "text": "Introduction\nSurgical-site infection (SSI) is one of the most \ncommon health-care-associated infections globally \nand the most frequent postoperative complication,1,2 \naffecting 15–25% of all patients undergoing abdominal \nsurgery.2–4 Patients from low-income countries are \ndisproportionately affected (23·2%) compared with \nthose in middle-income (14·0%) and high-income \ncountries (9·4%).2 Because SSIs typically require \nantibiotic treatment, the development of SSIs increases \nthe need for additional antibiotic use. Therefore, SSI \nprevention and targeted antibiotics are key in controlling \nantimicrobial resistance (AMR). WHO guidelines \n"
+    },
+    {
+     "bbox": [
+      262.2,
+      611.2,
+      478.5,
+      753.9
+     ],
+     "text": "strongly recommend prophylactic antibiotics to prevent \nSSIs.5 However, inappropriate use is common. In the \npast two decades, the biggest growth in antibiotic use \nhas been in low-income and middle-income countries \n(LMICs),6 and a 165% rise in the use of second-line \nantibiotics—which are normally reserved for when \nfirst-line antibiotics fail— has been seen in these \nsettings.7 Antimicrobial-resistant SSIs have a higher \nincidence in low-income countries (35·9%) compared \nwith that in middle-income (19·8%) and high-income \ncountries (16·6%).2 WHO has declared that AMR is in \nthe top ten global public health threats facing humanity,8 \nand the Africa Centres for Disease Control and \n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "Articles\ne1817\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\nPrevention identified AMR as an urgent public health \nthreat in 2023.9 The Fleming Fund (Department of \nHealth and Social Care, UK)10,11 aims to help LMICs gain \nknowledge and control of AMR by 2040. Management of \nSSIs, controlling antibiotic use, timely identification of \ncausative organisms, and reducing AMR will require \nsystem-wide approaches that target multiple factors \n(appendix 3 p 14).\nAlthough the development of AMR is a natural \nphenomenon, the inappropriate use of antimicrobial \ndrugs and poor infection prevention and control practices \ncontribute to the emergence of and further spread \nof AMR alongside an accelerated progression into \nmultidrug resistance (MDR).12 One systematic analysis \nof \nthe \nburden \nof \nAMR \nfound \nan \nestimated \n4·95 million deaths associated with bacterial AMR \nin the year 2019, with sub-Saharan Africa observing the \nhighest death rate of 27·3 per 100 deaths.13 As well as \nincreased mortality and morbidity, AMR is associated \nwith an increased length of hospital stay, difficulty \ntreating infections, high health-care costs, and risk of \ncatastrophic health expenditure for patients, particularly \nin LMICs.12,14\nThis study aimed to analyse the antibiotic susceptibility \nof bacteria in wound swabs of patients who developed an \nSSI and the microbiology testing capacity and \nantimicrobial practices of the facilities these patients \nwere admitted to during the FALCON randomised \ncontrolled \ntrial \n(a \n2 × 2 \nfactorial \ntrial \ntesting \ntwo interventions aimed at the prevention of SSIs).\nMethods\nStudy design\nThis study was a post-hoc prospective secondary analysis \nof a randomised controlled trial, with a protocol designed \nbefore data analysis.15 This study is reported according to \nthe STROBE statement (appendix 3 pp 16–20).16 The \nFALCON \ntrial \nevaluated \nthe \neffectiveness \nof \ntwo interventions (2% alcoholic chlorhexidine and \ntriclosan-coated sutures) recommended by WHO to \nreduce SSIs after abdominal surgery.4,5,15 Patient \nidentification, recruitment to the trial, and outcomes \nhave been comprehensively described in the FALCON \ntrial protocol and primary analysis (appendix 3 \npp 21–71).4,15 Here, we provide a summary of the main \ntrial.\nThe FALCON trial recruited all eligible, consecutive \npatients undergoing abdominal surgery with an incision \nof 5 cm or greater. The trial was undertaken in \n54 hospitals in seven countries (Benin, Ghana, India, \nMexico, Nigeria, Rwanda, and South Africa). Patients \nwere randomly assigned by a 2 × 2 factorial design to \nreceive \neither \n2% \nalcoholic \nchlorhexidine \nor \n10% aqueous povidone–iodine skin preparation, and \nResearch in context\nEvidence before this study\nSurgical-site infection (SSI) remains the most common \npostoperative complication and is associated with substantial \nmorbidity and mortality, particularly in low-resource settings. \nA search was conducted to identify studies of SSI that \ndescribed microorganisms and antibiotic resistance from low-\nincome and middle-income countries (LMICs), published \nbetween Jan 1, 2000, and Feb 16, 2023, with no restrictions on \nthe language of publication. We used the search terms “surgical \nsite infection”, “abdominal surgery”, and “microorganism” or \n“antibiotic resistance” or any equivalents to these on the \nMEDLINE, Embase, and Cochrane Library databases. This search \nidentified 153 full-text articles. We found no multicentre \nstudies reporting SSI microorganisms or microbiology testing \ncapacity in hospitals from LMICs. One report described \nantimicrobial resistance patterns in SSI from a single hospital \nin Kenya, and an interventional cohort study described \nantibiotic stewardship for SSI from India. The remaining \nevidence was largely single-centre or single-country \nobservational studies, commentary, and reviews, or was from \nhigh-income settings.\nAdded value of this study\nThis study provides prospective data from seven LMICs on \nantimicrobial use in SSIs, microorganism testing capacity, and \nantimicrobial resistance patterns, as a secondary analysis of the \nFALCON randomised controlled trial. The infrastructure of a \nmajor randomised trial allowed for a multicentre analysis that \nsubstantially adds to the current evidence from single-centre \nstudies. We found that whole-system weaknesses are common \nin the identification and prevention of multidrug \nresistance (MDR) in hospitals where surgery is performed in \nLMICs. Expansion of testing capacity, development of local \nguidelines, and implementation of infection control teams will \nsupport the prevention of SSI, the reduction of inappropriate \nantibiotic use, and the reduction of propagation of MDR \nthrough directed antibiotic prophylaxis.\nImplications of all the available evidence\nMDR in SSIs and limited microbial capacity are substantial \nproblems in LMICs, probably affecting most hospitals where \nsurgery is performed. When infections do occur, testing capacity \nis low, turnaround time is long, and MDR is high. Thus, \nundirected prophylactic antibiotic use before surgery that is \nineffective is common. This study has identified the pressing \nneed for an expansion of testing strategies, development of \nlocal antimicrobial guidelines (especially context-specific \nprophylaxis guidance), and dedicated infection control teams \nto tackle infection prevention and antimicrobial drug use. \nTargeted prophylactic antibiotic prevention of SSIs is central to \nimproved patient care and will be likely to have positive effects \nbeyond surgery alone.\n",
+   "n_chars": 5587,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      51.0,
+      35.7,
+      87.4,
+      50.4
+     ],
+     "text": "Articles\n"
+    },
+    {
+     "bbox": [
+      28.3,
+      772.5,
+      555.6,
+      781.0
+     ],
+     "text": "e1817\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\n"
+    },
+    {
+     "bbox": [
+      119.1,
+      457.2,
+      335.3,
+      544.9
+     ],
+     "text": "Prevention identified AMR as an urgent public health \nthreat in 2023.9 The Fleming Fund (Department of \nHealth and Social Care, UK)10,11 aims to help LMICs gain \nknowledge and control of AMR by 2040. Management of \nSSIs, controlling antibiotic use, timely identification of \ncausative organisms, and reducing AMR will require \nsystem-wide approaches that target multiple factors \n(appendix 3 p 14).\n"
+    },
+    {
+     "bbox": [
+      119.1,
+      545.2,
+      335.3,
+      709.9
+     ],
+     "text": "Although the development of AMR is a natural \nphenomenon, the inappropriate use of antimicrobial \ndrugs and poor infection prevention and control practices \ncontribute to the emergence of and further spread \nof AMR alongside an accelerated progression into \nmultidrug resistance (MDR).12 One systematic analysis \nof \nthe \nburden \nof \nAMR \nfound \nan \nestimated \n4·95 million deaths associated with bacterial AMR \nin the year 2019, with sub-Saharan Africa observing the \nhighest death rate of 27·3 per 100 deaths.13 As well as \nincreased mortality and morbidity, AMR is associated \nwith an increased length of hospital stay, difficulty \ntreating infections, high health-care costs, and risk of \ncatastrophic health expenditure for patients, particularly \nin LMICs.12,14\n"
+    },
+    {
+     "bbox": [
+      119.1,
+      710.2,
+      335.4,
+      753.9
+     ],
+     "text": "This study aimed to analyse the antibiotic susceptibility \nof bacteria in wound swabs of patients who developed an \nSSI and the microbiology testing capacity and \nantimicrobial practices of the facilities these patients \n"
+    },
+    {
+     "bbox": [
+      344.4,
+      457.2,
+      560.7,
+      489.9
+     ],
+     "text": "were admitted to during the FALCON randomised \ncontrolled \ntrial \n(a \n2 × 2 \nfactorial \ntrial \ntesting \ntwo interventions aimed at the prevention of SSIs).\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      498.7,
+      560.7,
+      665.9
+     ],
+     "text": "Methods\nStudy design\nThis study was a post-hoc prospective secondary analysis \nof a randomised controlled trial, with a protocol designed \nbefore data analysis.15 This study is reported according to \nthe STROBE statement (appendix 3 pp 16–20).16 The \nFALCON \ntrial \nevaluated \nthe \neffectiveness \nof \ntwo interventions (2% alcoholic chlorhexidine and \ntriclosan-coated sutures) recommended by WHO to \nreduce SSIs after abdominal surgery.4,5,15 Patient \nidentification, recruitment to the trial, and outcomes \nhave been comprehensively described in the FALCON \ntrial protocol and primary analysis (appendix 3 \npp 21–71).4,15 Here, we provide a summary of the main \ntrial.\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      666.2,
+      560.7,
+      753.9
+     ],
+     "text": "The FALCON trial recruited all eligible, consecutive \npatients undergoing abdominal surgery with an incision \nof 5 cm or greater. The trial was undertaken in \n54 hospitals in seven countries (Benin, Ghana, India, \nMexico, Nigeria, Rwanda, and South Africa). Patients \nwere randomly assigned by a 2 × 2 factorial design to \nreceive \neither \n2% \nalcoholic \nchlorhexidine \nor \n10% aqueous povidone–iodine skin preparation, and \n"
+    },
+    {
+     "bbox": [
+      127.3,
+      134.5,
+      194.0,
+      144.9
+     ],
+     "text": "Research in context\n"
+    },
+    {
+     "bbox": [
+      127.3,
+      151.2,
+      334.4,
+      381.5
+     ],
+     "text": "Evidence before this study\nSurgical-site infection (SSI) remains the most common \npostoperative complication and is associated with substantial \nmorbidity and mortality, particularly in low-resource settings. \nA search was conducted to identify studies of SSI that \ndescribed microorganisms and antibiotic resistance from low-\nincome and middle-income countries (LMICs), published \nbetween Jan 1, 2000, and Feb 16, 2023, with no restrictions on \nthe language of publication. We used the search terms “surgical \nsite infection”, “abdominal surgery”, and “microorganism” or \n“antibiotic resistance” or any equivalents to these on the \nMEDLINE, Embase, and Cochrane Library databases. This search \nidentified 153 full-text articles. We found no multicentre \nstudies reporting SSI microorganisms or microbiology testing \ncapacity in hospitals from LMICs. One report described \nantimicrobial resistance patterns in SSI from a single hospital \nin Kenya, and an interventional cohort study described \nantibiotic stewardship for SSI from India. The remaining \nevidence was largely single-centre or single-country \nobservational studies, commentary, and reviews, or was from \nhigh-income settings.\n"
+    },
+    {
+     "bbox": [
+      127.3,
+      387.8,
+      332.3,
+      431.2
+     ],
+     "text": "Added value of this study\nThis study provides prospective data from seven LMICs on \nantimicrobial use in SSIs, microorganism testing capacity, and \nantimicrobial resistance patterns, as a secondary analysis of the \n"
+    },
+    {
+     "bbox": [
+      345.1,
+      151.1,
+      549.1,
+      271.5
+     ],
+     "text": "FALCON randomised controlled trial. The infrastructure of a \nmajor randomised trial allowed for a multicentre analysis that \nsubstantially adds to the current evidence from single-centre \nstudies. We found that whole-system weaknesses are common \nin the identification and prevention of multidrug \nresistance (MDR) in hospitals where surgery is performed in \nLMICs. Expansion of testing capacity, development of local \nguidelines, and implementation of infection control teams will \nsupport the prevention of SSI, the reduction of inappropriate \nantibiotic use, and the reduction of propagation of MDR \nthrough directed antibiotic prophylaxis.\n"
+    },
+    {
+     "bbox": [
+      345.1,
+      277.8,
+      552.5,
+      431.2
+     ],
+     "text": "Implications of all the available evidence\nMDR in SSIs and limited microbial capacity are substantial \nproblems in LMICs, probably affecting most hospitals where \nsurgery is performed. When infections do occur, testing capacity \nis low, turnaround time is long, and MDR is high. Thus, \nundirected prophylactic antibiotic use before surgery that is \nineffective is common. This study has identified the pressing \nneed for an expansion of testing strategies, development of \nlocal antimicrobial guidelines (especially context-specific \nprophylaxis guidance), and dedicated infection control teams \nto tackle infection prevention and antimicrobial drug use. \nTargeted prophylactic antibiotic prevention of SSIs is central to \nimproved patient care and will be likely to have positive effects \nbeyond surgery alone.\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "Articles\nwww.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1818\neither triclosan-coated sutures or non-coated sutures. \nPatients were stratified by level of intraoperative \ncontamination (appendix 3 p 2). Those undergoing \nclean operations (in which the gastrointestinal tract is \nnot entered) were excluded. Patient demographics (age, \nsex, diabetes status, smoking status, HIV status, and \nAmerican Society of Anesthesiologists [ASA] grade), \nperioperative factors (including urgency, contamination, \nand whether prophylactic antibiotics were given), and \n30-day postoperative follow-up data (including SSI and \nmicrobiology swab data) were prospectively collected. \nPatients provided written informed consent, which \nincluded the use of collected data in all secondary \nanalyses. Approval for this analysis was given by \nthe FALCON trial management group. FALCON was \napproved by the University of Birmingham Research \nEthics Committee (ERN_180230). Ethics and regulatory \napprovals in each participating country were sought in \nline with regional or national regulations, or both. The \ntrial was prospectively registered at ClinicalTrials.gov, \nNCT03700749.\nMicrobiology analysis\nPatients with a diagnosis of SSI (as per the US Centers \nfor Disease Control and Prevention [CDC] criteria for \nSSI)17 were included in this analysis. This analysis is \nbased on the presumption that all patients who have a \nconfirmed SSI diagnosis should have a wound swab \ntaken for microbiological analysis so that the infective \norganisms can be identified, and microorganism \nantibiotic susceptibility testing can be performed to \nenable directed antibiotic use (thereby reducing use of \nempirical broad-spectrum antibiotics). However, there \nwas no stipulation in the trial protocol that patients must \nhave wound swabs. The full patient inclusion and \nexclusion criteria of the FALCON trial are presented in \nappendix 3 (p 3). The decision to swab an SSI was \npresumptively determined by local clinical practices, \npatient’s choice, or patient’s ability to afford the test, \nalthough data on reasoning for decisions were not \ncollected. \nMicrobiological \ncultures \nand \nantibiotic \nsusceptibility and AMR testing were carried out in local \nmicrobiology facilities. Susceptibility was defined \naccording to the Clinical and Laboratory Standards \nInstitute and the European Committee on Antimicrobial \nSusceptibility Testing guidelines.18 Non-bacterial isolates, \nsuch as yeast, were excluded from analysis. The \nmicrobiology results were categorised according to: \nMDR profiles of isolates; number of isolates in swabs; \nand whether isolates were endogenous to gut flora, skin \nflora, or both. MDR categorisation was performed based \non these data. Analyses were performed on MDR and \nnon-MDR isolates, whether swabs grew monomicrobial \nor polymicrobial cultures, and whether isolated \npathogens were endogenous to gut and skin flora. These \nvariables were analysed against patient demographics, \noperative factors, and patient outcomes. Duplicate data \nwere removed and there were no allowances for \nmultiplicity for this analysis.\nMDR was defined as “acquired non-susceptibility to at \nleast one agent in three or more antimicrobial categories”19 \nand was calculated according to the European Centre for \nDisease Prevention and Control and CDC criteria. If there \nwere not enough antibiotic categories tested, the \norganisms were categorised as being unknown due to \ninsufficient data. Further subcategorisation of MDR \norganisms as extremely drug resistant or pan-drug \nresistant was not done. If a wound swab contained more \n5788 patients in FALCON trial\n4120 excluded due to no SSI\n1047 allocated to alcoholic chlorhexidine and triclosan-coated \nsuture\n987 allocated to alcoholic chlorhexidine and non-coated suture\n994 allocated to povidone–iodine and triclosan-coated suture\n976 allocated to povidone–iodine and non-coated suture\n116 missing\n505 excluded due to loss to follow-up, death, or missing primary \noutcome data\n935 with no swab taken\n206 allocated to alcoholic chlorhexidine and triclosan-coated \nsuture\n240 allocated to alcoholic chlorhexidine and non-coated suture\n236 allocated to povidone–iodine and triclosan-coated suture\n230 allocated to povidone–iodine and non-coated suture\n23 missing\n28 with no microorganism grown from swab\n9 allocated to alcoholic chlorhexidine and triclosan-coated \nsuture\n3 allocated to alcoholic chlorhexidine and non-coated suture\n9 allocated to povidone–iodine and triclosan-coated suture\n6 allocated to povidone–iodine and non-coated suture\n1 missing\n1163 with SSI\n266 allocated to alcoholic chlorhexidine and triclosan-coated suture\n286 allocated to alcoholic chlorhexidine and non-coated suture\n300 allocated to povidone–iodine and triclosan-coated suture\n284 allocated to povidone–iodine and non-coated suture\n27 missing\n228 with swab taken\n60 allocated to alcoholic chlorhexidine and triclosan-coated suture\n46 allocated to alcoholic chlorhexidine and non-coated suture\n64 allocated to povidone–iodine and triclosan-coated suture\n54 allocated to povidone–iodine and non-coated suture\n4 missing\n200 with microorganism grown from swab\n51 allocated to alcoholic chlorhexidine and triclosan-coated suture\n43 allocated to alcoholic chlorhexidine and non-coated suture\n55 allocated to povidone–iodine and triclosan-coated suture\n48 allocated to povidone–iodine and non-coated suture\n3 missing\nFigure 1: Patients from the FALCON randomised controlled trial included in these analyses\nA complete analysis of patients with and without SSIs has been previously reported.4 This study focuses on \npatients with SSIs and microbiology testing of wound swabs. SSI=surgical-site infection. \n",
+   "n_chars": 5722,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      507.8,
+      35.7,
+      544.3,
+      50.4
+     ],
+     "text": "Articles\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      772.5,
+      564.1,
+      781.0
+     ],
+     "text": "www.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1818\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      127.2,
+      253.1,
+      357.9
+     ],
+     "text": "either triclosan-coated sutures or non-coated sutures. \nPatients were stratified by level of intraoperative \ncontamination (appendix 3 p 2). Those undergoing \nclean operations (in which the gastrointestinal tract is \nnot entered) were excluded. Patient demographics (age, \nsex, diabetes status, smoking status, HIV status, and \nAmerican Society of Anesthesiologists [ASA] grade), \nperioperative factors (including urgency, contamination, \nand whether prophylactic antibiotics were given), and \n30-day postoperative follow-up data (including SSI and \nmicrobiology swab data) were prospectively collected. \nPatients provided written informed consent, which \nincluded the use of collected data in all secondary \nanalyses. Approval for this analysis was given by \nthe FALCON trial management group. FALCON was \napproved by the University of Birmingham Research \nEthics Committee (ERN_180230). Ethics and regulatory \napprovals in each participating country were sought in \nline with regional or national regulations, or both. The \ntrial was prospectively registered at ClinicalTrials.gov, \nNCT03700749.\n"
+    },
+    {
+     "bbox": [
+      36.8,
+      368.2,
+      253.1,
+      753.9
+     ],
+     "text": "Microbiology analysis\nPatients with a diagnosis of SSI (as per the US Centers \nfor Disease Control and Prevention [CDC] criteria for \nSSI)17 were included in this analysis. This analysis is \nbased on the presumption that all patients who have a \nconfirmed SSI diagnosis should have a wound swab \ntaken for microbiological analysis so that the infective \norganisms can be identified, and microorganism \nantibiotic susceptibility testing can be performed to \nenable directed antibiotic use (thereby reducing use of \nempirical broad-spectrum antibiotics). However, there \nwas no stipulation in the trial protocol that patients must \nhave wound swabs. The full patient inclusion and \nexclusion criteria of the FALCON trial are presented in \nappendix 3 (p 3). The decision to swab an SSI was \npresumptively determined by local clinical practices, \npatient’s choice, or patient’s ability to afford the test, \nalthough data on reasoning for decisions were not \ncollected. \nMicrobiological \ncultures \nand \nantibiotic \nsusceptibility and AMR testing were carried out in local \nmicrobiology facilities. Susceptibility was defined \naccording to the Clinical and Laboratory Standards \nInstitute and the European Committee on Antimicrobial \nSusceptibility Testing guidelines.18 Non-bacterial isolates, \nsuch as yeast, were excluded from analysis. The \nmicrobiology results were categorised according to: \nMDR profiles of isolates; number of isolates in swabs; \nand whether isolates were endogenous to gut flora, skin \nflora, or both. MDR categorisation was performed based \non these data. Analyses were performed on MDR and \nnon-MDR isolates, whether swabs grew monomicrobial \nor polymicrobial cultures, and whether isolated \npathogens were endogenous to gut and skin flora. These \nvariables were analysed against patient demographics, \noperative factors, and patient outcomes. Duplicate data \n"
+    },
+    {
+     "bbox": [
+      262.2,
+      633.2,
+      478.5,
+      654.9
+     ],
+     "text": "were removed and there were no allowances for \nmultiplicity for this analysis.\n"
+    },
+    {
+     "bbox": [
+      262.2,
+      655.2,
+      478.5,
+      753.9
+     ],
+     "text": "MDR was defined as “acquired non-susceptibility to at \nleast one agent in three or more antimicrobial categories”19 \nand was calculated according to the European Centre for \nDisease Prevention and Control and CDC criteria. If there \nwere not enough antibiotic categories tested, the \norganisms were categorised as being unknown due to \ninsufficient data. Further subcategorisation of MDR \norganisms as extremely drug resistant or pan-drug \nresistant was not done. If a wound swab contained more \n"
+    },
+    {
+     "bbox": [
+      273.4,
+      138.1,
+      347.4,
+      146.1
+     ],
+     "text": "5788 patients in FALCON trial\n"
+    },
+    {
+     "bbox": [
+      382.1,
+      165.8,
+      554.7,
+      236.2
+     ],
+     "text": "4120 excluded due to no SSI\n1047 allocated to alcoholic chlorhexidine and triclosan-coated \nsuture\n987 allocated to alcoholic chlorhexidine and non-coated suture\n994 allocated to povidone–iodine and triclosan-coated suture\n976 allocated to povidone–iodine and non-coated suture\n116 missing\n505 excluded due to loss to follow-up, death, or missing primary \noutcome data\n"
+    },
+    {
+     "bbox": [
+      385.8,
+      320.9,
+      552.9,
+      375.6
+     ],
+     "text": "935 with no swab taken\n206 allocated to alcoholic chlorhexidine and triclosan-coated \nsuture\n240 allocated to alcoholic chlorhexidine and non-coated suture\n236 allocated to povidone–iodine and triclosan-coated suture\n230 allocated to povidone–iodine and non-coated suture\n23 missing\n"
+    },
+    {
+     "bbox": [
+      388.6,
+      460.1,
+      546.0,
+      514.9
+     ],
+     "text": "28 with no microorganism grown from swab\n9 allocated to alcoholic chlorhexidine and triclosan-coated \nsuture\n3 allocated to alcoholic chlorhexidine and non-coated suture\n9 allocated to povidone–iodine and triclosan-coated suture\n6 allocated to povidone–iodine and non-coated suture\n1 missing\n"
+    },
+    {
+     "bbox": [
+      273.4,
+      255.2,
+      455.1,
+      302.1
+     ],
+     "text": "1163 with SSI\n266 allocated to alcoholic chlorhexidine and triclosan-coated suture\n286 allocated to alcoholic chlorhexidine and non-coated suture\n300 allocated to povidone–iodine and triclosan-coated suture\n284 allocated to povidone–iodine and non-coated suture\n27 missing\n"
+    },
+    {
+     "bbox": [
+      276.4,
+      394.4,
+      451.5,
+      441.3
+     ],
+     "text": "228 with swab taken\n60 allocated to alcoholic chlorhexidine and triclosan-coated suture\n46 allocated to alcoholic chlorhexidine and non-coated suture\n64 allocated to povidone–iodine and triclosan-coated suture\n54 allocated to povidone–iodine and non-coated suture\n4 missing\n"
+    },
+    {
+     "bbox": [
+      276.5,
+      533.6,
+      450.7,
+      580.6
+     ],
+     "text": "200 with microorganism grown from swab\n51 allocated to alcoholic chlorhexidine and triclosan-coated suture\n43 allocated to alcoholic chlorhexidine and non-coated suture\n55 allocated to povidone–iodine and triclosan-coated suture\n48 allocated to povidone–iodine and non-coated suture\n3 missing\n"
+    },
+    {
+     "bbox": [
+      262.2,
+      594.1,
+      545.4,
+      620.1
+     ],
+     "text": "Figure 1: Patients from the FALCON randomised controlled trial included in these analyses\nA complete analysis of patients with and without SSIs has been previously reported.4 This study focuses on \npatients with SSIs and microbiology testing of wound swabs. SSI=surgical-site infection. \n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Articles\ne1819\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\nthan one microorganism within a mixture of isolates, it \nwas dichotomised and classified as MDR if there was \none or more MDR isolate in the swab. When wound swab \ntesting was insufficient to reliably classify the bacterial \nisolates, they were excluded from the MDR analysis. \nThe hospital-level survey also addressed MDR by \nrequesting information on whether participating hospitals \nroutinely screened for methicillin-resistant Staphylococcus \naureus, extended spectrum beta-lactamase, carbapenem-\nresistant Enterobacteriaceae, and vancomycin-resistant \nEnterococcus.\nOutcomes and procedures\nThe primary outcomes were the incidence of MDR \nmicroorganisms in abdominal SSI swabs and the patient, \noperative, or system-wide factors associated with these \nMDR SSIs. Secondary outcomes, compared across \ncountries and levels of intraoperative contamination, \nwere: microbiological testing practices and capacity \nacross different types of health-care facility; characteristics \nof isolated microorganisms, including the genus and \nspecies, Gram stain, origin, and the association with the \nlevel of intraoperative contamination; and patterns of \nantibiotic susceptibility and resistance in microorganisms \nisolated from wound swabs.\nResistance was calculated as a percentage, with a \nhigher rate of susceptibility or resistance if the result was \ncloser or equal to 100%, and a lower rate of susceptibility \nand resistance if closer or equal to 0%: antibiotic \nresistance=number of times microorganism is resistant \nto antibiotics / total number of microorganisms × 100%.\nA hospital-level survey was developed to capture key \ndatapoints not available from the FALCON data, to \nfacilitate a more complete descriptive analysis. This \nsurvey was conducted after the completion of the trial. To \ndetermine the key datapoints, five international forums \nwere held between January, 2021, and May, 2022. These \nwere attended by 18 experts, consisting of microbiologists \nand surgeons from seven LMIC hospitals. Discussion \nfocused on gaps in knowledge, high-utility data, key \ncomparators, and global standards. These datapoints \nwere then iteratively codeveloped and refined into a \nhospital-level survey (appendix 3 pp 27–33) by a core \ngroup of four microbiologists and the central research \nteam. Infrastructure and processing resources identified \nas core service components to ensure high-quality \nmicrobiology care were captured. These components \nincluded wound swabbing procedures, susceptibility \ntesting definitions, culture media, transport practices, \nturnover \ntimes, \nstandard \nantibiotic \nprophylaxis, \nsusceptibility \ntesting \nantibiotics, \nAMR \npathogen \nscreening, antimicrobial surveillance, and availability of \ninfection control teams. This assessment of local capacity \nand surveillance systems provided an international, real-\nworld snapshot of microbiological capacity.\nThe survey was sent to all participating hospitals with \ntesting capacity in May, 2022. Any member of staff, either \nPatients with SSI, included in the analyses of this \nstudy\nPatients without \nSSI, excluded from \nthe analyses of this \nstudy (n=4120)\nNo swab taken \n(n=935)\nSwab taken \n(n=228)\nTotal\n(n=1163)\nPatient demographics\nAge, years\nMean (SD)\n35·6 (18·3)\n33·0 (18·3)\n35·1 (18·3)\n33·3 (16·1)\nRange\n0–87\n0–80\n0–87\n0–89\nSex\nFemale\n539 (57·6%)\n107 (46·9%)\n646 (55·5%)\n2700 (65·5%)\nMale\n396 (42·4%)\n121 (53·1%)\n517 (44·5%)\n1419 (34·5%)\nMissing\n0\n0\n0\n1\nASA physical status\nGrade 1–2\n678 (72·6%)\n153 (67·1%)\n831 (71·5%)\n3658 (88·8%)\nGrade 3–5\n256 (27·4%)\n75 (32·9%)\n331 (28·5%)\n461 (11·2%)\nMissing\n1 \n0\n1 \n1\nKnown diabetes\nNo\n889 (95·1%)\n213 (93·4%)\n1102 (94·8%)\n3988 (96·9%)\nYes\n46 (4·9%)\n15 (6·6%)\n61 (5·2%)\n127 (3·1%)\nMissing\n0\n0\n0\n5\nSmoking\nNo\n862 (92·2%)\n212 (93·0%)\n1074 (92·3%)\n3896 (94·6%)\nYes\n73 (7·8%)\n16 (7·0%)\n89 (7·7%)\n221 (5·4%)\nMissing\n0\n0\n0\n3\nHIV status\nKnown negative\n490 (52·4%)\n118 (51·8%)\n608 (52·3%)\n2380 (57·8%)\nKnown positive\n21 (2·2%)\n3 (1·3%)\n24 (2·1%)\n91 (2·2%)\nUnknown\n424 (45·3%)\n107 (46·9%)\n531 (45·7%)\n1648 (40·0%)\nMissing\n0\n0\n0\n1\nIndication for surgery\nBenign disease\n632 (67·7%)\n188 (82·5%)\n820 (70·6%)\n2262 (54·9%)\nMalignant disease\n91 (9·7%)\n20 (8·8%)\n111 (9·6%)\n256 (6·2%)\nObstetric\n179 (19·2%)\n11 (4·8%)\n190 (16·4%)\n1492 (36·2%)\nTrauma\n32 (3·4%)\n9 (3·9%)\n41 (3·5%)\n107 (2·6%)\nMissing\n1\n0\n1\n3\nOperative factors\nTiming of surgery\nElective\n287 (30·7%)\n53 (23·2%)\n340 (29·2%)\n1466 (35·6%)\nEmergency\n648 (69·3%)\n175 (76·8%)\n823 (70·8%)\n2654 (64·4%)\nProphylactic antibiotics\nNo\n235 (25·1%)\n23 (10·1%)\n258 (22·2%)\n784 (19·0%)\nYes\n700 (74·9%)\n205 (89·9%)\n905 (77·8%)\n3336 (81·0%)\nCefepime plus \nmetronidazole\n48 (5·1%)\n13 (5·7%)\n61 (5·2%)\n230 (5·6%)\nCeftriaxone\n247 (26·4%)\n41 (18·0%)\n288 (24·8%)\n1083 (26·3%)\nCeftriaxone plus \nmetronidazole\n153 (16·4%)\n35 (15·4%)\n188 (16·2%)\n754 (18·3%)\nCefuroxime plus \nceftazidime\n36 (3·9%)\n21 (9·2%)\n57 (4·9%)\n66 (1·6%)\nCiprofloxacin plus \nmetronidazole\n70 (7·5%)\n17 (7·5%)\n87 (7·5%)\n400 (9·7%)\nOther\n146 (15·6%)\n78 (34·2%)\n224 (19·3%)\n803 (19·5%)\n(Table continues on next page)\n",
+   "n_chars": 5100,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      51.0,
+      35.7,
+      87.4,
+      50.4
+     ],
+     "text": "Articles\n"
+    },
+    {
+     "bbox": [
+      28.3,
+      772.5,
+      555.6,
+      781.0
+     ],
+     "text": "e1819\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      127.2,
+      560.7,
+      247.9
+     ],
+     "text": "than one microorganism within a mixture of isolates, it \nwas dichotomised and classified as MDR if there was \none or more MDR isolate in the swab. When wound swab \ntesting was insufficient to reliably classify the bacterial \nisolates, they were excluded from the MDR analysis. \nThe hospital-level survey also addressed MDR by \nrequesting information on whether participating hospitals \nroutinely screened for methicillin-resistant Staphylococcus \naureus, extended spectrum beta-lactamase, carbapenem-\nresistant Enterobacteriaceae, and vancomycin-resistant \nEnterococcus.\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      258.2,
+      560.7,
+      401.9
+     ],
+     "text": "Outcomes and procedures\nThe primary outcomes were the incidence of MDR \nmicroorganisms in abdominal SSI swabs and the patient, \noperative, or system-wide factors associated with these \nMDR SSIs. Secondary outcomes, compared across \ncountries and levels of intraoperative contamination, \nwere: microbiological testing practices and capacity \nacross different types of health-care facility; characteristics \nof isolated microorganisms, including the genus and \nspecies, Gram stain, origin, and the association with the \nlevel of intraoperative contamination; and patterns of \nantibiotic susceptibility and resistance in microorganisms \nisolated from wound swabs.\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      402.2,
+      560.7,
+      467.9
+     ],
+     "text": "Resistance was calculated as a percentage, with a \nhigher rate of susceptibility or resistance if the result was \ncloser or equal to 100%, and a lower rate of susceptibility \nand resistance if closer or equal to 0%: antibiotic \nresistance=number of times microorganism is resistant \nto antibiotics / total number of microorganisms × 100%.\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      468.2,
+      560.7,
+      731.9
+     ],
+     "text": "A hospital-level survey was developed to capture key \ndatapoints not available from the FALCON data, to \nfacilitate a more complete descriptive analysis. This \nsurvey was conducted after the completion of the trial. To \ndetermine the key datapoints, five international forums \nwere held between January, 2021, and May, 2022. These \nwere attended by 18 experts, consisting of microbiologists \nand surgeons from seven LMIC hospitals. Discussion \nfocused on gaps in knowledge, high-utility data, key \ncomparators, and global standards. These datapoints \nwere then iteratively codeveloped and refined into a \nhospital-level survey (appendix 3 pp 27–33) by a core \ngroup of four microbiologists and the central research \nteam. Infrastructure and processing resources identified \nas core service components to ensure high-quality \nmicrobiology care were captured. These components \nincluded wound swabbing procedures, susceptibility \ntesting definitions, culture media, transport practices, \nturnover \ntimes, \nstandard \nantibiotic \nprophylaxis, \nsusceptibility \ntesting \nantibiotics, \nAMR \npathogen \nscreening, antimicrobial surveillance, and availability of \ninfection control teams. This assessment of local capacity \nand surveillance systems provided an international, real-\nworld snapshot of microbiological capacity.\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      732.1,
+      560.7,
+      753.9
+     ],
+     "text": "The survey was sent to all participating hospitals with \ntesting capacity in May, 2022. Any member of staff, either \n"
+    },
+    {
+     "bbox": [
+      123.9,
+      137.9,
+      261.7,
+      154.9
+     ],
+     "text": "Patients with SSI, included in the analyses of this \nstudy\n"
+    },
+    {
+     "bbox": [
+      271.4,
+      137.9,
+      325.3,
+      171.9
+     ],
+     "text": "Patients without \nSSI, excluded from \nthe analyses of this \nstudy (n=4120)\n"
+    },
+    {
+     "bbox": [
+      123.9,
+      176.9,
+      164.6,
+      194.0
+     ],
+     "text": "No swab taken \n(n=935)\n"
+    },
+    {
+     "bbox": [
+      173.2,
+      176.9,
+      205.2,
+      194.0
+     ],
+     "text": "Swab taken \n(n=228)\n"
+    },
+    {
+     "bbox": [
+      221.7,
+      176.9,
+      246.6,
+      194.0
+     ],
+     "text": "Total\n(n=1163)\n"
+    },
+    {
+     "bbox": [
+      37.1,
+      199.0,
+      99.3,
+      207.5
+     ],
+     "text": "Patient demographics\n"
+    },
+    {
+     "bbox": [
+      37.1,
+      210.3,
+      64.1,
+      218.8
+     ],
+     "text": "Age, years\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      221.6,
+      307.8,
+      230.1
+     ],
+     "text": "Mean (SD)\n35·6 (18·3)\n33·0 (18·3)\n35·1 (18·3)\n33·3 (16·1)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      232.8,
+      295.8,
+      241.4
+     ],
+     "text": "Range\n0–87\n0–80\n0–87\n0–89\n"
+    },
+    {
+     "bbox": [
+      37.1,
+      244.1,
+      46.4,
+      252.7
+     ],
+     "text": "Sex\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      255.4,
+      308.2,
+      264.0
+     ],
+     "text": "Female\n539 (57·6%)\n107 (46·9%)\n646 (55·5%)\n2700 (65·5%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      266.7,
+      308.1,
+      275.2
+     ],
+     "text": "Male\n396 (42·4%)\n121 (53·1%)\n517 (44·5%)\n1419 (34·5%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      278.0,
+      285.6,
+      286.5
+     ],
+     "text": "Missing\n0\n0\n0\n1\n"
+    },
+    {
+     "bbox": [
+      37.1,
+      289.3,
+      88.8,
+      297.8
+     ],
+     "text": "ASA physical status\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      300.5,
+      309.1,
+      309.1
+     ],
+     "text": "Grade 1–2\n678 (72·6%)\n153 (67·1%)\n831 (71·5%)\n3658 (88·8%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      311.8,
+      307.3,
+      320.4
+     ],
+     "text": "Grade 3–5\n256 (27·4%)\n75 (32·9%)\n331 (28·5%)\n461 (11·2%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      323.1,
+      285.6,
+      331.7
+     ],
+     "text": "Missing\n1 \n0\n1 \n1\n"
+    },
+    {
+     "bbox": [
+      37.1,
+      334.4,
+      79.9,
+      343.0
+     ],
+     "text": "Known diabetes\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      345.7,
+      309.6,
+      354.2
+     ],
+     "text": "No\n889 (95·1%)\n213 (93·4%)\n1102 (94·8%)\n3988 (96·9%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      357.0,
+      304.2,
+      365.5
+     ],
+     "text": "Yes\n46 (4·9%)\n15 (6·6%)\n61 (5·2%)\n127 (3·1%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      368.3,
+      285.6,
+      376.8
+     ],
+     "text": "Missing\n0\n0\n0\n5\n"
+    },
+    {
+     "bbox": [
+      37.2,
+      379.5,
+      61.1,
+      388.1
+     ],
+     "text": "Smoking\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      390.8,
+      309.5,
+      399.4
+     ],
+     "text": "No\n862 (92·2%)\n212 (93·0%)\n1074 (92·3%)\n3896 (94·6%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      402.1,
+      304.7,
+      410.7
+     ],
+     "text": "Yes\n73 (7·8%)\n16 (7·0%)\n89 (7·7%)\n221 (5·4%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      413.4,
+      285.6,
+      421.9
+     ],
+     "text": "Missing\n0\n0\n0\n3\n"
+    },
+    {
+     "bbox": [
+      37.2,
+      424.7,
+      64.5,
+      433.2
+     ],
+     "text": "HIV status\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      436.0,
+      308.1,
+      444.5
+     ],
+     "text": "Known negative\n490 (52·4%)\n118 (51·8%)\n608 (52·3%)\n2380 (57·8%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      447.2,
+      304.4,
+      455.8
+     ],
+     "text": "Known positive\n21 (2·2%)\n3 (1·3%)\n24 (2·1%)\n91 (2·2%)\n"
+    },
+    {
+     "bbox": [
+      42.9,
+      458.5,
+      308.9,
+      467.1
+     ],
+     "text": "Unknown\n424 (45·3%)\n107 (46·9%)\n531 (45·7%)\n1648 (40·0%)\n"
+    },
+    {
+     "bbox": [
+      42.9,
+      469.8,
+      285.6,
+      478.4
+     ],
+     "text": "Missing\n0\n0\n0\n1\n"
+    },
+    {
+     "bbox": [
+      37.2,
+      481.1,
+      94.4,
+      489.6
+     ],
+     "text": "Indication for surgery\n"
+    },
+    {
+     "bbox": [
+      42.9,
+      492.4,
+      308.5,
+      500.9
+     ],
+     "text": "Benign disease\n632 (67·7%)\n188 (82·5%)\n820 (70·6%)\n2262 (54·9%)\n"
+    },
+    {
+     "bbox": [
+      42.9,
+      503.7,
+      304.9,
+      512.2
+     ],
+     "text": "Malignant disease\n91 (9·7%)\n20 (8·8%)\n111 (9·6%)\n256 (6·2%)\n"
+    },
+    {
+     "bbox": [
+      42.9,
+      514.9,
+      308.2,
+      523.5
+     ],
+     "text": "Obstetric\n179 (19·2%)\n11 (4·8%)\n190 (16·4%)\n1492 (36·2%)\n"
+    },
+    {
+     "bbox": [
+      42.9,
+      526.2,
+      304.9,
+      534.8
+     ],
+     "text": "Trauma\n32 (3·4%)\n9 (3·9%)\n41 (3·5%)\n107 (2·6%)\n"
+    },
+    {
+     "bbox": [
+      42.9,
+      537.5,
+      285.5,
+      546.1
+     ],
+     "text": "Missing\n1\n0\n1\n3\n"
+    },
+    {
+     "bbox": [
+      37.1,
+      548.8,
+      85.9,
+      557.3
+     ],
+     "text": "Operative factors\n"
+    },
+    {
+     "bbox": [
+      37.1,
+      560.1,
+      84.3,
+      568.6
+     ],
+     "text": "Timing of surgery\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      571.3,
+      308.5,
+      579.9
+     ],
+     "text": "Elective\n287 (30·7%)\n53 (23·2%)\n340 (29·2%)\n1466 (35·6%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      582.6,
+      308.9,
+      591.2
+     ],
+     "text": "Emergency\n648 (69·3%)\n175 (76·8%)\n823 (70·8%)\n2654 (64·4%)\n"
+    },
+    {
+     "bbox": [
+      37.1,
+      593.9,
+      99.6,
+      602.5
+     ],
+     "text": "Prophylactic antibiotics\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      605.2,
+      307.7,
+      613.7
+     ],
+     "text": "No\n235 (25·1%)\n23 (10·1%)\n258 (22·2%)\n784 (19·0%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      616.5,
+      308.0,
+      625.0
+     ],
+     "text": "Yes\n700 (74·9%)\n205 (89·9%)\n905 (77·8%)\n3336 (81·0%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      627.8,
+      81.9,
+      644.8
+     ],
+     "text": "Cefepime plus \nmetronidazole\n"
+    },
+    {
+     "bbox": [
+      127.5,
+      627.8,
+      304.8,
+      636.3
+     ],
+     "text": "48 (5·1%)\n13 (5·7%)\n61 (5·2%)\n230 (5·6%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      647.6,
+      308.2,
+      656.1
+     ],
+     "text": "Ceftriaxone\n247 (26·4%)\n41 (18·0%)\n288 (24·8%)\n1083 (26·3%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      658.8,
+      87.5,
+      675.9
+     ],
+     "text": "Ceftriaxone plus \nmetronidazole\n"
+    },
+    {
+     "bbox": [
+      125.1,
+      658.8,
+      307.9,
+      667.4
+     ],
+     "text": "153 (16·4%)\n35 (15·4%)\n188 (16·2%)\n754 (18·3%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      678.6,
+      87.5,
+      695.7
+     ],
+     "text": "Cefuroxime plus \nceftazidime\n"
+    },
+    {
+     "bbox": [
+      127.9,
+      678.6,
+      304.6,
+      687.2
+     ],
+     "text": "36 (3·9%)\n21 (9·2%)\n57 (4·9%)\n66 (1·6%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      698.4,
+      91.7,
+      715.4
+     ],
+     "text": "Ciprofloxacin plus \nmetronidazole\n"
+    },
+    {
+     "bbox": [
+      128.2,
+      698.4,
+      304.6,
+      706.9
+     ],
+     "text": "70 (7·5%)\n17 (7·5%)\n87 (7·5%)\n400 (9·7%)\n"
+    },
+    {
+     "bbox": [
+      42.8,
+      718.2,
+      308.0,
+      726.7
+     ],
+     "text": "Other\n146 (15·6%)\n78 (34·2%)\n224 (19·3%)\n803 (19·5%)\n"
+    },
+    {
+     "bbox": [
+      241.8,
+      729.5,
+      324.4,
+      738.0
+     ],
+     "text": "(Table continues on next page)\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "Articles\nwww.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1820\nnew to this analysis study or who had originally taken \npart in the FALCON trial, was invited to participate, \nalthough only one response was required per hospital. A \nsecure online link was made available. Respondents \nentered data directly onto the REDCap web application,20 \nbased in the secure servers in the University of \nBirmingham (Birmingham, UK). For continuous data, a \nmean average was calculated.\nEntries that were missing SSI status, which was the \nprimary outcome from the FALCON trial, were excluded \nin the same manner as the original analysis.4 Missing \ndatapoints from the hospital-level survey were promptly \nqueried\nStatistical analysis\nCategorical \noutcomes \nwere \nsummarised \nusing \nfrequencies and proportions and continuous outcomes \nwere summarised using medians and IQRs. The primary \nanalysis was modelled using mixed-effects multivariable \nlogistic regression adjusting for ASA grade, timing of \nsurgery (emergency or elective), and intraoperative \ncontamination. Hospital was included as a random \neffect. Adjusted odds ratios, 95% CIs, and p values from \ntwo-sided tests are presented for the multivariable \nanalysis of the primary outcome and for point estimates \nof results. These factors were chosen because they were \ninherent properties of operative procedures and known \nto have an effect on the incidence of SSIs, and hence \nwere also most likely to affect MDR.\nSimilar summary statistics for the primary outcome \nare also presented across the following groups: specific \nmicroorganisms and operative factors, whether patients \nunderwent clean-contaminated versus contaminated or \ndirty surgery, and across different countries. p<0·05 was \nconsidered to indicate statistical significance. Analyses \nwere performed with Stata SE version 16.1.\nRole of the funding source\nThe funder of the study had no role in study design, data \ncollection, data analysis, data interpretation, or writing of \nthe report.\nResults\nBetween Dec 10, 2018, and Sept 7, 2020, 5788 patients \nwere recruited to the FALCON trial. Because the primary \ntrial has been reported and compared patients with and \nwithout SSIs,4 this current analysis focuses on patients \nwith SSI only, and 4120 patients without SSIs were \nexcluded (figure 1). Overall, 1163 of 5284 patients (22·0% \n[95% CI 20·9–23·2]) at 50 hospitals were diagnosed with \nan SSI in the FALCON trial. Of these patients with SSIs, \n228 of 1163 (19·6% [17·4–22·0]) had a wound swab taken \n(table). 935 (80·4%) patients did not have a swab taken, \namong whom 195 (20·9% [18·3–23·6]) were from \nhospitals (n=15) that did not have capacity to carry out \nmicrobiological analysis and 740 (79·1% [76·4–81·7]) were \nfrom hospitals (n=35) that had capacity but did not swab \nthe SSI wound (appendix 3 p 4). The demographics of \npatients who had a swab taken versus those who did not \nare shown in the table. The 35 hospitals with testing \ncapacity were based in all seven countries (Benin, India, \nMexico, Nigeria, Ghana, Rwanda, and South Africa). \nMissing datapoints from the original dataset in this \ncurrent analysis amounted to less than 0·8% of the total \ndatapoints. There were no missing datapoints in the \nhospital-level survey.\n200 (87·7%) patients had a wound swab that cultured a \nmicroorganism. 235 microorganisms were detected, \nPatients with SSI, included in the analyses of this \nstudy\nPatients without \nSSI, excluded from \nthe analyses of this \nstudy (n=4120)\nNo swab taken \n(n=935)\nSwab taken \n(n=228)\nTotal\n(n=1163)\n(Continued from previous page)\nIntraoperative contamination\nClean or clean-contaminated\n400 (42·8%)\n55 (24·1%)\n455 (39·1%)\n2464 (59·8%)\nContaminated or dirty\n535 (57·2%)\n173 (75·9%)\n708 (60·9%)\n1656 (40·2%)\nStoma\nNo\n863 (92·9%)\n194 (85·8%)\n1057 (91·5%)\n3958 (96·8%)\nYes\n66 (7·1%)\n32 (14·2%)\n98 (8·5%)\n132 (3·2%)\nMissing\n6\n2\n8\n30\n30-day outcomes\nPurulent wound\nNo\n381 (41·4%)\n40 (18·3%)\n421 (37·0%)\n4120 (100%)\nYes\n539 (58·6%)\n179 (81·7%)\n718 (63·0%)\n0\nMissing\n15\n9\n24\n0\nWound opened\nNo\n432 (47·0%)\n66 (30·1%)\n498 (43·7%)\n4031 (97·8)\nYes\n488 (53·0%)\n153 (69·9%)\n641 (56·3%)\n89 (2·2%)\nMissing\n15\n9\n24\n0\nSystemic fever\nNo\n706 (76·7%)\n110 (50·2%)\n816 (71·6%)\n4049 (98·3%)\nYes\n214 (23·3%)\n109 (49·8%)\n323 (28·4%)\n71 (1·7%)\nMissing\n15\n9\n24\n0\nRe-admitted\nNo\n821 (89·2%)\n181 (83·0%)\n1002 (88·0%)\n4073 (98·9%)\nYes\n99 (10·8%)\n37 (17·0%)\n136 (12·0%)\n46 (1·1%)\nMissing\n15\n10\n25\n1\nRe-operated\nNo\n827 (90·0%)\n180 (82·2%)\n1007 (88·5%)\n4096 (99·5%)\nYes\n92 (10·0%)\n39 (17·8%)\n131 (11·5%)\n21 (0·5%)\nMissing\n16\n9\n25\n3\nDied\nNo\n914 (98·0%)\n218 (95·6%)\n1132 (97·5%)\n4107 (99·8%)\nYes\n19 (2·0%)\n10 (4·4%)\n29 (2·5%)\n9 (0·2%)\nMissing\n2\n0\n2\n4\nData are n (%) unless otherwise indicated. Percentages were calculated using number of patients with available data as \nthe denominator. Percentages might not add to 100% due to rounding. SSI=surgical-site infection. ASA=American \nSociety of Anesthesiologists.\nTable: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial\n",
+   "n_chars": 5033,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      507.8,
+      35.7,
+      544.3,
+      50.4
+     ],
+     "text": "Articles\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      772.5,
+      564.1,
+      781.0
+     ],
+     "text": "www.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1820\n"
+    },
+    {
+     "bbox": [
+      36.8,
+      127.2,
+      253.1,
+      214.9
+     ],
+     "text": "new to this analysis study or who had originally taken \npart in the FALCON trial, was invited to participate, \nalthough only one response was required per hospital. A \nsecure online link was made available. Respondents \nentered data directly onto the REDCap web application,20 \nbased in the secure servers in the University of \nBirmingham (Birmingham, UK). For continuous data, a \nmean average was calculated.\n"
+    },
+    {
+     "bbox": [
+      36.8,
+      215.2,
+      253.1,
+      269.9
+     ],
+     "text": "Entries that were missing SSI status, which was the \nprimary outcome from the FALCON trial, were excluded \nin the same manner as the original analysis.4 Missing \ndatapoints from the hospital-level survey were promptly \nqueried\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      280.2,
+      253.1,
+      445.9
+     ],
+     "text": "Statistical analysis\nCategorical \noutcomes \nwere \nsummarised \nusing \nfrequencies and proportions and continuous outcomes \nwere summarised using medians and IQRs. The primary \nanalysis was modelled using mixed-effects multivariable \nlogistic regression adjusting for ASA grade, timing of \nsurgery (emergency or elective), and intraoperative \ncontamination. Hospital was included as a random \neffect. Adjusted odds ratios, 95% CIs, and p values from \ntwo-sided tests are presented for the multivariable \nanalysis of the primary outcome and for point estimates \nof results. These factors were chosen because they were \ninherent properties of operative procedures and known \nto have an effect on the incidence of SSIs, and hence \nwere also most likely to affect MDR.\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      446.2,
+      253.1,
+      522.9
+     ],
+     "text": "Similar summary statistics for the primary outcome \nare also presented across the following groups: specific \nmicroorganisms and operative factors, whether patients \nunderwent clean-contaminated versus contaminated or \ndirty surgery, and across different countries. p<0·05 was \nconsidered to indicate statistical significance. Analyses \nwere performed with Stata SE version 16.1.\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      533.2,
+      253.1,
+      577.9
+     ],
+     "text": "Role of the funding source\nThe funder of the study had no role in study design, data \ncollection, data analysis, data interpretation, or writing of \nthe report.\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      586.7,
+      253.1,
+      753.9
+     ],
+     "text": "Results\nBetween Dec 10, 2018, and Sept 7, 2020, 5788 patients \nwere recruited to the FALCON trial. Because the primary \ntrial has been reported and compared patients with and \nwithout SSIs,4 this current analysis focuses on patients \nwith SSI only, and 4120 patients without SSIs were \nexcluded (figure 1). Overall, 1163 of 5284 patients (22·0% \n[95% CI 20·9–23·2]) at 50 hospitals were diagnosed with \nan SSI in the FALCON trial. Of these patients with SSIs, \n228 of 1163 (19·6% [17·4–22·0]) had a wound swab taken \n(table). 935 (80·4%) patients did not have a swab taken, \namong whom 195 (20·9% [18·3–23·6]) were from \nhospitals (n=15) that did not have capacity to carry out \nmicrobiological analysis and 740 (79·1% [76·4–81·7]) were \nfrom hospitals (n=35) that had capacity but did not swab \n"
+    },
+    {
+     "bbox": [
+      262.2,
+      633.2,
+      478.5,
+      731.9
+     ],
+     "text": "the SSI wound (appendix 3 p 4). The demographics of \npatients who had a swab taken versus those who did not \nare shown in the table. The 35 hospitals with testing \ncapacity were based in all seven countries (Benin, India, \nMexico, Nigeria, Ghana, Rwanda, and South Africa). \nMissing datapoints from the original dataset in this \ncurrent analysis amounted to less than 0·8% of the total \ndatapoints. There were no missing datapoints in the \nhospital-level survey.\n"
+    },
+    {
+     "bbox": [
+      262.2,
+      732.1,
+      478.5,
+      753.9
+     ],
+     "text": "200 (87·7%) patients had a wound swab that cultured a \nmicroorganism. 235 microorganisms were detected, \n"
+    },
+    {
+     "bbox": [
+      357.7,
+      133.9,
+      495.5,
+      151.0
+     ],
+     "text": "Patients with SSI, included in the analyses of this \nstudy\n"
+    },
+    {
+     "bbox": [
+      505.2,
+      133.9,
+      559.2,
+      168.0
+     ],
+     "text": "Patients without \nSSI, excluded from \nthe analyses of this \nstudy (n=4120)\n"
+    },
+    {
+     "bbox": [
+      357.7,
+      173.0,
+      398.5,
+      190.0
+     ],
+     "text": "No swab taken \n(n=935)\n"
+    },
+    {
+     "bbox": [
+      407.1,
+      173.0,
+      439.1,
+      190.0
+     ],
+     "text": "Swab taken \n(n=228)\n"
+    },
+    {
+     "bbox": [
+      455.5,
+      173.0,
+      480.5,
+      190.0
+     ],
+     "text": "Total\n(n=1163)\n"
+    },
+    {
+     "bbox": [
+      271.0,
+      195.0,
+      356.7,
+      203.6
+     ],
+     "text": "(Continued from previous page)\n"
+    },
+    {
+     "bbox": [
+      271.0,
+      207.4,
+      350.4,
+      216.0
+     ],
+     "text": "Intraoperative contamination\n"
+    },
+    {
+     "bbox": [
+      276.6,
+      218.7,
+      542.9,
+      227.3
+     ],
+     "text": "Clean or clean-contaminated\n400 (42·8%)\n55 (24·1%)\n455 (39·1%)\n2464 (59·8%)\n"
+    },
+    {
+     "bbox": [
+      276.6,
+      230.0,
+      542.2,
+      238.6
+     ],
+     "text": "Contaminated or dirty\n535 (57·2%)\n173 (75·9%)\n708 (60·9%)\n1656 (40·2%)\n"
+    },
+    {
+     "bbox": [
+      271.0,
+      241.3,
+      288.6,
+      249.8
+     ],
+     "text": "Stoma\n"
+    },
+    {
+     "bbox": [
+      276.6,
+      252.6,
+      543.0,
+      261.1
+     ],
+     "text": "No\n863 (92·9%)\n194 (85·8%)\n1057 (91·5%)\n3958 (96·8%)\n"
+    },
+    {
+     "bbox": [
+      276.6,
+      263.9,
+      538.2,
+      272.4
+     ],
+     "text": "Yes\n66 (7·1%)\n32 (14·2%)\n98 (8·5%)\n132 (3·2%)\n"
+    },
+    {
+     "bbox": [
+      276.6,
+      275.2,
+      519.4,
+      283.7
+     ],
+     "text": "Missing\n6\n2\n8\n30\n"
+    },
+    {
+     "bbox": [
+      271.0,
+      286.4,
+      320.1,
+      295.0
+     ],
+     "text": "30-day outcomes\n"
+    },
+    {
+     "bbox": [
+      271.0,
+      297.7,
+      314.1,
+      306.3
+     ],
+     "text": "Purulent wound\n"
+    },
+    {
+     "bbox": [
+      276.6,
+      309.0,
+      540.3,
+      317.5
+     ],
+     "text": "No\n381 (41·4%)\n40 (18·3%)\n421 (37·0%)\n4120 (100%)\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      320.3,
+      519.4,
+      328.8
+     ],
+     "text": "Yes\n539 (58·6%)\n179 (81·7%)\n718 (63·0%)\n0\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      331.6,
+      519.4,
+      340.1
+     ],
+     "text": "Missing\n15\n9\n24\n0\n"
+    },
+    {
+     "bbox": [
+      271.0,
+      342.9,
+      312.0,
+      351.4
+     ],
+     "text": "Wound opened\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      354.1,
+      537.4,
+      362.7
+     ],
+     "text": "No\n432 (47·0%)\n66 (30·1%)\n498 (43·7%)\n4031 (97·8)\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      365.4,
+      538.2,
+      374.0
+     ],
+     "text": "Yes\n488 (53·0%)\n153 (69·9%)\n641 (56·3%)\n89 (2·2%)\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      376.7,
+      519.5,
+      385.3
+     ],
+     "text": "Missing\n15\n9\n24\n0\n"
+    },
+    {
+     "bbox": [
+      271.0,
+      388.0,
+      309.7,
+      396.5
+     ],
+     "text": "Systemic fever\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      399.3,
+      543.1,
+      407.8
+     ],
+     "text": "No\n706 (76·7%)\n110 (50·2%)\n816 (71·6%)\n4049 (98·3%)\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      410.6,
+      537.9,
+      419.1
+     ],
+     "text": "Yes\n214 (23·3%)\n109 (49·8%)\n323 (28·4%)\n71 (1·7%)\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      421.8,
+      519.5,
+      430.4
+     ],
+     "text": "Missing\n15\n9\n24\n0\n"
+    },
+    {
+     "bbox": [
+      271.0,
+      433.1,
+      304.8,
+      441.7
+     ],
+     "text": "Re-admitted\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      444.4,
+      542.9,
+      453.0
+     ],
+     "text": "No\n821 (89·2%)\n181 (83·0%)\n1002 (88·0%)\n4073 (98·9%)\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      455.7,
+      537.8,
+      464.2
+     ],
+     "text": "Yes\n99 (10·8%)\n37 (17·0%)\n136 (12·0%)\n46 (1·1%)\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      467.0,
+      519.5,
+      475.5
+     ],
+     "text": "Missing\n15\n10\n25\n1\n"
+    },
+    {
+     "bbox": [
+      271.1,
+      478.3,
+      304.1,
+      486.8
+     ],
+     "text": "Re-operated\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      489.5,
+      543.2,
+      498.1
+     ],
+     "text": "No\n827 (90·0%)\n180 (82·2%)\n1007 (88·5%)\n4096 (99·5%)\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      500.8,
+      538.5,
+      509.4
+     ],
+     "text": "Yes\n92 (10·0%)\n39 (17·8%)\n131 (11·5%)\n21 (0·5%)\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      512.1,
+      519.5,
+      520.7
+     ],
+     "text": "Missing\n16\n9\n25\n3\n"
+    },
+    {
+     "bbox": [
+      271.1,
+      523.4,
+      283.3,
+      531.9
+     ],
+     "text": "Died\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      534.7,
+      542.9,
+      543.2
+     ],
+     "text": "No\n914 (98·0%)\n218 (95·6%)\n1132 (97·5%)\n4107 (99·8%)\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      546.0,
+      538.5,
+      554.5
+     ],
+     "text": "Yes\n19 (2·0%)\n10 (4·4%)\n29 (2·5%)\n9 (0·2%)\n"
+    },
+    {
+     "bbox": [
+      276.7,
+      557.2,
+      519.4,
+      565.8
+     ],
+     "text": "Missing\n2\n0\n2\n4\n"
+    },
+    {
+     "bbox": [
+      268.1,
+      571.3,
+      560.5,
+      596.2
+     ],
+     "text": "Data are n (%) unless otherwise indicated. Percentages were calculated using number of patients with available data as \nthe denominator. Percentages might not add to 100% due to rounding. SSI=surgical-site infection. ASA=American \nSociety of Anesthesiologists.\n"
+    },
+    {
+     "bbox": [
+      268.1,
+      603.9,
+      528.1,
+      612.4
+     ],
+     "text": "Table: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "Articles\ne1821\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\nbecause 35 swabs grew more than one microorganism, \nand 30 different microorganisms were reported. \nCompared with patients with no swab or no \nmicroorganism grown (n=28), patients with a positive \nmicroorganism identified (n=200) tended to be from \nhospitals situated in low-income countries, and tended \nto be younger than 18 years, male, ASA grade 3–5, \nundergoing \nemergency \nsurgery, \nundergoing \na \ncontaminated or dirty procedure, and to have benign \nsurgical pathology (appendix 3 p 5). Stomas were more \ncommon in the patients with a positive swab, which \nmight \nreflect \nan \nincreased \nnumber of \nheavily \ncontaminated surgical procedures that prevented safe \nbowel anastomosis, or the ongoing presence of an \nostomy that diverted effluence to the abdominal wall, \nwhich increased the risk of SSIs (appendix 3 p 5). \nPatients with an SSI who had a swab taken also appeared \nto be more symptomatic, with higher rates of tenderness, \nswelling, and redness (appendix 3 p 6).\nCeftriaxone, a third-generation cephalosporin, was by \nfar the most common prophylactic antibiotic given to \npatients with SSIs. It was given alone in 288 patients \n(24·8% [95% CI 22·3–27·3]) and in combination with \nmetronidazole in 188 patients (17·6% [14·1–18·4]; table 1, \nappendix 3 p 7). Of the 235 microorganisms detected, \n77 (32·8% [26·8–39·2]) were susceptible to the \nprophylactic antibiotic given (appendix 3 p 8).\nEscherichia coli was the most common species \nidentified (89 of 235; 37·9% [95% CI 31·6–44·4]), \nfollowed by Klebsiella spp. (33 of 235; 14·0% [9·9–19·2], \nappendix 3 p 8). Gram-negative bacteria constituted \n179 of 235 (76·2% [70·2–81·5]) and four of 235 \n(1·7% [0·5–4·3]) were yeasts. Most organisms grown \nwere \nprimarily \nof \ngut \norigin \n(199 \nof \n235; \n84·7% [79·4–89·0]; 26 of 235 (11·0% [7·4–15·8]) were \nprimarily of skin origin and ten (4·3% [2·1–7·7]) could \nbe of either origin (appendix 3 pp 9, 15). Standard \nmicrobiological analysis practice in hospitals in the \nstudy is presented in figure 2.\nFor many wound swabs, details on the reported \nmicroorganisms were incomplete and often not subjected \nto extensive antibiotic susceptibility testing. For example, \nin several cases, the specific species was not reported and \nonly the genus was identified. The results reported here \nreflect the level of granularity available from the \nparticipating hospitals.\nMDR was identified in 120 of 235 (51·1% [95% CI \n44·5–57·6]) microorganisms. 56 of 235 (23·8% \nFigure 2: Standard hospital microbiology practice for 200 swabs with \nisolated bacteria at 35 study hospitals\nAMR=antimicrobial resistance. CPE=carbapenem-resistant Enterobacteriaceae. \nCSLI=Clinical & Laboratory Standards Institute. ESBL=extended-spectrum \nbeta-lactamase. EUCAST=European Committee on Antimicrobial Susceptibility \nTesting. MDR=multidrug resistance. MRSA=methicillin-resistant S aureus. \nS aureus=Staphylococcus aureus. VRE=vancomycin-resistant Enterococcus. \nAMR deﬁnition\nCSLI criteria\nEUCAST criteria\nTransportation method\nTransport medium\nNo transport medium\nCulture\nAerobic\nAnaerobic\nBoth\nSusceptibility testing\nCLSI Kirby-Bauer method\nNo deﬁnition used\nOther\nSwab culture medium\nBlood agar\nCooked meat media\nMacConkey agar\nOther\nTurnaround time, h\n0 to <24\n24 to <48\n48 to <72\n≥72\nCharacterisation\nStandard bacteriological test\nAnalytical proﬁle index\nOther\nESBL screening\nYes\nNo\nMRSA screening\nYes\nNo\nVRE screening\nYes\nNo\nCPE screening\nYes\nNo\nColiforms targeted during\nAMR testing\nYes\nNo\nS aureus targeted\nduring AMR testing\nYes\nNo\nNon-fermentative Gram-negative\nbacilli targeted during AMR testing\nYes\nNo\n200\n0\n50\n100\n150\nProportion of swabs (%)\n44\n10\n35\n30\n26\n77\n40\n11\n25\n9\n74\n39\n83\n46\n19\n7\n4\n4\n4\n6\n6\n8\n13\n15\n11\n13\n11\n13\n18\n25\n9\n11\n42\n45\n30\n15\n27\n18\n17\n53\n28\n29\n16\n28\n17\n38\n28\n64\n25\n15\n31\n71\n38\n19\n49\n34\n54\n43\n48\n10\n52\n41\n50\n12\n100\n45\n83\n33\n11 4\n3\n2 8\n19\n20\n3\n17\n74\n46\n36\n21\n42\n19\n12\n21\n6\n331\n5\n37\n20\n53\n38\n12 5\n3 5\n152\n97\n51\n1\nNo MDR\nMDR present\nUnknown or not applicable\n",
+   "n_chars": 4042,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      51.0,
+      35.7,
+      87.4,
+      50.4
+     ],
+     "text": "Articles\n"
+    },
+    {
+     "bbox": [
+      28.3,
+      772.5,
+      555.6,
+      781.0
+     ],
+     "text": "e1821\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      127.2,
+      560.7,
+      335.9
+     ],
+     "text": "because 35 swabs grew more than one microorganism, \nand 30 different microorganisms were reported. \nCompared with patients with no swab or no \nmicroorganism grown (n=28), patients with a positive \nmicroorganism identified (n=200) tended to be from \nhospitals situated in low-income countries, and tended \nto be younger than 18 years, male, ASA grade 3–5, \nundergoing \nemergency \nsurgery, \nundergoing \na \ncontaminated or dirty procedure, and to have benign \nsurgical pathology (appendix 3 p 5). Stomas were more \ncommon in the patients with a positive swab, which \nmight \nreflect \nan \nincreased \nnumber of \nheavily \ncontaminated surgical procedures that prevented safe \nbowel anastomosis, or the ongoing presence of an \nostomy that diverted effluence to the abdominal wall, \nwhich increased the risk of SSIs (appendix 3 p 5). \nPatients with an SSI who had a swab taken also appeared \nto be more symptomatic, with higher rates of tenderness, \nswelling, and redness (appendix 3 p 6).\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      336.1,
+      560.7,
+      423.9
+     ],
+     "text": "Ceftriaxone, a third-generation cephalosporin, was by \nfar the most common prophylactic antibiotic given to \npatients with SSIs. It was given alone in 288 patients \n(24·8% [95% CI 22·3–27·3]) and in combination with \nmetronidazole in 188 patients (17·6% [14·1–18·4]; table 1, \nappendix 3 p 7). Of the 235 microorganisms detected, \n77 (32·8% [26·8–39·2]) were susceptible to the \nprophylactic antibiotic given (appendix 3 p 8).\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      424.1,
+      560.7,
+      555.8
+     ],
+     "text": "Escherichia coli was the most common species \nidentified (89 of 235; 37·9% [95% CI 31·6–44·4]), \nfollowed by Klebsiella spp. (33 of 235; 14·0% [9·9–19·2], \nappendix 3 p 8). Gram-negative bacteria constituted \n179 of 235 (76·2% [70·2–81·5]) and four of 235 \n(1·7% [0·5–4·3]) were yeasts. Most organisms grown \nwere \nprimarily \nof \ngut \norigin \n(199 \nof \n235; \n84·7% [79·4–89·0]; 26 of 235 (11·0% [7·4–15·8]) were \nprimarily of skin origin and ten (4·3% [2·1–7·7]) could \nbe of either origin (appendix 3 pp 9, 15). Standard \nmicrobiological analysis practice in hospitals in the \nstudy is presented in figure 2.\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      556.1,
+      560.7,
+      632.8
+     ],
+     "text": "For many wound swabs, details on the reported \nmicroorganisms were incomplete and often not subjected \nto extensive antibiotic susceptibility testing. For example, \nin several cases, the specific species was not reported and \nonly the genus was identified. The results reported here \nreflect the level of granularity available from the \nparticipating hospitals.\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      633.1,
+      560.7,
+      654.8
+     ],
+     "text": "MDR was identified in 120 of 235 (51·1% [95% CI \n44·5–57·6]) microorganisms. 56 of 235 (23·8% \n"
+    },
+    {
+     "bbox": [
+      344.4,
+      692.0,
+      555.5,
+      753.1
+     ],
+     "text": "Figure 2: Standard hospital microbiology practice for 200 swabs with \nisolated bacteria at 35 study hospitals\nAMR=antimicrobial resistance. CPE=carbapenem-resistant Enterobacteriaceae. \nCSLI=Clinical & Laboratory Standards Institute. ESBL=extended-spectrum \nbeta-lactamase. EUCAST=European Committee on Antimicrobial Susceptibility \nTesting. MDR=multidrug resistance. MRSA=methicillin-resistant S aureus. \nS aureus=Staphylococcus aureus. VRE=vancomycin-resistant Enterococcus. \n"
+    },
+    {
+     "bbox": [
+      85.0,
+      177.1,
+      125.1,
+      185.0
+     ],
+     "text": "AMR deﬁnition\n"
+    },
+    {
+     "bbox": [
+      86.3,
+      186.1,
+      125.0,
+      203.0
+     ],
+     "text": "CSLI criteria\nEUCAST criteria\n"
+    },
+    {
+     "bbox": [
+      63.1,
+      210.1,
+      125.0,
+      218.0
+     ],
+     "text": "Transportation method\n"
+    },
+    {
+     "bbox": [
+      70.8,
+      219.1,
+      125.0,
+      236.0
+     ],
+     "text": "Transport medium\nNo transport medium\n"
+    },
+    {
+     "bbox": [
+      99.8,
+      243.1,
+      125.0,
+      269.0
+     ],
+     "text": "Culture\nAerobic\nAnaerobic\n"
+    },
+    {
+     "bbox": [
+      112.8,
+      270.9,
+      125.0,
+      278.8
+     ],
+     "text": "Both\n"
+    },
+    {
+     "bbox": [
+      63.0,
+      285.9,
+      125.1,
+      302.8
+     ],
+     "text": "Susceptibility testing\nCLSI Kirby-Bauer method\n"
+    },
+    {
+     "bbox": [
+      79.2,
+      303.9,
+      125.0,
+      311.8
+     ],
+     "text": "No deﬁnition used\n"
+    },
+    {
+     "bbox": [
+      110.7,
+      312.9,
+      125.0,
+      320.8
+     ],
+     "text": "Other\n"
+    },
+    {
+     "bbox": [
+      67.7,
+      327.9,
+      125.0,
+      335.8
+     ],
+     "text": "Swab culture medium\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      336.9,
+      125.0,
+      353.8
+     ],
+     "text": "Blood agar\nCooked meat media\n"
+    },
+    {
+     "bbox": [
+      84.2,
+      354.9,
+      125.0,
+      362.8
+     ],
+     "text": "MacConkey agar\n"
+    },
+    {
+     "bbox": [
+      110.7,
+      363.9,
+      125.0,
+      371.8
+     ],
+     "text": "Other\n"
+    },
+    {
+     "bbox": [
+      74.3,
+      378.9,
+      125.0,
+      386.8
+     ],
+     "text": "Turnaround time, h\n"
+    },
+    {
+     "bbox": [
+      100.5,
+      387.9,
+      125.0,
+      422.9
+     ],
+     "text": "0 to <24\n24 to <48\n48 to <72\n≥72\n"
+    },
+    {
+     "bbox": [
+      54.3,
+      429.9,
+      125.0,
+      446.9
+     ],
+     "text": "Characterisation\nStandard bacteriological test\n"
+    },
+    {
+     "bbox": [
+      68.3,
+      447.9,
+      125.0,
+      455.9
+     ],
+     "text": "Analytical proﬁle index\n"
+    },
+    {
+     "bbox": [
+      110.7,
+      456.9,
+      125.0,
+      464.9
+     ],
+     "text": "Other\n"
+    },
+    {
+     "bbox": [
+      86.0,
+      471.9,
+      125.0,
+      479.9
+     ],
+     "text": "ESBL screening\n"
+    },
+    {
+     "bbox": [
+      116.8,
+      480.9,
+      125.0,
+      488.9
+     ],
+     "text": "Yes\n"
+    },
+    {
+     "bbox": [
+      117.5,
+      489.9,
+      125.0,
+      497.9
+     ],
+     "text": "No\n"
+    },
+    {
+     "bbox": [
+      82.8,
+      504.9,
+      125.0,
+      512.9
+     ],
+     "text": "MRSA screening\n"
+    },
+    {
+     "bbox": [
+      116.8,
+      513.9,
+      125.0,
+      521.9
+     ],
+     "text": "Yes\n"
+    },
+    {
+     "bbox": [
+      117.5,
+      522.9,
+      125.0,
+      530.9
+     ],
+     "text": "No\n"
+    },
+    {
+     "bbox": [
+      88.2,
+      537.9,
+      125.0,
+      545.9
+     ],
+     "text": "VRE screening\n"
+    },
+    {
+     "bbox": [
+      116.8,
+      546.9,
+      125.0,
+      554.9
+     ],
+     "text": "Yes\n"
+    },
+    {
+     "bbox": [
+      117.5,
+      555.9,
+      125.0,
+      563.9
+     ],
+     "text": "No\n"
+    },
+    {
+     "bbox": [
+      88.8,
+      570.9,
+      125.0,
+      578.9
+     ],
+     "text": "CPE screening\n"
+    },
+    {
+     "bbox": [
+      116.8,
+      579.9,
+      125.0,
+      587.9
+     ],
+     "text": "Yes\n"
+    },
+    {
+     "bbox": [
+      117.5,
+      589.0,
+      125.0,
+      596.9
+     ],
+     "text": "No\n"
+    },
+    {
+     "bbox": [
+      57.1,
+      603.9,
+      125.1,
+      611.9
+     ],
+     "text": "Coliforms targeted during\n"
+    },
+    {
+     "bbox": [
+      92.4,
+      612.9,
+      125.0,
+      620.9
+     ],
+     "text": "AMR testing\n"
+    },
+    {
+     "bbox": [
+      116.8,
+      622.0,
+      125.0,
+      629.9
+     ],
+     "text": "Yes\n"
+    },
+    {
+     "bbox": [
+      117.5,
+      631.0,
+      125.0,
+      638.9
+     ],
+     "text": "No\n"
+    },
+    {
+     "bbox": [
+      73.8,
+      646.0,
+      125.0,
+      662.9
+     ],
+     "text": "S aureus targeted\nduring AMR testing\n"
+    },
+    {
+     "bbox": [
+      116.8,
+      664.0,
+      125.0,
+      671.9
+     ],
+     "text": "Yes\n"
+    },
+    {
+     "bbox": [
+      117.5,
+      673.0,
+      125.0,
+      680.9
+     ],
+     "text": "No\n"
+    },
+    {
+     "bbox": [
+      33.5,
+      688.0,
+      125.0,
+      704.9
+     ],
+     "text": "Non-fermentative Gram-negative\nbacilli targeted during AMR testing\n"
+    },
+    {
+     "bbox": [
+      116.8,
+      706.0,
+      125.0,
+      713.9
+     ],
+     "text": "Yes\n"
+    },
+    {
+     "bbox": [
+      117.5,
+      715.0,
+      125.0,
+      722.9
+     ],
+     "text": "No\n"
+    },
+    {
+     "bbox": [
+      128.7,
+      729.1,
+      327.6,
+      737.1
+     ],
+     "text": "200\n0\n50\n100\n150\n"
+    },
+    {
+     "bbox": [
+      197.5,
+      739.0,
+      257.2,
+      747.0
+     ],
+     "text": "Proportion of swabs (%)\n"
+    },
+    {
+     "bbox": [
+      148.7,
+      186.2,
+      155.1,
+      193.6
+     ],
+     "text": "44\n"
+    },
+    {
+     "bbox": [
+      132.4,
+      219.6,
+      138.2,
+      227.0
+     ],
+     "text": "10\n"
+    },
+    {
+     "bbox": [
+      144.0,
+      229.1,
+      149.8,
+      236.4
+     ],
+     "text": "35\n"
+    },
+    {
+     "bbox": [
+      142.0,
+      252.7,
+      148.0,
+      260.0
+     ],
+     "text": "30\n"
+    },
+    {
+     "bbox": [
+      140.0,
+      295.0,
+      252.3,
+      302.3
+     ],
+     "text": "26\n77\n40\n"
+    },
+    {
+     "bbox": [
+      132.7,
+      270.8,
+      170.6,
+      278.1
+     ],
+     "text": "11\n25\n9\n"
+    },
+    {
+     "bbox": [
+      192.7,
+      252.7,
+      252.6,
+      260.0
+     ],
+     "text": "74\n39\n"
+    },
+    {
+     "bbox": [
+      200.9,
+      229.1,
+      269.4,
+      236.4
+     ],
+     "text": "83\n46\n"
+    },
+    {
+     "bbox": [
+      146.4,
+      219.6,
+      163.0,
+      227.0
+     ],
+     "text": "19\n7\n"
+    },
+    {
+     "bbox": [
+      130.5,
+      261.6,
+      133.7,
+      269.0
+     ],
+     "text": "4\n"
+    },
+    {
+     "bbox": [
+      131.4,
+      304.5,
+      134.6,
+      311.8
+     ],
+     "text": "4\n"
+    },
+    {
+     "bbox": [
+      133.0,
+      346.2,
+      140.7,
+      353.5
+     ],
+     "text": "4\n6\n"
+    },
+    {
+     "bbox": [
+      177.9,
+      355.6,
+      181.2,
+      363.0
+     ],
+     "text": "6\n"
+    },
+    {
+     "bbox": [
+      138.6,
+      304.5,
+      152.3,
+      311.8
+     ],
+     "text": "8\n13\n"
+    },
+    {
+     "bbox": [
+      134.2,
+      313.6,
+      139.8,
+      321.0
+     ],
+     "text": "15\n"
+    },
+    {
+     "bbox": [
+      132.9,
+      355.4,
+      138.4,
+      362.7
+     ],
+     "text": "11\n"
+    },
+    {
+     "bbox": [
+      133.8,
+      364.6,
+      139.4,
+      371.9
+     ],
+     "text": "13\n"
+    },
+    {
+     "bbox": [
+      133.6,
+      397.3,
+      139.2,
+      413.6
+     ],
+     "text": "11\n13\n"
+    },
+    {
+     "bbox": [
+      135.8,
+      415.4,
+      141.8,
+      422.7
+     ],
+     "text": "18\n"
+    },
+    {
+     "bbox": [
+      133.1,
+      439.1,
+      145.7,
+      455.3
+     ],
+     "text": "25\n9\n"
+    },
+    {
+     "bbox": [
+      132.7,
+      457.2,
+      138.1,
+      464.6
+     ],
+     "text": "11\n"
+    },
+    {
+     "bbox": [
+      147.6,
+      481.4,
+      153.7,
+      488.7
+     ],
+     "text": "42\n"
+    },
+    {
+     "bbox": [
+      148.7,
+      513.6,
+      154.8,
+      520.9
+     ],
+     "text": "45\n"
+    },
+    {
+     "bbox": [
+      135.3,
+      547.3,
+      147.8,
+      563.5
+     ],
+     "text": "30\n15\n"
+    },
+    {
+     "bbox": [
+      136.4,
+      580.4,
+      146.1,
+      596.7
+     ],
+     "text": "27\n18\n"
+    },
+    {
+     "bbox": [
+      136.8,
+      622.2,
+      185.8,
+      638.4
+     ],
+     "text": "17\n53\n28\n"
+    },
+    {
+     "bbox": [
+      140.3,
+      664.2,
+      146.5,
+      671.5
+     ],
+     "text": "29\n"
+    },
+    {
+     "bbox": [
+      135.1,
+      673.8,
+      141.1,
+      681.1
+     ],
+     "text": "16\n"
+    },
+    {
+     "bbox": [
+      140.3,
+      706.5,
+      146.5,
+      713.8
+     ],
+     "text": "28\n"
+    },
+    {
+     "bbox": [
+      136.4,
+      715.5,
+      200.6,
+      722.9
+     ],
+     "text": "17\n38\n28\n"
+    },
+    {
+     "bbox": [
+      185.6,
+      706.5,
+      234.6,
+      713.8
+     ],
+     "text": "64\n25\n"
+    },
+    {
+     "bbox": [
+      158.1,
+      673.8,
+      186.4,
+      681.1
+     ],
+     "text": "15\n31\n"
+    },
+    {
+     "bbox": [
+      190.4,
+      664.2,
+      248.5,
+      671.5
+     ],
+     "text": "71\n38\n"
+    },
+    {
+     "bbox": [
+      214.8,
+      631.1,
+      220.7,
+      638.4
+     ],
+     "text": "19\n"
+    },
+    {
+     "bbox": [
+      167.5,
+      621.9,
+      214.2,
+      629.3
+     ],
+     "text": "49\n34\n"
+    },
+    {
+     "bbox": [
+      171.0,
+      580.4,
+      223.7,
+      596.7
+     ],
+     "text": "54\n43\n48\n10\n"
+    },
+    {
+     "bbox": [
+      166.9,
+      547.3,
+      217.8,
+      563.5
+     ],
+     "text": "52\n41\n50\n12\n"
+    },
+    {
+     "bbox": [
+      217.7,
+      513.6,
+      295.0,
+      520.9
+     ],
+     "text": "100\n45\n"
+    },
+    {
+     "bbox": [
+      207.9,
+      481.4,
+      270.0,
+      488.7
+     ],
+     "text": "83\n33\n"
+    },
+    {
+     "bbox": [
+      143.4,
+      457.2,
+      155.0,
+      464.6
+     ],
+     "text": "11 4\n"
+    },
+    {
+     "bbox": [
+      130.9,
+      490.6,
+      133.8,
+      497.9
+     ],
+     "text": "3\n"
+    },
+    {
+     "bbox": [
+      130.8,
+      523.2,
+      138.1,
+      531.0
+     ],
+     "text": "2 8\n"
+    },
+    {
+     "bbox": [
+      140.3,
+      490.6,
+      164.4,
+      497.9
+     ],
+     "text": "19\n20\n"
+    },
+    {
+     "bbox": [
+      143.0,
+      439.1,
+      251.0,
+      455.3
+     ],
+     "text": "3\n17\n74\n46\n"
+    },
+    {
+     "bbox": [
+      160.9,
+      415.4,
+      196.5,
+      422.7
+     ],
+     "text": "36\n21\n"
+    },
+    {
+     "bbox": [
+      147.7,
+      397.3,
+      195.8,
+      413.6
+     ],
+     "text": "42\n19\n12\n21\n"
+    },
+    {
+     "bbox": [
+      144.1,
+      364.5,
+      147.4,
+      371.9
+     ],
+     "text": "6\n"
+    },
+    {
+     "bbox": [
+      130.6,
+      388.2,
+      140.1,
+      395.5
+     ],
+     "text": "331\n"
+    },
+    {
+     "bbox": [
+      149.5,
+      355.3,
+      161.0,
+      371.5
+     ],
+     "text": "5\n37\n"
+    },
+    {
+     "bbox": [
+      136.9,
+      337.2,
+      222.5,
+      344.5
+     ],
+     "text": "20\n53\n38\n"
+    },
+    {
+     "bbox": [
+      147.3,
+      313.6,
+      159.7,
+      321.0
+     ],
+     "text": "12 5\n"
+    },
+    {
+     "bbox": [
+      134.2,
+      261.6,
+      141.1,
+      269.0
+     ],
+     "text": "3 5\n"
+    },
+    {
+     "bbox": [
+      130.2,
+      195.5,
+      138.5,
+      203.0
+     ],
+     "text": "152\n"
+    },
+    {
+     "bbox": [
+      216.5,
+      186.2,
+      294.1,
+      193.5
+     ],
+     "text": "97\n51\n"
+    },
+    {
+     "bbox": [
+      130.4,
+      346.2,
+      133.1,
+      353.5
+     ],
+     "text": "1\n"
+    },
+    {
+     "bbox": [
+      42.9,
+      161.8,
+      195.2,
+      169.8
+     ],
+     "text": "No MDR\nMDR present\nUnknown or not applicable\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "Articles\nwww.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1822\n[18·5–29·8]) did not have MDR and 59 of 235 \n(25·1% [19·7–31·2]) did not have sufficient testing data \nto classify the microorganism (appendix 3 pp 8, 15). \nMDR was more commonly detected when the isolated \nmicro­organism was not susceptible to the preoperative \nprophylactic antibiotic given. There was sufficient \nprophylactic antibiotic coverage in 44·6% (31·3–58·5) \nof the non-MDR microorganisms, whereas in the \nMDR microorganisms, there was sufficient coverage \nin 26·7% (19·0–35·5; appendix p 8). In adjusted analysis, \nsufficient coverage for microorganisms by prophylactic \nantibiotics and regular availability of infection control \nteams were significantly associated with reduced MDR \n(figure 3).\nTurnaround time (from sending the wound swab to \nreceiving the results) was reported to be 48 h or longer in \n149 of 200 cases (74·5% [95% CI 67·9–80·4]) and 72 h or \nlonger in 75 of 200 cases (37·5% [30·8–44·6], figure 2). \nAnalytical profile index, a classification of bacteria based \non biochemical tests that allows fast identification, was \nonly available for 29 of 200 cases (14·5% [9·9–20·2], \nfigure 2).\nThere were notable differences in the composition \nof MDR microorganisms in different circumstances. \nE coli and S aureus were the most common MDR \nmicroorganisms \nin \nclean-contaminated \nsurgeries, \nwhereas E coli and Klebsiella spp. were the most common \nMDR microorganisms in contaminated or dirty \nsurgeries (appendix 3 pp 2, 12). Differences were also \nseen between countries. In Nigeria, Klebsiella spp. and \nS aureus were the most common MDR microorganisms, \nwhereas in India and Ghana, E coli was the most \ncommon (appendix 3 p 13).\nThe antibiotics most widely tested for susceptibility \nwere gentamicin (17·8% susceptibility), third-generation \ncephalosporins (16·6% susceptibility), second-generation \nfluroquinolones \n(11·2% \nsusceptibility), \nand \nanti­\npseudomonal \npenicillin \n(14·0% \nsusceptibility). \nChloram­phenicol had the highest overall susceptibility \nof 24·2%. Of those tested, microorganisms had \nno susceptibility (0%) to third-generation and fourth-\ngeneration fluroquinolones, isoniazid, clindamycin, \nmetronidazole, \nflucloxacillin \nand \nquinupristin–\ndalfopristin (figure 4A, appendix 3 p 10).\nThe antibiotics with highest levels of resistance, \nproportionally, were second-generation cephalosporins \n(77·4% resistance), third-generation cephalosporins \n(48·1% resistance), penicillin (43·1% resistance), and \nsecond-generation fluoroquinolones (42·2% resistance; \nfigure 4B, appendix 3 p 11). The most prescribed surgical \nprophylaxis drug was ceftriaxone, a third-generation \ncephalosporin.\nDiscussion\nThis study aimed to carry out a post-hoc analysis of SSI \nwound swabs from a randomised controlled trial. The \ntwo key findings were high levels of MDR, and low \ncapacity for microbiological testing alongside an absence \nFigure 3: Forest plot of adjusted analysis for MDR\nORs and 95% CIs were estimated from a mixed-effects logistic regression model adjusted for American Society of Anesthesiologists grade, timing of surgery \n(emergency or elective), intraoperative contamination, the use of triclosan-coated polydioxanone sutures, and 2% alcoholic chlorhexidine skin preparation. \nMDR=multidrug resistance. OR=odds ratio.\nProphylactic antibiotics\nNo\nYes\nOrigin of primary organism\nGut\nSkin\nCovered by prophylactic antibiotics\nNo\nYes\nUnknown or not applicable\nInfection control teams\nNone\nYes: ad hoc or on request\nYes: regular (daily or weekly)\nAntibiotic availability\nGenerally available\nNeeds to be ordered in\nPayment for treatment\nPatient: health insurance\nPatient: out of pocket\n   1/45 (2·2%)\n44/45 (97·8%)\n42/45 (93·3%)\n   3/45 (6·7%)\n22/45 (48·9%)\n20/45 (44·4%)\n   3/45 (6·7%)\n   7/45 (15·6%)\n20/45 (44·4%)\n18/45 (40·0%)\n40/45 (88·9%)\n   5/45 (11·1%)\n   5/45 (11·1%)\n40/45 (88·9%)\n   5/102 (4·9%)\n97/102 (95·1%)\n92/102 (90·2%)\n10/102 (9·8%)\n69/102 (67·7%)\n28/102 (27·5%)\n   5/102 (4·9%)\n30/102 (29·4%)\n51/102 (50·0%)\n21/102 (20·6%)\n92/102 (90·2%)\n10/102 (9·8%)\n18/102 (17·7%)\n84/102 (82·3%)\n1 (ref)\n0·57 (0·06–5·25)\n1 (ref)\n1·34 (0·33–5·34)\n1 (ref)\n0·43 (0·19–0·96)\n0·59 (0·12–2·99)\n1 (ref)\n0·66 (0·24–1·81)\n0·32 (0·11–0·93)\n1 (ref)\n0·88 (0·24–3·23)\n1 (ref)\n0·79 (0·26–2·39)\nNo MDR\nMDR present\n Adjusted OR (95% CI)\nOR (log scale)\n1\n10\n0·2\n0·1\n2\n5\n0·05\n0·5\n",
+   "n_chars": 4387,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      507.8,
+      35.7,
+      544.3,
+      50.4
+     ],
+     "text": "Articles\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      772.5,
+      564.1,
+      781.0
+     ],
+     "text": "www.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1822\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      435.2,
+      253.1,
+      588.9
+     ],
+     "text": "[18·5–29·8]) did not have MDR and 59 of 235 \n(25·1% [19·7–31·2]) did not have sufficient testing data \nto classify the microorganism (appendix 3 pp 8, 15). \nMDR was more commonly detected when the isolated \nmicro­organism was not susceptible to the preoperative \nprophylactic antibiotic given. There was sufficient \nprophylactic antibiotic coverage in 44·6% (31·3–58·5) \nof the non-MDR microorganisms, whereas in the \nMDR microorganisms, there was sufficient coverage \nin 26·7% (19·0–35·5; appendix p 8). In adjusted analysis, \nsufficient coverage for microorganisms by prophylactic \nantibiotics and regular availability of infection control \nteams were significantly associated with reduced MDR \n(figure 3).\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      589.2,
+      253.1,
+      676.9
+     ],
+     "text": "Turnaround time (from sending the wound swab to \nreceiving the results) was reported to be 48 h or longer in \n149 of 200 cases (74·5% [95% CI 67·9–80·4]) and 72 h or \nlonger in 75 of 200 cases (37·5% [30·8–44·6], figure 2). \nAnalytical profile index, a classification of bacteria based \non biochemical tests that allows fast identification, was \nonly available for 29 of 200 cases (14·5% [9·9–20·2], \nfigure 2).\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      677.1,
+      253.1,
+      753.9
+     ],
+     "text": "There were notable differences in the composition \nof MDR microorganisms in different circumstances. \nE coli and S aureus were the most common MDR \nmicroorganisms \nin \nclean-contaminated \nsurgeries, \nwhereas E coli and Klebsiella spp. were the most common \nMDR microorganisms in contaminated or dirty \nsurgeries (appendix 3 pp 2, 12). Differences were also \n"
+    },
+    {
+     "bbox": [
+      262.2,
+      435.1,
+      478.5,
+      478.9
+     ],
+     "text": "seen between countries. In Nigeria, Klebsiella spp. and \nS aureus were the most common MDR microorganisms, \nwhereas in India and Ghana, E coli was the most \ncommon (appendix 3 p 13).\n"
+    },
+    {
+     "bbox": [
+      262.2,
+      479.1,
+      478.5,
+      599.9
+     ],
+     "text": "The antibiotics most widely tested for susceptibility \nwere gentamicin (17·8% susceptibility), third-generation \ncephalosporins (16·6% susceptibility), second-generation \nfluroquinolones \n(11·2% \nsusceptibility), \nand \nanti­\npseudomonal \npenicillin \n(14·0% \nsusceptibility). \nChloram­phenicol had the highest overall susceptibility \nof 24·2%. Of those tested, microorganisms had \nno susceptibility (0%) to third-generation and fourth-\ngeneration fluroquinolones, isoniazid, clindamycin, \nmetronidazole, \nflucloxacillin \nand \nquinupristin–\ndalfopristin (figure 4A, appendix 3 p 10).\n"
+    },
+    {
+     "bbox": [
+      262.2,
+      600.2,
+      478.5,
+      687.9
+     ],
+     "text": "The antibiotics with highest levels of resistance, \nproportionally, were second-generation cephalosporins \n(77·4% resistance), third-generation cephalosporins \n(48·1% resistance), penicillin (43·1% resistance), and \nsecond-generation fluoroquinolones (42·2% resistance; \nfigure 4B, appendix 3 p 11). The most prescribed surgical \nprophylaxis drug was ceftriaxone, a third-generation \ncephalosporin.\n"
+    },
+    {
+     "bbox": [
+      262.2,
+      696.7,
+      478.5,
+      753.9
+     ],
+     "text": "Discussion\nThis study aimed to carry out a post-hoc analysis of SSI \nwound swabs from a randomised controlled trial. The \ntwo key findings were high levels of MDR, and low \ncapacity for microbiological testing alongside an absence \n"
+    },
+    {
+     "bbox": [
+      36.6,
+      384.3,
+      450.8,
+      419.1
+     ],
+     "text": "Figure 3: Forest plot of adjusted analysis for MDR\nORs and 95% CIs were estimated from a mixed-effects logistic regression model adjusted for American Society of Anesthesiologists grade, timing of surgery \n(emergency or elective), intraoperative contamination, the use of triclosan-coated polydioxanone sutures, and 2% alcoholic chlorhexidine skin preparation. \nMDR=multidrug resistance. OR=odds ratio.\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      147.6,
+      105.7,
+      155.6
+     ],
+     "text": "Prophylactic antibiotics\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      157.8,
+      51.1,
+      165.8
+     ],
+     "text": "No\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      168.0,
+      51.9,
+      176.0
+     ],
+     "text": "Yes\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      178.2,
+      115.0,
+      186.2
+     ],
+     "text": "Origin of primary organism\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      188.4,
+      52.8,
+      196.4
+     ],
+     "text": "Gut\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      198.6,
+      54.2,
+      206.6
+     ],
+     "text": "Skin\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      208.8,
+      136.0,
+      216.8
+     ],
+     "text": "Covered by prophylactic antibiotics\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      219.0,
+      51.1,
+      227.0
+     ],
+     "text": "No\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      229.2,
+      51.9,
+      237.2
+     ],
+     "text": "Yes\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      239.4,
+      110.6,
+      247.4
+     ],
+     "text": "Unknown or not applicable\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      249.6,
+      104.9,
+      257.6
+     ],
+     "text": "Infection control teams\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      259.8,
+      57.3,
+      267.8
+     ],
+     "text": "None\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      270.0,
+      104.8,
+      278.0
+     ],
+     "text": "Yes: ad hoc or on request\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      280.2,
+      113.6,
+      288.2
+     ],
+     "text": "Yes: regular (daily or weekly)\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      290.4,
+      100.6,
+      298.4
+     ],
+     "text": "Antibiotic availability\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      300.6,
+      89.7,
+      308.6
+     ],
+     "text": "Generally available\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      310.8,
+      99.4,
+      318.8
+     ],
+     "text": "Needs to be ordered in\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      321.0,
+      104.4,
+      329.0
+     ],
+     "text": "Payment for treatment\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      331.2,
+      105.1,
+      339.1
+     ],
+     "text": "Patient: health insurance\n"
+    },
+    {
+     "bbox": [
+      43.6,
+      341.4,
+      97.4,
+      349.3
+     ],
+     "text": "Patient: out of pocket\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      157.8,
+      184.4,
+      165.7
+     ],
+     "text": "   1/45 (2·2%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      168.0,
+      188.4,
+      175.9
+     ],
+     "text": "44/45 (97·8%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      188.4,
+      187.9,
+      196.4
+     ],
+     "text": "42/45 (93·3%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      198.6,
+      184.5,
+      206.5
+     ],
+     "text": "   3/45 (6·7%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      219.0,
+      188.3,
+      227.0
+     ],
+     "text": "22/45 (48·9%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      229.2,
+      188.4,
+      237.2
+     ],
+     "text": "20/45 (44·4%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      239.4,
+      184.5,
+      247.3
+     ],
+     "text": "   3/45 (6·7%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      259.8,
+      187.8,
+      267.7
+     ],
+     "text": "   7/45 (15·6%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      270.0,
+      188.4,
+      277.9
+     ],
+     "text": "20/45 (44·4%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      280.2,
+      188.1,
+      288.1
+     ],
+     "text": "18/45 (40·0%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      300.6,
+      188.9,
+      308.5
+     ],
+     "text": "40/45 (88·9%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      310.8,
+      187.2,
+      318.7
+     ],
+     "text": "   5/45 (11·1%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      331.2,
+      187.2,
+      339.1
+     ],
+     "text": "   5/45 (11·1%)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      341.4,
+      188.9,
+      349.3
+     ],
+     "text": "40/45 (88·9%)\n"
+    },
+    {
+     "bbox": [
+      199.0,
+      157.8,
+      235.4,
+      165.7
+     ],
+     "text": "   5/102 (4·9%)\n"
+    },
+    {
+     "bbox": [
+      199.0,
+      168.0,
+      237.7,
+      175.9
+     ],
+     "text": "97/102 (95·1%)\n"
+    },
+    {
+     "bbox": [
+      199.0,
+      188.4,
+      238.3,
+      196.3
+     ],
+     "text": "92/102 (90·2%)\n"
+    },
+    {
+     "bbox": [
+      199.0,
+      198.6,
+      235.0,
+      206.5
+     ],
+     "text": "10/102 (9·8%)\n"
+    },
+    {
+     "bbox": [
+      199.0,
+      219.0,
+      238.2,
+      226.9
+     ],
+     "text": "69/102 (67·7%)\n"
+    },
+    {
+     "bbox": [
+      199.0,
+      229.2,
+      237.6,
+      237.1
+     ],
+     "text": "28/102 (27·5%)\n"
+    },
+    {
+     "bbox": [
+      199.0,
+      239.4,
+      235.4,
+      247.3
+     ],
+     "text": "   5/102 (4·9%)\n"
+    },
+    {
+     "bbox": [
+      199.0,
+      259.8,
+      238.2,
+      267.7
+     ],
+     "text": "30/102 (29·4%)\n"
+    },
+    {
+     "bbox": [
+      199.6,
+      270.0,
+      238.2,
+      277.9
+     ],
+     "text": "51/102 (50·0%)\n"
+    },
+    {
+     "bbox": [
+      199.6,
+      280.2,
+      238.4,
+      288.1
+     ],
+     "text": "21/102 (20·6%)\n"
+    },
+    {
+     "bbox": [
+      199.0,
+      300.6,
+      238.3,
+      308.5
+     ],
+     "text": "92/102 (90·2%)\n"
+    },
+    {
+     "bbox": [
+      199.0,
+      310.8,
+      235.0,
+      318.7
+     ],
+     "text": "10/102 (9·8%)\n"
+    },
+    {
+     "bbox": [
+      199.5,
+      331.2,
+      237.5,
+      339.1
+     ],
+     "text": "18/102 (17·7%)\n"
+    },
+    {
+     "bbox": [
+      199.0,
+      341.4,
+      238.4,
+      349.3
+     ],
+     "text": "84/102 (82·3%)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      157.4,
+      429.3,
+      165.3
+     ],
+     "text": "1 (ref)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      167.6,
+      455.6,
+      175.5
+     ],
+     "text": "0·57 (0·06–5·25)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      188.0,
+      429.3,
+      195.9
+     ],
+     "text": "1 (ref)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      198.2,
+      455.2,
+      206.1
+     ],
+     "text": "1·34 (0·33–5·34)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      218.6,
+      429.3,
+      226.5
+     ],
+     "text": "1 (ref)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      228.8,
+      456.5,
+      236.7
+     ],
+     "text": "0·43 (0·19–0·96)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      239.0,
+      456.0,
+      246.9
+     ],
+     "text": "0·59 (0·12–2·99)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      259.4,
+      429.3,
+      267.3
+     ],
+     "text": "1 (ref)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      269.6,
+      456.1,
+      277.5
+     ],
+     "text": "0·66 (0·24–1·81)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      279.8,
+      455.2,
+      287.7
+     ],
+     "text": "0·32 (0·11–0·93)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      300.2,
+      429.3,
+      308.1
+     ],
+     "text": "1 (ref)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      310.4,
+      456.1,
+      318.3
+     ],
+     "text": "0·88 (0·24–3·23)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      330.8,
+      429.3,
+      338.7
+     ],
+     "text": "1 (ref)\n"
+    },
+    {
+     "bbox": [
+      414.4,
+      341.0,
+      456.1,
+      348.9
+     ],
+     "text": "0·79 (0·26–2·39)\n"
+    },
+    {
+     "bbox": [
+      151.7,
+      132.8,
+      470.8,
+      140.7
+     ],
+     "text": "No MDR\nMDR present\n Adjusted OR (95% CI)\n"
+    },
+    {
+     "bbox": [
+      308.3,
+      367.0,
+      341.9,
+      375.0
+     ],
+     "text": "OR (log scale)\n"
+    },
+    {
+     "bbox": [
+      246.8,
+      356.6,
+      402.1,
+      364.5
+     ],
+     "text": "1\n10\n0·2\n0·1\n2\n5\n0·05\n0·5\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "Articles\ne1823\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\nFigure 4: Proportional \nantibiotic susceptibility (A) \nand proportional antibiotic \nresistance (B) by bacterial \nspecies\nSusceptibility and resistance \nwere defined by ISO 20776-1 \nstandard or European \nCommittee on Antimicrobial \nSusceptibility Testing \nstandards. The y axis shows \nthe individual antibiotics (top \nrow) and their class (bottom \nrow). Higher values (nearer \n100% and darker colour) \nindicate a higher proportion of \nmicroorganisms were \nsusceptible to the specific \nantibiotic, out of all swabs \ntested for that antibiotic. Grey \nindicates that the antibiotic \nwas not tested for that \nmicroorganism. \nASP=antipseudomonal \npenicillin. AZT=aztreonam. \nCAR=carbapenem. \nCAZ=ceftazidime. CFZ-1=first-\ngeneration cephalosporin. \nCFZ-2=second-generation \ncephalosporin. CFZ-3=third-\ngeneration cephalosporin. \nCHL=chloramphenicol. \nCLI=clindamycin. \nDAP=daptomycin. \nERY=erythromycin. \nFID=fidaxomicin. \nFOS=fosfomycin. FLU-1=first-\ngeneration fluoroquinolone. \nFLU-2=second-generation \nfluoroquinolone. FLU-3=third-\ngeneration fluoroquinolone. \nFLU-4=fourth-generation \nfluoroquinolone. \nFLU=flucloxacillin. \nGEN=gentamicin. \nISO=isoniazid. LZD=linezolid. \nMET=metronidazole. \nNIT=nitrofurantoin. \nPEN=penicillin. \nPIV=pivmecillinam. \nPOL=polymyxin B. \nQ–D=quinupristin–dalfopristin. \nRIF=rifampicin. \nTRI=trimethoprim or \nsulfamethoxazole–\ntrimethoprim. \nTET=tetracycline. \nTGC=tigecycline. \nVAN=vancomycin.\nEnterobacter aerogenes\nStaphylocccus spp.\nKlebsiella ozaenae\nAcinetobacter baumanni\nKlebsiella aerogenes\nMorganella morganii\nRaoultella terrigena\nAerococcus spp.\nProteus spp.\nEnterobacter cloacae\nPseudomonas spp.\nAcinetobacter spp.\nCitrobacter spp.\nProteus penneri\nCoagulase-negative Staphylococcus\nProteus mirabilis\nEnterococcus faecium\nKlebsiella oxytoca\nEnterococcus spp.\nAcinetobacter parvus\nKlebsiella pneumoniae\nEnterobacter spp.\nStaphylococcus aureus\nEscherichia coli\nPseudomonas aeruginosa\nKlebsiella spp.\nStreptococcus spp.\nBacterial species\nA\nAerococcus spp.\nRaoultella terrigena\nEnterobacter aerogenes\nStaphylocccus spp.\nKlebsiella ozaenae\nMorganella morganii\nKlebsiella aerogenes\nAcinetobacter baumanni\nCoagulase-negative Staphylococcus\nKlebsiella oxytoca\nPseudomonas spp.\nProteus spp.\nEnterobacter cloacae\nAcinetobacter spp.\nCitrobacter spp.\nStreptococcus spp.\nProteus penneri\nProteus mirabilis\nEnterococcus faecium\nAcinetobacter parvus\nEnterococcus spp.\nKlebsiella spp\nEnterobacter spp\nEscherichia coli\nPseudomonas aeruginosa\nKlebsiella pneumoniae\nStaphylococcus aureus\nBacterial species\nGEN\nCHL\nTRI\nCAR\nCFZ-1\nCFZ-2\nCFZ-3\nPOL\nFLU-1\nFLU-2\nFLU-3\nFLU-4\nVAN\nTGC\nISO\nCLI\nDAP\nERY\nFID\nAZT\nNIT\nMET\nLZD\nASP\nFLU\nPEN\nPIV\nFOS\nRIF\nQ–D\nTET\nCAZ\nAminoglycoside\nAmphenicol\nAntifolate\nCarbapenem\nCephalosporin\nCephalosporin + \nbeta-lactamase inhibitor\nColistin\nFluoroquinolone\nGlycopeptide\nGlycylcycline\nIsoniazid\nMacrolide\nMonobactam\nNitrofuran\nNitroimidazole\nOxazolidinonone\nPenicillin\nPhosphonic\nRifampicin\nStreptogramin\nTetracycline\nAntibiotic\nB\nSusceptibility (%)\n0\n25\n50\n75\n100\nResistance (%)\n0\n25\n50\n75\n100\n",
+   "n_chars": 3100,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      51.0,
+      35.7,
+      87.4,
+      50.4
+     ],
+     "text": "Articles\n"
+    },
+    {
+     "bbox": [
+      28.3,
+      772.5,
+      555.6,
+      781.0
+     ],
+     "text": "e1823\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\n"
+    },
+    {
+     "bbox": [
+      33.5,
+      235.7,
+      111.8,
+      263.2
+     ],
+     "text": "Figure 4: Proportional \nantibiotic susceptibility (A) \nand proportional antibiotic \n"
+    },
+    {
+     "bbox": [
+      38.7,
+      263.4,
+      111.8,
+      272.0
+     ],
+     "text": "resistance (B) by bacterial \n"
+    },
+    {
+     "bbox": [
+      33.8,
+      272.2,
+      111.9,
+      298.2
+     ],
+     "text": "species\nSusceptibility and resistance \nwere defined by ISO 20776-1 \n"
+    },
+    {
+     "bbox": [
+      33.8,
+      298.4,
+      111.9,
+      315.7
+     ],
+     "text": "standard or European \nCommittee on Antimicrobial \n"
+    },
+    {
+     "bbox": [
+      31.4,
+      315.9,
+      111.9,
+      342.0
+     ],
+     "text": "Susceptibility Testing \nstandards. The y axis shows \nthe individual antibiotics (top \n"
+    },
+    {
+     "bbox": [
+      34.9,
+      342.2,
+      111.9,
+      350.7
+     ],
+     "text": "row) and their class (bottom \n"
+    },
+    {
+     "bbox": [
+      38.5,
+      350.9,
+      111.9,
+      359.5
+     ],
+     "text": "row). Higher values (nearer \n"
+    },
+    {
+     "bbox": [
+      28.7,
+      359.7,
+      111.9,
+      377.0
+     ],
+     "text": "100% and darker colour) \nindicate a higher proportion of \n"
+    },
+    {
+     "bbox": [
+      30.2,
+      377.2,
+      111.9,
+      412.0
+     ],
+     "text": "microorganisms were \nsusceptible to the specific \nantibiotic, out of all swabs \ntested for that antibiotic. Grey \n"
+    },
+    {
+     "bbox": [
+      37.1,
+      412.2,
+      111.9,
+      420.7
+     ],
+     "text": "indicates that the antibiotic \n"
+    },
+    {
+     "bbox": [
+      50.0,
+      420.9,
+      111.9,
+      429.5
+     ],
+     "text": "was not tested for that \n"
+    },
+    {
+     "bbox": [
+      38.7,
+      429.7,
+      111.9,
+      455.7
+     ],
+     "text": "microorganism. \nASP=antipseudomonal \npenicillin. AZT=aztreonam. \n"
+    },
+    {
+     "bbox": [
+      30.5,
+      455.9,
+      111.9,
+      473.2
+     ],
+     "text": "CAR=carbapenem. \nCAZ=ceftazidime. CFZ-1=first-\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      473.4,
+      111.9,
+      499.5
+     ],
+     "text": "generation cephalosporin. \nCFZ-2=second-generation \ncephalosporin. CFZ-3=third-\n"
+    },
+    {
+     "bbox": [
+      40.6,
+      499.7,
+      111.9,
+      508.2
+     ],
+     "text": "generation cephalosporin. \n"
+    },
+    {
+     "bbox": [
+      49.8,
+      508.4,
+      111.9,
+      517.0
+     ],
+     "text": "CHL=chloramphenicol. \n"
+    },
+    {
+     "bbox": [
+      59.0,
+      517.2,
+      111.9,
+      543.2
+     ],
+     "text": "CLI=clindamycin. \nDAP=daptomycin. \nERY=erythromycin. \n"
+    },
+    {
+     "bbox": [
+      31.4,
+      543.4,
+      111.9,
+      560.7
+     ],
+     "text": "FID=fidaxomicin. \nFOS=fosfomycin. FLU-1=first-\n"
+    },
+    {
+     "bbox": [
+      34.7,
+      560.9,
+      111.9,
+      569.5
+     ],
+     "text": "generation fluoroquinolone. \n"
+    },
+    {
+     "bbox": [
+      29.2,
+      569.7,
+      111.9,
+      587.0
+     ],
+     "text": "FLU-2=second-generation \nfluoroquinolone. FLU-3=third-\n"
+    },
+    {
+     "bbox": [
+      34.7,
+      587.2,
+      111.9,
+      595.7
+     ],
+     "text": "generation fluoroquinolone. \n"
+    },
+    {
+     "bbox": [
+      41.9,
+      595.9,
+      111.9,
+      604.5
+     ],
+     "text": "FLU-4=fourth-generation \n"
+    },
+    {
+     "bbox": [
+      62.0,
+      604.7,
+      111.9,
+      622.0
+     ],
+     "text": "fluoroquinolone. \nFLU=flucloxacillin. \n"
+    },
+    {
+     "bbox": [
+      33.3,
+      622.2,
+      111.9,
+      639.5
+     ],
+     "text": "GEN=gentamicin. \nISO=isoniazid. LZD=linezolid. \n"
+    },
+    {
+     "bbox": [
+      54.3,
+      639.7,
+      111.9,
+      648.2
+     ],
+     "text": "MET=metronidazole. \n"
+    },
+    {
+     "bbox": [
+      57.2,
+      648.4,
+      111.9,
+      657.0
+     ],
+     "text": "NIT=nitrofurantoin. \n"
+    },
+    {
+     "bbox": [
+      58.9,
+      657.2,
+      111.9,
+      674.5
+     ],
+     "text": "PEN=penicillin. \nPIV=pivmecillinam. \n"
+    },
+    {
+     "bbox": [
+      28.3,
+      674.7,
+      112.0,
+      692.0
+     ],
+     "text": "POL=polymyxin B. \nQ–D=quinupristin–dalfopristin. \n"
+    },
+    {
+     "bbox": [
+      54.6,
+      692.2,
+      111.9,
+      709.5
+     ],
+     "text": "RIF=rifampicin. \nTRI=trimethoprim or \n"
+    },
+    {
+     "bbox": [
+      60.4,
+      709.7,
+      110.6,
+      718.2
+     ],
+     "text": "sulfamethoxazole–\n"
+    },
+    {
+     "bbox": [
+      64.3,
+      718.4,
+      111.9,
+      735.7
+     ],
+     "text": "trimethoprim. \nTET=tetracycline. \n"
+    },
+    {
+     "bbox": [
+      61.1,
+      735.9,
+      111.9,
+      753.2
+     ],
+     "text": "TGC=tigecycline. \nVAN=vancomycin.\n"
+    },
+    {
+     "bbox": [
+      165.9,
+      162.9,
+      220.2,
+      170.8
+     ],
+     "text": "Enterobacter aerogenes\n"
+    },
+    {
+     "bbox": [
+      175.7,
+      171.5,
+      220.2,
+      179.4
+     ],
+     "text": "Staphylocccus spp.\n"
+    },
+    {
+     "bbox": [
+      162.4,
+      180.0,
+      220.2,
+      196.5
+     ],
+     "text": "Klebsiella ozaenae\nAcinetobacter baumanni\n"
+    },
+    {
+     "bbox": [
+      171.5,
+      197.1,
+      220.2,
+      213.6
+     ],
+     "text": "Klebsiella aerogenes\nMorganella morganii\n"
+    },
+    {
+     "bbox": [
+      174.6,
+      214.2,
+      220.2,
+      222.1
+     ],
+     "text": "Raoultella terrigena\n"
+    },
+    {
+     "bbox": [
+      182.9,
+      222.7,
+      220.2,
+      230.7
+     ],
+     "text": "Aerococcus spp.\n"
+    },
+    {
+     "bbox": [
+      172.1,
+      231.3,
+      220.2,
+      247.8
+     ],
+     "text": "Proteus spp.\nEnterobacter cloacae\n"
+    },
+    {
+     "bbox": [
+      176.1,
+      248.4,
+      220.2,
+      264.9
+     ],
+     "text": "Pseudomonas spp.\nAcinetobacter spp.\n"
+    },
+    {
+     "bbox": [
+      183.0,
+      265.5,
+      220.2,
+      273.4
+     ],
+     "text": "Citrobacter spp.\n"
+    },
+    {
+     "bbox": [
+      134.0,
+      274.0,
+      220.2,
+      290.5
+     ],
+     "text": "Proteus penneri\nCoagulase-negative Staphylococcus\n"
+    },
+    {
+     "bbox": [
+      169.7,
+      291.1,
+      220.2,
+      307.6
+     ],
+     "text": "Proteus mirabilis\nEnterococcus faecium\n"
+    },
+    {
+     "bbox": [
+      168.5,
+      308.2,
+      220.2,
+      341.8
+     ],
+     "text": "Klebsiella oxytoca\nEnterococcus spp.\nAcinetobacter parvus\nKlebsiella pneumoniae\n"
+    },
+    {
+     "bbox": [
+      167.3,
+      342.4,
+      220.2,
+      358.9
+     ],
+     "text": "Enterobacter spp.\nStaphylococcus aureus\n"
+    },
+    {
+     "bbox": [
+      160.6,
+      359.5,
+      220.2,
+      376.0
+     ],
+     "text": "Escherichia coli\nPseudomonas aeruginosa\n"
+    },
+    {
+     "bbox": [
+      176.4,
+      376.6,
+      220.2,
+      393.1
+     ],
+     "text": "Klebsiella spp.\nStreptococcus spp.\n"
+    },
+    {
+     "bbox": [
+      122.8,
+      259.7,
+      130.7,
+      299.9
+     ],
+     "text": "Bacterial species\n"
+    },
+    {
+     "bbox": [
+      215.0,
+      132.1,
+      220.2,
+      142.5
+     ],
+     "text": "A\n"
+    },
+    {
+     "bbox": [
+      165.9,
+      438.0,
+      220.2,
+      463.1
+     ],
+     "text": "Aerococcus spp.\nRaoultella terrigena\nEnterobacter aerogenes\n"
+    },
+    {
+     "bbox": [
+      175.7,
+      463.7,
+      220.2,
+      471.6
+     ],
+     "text": "Staphylocccus spp.\n"
+    },
+    {
+     "bbox": [
+      171.5,
+      472.2,
+      220.2,
+      488.7
+     ],
+     "text": "Klebsiella ozaenae\nMorganella morganii\n"
+    },
+    {
+     "bbox": [
+      134.0,
+      489.3,
+      220.2,
+      514.3
+     ],
+     "text": "Klebsiella aerogenes\nAcinetobacter baumanni\nCoagulase-negative Staphylococcus\n"
+    },
+    {
+     "bbox": [
+      176.1,
+      515.0,
+      220.2,
+      531.4
+     ],
+     "text": "Klebsiella oxytoca\nPseudomonas spp.\n"
+    },
+    {
+     "bbox": [
+      172.1,
+      532.1,
+      220.2,
+      548.5
+     ],
+     "text": "Proteus spp.\nEnterobacter cloacae\n"
+    },
+    {
+     "bbox": [
+      176.4,
+      549.2,
+      220.2,
+      557.1
+     ],
+     "text": "Acinetobacter spp.\n"
+    },
+    {
+     "bbox": [
+      176.4,
+      557.7,
+      220.2,
+      574.2
+     ],
+     "text": "Citrobacter spp.\nStreptococcus spp.\n"
+    },
+    {
+     "bbox": [
+      169.7,
+      574.8,
+      220.2,
+      599.8
+     ],
+     "text": "Proteus penneri\nProteus mirabilis\nEnterococcus faecium\n"
+    },
+    {
+     "bbox": [
+      170.9,
+      600.4,
+      220.2,
+      608.4
+     ],
+     "text": "Acinetobacter parvus\n"
+    },
+    {
+     "bbox": [
+      178.3,
+      609.0,
+      220.2,
+      616.9
+     ],
+     "text": "Enterococcus spp.\n"
+    },
+    {
+     "bbox": [
+      180.4,
+      617.5,
+      220.2,
+      634.0
+     ],
+     "text": "Klebsiella spp\nEnterobacter spp\n"
+    },
+    {
+     "bbox": [
+      160.6,
+      634.6,
+      220.2,
+      651.1
+     ],
+     "text": "Escherichia coli\nPseudomonas aeruginosa\n"
+    },
+    {
+     "bbox": [
+      167.3,
+      651.7,
+      220.2,
+      668.2
+     ],
+     "text": "Klebsiella pneumoniae\nStaphylococcus aureus\n"
+    },
+    {
+     "bbox": [
+      122.8,
+      535.8,
+      130.7,
+      576.0
+     ],
+     "text": "Bacterial species\n"
+    },
+    {
+     "bbox": [
+      220.3,
+      672.8,
+      233.7,
+      686.2
+     ],
+     "text": "GEN\n"
+    },
+    {
+     "bbox": [
+      231.3,
+      671.5,
+      244.0,
+      684.2
+     ],
+     "text": "CHL\n"
+    },
+    {
+     "bbox": [
+      243.2,
+      672.5,
+      254.5,
+      683.8
+     ],
+     "text": "TRI\n"
+    },
+    {
+     "bbox": [
+      252.0,
+      672.1,
+      265.0,
+      685.1
+     ],
+     "text": "CAR\n"
+    },
+    {
+     "bbox": [
+      259.8,
+      671.8,
+      275.5,
+      687.6
+     ],
+     "text": "CFZ-1\n"
+    },
+    {
+     "bbox": [
+      270.0,
+      672.0,
+      285.9,
+      687.9
+     ],
+     "text": "CFZ-2\n"
+    },
+    {
+     "bbox": [
+      280.1,
+      671.9,
+      296.0,
+      687.8
+     ],
+     "text": "CFZ-3\n"
+    },
+    {
+     "bbox": [
+      303.7,
+      671.5,
+      316.4,
+      684.2
+     ],
+     "text": "POL\n"
+    },
+    {
+     "bbox": [
+      310.3,
+      671.8,
+      326.3,
+      687.8
+     ],
+     "text": "FLU-1\n"
+    },
+    {
+     "bbox": [
+      320.7,
+      672.0,
+      336.8,
+      688.1
+     ],
+     "text": "FLU-2\n"
+    },
+    {
+     "bbox": [
+      330.8,
+      671.8,
+      346.9,
+      687.9
+     ],
+     "text": "FLU-3\n"
+    },
+    {
+     "bbox": [
+      340.8,
+      672.1,
+      357.1,
+      688.5
+     ],
+     "text": "FLU-4\n"
+    },
+    {
+     "bbox": [
+      353.8,
+      672.6,
+      367.4,
+      686.2
+     ],
+     "text": "VAN\n"
+    },
+    {
+     "bbox": [
+      364.9,
+      672.7,
+      377.8,
+      685.6
+     ],
+     "text": "TGC\n"
+    },
+    {
+     "bbox": [
+      376.9,
+      672.0,
+      388.5,
+      683.7
+     ],
+     "text": "ISO\n"
+    },
+    {
+     "bbox": [
+      386.9,
+      672.4,
+      397.9,
+      683.3
+     ],
+     "text": "CLI\n"
+    },
+    {
+     "bbox": [
+      395.5,
+      672.3,
+      408.8,
+      685.5
+     ],
+     "text": "DAP\n"
+    },
+    {
+     "bbox": [
+      406.1,
+      672.9,
+      418.6,
+      685.4
+     ],
+     "text": "ERY\n"
+    },
+    {
+     "bbox": [
+      417.4,
+      671.9,
+      428.8,
+      683.3
+     ],
+     "text": "FID\n"
+    },
+    {
+     "bbox": [
+      426.4,
+      672.8,
+      439.3,
+      685.7
+     ],
+     "text": "AZT\n"
+    },
+    {
+     "bbox": [
+      437.8,
+      672.8,
+      449.8,
+      684.8
+     ],
+     "text": "NIT\n"
+    },
+    {
+     "bbox": [
+      446.4,
+      672.9,
+      460.0,
+      686.5
+     ],
+     "text": "MET\n"
+    },
+    {
+     "bbox": [
+      457.9,
+      672.0,
+      470.4,
+      684.6
+     ],
+     "text": "LZD\n"
+    },
+    {
+     "bbox": [
+      467.9,
+      672.3,
+      480.6,
+      685.0
+     ],
+     "text": "ASP\n"
+    },
+    {
+     "bbox": [
+      478.2,
+      672.7,
+      490.6,
+      685.1
+     ],
+     "text": "FLU\n"
+    },
+    {
+     "bbox": [
+      487.5,
+      672.5,
+      500.5,
+      685.5
+     ],
+     "text": "PEN\n"
+    },
+    {
+     "bbox": [
+      499.8,
+      673.1,
+      511.3,
+      684.5
+     ],
+     "text": "PIV\n"
+    },
+    {
+     "bbox": [
+      509.4,
+      672.7,
+      522.0,
+      685.3
+     ],
+     "text": "FOS\n"
+    },
+    {
+     "bbox": [
+      520.4,
+      672.8,
+      531.4,
+      683.8
+     ],
+     "text": "RIF\n"
+    },
+    {
+     "bbox": [
+      529.1,
+      672.0,
+      542.0,
+      684.9
+     ],
+     "text": "Q–D\n"
+    },
+    {
+     "bbox": [
+      539.7,
+      673.1,
+      552.1,
+      685.4
+     ],
+     "text": "TET\n"
+    },
+    {
+     "bbox": [
+      293.0,
+      672.6,
+      305.9,
+      685.5
+     ],
+     "text": "CAZ\n"
+    },
+    {
+     "bbox": [
+      200.7,
+      690.3,
+      232.1,
+      721.7
+     ],
+     "text": "Aminoglycoside\n"
+    },
+    {
+     "bbox": [
+      217.0,
+      691.2,
+      241.9,
+      716.1
+     ],
+     "text": "Amphenicol\n"
+    },
+    {
+     "bbox": [
+      231.3,
+      689.5,
+      253.0,
+      711.2
+     ],
+     "text": "Antifolate\n"
+    },
+    {
+     "bbox": [
+      237.3,
+      689.9,
+      263.0,
+      715.7
+     ],
+     "text": "Carbapenem\n"
+    },
+    {
+     "bbox": [
+      254.5,
+      690.0,
+      283.1,
+      718.5
+     ],
+     "text": "Cephalosporin\n"
+    },
+    {
+     "bbox": [
+      259.1,
+      688.2,
+      304.1,
+      737.8
+     ],
+     "text": "Cephalosporin + \nbeta-lactamase inhibitor\n"
+    },
+    {
+     "bbox": [
+      297.9,
+      689.4,
+      315.3,
+      706.8
+     ],
+     "text": "Colistin\n"
+    },
+    {
+     "bbox": [
+      307.7,
+      689.9,
+      340.0,
+      722.1
+     ],
+     "text": "Fluoroquinolone\n"
+    },
+    {
+     "bbox": [
+      338.4,
+      689.9,
+      364.9,
+      716.5
+     ],
+     "text": "Glycopeptide\n"
+    },
+    {
+     "bbox": [
+      350.0,
+      689.7,
+      375.6,
+      715.3
+     ],
+     "text": "Glycylcycline\n"
+    },
+    {
+     "bbox": [
+      367.1,
+      690.7,
+      386.7,
+      710.2
+     ],
+     "text": "Isoniazid\n"
+    },
+    {
+     "bbox": [
+      390.9,
+      689.6,
+      412.2,
+      710.8
+     ],
+     "text": "Macrolide\n"
+    },
+    {
+     "bbox": [
+      411.0,
+      689.6,
+      438.1,
+      716.7
+     ],
+     "text": "Monobactam\n"
+    },
+    {
+     "bbox": [
+      425.4,
+      689.6,
+      447.9,
+      712.0
+     ],
+     "text": "Nitrofuran\n"
+    },
+    {
+     "bbox": [
+      428.3,
+      689.8,
+      457.8,
+      719.3
+     ],
+     "text": "Nitroimidazole\n"
+    },
+    {
+     "bbox": [
+      435.0,
+      689.5,
+      467.9,
+      722.5
+     ],
+     "text": "Oxazolidinonone\n"
+    },
+    {
+     "bbox": [
+      474.5,
+      689.3,
+      494.2,
+      709.1
+     ],
+     "text": "Penicillin\n"
+    },
+    {
+     "bbox": [
+      495.4,
+      690.0,
+      519.6,
+      714.2
+     ],
+     "text": "Phosphonic\n"
+    },
+    {
+     "bbox": [
+      507.4,
+      689.3,
+      530.0,
+      711.9
+     ],
+     "text": "Rifampicin\n"
+    },
+    {
+     "bbox": [
+      511.3,
+      689.6,
+      540.4,
+      718.7
+     ],
+     "text": "Streptogramin\n"
+    },
+    {
+     "bbox": [
+      526.1,
+      689.6,
+      550.6,
+      714.1
+     ],
+     "text": "Tetracycline\n"
+    },
+    {
+     "bbox": [
+      375.4,
+      739.3,
+      400.3,
+      747.2
+     ],
+     "text": "Antibiotic\n"
+    },
+    {
+     "bbox": [
+      215.3,
+      407.2,
+      219.9,
+      417.6
+     ],
+     "text": "B\n"
+    },
+    {
+     "bbox": [
+      225.5,
+      134.4,
+      268.4,
+      142.4
+     ],
+     "text": "Susceptibility (%)\n"
+    },
+    {
+     "bbox": [
+      224.2,
+      151.6,
+      317.2,
+      159.6
+     ],
+     "text": "0\n25\n50\n75\n100\n"
+    },
+    {
+     "bbox": [
+      225.3,
+      409.1,
+      261.0,
+      417.0
+     ],
+     "text": "Resistance (%)\n"
+    },
+    {
+     "bbox": [
+      224.2,
+      426.3,
+      317.2,
+      434.2
+     ],
+     "text": "0\n25\n50\n75\n100\n"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "text": "Articles\nwww.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1824\nof infection control teams. Around half of hospitals that \nperformed microbiological testing had regular reviews by \ninfection control teams and more than a third had no \nreviews by infection control teams. Despite widespread \nuse of prophylactic antibiotics, they were frequently \nineffective, which is associated with a substantial increase \nin MDR organisms. Data are scarce from LMICs and the \nlittle evidence that has emerged is concerning. A study \nfrom Uganda of 83 patients with SSIs found that \n86·0% of aerobic bacteria isolated were MDR.21,22 A study \nfrom Benin found that 41·2% of the bacteria isolated \nfrom SSIs were MDR.23 A 2024 meta-analysis of \n59 \narticles \nidentified \nthat \nthe \ntop \nthree \nSSI \nmicroorganisms had very high levels of AMR \n(48% methicillin resistance in S aureus, 64% in E coli, and \nup to 85% in Klebsiella pneumoniae).24 AMR is particularly \nchallenging in LMICs with a scarcity of microbial data, \nlower levels of awareness, and widespread lack of local \nguidelines.\nThe findings in this study sit within and expand upon \nthe Mapping Antimicrobial Resistance and Antimicrobial \nUse Partnership9 involving 14 African countries, which \nidentified that only 1·3% of laboratories across the \n14 countries perform bacteriological testing and \n12 of the 14 countries have a drug resistance index at \nleast twice the benchmark of 25%.25 Poor access to \nmicrobiology diagnostics and overuse and misuse of \nantimicrobials are major drivers in the development \nof MDR.8,26\nOptimising targeted antibiotic treatment requires a full \ncomplement of microbiology services, stewardship, \neducation, and appropriate antimicrobial use. Substantial \ninvestment is required in infrastructure and workforce, \nwhich poses significant challenges in resource-limited \nsettings.27,28 When patients pay for their own health care, \ndiagnosis and treatment of SSI can be beyond the means \nof public health-care systems and can lead to catastrophic \nexpenditure for patients and families.3,14,29 Worsening \nMDR could outpace efforts to expand microbiological \ninfrastructure and services and lead to extensive \nuntreatable SSIs.26\nA strength of this study is its scope, reporting data \nacross 35 hospitals from seven LMICs, providing a \ncomprehensive overview of the testing capacity and \nMDR on the front line. This study is based on high-\nquality, prospectively collected data from dedicated \nresearch teams as part of a randomised controlled trial, \nmaking this a generalisable snapshot of the current \nenvironment. A limitation of this study was that, \nalthough it was included in the FALCON protocol \nwritten before the trial, this was a post-hoc prospective \nsecondary analysis of a randomised controlled trial, and \nmicroorganism analysis was not the primary outcome of \nthe FALCON trial. Other limitations include: we were \nunable to report the exact reason that swabs were or \nwere not taken; due to current practices in hospitals, we \nwere unable to capture wound swab data on MDR and \nmicroorganisms in every SSI; due to limited testing \ncapacity, a substantial number of microorganisms could \nnot be classified as MDR or not MDR by the accepted \ndefinition; we could not specify the cases where SSI was \nprevented by antibiotics, although we suspect this was \nproportionately very low because we found that antibiotic \nuse was almost entirely non-targeted; detailed data on \nspecific factors that influenced prophylactic antibiotic \nuse were not available (based on national or regional \nguidelines, the patient’s choice, or intraoperative \nfindings); and granular information on the laboratory \ntesting conditions, quality controls, culture mediums, \nand transport was beyond the scope of this study and \nrequires a larger, separate study, designed specifically to \nanswer these questions. The hospital-level survey was \nnot intended to be exhaustive, because it was intended to \nsupport the secondary analysis from the primary trial. It \nwas intended to identify unmet needs and areas for \nfocusing future research.\nTo prevent worsening MDR, goal-directed future \nresearch and initiatives are needed. First, prevention \nefforts are essential. These will reduce overall antibiotic \nconsumption and can be cost-effective and implemented \nin all settings, even where resources are limited. For \nexample, the ChEETAh randomised controlled trial has \nshown that a change of gloves and instruments before \nwound closure significantly reduces SSI.30 Second, global \nmapping of local microorganism patterns by way of an \nactive and responsive surveillance network will be key to \neffective, targeted antibiotic use. Third, evidence-based \nbest practice must be implemented on the front line, \nfacilitated by communication between departments, \neducation of staff, and behavioural change through \nawareness and team building. Fourth, the effectiveness \nof a dedicated infection control team needs to be explored \nand a cost-effectiveness model is needed. Finally, when \nSSIs do occur, capacity for microorganism testing is \ncrucial for targeted treatment instead of broad-spectrum \nantibiotic use. To achieve this targeted antibiotic \ntreatment, effective, rapid, low-cost diagnostic tools are \nneeded. Evidence-based prescribing on local microbial \nand resistance patterns should be the standard of care.\nIn conclusion, systemic weaknesses exist in the \ntesting capacity and prevention of MDR in LMIC \nhospitals. These weaknesses are associated with non-\ntargeted antibiotic use and high levels of AMR. Future \nresearch should be directed towards development of \nguidelines, and implementation of infection control \nteams to educate staff and patients to reduce the burden \nof MDR SSIs.\nContributors\nThe role of all coauthors is shown in appendix 3 (pp 117–122). \nThe writing group, which consisted of the microbiology expert group \nand the surgical expert group, contributed to conceptualisation, \nmethodology, data curation, analysis, investigation, writing of the \noriginal draft, and review and editing, and have accessed and verified the \ndata. EL (UK), SRV (India), and AB (UK) were responsible for the \ndecision to submit the manuscript for publication.\n",
+   "n_chars": 6247,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      507.8,
+      35.7,
+      544.3,
+      50.4
+     ],
+     "text": "Articles\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      772.5,
+      564.1,
+      781.0
+     ],
+     "text": "www.thelancet.com/lancetgh   Vol 12   November 2024\t\ne1824\n"
+    },
+    {
+     "bbox": [
+      36.8,
+      127.2,
+      253.1,
+      335.9
+     ],
+     "text": "of infection control teams. Around half of hospitals that \nperformed microbiological testing had regular reviews by \ninfection control teams and more than a third had no \nreviews by infection control teams. Despite widespread \nuse of prophylactic antibiotics, they were frequently \nineffective, which is associated with a substantial increase \nin MDR organisms. Data are scarce from LMICs and the \nlittle evidence that has emerged is concerning. A study \nfrom Uganda of 83 patients with SSIs found that \n86·0% of aerobic bacteria isolated were MDR.21,22 A study \nfrom Benin found that 41·2% of the bacteria isolated \nfrom SSIs were MDR.23 A 2024 meta-analysis of \n59 \narticles \nidentified \nthat \nthe \ntop \nthree \nSSI \nmicroorganisms had very high levels of AMR \n(48% methicillin resistance in S aureus, 64% in E coli, and \nup to 85% in Klebsiella pneumoniae).24 AMR is particularly \nchallenging in LMICs with a scarcity of microbial data, \nlower levels of awareness, and widespread lack of local \nguidelines.\n"
+    },
+    {
+     "bbox": [
+      36.8,
+      336.2,
+      253.1,
+      445.9
+     ],
+     "text": "The findings in this study sit within and expand upon \nthe Mapping Antimicrobial Resistance and Antimicrobial \nUse Partnership9 involving 14 African countries, which \nidentified that only 1·3% of laboratories across the \n14 countries perform bacteriological testing and \n12 of the 14 countries have a drug resistance index at \nleast twice the benchmark of 25%.25 Poor access to \nmicrobiology diagnostics and overuse and misuse of \nantimicrobials are major drivers in the development \nof MDR.8,26\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      446.2,
+      253.1,
+      577.9
+     ],
+     "text": "Optimising targeted antibiotic treatment requires a full \ncomplement of microbiology services, stewardship, \neducation, and appropriate antimicrobial use. Substantial \ninvestment is required in infrastructure and workforce, \nwhich poses significant challenges in resource-limited \nsettings.27,28 When patients pay for their own health care, \ndiagnosis and treatment of SSI can be beyond the means \nof public health-care systems and can lead to catastrophic \nexpenditure for patients and families.3,14,29 Worsening \nMDR could outpace efforts to expand microbiological \ninfrastructure and services and lead to extensive \nuntreatable SSIs.26\n"
+    },
+    {
+     "bbox": [
+      36.9,
+      578.2,
+      253.1,
+      753.9
+     ],
+     "text": "A strength of this study is its scope, reporting data \nacross 35 hospitals from seven LMICs, providing a \ncomprehensive overview of the testing capacity and \nMDR on the front line. This study is based on high-\nquality, prospectively collected data from dedicated \nresearch teams as part of a randomised controlled trial, \nmaking this a generalisable snapshot of the current \nenvironment. A limitation of this study was that, \nalthough it was included in the FALCON protocol \nwritten before the trial, this was a post-hoc prospective \nsecondary analysis of a randomised controlled trial, and \nmicroorganism analysis was not the primary outcome of \nthe FALCON trial. Other limitations include: we were \nunable to report the exact reason that swabs were or \nwere not taken; due to current practices in hospitals, we \nwere unable to capture wound swab data on MDR and \n"
+    },
+    {
+     "bbox": [
+      262.2,
+      127.2,
+      478.5,
+      335.9
+     ],
+     "text": "microorganisms in every SSI; due to limited testing \ncapacity, a substantial number of microorganisms could \nnot be classified as MDR or not MDR by the accepted \ndefinition; we could not specify the cases where SSI was \nprevented by antibiotics, although we suspect this was \nproportionately very low because we found that antibiotic \nuse was almost entirely non-targeted; detailed data on \nspecific factors that influenced prophylactic antibiotic \nuse were not available (based on national or regional \nguidelines, the patient’s choice, or intraoperative \nfindings); and granular information on the laboratory \ntesting conditions, quality controls, culture mediums, \nand transport was beyond the scope of this study and \nrequires a larger, separate study, designed specifically to \nanswer these questions. The hospital-level survey was \nnot intended to be exhaustive, because it was intended to \nsupport the secondary analysis from the primary trial. It \nwas intended to identify unmet needs and areas for \nfocusing future research.\n"
+    },
+    {
+     "bbox": [
+      262.2,
+      336.1,
+      478.5,
+      588.9
+     ],
+     "text": "To prevent worsening MDR, goal-directed future \nresearch and initiatives are needed. First, prevention \nefforts are essential. These will reduce overall antibiotic \nconsumption and can be cost-effective and implemented \nin all settings, even where resources are limited. For \nexample, the ChEETAh randomised controlled trial has \nshown that a change of gloves and instruments before \nwound closure significantly reduces SSI.30 Second, global \nmapping of local microorganism patterns by way of an \nactive and responsive surveillance network will be key to \neffective, targeted antibiotic use. Third, evidence-based \nbest practice must be implemented on the front line, \nfacilitated by communication between departments, \neducation of staff, and behavioural change through \nawareness and team building. Fourth, the effectiveness \nof a dedicated infection control team needs to be explored \nand a cost-effectiveness model is needed. Finally, when \nSSIs do occur, capacity for microorganism testing is \ncrucial for targeted treatment instead of broad-spectrum \nantibiotic use. To achieve this targeted antibiotic \ntreatment, effective, rapid, low-cost diagnostic tools are \nneeded. Evidence-based prescribing on local microbial \nand resistance patterns should be the standard of care.\n"
+    },
+    {
+     "bbox": [
+      262.2,
+      589.2,
+      478.5,
+      676.9
+     ],
+     "text": "In conclusion, systemic weaknesses exist in the \ntesting capacity and prevention of MDR in LMIC \nhospitals. These weaknesses are associated with non-\ntargeted antibiotic use and high levels of AMR. Future \nresearch should be directed towards development of \nguidelines, and implementation of infection control \nteams to educate staff and patients to reduce the burden \nof MDR SSIs.\n"
+    },
+    {
+     "bbox": [
+      262.2,
+      680.6,
+      477.0,
+      750.6
+     ],
+     "text": "Contributors\nThe role of all coauthors is shown in appendix 3 (pp 117–122). \nThe writing group, which consisted of the microbiology expert group \nand the surgical expert group, contributed to conceptualisation, \nmethodology, data curation, analysis, investigation, writing of the \noriginal draft, and review and editing, and have accessed and verified the \ndata. EL (UK), SRV (India), and AB (UK) were responsible for the \ndecision to submit the manuscript for publication.\n"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "text": "Articles\ne1825\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\nEquitable partnership declaration\nThe authors of this paper have submitted an equitable partnership \ndeclaration (appendix 4). This statement allows researchers to describe \nhow their work engages with researchers, communities, and \nenvironments in the countries of study. This statement is part of \nThe Lancet Global Health’s broader goal to decolonise global health.\nDeclaration of interests\nWe declare no competing interests.\nData sharing\nData sharing requests will be considered by the writing group upon \nwritten request to the corresponding author.\nAcknowledgments\nThis research was funded by a National Institute for Health and Care \nResearch (NIHR) Global Health Research Unit Grant (NIHR 16.136.79). \nThe views expressed are those of the authors and not necessarily those \nof the NIHR or the UK Department of Health and Social Care.\nReferences\n1\t\nBiccard BM, Madiba TE, Kluyts H-L, et al. Perioperative patient \noutcomes in the African Surgical Outcomes Study: a 7-day \nprospective observational cohort study. Lancet 2018; 391: 1589–98.\n2\t\nBhangu A, Ademuyiwa AO, Aguilera ML, et al. Surgical site \ninfection after gastrointestinal surgery in high-income, middle-\nincome, and low-income countries: a prospective, international, \nmulticentre cohort study. Lancet Infect Dis 2018; 18: 516–25.\n3\t\nAlkaaki A, Al-Radi OO, Khoja A, et al. Surgical site infection \nfollowing abdominal surgery: a prospective cohort study. Can J Surg \n2019; 62: 111–17.\n4\t\nAdemuyiwa AO, Hardy P, Runigamugabo E, et al. Reducing \nsurgical site infections in low-income and middle-income countries \n(FALCON): a pragmatic, multicentre, stratified, randomised \ncontrolled trial. Lancet 2021; 398: 1687–99.\n5\t\nAllegranzi B, Zayed B, Bischoff P, et al. New WHO \nrecommendations on intraoperative and postoperative measures for \nsurgical site infection prevention: an evidence-based global \nperspective. Lancet Infect Dis 2016; 16: e288–303.\n6\t\nKlein EY, Milkowska-Shibata M, Tseng KK, et al. Assessment of \nWHO antibiotic consumption and access targets in 76 countries, \n2000–15: an analysis of pharmaceutical sales data. Lancet Infect Dis \n2021; 21: 107–15.\n7\t\nKlein EY, Van Boeckel TP, Martinez EM, et al. Global increase and \ngeographic convergence in antibiotic consumption between 2000 \nand 2015. Proc Natl Acad Sci USA 2018; 115: E3463–70.\n8\t\nWHO. Antimicrobial resistance. 2023. https://www.who.int/news-\nroom/fact-sheets/detail/antimicrobial-resistance (accessed \nNov 30, 2023).\n9\t\nAfrica Centres for Disease Control and Prevention. Mapping \nAntimicrobial Resistance and Antimicrobial Use Partnership \n(MAAP) country reports. https://africacdc.org/download/mapping-\nantimicrobial-resistance-and-antimicrobial-use-partnership-maap-\ncountry-reports (accessed Oct 24, 2023).\n10\t\nThe Fleming Fund. About the Fleming Fund. https://www.\nflemingfund.org/about-us (accessed Oct 24, 2023).\n11\t\nGordon N, Aggarwal V, Amos B, et al. The UK Fleming Fund: \ndeveloping AMR surveillance capacity in low- and middle-income \ncountries. Int J Infect Dis 2020; 101: 40.\n12\t\nTanwar J, Das S, Fatima Z, Hameed S. Multidrug resistance: \nan emerging crisis. Interdiscip Perspect Infect Dis 2014; \n2014: 541340.\n13\t\nMurray CJL, Ikuta KS, Sharara F, et al. Global burden of bacterial \nantimicrobial resistance in 2019: a systematic analysis. Lancet 2022; \n399: 629–55.\n14\t\nDadgostar P. Antimicrobial resistance: implications and costs. \nInfect Drug Resist 2019; 12: 3903–10.\n15\t\nNIHR Global Health Research Unit on Global Surgery. Pragmatic \nmulticentre factorial randomized controlled trial testing measures to \nreduce surgical site infection in low- and middle-income countries: \nstudy protocol of the FALCON trial. Colorectal Dis 2021; 23: 298–306.\n16\t\nVandenbroucke JP, von Elm E, Altman DG, et al. Strengthening the \nReporting of Observational Studies in Epidemiology (STROBE): \nexplanation and elaboration. Ann Intern Med 2007; 147: W163-94.\n17\t\nBorchardt RA, Tzizik D. Update on surgical site infections: the new \nCDC guidelines. JAAPA 2018; 31: 52–54.\n18\t\nCusack TP, Ashley EA, Ling CL, et al. Time to switch from CLSI to \nEUCAST? A Southeast Asian perspective. Clin Microbiol Infect 2019; \n25: 782–85.\n19\t\nMagiorakos AP, Srinivasan A, Carey RB, et al. Multidrug-resistant, \nextensively drug-resistant and pandrug-resistant bacteria: \nan international expert proposal for interim standard definitions for \nacquired resistance. Clin Microbiol Infect 2012; 18: 268–81.\n20\t Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. \nResearch electronic data capture (REDCap)—a metadata-driven \nmethodology and workflow process for providing translational \nresearch informatics support. J Biomed Inform 2009; 42: 377–81.\n21\t\nHope D, Ampaire L, Oyet C, Muwanguzi E, Twizerimana H, \nApecu RO. Antimicrobial resistance in pathogenic aerobic bacteria \ncausing surgical site infections in Mbarara regional referral \nhospital, southwestern Uganda. Sci Rep 2019; 9: 17299.\n22\t Sartelli M, C Hardcastle T, Catena F, et al. Antibiotic use in low and \nmiddle-income countries and the challenges of antimicrobial \nresistance in surgery. Antibiotics (Basel) 2020; 9: 497.\n23\t Adrien HM, Alexandre AS, Tobome SR, et al. Epidemiological \naspects of surgical site infections in an income country. The case of \nregional hospital center, Borgou (Benin). Int J Med Res Health Sci \n2017; 3: 29–33.\n24\t\nMonk EJM, Jones TPW, Bongomin F, et al. Antimicrobial resistance \nin bacterial wound, skin, soft tissue and surgical site infections in \nCentral, Eastern, Southern and Western Africa: a systematic review \nand meta-analysis. PLoS Glob Public Health 2024; 4: e0003077.\n25\t African Society of Laboratory Medicine. Incomplete antimicrobial \nresistance (AMR) data in Africa: the crisis within the crisis. 2022. \nhttps://aslm.org/wp-content/uploads/2022/09/ASLM_MAAP-\nPolicy-Brief_Embargoed-until-15-Sept-6AM-GMT.pdf?x89467 \n(accessed Oct 24, 2023).\n26\t WHO. Global action plan on antimicrobial resistance. 2016. https://\niris.who.int/bitstream/handle/10665/193736/9789241509763_eng.\npdf?sequence=1 (accessed Oct 24, 2023).\n27\t\nMonahan M, Glasbey J, Roberts TE, et al. The costs of surgical site \ninfection after abdominal surgery in middle-income countries: key \nresource use in wound infection (KIWI) study. J Hosp Infect 2023; \n136: 38–44.\n28\t Rickard J, Beilman G, Forrester J, et al. Surgical infections in low- \nand middle-income countries: a global assessment of the burden \nand management needs. Surg Infect (Larchmt) 2020; 21: 478–94.\n29\t Badia JM, Casey AL, Petrosillo N, Hudson PM, Mitchell SA, \nCrosby C. Impact of surgical site infection on healthcare costs and \npatient outcomes: a systematic review in six European countries. \nJ Hosp Inf 2017; 96: 1–15.\n30\t NIHR Global Research Health Unit on Global Surgery. Routine \nsterile glove and instrument change at the time of abdominal \nwound closure to prevent surgical site infection (ChEETAh): \na pragmatic, cluster-randomised trial in seven low-income and \nmiddle-income countries. Lancet 2022; 400: 1767–76.\nSee Online for appendix 4\n",
+   "n_chars": 7112,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      51.0,
+      35.7,
+      87.4,
+      50.4
+     ],
+     "text": "Articles\n"
+    },
+    {
+     "bbox": [
+      28.3,
+      772.5,
+      555.6,
+      781.0
+     ],
+     "text": "e1825\t\nwww.thelancet.com/lancetgh   Vol 12   November 2024\n"
+    },
+    {
+     "bbox": [
+      119.1,
+      128.7,
+      327.7,
+      181.3
+     ],
+     "text": "Equitable partnership declaration\nThe authors of this paper have submitted an equitable partnership \ndeclaration (appendix 4). This statement allows researchers to describe \nhow their work engages with researchers, communities, and \nenvironments in the countries of study. This statement is part of \nThe Lancet Global Health’s broader goal to decolonise global health.\n"
+    },
+    {
+     "bbox": [
+      119.1,
+      185.5,
+      222.3,
+      203.0
+     ],
+     "text": "Declaration of interests\nWe declare no competing interests.\n"
+    },
+    {
+     "bbox": [
+      119.1,
+      207.2,
+      318.8,
+      233.5
+     ],
+     "text": "Data sharing\nData sharing requests will be considered by the writing group upon \nwritten request to the corresponding author.\n"
+    },
+    {
+     "bbox": [
+      119.1,
+      237.7,
+      331.1,
+      281.5
+     ],
+     "text": "Acknowledgments\nThis research was funded by a National Institute for Health and Care \nResearch (NIHR) Global Health Research Unit Grant (NIHR 16.136.79). \nThe views expressed are those of the authors and not necessarily those \nof the NIHR or the UK Department of Health and Social Care.\n"
+    },
+    {
+     "bbox": [
+      119.1,
+      285.7,
+      334.3,
+      663.5
+     ],
+     "text": "References\n1\t\nBiccard BM, Madiba TE, Kluyts H-L, et al. Perioperative patient \noutcomes in the African Surgical Outcomes Study: a 7-day \nprospective observational cohort study. Lancet 2018; 391: 1589–98.\n2\t\nBhangu A, Ademuyiwa AO, Aguilera ML, et al. Surgical site \ninfection after gastrointestinal surgery in high-income, middle-\nincome, and low-income countries: a prospective, international, \nmulticentre cohort study. Lancet Infect Dis 2018; 18: 516–25.\n3\t\nAlkaaki A, Al-Radi OO, Khoja A, et al. Surgical site infection \nfollowing abdominal surgery: a prospective cohort study. Can J Surg \n2019; 62: 111–17.\n4\t\nAdemuyiwa AO, Hardy P, Runigamugabo E, et al. Reducing \nsurgical site infections in low-income and middle-income countries \n(FALCON): a pragmatic, multicentre, stratified, randomised \ncontrolled trial. Lancet 2021; 398: 1687–99.\n5\t\nAllegranzi B, Zayed B, Bischoff P, et al. New WHO \nrecommendations on intraoperative and postoperative measures for \nsurgical site infection prevention: an evidence-based global \nperspective. Lancet Infect Dis 2016; 16: e288–303.\n6\t\nKlein EY, Milkowska-Shibata M, Tseng KK, et al. Assessment of \nWHO antibiotic consumption and access targets in 76 countries, \n2000–15: an analysis of pharmaceutical sales data. Lancet Infect Dis \n2021; 21: 107–15.\n7\t\nKlein EY, Van Boeckel TP, Martinez EM, et al. Global increase and \ngeographic convergence in antibiotic consumption between 2000 \nand 2015. Proc Natl Acad Sci USA 2018; 115: E3463–70.\n8\t\nWHO. Antimicrobial resistance. 2023. https://www.who.int/news-\nroom/fact-sheets/detail/antimicrobial-resistance (accessed \nNov 30, 2023).\n9\t\nAfrica Centres for Disease Control and Prevention. Mapping \nAntimicrobial Resistance and Antimicrobial Use Partnership \n(MAAP) country reports. https://africacdc.org/download/mapping-\nantimicrobial-resistance-and-antimicrobial-use-partnership-maap-\ncountry-reports (accessed Oct 24, 2023).\n10\t\nThe Fleming Fund. About the Fleming Fund. https://www.\nflemingfund.org/about-us (accessed Oct 24, 2023).\n11\t\nGordon N, Aggarwal V, Amos B, et al. The UK Fleming Fund: \ndeveloping AMR surveillance capacity in low- and middle-income \ncountries. Int J Infect Dis 2020; 101: 40.\n12\t\nTanwar J, Das S, Fatima Z, Hameed S. Multidrug resistance: \nan emerging crisis. Interdiscip Perspect Infect Dis 2014; \n2014: 541340.\n13\t\nMurray CJL, Ikuta KS, Sharara F, et al. Global burden of bacterial \nantimicrobial resistance in 2019: a systematic analysis. Lancet 2022; \n399: 629–55.\n"
+    },
+    {
+     "bbox": [
+      344.4,
+      128.8,
+      559.7,
+      639.9
+     ],
+     "text": "14\t\nDadgostar P. Antimicrobial resistance: implications and costs. \nInfect Drug Resist 2019; 12: 3903–10.\n15\t\nNIHR Global Health Research Unit on Global Surgery. Pragmatic \nmulticentre factorial randomized controlled trial testing measures to \nreduce surgical site infection in low- and middle-income countries: \nstudy protocol of the FALCON trial. Colorectal Dis 2021; 23: 298–306.\n16\t\nVandenbroucke JP, von Elm E, Altman DG, et al. Strengthening the \nReporting of Observational Studies in Epidemiology (STROBE): \nexplanation and elaboration. Ann Intern Med 2007; 147: W163-94.\n17\t\nBorchardt RA, Tzizik D. Update on surgical site infections: the new \nCDC guidelines. JAAPA 2018; 31: 52–54.\n18\t\nCusack TP, Ashley EA, Ling CL, et al. Time to switch from CLSI to \nEUCAST? A Southeast Asian perspective. Clin Microbiol Infect 2019; \n25: 782–85.\n19\t\nMagiorakos AP, Srinivasan A, Carey RB, et al. Multidrug-resistant, \nextensively drug-resistant and pandrug-resistant bacteria: \nan international expert proposal for interim standard definitions for \nacquired resistance. Clin Microbiol Infect 2012; 18: 268–81.\n20\t Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. \nResearch electronic data capture (REDCap)—a metadata-driven \nmethodology and workflow process for providing translational \nresearch informatics support. J Biomed Inform 2009; 42: 377–81.\n21\t\nHope D, Ampaire L, Oyet C, Muwanguzi E, Twizerimana H, \nApecu RO. Antimicrobial resistance in pathogenic aerobic bacteria \ncausing surgical site infections in Mbarara regional referral \nhospital, southwestern Uganda. Sci Rep 2019; 9: 17299.\n22\t Sartelli M, C Hardcastle T, Catena F, et al. Antibiotic use in low and \nmiddle-income countries and the challenges of antimicrobial \nresistance in surgery. Antibiotics (Basel) 2020; 9: 497.\n23\t Adrien HM, Alexandre AS, Tobome SR, et al. Epidemiological \naspects of surgical site infections in an income country. The case of \nregional hospital center, Borgou (Benin). Int J Med Res Health Sci \n2017; 3: 29–33.\n24\t\nMonk EJM, Jones TPW, Bongomin F, et al. Antimicrobial resistance \nin bacterial wound, skin, soft tissue and surgical site infections in \nCentral, Eastern, Southern and Western Africa: a systematic review \nand meta-analysis. PLoS Glob Public Health 2024; 4: e0003077.\n25\t African Society of Laboratory Medicine. Incomplete antimicrobial \nresistance (AMR) data in Africa: the crisis within the crisis. 2022. \nhttps://aslm.org/wp-content/uploads/2022/09/ASLM_MAAP-\nPolicy-Brief_Embargoed-until-15-Sept-6AM-GMT.pdf?x89467 \n(accessed Oct 24, 2023).\n26\t WHO. Global action plan on antimicrobial resistance. 2016. https://\niris.who.int/bitstream/handle/10665/193736/9789241509763_eng.\npdf?sequence=1 (accessed Oct 24, 2023).\n27\t\nMonahan M, Glasbey J, Roberts TE, et al. The costs of surgical site \ninfection after abdominal surgery in middle-income countries: key \nresource use in wound infection (KIWI) study. J Hosp Infect 2023; \n136: 38–44.\n28\t Rickard J, Beilman G, Forrester J, et al. Surgical infections in low- \nand middle-income countries: a global assessment of the burden \nand management needs. Surg Infect (Larchmt) 2020; 21: 478–94.\n29\t Badia JM, Casey AL, Petrosillo N, Hudson PM, Mitchell SA, \nCrosby C. Impact of surgical site infection on healthcare costs and \npatient outcomes: a systematic review in six European countries. \nJ Hosp Inf 2017; 96: 1–15.\n30\t NIHR Global Research Health Unit on Global Surgery. Routine \nsterile glove and instrument change at the time of abdominal \nwound closure to prevent surgical site infection (ChEETAh): \na pragmatic, cluster-randomised trial in seven low-income and \nmiddle-income countries. Lancet 2022; 400: 1767–76.\n"
+    },
+    {
+     "bbox": [
+      46.1,
+      146.5,
+      110.6,
+      154.5
+     ],
+     "text": "See Online for appendix 4\n"
+    }
+   ]
+  }
+ ]
+}

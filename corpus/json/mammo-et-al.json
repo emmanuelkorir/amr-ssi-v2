@@ -1,0 +1,5742 @@
+{
+ "doc_id": "mammo-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Mammo et al. 2024",
+ "sha256": "eddd078c1407966446be9e66bf3231eda58ff466a85be78f093346a85ad17ea5",
+ "document_type": "pdf",
+ "n_pages": 15,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "",
+  "author": "American Medical Association",
+  "subject": "",
+  "keywords": "The JAMA Network",
+  "creator": "XPP",
+  "producer": "; modified using iTextSharp.LGPLv2.Core 3.7.4.0",
+  "creationDate": "D:20240808140923Z00'00'",
+  "modDate": "D:20260908150702+00'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:55+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "Original Investigation | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nA Stepped-Wedge Cluster Randomized Clinical Trial\nTihitena Negussie Mammo, MD; Mekdes Daba Feyssa, MD, MPH; Maia R. Nofal, MD, MPH; Natnael Gebeyehu, MD; Matiyas Asrat Shiferaw, MD; Assefa Tesfaye, MD, MPH;\nTesfaneh Fikre, MD; Habtamu Woldeamanuel, MSc; Senait Bitew Alemu, MPH; Kate Miller, PhD, MPH; Sara Taye Haile, MPH; Thomas G. Weiser, MD, MPH;\nfor the Checklist Expansion for Antisepsis and Infection Control in Cesarean Section (CLEAN-CS) Trial Group\nAbstract\nIMPORTANCE Infections and complications following cesarean delivery are a significant source of\nmaternal mortality in Ethiopia.\nOBJECTIVE To study the effectiveness of a program to strengthen compliance with perioperative\nstandards and reduce postoperative complications following cesarean delivery.\nDESIGN, SETTING, AND PARTICIPANTS This stepped-wedge cluster randomized clinical trial\nincluded patients undergoing cesarean delivery from August 24, 2021, to January 31, 2023, at 9\nhospitals organized into 5 clusters in Ethiopia.\nINTERVENTION Clean Cut, a multimodal surgical quality improvement program that includes\nprocess-mapping 6 perioperative standards and creating site-specific, systems-level improvements.\nThe control period was the period before implementation of the intervention.\nMAIN OUTCOMES AND MEASURES The primary end point was surgical site infection rate, and\nsecondary end points were maternal mortality and perinatal mortality and a composite outcome of\ninfections and both mortality outcomes. All were assessed at 30 days postoperatively in the\nintervention and control groups, adjusting for clustering and demographics. Compliance with\nstandards and the relationship between compliance and outcomes were also compared between the\n2 arms.\nRESULTS Among 9755 women undergoing cesarean delivery, 5099 deliveries (52.3%) occurred\nduring the control period (2722 emergency cases [53.4%]) and 4656 (47.7%) during the intervention\nperiod (2346 emergency cases [50.4%]). Mean (SD) patient age was 27.04 (0.05) years. Thirty-day\nfollow-up was completed for 5153 patients (52.8%). No significant reduction in infection rates was\ndetected after the intervention (OR, 0.84; 95% CI, 0.55-1.27; P = .40). Intraoperative infection\nprevention standards improved significantly in the intervention arm vs control arm for compliance\nwith at least 5 of the 6 standards (odds ratio [OR], 2.95; 95% CI, 2.40-3.62; P < .001). Regardless of\ntrial arm, high compliance was associated with reduced odds of maternal (OR, 0.32; 95% CI,\n0.11-0.93; P = .04) and perinatal (OR, 0.64; 95% CI, 0.47-0.89; P = .008) mortality.\nCONCLUSIONS AND RELEVANCE In this stepped-wedge cluster randomized clinical trial of patients\nundergoing cesarean delivery, no significant reductions in surgical site infections were observed.\nHowever, compliance with perioperative standards improved following the intervention.\nTRIAL REGISTRATION ClinicalTrials.gov Identifier: NCT04812522; Pan-African Clinical Trials\nRegistry Identifier: PACTR202108717887402\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\nKey Points\nQuestion Can a multimodal surgical\nquality improvement intervention\nreduce the rate of surgical site infections\nfollowing cesarean delivery in Ethiopia?\nFindings In this stepped-wedge cluster\nrandomized clinical trial including 9755\npatients, the multimodal intervention\ndid not result in a statistically significant\nreduction in risk of surgical site\ninfections within 30 days after cesarean\ndelivery.\nMeaning Implementation of the\nmultimodal intervention did not reduce\nsurgical site infection rates.\n+ Visual Abstract\n+ Supplemental content\nAuthor affiliations and article information are\nlisted at the end of this article.\nOpen Access. This is an open access article distributed under the terms of the CC-BY License.\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n1/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 4105,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      72.5,
+      547.5,
+      117.1
+     ],
+     "text": "Original Investigation | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nA Stepped-Wedge Cluster Randomized Clinical Trial\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      128.3,
+      562.1,
+      156.1
+     ],
+     "text": "Tihitena Negussie Mammo, MD; Mekdes Daba Feyssa, MD, MPH; Maia R. Nofal, MD, MPH; Natnael Gebeyehu, MD; Matiyas Asrat Shiferaw, MD; Assefa Tesfaye, MD, MPH;\nTesfaneh Fikre, MD; Habtamu Woldeamanuel, MSc; Senait Bitew Alemu, MPH; Kate Miller, PhD, MPH; Sara Taye Haile, MPH; Thomas G. Weiser, MD, MPH;\nfor the Checklist Expansion for Antisepsis and Infection Control in Cesarean Section (CLEAN-CS) Trial Group\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      183.0,
+      88.6,
+      192.9
+     ],
+     "text": "Abstract\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      206.2,
+      387.6,
+      213.9
+     ],
+     "text": "IMPORTANCE Infections and complications following cesarean delivery are a significant source of\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      219.2,
+      153.0,
+      226.9
+     ],
+     "text": "maternal mortality in Ethiopia.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      245.1,
+      387.0,
+      252.8
+     ],
+     "text": "OBJECTIVE To study the effectiveness of a program to strengthen compliance with perioperative\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      258.1,
+      320.4,
+      265.8
+     ],
+     "text": "standards and reduce postoperative complications following cesarean delivery.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      284.0,
+      373.2,
+      291.7
+     ],
+     "text": "DESIGN, SETTING, AND PARTICIPANTS This stepped-wedge cluster randomized clinical trial\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      297.0,
+      375.9,
+      304.7
+     ],
+     "text": "included patients undergoing cesarean delivery from August 24, 2021, to January 31, 2023, at 9\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      310.0,
+      205.6,
+      317.7
+     ],
+     "text": "hospitals organized into 5 clusters in Ethiopia.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      335.9,
+      372.5,
+      343.6
+     ],
+     "text": "INTERVENTION Clean Cut, a multimodal surgical quality improvement program that includes\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      348.9,
+      392.4,
+      356.6
+     ],
+     "text": "process-mapping 6 perioperative standards and creating site-specific, systems-level improvements.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      361.9,
+      315.5,
+      369.6
+     ],
+     "text": "The control period was the period before implementation of the intervention.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      387.8,
+      379.3,
+      395.5
+     ],
+     "text": "MAIN OUTCOMES AND MEASURES The primary end point was surgical site infection rate, and\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      400.8,
+      388.8,
+      408.5
+     ],
+     "text": "secondary end points were maternal mortality and perinatal mortality and a composite outcome of\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      413.7,
+      366.4,
+      421.5
+     ],
+     "text": "infections and both mortality outcomes. All were assessed at 30 days postoperatively in the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      426.7,
+      368.8,
+      434.4
+     ],
+     "text": "intervention and control groups, adjusting for clustering and demographics. Compliance with\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      439.7,
+      395.2,
+      447.4
+     ],
+     "text": "standards and the relationship between compliance and outcomes were also compared between the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      452.7,
+      73.2,
+      460.4
+     ],
+     "text": "2 arms.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      478.6,
+      381.0,
+      486.3
+     ],
+     "text": "RESULTS Among 9755 women undergoing cesarean delivery, 5099 deliveries (52.3%) occurred\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      491.6,
+      395.2,
+      499.3
+     ],
+     "text": "during the control period (2722 emergency cases [53.4%]) and 4656 (47.7%) during the intervention\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      504.5,
+      389.3,
+      512.2
+     ],
+     "text": "period (2346 emergency cases [50.4%]). Mean (SD) patient age was 27.04 (0.05) years. Thirty-day\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      517.5,
+      388.0,
+      525.2
+     ],
+     "text": "follow-up was completed for 5153 patients (52.8%). No significant reduction in infection rates was\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      530.5,
+      375.1,
+      538.2
+     ],
+     "text": "detected after the intervention (OR, 0.84; 95% CI, 0.55-1.27; P = .40). Intraoperative infection\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      543.5,
+      387.0,
+      551.2
+     ],
+     "text": "prevention standards improved significantly in the intervention arm vs control arm for compliance\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      556.4,
+      391.1,
+      564.1
+     ],
+     "text": "with at least 5 of the 6 standards (odds ratio [OR], 2.95; 95% CI, 2.40-3.62; P < .001). Regardless of\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      569.4,
+      364.6,
+      577.1
+     ],
+     "text": "trial arm, high compliance was associated with reduced odds of maternal (OR, 0.32; 95% CI,\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      582.4,
+      334.9,
+      590.1
+     ],
+     "text": "0.11-0.93; P = .04) and perinatal (OR, 0.64; 95% CI, 0.47-0.89; P = .008) mortality.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      608.3,
+      395.2,
+      616.0
+     ],
+     "text": "CONCLUSIONS AND RELEVANCE In this stepped-wedge cluster randomized clinical trial of patients\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      621.3,
+      380.3,
+      629.0
+     ],
+     "text": "undergoing cesarean delivery, no significant reductions in surgical site infections were observed.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      634.3,
+      353.2,
+      642.0
+     ],
+     "text": "However, compliance with perioperative standards improved following the intervention.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      660.2,
+      367.4,
+      667.9
+     ],
+     "text": "TRIAL REGISTRATION ClinicalTrials.gov Identifier: NCT04812522; Pan-African Clinical Trials\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      673.2,
+      204.0,
+      680.9
+     ],
+     "text": "Registry Identifier: PACTR202108717887402\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      699.2,
+      297.9,
+      705.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      185.6,
+      466.3,
+      193.8
+     ],
+     "text": "Key Points\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      200.1,
+      543.3,
+      207.3
+     ],
+     "text": "Question Can a multimodal surgical\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      213.1,
+      535.6,
+      220.3
+     ],
+     "text": "quality improvement intervention\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      226.0,
+      556.7,
+      233.3
+     ],
+     "text": "reduce the rate of surgical site infections\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      239.0,
+      553.0,
+      246.2
+     ],
+     "text": "following cesarean delivery in Ethiopia?\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      257.5,
+      553.8,
+      264.7
+     ],
+     "text": "Findings In this stepped-wedge cluster\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      270.4,
+      551.0,
+      277.7
+     ],
+     "text": "randomized clinical trial including 9755\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      283.4,
+      547.8,
+      290.6
+     ],
+     "text": "patients, the multimodal intervention\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      296.4,
+      554.5,
+      303.6
+     ],
+     "text": "did not result in a statistically significant\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      309.3,
+      525.5,
+      316.6
+     ],
+     "text": "reduction in risk of surgical site\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      322.3,
+      555.0,
+      329.6
+     ],
+     "text": "infections within 30 days after cesarean\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      335.3,
+      452.6,
+      342.5
+     ],
+     "text": "delivery.\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      353.7,
+      532.0,
+      361.0
+     ],
+     "text": "Meaning Implementation of the\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      366.7,
+      553.5,
+      374.0
+     ],
+     "text": "multimodal intervention did not reduce\n"
+    },
+    {
+     "bbox": [
+      425.1,
+      379.7,
+      513.8,
+      386.9
+     ],
+     "text": "surgical site infection rates.\n"
+    },
+    {
+     "bbox": [
+      419.1,
+      407.4,
+      503.5,
+      440.9
+     ],
+     "text": "+ Visual Abstract\n+ Supplemental content\n"
+    },
+    {
+     "bbox": [
+      419.1,
+      448.0,
+      547.1,
+      464.3
+     ],
+     "text": "Author affiliations and article information are\nlisted at the end of this article.\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      719.1,
+      322.6,
+      725.5
+     ],
+     "text": "Open Access. This is an open access article distributed under the terms of the CC-BY License.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n1/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "Introduction\nEach year, 313 million operations are undertaken globally, of which 7% are cesarean deliveries (CDs),\nmaking this the most common major operation.1-3 While CD comprises 1% or less of operations in\nhigh-income countries, it can account for a large proportion of operations in low-income countries.4-9\nFurthermore, complications are frequent, with infection rates of 5% or more in highly resourced\nsettings10,11; in Ethiopia, as in many similar settings, infection rates complicate 11% to 14% or more of\ncases of CD.12-19\nSurgical site infection (SSI) is one of the most common health care–associated infections.20\nSurgical infection prevention and control programs represent a high-value target for improving\nsurgical quality and have been promoted by numerous agencies and professional societies.21-25\nHowever, implementation of best practices is frequently difficult to achieve, and even when\ncompliance is improved, outcome improvements do not always follow.26,27 We developed Clean Cut,\nan adaptive, multimodal surgical quality improvement program to reduce SSI and other\ncomplications through improved compliance with 6 critical perioperative standards: skin antisepsis,\nmaintenance of field sterility, instrument decontamination and sterilization, appropriate antibiotic\nprophylaxis, routine gauze counting, and use of the World Health Organization (WHO) Surgical Safety\nChecklist (SSC) to facilitate interdisciplinary communication.28-30 The program was established by\nLifebox, a nonprofit organization that focuses on improving the safety of surgery and anesthesia.\nInitial testing was associated with improved compliance with perioperative standards and with\nreduced relative risk of SSI of 35%.28 Because the approach involves initiating a novel surveillance\nprogram, it is unclear whether the main activities that we developed to improve compliance—\nprocess-mapping, matching process and compliance gaps, and subsequently identifying targets for\nimprovement—were of additional value over simply creating the surveillance program.31,32\nSurveillance alone may have contributed to improvements due to the Hawthorne effect, as study\nteams were aware that they were being observed. Additionally, implementation of a novel\nsurveillance system may have drawn attention to gaps in perioperative processes and high SSI rates\nthat resulted in interventions outside our main activities.\nThe Checklist Expansion for Antisepsis and Infection Control in Cesarean Section (CLEAN-CS)\nwas a multicenter, stepped-wedge, cluster randomized clinical trial evaluating the effects of the Clean\nCut program on outcomes following CD. The primary end point was change in SSI rates following CD,\nwith secondary end points of compliance with perioperative standards, maternal mortality, perinatal\nmortality, a composite end point pooling SSI and mortality outcomes, and the association of high\ncompliance with clinical outcomes.\nMethods\nStudy Design\nWe chose a stepped-wedge, cluster randomized design to enable assessment of the interventional\ncomponent of Clean Cut (as opposed to the effect of data collection alone) to facilitate within-cluster\ncomparisons and because the Clean Cut intervention was demonstrably effective and all sites were\ninterested in its implementation.33 This trial design was recommended by the WHO following an\nanalogous intervention aimed at reducing surgical infections.34 The approach involved grouping\nparticipating hospitals into separate clusters; all hospitals collected data for the length of the trial\nwhile each cluster received the intervention in a random order such that the length of time each\ncluster spent in the control and intervention arms was variable. The randomly assigned timing of the\nintervention by cluster allowed temporal separation of the intervention from surveillance. The first\ncluster intervention was planned for the fifth month, with the intervention occurring at 2-month\nintervals in each successive cluster; total patient enrollment was planned for 18 months. This study\nwas reported in accordance with the Consolidated Standards of Reporting Trials (CONSORT) 2010\nextension reporting guideline for stepped-wedge cluster randomized clinical trials.35 The trial was\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n2/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 4519,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.2,
+      108.1,
+      69.2
+     ],
+     "text": "Introduction\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      79.5,
+      392.6,
+      87.2
+     ],
+     "text": "Each year, 313 million operations are undertaken globally, of which 7% are cesarean deliveries (CDs),\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      89.0,
+      382.4,
+      100.2
+     ],
+     "text": "making this the most common major operation.1-3 While CD comprises 1% or less of operations in\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      104.1,
+      395.3,
+      113.1
+     ],
+     "text": "high-income countries, it can account for a large proportion of operations in low-income countries.4-9\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      118.4,
+      378.3,
+      126.1
+     ],
+     "text": "Furthermore, complications are frequent, with infection rates of 5% or more in highly resourced\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      130.0,
+      392.9,
+      139.1
+     ],
+     "text": "settings10,11; in Ethiopia, as in many similar settings, infection rates complicate 11% to 14% or more of\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      143.0,
+      102.5,
+      152.0
+     ],
+     "text": "cases of CD.12-19\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      156.0,
+      379.3,
+      165.0
+     ],
+     "text": "Surgical site infection (SSI) is one of the most common health care–associated infections.20\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      170.3,
+      374.3,
+      178.0
+     ],
+     "text": "Surgical infection prevention and control programs represent a high-value target for improving\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      181.9,
+      374.9,
+      191.0
+     ],
+     "text": "surgical quality and have been promoted by numerous agencies and professional societies.21-25\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      196.2,
+      364.3,
+      203.9
+     ],
+     "text": "However, implementation of best practices is frequently difficult to achieve, and even when\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      205.7,
+      394.9,
+      216.9
+     ],
+     "text": "compliance is improved, outcome improvements do not always follow.26,27 We developed Clean Cut,\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      222.2,
+      348.2,
+      229.9
+     ],
+     "text": "an adaptive, multimodal surgical quality improvement program to reduce SSI and other\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      235.1,
+      391.2,
+      242.8
+     ],
+     "text": "complications through improved compliance with 6 critical perioperative standards: skin antisepsis,\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      248.1,
+      386.7,
+      255.8
+     ],
+     "text": "maintenance of field sterility, instrument decontamination and sterilization, appropriate antibiotic\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      261.1,
+      395.2,
+      268.8
+     ],
+     "text": "prophylaxis, routine gauze counting, and use of the World Health Organization (WHO) Surgical Safety\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      270.6,
+      385.3,
+      281.8
+     ],
+     "text": "Checklist (SSC) to facilitate interdisciplinary communication.28-30 The program was established by\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      287.0,
+      383.9,
+      294.7
+     ],
+     "text": "Lifebox, a nonprofit organization that focuses on improving the safety of surgery and anesthesia.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      300.0,
+      373.5,
+      307.7
+     ],
+     "text": "Initial testing was associated with improved compliance with perioperative standards and with\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      309.5,
+      384.6,
+      320.7
+     ],
+     "text": "reduced relative risk of SSI of 35%.28 Because the approach involves initiating a novel surveillance\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      325.9,
+      372.1,
+      333.6
+     ],
+     "text": "program, it is unclear whether the main activities that we developed to improve compliance—\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      338.9,
+      389.6,
+      346.6
+     ],
+     "text": "process-mapping, matching process and compliance gaps, and subsequently identifying targets for\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      350.5,
+      360.0,
+      359.6
+     ],
+     "text": "improvement—were of additional value over simply creating the surveillance program.31,32\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      364.9,
+      382.6,
+      372.6
+     ],
+     "text": "Surveillance alone may have contributed to improvements due to the Hawthorne effect, as study\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      377.8,
+      358.2,
+      385.5
+     ],
+     "text": "teams were aware that they were being observed. Additionally, implementation of a novel\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      390.8,
+      390.4,
+      398.5
+     ],
+     "text": "surveillance system may have drawn attention to gaps in perioperative processes and high SSI rates\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      403.8,
+      243.5,
+      411.5
+     ],
+     "text": "that resulted in interventions outside our main activities.\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      416.7,
+      387.0,
+      424.4
+     ],
+     "text": "The Checklist Expansion for Antisepsis and Infection Control in Cesarean Section (CLEAN-CS)\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      429.7,
+      395.2,
+      437.4
+     ],
+     "text": "was a multicenter, stepped-wedge, cluster randomized clinical trial evaluating the effects of the Clean\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      442.7,
+      391.1,
+      450.4
+     ],
+     "text": "Cut program on outcomes following CD. The primary end point was change in SSI rates following CD,\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      455.7,
+      393.7,
+      463.4
+     ],
+     "text": "with secondary end points of compliance with perioperative standards, maternal mortality, perinatal\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      468.6,
+      380.8,
+      476.3
+     ],
+     "text": "mortality, a composite end point pooling SSI and mortality outcomes, and the association of high\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      481.6,
+      168.6,
+      489.3
+     ],
+     "text": "compliance with clinical outcomes.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      516.7,
+      90.5,
+      526.7
+     ],
+     "text": "Methods\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      537.5,
+      387.1,
+      558.4
+     ],
+     "text": "Study Design\nWe chose a stepped-wedge, cluster randomized design to enable assessment of the interventional\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      563.7,
+      395.2,
+      571.4
+     ],
+     "text": "component of Clean Cut (as opposed to the effect of data collection alone) to facilitate within-cluster\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      576.6,
+      388.2,
+      584.3
+     ],
+     "text": "comparisons and because the Clean Cut intervention was demonstrably effective and all sites were\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      586.1,
+      381.2,
+      597.3
+     ],
+     "text": "interested in its implementation.33 This trial design was recommended by the WHO following an\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      599.1,
+      378.8,
+      610.3
+     ],
+     "text": "analogous intervention aimed at reducing surgical infections.34 The approach involved grouping\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      615.6,
+      381.4,
+      623.3
+     ],
+     "text": "participating hospitals into separate clusters; all hospitals collected data for the length of the trial\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      628.5,
+      377.7,
+      636.2
+     ],
+     "text": "while each cluster received the intervention in a random order such that the length of time each\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      641.5,
+      392.7,
+      649.2
+     ],
+     "text": "cluster spent in the control and intervention arms was variable. The randomly assigned timing of the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      654.5,
+      387.4,
+      662.2
+     ],
+     "text": "intervention by cluster allowed temporal separation of the intervention from surveillance. The first\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      667.4,
+      381.6,
+      675.1
+     ],
+     "text": "cluster intervention was planned for the fifth month, with the intervention occurring at 2-month\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      680.4,
+      387.7,
+      688.1
+     ],
+     "text": "intervals in each successive cluster; total patient enrollment was planned for 18 months. This study\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      693.4,
+      385.5,
+      701.1
+     ],
+     "text": "was reported in accordance with the Consolidated Standards of Reporting Trials (CONSORT) 2010\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      702.9,
+      383.6,
+      714.1
+     ],
+     "text": "extension reporting guideline for stepped-wedge cluster randomized clinical trials.35 The trial was\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n2/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "preregistered with ClinicalTrials.gov (NCT04812522) and the Pan-African Clinical Trials Registry\n(PACTR202108717887402); the trial protocol is included in Supplement 1.36 The trial protocol was\nreviewed and approved by the Armauer Hansen Research Institute Ethics Review Committee, a\nnationally accredited ethics board in Ethiopia, and by the National Research Ethics Review\nCommittee, which oversees national trials. As the standards being implemented were not in dispute,\nboth agencies approved a waiver of informed consent. Ethical approval was maintained for the\nduration of enrollment.\nHospitals and Enrollment\nIn partnership with the Ethiopian Society of Obstetricians & Gynecologists, we identified 10 hospitals\nto implement Clean Cut in obstetric and gynecologic operating theaters across the central, eastern,\nsouthern, and western regions of Ethiopia. The sites included teaching and referral hospitals as well\nas regional, district, or smaller community hospitals. To be included, hospitals had to perform more\nthan 30 CDs per month, have the capacity to follow up patients in the wards and contact patients by\ntelephone 30 days postoperatively, be accessible by the study team, and accept the national\ninstitutional review board (IRB) approval without the need for additional local IRB review. To avoid\nsimultaneous quality improvement interventions in a single center, sites could not have recently\nreceived or been contemporaneously targeted to receive quality improvement training by the\nMinistry of Health or other agencies working in Ethiopia.\nAs obstetric and gynecologic operations are typically performed in dedicated operating\ntheaters, patients were enrolled when admitted to one of these targeted theaters. Because Clean Cut\nprocesses are generalizable to all surgery, any patient of any age undergoing surgery was eligible for\nobservation, but we included only CD operations in our analysis (eAppendix 3 in Supplement 2).\nEnrollment occurred at the time of observation and included days, nights, and weekends. Hospitals\nwere directed to enroll at least 50 patients per month if able and to cap enrollment at 92 patients\nper month.\nEnrollment commenced August 24, 2021, and concluded January 31, 2023, with follow-up\ncompleted on March 10, 2023. Data collection stopped for a period of 4 to 6 weeks while clusters\nreceived the intervention, reflecting practical considerations, as the data collection team was\ninvolved in training and implementation activities. This also allowed a data-blind run-in period for the\nintervention to be adopted.\nDuring the first 4 months of the intervention, 1 hospital underrecruited patients; after\nrandomization but prior to being notified of their cluster order, the data collectors attempted to\nrenegotiate the terms of their agreement. This site was dropped from the study, leaving 9 hospitals\nacross 5 clusters: 4 clusters with 2 hospitals each and 1 cluster with a single hospital. The cluster with 1\nhospital was encouraged to maximize recruitment of patients up to 150 per month in accordance\nwith our previously published protocol (Supplement 1).36\nRandomization\nThe 10 selected hospitals were allocated into 5 clusters, with teaching and referral hospitals paired\nwith a regional, district, or community hospital. These pairings were purposive, as district and referral\nhospitals in Ethiopia typically have long-standing relationships that could facilitate implementation\nat the cluster level and prevent inadvertent crossover of the intervention prior to randomization.37-39\nThe sequence of implementation was generated by the Lifebox team using computer-based\nrandomization on November 17, 2021; hospitals were blinded to the order and were informed of the\ntiming of their intervention 1 month prior to implementation training. It was not possible to blind local\nhospital staff to the intervention given their engagement in delivering the intervention. Enrolled\npatients were not aware of their group allocation.\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n3/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 4273,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.5,
+      374.9,
+      67.2
+     ],
+     "text": "preregistered with ClinicalTrials.gov (NCT04812522) and the Pan-African Clinical Trials Registry\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      69.0,
+      386.1,
+      80.2
+     ],
+     "text": "(PACTR202108717887402); the trial protocol is included in Supplement 1.36 The trial protocol was\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      85.5,
+      375.9,
+      93.2
+     ],
+     "text": "reviewed and approved by the Armauer Hansen Research Institute Ethics Review Committee, a\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      98.4,
+      357.8,
+      106.1
+     ],
+     "text": "nationally accredited ethics board in Ethiopia, and by the National Research Ethics Review\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      111.4,
+      394.0,
+      119.1
+     ],
+     "text": "Committee, which oversees national trials. As the standards being implemented were not in dispute,\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      124.4,
+      373.9,
+      132.1
+     ],
+     "text": "both agencies approved a waiver of informed consent. Ethical approval was maintained for the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      137.4,
+      128.5,
+      145.1
+     ],
+     "text": "duration of enrollment.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      163.1,
+      395.1,
+      184.0
+     ],
+     "text": "Hospitals and Enrollment\nIn partnership with the Ethiopian Society of Obstetricians & Gynecologists, we identified 10 hospitals\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      189.2,
+      388.8,
+      196.9
+     ],
+     "text": "to implement Clean Cut in obstetric and gynecologic operating theaters across the central, eastern,\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      202.2,
+      392.0,
+      209.9
+     ],
+     "text": "southern, and western regions of Ethiopia. The sites included teaching and referral hospitals as well\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      215.2,
+      387.9,
+      222.9
+     ],
+     "text": "as regional, district, or smaller community hospitals. To be included, hospitals had to perform more\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      228.2,
+      393.4,
+      235.9
+     ],
+     "text": "than 30 CDs per month, have the capacity to follow up patients in the wards and contact patients by\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      241.1,
+      366.4,
+      248.8
+     ],
+     "text": "telephone 30 days postoperatively, be accessible by the study team, and accept the national\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      254.1,
+      387.0,
+      261.8
+     ],
+     "text": "institutional review board (IRB) approval without the need for additional local IRB review. To avoid\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      267.1,
+      380.4,
+      274.8
+     ],
+     "text": "simultaneous quality improvement interventions in a single center, sites could not have recently\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      280.0,
+      370.8,
+      287.7
+     ],
+     "text": "received or been contemporaneously targeted to receive quality improvement training by the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      293.0,
+      241.7,
+      300.7
+     ],
+     "text": "Ministry of Health or other agencies working in Ethiopia.\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      306.0,
+      366.1,
+      313.7
+     ],
+     "text": "As obstetric and gynecologic operations are typically performed in dedicated operating\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      319.0,
+      395.2,
+      326.7
+     ],
+     "text": "theaters, patients were enrolled when admitted to one of these targeted theaters. Because Clean Cut\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      331.9,
+      391.1,
+      339.6
+     ],
+     "text": "processes are generalizable to all surgery, any patient of any age undergoing surgery was eligible for\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      344.9,
+      377.8,
+      352.6
+     ],
+     "text": "observation, but we included only CD operations in our analysis (eAppendix 3 in Supplement 2).\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      357.9,
+      389.8,
+      365.6
+     ],
+     "text": "Enrollment occurred at the time of observation and included days, nights, and weekends. Hospitals\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      370.8,
+      385.4,
+      378.5
+     ],
+     "text": "were directed to enroll at least 50 patients per month if able and to cap enrollment at 92 patients\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      383.8,
+      86.7,
+      391.5
+     ],
+     "text": "per month.\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      396.8,
+      375.7,
+      404.5
+     ],
+     "text": "Enrollment commenced August 24, 2021, and concluded January 31, 2023, with follow-up\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      409.8,
+      382.5,
+      417.5
+     ],
+     "text": "completed on March 10, 2023. Data collection stopped for a period of 4 to 6 weeks while clusters\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      422.7,
+      368.3,
+      430.4
+     ],
+     "text": "received the intervention, reflecting practical considerations, as the data collection team was\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      435.7,
+      395.2,
+      443.4
+     ],
+     "text": "involved in training and implementation activities. This also allowed a data-blind run-in period for the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      448.7,
+      143.6,
+      456.4
+     ],
+     "text": "intervention to be adopted.\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      461.6,
+      360.3,
+      469.3
+     ],
+     "text": "During the first 4 months of the intervention, 1 hospital underrecruited patients; after\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      474.6,
+      377.2,
+      482.3
+     ],
+     "text": "randomization but prior to being notified of their cluster order, the data collectors attempted to\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      487.6,
+      389.2,
+      495.3
+     ],
+     "text": "renegotiate the terms of their agreement. This site was dropped from the study, leaving 9 hospitals\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      500.6,
+      395.2,
+      508.3
+     ],
+     "text": "across 5 clusters: 4 clusters with 2 hospitals each and 1 cluster with a single hospital. The cluster with 1\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      513.5,
+      381.6,
+      521.2
+     ],
+     "text": "hospital was encouraged to maximize recruitment of patients up to 150 per month in accordance\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      525.2,
+      245.0,
+      534.2
+     ],
+     "text": "with our previously published protocol (Supplement 1).36\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      552.2,
+      387.0,
+      573.1
+     ],
+     "text": "Randomization\nThe 10 selected hospitals were allocated into 5 clusters, with teaching and referral hospitals paired\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      578.4,
+      395.3,
+      586.1
+     ],
+     "text": "with a regional, district, or community hospital. These pairings were purposive, as district and referral\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      591.4,
+      387.6,
+      599.1
+     ],
+     "text": "hospitals in Ethiopia typically have long-standing relationships that could facilitate implementation\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      603.0,
+      395.2,
+      612.0
+     ],
+     "text": "at the cluster level and prevent inadvertent crossover of the intervention prior to randomization.37-39\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      617.3,
+      364.8,
+      625.0
+     ],
+     "text": "The sequence of implementation was generated by the Lifebox team using computer-based\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      630.3,
+      390.9,
+      638.0
+     ],
+     "text": "randomization on November 17, 2021; hospitals were blinded to the order and were informed of the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      643.2,
+      395.2,
+      650.9
+     ],
+     "text": "timing of their intervention 1 month prior to implementation training. It was not possible to blind local\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      656.2,
+      378.7,
+      663.9
+     ],
+     "text": "hospital staff to the intervention given their engagement in delivering the intervention. Enrolled\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      669.2,
+      218.4,
+      676.9
+     ],
+     "text": "patients were not aware of their group allocation.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n3/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Intervention\nClean Cut was developed to improve compliance with 6 critical perioperative infection prevention\nstandards: (1) appropriate skin preparation of the surgeon’s hands and the surgical site; (2)\nmaintenance of the sterile field by ensuring the integrity and sterility of surgical gowns, drapes, and\ngloves; (3) confirmation of instrument sterility; (4) appropriate antibiotic administration; (5)\ncomplete swab counts; and (6) routine use of the SSC. It is introduced in 5 phases: creation of a\nmultidisciplinary team; establishment of a data collection system to track compliance with\nperioperative standards and surgical outcomes; modification and implementation of the SSC to fit\nlocal practices coupled with a process-mapping exercise to evaluate process gaps in the targeted\nstandards; data feedback and process map review coupled with site-specific action plans for\nimprovement; and targeted training, educational workshops, and refresher courses delivered by\nlocal health care professionals based on facility needs and priorities. While team creation and the\nsurveillance system are part of Clean Cut, the intervention itself consists of the process-mapping and\nSSC modification activities coupled with facility feedback, action planning, and educational\nworkshops that support behavior change and process improvement.40\nClean Cut is typically implemented over a 6-month period starting with a 1-month team building\nand baseline data collection period to measure compliance with standards and postoperative\noutcomes. For this trial, Clean Cut was implemented in all clusters in 2-month increments, with the\nfirst intervention initiated on December 28, 2021, and the last on September 13, 2022; each\nimplementation period lasted 3 to 6 weeks (eAppendix 1 and eFigures 1 and 2 in Supplement 2). The\nbaseline data collection period varied, and the timing of the intervention to improve compliance was\nrandomized by cluster.\nEnd Points\nThe primary end point of the trial was SSI within 30 days of CD. Secondary end points included\nmaternal mortality and perinatal mortality within 30 postoperative days, a composite of SSI and both\nmortality outcomes, compliance with the 6 surgical standards targeted for improvement, and the\nassociation between compliance and SSI (eAppendices 2 and 4 and eTables 1-4 in Supplement 2). As\nthe denominator was the total observed number of patients undergoing CD, patients were\nconsidered to be positive for the composite outcome if they experienced an SSI or died or if there was\nperinatal mortality; patients were not counted twice if they experienced more than 1 outcome.\nPatient outcomes were assessed by trained data collectors in the wards before discharge. We\nassessed 30-day SSI, perinatal mortality, and maternal mortality by follow-up telephone calls with\ntargeted questions posed to the patients based on objective findings that the patient could easily\nreport during the call.41 Markers of infection included wound dehiscence, evisceration, purulent\ndischarge, foul smell, or purposeful opening of the wound; neither erythema nor the use of\nantibiotics was sufficient for a diagnosis of infection.42 Compliance with standards was measured by\ndirect observation in the operating theaters (eTable 4 in Supplement 2).\nIn addition, we assessed the relationship between compliance and 30-day SSI and other\nsecondary outcomes in a post hoc analysis. High compliance with standards was expected to reduce\npostoperative complications and was defined as observed compliance with at least 5 of the 6\nstandards, while low compliance was defined as compliance with 4 or fewer standards.\nSample Size\nWe anticipated recruiting 80 to 90 patients per cluster per month; over 18 months, we expected the\nfinal sample to include between 7200 and 8100 patients. Using an assumed postoperative infection\nrate of 12% (based on prior experience and published national estimates14-19) and anticipating a 25%\nreduction in infections (from a rate of 12% to 9%, based on our pilot work28), this sample size would\nbe sufficient to show an effect with a 5% significance level and a power of 80% using the clustered\nstepped-wedge design effect following the method of Hemming and Taljaard.43 Details of our sample\nsize calculation and rationale have been previously published.36\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n4/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 4597,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.3,
+      384.8,
+      80.2
+     ],
+     "text": "Intervention\nClean Cut was developed to improve compliance with 6 critical perioperative infection prevention\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      85.5,
+      358.7,
+      93.2
+     ],
+     "text": "standards: (1) appropriate skin preparation of the surgeon’s hands and the surgical site; (2)\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      98.4,
+      389.7,
+      106.1
+     ],
+     "text": "maintenance of the sterile field by ensuring the integrity and sterility of surgical gowns, drapes, and\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      111.4,
+      365.5,
+      119.1
+     ],
+     "text": "gloves; (3) confirmation of instrument sterility; (4) appropriate antibiotic administration; (5)\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      124.4,
+      375.2,
+      132.1
+     ],
+     "text": "complete swab counts; and (6) routine use of the SSC. It is introduced in 5 phases: creation of a\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      137.4,
+      358.3,
+      145.1
+     ],
+     "text": "multidisciplinary team; establishment of a data collection system to track compliance with\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      150.3,
+      384.9,
+      158.0
+     ],
+     "text": "perioperative standards and surgical outcomes; modification and implementation of the SSC to fit\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      163.3,
+      380.9,
+      171.0
+     ],
+     "text": "local practices coupled with a process-mapping exercise to evaluate process gaps in the targeted\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      176.3,
+      365.6,
+      184.0
+     ],
+     "text": "standards; data feedback and process map review coupled with site-specific action plans for\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      189.2,
+      379.6,
+      196.9
+     ],
+     "text": "improvement; and targeted training, educational workshops, and refresher courses delivered by\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      202.2,
+      380.6,
+      209.9
+     ],
+     "text": "local health care professionals based on facility needs and priorities. While team creation and the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      215.2,
+      394.8,
+      222.9
+     ],
+     "text": "surveillance system are part of Clean Cut, the intervention itself consists of the process-mapping and\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      228.2,
+      360.7,
+      235.9
+     ],
+     "text": "SSC modification activities coupled with facility feedback, action planning, and educational\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      239.8,
+      292.8,
+      248.8
+     ],
+     "text": "workshops that support behavior change and process improvement.40\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      254.1,
+      395.2,
+      261.8
+     ],
+     "text": "Clean Cut is typically implemented over a 6-month period starting with a 1-month team building\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      267.1,
+      368.5,
+      274.8
+     ],
+     "text": "and baseline data collection period to measure compliance with standards and postoperative\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      280.0,
+      387.0,
+      287.7
+     ],
+     "text": "outcomes. For this trial, Clean Cut was implemented in all clusters in 2-month increments, with the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      293.0,
+      365.1,
+      300.7
+     ],
+     "text": "first intervention initiated on December 28, 2021, and the last on September 13, 2022; each\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      306.0,
+      391.6,
+      313.7
+     ],
+     "text": "implementation period lasted 3 to 6 weeks (eAppendix 1 and eFigures 1 and 2 in Supplement 2). The\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      319.0,
+      391.5,
+      326.7
+     ],
+     "text": "baseline data collection period varied, and the timing of the intervention to improve compliance was\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      331.9,
+      126.5,
+      339.6
+     ],
+     "text": "randomized by cluster.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      357.7,
+      373.3,
+      378.5
+     ],
+     "text": "End Points\nThe primary end point of the trial was SSI within 30 days of CD. Secondary end points included\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      383.8,
+      395.2,
+      391.5
+     ],
+     "text": "maternal mortality and perinatal mortality within 30 postoperative days, a composite of SSI and both\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      396.8,
+      383.4,
+      404.5
+     ],
+     "text": "mortality outcomes, compliance with the 6 surgical standards targeted for improvement, and the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      409.8,
+      392.7,
+      417.5
+     ],
+     "text": "association between compliance and SSI (eAppendices 2 and 4 and eTables 1-4 in Supplement 2). As\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      422.7,
+      360.1,
+      430.4
+     ],
+     "text": "the denominator was the total observed number of patients undergoing CD, patients were\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      435.7,
+      395.2,
+      443.4
+     ],
+     "text": "considered to be positive for the composite outcome if they experienced an SSI or died or if there was\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      448.7,
+      373.2,
+      456.4
+     ],
+     "text": "perinatal mortality; patients were not counted twice if they experienced more than 1 outcome.\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      461.6,
+      387.0,
+      469.3
+     ],
+     "text": "Patient outcomes were assessed by trained data collectors in the wards before discharge. We\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      474.6,
+      386.2,
+      482.3
+     ],
+     "text": "assessed 30-day SSI, perinatal mortality, and maternal mortality by follow-up telephone calls with\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      487.6,
+      385.3,
+      495.3
+     ],
+     "text": "targeted questions posed to the patients based on objective findings that the patient could easily\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      497.1,
+      379.0,
+      508.3
+     ],
+     "text": "report during the call.41 Markers of infection included wound dehiscence, evisceration, purulent\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      513.5,
+      360.8,
+      521.2
+     ],
+     "text": "discharge, foul smell, or purposeful opening of the wound; neither erythema nor the use of\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      523.0,
+      392.7,
+      534.2
+     ],
+     "text": "antibiotics was sufficient for a diagnosis of infection.42 Compliance with standards was measured by\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      539.5,
+      295.3,
+      547.2
+     ],
+     "text": "direct observation in the operating theaters (eTable 4 in Supplement 2).\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      552.4,
+      369.0,
+      560.1
+     ],
+     "text": "In addition, we assessed the relationship between compliance and 30-day SSI and other\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      565.4,
+      393.1,
+      573.1
+     ],
+     "text": "secondary outcomes in a post hoc analysis. High compliance with standards was expected to reduce\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      578.4,
+      368.3,
+      586.1
+     ],
+     "text": "postoperative complications and was defined as observed compliance with at least 5 of the 6\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      591.4,
+      347.1,
+      599.1
+     ],
+     "text": "standards, while low compliance was defined as compliance with 4 or fewer standards.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      617.1,
+      394.2,
+      638.0
+     ],
+     "text": "Sample Size\nWe anticipated recruiting 80 to 90 patients per cluster per month; over 18 months, we expected the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      643.2,
+      391.2,
+      650.9
+     ],
+     "text": "final sample to include between 7200 and 8100 patients. Using an assumed postoperative infection\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      654.9,
+      391.3,
+      663.9
+     ],
+     "text": "rate of 12% (based on prior experience and published national estimates14-19) and anticipating a 25%\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      667.8,
+      389.5,
+      676.9
+     ],
+     "text": "reduction in infections (from a rate of 12% to 9%, based on our pilot work28), this sample size would\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      682.2,
+      391.3,
+      689.9
+     ],
+     "text": "be sufficient to show an effect with a 5% significance level and a power of 80% using the clustered\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      691.6,
+      395.0,
+      702.8
+     ],
+     "text": "stepped-wedge design effect following the method of Hemming and Taljaard.43 Details of our sample\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      706.8,
+      267.6,
+      715.8
+     ],
+     "text": "size calculation and rationale have been previously published.36\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n4/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "Changes to Study Protocol\nIn May 2022, we noted that recorded 30-day rates of infection were lower than expected and\nmatched neither reported national rates18 nor our own experience during prior Clean Cut\nimplementation; they were also well below that of most high-income countries (statistical analysis\nplan in Supplement 1 and eFigure 3 in Supplement 2). We thus undertook an audit of 30-day\nfollow-up telephone calls in the entire cohort: in August 2022, we recruited and trained general\npractitioners to use the 30-day follow-up data collection tool and methods, and between September\n2022 and March 2023, these auditors called all patients and re-collected 30-day follow-up data\nretrospectively. The affected end points included SSI, perinatal mortality, and maternal mortality\nevents following discharge up to 30 days. Directly observed intraoperative infection prevention\nprocesses and inpatient SSI, perinatal mortality, and maternal mortality were consistent with our\nprior experiences with Clean Cut implementation and were not audited. The original data collectors\nalso continued to collect follow-up data. Following 5 sensitivity analyses comparing details of the 2\ndata collection groups as described in our preregistered statistical analysis plan (Supplement 1), we\nsubstituted audit data in place of those collected by data collectors for the 30-day follow up\noutcomes (eAppendix 5, eTables 5 and 6, and eFigures 3 and 4 in Supplement 2).\nStatistical Analysis\nThe compliance end point included all patients undergoing CD; clinical outcomes included patients\nundergoing CD with 30-day data for SSI, maternal mortality, and perinatal mortality. We constructed\nmixed-effects logistic regression models estimating each of the outcomes. The variable of interest\nwas whether the operation took place before (control) or after (intervention) implementation of\nClean Cut. Models also included a random effect for the hospital cluster and fixed effects for time\n(calendar month). Clinical outcomes included additional fixed effects for patient characteristics (age,\nhypertension, gestational diabetes, rupture of membranes, emergency vs elective CD, wound\nclassification, American Society of Anesthesiologists classification, and CD indication). We present\n2-sided P values for the intervention ORs, evaluating each against α = .05, without adjustment for\nmultiple testing. Due to loss to follow-up, we used an imputation strategy for outcomes to help\nrecapture statistical power as a sensitivity analysis (eAppendix 8 and eTables 18-21 in Supplement 2).\nTo assess the relationship between high compliance, defined as compliance with 5 or more\nstandards, and clinical outcomes, we used the same mixed-effects logistic regression model with\nhigh or low compliance as the variable of interest. Analyses were conducted with Stata/SE, version\n16.1 (StataCorp LLC). The statistical analysis plan was preregistered on Open Science Framework prior\nto our final analyses (Supplement 1 and eAppendices 6-8, eTables 7-25, and eFigures 5-9 in\nSupplement 2).\nResults\nWe enrolled 9755 women undergoing CD, of whom 5099 (52.3%) were enrolled during the control\nperiod (2722 [53.4%] were emergency cases) and 4656 (47.7%) following intervention (2346\n[50.4%] were emergency cases) (Figure 1). Mean (SD) patient age was 27.04 (0.05) years.\nDemographic characteristics were similar between the 2 groups (Table 1).\nClean Cut was implemented according to schedule in all clusters in 2-month increments\n(eAppendix 1 and eFigures 1 and 2 in Supplement 2). We completed audited follow-up of 5153\npatients undergoing CD (52.8%), including 2483 (48.2%) in the control period and 2670 (51.8%) in\nthe intervention period (eFigure 4 in Supplement 2). The infection rate was 10.67% in the control arm\nand 9.85% following intervention (absolute difference, 0.82; 95% CI, −0.84 to 2.48). The maternal\nmortality rate was 0.65% in the control group and 0.27% following the intervention (absolute\ndifference, 0.39; 95% CI, 0.02-0.75). The perinatal mortality rate was 5.68% in the control group and\n3.03% following intervention (absolute difference, 2.65; 95% CI, 1.58-3.71). The rate of the\ncomposite outcome of SSI, maternal mortality, or perinatal mortality was 16.19% in the control group\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n5/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 4558,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.3,
+      370.8,
+      80.2
+     ],
+     "text": "Changes to Study Protocol\nIn May 2022, we noted that recorded 30-day rates of infection were lower than expected and\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      82.0,
+      353.9,
+      93.2
+     ],
+     "text": "matched neither reported national rates18 nor our own experience during prior Clean Cut\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      98.4,
+      387.0,
+      106.1
+     ],
+     "text": "implementation; they were also well below that of most high-income countries (statistical analysis\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      111.4,
+      367.1,
+      119.1
+     ],
+     "text": "plan in Supplement 1 and eFigure 3 in Supplement 2). We thus undertook an audit of 30-day\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      124.4,
+      376.0,
+      132.1
+     ],
+     "text": "follow-up telephone calls in the entire cohort: in August 2022, we recruited and trained general\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      137.4,
+      395.1,
+      145.1
+     ],
+     "text": "practitioners to use the 30-day follow-up data collection tool and methods, and between September\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      150.3,
+      376.0,
+      158.0
+     ],
+     "text": "2022 and March 2023, these auditors called all patients and re-collected 30-day follow-up data\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      163.3,
+      380.1,
+      171.0
+     ],
+     "text": "retrospectively. The affected end points included SSI, perinatal mortality, and maternal mortality\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      176.3,
+      377.5,
+      184.0
+     ],
+     "text": "events following discharge up to 30 days. Directly observed intraoperative infection prevention\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      189.2,
+      380.4,
+      196.9
+     ],
+     "text": "processes and inpatient SSI, perinatal mortality, and maternal mortality were consistent with our\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      202.2,
+      389.9,
+      209.9
+     ],
+     "text": "prior experiences with Clean Cut implementation and were not audited. The original data collectors\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      215.2,
+      389.4,
+      222.9
+     ],
+     "text": "also continued to collect follow-up data. Following 5 sensitivity analyses comparing details of the 2\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      228.2,
+      390.1,
+      235.9
+     ],
+     "text": "data collection groups as described in our preregistered statistical analysis plan (Supplement 1), we\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      241.1,
+      366.4,
+      248.8
+     ],
+     "text": "substituted audit data in place of those collected by data collectors for the 30-day follow up\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      254.1,
+      326.2,
+      261.8
+     ],
+     "text": "outcomes (eAppendix 5, eTables 5 and 6, and eFigures 3 and 4 in Supplement 2).\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      279.8,
+      387.6,
+      300.7
+     ],
+     "text": "Statistical Analysis\nThe compliance end point included all patients undergoing CD; clinical outcomes included patients\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      306.0,
+      393.3,
+      313.7
+     ],
+     "text": "undergoing CD with 30-day data for SSI, maternal mortality, and perinatal mortality. We constructed\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      319.0,
+      387.0,
+      326.7
+     ],
+     "text": "mixed-effects logistic regression models estimating each of the outcomes. The variable of interest\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      331.9,
+      381.4,
+      339.6
+     ],
+     "text": "was whether the operation took place before (control) or after (intervention) implementation of\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      344.9,
+      381.6,
+      352.6
+     ],
+     "text": "Clean Cut. Models also included a random effect for the hospital cluster and fixed effects for time\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      357.9,
+      394.2,
+      365.6
+     ],
+     "text": "(calendar month). Clinical outcomes included additional fixed effects for patient characteristics (age,\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      370.8,
+      370.7,
+      378.5
+     ],
+     "text": "hypertension, gestational diabetes, rupture of membranes, emergency vs elective CD, wound\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      383.8,
+      387.0,
+      391.5
+     ],
+     "text": "classification, American Society of Anesthesiologists classification, and CD indication). We present\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      396.8,
+      385.7,
+      404.5
+     ],
+     "text": "2-sided P values for the intervention ORs, evaluating each against α = .05, without adjustment for\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      409.8,
+      377.1,
+      417.5
+     ],
+     "text": "multiple testing. Due to loss to follow-up, we used an imputation strategy for outcomes to help\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      422.7,
+      394.3,
+      430.4
+     ],
+     "text": "recapture statistical power as a sensitivity analysis (eAppendix 8 and eTables 18-21 in Supplement 2).\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      435.7,
+      360.4,
+      443.4
+     ],
+     "text": "To assess the relationship between high compliance, defined as compliance with 5 or more\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      448.7,
+      381.0,
+      456.4
+     ],
+     "text": "standards, and clinical outcomes, we used the same mixed-effects logistic regression model with\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      461.6,
+      387.2,
+      469.3
+     ],
+     "text": "high or low compliance as the variable of interest. Analyses were conducted with Stata/SE, version\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      474.6,
+      395.3,
+      482.3
+     ],
+     "text": "16.1 (StataCorp LLC). The statistical analysis plan was preregistered on Open Science Framework prior\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      487.6,
+      359.9,
+      495.3
+     ],
+     "text": "to our final analyses (Supplement 1 and eAppendices 6-8, eTables 7-25, and eFigures 5-9 in\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      500.6,
+      101.3,
+      508.3
+     ],
+     "text": "Supplement 2).\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      535.7,
+      82.8,
+      545.7
+     ],
+     "text": "Results\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      555.9,
+      388.9,
+      563.6
+     ],
+     "text": "We enrolled 9755 women undergoing CD, of whom 5099 (52.3%) were enrolled during the control\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      568.9,
+      371.8,
+      576.6
+     ],
+     "text": "period (2722 [53.4%] were emergency cases) and 4656 (47.7%) following intervention (2346\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      581.9,
+      358.8,
+      589.6
+     ],
+     "text": "[50.4%] were emergency cases) (Figure 1). Mean (SD) patient age was 27.04 (0.05) years.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      594.8,
+      301.5,
+      602.6
+     ],
+     "text": "Demographic characteristics were similar between the 2 groups (Table 1).\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      607.8,
+      366.7,
+      615.5
+     ],
+     "text": "Clean Cut was implemented according to schedule in all clusters in 2-month increments\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      620.8,
+      368.6,
+      628.5
+     ],
+     "text": "(eAppendix 1 and eFigures 1 and 2 in Supplement 2). We completed audited follow-up of 5153\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      633.8,
+      389.4,
+      641.5
+     ],
+     "text": "patients undergoing CD (52.8%), including 2483 (48.2%) in the control period and 2670 (51.8%) in\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      646.7,
+      395.2,
+      654.4
+     ],
+     "text": "the intervention period (eFigure 4 in Supplement 2). The infection rate was 10.67% in the control arm\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      659.7,
+      389.1,
+      667.4
+     ],
+     "text": "and 9.85% following intervention (absolute difference, 0.82; 95% CI, −0.84 to 2.48). The maternal\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      672.7,
+      373.4,
+      680.4
+     ],
+     "text": "mortality rate was 0.65% in the control group and 0.27% following the intervention (absolute\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      685.6,
+      395.2,
+      693.3
+     ],
+     "text": "difference, 0.39; 95% CI, 0.02-0.75). The perinatal mortality rate was 5.68% in the control group and\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      698.6,
+      359.5,
+      706.3
+     ],
+     "text": "3.03% following intervention (absolute difference, 2.65; 95% CI, 1.58-3.71). The rate of the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      711.6,
+      394.4,
+      719.3
+     ],
+     "text": "composite outcome of SSI, maternal mortality, or perinatal mortality was 16.19% in the control group\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n5/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "and 12.74% following intervention (absolute difference, 3.45; 95% CI, 1.55-5.36) (Table 2 and\nFigure 2).\nAfter adjusting for patient and procedural factors and for clustering, we did not observe a\nsignificant reduction in SSI following intervention (odds ratio [OR], 0.84; 95% CI, 0.55-1.27; P = .40)\n(Table 2). Maternal mortality was likewise unchanged (OR, 0.96; 95% CI, 0.20-4.70; P = .96). Both\nperinatal mortality (OR, 0.44; 95% CI, 0.23-0.82; P = .01) and the composite outcome (OR, 0.67;\n95% CI, 0.45-1.00; P = .049) improved after implementation of Clean Cut.\nCompliance with the 6 perioperative standards improved following the intervention, from a\nmean (SD) of 4.21 (0.02) to 5.24 (0.01) out of 6 (P < .001) (Table 2 and eTable 8 and eFigures 5 and 6\nin Supplement 2). After accounting for clustering as a random effect and calendar month of the study\nas a fixed effect, compliance with the SSC, preoperative antibiotic administration, maintenance of\nsurgical field sterility, and confirmed instrument sterility improved significantly; gauze counting was\nnearly universally completed in both arms, while there was no significant change in hand and skin\nantisepsis (Table 2). The percentage of operations with high compliance improved from 51.13% (95%\nCI, 49.70%-52.44%) to 87.13% (95% CI, 86.19%-88.11%), and the odds of high compliance increased\nsignificantly (OR, 2.95; 95% CI, 2.40-3.62; P < .001) following the intervention.\nRegardless of trial arm, high compliance with the Clean Cut standards was not associated with a\nreduction in SSI (OR, 0.94; 95% CI, 0.75-1.17; P = .57) (Table 3). However, maternal and perinatal\nFigure 1. Cluster and Patient Enrollment Flow Diagram\n10 666 Patients enrolled across 5 clusters\n1002 In cluster 1\n2652 In cluster 2\n1934 In cluster 3\n3089 In cluster 4\n1989 In cluster 5\n5721 Patients allocated to control\n236 From cluster 1\n948 From cluster 2\n959 From cluster 3\n2002 From cluster 4\n1576 From cluster 5\n5099 Patients underwent cesarean delivery\n2483 Patients included in primary analysis\n2616 Patients lost to follow-up\nof primary outcome\n4656 Patients underwent cesarean delivery\n2670 Patients included in primary analysis\n4945 Patients allocated to intervention\n766 From cluster 1\n1704 From cluster 2\n975 From cluster 3\n1087 From cluster 4\n413 From cluster 5\n289 Patients excluded\n(did not undergo cesarean\ndelivery)\n622 Patients excluded\n(did not undergo cesarean\ndelivery)\n1986 Patients lost to follow-up\nof primary outcome\n10 Hospitals identified for eligibility\n1 Hospital excluded due to underrecruitment\n1 Hospital allocated\nto cluster 1\n2 Hospitals allocated\nto cluster 2\n2 Hospitals allocated\nto cluster 3\n2 Hospitals allocated\nto cluster 4\n2 Hospitals allocated\nto cluster 5\n9 Hospitals assigned to 5 clusters based on geographic\nlocation, randomized to order of intervention\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n6/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 3129,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.5,
+      368.6,
+      67.2
+     ],
+     "text": "and 12.74% following intervention (absolute difference, 3.45; 95% CI, 1.55-5.36) (Table 2 and\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      72.5,
+      82.2,
+      80.2
+     ],
+     "text": "Figure 2).\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      85.5,
+      372.9,
+      93.2
+     ],
+     "text": "After adjusting for patient and procedural factors and for clustering, we did not observe a\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      98.4,
+      391.8,
+      106.1
+     ],
+     "text": "significant reduction in SSI following intervention (odds ratio [OR], 0.84; 95% CI, 0.55-1.27; P = .40)\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      111.4,
+      387.7,
+      119.1
+     ],
+     "text": "(Table 2). Maternal mortality was likewise unchanged (OR, 0.96; 95% CI, 0.20-4.70; P = .96). Both\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      124.4,
+      383.9,
+      132.1
+     ],
+     "text": "perinatal mortality (OR, 0.44; 95% CI, 0.23-0.82; P = .01) and the composite outcome (OR, 0.67;\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      137.4,
+      304.2,
+      145.1
+     ],
+     "text": "95% CI, 0.45-1.00; P = .049) improved after implementation of Clean Cut.\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      150.3,
+      381.3,
+      158.0
+     ],
+     "text": "Compliance with the 6 perioperative standards improved following the intervention, from a\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      163.3,
+      394.1,
+      171.0
+     ],
+     "text": "mean (SD) of 4.21 (0.02) to 5.24 (0.01) out of 6 (P < .001) (Table 2 and eTable 8 and eFigures 5 and 6\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      176.3,
+      393.5,
+      184.0
+     ],
+     "text": "in Supplement 2). After accounting for clustering as a random effect and calendar month of the study\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      189.2,
+      384.2,
+      196.9
+     ],
+     "text": "as a fixed effect, compliance with the SSC, preoperative antibiotic administration, maintenance of\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      202.2,
+      390.8,
+      209.9
+     ],
+     "text": "surgical field sterility, and confirmed instrument sterility improved significantly; gauze counting was\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      215.2,
+      385.4,
+      222.9
+     ],
+     "text": "nearly universally completed in both arms, while there was no significant change in hand and skin\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      228.2,
+      394.5,
+      235.9
+     ],
+     "text": "antisepsis (Table 2). The percentage of operations with high compliance improved from 51.13% (95%\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      241.1,
+      392.4,
+      248.8
+     ],
+     "text": "CI, 49.70%-52.44%) to 87.13% (95% CI, 86.19%-88.11%), and the odds of high compliance increased\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      254.1,
+      320.0,
+      261.8
+     ],
+     "text": "significantly (OR, 2.95; 95% CI, 2.40-3.62; P < .001) following the intervention.\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      267.1,
+      394.4,
+      274.8
+     ],
+     "text": "Regardless of trial arm, high compliance with the Clean Cut standards was not associated with a\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      280.0,
+      379.6,
+      287.8
+     ],
+     "text": "reduction in SSI (OR, 0.94; 95% CI, 0.75-1.17; P = .57) (Table 3). However, maternal and perinatal\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      320.1,
+      216.0,
+      326.9
+     ],
+     "text": "Figure 1. Cluster and Patient Enrollment Flow Diagram\n"
+    },
+    {
+     "bbox": [
+      166.9,
+      473.2,
+      275.9,
+      519.7
+     ],
+     "text": "10 666 Patients enrolled across 5 clusters\n1002 In cluster 1\n2652 In cluster 2\n1934 In cluster 3\n3089 In cluster 4\n1989 In cluster 5\n"
+    },
+    {
+     "bbox": [
+      83.0,
+      549.4,
+      173.0,
+      595.9
+     ],
+     "text": "5721 Patients allocated to control\n236 From cluster 1\n948 From cluster 2\n959 From cluster 3\n2002 From cluster 4\n1576 From cluster 5\n"
+    },
+    {
+     "bbox": [
+      76.5,
+      649.7,
+      190.3,
+      656.2
+     ],
+     "text": "5099 Patients underwent cesarean delivery\n"
+    },
+    {
+     "bbox": [
+      77.7,
+      703.4,
+      189.0,
+      709.9
+     ],
+     "text": "2483 Patients included in primary analysis\n"
+    },
+    {
+     "bbox": [
+      113.3,
+      672.7,
+      195.8,
+      685.8
+     ],
+     "text": "2616 Patients lost to follow-up\nof primary outcome\n"
+    },
+    {
+     "bbox": [
+      252.5,
+      649.7,
+      366.3,
+      656.2
+     ],
+     "text": "4656 Patients underwent cesarean delivery\n"
+    },
+    {
+     "bbox": [
+      253.7,
+      703.4,
+      365.0,
+      709.9
+     ],
+     "text": "2670 Patients included in primary analysis\n"
+    },
+    {
+     "bbox": [
+      257.7,
+      549.4,
+      361.1,
+      595.9
+     ],
+     "text": "4945 Patients allocated to intervention\n766 From cluster 1\n1704 From cluster 2\n975 From cluster 3\n1087 From cluster 4\n413 From cluster 5\n"
+    },
+    {
+     "bbox": [
+      290.1,
+      612.6,
+      371.1,
+      632.7
+     ],
+     "text": "289 Patients excluded\n(did not undergo cesarean\ndelivery)\n"
+    },
+    {
+     "bbox": [
+      114.1,
+      612.6,
+      195.1,
+      632.7
+     ],
+     "text": "622 Patients excluded\n(did not undergo cesarean\ndelivery)\n"
+    },
+    {
+     "bbox": [
+      289.3,
+      672.7,
+      371.9,
+      685.8
+     ],
+     "text": "1986 Patients lost to follow-up\nof primary outcome\n"
+    },
+    {
+     "bbox": [
+      174.0,
+      340.7,
+      268.8,
+      347.2
+     ],
+     "text": "10 Hospitals identified for eligibility\n"
+    },
+    {
+     "bbox": [
+      268.6,
+      362.2,
+      386.0,
+      368.7
+     ],
+     "text": "1 Hospital excluded due to underrecruitment\n"
+    },
+    {
+     "bbox": [
+      53.7,
+      437.5,
+      106.6,
+      450.7
+     ],
+     "text": "1 Hospital allocated\nto cluster 1\n"
+    },
+    {
+     "bbox": [
+      123.1,
+      437.5,
+      178.5,
+      450.7
+     ],
+     "text": "2 Hospitals allocated\nto cluster 2\n"
+    },
+    {
+     "bbox": [
+      193.7,
+      437.5,
+      249.1,
+      450.7
+     ],
+     "text": "2 Hospitals allocated\nto cluster 3\n"
+    },
+    {
+     "bbox": [
+      264.3,
+      437.5,
+      319.7,
+      450.7
+     ],
+     "text": "2 Hospitals allocated\nto cluster 4\n"
+    },
+    {
+     "bbox": [
+      334.9,
+      437.5,
+      390.3,
+      450.7
+     ],
+     "text": "2 Hospitals allocated\nto cluster 5\n"
+    },
+    {
+     "bbox": [
+      150.5,
+      387.0,
+      292.3,
+      400.1
+     ],
+     "text": "9 Hospitals assigned to 5 clusters based on geographic\nlocation, randomized to order of intervention\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n6/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "mortality were significantly lower when high compliance was achieved (maternal: OR, 0.32; 95% CI,\n0.11-0.93; P = .04; perinatal: OR, 0.64; 95% CI, 0.47-0.89; P = .008), as was the composite outcome\n(OR, 0.81; 95% CI, 0.66-0.98; P = .03).\nDiscussion\nUsing a cluster-randomized, stepped-wedge approach, the CLEAN-CS trial demonstrated significant\nimprovements in compliance with 6 perioperative infection prevention standards following Clean\nCut implementation but did not result in a statistically significant reduction in SSI rates. Maternal\nmortality did not improve following the intervention, but perinatal mortality declined. High\ncompliance with the targeted perioperative standards was associated with reductions in\ncomplication rates regardless of trial arm, indicating that aggregated compliance with care standards\nmay provide a potential marker of quality.44,45\nOur group has continued to evaluate this adaptive, multimodal intervention to improve\noutcomes following surgery.28,46-48 A particular strength of this trial was the clinical implementation\napproach with solutions developed at the local level. We included hospitals across a diverse\ngeographic area and representing varying degrees of organizational strength and administrative\nleadership. Decision-making was data driven and empowered local teams to identify opportunities\nfor improvement. The teams at each site had almost never worked collectively to solve process\nproblems within their hospitals.\nMany causes could explain the failure to reduce SSI rates despite improvements in compliance.\nSingle violations of asepsis, antisepsis, and sterile technique can compromise the entire effort. We\nnoted particularly low compliance with hand and skin antisepsis measures. Hand and skin antisepsis\ncompliance included both appropriate handwashing and preparation of the patients’ skin and\nTable 1. Patient Demographics and Procedural Characteristics\nCharacteristic\nTotal population, No. (%)\nPopulation with follow-up, No. (%)\nControl\n(n = 5099)\nIntervention\n(n = 4656)\nControl\n(n = 2483)\nIntervention\n(n = 2670)\nMaternal age >35 y\n494 (9.7)\n457 (9.8)\n224 (9.0)\n265 (9.9)\nHypertension\n293 (5.7)\n215 (4.6)\n162 (6.5)\n132 (4.9)\nDiabetes\n40 (0.8)\n21 (0.5)\n23 (0.9)\n15 (0.6)\nEmergency case\n2722 (53.4)\n2346 (50.4)\n1204 (48.5)\n1244 (46.6)\nPROM\n1970 (38.6)\n1254 (26.9)\n880 (35.4)\n694 (26.0)\nCD indications\nPrior CD\n1159 (22.7)\n1208 (25.9)\n614 (24.7)\n747 (28.0)\nHemorrhage\n584 (11.5)\n311 (6.7)\n174 (7.0)\n166 (6.2)\nObstructed or prolonged labor\n435 (8.5)\n445 (9.6)\n176 (7.1)\n254 (9.5)\nNRFHR\n734 (14.4)\n804 (17.3)\n374 (15.1)\n425 (15.9)\nPROM\n98 (1.9)\n96 (2.1)\n42 (1.7)\n55 (2.1)\nMalpresentation\n561 (11.0)\n477 (10.2)\n269 (10.8)\n242 (9.1)\nFailed induction\n150 (2.9)\n142 (3.0)\n78 (3.1)\n68 (2.5)\nMultiple indications or unknown\n1074 (21.1)\n907 (19.5)\n610 (24.6)\n566 (21.2)\nLabor abnormality\n148 (2.9)\n98 (2.1)\n75 (3.0)\n47 (1.8)\nUterine rupture\n29 (0.6)\n27 (0.6)\n8 (0.3)\n18 (0.7)\nPreeclampsia\n127 (2.5)\n141 (3.0)\n63 (2.5)\n82 (3.1)\nASA classification for analysis\nI or II\n4974 (97.5)\n4598 (98.8)\n2400 (96.7)\n2638 (98.8)\nIII or IV\n125 (2.5)\n58 (1.2)\n83 (3.3)\n32 (1.2)\nWound class group\nI and II\n4933 (96.7)\n4624 (99.3)\n2385 (96.1)\n2648 (99.2)\nIII and IV\n166 (3.3)\n32 (0.7)\n98 (3.9)\n22 (0.8)\nAbbreviations: ASA, American Society of\nAnesthesiologists; CD, cesarean delivery; NRFHR,\nnonreassuring fetal heart rate; PROM, premature\nrupture of membrane.\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n7/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 3691,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.5,
+      391.8,
+      67.2
+     ],
+     "text": "mortality were significantly lower when high compliance was achieved (maternal: OR, 0.32; 95% CI,\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      72.5,
+      392.8,
+      80.2
+     ],
+     "text": "0.11-0.93; P = .04; perinatal: OR, 0.64; 95% CI, 0.47-0.89; P = .008), as was the composite outcome\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      85.5,
+      183.0,
+      93.2
+     ],
+     "text": "(OR, 0.81; 95% CI, 0.66-0.98; P = .03).\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      120.6,
+      98.6,
+      130.6
+     ],
+     "text": "Discussion\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      140.9,
+      392.2,
+      148.6
+     ],
+     "text": "Using a cluster-randomized, stepped-wedge approach, the CLEAN-CS trial demonstrated significant\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      153.8,
+      384.1,
+      161.5
+     ],
+     "text": "improvements in compliance with 6 perioperative infection prevention standards following Clean\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      166.8,
+      379.7,
+      174.5
+     ],
+     "text": "Cut implementation but did not result in a statistically significant reduction in SSI rates. Maternal\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      179.8,
+      361.4,
+      187.5
+     ],
+     "text": "mortality did not improve following the intervention, but perinatal mortality declined. High\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      192.7,
+      351.7,
+      200.4
+     ],
+     "text": "compliance with the targeted perioperative standards was associated with reductions in\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      205.7,
+      394.8,
+      213.4
+     ],
+     "text": "complication rates regardless of trial arm, indicating that aggregated compliance with care standards\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      217.3,
+      207.4,
+      226.4
+     ],
+     "text": "may provide a potential marker of quality.44,45\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      231.7,
+      366.2,
+      239.4
+     ],
+     "text": "Our group has continued to evaluate this adaptive, multimodal intervention to improve\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      241.1,
+      393.4,
+      252.3
+     ],
+     "text": "outcomes following surgery.28,46-48 A particular strength of this trial was the clinical implementation\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      257.6,
+      362.4,
+      265.3
+     ],
+     "text": "approach with solutions developed at the local level. We included hospitals across a diverse\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      270.6,
+      378.3,
+      278.3
+     ],
+     "text": "geographic area and representing varying degrees of organizational strength and administrative\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      283.5,
+      387.5,
+      291.2
+     ],
+     "text": "leadership. Decision-making was data driven and empowered local teams to identify opportunities\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      296.5,
+      377.2,
+      304.2
+     ],
+     "text": "for improvement. The teams at each site had almost never worked collectively to solve process\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      309.5,
+      157.4,
+      317.2
+     ],
+     "text": "problems within their hospitals.\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      322.5,
+      392.1,
+      330.2
+     ],
+     "text": "Many causes could explain the failure to reduce SSI rates despite improvements in compliance.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      335.4,
+      387.0,
+      343.1
+     ],
+     "text": "Single violations of asepsis, antisepsis, and sterile technique can compromise the entire effort. We\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      348.4,
+      392.0,
+      356.1
+     ],
+     "text": "noted particularly low compliance with hand and skin antisepsis measures. Hand and skin antisepsis\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      361.4,
+      370.4,
+      369.1
+     ],
+     "text": "compliance included both appropriate handwashing and preparation of the patients’ skin and\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      400.4,
+      239.1,
+      407.2
+     ],
+     "text": "Table 1. Patient Demographics and Procedural Characteristics\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      434.7,
+      90.4,
+      440.7
+     ],
+     "text": "Characteristic\n"
+    },
+    {
+     "bbox": [
+      157.1,
+      416.5,
+      377.0,
+      422.5
+     ],
+     "text": "Total population, No. (%)\nPopulation with follow-up, No. (%)\n"
+    },
+    {
+     "bbox": [
+      157.1,
+      427.2,
+      188.9,
+      440.7
+     ],
+     "text": "Control\n(n = 5099)\n"
+    },
+    {
+     "bbox": [
+      215.4,
+      427.2,
+      251.0,
+      440.7
+     ],
+     "text": "Intervention\n(n = 4656)\n"
+    },
+    {
+     "bbox": [
+      277.7,
+      427.2,
+      309.5,
+      440.7
+     ],
+     "text": "Control\n(n = 2483)\n"
+    },
+    {
+     "bbox": [
+      339.4,
+      427.2,
+      375.0,
+      440.7
+     ],
+     "text": "Intervention\n(n = 2670)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      445.2,
+      367.2,
+      451.2
+     ],
+     "text": "Maternal age >35 y\n494 (9.7)\n457 (9.8)\n224 (9.0)\n265 (9.9)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      457.2,
+      367.2,
+      463.2
+     ],
+     "text": "Hypertension\n293 (5.7)\n215 (4.6)\n162 (6.5)\n132 (4.9)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      469.2,
+      363.3,
+      475.2
+     ],
+     "text": "Diabetes\n40 (0.8)\n21 (0.5)\n23 (0.9)\n15 (0.6)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      481.2,
+      374.8,
+      487.2
+     ],
+     "text": "Emergency case\n2722 (53.4)\n2346 (50.4)\n1204 (48.5)\n1244 (46.6)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      493.1,
+      371.0,
+      499.1
+     ],
+     "text": "PROM\n1970 (38.6)\n1254 (26.9)\n880 (35.4)\n694 (26.0)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      505.1,
+      91.6,
+      511.1
+     ],
+     "text": "CD indications\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      517.1,
+      371.0,
+      523.1
+     ],
+     "text": "Prior CD\n1159 (22.7)\n1208 (25.9)\n614 (24.7)\n747 (28.0)\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      529.1,
+      367.2,
+      535.1
+     ],
+     "text": "Hemorrhage\n584 (11.5)\n311 (6.7)\n174 (7.0)\n166 (6.2)\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      541.0,
+      367.2,
+      547.0
+     ],
+     "text": "Obstructed or prolonged labor\n435 (8.5)\n445 (9.6)\n176 (7.1)\n254 (9.5)\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      553.0,
+      371.0,
+      559.0
+     ],
+     "text": "NRFHR\n734 (14.4)\n804 (17.3)\n374 (15.1)\n425 (15.9)\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      565.0,
+      363.3,
+      571.0
+     ],
+     "text": "PROM\n98 (1.9)\n96 (2.1)\n42 (1.7)\n55 (2.1)\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      576.9,
+      367.2,
+      583.0
+     ],
+     "text": "Malpresentation\n561 (11.0)\n477 (10.2)\n269 (10.8)\n242 (9.1)\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      588.9,
+      363.3,
+      594.9
+     ],
+     "text": "Failed induction\n150 (2.9)\n142 (3.0)\n78 (3.1)\n68 (2.5)\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      600.9,
+      371.0,
+      606.9
+     ],
+     "text": "Multiple indications or unknown\n1074 (21.1)\n907 (19.5)\n610 (24.6)\n566 (21.2)\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      612.9,
+      363.3,
+      618.9
+     ],
+     "text": "Labor abnormality\n148 (2.9)\n98 (2.1)\n75 (3.0)\n47 (1.8)\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      624.8,
+      363.3,
+      630.9
+     ],
+     "text": "Uterine rupture\n29 (0.6)\n27 (0.6)\n8 (0.3)\n18 (0.7)\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      636.8,
+      363.3,
+      642.8
+     ],
+     "text": "Preeclampsia\n127 (2.5)\n141 (3.0)\n63 (2.5)\n82 (3.1)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      648.8,
+      135.3,
+      654.8
+     ],
+     "text": "ASA classification for analysis\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      660.8,
+      374.8,
+      666.8
+     ],
+     "text": "I or II\n4974 (97.5)\n4598 (98.8)\n2400 (96.7)\n2638 (98.8)\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      672.7,
+      363.3,
+      678.7
+     ],
+     "text": "III or IV\n125 (2.5)\n58 (1.2)\n83 (3.3)\n32 (1.2)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      684.7,
+      104.2,
+      690.7
+     ],
+     "text": "Wound class group\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      696.7,
+      374.8,
+      702.7
+     ],
+     "text": "I and II\n4933 (96.7)\n4624 (99.3)\n2385 (96.1)\n2648 (99.2)\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      708.7,
+      363.3,
+      714.7
+     ],
+     "text": "III and IV\n166 (3.3)\n32 (0.7)\n98 (3.9)\n22 (0.8)\n"
+    },
+    {
+     "bbox": [
+      407.1,
+      683.5,
+      547.5,
+      719.8
+     ],
+     "text": "Abbreviations: ASA, American Society of\nAnesthesiologists; CD, cesarean delivery; NRFHR,\nnonreassuring fetal heart rate; PROM, premature\nrupture of membrane.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n7/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "surgical site, including the vagina. Low compliance with this measure was due primarily to the failure\nof implementing vaginal preparation prior to surgery, although a few centers periodically lacked\nmedicated hand scrub as well. We noted that compliance with standards was higher for CD than we\nhave seen in earlier work by our group in which patients frequently experienced compliance rates of\n2 or 3 of 6 standards.28,46-48 We also assumed an infection rate of approximately 12% but observed\na rate of 10.67% in the control arm and 9.85% following intervention, compromising our statistical\npower. We assumed a 25% absolute decrease in infections but observed an absolute decrease of\n18%; after adjusting for demographic variables, we observed a 16% relative risk reduction and only\nachieved the 25% threshold using an imputation strategy for missing outcomes (eTable 18 in\nSupplement 2).\nTable 2. SSI, Mortality, Composite Outcomes, and Compliance With Standards by Trial Arm\nClinical outcome\nEvents, No./total No. (%)\nAbsolute difference, percentage points\n(95% CI)\nOR (95% CI)\nP value\nSSI\nControl\n265/2483 (10.67)\n0.82 (−0.84 to 2.48)\n1 [Reference]\n.40\nIntervention\n263/2670 (9.85)\n0.84 (0.55-1.27)\nMaternal mortality\nControl\n16/2458 (0.65)\n0.39 (0.02 to 0.75)\n1 [Reference]\n.96\nIntervention\n7/2633 (0.27)\n0.96 (0.20-4.70)\nPerinatal mortality\nControl\n149/2623 (5.68)\n2.65 (1.58 to 3.71)\n1 [Reference]\n.01\nIntervention\n89/2935 (3.03)\n0.44 (0.23-0.82)\nComposite of SSI, perinatal mortality,\nand maternal mortality\nControl\n436/2543 (16.19)\n3.45 (1.55 to 5.36)\n1 [Reference]\n.049\nIntervention\n356/2706 (12.74)\n0.67 (0.45-1.00)\nInfection prevention standarda\nProportion in compliance,\nNo./total No.\nCompliance rate, % (95% CI)\nOR (95% CI)\nP value\nChecklist compliance\nControl\n3346/4636\n72.17 (70.85 to 73.43)\n1 [Reference]\n.009\nIntervention\n3521/4404\n79.95 (78.80 to 81.16)\n1.41 (1.09-1.83)\nHand and skin antisepsis\nControl\n1298/5044\n25.73 (24.44 to 26.85)\n1 [Reference]\n.11\nIntervention\n1515/4641\n32.64 (31.38 to 34.08)\n1.19 (0.96-1.50)\nAppropriate antibiotic administration\nControl\n3667/5093\n72.00 (70.75 to 73.22)\n1 [Reference]\n<.001\nIntervention\n4056/4656\n87.11 (86.15 to 88.07)\n1.64 (1.29-2.10)\nSterile field preparation\nControl\n3318/5051\n65.69 (64.35 to 66.98)\n1 [Reference]\n<.001\nIntervention\n4158/4518\n92.03 (92.23 to 92.81)\n6.67 (5.05-8.81)\nInstrument sterility\nControl\n3400/5074\n67.01 (65.67 to 68.26)\n1 [Reference]\n<.001\nIntervention\n4268/4634\n92.10 (91.34 to 92.89)\n5.33 (4.06-7.01)\nGauze counting\nControl\n5072/5080\n99.84 (99.73 to 99.95)\n1 [Reference]\nNA\nIntervention\n4634/4649\n99.68 (99.51 to 99.84)\nNA (collinear)\nHigh complianceb\nControl\n2607/5099\n51.13 (49.70 to 52.44)\n1 [Reference]\n<.001\nIntervention\n4057/4656\n87.13 (86.19 to 88.11)\n2.95 (2.40-3.62)\nAbbreviations: NA, not applicable; OR, odds ratio; SSI, surgical site infection.\na The mean (SD) compliance score in the control group was 4.21 (0.02) and in the\nintervention group was 5.24 (0.01) (P < .001) using a t test.\nb Defined as adherence to at least 5 of the 6 perioperative standards targeted by\nClean Cut.\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n8/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 3380,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.5,
+      393.1,
+      67.2
+     ],
+     "text": "surgical site, including the vagina. Low compliance with this measure was due primarily to the failure\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      72.5,
+      376.7,
+      80.2
+     ],
+     "text": "of implementing vaginal preparation prior to surgery, although a few centers periodically lacked\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      85.5,
+      390.1,
+      93.2
+     ],
+     "text": "medicated hand scrub as well. We noted that compliance with standards was higher for CD than we\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      98.4,
+      394.2,
+      106.1
+     ],
+     "text": "have seen in earlier work by our group in which patients frequently experienced compliance rates of\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      107.9,
+      390.0,
+      119.1
+     ],
+     "text": "2 or 3 of 6 standards.28,46-48 We also assumed an infection rate of approximately 12% but observed\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      124.4,
+      388.8,
+      132.1
+     ],
+     "text": "a rate of 10.67% in the control arm and 9.85% following intervention, compromising our statistical\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      137.4,
+      382.7,
+      145.1
+     ],
+     "text": "power. We assumed a 25% absolute decrease in infections but observed an absolute decrease of\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      150.3,
+      387.4,
+      158.0
+     ],
+     "text": "18%; after adjusting for demographic variables, we observed a 16% relative risk reduction and only\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      163.3,
+      368.3,
+      171.0
+     ],
+     "text": "achieved the 25% threshold using an imputation strategy for missing outcomes (eTable 18 in\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      176.3,
+      101.3,
+      184.0
+     ],
+     "text": "Supplement 2).\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      234.8,
+      329.1,
+      241.6
+     ],
+     "text": "Table 2. SSI, Mortality, Composite Outcomes, and Compliance With Standards by Trial Arm\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      257.1,
+      241.3,
+      263.1
+     ],
+     "text": "Clinical outcome\nEvents, No./total No. (%)\n"
+    },
+    {
+     "bbox": [
+      283.9,
+      249.6,
+      537.5,
+      263.1
+     ],
+     "text": "Absolute difference, percentage points\n(95% CI)\nOR (95% CI)\nP value\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      267.6,
+      59.8,
+      273.6
+     ],
+     "text": "SSI\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      279.6,
+      526.6,
+      297.6
+     ],
+     "text": "Control\n265/2483 (10.67)\n0.82 (−0.84 to 2.48)\n1 [Reference]\n.40\nIntervention\n263/2670 (9.85)\n0.84 (0.55-1.27)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      303.6,
+      104.7,
+      309.6
+     ],
+     "text": "Maternal mortality\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      315.5,
+      526.6,
+      333.5
+     ],
+     "text": "Control\n16/2458 (0.65)\n0.39 (0.02 to 0.75)\n1 [Reference]\n.96\nIntervention\n7/2633 (0.27)\n0.96 (0.20-4.70)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      339.5,
+      104.9,
+      345.5
+     ],
+     "text": "Perinatal mortality\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      351.4,
+      526.6,
+      369.4
+     ],
+     "text": "Control\n149/2623 (5.68)\n2.65 (1.58 to 3.71)\n1 [Reference]\n.01\nIntervention\n89/2935 (3.03)\n0.44 (0.23-0.82)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      375.4,
+      157.9,
+      388.9
+     ],
+     "text": "Composite of SSI, perinatal mortality,\nand maternal mortality\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      393.6,
+      530.5,
+      411.6
+     ],
+     "text": "Control\n436/2543 (16.19)\n3.45 (1.55 to 5.36)\n1 [Reference]\n.049\nIntervention\n356/2706 (12.74)\n0.67 (0.45-1.00)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      416.7,
+      243.8,
+      431.2
+     ],
+     "text": "Infection prevention standarda\nProportion in compliance,\nNo./total No.\n"
+    },
+    {
+     "bbox": [
+      283.9,
+      417.7,
+      537.5,
+      423.7
+     ],
+     "text": "Compliance rate, % (95% CI)\nOR (95% CI)\nP value\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      435.8,
+      111.0,
+      441.8
+     ],
+     "text": "Checklist compliance\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      447.7,
+      530.5,
+      465.7
+     ],
+     "text": "Control\n3346/4636\n72.17 (70.85 to 73.43)\n1 [Reference]\n.009\nIntervention\n3521/4404\n79.95 (78.80 to 81.16)\n1.41 (1.09-1.83)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      471.7,
+      120.3,
+      477.7
+     ],
+     "text": "Hand and skin antisepsis\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      483.7,
+      526.6,
+      501.6
+     ],
+     "text": "Control\n1298/5044\n25.73 (24.44 to 26.85)\n1 [Reference]\n.11\nIntervention\n1515/4641\n32.64 (31.38 to 34.08)\n1.19 (0.96-1.50)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      507.6,
+      157.1,
+      513.6
+     ],
+     "text": "Appropriate antibiotic administration\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      519.6,
+      534.3,
+      537.6
+     ],
+     "text": "Control\n3667/5093\n72.00 (70.75 to 73.22)\n1 [Reference]\n<.001\nIntervention\n4056/4656\n87.11 (86.15 to 88.07)\n1.64 (1.29-2.10)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      543.5,
+      118.8,
+      549.5
+     ],
+     "text": "Sterile field preparation\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      555.5,
+      534.3,
+      573.5
+     ],
+     "text": "Control\n3318/5051\n65.69 (64.35 to 66.98)\n1 [Reference]\n<.001\nIntervention\n4158/4518\n92.03 (92.23 to 92.81)\n6.67 (5.05-8.81)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      579.4,
+      106.4,
+      585.5
+     ],
+     "text": "Instrument sterility\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      591.4,
+      534.3,
+      609.4
+     ],
+     "text": "Control\n3400/5074\n67.01 (65.67 to 68.26)\n1 [Reference]\n<.001\nIntervention\n4268/4634\n92.10 (91.34 to 92.89)\n5.33 (4.06-7.01)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      615.4,
+      95.1,
+      621.4
+     ],
+     "text": "Gauze counting\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      627.3,
+      525.3,
+      645.3
+     ],
+     "text": "Control\n5072/5080\n99.84 (99.73 to 99.95)\n1 [Reference]\nNA\nIntervention\n4634/4649\n99.68 (99.51 to 99.84)\nNA (collinear)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      650.3,
+      101.2,
+      657.3
+     ],
+     "text": "High complianceb\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      663.3,
+      534.3,
+      681.2
+     ],
+     "text": "Control\n2607/5099\n51.13 (49.70 to 52.44)\n1 [Reference]\n<.001\nIntervention\n4057/4656\n87.13 (86.19 to 88.11)\n2.95 (2.40-3.62)\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      691.0,
+      264.3,
+      697.3
+     ],
+     "text": "Abbreviations: NA, not applicable; OR, odds ratio; SSI, surgical site infection.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      700.7,
+      278.8,
+      709.8
+     ],
+     "text": "a The mean (SD) compliance score in the control group was 4.21 (0.02) and in the\n"
+    },
+    {
+     "bbox": [
+      52.9,
+      713.4,
+      220.3,
+      719.8
+     ],
+     "text": "intervention group was 5.24 (0.01) (P < .001) using a t test.\n"
+    },
+    {
+     "bbox": [
+      311.3,
+      688.2,
+      539.9,
+      697.3
+     ],
+     "text": "b Defined as adherence to at least 5 of the 6 perioperative standards targeted by\n"
+    },
+    {
+     "bbox": [
+      316.3,
+      700.9,
+      345.4,
+      707.3
+     ],
+     "text": "Clean Cut.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n8/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "text": "Limitations\nThis study has limitations. Ethiopia has experienced civil strife, and we chose our sites with safety in\nmind; regardless, safe travel was a challenge. We also initiated planning prior to the COVID-19\npandemic, but pandemic restrictions limited in-person site visits. Both circumstances required us to\nFigure 2. Unadjusted Event Rates of Surgical Site Infection (SSI), Maternal Mortality, Perinatal Mortality, and the Composite Outcome Over Time\nin the Intervention Group\n20\n15\n10\n5\n0\nSSI rate, %\nSSI\nA\n–12\n–10\n–8\n0\n2\n4\n6\n8\n10\n12\n800\n600\n400\n200\n0\nPatients, No.\n5\n4\n3\n1\n2\n0\nMaternal mortality rate, %\nMaternal mortality\nC\n–12\n–10\n–8\n0\n2\n4\n6\n8\n10\n12\n800\n600\n400\n200\n0\nPatients, No.\n30\n25\n20\n15\n10\n5\n0\nComposite complication rate, %\nMonths from intervention start\nComposite outcome\nB\n–12\n–10\n–8\n–6\n–4\n–2\n0\n2\n4\n6\n8\n10\n12\n800\n600\n400\n200\n0\nPatients, No.\n20\n15\n10\n5\n0\nPerinatal mortality rate, %\nMonths from intervention start\nPerinatal mortality\nD\n–12\n–10\n–8\n–6\n–4\n–2\n0\n2\n4\n6\n8\n10\n12\n800\n600\n400\n200\n0\nPatients, No.\nMonths from intervention start\n–6\n–4\n–2\nMonths from intervention start\n–6\n–4\n–2\nThe composite outcome included SSI and both mortality outcomes. Time 0 is the\nintervention time point. Month 0 covers the weeks prior to the intervention, while\nmonths −1 and 1 include all patients in the calendar month prior to and following the\nintervention, respectively. Horizontal lines indicate mean complication rates and\nshading, 95% CIs.\nTable 3. Adjusted Outcomes by Low vs High Compliance With Perioperative Standards Regardless of Trial Arma\nClinical outcome\nOR (95% CI)\nP value\nSSI\nLow compliance\n1 [Reference]\n.57\nHigh compliance\n0.94 (0.75-1.17)\nMaternal mortality\nLow compliance\n1 [Reference]\n.04\nHigh compliance\n0.32 (0.11-0.93)\nPerinatal mortality\nLow compliance\n1 [Reference]\n.008\nHigh compliance\n0.64 (0.47-0.89)\nComposite of SSI, perinatal mortality,\nand maternal mortality\nLow compliance\n1 [Reference]\n.03\nHigh compliance\n0.81 (0.66-0.98)\nAbbreviations: OR, odds ratio; SSI, surgical site\ninfection.\na Low compliance was defined as adherence to 4 or\nfewer of the 6 perioperative standards targeted by\nClean Cut and high compliance as adherence to at\nleast 5 standards.\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n9/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 2487,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.3,
+      390.5,
+      80.2
+     ],
+     "text": "Limitations\nThis study has limitations. Ethiopia has experienced civil strife, and we chose our sites with safety in\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      85.5,
+      371.0,
+      93.2
+     ],
+     "text": "mind; regardless, safe travel was a challenge. We also initiated planning prior to the COVID-19\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      98.4,
+      391.3,
+      106.1
+     ],
+     "text": "pandemic, but pandemic restrictions limited in-person site visits. Both circumstances required us to\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      135.2,
+      495.8,
+      152.0
+     ],
+     "text": "Figure 2. Unadjusted Event Rates of Surgical Site Infection (SSI), Maternal Mortality, Perinatal Mortality, and the Composite Outcome Over Time\nin the Intervention Group\n"
+    },
+    {
+     "bbox": [
+      82.1,
+      171.8,
+      88.7,
+      177.0
+     ],
+     "text": "20\n"
+    },
+    {
+     "bbox": [
+      82.1,
+      201.1,
+      88.7,
+      206.2
+     ],
+     "text": "15\n"
+    },
+    {
+     "bbox": [
+      82.1,
+      230.4,
+      88.7,
+      235.5
+     ],
+     "text": "10\n"
+    },
+    {
+     "bbox": [
+      85.4,
+      259.7,
+      88.7,
+      264.8
+     ],
+     "text": "5\n"
+    },
+    {
+     "bbox": [
+      85.4,
+      289.0,
+      88.7,
+      294.1
+     ],
+     "text": "0\n"
+    },
+    {
+     "bbox": [
+      72.7,
+      218.7,
+      78.3,
+      246.8
+     ],
+     "text": "SSI rate, %\n"
+    },
+    {
+     "bbox": [
+      74.5,
+      158.8,
+      92.3,
+      164.6
+     ],
+     "text": "SSI\nA\n"
+    },
+    {
+     "bbox": [
+      92.2,
+      299.9,
+      272.8,
+      305.0
+     ],
+     "text": "–12\n–10\n–8\n0\n2\n4\n6\n8\n10\n12\n"
+    },
+    {
+     "bbox": [
+      277.6,
+      171.9,
+      287.5,
+      177.1
+     ],
+     "text": "800\n"
+    },
+    {
+     "bbox": [
+      277.6,
+      201.2,
+      287.5,
+      206.4
+     ],
+     "text": "600\n"
+    },
+    {
+     "bbox": [
+      277.6,
+      230.5,
+      287.5,
+      235.7
+     ],
+     "text": "400\n"
+    },
+    {
+     "bbox": [
+      277.6,
+      259.8,
+      287.5,
+      265.0
+     ],
+     "text": "200\n"
+    },
+    {
+     "bbox": [
+      277.6,
+      289.1,
+      280.9,
+      294.3
+     ],
+     "text": "0\n"
+    },
+    {
+     "bbox": [
+      291.6,
+      215.8,
+      297.2,
+      249.7
+     ],
+     "text": "Patients, No.\n"
+    },
+    {
+     "bbox": [
+      85.4,
+      343.0,
+      88.7,
+      348.2
+     ],
+     "text": "5\n"
+    },
+    {
+     "bbox": [
+      85.4,
+      366.5,
+      88.7,
+      371.6
+     ],
+     "text": "4\n"
+    },
+    {
+     "bbox": [
+      85.4,
+      389.9,
+      88.7,
+      395.1
+     ],
+     "text": "3\n"
+    },
+    {
+     "bbox": [
+      85.4,
+      436.8,
+      88.7,
+      441.9
+     ],
+     "text": "1\n"
+    },
+    {
+     "bbox": [
+      85.4,
+      413.3,
+      88.7,
+      418.5
+     ],
+     "text": "2\n"
+    },
+    {
+     "bbox": [
+      85.4,
+      460.2,
+      88.7,
+      465.4
+     ],
+     "text": "0\n"
+    },
+    {
+     "bbox": [
+      72.7,
+      369.0,
+      78.3,
+      438.9
+     ],
+     "text": "Maternal mortality rate, %\n"
+    },
+    {
+     "bbox": [
+      74.6,
+      330.1,
+      134.1,
+      335.9
+     ],
+     "text": "Maternal mortality\nC\n"
+    },
+    {
+     "bbox": [
+      92.2,
+      471.0,
+      272.8,
+      476.2
+     ],
+     "text": "–12\n–10\n–8\n0\n2\n4\n6\n8\n10\n12\n"
+    },
+    {
+     "bbox": [
+      277.6,
+      343.2,
+      287.5,
+      348.3
+     ],
+     "text": "800\n"
+    },
+    {
+     "bbox": [
+      277.6,
+      372.5,
+      287.5,
+      377.6
+     ],
+     "text": "600\n"
+    },
+    {
+     "bbox": [
+      277.6,
+      401.7,
+      287.5,
+      406.9
+     ],
+     "text": "400\n"
+    },
+    {
+     "bbox": [
+      277.6,
+      431.0,
+      287.5,
+      436.2
+     ],
+     "text": "200\n"
+    },
+    {
+     "bbox": [
+      277.6,
+      460.3,
+      280.9,
+      465.5
+     ],
+     "text": "0\n"
+    },
+    {
+     "bbox": [
+      291.6,
+      387.0,
+      297.2,
+      421.0
+     ],
+     "text": "Patients, No.\n"
+    },
+    {
+     "bbox": [
+      323.0,
+      171.8,
+      329.6,
+      177.0
+     ],
+     "text": "30\n"
+    },
+    {
+     "bbox": [
+      323.0,
+      191.3,
+      329.6,
+      196.5
+     ],
+     "text": "25\n"
+    },
+    {
+     "bbox": [
+      323.0,
+      210.9,
+      329.6,
+      216.0
+     ],
+     "text": "20\n"
+    },
+    {
+     "bbox": [
+      323.0,
+      230.4,
+      329.6,
+      235.5
+     ],
+     "text": "15\n"
+    },
+    {
+     "bbox": [
+      323.0,
+      249.9,
+      329.6,
+      255.1
+     ],
+     "text": "10\n"
+    },
+    {
+     "bbox": [
+      326.3,
+      269.4,
+      329.6,
+      274.6
+     ],
+     "text": "5\n"
+    },
+    {
+     "bbox": [
+      326.3,
+      289.0,
+      329.6,
+      294.1
+     ],
+     "text": "0\n"
+    },
+    {
+     "bbox": [
+      312.6,
+      190.8,
+      318.2,
+      274.7
+     ],
+     "text": "Composite complication rate, %\n"
+    },
+    {
+     "bbox": [
+      382.9,
+      308.4,
+      465.3,
+      314.0
+     ],
+     "text": "Months from intervention start\n"
+    },
+    {
+     "bbox": [
+      314.5,
+      158.8,
+      376.8,
+      164.6
+     ],
+     "text": "Composite outcome\nB\n"
+    },
+    {
+     "bbox": [
+      333.1,
+      299.9,
+      513.7,
+      305.0
+     ],
+     "text": "–12\n–10\n–8\n–6\n–4\n–2\n0\n2\n4\n6\n8\n10\n12\n"
+    },
+    {
+     "bbox": [
+      518.5,
+      171.9,
+      528.4,
+      177.1
+     ],
+     "text": "800\n"
+    },
+    {
+     "bbox": [
+      518.5,
+      201.2,
+      528.4,
+      206.4
+     ],
+     "text": "600\n"
+    },
+    {
+     "bbox": [
+      518.5,
+      230.5,
+      528.4,
+      235.7
+     ],
+     "text": "400\n"
+    },
+    {
+     "bbox": [
+      518.5,
+      259.8,
+      528.4,
+      265.0
+     ],
+     "text": "200\n"
+    },
+    {
+     "bbox": [
+      518.5,
+      289.1,
+      521.8,
+      294.3
+     ],
+     "text": "0\n"
+    },
+    {
+     "bbox": [
+      532.5,
+      215.8,
+      538.1,
+      249.7
+     ],
+     "text": "Patients, No.\n"
+    },
+    {
+     "bbox": [
+      323.0,
+      343.0,
+      329.6,
+      348.2
+     ],
+     "text": "20\n"
+    },
+    {
+     "bbox": [
+      323.0,
+      372.3,
+      329.6,
+      377.5
+     ],
+     "text": "15\n"
+    },
+    {
+     "bbox": [
+      323.0,
+      401.6,
+      329.6,
+      406.8
+     ],
+     "text": "10\n"
+    },
+    {
+     "bbox": [
+      326.3,
+      430.9,
+      329.6,
+      436.1
+     ],
+     "text": "5\n"
+    },
+    {
+     "bbox": [
+      326.3,
+      460.2,
+      329.6,
+      465.4
+     ],
+     "text": "0\n"
+    },
+    {
+     "bbox": [
+      312.6,
+      369.0,
+      318.2,
+      439.0
+     ],
+     "text": "Perinatal mortality rate, %\n"
+    },
+    {
+     "bbox": [
+      382.9,
+      479.6,
+      465.3,
+      485.2
+     ],
+     "text": "Months from intervention start\n"
+    },
+    {
+     "bbox": [
+      314.3,
+      330.1,
+      374.2,
+      335.9
+     ],
+     "text": "Perinatal mortality\nD\n"
+    },
+    {
+     "bbox": [
+      333.1,
+      471.0,
+      513.7,
+      476.2
+     ],
+     "text": "–12\n–10\n–8\n–6\n–4\n–2\n0\n2\n4\n6\n8\n10\n12\n"
+    },
+    {
+     "bbox": [
+      518.5,
+      343.2,
+      528.4,
+      348.3
+     ],
+     "text": "800\n"
+    },
+    {
+     "bbox": [
+      518.5,
+      372.5,
+      528.4,
+      377.6
+     ],
+     "text": "600\n"
+    },
+    {
+     "bbox": [
+      518.5,
+      401.7,
+      528.4,
+      406.9
+     ],
+     "text": "400\n"
+    },
+    {
+     "bbox": [
+      518.5,
+      431.0,
+      528.4,
+      436.2
+     ],
+     "text": "200\n"
+    },
+    {
+     "bbox": [
+      518.5,
+      460.3,
+      521.8,
+      465.5
+     ],
+     "text": "0\n"
+    },
+    {
+     "bbox": [
+      532.5,
+      387.0,
+      538.1,
+      421.0
+     ],
+     "text": "Patients, No.\n"
+    },
+    {
+     "bbox": [
+      137.1,
+      299.9,
+      224.4,
+      314.0
+     ],
+     "text": "Months from intervention start\n–6\n–4\n–2\n"
+    },
+    {
+     "bbox": [
+      137.1,
+      471.0,
+      224.4,
+      485.2
+     ],
+     "text": "Months from intervention start\n–6\n–4\n–2\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      496.0,
+      284.8,
+      522.3
+     ],
+     "text": "The composite outcome included SSI and both mortality outcomes. Time 0 is the\nintervention time point. Month 0 covers the weeks prior to the intervention, while\nmonths −1 and 1 include all patients in the calendar month prior to and following the\n"
+    },
+    {
+     "bbox": [
+      311.3,
+      496.0,
+      539.5,
+      512.4
+     ],
+     "text": "intervention, respectively. Horizontal lines indicate mean complication rates and\nshading, 95% CIs.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      543.2,
+      393.0,
+      550.9
+     ],
+     "text": "Table 3. Adjusted Outcomes by Low vs High Compliance With Perioperative Standards Regardless of Trial Arma\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      560.1,
+      365.6,
+      566.2
+     ],
+     "text": "Clinical outcome\nOR (95% CI)\nP value\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      570.7,
+      59.8,
+      576.7
+     ],
+     "text": "SSI\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      582.7,
+      354.8,
+      600.7
+     ],
+     "text": "Low compliance\n1 [Reference]\n.57\nHigh compliance\n0.94 (0.75-1.17)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      606.6,
+      104.7,
+      612.6
+     ],
+     "text": "Maternal mortality\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      618.6,
+      354.8,
+      636.6
+     ],
+     "text": "Low compliance\n1 [Reference]\n.04\nHigh compliance\n0.32 (0.11-0.93)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      642.6,
+      104.9,
+      648.6
+     ],
+     "text": "Perinatal mortality\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      654.5,
+      358.6,
+      672.5
+     ],
+     "text": "Low compliance\n1 [Reference]\n.008\nHigh compliance\n0.64 (0.47-0.89)\n"
+    },
+    {
+     "bbox": [
+      50.9,
+      678.5,
+      157.9,
+      692.0
+     ],
+     "text": "Composite of SSI, perinatal mortality,\nand maternal mortality\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      696.7,
+      354.8,
+      714.7
+     ],
+     "text": "Low compliance\n1 [Reference]\n.03\nHigh compliance\n0.81 (0.66-0.98)\n"
+    },
+    {
+     "bbox": [
+      407.1,
+      661.0,
+      539.5,
+      677.3
+     ],
+     "text": "Abbreviations: OR, odds ratio; SSI, surgical site\ninfection.\n"
+    },
+    {
+     "bbox": [
+      407.1,
+      680.7,
+      553.8,
+      689.8
+     ],
+     "text": "a Low compliance was defined as adherence to 4 or\n"
+    },
+    {
+     "bbox": [
+      412.1,
+      693.5,
+      557.0,
+      719.8
+     ],
+     "text": "fewer of the 6 perioperative standards targeted by\nClean Cut and high compliance as adherence to at\nleast 5 standards.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n9/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "text": "modify our approach from in-person to remote implementation training and education. Our\nintervention was not universally successful in addressing process gaps, as the degree of\nimprovement varied across centers.. Furthermore, 1 center underrecruited patients and was\nremoved from the study. These implementation challenges likely resulted from differences in\norganizational structure, ability of teams to impact processes within hospitals, and differing levels of\nengagement; however, they represent daily challenges of such work.49-51\nWe did not distinguish between stillbirths and neonatal deaths, and any intraoperative death\nwas classified as perinatal mortality. We also did not collect information on multiple pregnancies;\neach mother was the unit of enrollment, and if any newborn died, this was entered as a perinatal\ndeath. However, since data collection techniques remained consistent throughout the study,\nmisclassification appears to have been unlikely.\nOur biggest challenge was 30-day follow-up. Other work has demonstrated the feasibility of\ntelephone call follow-up in low-resource settings, albeit with a slightly lower rate of SSI\ndetection.42,52 As data collectors were paid for data entry, there was an incentive to complete data\nforms regardless of whether follow-up had occurred. We noted unrealistically low SSI rates in 8 of 9\nhospitals, which reflects the clinical challenges of 30-day follow-up in Ethiopia. While we\ncontinuously monitored data for completeness, the temporal challenges of follow-up data collection\ndelayed identification of inaccurate capture and reporting; in the future, we would plan for an early\ninterim analysis. Data collected by auditors are subject to recall bias; a study in Ethiopian women\nundergoing CD showed that women were less likely to report complications the longer they receded\nin time.53 This appeared to be true in our study: SSI rates were higher among patients who had\nfollow-up closer to the time of their CD (eTable 23 and eFigure 8 in Supplement 2), biasing the data\nagainst rejecting the null hypothesis. Conversely, recall bias for perinatal mortality could bias the\nresults in favor of the intervention if patients who enrolled earlier in the study reported infant (ie,\ndeath before first birthday) rather than perinatal (ie, within 28 days of birth) deaths. Our assessment\nof perinatal mortality rates based on elapsed follow-up time did not demonstrate higher reported\nrates at time points more remote from surgery (eTable 24 and eFigure 9 in Supplement 2). In\naddition, nearly half of the patients could not be reached for their 30-day follow-up telephone call by\nthe auditors.54 However, demographic and clinical characteristics did not demonstrate substantive\ndifferences between patients with and without follow-up (eTables 16 and 17 and eFigure 8 in\nSupplement 2), and our sensitivity analyses were robust to a number of different assumptions\n(eAppendix 8, eTables 10-25, and eFigures 7-9 in Supplement 2).\nComplex relationships underlie this intervention, and while mortality improvements were\nexpected, the targeted perioperative standards were most closely related biologically to\npostoperative infections. While perinatal sepsis is a major cause of death and might have improved\nwith improved compliance with perioperative infection prevention and control standards, we did not\ncollect data on the cause of perinatal death and were unable to indicate the mechanism by which\nperinatal mortality declined. After nearly 2 decades of experience with checklist implementation, we\nhave found that the effects of improved teamwork and communication, the attributes most closely\nlinked to checklist use itself, can result in beneficial effects beyond biologic mechanisms initially\nconsidered.\nConclusions\nIn this stepped-wedge, cluster randomized clinical trial, no reduction in SSI rates following Clean Cut\nimplementation was detected. However, there were significant improvements in compliance with\n6 perioperative infection prevention standards and a decline in perinatal mortality. These findings\nsupport the implementation of Clean Cut to improve compliance with perioperative infection\nprevention standards; its effect on postoperative complications in this study was indeterminate. The\nfindings suggest that improving perioperative processes could benefit many settings faced with\nprocess gaps and organizational challenges and improve the safety of surgical care beyond CD.\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n10/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 4752,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.5,
+      363.9,
+      67.2
+     ],
+     "text": "modify our approach from in-person to remote implementation training and education. Our\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      72.5,
+      349.1,
+      80.2
+     ],
+     "text": "intervention was not universally successful in addressing process gaps, as the degree of\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      85.5,
+      364.7,
+      93.2
+     ],
+     "text": "improvement varied across centers.. Furthermore, 1 center underrecruited patients and was\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      98.4,
+      368.5,
+      106.1
+     ],
+     "text": "removed from the study. These implementation challenges likely resulted from differences in\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      111.4,
+      392.9,
+      119.1
+     ],
+     "text": "organizational structure, ability of teams to impact processes within hospitals, and differing levels of\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      123.0,
+      299.7,
+      132.1
+     ],
+     "text": "engagement; however, they represent daily challenges of such work.49-51\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      137.4,
+      387.0,
+      145.1
+     ],
+     "text": "We did not distinguish between stillbirths and neonatal deaths, and any intraoperative death\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      150.3,
+      382.5,
+      158.0
+     ],
+     "text": "was classified as perinatal mortality. We also did not collect information on multiple pregnancies;\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      163.3,
+      379.7,
+      171.0
+     ],
+     "text": "each mother was the unit of enrollment, and if any newborn died, this was entered as a perinatal\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      176.3,
+      367.1,
+      184.0
+     ],
+     "text": "death. However, since data collection techniques remained consistent throughout the study,\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      189.2,
+      210.5,
+      196.9
+     ],
+     "text": "misclassification appears to have been unlikely.\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      202.2,
+      382.7,
+      209.9
+     ],
+     "text": "Our biggest challenge was 30-day follow-up. Other work has demonstrated the feasibility of\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      215.2,
+      345.8,
+      222.9
+     ],
+     "text": "telephone call follow-up in low-resource settings, albeit with a slightly lower rate of SSI\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      224.7,
+      387.8,
+      235.9
+     ],
+     "text": "detection.42,52 As data collectors were paid for data entry, there was an incentive to complete data\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      241.1,
+      391.9,
+      248.8
+     ],
+     "text": "forms regardless of whether follow-up had occurred. We noted unrealistically low SSI rates in 8 of 9\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      254.1,
+      353.6,
+      261.8
+     ],
+     "text": "hospitals, which reflects the clinical challenges of 30-day follow-up in Ethiopia. While we\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      267.1,
+      393.5,
+      274.8
+     ],
+     "text": "continuously monitored data for completeness, the temporal challenges of follow-up data collection\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      280.0,
+      388.3,
+      287.7
+     ],
+     "text": "delayed identification of inaccurate capture and reporting; in the future, we would plan for an early\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      293.0,
+      382.3,
+      300.7
+     ],
+     "text": "interim analysis. Data collected by auditors are subject to recall bias; a study in Ethiopian women\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      306.0,
+      393.3,
+      313.7
+     ],
+     "text": "undergoing CD showed that women were less likely to report complications the longer they receded\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      315.5,
+      373.4,
+      326.7
+     ],
+     "text": "in time.53 This appeared to be true in our study: SSI rates were higher among patients who had\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      331.9,
+      388.1,
+      339.6
+     ],
+     "text": "follow-up closer to the time of their CD (eTable 23 and eFigure 8 in Supplement 2), biasing the data\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      344.9,
+      381.1,
+      352.6
+     ],
+     "text": "against rejecting the null hypothesis. Conversely, recall bias for perinatal mortality could bias the\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      357.9,
+      381.8,
+      365.6
+     ],
+     "text": "results in favor of the intervention if patients who enrolled earlier in the study reported infant (ie,\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      370.8,
+      394.3,
+      378.5
+     ],
+     "text": "death before first birthday) rather than perinatal (ie, within 28 days of birth) deaths. Our assessment\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      383.8,
+      383.1,
+      391.5
+     ],
+     "text": "of perinatal mortality rates based on elapsed follow-up time did not demonstrate higher reported\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      396.8,
+      366.9,
+      404.5
+     ],
+     "text": "rates at time points more remote from surgery (eTable 24 and eFigure 9 in Supplement 2). In\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      409.8,
+      395.2,
+      417.5
+     ],
+     "text": "addition, nearly half of the patients could not be reached for their 30-day follow-up telephone call by\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      419.2,
+      387.9,
+      430.4
+     ],
+     "text": "the auditors.54 However, demographic and clinical characteristics did not demonstrate substantive\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      435.7,
+      368.2,
+      443.4
+     ],
+     "text": "differences between patients with and without follow-up (eTables 16 and 17 and eFigure 8 in\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      448.7,
+      371.5,
+      456.4
+     ],
+     "text": "Supplement 2), and our sensitivity analyses were robust to a number of different assumptions\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      461.6,
+      270.1,
+      469.3
+     ],
+     "text": "(eAppendix 8, eTables 10-25, and eFigures 7-9 in Supplement 2).\n"
+    },
+    {
+     "bbox": [
+      65.9,
+      474.6,
+      374.5,
+      482.3
+     ],
+     "text": "Complex relationships underlie this intervention, and while mortality improvements were\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      487.6,
+      351.4,
+      495.3
+     ],
+     "text": "expected, the targeted perioperative standards were most closely related biologically to\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      500.6,
+      387.8,
+      508.3
+     ],
+     "text": "postoperative infections. While perinatal sepsis is a major cause of death and might have improved\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      513.5,
+      395.2,
+      521.2
+     ],
+     "text": "with improved compliance with perioperative infection prevention and control standards, we did not\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      526.5,
+      381.7,
+      534.2
+     ],
+     "text": "collect data on the cause of perinatal death and were unable to indicate the mechanism by which\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      539.5,
+      394.1,
+      547.2
+     ],
+     "text": "perinatal mortality declined. After nearly 2 decades of experience with checklist implementation, we\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      552.4,
+      389.4,
+      560.1
+     ],
+     "text": "have found that the effects of improved teamwork and communication, the attributes most closely\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      565.4,
+      378.7,
+      573.1
+     ],
+     "text": "linked to checklist use itself, can result in beneficial effects beyond biologic mechanisms initially\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      578.4,
+      88.7,
+      586.1
+     ],
+     "text": "considered.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      613.5,
+      105.0,
+      623.5
+     ],
+     "text": "Conclusions\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      633.8,
+      391.9,
+      641.5
+     ],
+     "text": "In this stepped-wedge, cluster randomized clinical trial, no reduction in SSI rates following Clean Cut\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      646.7,
+      385.9,
+      654.4
+     ],
+     "text": "implementation was detected. However, there were significant improvements in compliance with\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      659.7,
+      386.0,
+      667.4
+     ],
+     "text": "6 perioperative infection prevention standards and a decline in perinatal mortality. These findings\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      672.7,
+      370.4,
+      680.4
+     ],
+     "text": "support the implementation of Clean Cut to improve compliance with perioperative infection\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      685.6,
+      394.0,
+      693.3
+     ],
+     "text": "prevention standards; its effect on postoperative complications in this study was indeterminate. The\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      698.6,
+      377.8,
+      706.3
+     ],
+     "text": "findings suggest that improving perioperative processes could benefit many settings faced with\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      711.6,
+      373.5,
+      719.3
+     ],
+     "text": "process gaps and organizational challenges and improve the safety of surgical care beyond CD.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n10/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "text": "ARTICLE INFORMATION\nAccepted for Publication: June 25, 2024.\nPublished: August 20, 2024. doi:10.1001/jamanetworkopen.2024.28910\nOpen Access: This is an open access article distributed under the terms of the CC-BY License. © 2024 Mammo TN\net al. JAMA Network Open.\nCorresponding Authors: Tihitena Negussie Mammo, MD, Department of Surgery, Addis Ababa University,\nEthiopia (tihitena.negussie@lifebox.org); Thomas G. Weiser, MD, MPH, Department of Surgery,\nStanford University, 300 Pasteur Dr, H3638, Stanford, CA 94305 (tweiser@stanford.edu).\nAuthor Affiliations: Department of Surgery, Addis Ababa University, Addis Ababa, Ethiopia (Mammo); Lifebox\nFoundation, Addis Ababa, Ethiopia (Mammo, Nofal, Gebeyehu, Shiferaw, Tesfaye, Woldeamanuel, Alemu, Haile,\nWeiser); St Paul’s Hospital Millenium Medical College, Addis Ababa, Ethiopia (Feyssa, Shiferaw); Ethiopian Society\nof Obstetricians & Gynecologists, Addis Ababa, Ethiopia (Feyssa, Fikre); Ethiopian Federal Ministry of Health, Addis\nAbaba, Ethiopia (Feyssa); Department of Surgery, Stanford University, Stanford, California (Nofal, Weiser);\nDepartment of Surgery, Boston Medical Center, Boston, Massachusetts (Nofal); Quantitative Science Unit,\nDepartment of Medicine, Stanford University, Stanford, California (Miller).\nAuthor Contributions: Drs Nofal and Weiser had full access to all of the data in the study and take responsibility\nfor the integrity of the data and the accuracy of the data analysis. Drs Mammo, Feyssa, and Weiser were\nco–senior authors.\nConcept and design: Mammo, Feyssa, Gebeyehu, Tesfaye, Alemu, Haile, Weiser.\nAcquisition, analysis, or interpretation of data: Mammo, Feyssa, Nofal, Gebeyehu, Shiferaw, Fikre, Woldeamanuel,\nMiller, Haile, Weiser.\nDrafting of the manuscript: Mammo, Nofal, Weiser.\nCritical review of the manuscript for important intellectual content: All authors.\nStatistical analysis: Nofal, Shiferaw, Fikre, Woldeamanuel, Miller, Weiser.\nObtained funding: Weiser.\nAdministrative, technical, or material support: Mammo, Feyssa, Nofal, Gebeyehu, Tesfaye, Fikre, Alemu,\nHaile, Weiser.\nSupervision: Mammo, Feyssa, Weiser.\nConflict of Interest Disclosures: Dr Weiser reported receiving personal fees from the Lifebox Foundation as the\nconsulting medical officer during the conduct of the study. No other disclosures were reported.\nFunding/Support: This trial was funded by the UBS Optimus Foundation through a Bill & Melinda Gates\nFoundation Grand Challenge Grant and by Global Health Equity Scholars grant NIH FIC D43TW010540 from the\nNational Institutes of Health Fogarty International Center (Dr Nofal).\nRole of the Funder/Sponsor: The funders had no role in the design and conduct of the study; collection,\nmanagement, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and\ndecision to submit the manuscript for publication.\nGroup Information: Members of the Checklist Expansion for Antisepsis and Infection Control in Cesarean Section\n(CLEAN-CS) Trial Group are listed in Supplement 3.\nData Sharing Statement: See Supplement 4.\nAdditional Contributions: We thank advisory group members Meseret Zelalem, MD, Ministry of Health, Ethiopia;\nStephen Rulisa, MD, PhD, University of Rwanda, Rwanda; and Salome Maswime, MBChB, PhD, University of Cape\nTown, South Africa. We thank the local staff, data collectors, trainers, and the Ethiopian Federal Ministry of Health\nfor their support of the work; the participants in this trial, along with their relatives and families; and the staff and\nleadership at the Lifebox Foundation who provided support and encouragement and continue to promote efforts\nto improve the safety of surgical and anesthetic care worldwide—in particular, Kris Torgeson, MPhil, MSc; Katie\nFernandez, MA, MSc; Milena Abreha Kebedew, BA; Hillena Kebede, MD, MPH; Samuel Negash, MD; Nichole Starr,\nMD, MPH; Jared Forrester, MD; and the Global Governance Council of Lifebox. None were compensated outside of\ntheir regular employment.\nREFERENCES\n1. Molina G, Weiser TG, Lipsitz SR, et al. Relationship between cesarean delivery rate and maternal and neonatal\nmortality. JAMA. 2015;314(21):2263-2270. doi:10.1001/jama.2015.15553\n2. Weiser TG, Haynes AB, Molina G, et al. Estimate of the global volume of surgery in 2012: an assessment\nsupporting improved health outcomes. Lancet. 2015;385(suppl 2):S11. doi:10.1016/S0140-6736(15)60806-6\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n11/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 4677,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.5,
+      176.6,
+      77.3
+     ],
+     "text": "ARTICLE INFORMATION\nAccepted for Publication: June 25, 2024.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      84.4,
+      272.0,
+      91.2
+     ],
+     "text": "Published: August 20, 2024. doi:10.1001/jamanetworkopen.2024.28910\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      98.4,
+      394.7,
+      116.2
+     ],
+     "text": "Open Access: This is an open access article distributed under the terms of the CC-BY License. © 2024 Mammo TN\net al. JAMA Network Open.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      123.4,
+      371.5,
+      152.1
+     ],
+     "text": "Corresponding Authors: Tihitena Negussie Mammo, MD, Department of Surgery, Addis Ababa University,\nEthiopia (tihitena.negussie@lifebox.org); Thomas G. Weiser, MD, MPH, Department of Surgery,\nStanford University, 300 Pasteur Dr, H3638, Stanford, CA 94305 (tweiser@stanford.edu).\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      159.3,
+      394.4,
+      231.9
+     ],
+     "text": "Author Affiliations: Department of Surgery, Addis Ababa University, Addis Ababa, Ethiopia (Mammo); Lifebox\nFoundation, Addis Ababa, Ethiopia (Mammo, Nofal, Gebeyehu, Shiferaw, Tesfaye, Woldeamanuel, Alemu, Haile,\nWeiser); St Paul’s Hospital Millenium Medical College, Addis Ababa, Ethiopia (Feyssa, Shiferaw); Ethiopian Society\nof Obstetricians & Gynecologists, Addis Ababa, Ethiopia (Feyssa, Fikre); Ethiopian Federal Ministry of Health, Addis\nAbaba, Ethiopia (Feyssa); Department of Surgery, Stanford University, Stanford, California (Nofal, Weiser);\nDepartment of Surgery, Boston Medical Center, Boston, Massachusetts (Nofal); Quantitative Science Unit,\nDepartment of Medicine, Stanford University, Stanford, California (Miller).\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      239.1,
+      387.9,
+      267.9
+     ],
+     "text": "Author Contributions: Drs Nofal and Weiser had full access to all of the data in the study and take responsibility\nfor the integrity of the data and the accuracy of the data analysis. Drs Mammo, Feyssa, and Weiser were\nco–senior authors.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      275.0,
+      288.7,
+      281.8
+     ],
+     "text": "Concept and design: Mammo, Feyssa, Gebeyehu, Tesfaye, Alemu, Haile, Weiser.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      289.0,
+      391.6,
+      306.8
+     ],
+     "text": "Acquisition, analysis, or interpretation of data: Mammo, Feyssa, Nofal, Gebeyehu, Shiferaw, Fikre, Woldeamanuel,\nMiller, Haile, Weiser.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      313.9,
+      201.9,
+      320.7
+     ],
+     "text": "Drafting of the manuscript: Mammo, Nofal, Weiser.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      327.9,
+      284.4,
+      334.7
+     ],
+     "text": "Critical review of the manuscript for important intellectual content: All authors.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      341.9,
+      266.3,
+      348.7
+     ],
+     "text": "Statistical analysis: Nofal, Shiferaw, Fikre, Woldeamanuel, Miller, Weiser.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      355.9,
+      126.6,
+      362.6
+     ],
+     "text": "Obtained funding: Weiser.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      369.8,
+      361.1,
+      387.6
+     ],
+     "text": "Administrative, technical, or material support: Mammo, Feyssa, Nofal, Gebeyehu, Tesfaye, Fikre, Alemu,\nHaile, Weiser.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      394.8,
+      161.3,
+      401.6
+     ],
+     "text": "Supervision: Mammo, Feyssa, Weiser.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      408.7,
+      389.0,
+      426.5
+     ],
+     "text": "Conflict of Interest Disclosures: Dr Weiser reported receiving personal fees from the Lifebox Foundation as the\nconsulting medical officer during the conduct of the study. No other disclosures were reported.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      433.7,
+      387.9,
+      462.4
+     ],
+     "text": "Funding/Support: This trial was funded by the UBS Optimus Foundation through a Bill & Melinda Gates\nFoundation Grand Challenge Grant and by Global Health Equity Scholars grant NIH FIC D43TW010540 from the\nNational Institutes of Health Fogarty International Center (Dr Nofal).\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      469.6,
+      381.6,
+      498.3
+     ],
+     "text": "Role of the Funder/Sponsor: The funders had no role in the design and conduct of the study; collection,\nmanagement, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and\ndecision to submit the manuscript for publication.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      505.5,
+      393.4,
+      523.3
+     ],
+     "text": "Group Information: Members of the Checklist Expansion for Antisepsis and Infection Control in Cesarean Section\n(CLEAN-CS) Trial Group are listed in Supplement 3.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      530.5,
+      185.8,
+      537.3
+     ],
+     "text": "Data Sharing Statement: See Supplement 4.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      544.4,
+      395.3,
+      639.0
+     ],
+     "text": "Additional Contributions: We thank advisory group members Meseret Zelalem, MD, Ministry of Health, Ethiopia;\nStephen Rulisa, MD, PhD, University of Rwanda, Rwanda; and Salome Maswime, MBChB, PhD, University of Cape\nTown, South Africa. We thank the local staff, data collectors, trainers, and the Ethiopian Federal Ministry of Health\nfor their support of the work; the participants in this trial, along with their relatives and families; and the staff and\nleadership at the Lifebox Foundation who provided support and encouragement and continue to promote efforts\nto improve the safety of surgical and anesthetic care worldwide—in particular, Kris Torgeson, MPhil, MSc; Katie\nFernandez, MA, MSc; Milena Abreha Kebedew, BA; Hillena Kebede, MD, MPH; Samuel Negash, MD; Nichole Starr,\nMD, MPH; Jared Forrester, MD; and the Global Governance Council of Lifebox. None were compensated outside of\ntheir regular employment.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      652.2,
+      388.0,
+      681.0
+     ],
+     "text": "REFERENCES\n1. Molina G, Weiser TG, Lipsitz SR, et al. Relationship between cesarean delivery rate and maternal and neonatal\nmortality. JAMA. 2015;314(21):2263-2270. doi:10.1001/jama.2015.15553\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      688.1,
+      378.9,
+      705.9
+     ],
+     "text": "2. Weiser TG, Haynes AB, Molina G, et al. Estimate of the global volume of surgery in 2012: an assessment\nsupporting improved health outcomes. Lancet. 2015;385(suppl 2):S11. doi:10.1016/S0140-6736(15)60806-6\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n11/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "text": "3. Weiser TG, Haynes AB, Molina G, et al. Size and distribution of the global volume of surgery in 2012. Bull World\nHealth Organ. 2016;94(3):201-209. doi:10.2471/BLT.15.159293\n4. Galukande M, von Schreeb J, Wladis A, et al. Essential surgery at the district hospital: a retrospective descriptive\nanalysis in three African countries. PLoS Med. 2010;7(3):e1000243. doi:10.1371/journal.pmed.1000243\n5. Luboga S, Macfarlane SB, von Schreeb J, et al; Bellagio Essential Surgery Group (BESG). Increasing access to\nsurgical services in sub-Saharan Africa: priorities for national and international agencies recommended by the\nBellagio Essential Surgery Group. PLoS Med. 2009;6(12):e1000200. doi:10.1371/journal.pmed.1000200\n6. Kushner AL, Groen RS, Kingham TP. Percentage of cesarean sections among total surgical procedures in\nsub-Saharan Africa: possible indicator of the overall adequacy of surgical care. World J Surg. 2010;34(9):\n2007-2008. doi:10.1007/s00268-010-0653-7\n7. Hughes CD, McClain CD, Hagander L, et al. Ratio of cesarean deliveries to total operations and surgeon\nnationality are potential proxies for surgical capacity in central Haiti. World J Surg. 2013;37(7):1526-1529. doi:10.\n1007/s00268-012-1794-7\n8. Petroze RT, Mehtsun W, Nzayisenga A, Ntakiyiruta G, Sawyer RG, Calland JF. Ratio of cesarean sections to total\nprocedures as a marker of district hospital trauma capacity. World J Surg. 2012;36(9):2074-2079. doi:10.1007/\ns00268-012-1629-6\n9. Bentounsi Z, Sheik-Ali S, Drury G, Lavy C. Surgical care in district hospitals in sub-Saharan Africa: a scoping\nreview. BMJ Open. 2021;11(3):e042862. doi:10.1136/bmjopen-2020-042862\n10. Kawakita T, Landy HJ. Surgical site infections after cesarean delivery: epidemiology, prevention and treatment.\nMatern Health Neonatol Perinatol. 2017;3:12. doi:10.1186/s40748-017-0051-3\n11. Wloch C, Wilson J, Lamagni T, Harrington P, Charlett A, Sheridan E. Risk factors for surgical site infection\nfollowing caesarean section in England: results from a multicentre cohort study. BJOG. 2012;119(11):1324-1333. doi:\n10.1111/j.1471-0528.2012.03452.x\n12. GlobalSurg Collaborative. Surgical site infection after gastrointestinal surgery in high-income, middle-income,\nand low-income countries: a prospective, international, multicentre cohort study. Lancet Infect Dis. 2018;18(5):\n516-525. doi:10.1016/S1473-3099(18)30101-4\n13. Biccard BM, Madiba TE, Kluyts HL, et al; African Surgical Outcomes Study (ASOS) investigators. Perioperative\npatient outcomes in the African Surgical Outcomes Study: a 7-day prospective observational cohort study. Lancet.\n2018;391(10130):1589-1598. doi:10.1016/S0140-6736(18)30001-1\n14. Wodajo S, Belayneh M, Gebremedhin S. Magnitude and factors associated with post-cesarean surgical site\ninfection at Hawassa University Teaching and Referral Hospital, southern Ethiopia: a cross-sectional study. Ethiop J\nHealth Sci. 2017;27(3):283-290. doi:10.4314/ejhs.v27i3.10\n15. Amenu D, Belachew T, Araya F. Surgical site infection rate and risk factors among obstetric cases of Jimma\nUniversity Specialized Hospital, southwest Ethiopia. Ethiop J Health Sci. 2011;21(2):91-100. doi:10.4314/ejhs.\nv21i2.69049\n16. Alemye T, Oljira L, Fekadu G, Mengesha MM. Post cesarean section surgical site infection and associated\nfactors among women who delivered in public hospitals in Harar City, eastern Ethiopia: a hospital-based analytic\ncross-sectional study. PLoS One. 2021;16(6):e0253194. doi:10.1371/journal.pone.0253194\n17. Bizuayew H, Abebe H, Mullu G, Bewuket L, Tsega D, Alemye T. Post-cesarean section surgical site infection and\nassociated factors in East Gojjam zone primary hospitals, Amhara region, north west Ethiopia, 2020. PLoS One.\n2021;16(12):e0261951. doi:10.1371/journal.pone.0261951\n18. Fesseha N, Getachew A, Hiluf M, Gebrehiwot Y, Bailey P. A national review of cesarean delivery in Ethiopia. Int\nJ Gynaecol Obstet. 2011;115(1):106-111. doi:10.1016/j.ijgo.2011.07.011\n19. Lijaemiro H, Berhe Lemlem S, Tesfaye Deressa J. Incidence of surgical site infection and factors associated\namong cesarean deliveries in selected government hospitals in Addis Ababa, Ethiopia, 2019. Obstet Gynecol Int.\n2020;2020:9714640. doi:10.1155/2020/9714640\n20. Allegranzi B, Bagheri Nejad S, Combescure C, et al. Burden of endemic health-care-associated infection in\ndeveloping countries: systematic review and meta-analysis. Lancet. 2011;377(9761):228-241. doi:10.1016/S0140-\n6736(10)61458-4\n21. Allegranzi B, Bischoff P, de Jonge S, et al; WHO Guidelines Development Group. New WHO recommendations\non preoperative measures for surgical site infection prevention: an evidence-based global perspective. Lancet\nInfect Dis. 2016;16(12):e276-e287. doi:10.1016/S1473-3099(16)30398-X\n22. Allegranzi B, Zayed B, Bischoff P, et al; WHO Guidelines Development Group. New WHO recommendations on\nintraoperative and postoperative measures for surgical site infection prevention: an evidence-based global\nperspective. Lancet Infect Dis. 2016;16(12):e288-e303. doi:10.1016/S1473-3099(16)30402-9\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n12/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 5330,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.5,
+      390.5,
+      77.3
+     ],
+     "text": "3. Weiser TG, Haynes AB, Molina G, et al. Size and distribution of the global volume of surgery in 2012. Bull World\nHealth Organ. 2016;94(3):201-209. doi:10.2471/BLT.15.159293\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      84.4,
+      395.3,
+      102.2
+     ],
+     "text": "4. Galukande M, von Schreeb J, Wladis A, et al. Essential surgery at the district hospital: a retrospective descriptive\nanalysis in three African countries. PLoS Med. 2010;7(3):e1000243. doi:10.1371/journal.pmed.1000243\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      109.4,
+      383.3,
+      138.1
+     ],
+     "text": "5. Luboga S, Macfarlane SB, von Schreeb J, et al; Bellagio Essential Surgery Group (BESG). Increasing access to\nsurgical services in sub-Saharan Africa: priorities for national and international agencies recommended by the\nBellagio Essential Surgery Group. PLoS Med. 2009;6(12):e1000200. doi:10.1371/journal.pmed.1000200\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      145.3,
+      372.2,
+      174.1
+     ],
+     "text": "6. Kushner AL, Groen RS, Kingham TP. Percentage of cesarean sections among total surgical procedures in\nsub-Saharan Africa: possible indicator of the overall adequacy of surgical care. World J Surg. 2010;34(9):\n2007-2008. doi:10.1007/s00268-010-0653-7\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      181.2,
+      386.1,
+      210.0
+     ],
+     "text": "7. Hughes CD, McClain CD, Hagander L, et al. Ratio of cesarean deliveries to total operations and surgeon\nnationality are potential proxies for surgical capacity in central Haiti. World J Surg. 2013;37(7):1526-1529. doi:10.\n1007/s00268-012-1794-7\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      217.2,
+      392.7,
+      245.9
+     ],
+     "text": "8. Petroze RT, Mehtsun W, Nzayisenga A, Ntakiyiruta G, Sawyer RG, Calland JF. Ratio of cesarean sections to total\nprocedures as a marker of district hospital trauma capacity. World J Surg. 2012;36(9):2074-2079. doi:10.1007/\ns00268-012-1629-6\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      253.1,
+      378.2,
+      270.8
+     ],
+     "text": "9. Bentounsi Z, Sheik-Ali S, Drury G, Lavy C. Surgical care in district hospitals in sub-Saharan Africa: a scoping\nreview. BMJ Open. 2021;11(3):e042862. doi:10.1136/bmjopen-2020-042862\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      278.0,
+      395.3,
+      295.8
+     ],
+     "text": "10. Kawakita T, Landy HJ. Surgical site infections after cesarean delivery: epidemiology, prevention and treatment.\nMatern Health Neonatol Perinatol. 2017;3:12. doi:10.1186/s40748-017-0051-3\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      303.0,
+      395.0,
+      331.7
+     ],
+     "text": "11. Wloch C, Wilson J, Lamagni T, Harrington P, Charlett A, Sheridan E. Risk factors for surgical site infection\nfollowing caesarean section in England: results from a multicentre cohort study. BJOG. 2012;119(11):1324-1333. doi:\n10.1111/j.1471-0528.2012.03452.x\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      338.9,
+      391.9,
+      367.6
+     ],
+     "text": "12. GlobalSurg Collaborative. Surgical site infection after gastrointestinal surgery in high-income, middle-income,\nand low-income countries: a prospective, international, multicentre cohort study. Lancet Infect Dis. 2018;18(5):\n516-525. doi:10.1016/S1473-3099(18)30101-4\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      374.8,
+      393.6,
+      403.6
+     ],
+     "text": "13. Biccard BM, Madiba TE, Kluyts HL, et al; African Surgical Outcomes Study (ASOS) investigators. Perioperative\npatient outcomes in the African Surgical Outcomes Study: a 7-day prospective observational cohort study. Lancet.\n2018;391(10130):1589-1598. doi:10.1016/S0140-6736(18)30001-1\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      410.7,
+      395.0,
+      439.5
+     ],
+     "text": "14. Wodajo S, Belayneh M, Gebremedhin S. Magnitude and factors associated with post-cesarean surgical site\ninfection at Hawassa University Teaching and Referral Hospital, southern Ethiopia: a cross-sectional study. Ethiop J\nHealth Sci. 2017;27(3):283-290. doi:10.4314/ejhs.v27i3.10\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      446.7,
+      380.5,
+      475.4
+     ],
+     "text": "15. Amenu D, Belachew T, Araya F. Surgical site infection rate and risk factors among obstetric cases of Jimma\nUniversity Specialized Hospital, southwest Ethiopia. Ethiop J Health Sci. 2011;21(2):91-100. doi:10.4314/ejhs.\nv21i2.69049\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      482.6,
+      388.0,
+      511.3
+     ],
+     "text": "16. Alemye T, Oljira L, Fekadu G, Mengesha MM. Post cesarean section surgical site infection and associated\nfactors among women who delivered in public hospitals in Harar City, eastern Ethiopia: a hospital-based analytic\ncross-sectional study. PLoS One. 2021;16(6):e0253194. doi:10.1371/journal.pone.0253194\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      518.5,
+      395.3,
+      547.2
+     ],
+     "text": "17. Bizuayew H, Abebe H, Mullu G, Bewuket L, Tsega D, Alemye T. Post-cesarean section surgical site infection and\nassociated factors in East Gojjam zone primary hospitals, Amhara region, north west Ethiopia, 2020. PLoS One.\n2021;16(12):e0261951. doi:10.1371/journal.pone.0261951\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      554.4,
+      392.5,
+      572.2
+     ],
+     "text": "18. Fesseha N, Getachew A, Hiluf M, Gebrehiwot Y, Bailey P. A national review of cesarean delivery in Ethiopia. Int\nJ Gynaecol Obstet. 2011;115(1):106-111. doi:10.1016/j.ijgo.2011.07.011\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      579.4,
+      386.2,
+      608.1
+     ],
+     "text": "19. Lijaemiro H, Berhe Lemlem S, Tesfaye Deressa J. Incidence of surgical site infection and factors associated\namong cesarean deliveries in selected government hospitals in Addis Ababa, Ethiopia, 2019. Obstet Gynecol Int.\n2020;2020:9714640. doi:10.1155/2020/9714640\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      615.3,
+      390.1,
+      644.0
+     ],
+     "text": "20. Allegranzi B, Bagheri Nejad S, Combescure C, et al. Burden of endemic health-care-associated infection in\ndeveloping countries: systematic review and meta-analysis. Lancet. 2011;377(9761):228-241. doi:10.1016/S0140-\n6736(10)61458-4\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      651.2,
+      391.9,
+      679.9
+     ],
+     "text": "21. Allegranzi B, Bischoff P, de Jonge S, et al; WHO Guidelines Development Group. New WHO recommendations\non preoperative measures for surgical site infection prevention: an evidence-based global perspective. Lancet\nInfect Dis. 2016;16(12):e276-e287. doi:10.1016/S1473-3099(16)30398-X\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      687.1,
+      394.3,
+      715.9
+     ],
+     "text": "22. Allegranzi B, Zayed B, Bischoff P, et al; WHO Guidelines Development Group. New WHO recommendations on\nintraoperative and postoperative measures for surgical site infection prevention: an evidence-based global\nperspective. Lancet Infect Dis. 2016;16(12):e288-e303. doi:10.1016/S1473-3099(16)30402-9\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n12/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "text": "23. Liu Z, Dumville JC, Norman G, et al. Intraoperative interventions for preventing surgical site infection: an\noverview of Cochrane Reviews. Cochrane Database Syst Rev. 2018;2(2):CD012653. doi:10.1002/14651858.\nCD012653.pub2\n24. Berríos-Torres SI, Umscheid CA, Bratzler DW, et al; Healthcare Infection Control Practices Advisory\nCommittee. Centers for Disease Control and Prevention Guideline for the Prevention of Surgical Site Infection,\n2017. JAMA Surg. 2017;152(8):784-791. doi:10.1001/jamasurg.2017.0904\n25. Ban KA, Minei JP, Laronga C, et al. American College of Surgeons and Surgical Infection Society: surgical site\ninfection guidelines, 2016 update. J Am Coll Surg. 2017;224(1):59-74. doi:10.1016/j.jamcollsurg.2016.10.029\n26. Semrau KEA, Hirschhorn LR, Marx Delaney M, et al; BetterBirth Trial Group. Outcomes of a coaching-based\nWHO safe childbirth checklist program in India. N Engl J Med. 2017;377(24):2313-2324. doi:10.1056/\nNEJMoa1701075\n27. World Health Organization. Implementation Manual to Support the Prevention of Surgical Site Infections at the\nFacility Level: Turning Recommendations Into Practice: Interim Version. World Health Organization; 2018.\n28. Forrester JA, Starr N, Negussie T, et al. Clean Cut (adaptive, multimodal surgical infection prevention\nprogramme) for low-resource settings: a prospective quality improvement study. Br J Surg. 2021;108(6):727-734.\ndoi:10.1002/bjs.11997\n29. Haynes AB, Weiser TG, Berry WR, et al; Safe Surgery Saves Lives Study Group. A surgical safety checklist to\nreduce morbidity and mortality in a global population. N Engl J Med. 2009;360(5):491-499. doi:10.1056/\nNEJMsa0810119\n30. Feinmann J. Clean cut surgery. BMJ. 2016;353:i2686. doi:10.1136/bmj.i2686\n31. Forrester JA, Koritsanszky LA, Hailu MMH, et al. Developing operating system process maps for surgical\ninfection prevention: a tool to improve perioperative standards in low- and middle-income countries. J Am Coll\nSurg. 2017;225(4):S101. doi:10.1016/j.jamcollsurg.2017.07.221\n32. Garland NY, Kheng S, De Leon M, et al. Using the WHO Surgical Safety Checklist to direct perioperative quality\nimprovement at a surgical hospital in Cambodia: the importance of objective confirmation of process completion.\nWorld J Surg. 2017;41(12):3012-3024. doi:10.1007/s00268-017-4198-x\n33. Hemming K, Taljaard M. Key considerations for designing, conducting and analysing a cluster randomized trial.\nInt J Epidemiol. 2023;52(5):1648-1658. doi:10.1093/ije/dyad064\n34. Allegranzi B, Aiken AM, Zeynep Kubilay N, et al. A multimodal infection control and patient safety intervention\nto reduce surgical site infections in Africa: a multicentre, before-after, cohort study. Lancet Infect Dis. 2018;18(5):\n507-515. doi:10.1016/S1473-3099(18)30107-5\n35. Hemming K, Taljaard M, McKenzie JE, et al. Reporting of stepped wedge cluster randomised trials: extension\nof the CONSORT 2010 statement with explanation and elaboration. BMJ. 2018;363:k1614. doi:10.1136/bmj.k1614\n36. Mammo TN, Feyssa MD, Haile ST, et al. Evaluation of an adaptive, multimodal intervention to reduce\npostoperative infections following cesarean delivery in Ethiopia: study protocol of the CLEAN-CS cluster-\nrandomized stepped wedge interventional trial. Trials. 2022;23(1):692. doi:10.1186/s13063-022-06500-9\n37. Burssa D, Teshome A, Iverson K, et al. Safe surgery for all: early lessons from implementing a national\ngovernment-driven surgical plan in Ethiopia. World J Surg. 2017;41(12):3038-3045. doi:10.1007/s00268-017-\n4271-5\n38. Magge H, Kiflie A, Nimako K, et al. The Ethiopia healthcare quality initiative: design and initial lessons learned.\nInt J Qual Health Care. 2019;31(10):G180-G186. doi:10.1093/intqhc/mzz127\n39. Ministry of Health–Ethiopia. Woreda transformation (MSWT). Accessed August 31, 2023. https://www.moh.gov.\net/en/Multisectoral_Woreda_Transformation\n40. Forrester JA, Koritsanszky LA, Amenu D, et al. Developing process maps as a tool for a surgical infection\nprevention quality improvement initiative in resource-constrained settings. J Am Coll Surg. 2018;226(6):1103-\n1116.e3. doi:10.1016/j.jamcollsurg.2018.03.020\n41. Forrester JA, Koritsanszky L, Parsons BD, et al. Development of a surgical infection surveillance program at a\ntertiary hospital in Ethiopia: lessons learned from two surveillance strategies. Surg Infect (Larchmt). 2018;19\n(1):25-32. doi:10.1089/sur.2017.136\n42. NIHR Global Health Research Unit on Global Surgery; GlobalSurg Collaborative. Use of telemedicine for post-\ndischarge assessment of the surgical wound: international cohort study, and systematic review with meta-analysis.\nAnn Surg. 2023;277(6):e1331-e1347. doi:10.1097/SLA.0000000000005506\n43. Hemming K, Taljaard M. Sample size calculations for stepped wedge and cluster randomised trials: a unified\napproach. J Clin Epidemiol. 2016;69:137-146. doi:10.1016/j.jclinepi.2015.08.015\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n13/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 5155,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.5,
+      377.2,
+      88.2
+     ],
+     "text": "23. Liu Z, Dumville JC, Norman G, et al. Intraoperative interventions for preventing surgical site infection: an\noverview of Cochrane Reviews. Cochrane Database Syst Rev. 2018;2(2):CD012653. doi:10.1002/14651858.\nCD012653.pub2\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      95.4,
+      382.2,
+      124.2
+     ],
+     "text": "24. Berríos-Torres SI, Umscheid CA, Bratzler DW, et al; Healthcare Infection Control Practices Advisory\nCommittee. Centers for Disease Control and Prevention Guideline for the Prevention of Surgical Site Infection,\n2017. JAMA Surg. 2017;152(8):784-791. doi:10.1001/jamasurg.2017.0904\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      131.3,
+      387.9,
+      149.1
+     ],
+     "text": "25. Ban KA, Minei JP, Laronga C, et al. American College of Surgeons and Surgical Infection Society: surgical site\ninfection guidelines, 2016 update. J Am Coll Surg. 2017;224(1):59-74. doi:10.1016/j.jamcollsurg.2016.10.029\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      156.3,
+      385.6,
+      185.0
+     ],
+     "text": "26. Semrau KEA, Hirschhorn LR, Marx Delaney M, et al; BetterBirth Trial Group. Outcomes of a coaching-based\nWHO safe childbirth checklist program in India. N Engl J Med. 2017;377(24):2313-2324. doi:10.1056/\nNEJMoa1701075\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      192.2,
+      392.8,
+      210.0
+     ],
+     "text": "27. World Health Organization. Implementation Manual to Support the Prevention of Surgical Site Infections at the\nFacility Level: Turning Recommendations Into Practice: Interim Version. World Health Organization; 2018.\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      217.2,
+      391.7,
+      245.9
+     ],
+     "text": "28. Forrester JA, Starr N, Negussie T, et al. Clean Cut (adaptive, multimodal surgical infection prevention\nprogramme) for low-resource settings: a prospective quality improvement study. Br J Surg. 2021;108(6):727-734.\ndoi:10.1002/bjs.11997\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      253.1,
+      384.8,
+      281.8
+     ],
+     "text": "29. Haynes AB, Weiser TG, Berry WR, et al; Safe Surgery Saves Lives Study Group. A surgical safety checklist to\nreduce morbidity and mortality in a global population. N Engl J Med. 2009;360(5):491-499. doi:10.1056/\nNEJMsa0810119\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      289.0,
+      292.9,
+      295.8
+     ],
+     "text": "30. Feinmann J. Clean cut surgery. BMJ. 2016;353:i2686. doi:10.1136/bmj.i2686\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      303.0,
+      383.4,
+      331.7
+     ],
+     "text": "31. Forrester JA, Koritsanszky LA, Hailu MMH, et al. Developing operating system process maps for surgical\ninfection prevention: a tool to improve perioperative standards in low- and middle-income countries. J Am Coll\nSurg. 2017;225(4):S101. doi:10.1016/j.jamcollsurg.2017.07.221\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      338.9,
+      393.3,
+      367.6
+     ],
+     "text": "32. Garland NY, Kheng S, De Leon M, et al. Using the WHO Surgical Safety Checklist to direct perioperative quality\nimprovement at a surgical hospital in Cambodia: the importance of objective confirmation of process completion.\nWorld J Surg. 2017;41(12):3012-3024. doi:10.1007/s00268-017-4198-x\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      374.8,
+      395.3,
+      392.6
+     ],
+     "text": "33. Hemming K, Taljaard M. Key considerations for designing, conducting and analysing a cluster randomized trial.\nInt J Epidemiol. 2023;52(5):1648-1658. doi:10.1093/ije/dyad064\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      399.8,
+      395.3,
+      428.5
+     ],
+     "text": "34. Allegranzi B, Aiken AM, Zeynep Kubilay N, et al. A multimodal infection control and patient safety intervention\nto reduce surgical site infections in Africa: a multicentre, before-after, cohort study. Lancet Infect Dis. 2018;18(5):\n507-515. doi:10.1016/S1473-3099(18)30107-5\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      435.7,
+      390.2,
+      453.4
+     ],
+     "text": "35. Hemming K, Taljaard M, McKenzie JE, et al. Reporting of stepped wedge cluster randomised trials: extension\nof the CONSORT 2010 statement with explanation and elaboration. BMJ. 2018;363:k1614. doi:10.1136/bmj.k1614\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      460.6,
+      370.3,
+      489.4
+     ],
+     "text": "36. Mammo TN, Feyssa MD, Haile ST, et al. Evaluation of an adaptive, multimodal intervention to reduce\npostoperative infections following cesarean delivery in Ethiopia: study protocol of the CLEAN-CS cluster-\nrandomized stepped wedge interventional trial. Trials. 2022;23(1):692. doi:10.1186/s13063-022-06500-9\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      496.5,
+      378.7,
+      525.3
+     ],
+     "text": "37. Burssa D, Teshome A, Iverson K, et al. Safe surgery for all: early lessons from implementing a national\ngovernment-driven surgical plan in Ethiopia. World J Surg. 2017;41(12):3038-3045. doi:10.1007/s00268-017-\n4271-5\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      532.5,
+      393.8,
+      550.2
+     ],
+     "text": "38. Magge H, Kiflie A, Nimako K, et al. The Ethiopia healthcare quality initiative: design and initial lessons learned.\nInt J Qual Health Care. 2019;31(10):G180-G186. doi:10.1093/intqhc/mzz127\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      557.4,
+      400.8,
+      575.2
+     ],
+     "text": "39. Ministry of Health–Ethiopia. Woreda transformation (MSWT). Accessed August 31, 2023. https://www.moh.gov.\net/en/Multisectoral_Woreda_Transformation\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      582.3,
+      380.7,
+      611.1
+     ],
+     "text": "40. Forrester JA, Koritsanszky LA, Amenu D, et al. Developing process maps as a tool for a surgical infection\nprevention quality improvement initiative in resource-constrained settings. J Am Coll Surg. 2018;226(6):1103-\n1116.e3. doi:10.1016/j.jamcollsurg.2018.03.020\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      618.3,
+      388.7,
+      647.0
+     ],
+     "text": "41. Forrester JA, Koritsanszky L, Parsons BD, et al. Development of a surgical infection surveillance program at a\ntertiary hospital in Ethiopia: lessons learned from two surveillance strategies. Surg Infect (Larchmt). 2018;19\n(1):25-32. doi:10.1089/sur.2017.136\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      654.2,
+      395.3,
+      682.9
+     ],
+     "text": "42. NIHR Global Health Research Unit on Global Surgery; GlobalSurg Collaborative. Use of telemedicine for post-\ndischarge assessment of the surgical wound: international cohort study, and systematic review with meta-analysis.\nAnn Surg. 2023;277(6):e1331-e1347. doi:10.1097/SLA.0000000000005506\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      690.1,
+      387.9,
+      707.9
+     ],
+     "text": "43. Hemming K, Taljaard M. Sample size calculations for stepped wedge and cluster randomised trials: a unified\napproach. J Clin Epidemiol. 2016;69:137-146. doi:10.1016/j.jclinepi.2015.08.015\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n13/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "text": "44. Semrau KE, Miller KA, Lipsitz S, et al. Does adherence to evidence-based practices during childbirth prevent\nperinatal mortality? a post-hoc analysis of 3274 births in Uttar Pradesh, India. BMJ Glob Health. 2020;5(9):\ne002268. doi:10.1136/bmjgh-2019-002268\n45. Weiser TG. Health policy: all-or-none compliance is the best determinant of quality of care. Nat Rev Urol.\n2010;7(10):541-542. doi:10.1038/nrurol.2010.155\n46. Nofal MR, Starr N, Negussie Mammo T, et al. Addressing knowledge gaps in Surgical Safety Checklist use:\nstatistical process control analysis of a surgical quality improvement programme in Ethiopia. Br J Surg. 2023;110\n(11):1511-1517. doi:10.1093/bjs/znad234\n47. Mattingly AS, Starr N, Bitew S, et al. Qualitative outcomes of Clean Cut: implementation lessons from reducing\nsurgical infections in Ethiopia. BMC Health Serv Res. 2019;19(1):579. doi:10.1186/s12913-019-4383-8\n48. Starr N, Nofal MR, Gebeyehu N, et al. Sustainability of a surgical quality improvement program at hospitals in\nEthiopia. JAMA Surg. 2022;157(1):68-70. doi:10.1001/jamasurg.2021.5569\n49. Weiser TG, Haynes AB. Ten years of the Surgical Safety Checklist. Br J Surg. 2018;105(8):927-929. doi:10.\n1002/bjs.10907\n50. Haynes AB, Edmondson L, Lipsitz SR, et al. Mortality trends after a voluntary checklist-based surgical safety\ncollaborative. Ann Surg. 2017;266(6):923-929. doi:10.1097/SLA.0000000000002249\n51. Delisle M, Pradarelli JC, Panda N, et al; Surgical Outcomes Study Groups and GlobalSurg Collaborative.\nVariation in global uptake of the Surgical Safety Checklist. Br J Surg. 2020;107(2):e151-e160. doi:10.1002/bjs.11321\n52. Kateera F, Riviello R, Goodman A, et al. The effect and feasibility of mHealth-supported surgical site infection\ndiagnosis by community health workers after cesarean section in rural Rwanda: randomized controlled trial. JMIR\nMhealth Uhealth. 2022;10(6):e35155. doi:10.2196/35155\n53. Zimmerman LA, Shiferaw S, Seme A, et al. Evaluating consistency of recall of maternal and newborn care\ncomplications and intervention coverage using PMA panel data in SNNPR, Ethiopia. PLoS One. 2019;14(5):\ne0216612. doi:10.1371/journal.pone.0216612\n54. Starr N, Gebeyehu N, Tesfaye A, et al. Value and feasibility of telephone follow-up in Ethiopian surgical\npatients. Surg Infect (Larchmt). 2020;21(6):533-539. doi:10.1089/sur.2020.054\nSUPPLEMENT 1.\nTrial Protocol\nSUPPLEMENT 2.\neAppendix 1. Intervention Timing and Recruitment\neFigure 1. Stepped Wedge Diagram by Achievement and Recruitment for Patients Undergoing CD Only\neFigure 2. Study Activities by Phase\neAppendix 2. Study Aims and End Points\neTable 1. Aims and End Points of the Trial\neTable 2. Plan for Addressing Aims in This or Future Analyses\neAppendix 3. Study Populations\neAppendix 4. Data Collection and Data Elements\neTable 3. Portion of Intraoperative Data Collected by Number of Standards Where Data Were Completed, Out of 6\nStandards\neTable 4. Elements Required for Full Compliance With Each Standard\neAppendix 5. Audit of 30-Day Follow-Up Data\neTable 5. Length of Stay, In-Hospital SSI Rate, Follow-Up Telephone Call SSI Rate, and Total 30-Day SSI Rate as\nCollected by Data Collectors\neFigure 3. Mean SSI Rates in Baseline and Control Groups With Mean Monthly Trends in SSI Rate, as Collected by\nData Collectors vs Auditors\neFigure 4. Final Stepped Wedge Diagram by Auditor 30-Day Follow-Up\neTable 6. Final 30-Day Follow-Up Rates by Control and Intervention Condition, Data Collectors vs Auditors\neAppendix 6. General Statistical Considerations\neTable 7. Odds Ratios for Clinical Outcomes With and Without Cluster-by-Month Interaction Term\neAppendix 7. Statistical Analyses and Subanalyses\neFigure 5. Comparison of High Compliance Over Time Before and After the Intervention for Patients Undergoing\nCD During the CLEAN-CS Trial\neFigure 6. Trends in High Infection-Prevention Compliance by Intervention Using 2-Month Period Increments\nBased on Timing of Intervention During the CLEAN-CS Trial\neTable 8. Change in Compliance Over the Course of the CLEAN-CS Trial\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n14/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 4337,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.5,
+      389.4,
+      88.2
+     ],
+     "text": "44. Semrau KE, Miller KA, Lipsitz S, et al. Does adherence to evidence-based practices during childbirth prevent\nperinatal mortality? a post-hoc analysis of 3274 births in Uttar Pradesh, India. BMJ Glob Health. 2020;5(9):\ne002268. doi:10.1136/bmjgh-2019-002268\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      95.4,
+      377.2,
+      113.2
+     ],
+     "text": "45. Weiser TG. Health policy: all-or-none compliance is the best determinant of quality of care. Nat Rev Urol.\n2010;7(10):541-542. doi:10.1038/nrurol.2010.155\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      120.4,
+      386.3,
+      149.1
+     ],
+     "text": "46. Nofal MR, Starr N, Negussie Mammo T, et al. Addressing knowledge gaps in Surgical Safety Checklist use:\nstatistical process control analysis of a surgical quality improvement programme in Ethiopia. Br J Surg. 2023;110\n(11):1511-1517. doi:10.1093/bjs/znad234\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      156.3,
+      395.3,
+      174.1
+     ],
+     "text": "47. Mattingly AS, Starr N, Bitew S, et al. Qualitative outcomes of Clean Cut: implementation lessons from reducing\nsurgical infections in Ethiopia. BMC Health Serv Res. 2019;19(1):579. doi:10.1186/s12913-019-4383-8\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      181.2,
+      391.0,
+      199.0
+     ],
+     "text": "48. Starr N, Nofal MR, Gebeyehu N, et al. Sustainability of a surgical quality improvement program at hospitals in\nEthiopia. JAMA Surg. 2022;157(1):68-70. doi:10.1001/jamasurg.2021.5569\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      206.2,
+      379.5,
+      223.9
+     ],
+     "text": "49. Weiser TG, Haynes AB. Ten years of the Surgical Safety Checklist. Br J Surg. 2018;105(8):927-929. doi:10.\n1002/bjs.10907\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      231.1,
+      388.6,
+      248.9
+     ],
+     "text": "50. Haynes AB, Edmondson L, Lipsitz SR, et al. Mortality trends after a voluntary checklist-based surgical safety\ncollaborative. Ann Surg. 2017;266(6):923-929. doi:10.1097/SLA.0000000000002249\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      256.1,
+      391.0,
+      273.8
+     ],
+     "text": "51. Delisle M, Pradarelli JC, Panda N, et al; Surgical Outcomes Study Groups and GlobalSurg Collaborative.\nVariation in global uptake of the Surgical Safety Checklist. Br J Surg. 2020;107(2):e151-e160. doi:10.1002/bjs.11321\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      281.0,
+      393.2,
+      309.8
+     ],
+     "text": "52. Kateera F, Riviello R, Goodman A, et al. The effect and feasibility of mHealth-supported surgical site infection\ndiagnosis by community health workers after cesarean section in rural Rwanda: randomized controlled trial. JMIR\nMhealth Uhealth. 2022;10(6):e35155. doi:10.2196/35155\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      316.9,
+      378.1,
+      345.7
+     ],
+     "text": "53. Zimmerman LA, Shiferaw S, Seme A, et al. Evaluating consistency of recall of maternal and newborn care\ncomplications and intervention coverage using PMA panel data in SNNPR, Ethiopia. PLoS One. 2019;14(5):\ne0216612. doi:10.1371/journal.pone.0216612\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      352.9,
+      370.8,
+      370.6
+     ],
+     "text": "54. Starr N, Gebeyehu N, Tesfaye A, et al. Value and feasibility of telephone follow-up in Ethiopian surgical\npatients. Surg Infect (Larchmt). 2020;21(6):533-539. doi:10.1089/sur.2020.054\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      386.8,
+      99.8,
+      404.6
+     ],
+     "text": "SUPPLEMENT 1.\nTrial Protocol\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      420.7,
+      395.1,
+      712.9
+     ],
+     "text": "SUPPLEMENT 2.\neAppendix 1. Intervention Timing and Recruitment\neFigure 1. Stepped Wedge Diagram by Achievement and Recruitment for Patients Undergoing CD Only\neFigure 2. Study Activities by Phase\neAppendix 2. Study Aims and End Points\neTable 1. Aims and End Points of the Trial\neTable 2. Plan for Addressing Aims in This or Future Analyses\neAppendix 3. Study Populations\neAppendix 4. Data Collection and Data Elements\neTable 3. Portion of Intraoperative Data Collected by Number of Standards Where Data Were Completed, Out of 6\nStandards\neTable 4. Elements Required for Full Compliance With Each Standard\neAppendix 5. Audit of 30-Day Follow-Up Data\neTable 5. Length of Stay, In-Hospital SSI Rate, Follow-Up Telephone Call SSI Rate, and Total 30-Day SSI Rate as\nCollected by Data Collectors\neFigure 3. Mean SSI Rates in Baseline and Control Groups With Mean Monthly Trends in SSI Rate, as Collected by\nData Collectors vs Auditors\neFigure 4. Final Stepped Wedge Diagram by Auditor 30-Day Follow-Up\neTable 6. Final 30-Day Follow-Up Rates by Control and Intervention Condition, Data Collectors vs Auditors\neAppendix 6. General Statistical Considerations\neTable 7. Odds Ratios for Clinical Outcomes With and Without Cluster-by-Month Interaction Term\neAppendix 7. Statistical Analyses and Subanalyses\neFigure 5. Comparison of High Compliance Over Time Before and After the Intervention for Patients Undergoing\nCD During the CLEAN-CS Trial\neFigure 6. Trends in High Infection-Prevention Compliance by Intervention Using 2-Month Period Increments\nBased on Timing of Intervention During the CLEAN-CS Trial\neTable 8. Change in Compliance Over the Course of the CLEAN-CS Trial\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n14/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "text": "eTable 9. Peripartum vs Perinatal Deaths, by Trial Arm\neAppendix 8. Sensitivity Analyses\neTable 10. SSI Using Data Collector Data for 1 Hospital (with other hospital data from auditors), by Intervention\nArm\neTable 11. Maternal Mortality Using Data Collector Data for 1 Hospital (with other hospital data from auditors), by\nIntervention Arm\neTable 12. Perinatal Mortality Using Data Collector Data for 1 Hospital (with other hospital data from auditors), by\nIntervention Arm\neTable 13. Composite of Complications Using Data Collector Data for 1 Hospital (with other hospital data from\nauditors), by Intervention Arm\neTable 14. Odds Ratio of SSI With Serial Exclusion of a Hospital Site\neTable 15. Odds Ratio of Composite Outcome of SSI, Maternal Mortality, and Perinatal Mortality With Serial\nExclusion of a Hospital Site\neTable 16. Demographic Comparisons of Patients With and Without Audit Follow-Up\neTable 17. Comparison of Follow-Up Rates for Audit vs Enrolled Patients, by Intervention arm\neFigure 7. Comparison of Demographic and Procedural Characteristics by Intervention Arm and Follow-Up\neTable 18. SSI Outcomes Using Multiple Imputation, by Intervention Arm\neTable 19. Maternal Mortality Outcomes Using Multiple Imputation, by Intervention Arm\neTable 20. Perinatal Mortality Outcomes Using Multiple Imputation, by Intervention Arm\neTable 21. Composite Outcome Using Multiple Imputation, by Intervention Arm\neTable 22. Days to Follow-Up Call Following Initial Operation, by Study Arm\neFigure 8. Histogram of Days Between Operation and Follow-Up Call by Auditors\neTable 23. SSI Rate by Time Delay in Months of Recall in the Control Group\neTable 24. Perinatal Mortality Rate by Time Delay in Months of Recall Based on Auditor Phone Call Follow-Up\neFigure 9. Trends in Outcomes in the Control Period by Delay in Months From CD to Follow-Up Call\neTable 25. Model Using General Estimating Equations With and Without Cluster as a Fixed Effect\nSUPPLEMENT 3.\nChecklist Expansion for Antisepsis and Infection Control in Cesarean Section (CLEAN-CS) Trial Group\nSUPPLEMENT 4.\nData Sharing Statement\nJAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\nJAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n15/15\nDownloaded from jamanetwork.​com by guest on 09/​08/​2026\n",
+   "n_chars": 2389,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      47.9,
+      59.5,
+      391.2,
+      340.7
+     ],
+     "text": "eTable 9. Peripartum vs Perinatal Deaths, by Trial Arm\neAppendix 8. Sensitivity Analyses\neTable 10. SSI Using Data Collector Data for 1 Hospital (with other hospital data from auditors), by Intervention\nArm\neTable 11. Maternal Mortality Using Data Collector Data for 1 Hospital (with other hospital data from auditors), by\nIntervention Arm\neTable 12. Perinatal Mortality Using Data Collector Data for 1 Hospital (with other hospital data from auditors), by\nIntervention Arm\neTable 13. Composite of Complications Using Data Collector Data for 1 Hospital (with other hospital data from\nauditors), by Intervention Arm\neTable 14. Odds Ratio of SSI With Serial Exclusion of a Hospital Site\neTable 15. Odds Ratio of Composite Outcome of SSI, Maternal Mortality, and Perinatal Mortality With Serial\nExclusion of a Hospital Site\neTable 16. Demographic Comparisons of Patients With and Without Audit Follow-Up\neTable 17. Comparison of Follow-Up Rates for Audit vs Enrolled Patients, by Intervention arm\neFigure 7. Comparison of Demographic and Procedural Characteristics by Intervention Arm and Follow-Up\neTable 18. SSI Outcomes Using Multiple Imputation, by Intervention Arm\neTable 19. Maternal Mortality Outcomes Using Multiple Imputation, by Intervention Arm\neTable 20. Perinatal Mortality Outcomes Using Multiple Imputation, by Intervention Arm\neTable 21. Composite Outcome Using Multiple Imputation, by Intervention Arm\neTable 22. Days to Follow-Up Call Following Initial Operation, by Study Arm\neFigure 8. Histogram of Days Between Operation and Follow-Up Call by Auditors\neTable 23. SSI Rate by Time Delay in Months of Recall in the Control Group\neTable 24. Perinatal Mortality Rate by Time Delay in Months of Recall Based on Auditor Phone Call Follow-Up\neFigure 9. Trends in Outcomes in the Control Period by Delay in Months From CD to Follow-Up Call\neTable 25. Model Using General Estimating Equations With and Without Cluster as a Fixed Effect\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      356.8,
+      369.2,
+      374.6
+     ],
+     "text": "SUPPLEMENT 3.\nChecklist Expansion for Antisepsis and Infection Control in Cesarean Section (CLEAN-CS) Trial Group\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      390.8,
+      124.7,
+      408.6
+     ],
+     "text": "SUPPLEMENT 4.\nData Sharing Statement\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      35.6,
+      562.9,
+      43.3
+     ],
+     "text": "JAMA Network Open | Obstetrics and Gynecology\nA Perioperative Quality Improvement Program for Cesarean Delivery in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      57.9,
+      737.1,
+      562.9,
+      743.5
+     ],
+     "text": "JAMA Network Open. 2024;7(8):e2428910. doi:10.1001/jamanetworkopen.2024.28910\n(Reprinted)\nAugust 20, 2024\n15/15\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      216.3,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by guest on 09/​08/​2026\n"
+    }
+   ]
+  }
+ ]
+}

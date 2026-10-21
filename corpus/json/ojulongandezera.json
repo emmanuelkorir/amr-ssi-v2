@@ -1,0 +1,3311 @@
+{
+ "doc_id": "ojulongandezera",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/OjulongandEzera.pdf",
+ "sha256": "049e221dfd371a2313294885b6fecdfaeab04f94ba7e5ce627f774adcdfdd098",
+ "document_type": "pdf",
+ "n_pages": 16,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "Microsoft Word - The Internet Journal of Infectious Diseases 2009 Ojulong",
+  "author": "Ezera",
+  "subject": "",
+  "keywords": "",
+  "creator": "PScript5.dll Version 5.2.2",
+  "producer": "Acrobat Distiller 6.0 (Windows)",
+  "creationDate": "D:20090805113315+04'00'",
+  "modDate": "D:20090805113445+04'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:56+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/288287915\nPrevalence of methicillin resistant staphylococcus aureus (MRSA) among\nisolates from surgical site infections in Mulago hospital-Kampala, Uganda\nArticle  in  The Internet Journal of Infectious Diseases · January 2010\nCITATIONS\n25\nREADS\n1,047\n7 authors, including:\nTom Mwambu\nMulago Hospital\n25 PUBLICATIONS   270 CITATIONS   \nSEE PROFILE\nEzera Agwu\nUniversity of Rwanda\n121 PUBLICATIONS   1,110 CITATIONS   \nSEE PROFILE\nFreddie Bwanga\nMakerere University\n55 PUBLICATIONS   2,449 CITATIONS   \nSEE PROFILE\nChristine Najjuka\nMakerere University\n57 PUBLICATIONS   2,033 CITATIONS   \nSEE PROFILE\nAll content following this page was uploaded by Ezera Agwu on 23 May 2019.\nThe user has requested enhancement of the downloaded file.\n",
+   "n_chars": 844,
+   "n_images": 4,
+   "blocks": [
+    {
+     "bbox": [
+      39.9,
+      72.1,
+      336.1,
+      80.0
+     ],
+     "text": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/288287915\n"
+    },
+    {
+     "bbox": [
+      39.9,
+      91.0,
+      529.9,
+      131.1
+     ],
+     "text": "Prevalence of methicillin resistant staphylococcus aureus (MRSA) among\nisolates from surgical site infections in Mulago hospital-Kampala, Uganda\n"
+    },
+    {
+     "bbox": [
+      39.9,
+      145.1,
+      228.3,
+      154.1
+     ],
+     "text": "Article  in  The Internet Journal of Infectious Diseases · January 2010\n"
+    },
+    {
+     "bbox": [
+      39.9,
+      165.7,
+      63.7,
+      184.5
+     ],
+     "text": "CITATIONS\n25\n"
+    },
+    {
+     "bbox": [
+      305.7,
+      165.7,
+      323.5,
+      184.5
+     ],
+     "text": "READS\n1,047\n"
+    },
+    {
+     "bbox": [
+      39.9,
+      193.6,
+      97.4,
+      202.6
+     ],
+     "text": "7 authors, including:\n"
+    },
+    {
+     "bbox": [
+      66.4,
+      211.6,
+      105.8,
+      220.5
+     ],
+     "text": "Tom Mwambu\n"
+    },
+    {
+     "bbox": [
+      66.4,
+      222.3,
+      111.4,
+      231.1
+     ],
+     "text": "Mulago Hospital\n"
+    },
+    {
+     "bbox": [
+      66.4,
+      234.2,
+      149.6,
+      243.1
+     ],
+     "text": "25 PUBLICATIONS   270 CITATIONS   \n"
+    },
+    {
+     "bbox": [
+      73.8,
+      251.4,
+      102.4,
+      258.5
+     ],
+     "text": "SEE PROFILE\n"
+    },
+    {
+     "bbox": [
+      332.9,
+      211.6,
+      364.7,
+      220.5
+     ],
+     "text": "Ezera Agwu\n"
+    },
+    {
+     "bbox": [
+      332.9,
+      222.3,
+      391.7,
+      231.1
+     ],
+     "text": "University of Rwanda\n"
+    },
+    {
+     "bbox": [
+      332.9,
+      234.2,
+      423.9,
+      243.1
+     ],
+     "text": "121 PUBLICATIONS   1,110 CITATIONS   \n"
+    },
+    {
+     "bbox": [
+      340.2,
+      251.4,
+      368.8,
+      258.5
+     ],
+     "text": "SEE PROFILE\n"
+    },
+    {
+     "bbox": [
+      66.4,
+      274.8,
+      111.0,
+      283.6
+     ],
+     "text": "Freddie Bwanga\n"
+    },
+    {
+     "bbox": [
+      66.4,
+      285.4,
+      121.5,
+      294.3
+     ],
+     "text": "Makerere University\n"
+    },
+    {
+     "bbox": [
+      66.4,
+      297.3,
+      154.3,
+      306.2
+     ],
+     "text": "55 PUBLICATIONS   2,449 CITATIONS   \n"
+    },
+    {
+     "bbox": [
+      73.8,
+      314.6,
+      102.4,
+      321.7
+     ],
+     "text": "SEE PROFILE\n"
+    },
+    {
+     "bbox": [
+      332.9,
+      274.8,
+      380.4,
+      283.6
+     ],
+     "text": "Christine Najjuka\n"
+    },
+    {
+     "bbox": [
+      332.9,
+      285.4,
+      387.9,
+      294.3
+     ],
+     "text": "Makerere University\n"
+    },
+    {
+     "bbox": [
+      332.9,
+      297.3,
+      420.8,
+      306.2
+     ],
+     "text": "57 PUBLICATIONS   2,033 CITATIONS   \n"
+    },
+    {
+     "bbox": [
+      340.2,
+      314.6,
+      368.8,
+      321.7
+     ],
+     "text": "SEE PROFILE\n"
+    },
+    {
+     "bbox": [
+      43.2,
+      758.4,
+      190.3,
+      764.6
+     ],
+     "text": "All content following this page was uploaded by Ezera Agwu on 23 May 2019.\n"
+    },
+    {
+     "bbox": [
+      43.2,
+      771.1,
+      178.6,
+      778.2
+     ],
+     "text": "The user has requested enhancement of the downloaded file.\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": " \n \nThe Internet Journal of Infectious Diseases 2009 : Volume 7 Number 2 \nPrevalence of Methicillin resistant \nStaphylococcus aureus (MRSA) \namong isolates from surgical site \ninfections in Mulago hospital- \nKampala, Uganda. \nJulius Ojulong  \n1. Department of microbiology \nMakerere University  \nKampala Uganda  \nTom Philip Mwambu  \nDepartment of Medical Microbiology and Parasitology \nKampala International University-Western Campus  \nIshaka, Bushenyi Uganda  \nMoses Jolobo  \n1. Department of microbiology \nMakerere University  \nKampala Uganda  \n",
+   "n_chars": 540,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      74.9,
+      85.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      509.8,
+      185.3,
+      512.7,
+      198.9
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      210.4,
+      450.9,
+      224.0
+     ],
+     "text": "The Internet Journal of Infectious Diseases 2009 : Volume 7 Number 2 \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      237.9,
+      501.8,
+      374.3
+     ],
+     "text": "Prevalence of Methicillin resistant \nStaphylococcus aureus (MRSA) \namong isolates from surgical site \ninfections in Mulago hospital- \nKampala, Uganda. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      388.4,
+      168.0,
+      402.0
+     ],
+     "text": "Julius Ojulong  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      412.2,
+      236.2,
+      425.9
+     ],
+     "text": "1. Department of microbiology \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      436.1,
+      186.6,
+      449.7
+     ],
+     "text": "Makerere University  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      460.0,
+      169.2,
+      473.6
+     ],
+     "text": "Kampala Uganda  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      497.8,
+      207.0,
+      511.4
+     ],
+     "text": "Tom Philip Mwambu  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      521.7,
+      362.0,
+      535.3
+     ],
+     "text": "Department of Medical Microbiology and Parasitology \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      545.6,
+      351.7,
+      559.2
+     ],
+     "text": "Kampala International University-Western Campus  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      569.4,
+      212.6,
+      583.1
+     ],
+     "text": "Ishaka, Bushenyi Uganda  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      607.2,
+      162.0,
+      620.9
+     ],
+     "text": "Moses Jolobo  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      631.1,
+      236.2,
+      644.7
+     ],
+     "text": "1. Department of microbiology \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      655.0,
+      186.6,
+      668.6
+     ],
+     "text": "Makerere University  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      678.9,
+      169.2,
+      692.5
+     ],
+     "text": "Kampala Uganda  \n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "Ezra Agwu  \nDepartment of Medical Microbiology and Parasitology \nKampala International University-Western Campus  \nIshaka, Bushenyi Uganda  \nFreddie Bwanga  \n1. Department of microbiology \nMakerere University  \nKampala Uganda  \nChristine Najjuka  \n1. Department of microbiology \nMakerere University  \nKampala Uganda  \nD.H. Kaddu-Mulindwa  \n1. Department of microbiology \nMakerere University  \nKampala Uganda  \nCitation: J. Ojulong, T. Mwambu, M. Jolobo, E. Agwu, F. Bwanga, C. Najjuka & D. Kaddu-Mulindwa : \nPrevalence of Methicillin resistant Staphylococcus aureus (MRSA) among isolates from surgical site \ninfections in Mulago hospital- Kampala, Uganda.. The Internet Journal of Infectious Diseases. 2009 \nVolume 7 Number 2 \n \n \n \n",
+   "n_chars": 725,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      143.8,
+      85.7
+     ],
+     "text": "Ezra Agwu  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      95.9,
+      362.0,
+      109.5
+     ],
+     "text": "Department of Medical Microbiology and Parasitology \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      119.7,
+      351.7,
+      133.4
+     ],
+     "text": "Kampala International University-Western Campus  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      143.7,
+      212.6,
+      157.3
+     ],
+     "text": "Ishaka, Bushenyi Uganda  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      181.5,
+      178.1,
+      195.1
+     ],
+     "text": "Freddie Bwanga  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      205.4,
+      236.2,
+      219.0
+     ],
+     "text": "1. Department of microbiology \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      229.2,
+      186.6,
+      242.8
+     ],
+     "text": "Makerere University  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      253.1,
+      169.2,
+      266.7
+     ],
+     "text": "Kampala Uganda  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      290.9,
+      186.9,
+      304.5
+     ],
+     "text": "Christine Najjuka  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      314.8,
+      236.2,
+      328.4
+     ],
+     "text": "1. Department of microbiology \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      338.6,
+      186.6,
+      352.2
+     ],
+     "text": "Makerere University  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      362.6,
+      169.2,
+      376.2
+     ],
+     "text": "Kampala Uganda  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      400.4,
+      217.9,
+      414.0
+     ],
+     "text": "D.H. Kaddu-Mulindwa  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      424.2,
+      236.2,
+      437.9
+     ],
+     "text": "1. Department of microbiology \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      448.1,
+      186.6,
+      461.7
+     ],
+     "text": "Makerere University  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      472.0,
+      169.2,
+      485.6
+     ],
+     "text": "Kampala Uganda  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      509.7,
+      527.2,
+      521.1
+     ],
+     "text": "Citation: J. Ojulong, T. Mwambu, M. Jolobo, E. Agwu, F. Bwanga, C. Najjuka & D. Kaddu-Mulindwa : \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      529.6,
+      513.1,
+      541.0
+     ],
+     "text": "Prevalence of Methicillin resistant Staphylococcus aureus (MRSA) among isolates from surgical site \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      549.5,
+      516.5,
+      560.9
+     ],
+     "text": "infections in Mulago hospital- Kampala, Uganda.. The Internet Journal of Infectious Diseases. 2009 \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      569.3,
+      163.3,
+      580.7
+     ],
+     "text": "Volume 7 Number 2 \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      603.2,
+      74.4,
+      614.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      637.1,
+      74.4,
+      648.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      671.0,
+      74.4,
+      682.4
+     ],
+     "text": " \n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Abstract \nBackground. Methicillin-resistant Staphylococcus aureus (MRSA) isolates are \nresistant to penicillins and all other β-lactam antibiotics. Nosocomial MRSA are also \nresistant to a variety of other antibiotic classes. MRSA infections are associated with a \nhigh morbidity and mortality in Uganda. There is limited data on the magnitude of \nMRSA in surgical site infections. The objective of this study was to determine the \nprevalence of MRSA among S. aureus isolates from surgical site infections in Mulago \nHospital, Kampala, Uganda. Methods One hundred eighty eight pus swabs were \ncollected from patients with surgical site infections. Swabs were inoculated for culture at \nthe Microbiology laboratory Faculty of Medicine, Makerere University. S. aurues was \nidentified biochemically. All S. aureus isolates were subjected to oxacillin agar screen \nand then tested with a polymerase chain reaction (PCR) assay for detection of the mecA \ngene which codes for oxacillin resistance. Results Out of the 188 specimen cultured, 54 \n(28.7%) grew S. aureus. Seventeen (31.5%) of the 54 isolates were confirmed as MRSA \nby PCR. Conclusion. S. aureus is highly (28.7%) prevalent in surgical site infections in \nMulago National Referral Hospital, Kampala Uganda. MRSA is highly (31.5%) prevalent \namong populations of S. aureus isolated from surgical site infections in Mulago National \nReferral Hospital, Kampala Uganda  \n \nIntroduction \nStaphylococcus aureus continues to be a major cause of both nosocomial and \ncommunity-acquired infections. Methicillin was first introduced in 1960 for the \n",
+   "n_chars": 1595,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      78.5,
+      179.5,
+      105.8
+     ],
+     "text": "Abstract \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      140.3,
+      542.9,
+      153.9
+     ],
+     "text": "Background. Methicillin-resistant Staphylococcus aureus (MRSA) isolates are \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      164.1,
+      542.9,
+      177.8
+     ],
+     "text": "resistant to penicillins and all other β-lactam antibiotics. Nosocomial MRSA are also \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      188.0,
+      542.8,
+      201.6
+     ],
+     "text": "resistant to a variety of other antibiotic classes. MRSA infections are associated with a \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      211.8,
+      542.8,
+      225.5
+     ],
+     "text": "high morbidity and mortality in Uganda. There is limited data on the magnitude of \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      235.7,
+      542.8,
+      249.3
+     ],
+     "text": "MRSA in surgical site infections. The objective of this study was to determine the \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      259.5,
+      542.9,
+      273.2
+     ],
+     "text": "prevalence of MRSA among S. aureus isolates from surgical site infections in Mulago \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      283.4,
+      542.8,
+      297.0
+     ],
+     "text": "Hospital, Kampala, Uganda. Methods One hundred eighty eight pus swabs were \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      307.3,
+      542.8,
+      320.9
+     ],
+     "text": "collected from patients with surgical site infections. Swabs were inoculated for culture at \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      331.1,
+      542.9,
+      344.7
+     ],
+     "text": "the Microbiology laboratory Faculty of Medicine, Makerere University. S. aurues was \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      355.0,
+      542.8,
+      368.6
+     ],
+     "text": "identified biochemically. All S. aureus isolates were subjected to oxacillin agar screen \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      378.9,
+      542.9,
+      392.5
+     ],
+     "text": "and then tested with a polymerase chain reaction (PCR) assay for detection of the mecA \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      402.8,
+      542.9,
+      416.4
+     ],
+     "text": "gene which codes for oxacillin resistance. Results Out of the 188 specimen cultured, 54 \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      426.6,
+      542.9,
+      440.2
+     ],
+     "text": "(28.7%) grew S. aureus. Seventeen (31.5%) of the 54 isolates were confirmed as MRSA \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      450.5,
+      542.8,
+      464.1
+     ],
+     "text": "by PCR. Conclusion. S. aureus is highly (28.7%) prevalent in surgical site infections in \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      474.3,
+      542.9,
+      488.0
+     ],
+     "text": "Mulago National Referral Hospital, Kampala Uganda. MRSA is highly (31.5%) prevalent \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      498.2,
+      543.0,
+      511.8
+     ],
+     "text": "among populations of S. aureus isolated from surgical site infections in Mulago National \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      522.1,
+      266.9,
+      535.7
+     ],
+     "text": "Referral Hospital, Kampala Uganda  \n"
+    },
+    {
+     "bbox": [
+      540.0,
+      562.5,
+      542.9,
+      576.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      597.8,
+      237.5,
+      625.0
+     ],
+     "text": "Introduction \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      659.5,
+      542.9,
+      673.1
+     ],
+     "text": "Staphylococcus aureus continues to be a major cause of both nosocomial and \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      683.3,
+      542.9,
+      696.9
+     ],
+     "text": "community-acquired infections. Methicillin was first introduced in 1960 for the \n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "treatment of penicillinase-resistant microbial infections and a year later, MRSA isolates \nresistant to all β- lactam antibiotics were isolated (Chambers, 2001). Oxacillin resistance \n(presence of the mecA gene responsible for oxacillin resistance) is a specific predictor of \nresistance to all β- lactam antibiotics including carbapenems (Chambers, 2001). \nMethicillin-resistant Staphylococcus aureus (MRSA) has become one of the most \nimportant pathogens that cause postoperative infections and it accounts for up to 40% \nof nosocomial Staphylococcus aureus infections in large Hospitals and 25%-30% in \nsmaller hospitals in the USA (Murray et al, 2003, Ajali, 1999 & Rodriguez et al 1974). \nIn Europe, MRSA prevalence ranges from over 50% in Portugal and Italy to below 2% in \nSwitzerland and the Netherlands, where infection control measures have been shown to \nwork (Verhoef et al, 1999). In Asia, the prevalence lies around 50%, with extremely high \nrates in Hong Kong (75%) and Japan (72%) (Diekema et al, 2000). In other studies \ncomprising of many African Hospitals the prevalence of MRSA was put at 15 % with \nKenya and Nigeria having the highest prevalence of 21-30 % (Gorwitz et al,2006 ). In \nUganda, about 10% of the surgical procedures become septic which account for an \nincreasing morbidity and mortality with the commonest organism isolated being S. \naureus, though no MRSA had been isolated by 1999.(Ojikan-Odeke.,1978, Mugisa \nD.B,1998 & Olaro .C, 1999) \nMRSA infections are of special concern because these infections are associated with \nprolonged hospital stay, increased hospital costs, and have a few therapeutic options for \naffected patients (Saxen et al 2003). There is limited information on surgical site \ninfections caused by MRSA in Uganda. This study was designed to determine the \nprevalence of MRSA in a population of Staphylococcus aureus isolated from patients \nwith surgical site infections (SSI) at Mulago Hospital, Kampala, Uganda. The ultimate \ngoal of this study is to contribute to reduction of overall surgical site infections in \nUganda to barest minimum especially in this era of HIVAIDS pandemic.  \n",
+   "n_chars": 2143,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      542.9,
+      85.7
+     ],
+     "text": "treatment of penicillinase-resistant microbial infections and a year later, MRSA isolates \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      95.9,
+      543.0,
+      109.5
+     ],
+     "text": "resistant to all β- lactam antibiotics were isolated (Chambers, 2001). Oxacillin resistance \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      119.7,
+      542.8,
+      133.4
+     ],
+     "text": "(presence of the mecA gene responsible for oxacillin resistance) is a specific predictor of \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      143.6,
+      542.9,
+      157.2
+     ],
+     "text": "resistance to all β- lactam antibiotics including carbapenems (Chambers, 2001). \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      167.5,
+      542.8,
+      181.1
+     ],
+     "text": "Methicillin-resistant Staphylococcus aureus (MRSA) has become one of the most \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      191.3,
+      542.8,
+      204.9
+     ],
+     "text": "important pathogens that cause postoperative infections and it accounts for up to 40% \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      215.2,
+      542.8,
+      228.8
+     ],
+     "text": "of nosocomial Staphylococcus aureus infections in large Hospitals and 25%-30% in \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      239.1,
+      524.6,
+      252.8
+     ],
+     "text": "smaller hospitals in the USA (Murray et al, 2003, Ajali, 1999 & Rodriguez et al 1974). \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      276.9,
+      542.8,
+      290.6
+     ],
+     "text": "In Europe, MRSA prevalence ranges from over 50% in Portugal and Italy to below 2% in \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      300.8,
+      542.9,
+      314.4
+     ],
+     "text": "Switzerland and the Netherlands, where infection control measures have been shown to \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      324.6,
+      542.8,
+      338.3
+     ],
+     "text": "work (Verhoef et al, 1999). In Asia, the prevalence lies around 50%, with extremely high \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      348.5,
+      542.9,
+      362.1
+     ],
+     "text": "rates in Hong Kong (75%) and Japan (72%) (Diekema et al, 2000). In other studies \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      372.4,
+      542.8,
+      386.0
+     ],
+     "text": "comprising of many African Hospitals the prevalence of MRSA was put at 15 % with \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      396.2,
+      542.9,
+      409.8
+     ],
+     "text": "Kenya and Nigeria having the highest prevalence of 21-30 % (Gorwitz et al,2006 ). In \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      420.1,
+      542.7,
+      433.7
+     ],
+     "text": "Uganda, about 10% of the surgical procedures become septic which account for an \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      444.0,
+      542.9,
+      457.6
+     ],
+     "text": "increasing morbidity and mortality with the commonest organism isolated being S. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      467.8,
+      542.9,
+      481.4
+     ],
+     "text": "aureus, though no MRSA had been isolated by 1999.(Ojikan-Odeke.,1978, Mugisa \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      491.7,
+      218.2,
+      505.4
+     ],
+     "text": "D.B,1998 & Olaro .C, 1999) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      529.5,
+      542.9,
+      543.2
+     ],
+     "text": "MRSA infections are of special concern because these infections are associated with \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      553.4,
+      542.8,
+      567.0
+     ],
+     "text": "prolonged hospital stay, increased hospital costs, and have a few therapeutic options for \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      577.2,
+      542.9,
+      590.9
+     ],
+     "text": "affected patients (Saxen et al 2003). There is limited information on surgical site \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      601.1,
+      542.9,
+      614.7
+     ],
+     "text": "infections caused by MRSA in Uganda. This study was designed to determine the \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      625.0,
+      542.9,
+      638.6
+     ],
+     "text": "prevalence of MRSA in a population of Staphylococcus aureus isolated from patients \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      648.8,
+      542.9,
+      662.4
+     ],
+     "text": "with surgical site infections (SSI) at Mulago Hospital, Kampala, Uganda. The ultimate \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      672.7,
+      542.8,
+      686.3
+     ],
+     "text": "goal of this study is to contribute to reduction of overall surgical site infections in \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      696.6,
+      459.4,
+      710.3
+     ],
+     "text": "Uganda to barest minimum especially in this era of HIVAIDS pandemic.  \n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "Materials And Methods \nStudy setting. The present study was carried out at Mulago National referral Hospital, \nKampala, Uganda, between February and May 2007. All patients (n = 188) who \nunderwent elective and emergency surgery during the study period were enrolled. Each \nof them had a pus swab taken from active site or on a purulent pus discharge. This was \ndone on a patient who developed SSI after surgery as defined by Centers for Disease \nControl and Prevention criteria ( Horan et al, 1992). \nIdentification of S. aureus  \nSterile dry cotton swabs with Amies transport media (DELTALAB Rubi, Spain) were \nused to collect staphylococci from active part of infected surgical wounds or pus \ndischarge. The swab was rolled gently but firmly on the base of the wound while \napplying an even pressure. The swab was replaced in its sheath which has transport \nmedium and then transported to the laboratory where it was inoculated directly on \nphenol red mannitol salt agar (Liofilchem, Italy) and incubated at 37°C for 24 hrs. S. \naureus colonies were selected on the basis of their yellow mannitol fermenting colonies, \nGram reaction and morphological characteristics, catalase, DNase and coagulase tests. \nThe S.aureus isolates were then sub-cultured onto 5% blood agar to show β-hemolysis. \nS.aureus isolates positively identified by above mentioned tests were transported at \nroom temperature as monocultures in brain heart infusion broth to the Department of \nMedical Microbiology and Molecular biology, Makerere University Kampala, Uganda, \nfor mecA gene identification using polymerase chain reaction method. \n",
+   "n_chars": 1615,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      366.5,
+      99.2
+     ],
+     "text": "Materials And Methods \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      133.8,
+      528.1,
+      147.5
+     ],
+     "text": "Study setting. The present study was carried out at Mulago National referral Hospital, \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      171.7,
+      494.3,
+      185.3
+     ],
+     "text": "Kampala, Uganda, between February and May 2007. All patients (n = 188) who \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      209.5,
+      542.8,
+      223.1
+     ],
+     "text": "underwent elective and emergency surgery during the study period were enrolled. Each \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      233.3,
+      542.9,
+      246.9
+     ],
+     "text": "of them had a pus swab taken from active site or on a purulent pus discharge. This was \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      257.2,
+      542.8,
+      270.8
+     ],
+     "text": "done on a patient who developed SSI after surgery as defined by Centers for Disease \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      281.1,
+      349.3,
+      294.8
+     ],
+     "text": "Control and Prevention criteria ( Horan et al, 1992). \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      318.9,
+      323.7,
+      339.3
+     ],
+     "text": "Identification of S. aureus  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      368.7,
+      542.9,
+      382.4
+     ],
+     "text": "Sterile dry cotton swabs with Amies transport media (DELTALAB Rubi, Spain) were \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      392.6,
+      542.8,
+      406.2
+     ],
+     "text": "used to collect staphylococci from active part of infected surgical wounds or pus \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      416.4,
+      542.9,
+      430.1
+     ],
+     "text": "discharge. The swab was rolled gently but firmly on the base of the wound while \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      440.3,
+      542.8,
+      453.9
+     ],
+     "text": "applying an even pressure. The swab was replaced in its sheath which has transport \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      464.1,
+      542.8,
+      477.8
+     ],
+     "text": "medium and then transported to the laboratory where it was inoculated directly on \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      488.0,
+      542.9,
+      501.6
+     ],
+     "text": "phenol red mannitol salt agar (Liofilchem, Italy) and incubated at 37°C for 24 hrs. S. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      511.9,
+      542.8,
+      525.5
+     ],
+     "text": "aureus colonies were selected on the basis of their yellow mannitol fermenting colonies, \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      535.7,
+      542.9,
+      549.3
+     ],
+     "text": "Gram reaction and morphological characteristics, catalase, DNase and coagulase tests. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      559.6,
+      542.9,
+      573.2
+     ],
+     "text": "The S.aureus isolates were then sub-cultured onto 5% blood agar to show β-hemolysis. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      583.5,
+      542.9,
+      597.1
+     ],
+     "text": "S.aureus isolates positively identified by above mentioned tests were transported at \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      607.3,
+      542.9,
+      620.9
+     ],
+     "text": "room temperature as monocultures in brain heart infusion broth to the Department of \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      631.2,
+      542.9,
+      644.8
+     ],
+     "text": "Medical Microbiology and Molecular biology, Makerere University Kampala, Uganda, \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      655.1,
+      445.1,
+      668.7
+     ],
+     "text": "for mecA gene identification using polymerase chain reaction method. \n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "According to previous report (NCCLS, 2003), Oxacillin salt agar (containing Mueller-\nHinton agar (SIGMA) plates with 4% NaCl and 6 µg of oxacillin per ml) screening of \nStaphylococcus aureus isolates yielded positive results. All isolated identified \nStaphylococcus strains were frozen at -20oC until all isolates were obtained and ready \nfor molecular analysis.  \nMolecular detection of mecA gene  \nThe mecA gene from Staphylococcus was obtained using methods previously reported \nby Sakoulas et al (2001), with slight modifications. Briefly, bacterial suspensions from \nthe frozen isolates were thawed and then subcultured on 5% blood agar plates. Plates \nwere then incubated at 37oC for 18-24hrs, 2-3 bacteria colonies from fresh growth \nisolates were suspended in 100µl distilled water in eppendorf tubes. The tubes were \nthen boiled for 2 minutes and centrifuged at 13,000 rpm for 2 minutes. The supernatant \ncontaining the DNA extract was collected and kept at 4oC. The extracted DNA was \nloaded and ran on the Agarose gel (120 V) to check for its quality prior to PCR \namplification. The Primers [Forward P4: 5’ TCCAGATTACAACTTCACCAGG3’and \nReverse P7: 5’CCACTTCATATCTTGTAACG-3’: MWG – Biotech- Germany] were \ndesigned to amplify a 162bp segment of the mecA. The primer concentration for each of \nprimers P4 and P7 was optimized at 100µL (i.e. 50ng) for each and were added to the \nPCR reaction mix consisting of RNAse-free water 8µL, master mix 1µL, and Taq \npolymerase 0.1µL.The total reaction volume was 10.1µL. 0.5µL of S. aureus cultured was \nthen inoculated in the mix to serve as genomic DNA source.  \nThe PCR mixture contained PCR buffer (ABgene, UK) supplemented with MgCl2 \n(25mM) and primers, 200 mM dTTP, dATP, dCTP, and dGTP. The contents were mixed \nin thin walled PCR tubes and the reaction mixture was placed in a DNA thermal cycler \n(Peltier PTC-200) to be amplified in 31 repeating cycles, each cycle having three basic \n",
+   "n_chars": 1944,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      539.9,
+      85.7
+     ],
+     "text": "According to previous report (NCCLS, 2003), Oxacillin salt agar (containing Mueller-\n"
+    },
+    {
+     "bbox": [
+      72.0,
+      95.9,
+      542.9,
+      109.5
+     ],
+     "text": "Hinton agar (SIGMA) plates with 4% NaCl and 6 µg of oxacillin per ml) screening of \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      119.7,
+      542.8,
+      133.4
+     ],
+     "text": "Staphylococcus aureus isolates yielded positive results. All isolated identified \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      143.6,
+      542.9,
+      157.2
+     ],
+     "text": "Staphylococcus strains were frozen at -20oC until all isolates were obtained and ready \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      167.6,
+      197.5,
+      181.2
+     ],
+     "text": "for molecular analysis.  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      205.3,
+      393.6,
+      225.7
+     ],
+     "text": "Molecular detection of mecA gene  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      255.2,
+      542.8,
+      268.8
+     ],
+     "text": "The mecA gene from Staphylococcus was obtained using methods previously reported \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      279.0,
+      542.9,
+      292.6
+     ],
+     "text": "by Sakoulas et al (2001), with slight modifications. Briefly, bacterial suspensions from \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      302.9,
+      542.8,
+      316.5
+     ],
+     "text": "the frozen isolates were thawed and then subcultured on 5% blood agar plates. Plates \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      326.7,
+      542.8,
+      340.4
+     ],
+     "text": "were then incubated at 37oC for 18-24hrs, 2-3 bacteria colonies from fresh growth \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      350.6,
+      542.9,
+      364.2
+     ],
+     "text": "isolates were suspended in 100µl distilled water in eppendorf tubes. The tubes were \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      374.4,
+      542.9,
+      388.1
+     ],
+     "text": "then boiled for 2 minutes and centrifuged at 13,000 rpm for 2 minutes. The supernatant \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      398.3,
+      542.9,
+      411.9
+     ],
+     "text": "containing the DNA extract was collected and kept at 4oC. The extracted DNA was \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      422.1,
+      542.8,
+      435.8
+     ],
+     "text": "loaded and ran on the Agarose gel (120 V) to check for its quality prior to PCR \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      446.0,
+      542.9,
+      459.6
+     ],
+     "text": "amplification. The Primers [Forward P4: 5’ TCCAGATTACAACTTCACCAGG3’and \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      469.9,
+      543.0,
+      483.5
+     ],
+     "text": "Reverse P7: 5’CCACTTCATATCTTGTAACG-3’: MWG – Biotech- Germany] were \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      493.7,
+      542.9,
+      507.3
+     ],
+     "text": "designed to amplify a 162bp segment of the mecA. The primer concentration for each of \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      517.6,
+      542.8,
+      531.2
+     ],
+     "text": "primers P4 and P7 was optimized at 100µL (i.e. 50ng) for each and were added to the \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      541.5,
+      542.9,
+      555.1
+     ],
+     "text": "PCR reaction mix consisting of RNAse-free water 8µL, master mix 1µL, and Taq \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      565.3,
+      543.0,
+      578.9
+     ],
+     "text": "polymerase 0.1µL.The total reaction volume was 10.1µL. 0.5µL of S. aureus cultured was \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      589.2,
+      392.8,
+      602.9
+     ],
+     "text": "then inoculated in the mix to serve as genomic DNA source.  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      627.0,
+      542.9,
+      640.8
+     ],
+     "text": "The PCR mixture contained PCR buffer (ABgene, UK) supplemented with MgCl2 \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      650.9,
+      542.9,
+      664.5
+     ],
+     "text": "(25mM) and primers, 200 mM dTTP, dATP, dCTP, and dGTP. The contents were mixed \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      674.7,
+      542.8,
+      688.4
+     ],
+     "text": "in thin walled PCR tubes and the reaction mixture was placed in a DNA thermal cycler \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      698.6,
+      542.8,
+      712.2
+     ],
+     "text": "(Peltier PTC-200) to be amplified in 31 repeating cycles, each cycle having three basic \n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "steps: 1-min denaturation at 94oC followed by annealing for 30 s at 55oC and elongation \nfor 1 min at 72oC. The samples were held in the thermal cycler at 4oC until they were \nloaded onto a 1.5% agarose gel and were electrophoresed for 1hr at 120 V, stained with \nethidium bromide, and viewed with UV light. The presence of a 162-bp band was \nconsidered a positive result. The marker used was 100kbp (New England- Biotech) \nQuality control strains \nThe following control strains were used for both oxacillin agar screen and PCR method; \nS. aureus ATCC 29213 as an oxacillin susceptible strain. S. aureus ATCC 43300 as an \noxacillin resistant strain. \nData collection and Management \nThe principle investigator, assisted by research assistants collected data. Informed \nconsent was obtained and a standardized questionnaire was administered. The data \ncollected included age, sex, date and time of collection and patient number. Other data \ncollection was the presence or absence of MRSA after oxacillin agar screen and PCR. \nThe data was then analyzed using STATA statistical software. Dichotomous variables \nwere compared using a chi square, and continuous variables were compared using \nmultivariate statistic, with the help of a statistician. \nResults \nOf the 188 patients enrolled, 62.9% of these patients were males and 37.1% were \nfemales. The average age of the patients was 31years with a range of 13 - 87 years. Fifty \nfour (28.7%) patients had S.aureus, of the 54 isolates of S. aureus from these patients, \n",
+   "n_chars": 1516,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      542.9,
+      85.7
+     ],
+     "text": "steps: 1-min denaturation at 94oC followed by annealing for 30 s at 55oC and elongation \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      95.9,
+      542.8,
+      109.5
+     ],
+     "text": "for 1 min at 72oC. The samples were held in the thermal cycler at 4oC until they were \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      119.7,
+      542.9,
+      133.4
+     ],
+     "text": "loaded onto a 1.5% agarose gel and were electrophoresed for 1hr at 120 V, stained with \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      143.6,
+      542.9,
+      157.2
+     ],
+     "text": "ethidium bromide, and viewed with UV light. The presence of a 162-bp band was \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      167.6,
+      511.5,
+      181.2
+     ],
+     "text": "considered a positive result. The marker used was 100kbp (New England- Biotech) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      205.3,
+      285.3,
+      225.7
+     ],
+     "text": "Quality control strains \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      255.2,
+      542.9,
+      268.8
+     ],
+     "text": "The following control strains were used for both oxacillin agar screen and PCR method; \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      279.0,
+      542.9,
+      292.6
+     ],
+     "text": "S. aureus ATCC 29213 as an oxacillin susceptible strain. S. aureus ATCC 43300 as an \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      302.9,
+      205.9,
+      316.5
+     ],
+     "text": "oxacillin resistant strain. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      340.6,
+      380.7,
+      361.1
+     ],
+     "text": "Data collection and Management \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      390.5,
+      542.9,
+      404.1
+     ],
+     "text": "The principle investigator, assisted by research assistants collected data. Informed \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      414.4,
+      542.9,
+      428.0
+     ],
+     "text": "consent was obtained and a standardized questionnaire was administered. The data \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      438.2,
+      542.9,
+      451.8
+     ],
+     "text": "collected included age, sex, date and time of collection and patient number. Other data \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      462.2,
+      519.7,
+      475.8
+     ],
+     "text": "collection was the presence or absence of MRSA after oxacillin agar screen and PCR. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      500.0,
+      542.8,
+      513.6
+     ],
+     "text": "The data was then analyzed using STATA statistical software. Dichotomous variables \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      523.8,
+      542.8,
+      537.5
+     ],
+     "text": "were compared using a chi square, and continuous variables were compared using \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      547.7,
+      345.7,
+      561.3
+     ],
+     "text": "multivariate statistic, with the help of a statistician. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      585.5,
+      169.6,
+      612.7
+     ],
+     "text": "Results \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      647.3,
+      498.6,
+      660.9
+     ],
+     "text": "Of the 188 patients enrolled, 62.9% of these patients were males and 37.1% were \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      671.1,
+      531.6,
+      684.8
+     ],
+     "text": "females. The average age of the patients was 31years with a range of 13 - 87 years. Fifty \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      695.0,
+      529.9,
+      708.6
+     ],
+     "text": "four (28.7%) patients had S.aureus, of the 54 isolates of S. aureus from these patients, \n"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "text": "17 (31.5%) were MRSA by PCR assay as shown in the tables 1 and 2 below. The males \nwere twice as much more likely to get MRSA as compared to females in this study \n(Table. 1). Oxacillin agar screen had a sensitivity of 70.59% and a specificity of 64.86% \n(Table.2). These results showed that this method could correctly classify 66.67% isolates \nof S.aureus as being MRSA. \n \n \nTable 1: PCR test on the study isolates by sex distribution. \n \nTable 2: PCR mecA of the Study isolates compared to Oxacillin agar screen  \nDiscussion \nStaphylococcus aureus is an important pathogen in human infections and is implicated \nin a wide variety of infections, from mild skin infections to more serious and invasive \ninfections, including septicemia, pneumonia, endocarditis, deep-seated abscesses, and \ntoxinoses including food poisoning and toxic shock syndrome (Tenover and Gaynes \n",
+   "n_chars": 871,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      521.8,
+      85.7
+     ],
+     "text": "17 (31.5%) were MRSA by PCR assay as shown in the tables 1 and 2 below. The males \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      95.9,
+      504.8,
+      109.5
+     ],
+     "text": "were twice as much more likely to get MRSA as compared to females in this study \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      119.7,
+      530.3,
+      133.4
+     ],
+     "text": "(Table. 1). Oxacillin agar screen had a sensitivity of 70.59% and a specificity of 64.86% \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      143.6,
+      540.5,
+      157.2
+     ],
+     "text": "(Table.2). These results showed that this method could correctly classify 66.67% isolates \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      167.6,
+      222.0,
+      181.2
+     ],
+     "text": "of S.aureus as being MRSA. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      205.3,
+      72.1,
+      205.8
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      539.9,
+      359.0,
+      540.1,
+      359.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      374.1,
+      356.0,
+      401.2
+     ],
+     "text": "Table 1: PCR test on the study isolates by sex distribution. \n \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      525.4,
+      441.2,
+      538.7
+     ],
+     "text": "Table 2: PCR mecA of the Study isolates compared to Oxacillin agar screen  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      552.9,
+      212.9,
+      580.1
+     ],
+     "text": "Discussion \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      614.6,
+      542.9,
+      628.2
+     ],
+     "text": "Staphylococcus aureus is an important pathogen in human infections and is implicated \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      638.5,
+      542.8,
+      652.1
+     ],
+     "text": "in a wide variety of infections, from mild skin infections to more serious and invasive \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      662.4,
+      542.9,
+      676.0
+     ],
+     "text": "infections, including septicemia, pneumonia, endocarditis, deep-seated abscesses, and \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      686.2,
+      542.8,
+      699.8
+     ],
+     "text": "toxinoses including food poisoning and toxic shock syndrome (Tenover and Gaynes \n"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "text": "2000; Holmes et al., 2005). Surgical site infections (SSI) by Staphylococcus aureus are \nknown predominant cause of nosocomial infection, resulting in considerable morbidity \nand mortality in tropical Africa. Data on MRSA infection especially for SSI are highly \nlimited in Uganda and other tropical African countries ( Kesah et al, 2003; Adebayo et \nal, 2006).  \nThe 28.7% Staphylococcus aureus observed in this study is higher that 8.8% prevalence \nin deep-seated recurrent genital ulcers in Nigeria (Agwu et al., 2007) and 10.7% \nprevalence in wound infections in Iran (Rastegar et al 2005). The 28.7% Staphylococcus \naureus reported in the present study may: depict the level of Staphylococcus aureus \ncarriage in this locality; be attributed to the level of contamination arising from the \nhabit of some of the volunteers to treat their wound aseptically before seeking \nappropriate medical attention and may also be due to low personal hygiene and poor \nhealth education which still persists in Uganda compared to Nigeria and Iran.  \nIn our study and out of 17 isolates positive for MSRA, 13 (76.5%) male patients were \ninfected with MRSA more than 4 (23.5%) females. This confirms earlier report (Agwu et \nal., 2006) that most tropical bacteria infections are more common in males than \nfemales because predisposing sites for the infections such as overpopulation, prisons, \nmilitary camps, construction sties and factories are predominated by males.  \nIn this study, the prevalence of MRSA among S. aureus isolates in SSI was found to be \n31.5%. This is in similar to the 26.9%-29.6% prevalence reported in the USA, Middle \nEast and other selected African hospitals (Kesah et al, 2003, Boyce, 1998, Bell et al, \n2002 & Baddour et al., 2006). This may show that the level of awareness and control \nmeasure for MRSA prevalence in Uganda is comparable to the standard control \nelsewhere. Emergence of documented multi-drug resistance bacteria pathogens (Agwu \net al., 2004) due to indiscriminate use of antibiotics (Agwu et al., 2005) may explain the \n",
+   "n_chars": 2055,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      542.9,
+      85.7
+     ],
+     "text": "2000; Holmes et al., 2005). Surgical site infections (SSI) by Staphylococcus aureus are \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      95.9,
+      542.9,
+      109.5
+     ],
+     "text": "known predominant cause of nosocomial infection, resulting in considerable morbidity \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      119.7,
+      542.9,
+      133.4
+     ],
+     "text": "and mortality in tropical Africa. Data on MRSA infection especially for SSI are highly \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      143.6,
+      542.9,
+      157.2
+     ],
+     "text": "limited in Uganda and other tropical African countries ( Kesah et al, 2003; Adebayo et \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      167.6,
+      130.2,
+      181.2
+     ],
+     "text": "al, 2006).  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      205.4,
+      542.9,
+      219.0
+     ],
+     "text": "The 28.7% Staphylococcus aureus observed in this study is higher that 8.8% prevalence \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      229.2,
+      542.9,
+      242.8
+     ],
+     "text": "in deep-seated recurrent genital ulcers in Nigeria (Agwu et al., 2007) and 10.7% \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      253.1,
+      542.9,
+      266.7
+     ],
+     "text": "prevalence in wound infections in Iran (Rastegar et al 2005). The 28.7% Staphylococcus \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      276.9,
+      542.9,
+      290.6
+     ],
+     "text": "aureus reported in the present study may: depict the level of Staphylococcus aureus \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      300.8,
+      542.8,
+      314.4
+     ],
+     "text": "carriage in this locality; be attributed to the level of contamination arising from the \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      324.6,
+      542.8,
+      338.3
+     ],
+     "text": "habit of some of the volunteers to treat their wound aseptically before seeking \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      348.5,
+      542.8,
+      362.1
+     ],
+     "text": "appropriate medical attention and may also be due to low personal hygiene and poor \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      372.5,
+      488.0,
+      386.1
+     ],
+     "text": "health education which still persists in Uganda compared to Nigeria and Iran.  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      410.3,
+      542.8,
+      423.9
+     ],
+     "text": "In our study and out of 17 isolates positive for MSRA, 13 (76.5%) male patients were \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      434.1,
+      542.9,
+      447.7
+     ],
+     "text": "infected with MRSA more than 4 (23.5%) females. This confirms earlier report (Agwu et \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      458.0,
+      542.8,
+      471.6
+     ],
+     "text": "al., 2006) that most tropical bacteria infections are more common in males than \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      481.8,
+      542.9,
+      495.5
+     ],
+     "text": "females because predisposing sites for the infections such as overpopulation, prisons, \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      505.7,
+      477.9,
+      519.3
+     ],
+     "text": "military camps, construction sties and factories are predominated by males.  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      543.5,
+      542.8,
+      557.1
+     ],
+     "text": "In this study, the prevalence of MRSA among S. aureus isolates in SSI was found to be \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      567.4,
+      542.8,
+      581.0
+     ],
+     "text": "31.5%. This is in similar to the 26.9%-29.6% prevalence reported in the USA, Middle \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      591.3,
+      542.9,
+      604.9
+     ],
+     "text": "East and other selected African hospitals (Kesah et al, 2003, Boyce, 1998, Bell et al, \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      615.1,
+      542.8,
+      628.7
+     ],
+     "text": "2002 & Baddour et al., 2006). This may show that the level of awareness and control \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      639.0,
+      542.9,
+      652.6
+     ],
+     "text": "measure for MRSA prevalence in Uganda is comparable to the standard control \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      662.9,
+      542.8,
+      676.5
+     ],
+     "text": "elsewhere. Emergence of documented multi-drug resistance bacteria pathogens (Agwu \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      686.7,
+      542.9,
+      700.3
+     ],
+     "text": "et al., 2004) due to indiscriminate use of antibiotics (Agwu et al., 2005) may explain the \n"
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "text": "observed 31.5% prevalence of MRSA in SSI at the Mulago National Referral Hospital \nKampala, Uganda.  \nAccording to a review by Swierzewski, J.S. (2008), the population at increased risk of \nhealth-care associated MRSA infection includes: patients who have recently been \nhospitalized (within the past year) and patients in long-term health care facilities, \nincluding nursing homes and dialysis centers. Medical conditions that weaken the \nimmune system (e.g., HIV/AIDS, cancer), recent invasive medical procedures (e.g., \nsurgery, catheterization, dialysis), and recent use of antibiotics also increases the risk for \nHA-MRSA. Health care workers (e.g., doctors, nurses, physician assistants) and people \nwho are in close contact with health care workers are at increased risk for developing \nstaph infections, including MRSA. Children also have a higher risk for infection, \npossibly because their immune systems are not fully developed.  \nIt appears there is a decline in the overall ability of different healthcare settings to stop \nor reduce the spread of MRSA to the barest minimum. In developing countries, it has \nalways been contended that the inappropriate use of antibiotics for community \ninfections may increase the prevalence of resistant bacteria infection (Agwu et al., 2005) \nincluding MRSA. Therefore, the use of two mechanisms to control the spread of MRSA \ncould reduce the burden of SSIs in this region. First, the number of surgical patients \nwho are colonized before surgery would be reduced, decreasing the likelihood of an \ninadequate antimicrobial prophylaxis choice in those settings where preoperative \nscreening for MRSA colonization is not done (e.g.using a β- lactam agent for a patient \nwith unrecognized MRSA colonization). Second, for those patients who are not \ncolonized with MRSA prior to surgery, successful control of transmission would reduce \nthe risk of acquiring it from an external source during or after surgery. It has been \nreported that 60% of the S. aureus SSIs appeared not to have originated from nasal \n",
+   "n_chars": 2053,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      542.8,
+      85.7
+     ],
+     "text": "observed 31.5% prevalence of MRSA in SSI at the Mulago National Referral Hospital \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      96.0,
+      175.7,
+      109.6
+     ],
+     "text": "Kampala, Uganda.  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      133.8,
+      542.9,
+      147.4
+     ],
+     "text": "According to a review by Swierzewski, J.S. (2008), the population at increased risk of \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      157.6,
+      542.9,
+      171.2
+     ],
+     "text": "health-care associated MRSA infection includes: patients who have recently been \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      181.5,
+      542.8,
+      195.1
+     ],
+     "text": "hospitalized (within the past year) and patients in long-term health care facilities, \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      205.4,
+      542.8,
+      219.0
+     ],
+     "text": "including nursing homes and dialysis centers. Medical conditions that weaken the \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      229.2,
+      542.9,
+      242.8
+     ],
+     "text": "immune system (e.g., HIV/AIDS, cancer), recent invasive medical procedures (e.g., \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      253.1,
+      542.8,
+      266.7
+     ],
+     "text": "surgery, catheterization, dialysis), and recent use of antibiotics also increases the risk for \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      276.9,
+      542.8,
+      290.6
+     ],
+     "text": "HA-MRSA. Health care workers (e.g., doctors, nurses, physician assistants) and people \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      300.8,
+      542.8,
+      314.4
+     ],
+     "text": "who are in close contact with health care workers are at increased risk for developing \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      324.6,
+      542.8,
+      338.3
+     ],
+     "text": "staph infections, including MRSA. Children also have a higher risk for infection, \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      348.6,
+      413.0,
+      362.2
+     ],
+     "text": "possibly because their immune systems are not fully developed.  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      386.4,
+      542.7,
+      400.0
+     ],
+     "text": "It appears there is a decline in the overall ability of different healthcare settings to stop \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      410.3,
+      542.8,
+      423.9
+     ],
+     "text": "or reduce the spread of MRSA to the barest minimum. In developing countries, it has \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      434.1,
+      542.8,
+      447.7
+     ],
+     "text": "always been contended that the inappropriate use of antibiotics for community \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      458.0,
+      542.9,
+      471.6
+     ],
+     "text": "infections may increase the prevalence of resistant bacteria infection (Agwu et al., 2005) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      481.8,
+      542.9,
+      495.5
+     ],
+     "text": "including MRSA. Therefore, the use of two mechanisms to control the spread of MRSA \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      505.7,
+      542.8,
+      519.3
+     ],
+     "text": "could reduce the burden of SSIs in this region. First, the number of surgical patients \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      529.5,
+      542.9,
+      543.2
+     ],
+     "text": "who are colonized before surgery would be reduced, decreasing the likelihood of an \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      553.4,
+      542.9,
+      567.0
+     ],
+     "text": "inadequate antimicrobial prophylaxis choice in those settings where preoperative \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      577.1,
+      542.8,
+      591.8
+     ],
+     "text": "screening for MRSA colonization is not done (e.g.using a β- lactam agent for a patient \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      603.0,
+      542.9,
+      616.6
+     ],
+     "text": "with unrecognized MRSA colonization). Second, for those patients who are not \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      626.9,
+      542.9,
+      640.5
+     ],
+     "text": "colonized with MRSA prior to surgery, successful control of transmission would reduce \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      650.7,
+      542.9,
+      664.3
+     ],
+     "text": "the risk of acquiring it from an external source during or after surgery. It has been \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      674.6,
+      542.9,
+      688.2
+     ],
+     "text": "reported that 60% of the S. aureus SSIs appeared not to have originated from nasal \n"
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "text": "carriage of S. aureus by the patient, suggesting an exogenous source (Farr, 2002 & Perl \net al, 2002). \nIn conclusion, S. aureus is highly (28.7%) prevalent in surgical site infections in Mulago \nNational Referral Hospital, Kampala Uganda. MRSA is highly (31.5%) prevalent among \npopulations of S. aureus isolated from surgical site infections in Mulago National \nReferral Hospital, Kampala Uganda.  \nThis study has opened a broad research horizon that will enable future researchers to \ninvestigate: the source of MRSA; the link between MRSA acquisition and various factors \nlike age, sex, occupation, ethnicity, geographical location, hospitalization, antibiotic \nusage, surgery and distinction between community-acquired MRSA and hospital \nacquired MRSA.  \nReferences \nAdebayo O Shittu and Johnson Lin. Antimicrobial susceptibility patterns and \ncharacterization of clinical isolates of Staphylococcus aureus in Kwazulu-Natal province, \nSouth Africa. BMC Infectious Diseases 2006, 6:125. (s) \nAgwu, E., Agba, M.I., Esumeh, F.I., Tatfeng, Y.M., Ongey, J.Y., Uzoaru, S.C., Okodua, \nM., Turray A.A. Susceptibility status of Streptococcus pneumoniae against streptomycin \nand rifampicin commonly used for pulmonary tuberculosis. Journal of Applied and \nBasic Sciences, 2005, 3 (1&2): 33-36. (s) \nAgwu E., Agba M.I Nwobu G.O. Ongey J.Y. Inyang N.J. Imharebhor J.A. Antimicrobial \nresistant profile of Streptococcus pneumoniae isolated from suspected tuberculosis \npatients in Ekpoma and its environs: Shiraz Electronic Medical Journal. 2004, 5, (3). (s) \n",
+   "n_chars": 1551,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      542.8,
+      85.7
+     ],
+     "text": "carriage of S. aureus by the patient, suggesting an exogenous source (Farr, 2002 & Perl \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      96.0,
+      139.2,
+      109.6
+     ],
+     "text": "et al, 2002). \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      133.8,
+      542.8,
+      147.4
+     ],
+     "text": "In conclusion, S. aureus is highly (28.7%) prevalent in surgical site infections in Mulago \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      157.6,
+      542.9,
+      171.2
+     ],
+     "text": "National Referral Hospital, Kampala Uganda. MRSA is highly (31.5%) prevalent among \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      181.5,
+      542.8,
+      195.1
+     ],
+     "text": "populations of S. aureus isolated from surgical site infections in Mulago National \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      205.4,
+      270.2,
+      219.0
+     ],
+     "text": "Referral Hospital, Kampala Uganda.  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      243.2,
+      542.8,
+      256.8
+     ],
+     "text": "This study has opened a broad research horizon that will enable future researchers to \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      267.0,
+      542.8,
+      280.7
+     ],
+     "text": "investigate: the source of MRSA; the link between MRSA acquisition and various factors \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      290.9,
+      542.9,
+      304.5
+     ],
+     "text": "like age, sex, occupation, ethnicity, geographical location, hospitalization, antibiotic \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      314.8,
+      542.8,
+      328.4
+     ],
+     "text": "usage, surgery and distinction between community-acquired MRSA and hospital \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      338.7,
+      164.5,
+      352.3
+     ],
+     "text": "acquired MRSA.  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      376.4,
+      215.7,
+      403.7
+     ],
+     "text": "References \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      438.2,
+      542.8,
+      451.8
+     ],
+     "text": "Adebayo O Shittu and Johnson Lin. Antimicrobial susceptibility patterns and \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      462.1,
+      542.9,
+      475.7
+     ],
+     "text": "characterization of clinical isolates of Staphylococcus aureus in Kwazulu-Natal province, \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      486.0,
+      364.6,
+      499.7
+     ],
+     "text": "South Africa. BMC Infectious Diseases 2006, 6:125. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      523.8,
+      543.0,
+      537.5
+     ],
+     "text": "Agwu, E., Agba, M.I., Esumeh, F.I., Tatfeng, Y.M., Ongey, J.Y., Uzoaru, S.C., Okodua, \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      547.7,
+      542.8,
+      561.3
+     ],
+     "text": "M., Turray A.A. Susceptibility status of Streptococcus pneumoniae against streptomycin \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      571.5,
+      542.8,
+      585.2
+     ],
+     "text": "and rifampicin commonly used for pulmonary tuberculosis. Journal of Applied and \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      595.5,
+      287.9,
+      609.1
+     ],
+     "text": "Basic Sciences, 2005, 3 (1&2): 33-36. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      633.3,
+      542.9,
+      646.9
+     ],
+     "text": "Agwu E., Agba M.I Nwobu G.O. Ongey J.Y. Inyang N.J. Imharebhor J.A. Antimicrobial \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      657.1,
+      542.8,
+      670.7
+     ],
+     "text": "resistant profile of Streptococcus pneumoniae isolated from suspected tuberculosis \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      681.0,
+      541.0,
+      694.7
+     ],
+     "text": "patients in Ekpoma and its environs: Shiraz Electronic Medical Journal. 2004, 5, (3). (s) \n"
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "text": "Agwu E, Ihongbe J. C, Okogun GRA, Ezeonwumelu JOC Igbinovia O. Chromobacterium \nviolacium associated with recurrent vaginal discharge among apparently healthy \nfemales in Ekpoma Nigeria. Online Journal of Health and Allied Sciences 2007, 1: 2. (s) \nAgwu E, Ohihion A A, Agba M I, Okogun G R A, Okodua M, Tatfeng YM, Nwobu G.O. \nIncidence of Streptococcus pneumoniae Infections Among Patients Attending \nTuberculosis Clinics in Ekpoma, Nigeria. Shiraz Electronic Medical Journal, 2006, 7, (1) \n(s) \nAnjali Jain, Daum R. S. American Academy of Paediatrics.Review 1999; 20: 183-91. (s) \nBaddour Manal M, Abuelkheir Manal M and Fatani Amal J. Trends in antibiotic \nsusceptibility patterns and epidemiology of MRSA isolates from several hospitals in \nRiyadh, Saudi Arabia. Annals of Microbiology and Antimicrobials. 2006, 5:30. (s) \nBell Jan M, Turnidge John D. et al. High Prevalence of Oxacillin-Resistant \nStaphylococcus aureus Isolates from Hospitalized Patients in Asia- Pacific and South \nAfrica: Results from SENTRY Antimicrobial Surveillance Program, 1998-1999. \nAntimicrob Agents Chemother. 2002, 46 (3): 879–881. (s) \nBoyce \nJ. \nM. \nDiagnosis \nand \ntreatment \nof \nserious \nantimicrobial-resistant \nStaphylococcusaureus infection. Clinical Updates, Infect Dis. Nov.1998; IV, (4). (s) \nChambers.HF. The changing epidemiology of Staphylococcus aureus? Emerging Infect \nDis 2001; 7:178-182. (s) \nDiekema, \nD.J., \nPfaller, \nM.A., \net \nal. \nGenetic \nrelatedness \nof \nmultidrug- \nresistant,methicillin(oxacillin)-resistant Staphylococcus aureus bloodstream isolates \nform SENTRY Antimicrobial Resistance Surveillance Centers worldwide, 1998. Microb \nDrug Resist 2000;6: 213-21. (s) \n",
+   "n_chars": 1679,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      542.9,
+      85.7
+     ],
+     "text": "Agwu E, Ihongbe J. C, Okogun GRA, Ezeonwumelu JOC Igbinovia O. Chromobacterium \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      95.9,
+      542.8,
+      109.5
+     ],
+     "text": "violacium associated with recurrent vaginal discharge among apparently healthy \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      119.8,
+      536.7,
+      133.4
+     ],
+     "text": "females in Ekpoma Nigeria. Online Journal of Health and Allied Sciences 2007, 1: 2. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      157.6,
+      542.8,
+      171.2
+     ],
+     "text": "Agwu E, Ohihion A A, Agba M I, Okogun G R A, Okodua M, Tatfeng YM, Nwobu G.O. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      181.5,
+      542.9,
+      195.1
+     ],
+     "text": "Incidence of Streptococcus pneumoniae Infections Among Patients Attending \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      205.4,
+      542.9,
+      219.0
+     ],
+     "text": "Tuberculosis Clinics in Ekpoma, Nigeria. Shiraz Electronic Medical Journal, 2006, 7, (1) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      229.2,
+      89.1,
+      242.9
+     ],
+     "text": "(s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      267.1,
+      532.4,
+      280.7
+     ],
+     "text": "Anjali Jain, Daum R. S. American Academy of Paediatrics.Review 1999; 20: 183-91. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      304.9,
+      542.9,
+      318.5
+     ],
+     "text": "Baddour Manal M, Abuelkheir Manal M and Fatani Amal J. Trends in antibiotic \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      328.8,
+      542.8,
+      342.4
+     ],
+     "text": "susceptibility patterns and epidemiology of MRSA isolates from several hospitals in \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      352.7,
+      505.6,
+      366.3
+     ],
+     "text": "Riyadh, Saudi Arabia. Annals of Microbiology and Antimicrobials. 2006, 5:30. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      390.5,
+      542.9,
+      404.1
+     ],
+     "text": "Bell Jan M, Turnidge John D. et al. High Prevalence of Oxacillin-Resistant \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      414.4,
+      542.9,
+      428.0
+     ],
+     "text": "Staphylococcus aureus Isolates from Hospitalized Patients in Asia- Pacific and South \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      438.2,
+      542.9,
+      451.8
+     ],
+     "text": "Africa: Results from SENTRY Antimicrobial Surveillance Program, 1998-1999. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      462.2,
+      383.5,
+      475.8
+     ],
+     "text": "Antimicrob Agents Chemother. 2002, 46 (3): 879–881. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      500.0,
+      542.8,
+      513.6
+     ],
+     "text": "Boyce \nJ. \nM. \nDiagnosis \nand \ntreatment \nof \nserious \nantimicrobial-resistant \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      523.9,
+      511.5,
+      537.5
+     ],
+     "text": "Staphylococcusaureus infection. Clinical Updates, Infect Dis. Nov.1998; IV, (4). (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      561.7,
+      542.9,
+      575.3
+     ],
+     "text": "Chambers.HF. The changing epidemiology of Staphylococcus aureus? Emerging Infect \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      585.6,
+      200.6,
+      599.2
+     ],
+     "text": "Dis 2001; 7:178-182. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      623.4,
+      542.8,
+      637.0
+     ],
+     "text": "Diekema, \nD.J., \nPfaller, \nM.A., \net \nal. \nGenetic \nrelatedness \nof \nmultidrug- \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      647.3,
+      542.8,
+      660.9
+     ],
+     "text": "resistant,methicillin(oxacillin)-resistant Staphylococcus aureus bloodstream isolates \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      671.1,
+      542.9,
+      684.8
+     ],
+     "text": "form SENTRY Antimicrobial Resistance Surveillance Centers worldwide, 1998. Microb \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      695.0,
+      240.9,
+      708.6
+     ],
+     "text": "Drug Resist 2000;6: 213-21. (s) \n"
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "text": "Farr BM. Mupirocin to prevent S. aureus infections. N Engl J Med 2002; 346:1905-\n1906. (s) \nGorwitz J., Jernigan.D. B., Powers.J. H.,et al. Strategies for Clinical Management of \nMRSA in the Community: Summary of Experts’ Meeting Convened by the Centre for \nDisease Control and Prevention.March 2006. USA. (s) \nHolmes A, Ganner M, McGuane S, Pitt TL, Cookson BD, Kearns AM. Staphylococcus \naureus isolates carrying Panton-Valentine leucocidin genes in England and Wales: \nfrequency, characterization, and association with clinical disease. J Clin Microbiol. \n2005;43(5):2384–2390 (s) \nHoran, T. C., Gaynes et al. CDC definitions of nosocomial surgical site infections 1992: a \nmodification of CDC definitions of surgical wound infections. Infect.Control Hosp. \nEpidemiol. 17:780–785. (s) \nJaffar \nA. \nAl-Tawfiq \nIncidence \nand \nEpidemiology \nof \nMethicillin-Resistant \nStaphylococcusaureus Infection in a Saudi Arabian Hospital, 1999-2003. Infect. control \n& hospital epidemiol. October 2006, 27, no. 10 (s) \nKabambula L. Bacherlor of Biomedical Laboratory Technology dissertation on \nPrevalence and antibiotic susceptibility patterns of Staphylococcus aureus among \npatients with wounds and abscess attending surgical units in Mulago hospital. 2005. (s) \nKesah C. Ben Redjeb, T.O Odugbemi, et al. Prevalence of Methicillin-resistant \nStaphylococcus aureus in eight African hospitals and Malta.Clin Microbiol Infect. 2003; \n9:153-156. (s) \nMugisa D.B. M. Med Surgery dissertation on Complications following laparotomy in \nMulago Hospital.1988; 59-156. (s) \n",
+   "n_chars": 1555,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      540.0,
+      85.7
+     ],
+     "text": "Farr BM. Mupirocin to prevent S. aureus infections. N Engl J Med 2002; 346:1905-\n"
+    },
+    {
+     "bbox": [
+      72.0,
+      96.0,
+      121.3,
+      109.6
+     ],
+     "text": "1906. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      133.8,
+      542.9,
+      147.4
+     ],
+     "text": "Gorwitz J., Jernigan.D. B., Powers.J. H.,et al. Strategies for Clinical Management of \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      157.6,
+      542.9,
+      171.2
+     ],
+     "text": "MRSA in the Community: Summary of Experts’ Meeting Convened by the Centre for \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      181.5,
+      361.6,
+      195.2
+     ],
+     "text": "Disease Control and Prevention.March 2006. USA. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      219.3,
+      542.9,
+      233.0
+     ],
+     "text": "Holmes A, Ganner M, McGuane S, Pitt TL, Cookson BD, Kearns AM. Staphylococcus \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      243.2,
+      542.8,
+      256.8
+     ],
+     "text": "aureus isolates carrying Panton-Valentine leucocidin genes in England and Wales: \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      267.0,
+      542.9,
+      280.7
+     ],
+     "text": "frequency, characterization, and association with clinical disease. J Clin Microbiol. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      291.0,
+      218.4,
+      304.6
+     ],
+     "text": "2005;43(5):2384–2390 (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      328.8,
+      542.9,
+      342.4
+     ],
+     "text": "Horan, T. C., Gaynes et al. CDC definitions of nosocomial surgical site infections 1992: a \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      352.7,
+      542.8,
+      366.3
+     ],
+     "text": "modification of CDC definitions of surgical wound infections. Infect.Control Hosp. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      376.5,
+      219.0,
+      390.2
+     ],
+     "text": "Epidemiol. 17:780–785. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      414.4,
+      542.9,
+      428.0
+     ],
+     "text": "Jaffar \nA. \nAl-Tawfiq \nIncidence \nand \nEpidemiology \nof \nMethicillin-Resistant \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      438.2,
+      542.9,
+      451.8
+     ],
+     "text": "Staphylococcusaureus Infection in a Saudi Arabian Hospital, 1999-2003. Infect. control \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      462.2,
+      338.7,
+      475.8
+     ],
+     "text": "& hospital epidemiol. October 2006, 27, no. 10 (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      500.0,
+      542.8,
+      513.6
+     ],
+     "text": "Kabambula L. Bacherlor of Biomedical Laboratory Technology dissertation on \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      523.8,
+      542.9,
+      537.5
+     ],
+     "text": "Prevalence and antibiotic susceptibility patterns of Staphylococcus aureus among \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      547.7,
+      537.9,
+      561.3
+     ],
+     "text": "patients with wounds and abscess attending surgical units in Mulago hospital. 2005. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      585.5,
+      542.9,
+      599.1
+     ],
+     "text": "Kesah C. Ben Redjeb, T.O Odugbemi, et al. Prevalence of Methicillin-resistant \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      609.4,
+      542.8,
+      623.0
+     ],
+     "text": "Staphylococcus aureus in eight African hospitals and Malta.Clin Microbiol Infect. 2003; \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      633.3,
+      146.6,
+      647.0
+     ],
+     "text": "9:153-156. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      671.1,
+      542.8,
+      684.8
+     ],
+     "text": "Mugisa D.B. M. Med Surgery dissertation on Complications following laparotomy in \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      695.0,
+      255.7,
+      708.6
+     ],
+     "text": "Mulago Hospital.1988; 59-156. (s) \n"
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "text": "Murray PR, Baron EJ, Jorgensen JM et al.eds. Staphylococci, Micrococcus and other \ncatalase-positive cocci that grows aerobically. Manual of Clinical Microbiology, 8th edn. \nWashington: 2003; 384-404. (s) \nNakiboneka. Bachelor of Biomedical Laboratory Technology dissertation on the \nPrevalence of aerobic bacterial pathogenesis that causes sepsis in wounds of patients \nadmitted in New Mulago hospital and their drug susceptibility patterns. 2005.2-30. (s) \nNational Committee for Clinical Laboratory Standards. Methods for Dilution \nAntimicrobial Susceptibility Tests for Bacteria that Grow Aerobically: Approved \nStandard M7-A6. NCCLS, Wayne, PA, USA, 2003. (s) \nOjikan-Odeke. M.Med. dissertation on hand infections in Uganda.1978; 19-40. (s) \nOlaro .C. M.Med Surgery dissertation on study to assess risk factors for Postoperative \nComplication following abdominal Surgery in Mulago hospital.1999;1-3. (s) \nPerl TM, Cullen JJ, Wenzel RP, et al. Intranasal mupirocin to prevent postoperative \nStaphylococcus aureus infections. N Engl J Med 2002;346: 1871-1877. (s) \nRodriguez W and Khan W. Staphylococcal susceptibility to penicillin G: The changing \npattern among community isolates. JAMA 1974; (s) \nSaxen S, Singh K. and Talwar V. Methicillin Resistance Staphylococcus aureus \nprevalence in Community in East Delhi area.Jpn.J. Infect. Dis; 56, 54-56, 2003. (s) \nVerhoef J, Blok H, Baars A, et al. A Dutch Approach to Methicillin-Resistant \nStaphylococcuc \naureus. \nEur.J.Clin.Microbiol.Infect.Dis \n1999; \n18: \n461. \nhttp://www.mrsaremedies.org/statistics.html (s) \n",
+   "n_chars": 1567,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      542.9,
+      85.7
+     ],
+     "text": "Murray PR, Baron EJ, Jorgensen JM et al.eds. Staphylococci, Micrococcus and other \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      95.9,
+      542.8,
+      109.5
+     ],
+     "text": "catalase-positive cocci that grows aerobically. Manual of Clinical Microbiology, 8th edn. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      119.8,
+      246.9,
+      133.4
+     ],
+     "text": "Washington: 2003; 384-404. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      157.6,
+      542.9,
+      171.2
+     ],
+     "text": "Nakiboneka. Bachelor of Biomedical Laboratory Technology dissertation on the \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      181.5,
+      542.9,
+      195.1
+     ],
+     "text": "Prevalence of aerobic bacterial pathogenesis that causes sepsis in wounds of patients \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      205.4,
+      533.4,
+      219.0
+     ],
+     "text": "admitted in New Mulago hospital and their drug susceptibility patterns. 2005.2-30. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      243.2,
+      542.8,
+      256.8
+     ],
+     "text": "National Committee for Clinical Laboratory Standards. Methods for Dilution \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      267.0,
+      542.9,
+      280.7
+     ],
+     "text": "Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically: Approved \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      291.0,
+      356.4,
+      304.6
+     ],
+     "text": "Standard M7-A6. NCCLS, Wayne, PA, USA, 2003. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      328.8,
+      507.0,
+      342.5
+     ],
+     "text": "Ojikan-Odeke. M.Med. dissertation on hand infections in Uganda.1978; 19-40. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      366.6,
+      542.8,
+      380.3
+     ],
+     "text": "Olaro .C. M.Med Surgery dissertation on study to assess risk factors for Postoperative \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      390.6,
+      473.2,
+      404.2
+     ],
+     "text": "Complication following abdominal Surgery in Mulago hospital.1999;1-3. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      428.4,
+      542.8,
+      442.0
+     ],
+     "text": "Perl TM, Cullen JJ, Wenzel RP, et al. Intranasal mupirocin to prevent postoperative \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      452.3,
+      463.0,
+      465.9
+     ],
+     "text": "Staphylococcus aureus infections. N Engl J Med 2002;346: 1871-1877. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      490.1,
+      542.9,
+      503.7
+     ],
+     "text": "Rodriguez W and Khan W. Staphylococcal susceptibility to penicillin G: The changing \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      514.0,
+      347.3,
+      527.6
+     ],
+     "text": "pattern among community isolates. JAMA 1974; (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      551.8,
+      542.8,
+      565.4
+     ],
+     "text": "Saxen S, Singh K. and Talwar V. Methicillin Resistance Staphylococcus aureus \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      575.7,
+      513.3,
+      589.4
+     ],
+     "text": "prevalence in Community in East Delhi area.Jpn.J. Infect. Dis; 56, 54-56, 2003. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      613.5,
+      542.9,
+      627.2
+     ],
+     "text": "Verhoef J, Blok H, Baars A, et al. A Dutch Approach to Methicillin-Resistant \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      637.4,
+      542.9,
+      651.0
+     ],
+     "text": "Staphylococcuc \naureus. \nEur.J.Clin.Microbiol.Infect.Dis \n1999; \n18: \n461. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      661.3,
+      335.3,
+      674.9
+     ],
+     "text": "http://www.mrsaremedies.org/statistics.html (s) \n"
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "text": "Ziras W. Bachelor of Biomedical Laboratory Technology dissertation on the bacteriology \nof elective surgical sites of removal of original dressing at Mulago hospital. 2002. (s) \nSwierzewski, J.S. (2008) MRSA Infection; Causes and Risk Factors, Signs and \nSymptoms. accessed by 30th January 2008. http://www.healthinfochannel.com/mrsa-\ninfection/causes-symptoms.shtml (s) \nTenover FC, Gaynes RP. The epidemiology of Staphylococcus infections. In: Fischetti \nVA, Novick RP, Ferretti JJ, Portnoy DA, Rood JL, eds. Gram-Positive Pathogens. \nWashington, DC: American Society for Microbiology, 2000:414–421. (s) \nRastegar L. A.R., Alaghehbandan R., Akhlaghi L (2005). Burn wound infections and \nantimicrobial resistance in tehran, Iran: an increasing problem. Annals of Burns and \nFire Disasters – 18 (2) (s) \nSakoulas G, Gold HS, Venkataraman L, Degirolami PC, Eliopoulos GM, Qian Q. (2001). \nMethicillin-resistant Staphylococcus aureus: Comparison of susceptibility testing \nmethods and analysis of Meca-positive susceptible strains. Journal of Clinical \nMicrobiology 39, (11): 3946–3951 (s) \n \nThis article was last modified on Thu, 25 Jun 09 18:44:24 -0500 \nThis page was generated on Tue, 04 Aug 09 14:46:07 -0500, and may be cached. \n \nView publication stats\n",
+   "n_chars": 1258,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      542.8,
+      85.7
+     ],
+     "text": "Ziras W. Bachelor of Biomedical Laboratory Technology dissertation on the bacteriology \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      96.0,
+      519.6,
+      109.6
+     ],
+     "text": "of elective surgical sites of removal of original dressing at Mulago hospital. 2002. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      133.8,
+      542.9,
+      147.4
+     ],
+     "text": "Swierzewski, J.S. (2008) MRSA Infection; Causes and Risk Factors, Signs and \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      157.6,
+      540.0,
+      171.2
+     ],
+     "text": "Symptoms. accessed by 30th January 2008. http://www.healthinfochannel.com/mrsa-\n"
+    },
+    {
+     "bbox": [
+      72.0,
+      181.5,
+      272.0,
+      195.2
+     ],
+     "text": "infection/causes-symptoms.shtml (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      219.3,
+      542.9,
+      233.0
+     ],
+     "text": "Tenover FC, Gaynes RP. The epidemiology of Staphylococcus infections. In: Fischetti \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      243.2,
+      542.9,
+      256.8
+     ],
+     "text": "VA, Novick RP, Ferretti JJ, Portnoy DA, Rood JL, eds. Gram-Positive Pathogens. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      267.1,
+      456.3,
+      280.7
+     ],
+     "text": "Washington, DC: American Society for Microbiology, 2000:414–421. (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      304.9,
+      542.9,
+      318.5
+     ],
+     "text": "Rastegar L. A.R., Alaghehbandan R., Akhlaghi L (2005). Burn wound infections and \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      328.8,
+      542.9,
+      342.4
+     ],
+     "text": "antimicrobial resistance in tehran, Iran: an increasing problem. Annals of Burns and \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      352.7,
+      209.7,
+      366.3
+     ],
+     "text": "Fire Disasters – 18 (2) (s) \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      390.5,
+      542.9,
+      404.1
+     ],
+     "text": "Sakoulas G, Gold HS, Venkataraman L, Degirolami PC, Eliopoulos GM, Qian Q. (2001). \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      414.4,
+      542.9,
+      428.0
+     ],
+     "text": "Methicillin-resistant Staphylococcus aureus: Comparison of susceptibility testing \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      438.2,
+      542.8,
+      451.8
+     ],
+     "text": "methods and analysis of Meca-positive susceptible strains. Journal of Clinical \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      462.2,
+      270.1,
+      475.8
+     ],
+     "text": "Microbiology 39, (11): 3946–3951 (s) \n"
+    },
+    {
+     "bbox": [
+      540.0,
+      502.5,
+      542.9,
+      516.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      537.9,
+      414.8,
+      551.5
+     ],
+     "text": "This article was last modified on Thu, 25 Jun 09 18:44:24 -0500 \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      575.7,
+      499.8,
+      589.4
+     ],
+     "text": "This page was generated on Tue, 04 Aug 09 14:46:07 -0500, and may be cached. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      613.9,
+      75.0,
+      627.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      50.0,
+      782.7,
+      88.5,
+      788.2
+     ],
+     "text": "View publication stats\n"
+    }
+   ]
+  }
+ ]
+}

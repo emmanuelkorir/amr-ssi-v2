@@ -1,0 +1,742 @@
+{
+ "doc_id": "protocol",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/protocol.docx",
+ "sha256": "5dbf15d83c604c3e7c1c396dd92bbbeb0fd075e6042bd60505ad0c64013220d6",
+ "document_type": "docx",
+ "n_pages": null,
+ "extracted_at_utc": "2026-10-20T18:17:56+00:00",
+ "extraction_method": "python-docx paragraphs + tables",
+ "pages": [
+  {
+   "page": 1,
+   "text": "Burden and Antimicrobial Resistance Patterns of Surgical Site Infections in East, Central, and Southern Africa: A Systematic Review and Meta-analysis\nRationale for the review\nThe review is being undertaken to provide a more focused assessment of the burden of surgical site infections (SSIs) and antimicrobial resistance (AMR) patterns in East, Central, and Southern Africa (ECSA). This review will search the evidence comprehensively, including African regional databases (African Journals Online, ECAJS, WHO Global Index Medicus etc) and will focus specifically on burden and AMR patterns. It may add to existing knowledge by providing current pooled estimates of SSI incidence/prevalence and priority AMR patterns, while exmaining variation by wound contamination class, surgical speciality, hospital level, and country/sub-region. It will also summarize reported clinical and economic outcomes and contextual drivers of AMR, helping to identify regional evidence gaps and differences in the burden of SSI and resistance across ECSA.\nReview objectives\nWhat is the pooled incidence of surgical site infections (SSIs) among patients undergoing surgical procedures in East, Central, and Southern Africa (ECSA), and how does it vary by wound contamination class, surgical specialty, hospital level, and country/sub-region?\nWhat is the pooled prevalence of antimicrobial resistance among pathogens isolated from SSIs in ECSA, for priority pathogen and antibiotic combinations (methicillin-resistant Staphylococcus aureus; third-generation cephalosporin/ESBL resistance in E. coli and Klebsiella spp.; carbapenem resistance in Acinetobacter baumannii and Pseudomonas aeruginosa)?\nWhat clinical outcomes (mortality, length of stay, readmission) and economic outcomes (provider and out-of-pocket costs) have been reported in association with SSI and AMR in ECSA, and how complete/comparable is this evidence?\nWhat drivers of AMR in SSIs (e.g., inappropriate surgical antimicrobial prophylaxis, diagnostic capacity, infection prevention and control infrastructure) are described in the descriptive/observational literature from this region?\nELIGIBILITY CRITERIA\nPopulation\nIncluded\nPatients undergoing surgical procedures in East, Central, and Southern Africa (ECSA)\nIntervention(s) or exposure(s)\nIncluded\nAntibiotic Prophylaxis; Antibiotic Therapy; Antibiotics\nThe \"exposure\" of interest is (a) having undergone a surgical procedure, for the SSI-incidence question, and (b) having a microbiologically confirmed SSI with pathogen isolation and antimicrobial susceptibility testing, for the AMR-prevalence question.\nComparator(s) or control(s)\nThis review does not have any comparators\nStudy design\nOnly randomized study types will be included.\nIncluded\nRandomized controlled studies\nNon-randomized studies: case-control studies, cohort, and cross-sectional studies\nExcluded\nCase reports and small case series (n < 10), editorials, expert opinions, animal or in vitro studies\nContext\nHospitals and surgical care settings in East, Central, and Southern African countries\nSEARCHING AND SCREENING\nSearch for unpublished studies\nOnly published studies will be sought.\nMain sources that will be searched\nThe main sources to be searched are CENTRAL - Cochrane Central Register of Controlled Trials, Embase, MEDLINE, PubMed and Scopus.\nOther sources that will be searched\nAJOL\nWHO GLOBAL INDEX MEDICUS/AFRICAN INDEX MEDICUS\nECAJS\nSearch language restrictions\nThe review will only include studies published in English.\nSearch date restrictions\nDatabases will be searched for articles published from 1 January 2011, there are no search end date restrictions.\nOther methods of identifying studies\nOther studies will be identified by: contacting authors or experts and looking through all the articles that cite the papers included in the review (\"snowballing\" or forward citation searching).\nLink to search strategy\nA full search strategy is available in the full protocol as described in the Availability of full protocol section\nSelection process\nStudies will be screened independently by at least two people (or person/machine combination) with a process to resolve differences.\nOther relevant information about searching and screening\nNone\nDATA COLLECTION PROCESS\nData extraction from published articles and reports\nData will be extracted independently by at least two people (or person/machine combination) with a process to resolve differences.\nAuthors will be asked to provide any required data not available in published reports.\nStudy datasets/IPD will be obtained from study investigators or via a data repository\nStudy risk of bias or quality assessment\nRisk of bias will be assessed using: Cochrane RoB-2 and ROBINS-I\nData will be assessed independently by at least two people (or person/machine combination) with a process to resolve differences.\nAdditional information will be sought from study investigators if required information is unclear or unavailable in the study publications/reports.\nReporting bias assessment\nRisk of bias due to missing results will be assessed\nCertainty assessment\nThe GRADE Approach will be used to assess certainty\nOUTCOMES TO BE ANALYSED\nMain outcomes\nPooled incidence/prevalence of SSI (random-effects model), reported with the pooled estimate, 95% CI, prediction interval, and I², and reported by pre-specified subgroup wherever ≥3 studies per subgroup are available.\nPooled prevalence of AMR for pre-specified priority pathogens and antibiotic combinations (MRSA; third-generation cephalosporin/ESBL resistance in E. coli and Klebsiella spp.).\nAdditional outcomes\nMortality, length of hospital stay, and 30-day readmission associated with SSI/AMR — narrative synthesis by default; pooled only if ≥3 studies share a comparable outcome definition (e.g., in-hospital vs. 30-day all-cause mortality kept separate rather than combined).\nDirect provider costs and patient out-of-pocket costs associated with SSI/AMR. A narrative synthesis given the anticipated scarcity of data\nDescriptive/thematic synthesis of reported drivers of AMR (inappropriate surgical antimicrobial prophylaxis, diagnostic capacity, IPC infrastructure, governance/surveillance gaps)\nPre-specified subgroup analyses (where data allow, generally ≥3 studies per subgroup) for both primary outcomes:\nSurgical wound contamination class (CDC classification)\nSurgical specialty (general, obstetrics/gynaecology, orthopaedic, other)\nHospital level (tertiary vs. secondary/primary)\nCountry / ECSA sub-region (East, Central, Southern Africa)\nStudy design (cohort vs. cross-sectional vs. RCT)\nPublication period (to explore whether resistance prevalence has changed over the 15-year window)\nPLANNED DATA SYNTHESIS\nStrategy for data synthesis\nThis study will be conducted in line with the PRISMA guidelines. Key study characteristics such as year, country, facility level, design, and outcome metrics will be extracted into a standardized data-extraction sheet. Random-effects meta-analysis for the primary outcomes.Heterogeneity will be evaluated using the Cochran Q test and I² statistics. Publication bias assessed via funnel plot and Egger's/Begg's tests where ≥10 studies contribute to an outcome.\nGRADE assessment of certainty of evidence for both primary outcomes.",
+   "n_chars": 7261,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": null,
+     "text": "Burden and Antimicrobial Resistance Patterns of Surgical Site Infections in East, Central, and Southern Africa: A Systematic Review and Meta-analysis"
+    },
+    {
+     "bbox": null,
+     "text": "Rationale for the review"
+    },
+    {
+     "bbox": null,
+     "text": "The review is being undertaken to provide a more focused assessment of the burden of surgical site infections (SSIs) and antimicrobial resistance (AMR) patterns in East, Central, and Southern Africa (ECSA). This review will search the evidence comprehensively, including African regional databases (African Journals Online, ECAJS, WHO Global Index Medicus etc) and will focus specifically on burden and AMR patterns. It may add to existing knowledge by providing current pooled estimates of SSI incidence/prevalence and priority AMR patterns, while exmaining variation by wound contamination class, surgical speciality, hospital level, and country/sub-region. It will also summarize reported clinical and economic outcomes and contextual drivers of AMR, helping to identify regional evidence gaps and differences in the burden of SSI and resistance across ECSA."
+    },
+    {
+     "bbox": null,
+     "text": "Review objectives"
+    },
+    {
+     "bbox": null,
+     "text": "What is the pooled incidence of surgical site infections (SSIs) among patients undergoing surgical procedures in East, Central, and Southern Africa (ECSA), and how does it vary by wound contamination class, surgical specialty, hospital level, and country/sub-region?"
+    },
+    {
+     "bbox": null,
+     "text": "What is the pooled prevalence of antimicrobial resistance among pathogens isolated from SSIs in ECSA, for priority pathogen and antibiotic combinations (methicillin-resistant Staphylococcus aureus; third-generation cephalosporin/ESBL resistance in E. coli and Klebsiella spp.; carbapenem resistance in Acinetobacter baumannii and Pseudomonas aeruginosa)?"
+    },
+    {
+     "bbox": null,
+     "text": "What clinical outcomes (mortality, length of stay, readmission) and economic outcomes (provider and out-of-pocket costs) have been reported in association with SSI and AMR in ECSA, and how complete/comparable is this evidence?"
+    },
+    {
+     "bbox": null,
+     "text": "What drivers of AMR in SSIs (e.g., inappropriate surgical antimicrobial prophylaxis, diagnostic capacity, infection prevention and control infrastructure) are described in the descriptive/observational literature from this region?"
+    },
+    {
+     "bbox": null,
+     "text": "ELIGIBILITY CRITERIA"
+    },
+    {
+     "bbox": null,
+     "text": "Population"
+    },
+    {
+     "bbox": null,
+     "text": "Included"
+    },
+    {
+     "bbox": null,
+     "text": "Patients undergoing surgical procedures in East, Central, and Southern Africa (ECSA)"
+    },
+    {
+     "bbox": null,
+     "text": "Intervention(s) or exposure(s)"
+    },
+    {
+     "bbox": null,
+     "text": "Included"
+    },
+    {
+     "bbox": null,
+     "text": "Antibiotic Prophylaxis; Antibiotic Therapy; Antibiotics"
+    },
+    {
+     "bbox": null,
+     "text": "The \"exposure\" of interest is (a) having undergone a surgical procedure, for the SSI-incidence question, and (b) having a microbiologically confirmed SSI with pathogen isolation and antimicrobial susceptibility testing, for the AMR-prevalence question."
+    },
+    {
+     "bbox": null,
+     "text": "Comparator(s) or control(s)"
+    },
+    {
+     "bbox": null,
+     "text": "This review does not have any comparators"
+    },
+    {
+     "bbox": null,
+     "text": "Study design"
+    },
+    {
+     "bbox": null,
+     "text": "Only randomized study types will be included."
+    },
+    {
+     "bbox": null,
+     "text": "Included"
+    },
+    {
+     "bbox": null,
+     "text": "Randomized controlled studies"
+    },
+    {
+     "bbox": null,
+     "text": "Non-randomized studies: case-control studies, cohort, and cross-sectional studies"
+    },
+    {
+     "bbox": null,
+     "text": "Excluded"
+    },
+    {
+     "bbox": null,
+     "text": "Case reports and small case series (n < 10), editorials, expert opinions, animal or in vitro studies"
+    },
+    {
+     "bbox": null,
+     "text": "Context"
+    },
+    {
+     "bbox": null,
+     "text": "Hospitals and surgical care settings in East, Central, and Southern African countries"
+    },
+    {
+     "bbox": null,
+     "text": "SEARCHING AND SCREENING"
+    },
+    {
+     "bbox": null,
+     "text": "Search for unpublished studies"
+    },
+    {
+     "bbox": null,
+     "text": "Only published studies will be sought."
+    },
+    {
+     "bbox": null,
+     "text": "Main sources that will be searched"
+    },
+    {
+     "bbox": null,
+     "text": "The main sources to be searched are CENTRAL - Cochrane Central Register of Controlled Trials, Embase, MEDLINE, PubMed and Scopus."
+    },
+    {
+     "bbox": null,
+     "text": "Other sources that will be searched"
+    },
+    {
+     "bbox": null,
+     "text": "AJOL"
+    },
+    {
+     "bbox": null,
+     "text": "WHO GLOBAL INDEX MEDICUS/AFRICAN INDEX MEDICUS"
+    },
+    {
+     "bbox": null,
+     "text": "ECAJS"
+    },
+    {
+     "bbox": null,
+     "text": "Search language restrictions"
+    },
+    {
+     "bbox": null,
+     "text": "The review will only include studies published in English."
+    },
+    {
+     "bbox": null,
+     "text": "Search date restrictions"
+    },
+    {
+     "bbox": null,
+     "text": "Databases will be searched for articles published from 1 January 2011, there are no search end date restrictions."
+    },
+    {
+     "bbox": null,
+     "text": "Other methods of identifying studies"
+    },
+    {
+     "bbox": null,
+     "text": "Other studies will be identified by: contacting authors or experts and looking through all the articles that cite the papers included in the review (\"snowballing\" or forward citation searching)."
+    },
+    {
+     "bbox": null,
+     "text": "Link to search strategy"
+    },
+    {
+     "bbox": null,
+     "text": "A full search strategy is available in the full protocol as described in the Availability of full protocol section"
+    },
+    {
+     "bbox": null,
+     "text": "Selection process"
+    },
+    {
+     "bbox": null,
+     "text": "Studies will be screened independently by at least two people (or person/machine combination) with a process to resolve differences."
+    },
+    {
+     "bbox": null,
+     "text": "Other relevant information about searching and screening"
+    },
+    {
+     "bbox": null,
+     "text": "None"
+    },
+    {
+     "bbox": null,
+     "text": "DATA COLLECTION PROCESS"
+    },
+    {
+     "bbox": null,
+     "text": "Data extraction from published articles and reports"
+    },
+    {
+     "bbox": null,
+     "text": "Data will be extracted independently by at least two people (or person/machine combination) with a process to resolve differences."
+    },
+    {
+     "bbox": null,
+     "text": "Authors will be asked to provide any required data not available in published reports."
+    },
+    {
+     "bbox": null,
+     "text": "Study datasets/IPD will be obtained from study investigators or via a data repository"
+    },
+    {
+     "bbox": null,
+     "text": "Study risk of bias or quality assessment"
+    },
+    {
+     "bbox": null,
+     "text": "Risk of bias will be assessed using: Cochrane RoB-2 and ROBINS-I"
+    },
+    {
+     "bbox": null,
+     "text": "Data will be assessed independently by at least two people (or person/machine combination) with a process to resolve differences."
+    },
+    {
+     "bbox": null,
+     "text": "Additional information will be sought from study investigators if required information is unclear or unavailable in the study publications/reports."
+    },
+    {
+     "bbox": null,
+     "text": "Reporting bias assessment"
+    },
+    {
+     "bbox": null,
+     "text": "Risk of bias due to missing results will be assessed"
+    },
+    {
+     "bbox": null,
+     "text": "Certainty assessment"
+    },
+    {
+     "bbox": null,
+     "text": "The GRADE Approach will be used to assess certainty"
+    },
+    {
+     "bbox": null,
+     "text": "OUTCOMES TO BE ANALYSED"
+    },
+    {
+     "bbox": null,
+     "text": "Main outcomes"
+    },
+    {
+     "bbox": null,
+     "text": "Pooled incidence/prevalence of SSI (random-effects model), reported with the pooled estimate, 95% CI, prediction interval, and I², and reported by pre-specified subgroup wherever ≥3 studies per subgroup are available."
+    },
+    {
+     "bbox": null,
+     "text": "Pooled prevalence of AMR for pre-specified priority pathogens and antibiotic combinations (MRSA; third-generation cephalosporin/ESBL resistance in E. coli and Klebsiella spp.)."
+    },
+    {
+     "bbox": null,
+     "text": "Additional outcomes"
+    },
+    {
+     "bbox": null,
+     "text": "Mortality, length of hospital stay, and 30-day readmission associated with SSI/AMR — narrative synthesis by default; pooled only if ≥3 studies share a comparable outcome definition (e.g., in-hospital vs. 30-day all-cause mortality kept separate rather than combined)."
+    },
+    {
+     "bbox": null,
+     "text": "Direct provider costs and patient out-of-pocket costs associated with SSI/AMR. A narrative synthesis given the anticipated scarcity of data"
+    },
+    {
+     "bbox": null,
+     "text": "Descriptive/thematic synthesis of reported drivers of AMR (inappropriate surgical antimicrobial prophylaxis, diagnostic capacity, IPC infrastructure, governance/surveillance gaps)"
+    },
+    {
+     "bbox": null,
+     "text": "Pre-specified subgroup analyses (where data allow, generally ≥3 studies per subgroup) for both primary outcomes:"
+    },
+    {
+     "bbox": null,
+     "text": "Surgical wound contamination class (CDC classification)"
+    },
+    {
+     "bbox": null,
+     "text": "Surgical specialty (general, obstetrics/gynaecology, orthopaedic, other)"
+    },
+    {
+     "bbox": null,
+     "text": "Hospital level (tertiary vs. secondary/primary)"
+    },
+    {
+     "bbox": null,
+     "text": "Country / ECSA sub-region (East, Central, Southern Africa)"
+    },
+    {
+     "bbox": null,
+     "text": "Study design (cohort vs. cross-sectional vs. RCT)"
+    },
+    {
+     "bbox": null,
+     "text": "Publication period (to explore whether resistance prevalence has changed over the 15-year window)"
+    },
+    {
+     "bbox": null,
+     "text": "PLANNED DATA SYNTHESIS"
+    },
+    {
+     "bbox": null,
+     "text": "Strategy for data synthesis"
+    },
+    {
+     "bbox": null,
+     "text": "This study will be conducted in line with the PRISMA guidelines. Key study characteristics such as year, country, facility level, design, and outcome metrics will be extracted into a standardized data-extraction sheet. Random-effects meta-analysis for the primary outcomes.Heterogeneity will be evaluated using the Cochran Q test and I² statistics. Publication bias assessed via funnel plot and Egger's/Begg's tests where ≥10 studies contribute to an outcome."
+    },
+    {
+     "bbox": null,
+     "text": "GRADE assessment of certainty of evidence for both primary outcomes."
+    }
+   ]
+  }
+ ],
+ "paragraphs": [
+  {
+   "para": 1,
+   "style": "Title",
+   "text": "Burden and Antimicrobial Resistance Patterns of Surgical Site Infections in East, Central, and Southern Africa: A Systematic Review and Meta-analysis"
+  },
+  {
+   "para": 6,
+   "style": "Heading 1",
+   "text": "Rationale for the review"
+  },
+  {
+   "para": 7,
+   "style": "normal",
+   "text": "The review is being undertaken to provide a more focused assessment of the burden of surgical site infections (SSIs) and antimicrobial resistance (AMR) patterns in East, Central, and Southern Africa (ECSA). This review will search the evidence comprehensively, including African regional databases (African Journals Online, ECAJS, WHO Global Index Medicus etc) and will focus specifically on burden and AMR patterns. It may add to existing knowledge by providing current pooled estimates of SSI incidence/prevalence and priority AMR patterns, while exmaining variation by wound contamination class, surgical speciality, hospital level, and country/sub-region. It will also summarize reported clinical and economic outcomes and contextual drivers of AMR, helping to identify regional evidence gaps and differences in the burden of SSI and resistance across ECSA."
+  },
+  {
+   "para": 9,
+   "style": "Heading 1",
+   "text": "Review objectives"
+  },
+  {
+   "para": 10,
+   "style": "normal",
+   "text": "What is the pooled incidence of surgical site infections (SSIs) among patients undergoing surgical procedures in East, Central, and Southern Africa (ECSA), and how does it vary by wound contamination class, surgical specialty, hospital level, and country/sub-region?"
+  },
+  {
+   "para": 11,
+   "style": "normal",
+   "text": "What is the pooled prevalence of antimicrobial resistance among pathogens isolated from SSIs in ECSA, for priority pathogen and antibiotic combinations (methicillin-resistant Staphylococcus aureus; third-generation cephalosporin/ESBL resistance in E. coli and Klebsiella spp.; carbapenem resistance in Acinetobacter baumannii and Pseudomonas aeruginosa)?"
+  },
+  {
+   "para": 12,
+   "style": "normal",
+   "text": "What clinical outcomes (mortality, length of stay, readmission) and economic outcomes (provider and out-of-pocket costs) have been reported in association with SSI and AMR in ECSA, and how complete/comparable is this evidence?"
+  },
+  {
+   "para": 13,
+   "style": "normal",
+   "text": "What drivers of AMR in SSIs (e.g., inappropriate surgical antimicrobial prophylaxis, diagnostic capacity, infection prevention and control infrastructure) are described in the descriptive/observational literature from this region?"
+  },
+  {
+   "para": 16,
+   "style": "Heading 1",
+   "text": "ELIGIBILITY CRITERIA"
+  },
+  {
+   "para": 17,
+   "style": "Heading 2",
+   "text": "Population"
+  },
+  {
+   "para": 18,
+   "style": "normal",
+   "text": "Included"
+  },
+  {
+   "para": 19,
+   "style": "normal",
+   "text": "Patients undergoing surgical procedures in East, Central, and Southern Africa (ECSA)"
+  },
+  {
+   "para": 20,
+   "style": "Heading 2",
+   "text": "Intervention(s) or exposure(s)"
+  },
+  {
+   "para": 21,
+   "style": "normal",
+   "text": "Included"
+  },
+  {
+   "para": 22,
+   "style": "normal",
+   "text": "Antibiotic Prophylaxis; Antibiotic Therapy; Antibiotics"
+  },
+  {
+   "para": 24,
+   "style": "normal",
+   "text": "The \"exposure\" of interest is (a) having undergone a surgical procedure, for the SSI-incidence question, and (b) having a microbiologically confirmed SSI with pathogen isolation and antimicrobial susceptibility testing, for the AMR-prevalence question."
+  },
+  {
+   "para": 25,
+   "style": "Heading 2",
+   "text": "Comparator(s) or control(s)"
+  },
+  {
+   "para": 26,
+   "style": "normal",
+   "text": "This review does not have any comparators"
+  },
+  {
+   "para": 27,
+   "style": "Heading 2",
+   "text": "Study design"
+  },
+  {
+   "para": 28,
+   "style": "normal",
+   "text": "Only randomized study types will be included."
+  },
+  {
+   "para": 30,
+   "style": "Heading 3",
+   "text": "Included"
+  },
+  {
+   "para": 31,
+   "style": "normal",
+   "text": "Randomized controlled studies"
+  },
+  {
+   "para": 33,
+   "style": "normal",
+   "text": "Non-randomized studies: case-control studies, cohort, and cross-sectional studies"
+  },
+  {
+   "para": 34,
+   "style": "Heading 3",
+   "text": "Excluded"
+  },
+  {
+   "para": 35,
+   "style": "normal",
+   "text": "Case reports and small case series (n < 10), editorials, expert opinions, animal or in vitro studies"
+  },
+  {
+   "para": 36,
+   "style": "Heading 3",
+   "text": "Context"
+  },
+  {
+   "para": 37,
+   "style": "normal",
+   "text": "Hospitals and surgical care settings in East, Central, and Southern African countries"
+  },
+  {
+   "para": 41,
+   "style": "Heading 2",
+   "text": "SEARCHING AND SCREENING"
+  },
+  {
+   "para": 42,
+   "style": "normal",
+   "text": "Search for unpublished studies"
+  },
+  {
+   "para": 43,
+   "style": "normal",
+   "text": "Only published studies will be sought."
+  },
+  {
+   "para": 45,
+   "style": "normal",
+   "text": "Main sources that will be searched"
+  },
+  {
+   "para": 46,
+   "style": "normal",
+   "text": "The main sources to be searched are CENTRAL - Cochrane Central Register of Controlled Trials, Embase, MEDLINE, PubMed and Scopus."
+  },
+  {
+   "para": 48,
+   "style": "normal",
+   "text": "Other sources that will be searched"
+  },
+  {
+   "para": 49,
+   "style": "normal",
+   "text": "AJOL"
+  },
+  {
+   "para": 50,
+   "style": "normal",
+   "text": "WHO GLOBAL INDEX MEDICUS/AFRICAN INDEX MEDICUS"
+  },
+  {
+   "para": 51,
+   "style": "normal",
+   "text": "ECAJS"
+  },
+  {
+   "para": 52,
+   "style": "normal",
+   "text": "Search language restrictions"
+  },
+  {
+   "para": 53,
+   "style": "normal",
+   "text": "The review will only include studies published in English."
+  },
+  {
+   "para": 55,
+   "style": "Heading 3",
+   "text": "Search date restrictions"
+  },
+  {
+   "para": 56,
+   "style": "normal",
+   "text": "Databases will be searched for articles published from 1 January 2011, there are no search end date restrictions."
+  },
+  {
+   "para": 58,
+   "style": "normal",
+   "text": "Other methods of identifying studies"
+  },
+  {
+   "para": 59,
+   "style": "normal",
+   "text": "Other studies will be identified by: contacting authors or experts and looking through all the articles that cite the papers included in the review (\"snowballing\" or forward citation searching)."
+  },
+  {
+   "para": 61,
+   "style": "normal",
+   "text": "Link to search strategy"
+  },
+  {
+   "para": 62,
+   "style": "normal",
+   "text": "A full search strategy is available in the full protocol as described in the Availability of full protocol section"
+  },
+  {
+   "para": 64,
+   "style": "normal",
+   "text": "Selection process"
+  },
+  {
+   "para": 65,
+   "style": "normal",
+   "text": "Studies will be screened independently by at least two people (or person/machine combination) with a process to resolve differences."
+  },
+  {
+   "para": 67,
+   "style": "normal",
+   "text": "Other relevant information about searching and screening"
+  },
+  {
+   "para": 68,
+   "style": "normal",
+   "text": "None"
+  },
+  {
+   "para": 69,
+   "style": "Heading 2",
+   "text": "DATA COLLECTION PROCESS"
+  },
+  {
+   "para": 70,
+   "style": "normal",
+   "text": "Data extraction from published articles and reports"
+  },
+  {
+   "para": 71,
+   "style": "normal",
+   "text": "Data will be extracted independently by at least two people (or person/machine combination) with a process to resolve differences."
+  },
+  {
+   "para": 73,
+   "style": "normal",
+   "text": "Authors will be asked to provide any required data not available in published reports."
+  },
+  {
+   "para": 75,
+   "style": "normal",
+   "text": "Study datasets/IPD will be obtained from study investigators or via a data repository"
+  },
+  {
+   "para": 77,
+   "style": "normal",
+   "text": "Study risk of bias or quality assessment"
+  },
+  {
+   "para": 78,
+   "style": "normal",
+   "text": "Risk of bias will be assessed using: Cochrane RoB-2 and ROBINS-I"
+  },
+  {
+   "para": 80,
+   "style": "normal",
+   "text": "Data will be assessed independently by at least two people (or person/machine combination) with a process to resolve differences."
+  },
+  {
+   "para": 82,
+   "style": "normal",
+   "text": "Additional information will be sought from study investigators if required information is unclear or unavailable in the study publications/reports."
+  },
+  {
+   "para": 84,
+   "style": "normal",
+   "text": "Reporting bias assessment"
+  },
+  {
+   "para": 85,
+   "style": "normal",
+   "text": "Risk of bias due to missing results will be assessed"
+  },
+  {
+   "para": 87,
+   "style": "normal",
+   "text": "Certainty assessment"
+  },
+  {
+   "para": 88,
+   "style": "normal",
+   "text": "The GRADE Approach will be used to assess certainty"
+  },
+  {
+   "para": 89,
+   "style": "Heading 2",
+   "text": "OUTCOMES TO BE ANALYSED"
+  },
+  {
+   "para": 90,
+   "style": "Heading 3",
+   "text": "Main outcomes"
+  },
+  {
+   "para": 91,
+   "style": "normal",
+   "text": "Pooled incidence/prevalence of SSI (random-effects model), reported with the pooled estimate, 95% CI, prediction interval, and I², and reported by pre-specified subgroup wherever ≥3 studies per subgroup are available."
+  },
+  {
+   "para": 92,
+   "style": "normal",
+   "text": "Pooled prevalence of AMR for pre-specified priority pathogens and antibiotic combinations (MRSA; third-generation cephalosporin/ESBL resistance in E. coli and Klebsiella spp.)."
+  },
+  {
+   "para": 93,
+   "style": "normal",
+   "text": "Additional outcomes"
+  },
+  {
+   "para": 94,
+   "style": "normal",
+   "text": "Mortality, length of hospital stay, and 30-day readmission associated with SSI/AMR — narrative synthesis by default; pooled only if ≥3 studies share a comparable outcome definition (e.g., in-hospital vs. 30-day all-cause mortality kept separate rather than combined)."
+  },
+  {
+   "para": 95,
+   "style": "normal",
+   "text": "Direct provider costs and patient out-of-pocket costs associated with SSI/AMR. A narrative synthesis given the anticipated scarcity of data"
+  },
+  {
+   "para": 96,
+   "style": "normal",
+   "text": "Descriptive/thematic synthesis of reported drivers of AMR (inappropriate surgical antimicrobial prophylaxis, diagnostic capacity, IPC infrastructure, governance/surveillance gaps)"
+  },
+  {
+   "para": 97,
+   "style": "normal",
+   "text": "Pre-specified subgroup analyses (where data allow, generally ≥3 studies per subgroup) for both primary outcomes:"
+  },
+  {
+   "para": 98,
+   "style": "normal",
+   "text": "Surgical wound contamination class (CDC classification)"
+  },
+  {
+   "para": 99,
+   "style": "normal",
+   "text": "Surgical specialty (general, obstetrics/gynaecology, orthopaedic, other)"
+  },
+  {
+   "para": 100,
+   "style": "normal",
+   "text": "Hospital level (tertiary vs. secondary/primary)"
+  },
+  {
+   "para": 101,
+   "style": "normal",
+   "text": "Country / ECSA sub-region (East, Central, Southern Africa)"
+  },
+  {
+   "para": 102,
+   "style": "normal",
+   "text": "Study design (cohort vs. cross-sectional vs. RCT)"
+  },
+  {
+   "para": 103,
+   "style": "normal",
+   "text": "Publication period (to explore whether resistance prevalence has changed over the 15-year window)"
+  },
+  {
+   "para": 105,
+   "style": "Heading 2",
+   "text": "PLANNED DATA SYNTHESIS"
+  },
+  {
+   "para": 106,
+   "style": "Heading 3",
+   "text": "Strategy for data synthesis"
+  },
+  {
+   "para": 107,
+   "style": "normal",
+   "text": "This study will be conducted in line with the PRISMA guidelines. Key study characteristics such as year, country, facility level, design, and outcome metrics will be extracted into a standardized data-extraction sheet. Random-effects meta-analysis for the primary outcomes.Heterogeneity will be evaluated using the Cochran Q test and I² statistics. Publication bias assessed via funnel plot and Egger's/Begg's tests where ≥10 studies contribute to an outcome."
+  },
+  {
+   "para": 108,
+   "style": "normal",
+   "text": "GRADE assessment of certainty of evidence for both primary outcomes."
+  }
+ ],
+ "tables": []
+}

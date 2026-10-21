@@ -1,0 +1,2661 @@
+{
+ "doc_id": "scalability-and-sustainability-of-a-surgical-infection-prevention-program-in-low",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Scalability and Sustainability of a Surgical Infection Prevention Program in Low.pdf",
+ "sha256": "aae080845e94a163e797f29bb61391f32dabc450049e61f4f7cd05dec264ba1b",
+ "document_type": "pdf",
+ "n_pages": 9,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "",
+  "author": "American Medical Association",
+  "subject": "",
+  "keywords": "The JAMA Network",
+  "creator": "XPP",
+  "producer": "; modified using iTextSharp.LGPLv2.Core 3.7.4.0",
+  "creationDate": "D:20240206085003Z00'00'",
+  "modDate": "D:20260909033144+00'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:56+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "Scalability and Sustainability of a Surgical Infection Prevention Program\nin Low-Income Environments\nNichole Starr, MD, MPH; Natnael Gebeyehu, MD; Maia R. Nofal, MD, MPH; Jared A. Forrester, MD;\nAssefa Tesfaye, MD, MPH; Tihitena Negussie Mammo, MD; Thomas G. Weiser, MD, MPH;\nand Lifebox Clean Cut Collaborative\nIMPORTANCE Surgical infections are a major cause of perioperative morbidity and mortality,\nparticularly in low-resource settings. Clean Cut, a 6-month quality improvement program\ndeveloped by the global nonprofit organization Lifebox, has demonstrated improvements in\npostoperative infectious complications. However, the pilot program required intense external\nprogrammatic and resource support.\nOBJECTIVE To examine the improvement in adherence to infection prevention and control\nstandards and rates of postoperative infections in hospitals in the Clean Cut program after\nimplementation strategies were updated and program execution was refined.\nDESIGN, SETTING, AND PARTICIPANTS This cohort study evaluated and refined the Clean Cut\nimplementation strategy to enhance scalability based on a qualitative study of its pilot phase,\nincluding formalizing programmatic and educational materials, building an automated data\nentry and analysis platform, and reorganizing hospital-based team composition. Clean Cut\nwas introduced from January 1, 2019, to February 28, 2022, in 7 Ethiopian hospitals that had\nnot previously participated in the program. Prospective data initiated on arrival in the\noperating room were collected, and patients were followed up through hospital discharge\nand with 30-day follow-up telephone calls.\nEXPOSURE Implementation of the refined Clean Cut program.\nMAIN OUTCOMES AND MEASURES The primary outcome was surgical site infection (SSI);\nsecondary outcomes were adherence to 6 infection prevention standards, mortality, hospital\nlength of stay, and other infectious complications.\nRESULTS A total of 3364 patients (mean [SD] age, 26.5 [38.0] years; 2196 [65.3%] female)\nfrom 7 Ethiopian hospitals were studied (1575 at baseline and 1789 after intervention). After\ncontrolling for confounders, the relative risk of SSIs was reduced by 34.0% after program\nimplementation (relative risk, 0.66; 95% CI, 0.54-0.81; P < .001). Appropriate Surgical Safety\nChecklist use increased from 16.3% to 43.0% (P < .001), surgeon hand and patient skin\nantisepsis improved from 46.0% to 66.0% (P < .001), and timely antibiotic administration\nimproved from 17.8% to 39.0% (P < .001). Surgical instrument (38.7% vs 10.2%), linen\nsterility (35.5% vs 12.8%), and gauze counting (89.2% vs 82.5%; P < .001 for all comparisons)\nalso improved significantly.\nCONCLUSIONS AND RELEVANCE A modified implementation strategy for the Clean Cut\nprogram focusing on reduced external resource and programmatic input from Lifebox,\nstructured education and training materials, and wider hospital engagement resulted in\noutcomes that matched our pilot study, with improved adherence to recognized infection\nprevention standards resulting in a reduction in SSIs. The demonstration of scalability\nreinforces the value of this SSI prevention program.\nJAMA Surg. 2024;159(2):161-169. doi:10.1001/jamasurg.2023.6033\nPublished online November 29, 2023.\nSupplemental content\nAuthor Affiliations: Author\naffiliations are listed at the end of this\narticle.\nGroup Information: The members of\nLifebox Clean Cut Collaborative\nappear at the end of the article.\nCorresponding Author: Nichole\nStarr, MD, MPH, Department of\nSurgery, University of California,\nSan Francisco, 505 Parnassus Ave,\nS-321, San Francisco, CA 94143\n(nichole.starr@ucsf.edu).\nResearch\nJAMA Surgery | Original Investigation\n(Reprinted)\n161\n© 2023 American Medical Association. All rights reserved.\nDownloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n",
+   "n_chars": 3821,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.3,
+      79.0,
+      518.8,
+      110.6
+     ],
+     "text": "Scalability and Sustainability of a Surgical Infection Prevention Program\nin Low-Income Environments\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      123.3,
+      367.8,
+      150.1
+     ],
+     "text": "Nichole Starr, MD, MPH; Natnael Gebeyehu, MD; Maia R. Nofal, MD, MPH; Jared A. Forrester, MD;\nAssefa Tesfaye, MD, MPH; Tihitena Negussie Mammo, MD; Thomas G. Weiser, MD, MPH;\nand Lifebox Clean Cut Collaborative\n"
+    },
+    {
+     "bbox": [
+      84.3,
+      178.2,
+      406.7,
+      231.8
+     ],
+     "text": "IMPORTANCE Surgical infections are a major cause of perioperative morbidity and mortality,\nparticularly in low-resource settings. Clean Cut, a 6-month quality improvement program\ndeveloped by the global nonprofit organization Lifebox, has demonstrated improvements in\npostoperative infectious complications. However, the pilot program required intense external\nprogrammatic and resource support.\n"
+    },
+    {
+     "bbox": [
+      84.3,
+      241.1,
+      394.4,
+      271.7
+     ],
+     "text": "OBJECTIVE To examine the improvement in adherence to infection prevention and control\nstandards and rates of postoperative infections in hospitals in the Clean Cut program after\nimplementation strategies were updated and program execution was refined.\n"
+    },
+    {
+     "bbox": [
+      84.3,
+      281.0,
+      405.1,
+      369.0
+     ],
+     "text": "DESIGN, SETTING, AND PARTICIPANTS This cohort study evaluated and refined the Clean Cut\nimplementation strategy to enhance scalability based on a qualitative study of its pilot phase,\nincluding formalizing programmatic and educational materials, building an automated data\nentry and analysis platform, and reorganizing hospital-based team composition. Clean Cut\nwas introduced from January 1, 2019, to February 28, 2022, in 7 Ethiopian hospitals that had\nnot previously participated in the program. Prospective data initiated on arrival in the\noperating room were collected, and patients were followed up through hospital discharge\nand with 30-day follow-up telephone calls.\n"
+    },
+    {
+     "bbox": [
+      84.3,
+      378.3,
+      296.1,
+      386.0
+     ],
+     "text": "EXPOSURE Implementation of the refined Clean Cut program.\n"
+    },
+    {
+     "bbox": [
+      84.3,
+      395.3,
+      404.7,
+      425.9
+     ],
+     "text": "MAIN OUTCOMES AND MEASURES The primary outcome was surgical site infection (SSI);\nsecondary outcomes were adherence to 6 infection prevention standards, mortality, hospital\nlength of stay, and other infectious complications.\n"
+    },
+    {
+     "bbox": [
+      84.3,
+      435.2,
+      406.6,
+      534.7
+     ],
+     "text": "RESULTS A total of 3364 patients (mean [SD] age, 26.5 [38.0] years; 2196 [65.3%] female)\nfrom 7 Ethiopian hospitals were studied (1575 at baseline and 1789 after intervention). After\ncontrolling for confounders, the relative risk of SSIs was reduced by 34.0% after program\nimplementation (relative risk, 0.66; 95% CI, 0.54-0.81; P < .001). Appropriate Surgical Safety\nChecklist use increased from 16.3% to 43.0% (P < .001), surgeon hand and patient skin\nantisepsis improved from 46.0% to 66.0% (P < .001), and timely antibiotic administration\nimproved from 17.8% to 39.0% (P < .001). Surgical instrument (38.7% vs 10.2%), linen\nsterility (35.5% vs 12.8%), and gauze counting (89.2% vs 82.5%; P < .001 for all comparisons)\nalso improved significantly.\n"
+    },
+    {
+     "bbox": [
+      84.3,
+      543.9,
+      393.3,
+      609.0
+     ],
+     "text": "CONCLUSIONS AND RELEVANCE A modified implementation strategy for the Clean Cut\nprogram focusing on reduced external resource and programmatic input from Lifebox,\nstructured education and training materials, and wider hospital engagement resulted in\noutcomes that matched our pilot study, with improved adherence to recognized infection\nprevention standards resulting in a reduction in SSIs. The demonstration of scalability\nreinforces the value of this SSI prevention program.\n"
+    },
+    {
+     "bbox": [
+      84.3,
+      710.4,
+      273.9,
+      725.7
+     ],
+     "text": "JAMA Surg. 2024;159(2):161-169. doi:10.1001/jamasurg.2023.6033\nPublished online November 29, 2023.\n"
+    },
+    {
+     "bbox": [
+      444.5,
+      166.2,
+      514.6,
+      173.0
+     ],
+     "text": "Supplemental content\n"
+    },
+    {
+     "bbox": [
+      431.5,
+      614.6,
+      538.0,
+      638.9
+     ],
+     "text": "Author Affiliations: Author\naffiliations are listed at the end of this\narticle.\n"
+    },
+    {
+     "bbox": [
+      431.5,
+      644.5,
+      538.0,
+      668.8
+     ],
+     "text": "Group Information: The members of\nLifebox Clean Cut Collaborative\nappear at the end of the article.\n"
+    },
+    {
+     "bbox": [
+      431.5,
+      674.5,
+      528.7,
+      725.7
+     ],
+     "text": "Corresponding Author: Nichole\nStarr, MD, MPH, Department of\nSurgery, University of California,\nSan Francisco, 505 Parnassus Ave,\nS-321, San Francisco, CA 94143\n(nichole.starr@ucsf.edu).\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      32.9,
+      99.4,
+      39.2
+     ],
+     "text": "Research\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      63.4,
+      221.3,
+      71.5
+     ],
+     "text": "JAMA Surgery | Original Investigation\n"
+    },
+    {
+     "bbox": [
+      515.7,
+      747.8,
+      566.2,
+      754.1
+     ],
+     "text": "(Reprinted)\n161\n"
+    },
+    {
+     "bbox": [
+      198.8,
+      761.0,
+      411.9,
+      768.1
+     ],
+     "text": "© 2023 American Medical Association. All rights reserved.\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      274.5,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "S\nurgical site infections (SSIs) are an important qual-\nity metric. They generally occur at a much higher\nrate in low- and middle-income countries (LMICs)1,2\nand represent the most common cause of health\ncare–associated infection in Sub-Saharan Africa.3 A recent\nstudy4 demonstrated that 23% of patients developed\nSSIs after gastrointestinal surgery in low–human develop-\nment index (HDI) settings vs 9% in high-HDI settings. Inequali-\nties in accessing health care resources in Ethiopia continue to\nbe high,5 and estimates of SSI rates in Ethiopia range from 11%\nto 14%6-8 but are typically estimated via patient medical\nrecord review, a strategy known to underestimate SSIs in\nLMICs.9\nSurgical infection prevention and control (IPC) bundles\nhave been shown to reduce SSIs in many settings, from\nhigh-resource ventral hernia repair practices10 to colorectal\nsurgery groups.11-14 In sub-Saharan Africa, a recent random-\nized clinical trial of changing gloves and instruments before\nabdominal wound closure demonstrated a 13% reduction in\nthe risk of SSIs.15 Surgical IPC standards and recommenda-\ntions are well established and supported by multiple\nguidelines,16-21 but implementation of best practices, espe-\ncially in resource-limited settings, is difficult to accomplish\nand measure.22,23\nClean Cut is an adaptive, multimodal surgical quality\nimprovement program that aims to reduce SSIs through\nimproved adherence to best practices. The program is\nimplemented in concert with partner hospitals focused on\nsurgical infection prevention in 6 key areas: (1) appropriate\nsurgeon hand scrubbing and patient skin preparation,\n(2) surgical instrument decontamination and sterilization,\n(3) antibiotic prophylaxis, (4) reusable gown and drape\nintegrity and sterility, (5) gauze counting, and (6) use of\nan adapted World Health Organization Surgical Safety\nChecklist (SSC).\nClean Cut was piloted at 5 hospitals in Ethiopia8\nby Lifebox, a nonprofit organization focused on improving\nthe safety of surgery and anesthesia worldwide. The\n2-year pilot phase (2016-2018) demonstrated significant\nimprovement in adherence to IPC standards and a commen-\nsurate 35% relative risk (RR) reduction in SSIs after\nprogram implementation.24 After the pilot phase, clinician\nfeedback on program strengths and weaknesses was\ngathered in a qualitative study25 to further refine program\nimplementation.\nRecognizing that scalability and affordability were\nnecessary for long-term success and wider implementation,\nseveral programmatic changes were made: formalization of\nprogrammatic and educational materials, creation of an\nautomated data entry and analysis platform, modifications\nof hospital-based team composition, and elimination of sti-\npends for program participation. The COVID-19 pandemic\nnecessitated additional reduction of in-person external\nengagement from 2020 onward. This study examines the\nimprovement of adherence to IPC standards and rates of\npostoperative infections in 7 additional hospitals after\nupdating implementation strategies and refining Clean Cut\nprogram execution.\nMethods\nClean Cut Program and Data Collection\nThe structure of the Clean Cut program (Figure 1) includes\nphased implementation and team building, collecting data on\nadherence to IPC standards via direct observation of behav-\niors in the operating room by surgical staff, coupled with track-\ning inpatient and 30-day outcomes. All adult patients under-\ngoing major operating room cases at participating hospitals\nduring the study period were included in this cohort study; pa-\ntients were excluded if they were younger than 18 years. Post-\noperative data were collected prospectively by daily review of\nthe patient’s clinical factors, antibiotic prescriptions, signs of\nSSI, other complications, and mortality. Surgical site infec-\ntionwasdefinedaccordingtothe2008CentersforDiseaseCon-\ntrol and Prevention criteria.26 Thirty-day follow-up data were\ncollected for each patient with a telephone call by a trained\nnurse, who inquired about signs and symptoms of SSI. All data,\nboth before and after program implementation, were col-\nlected by the same team at each hospital and were entered into\na web-based data collection platform using the DHIS2 soft-\nware, version 2.38 (DHIS2). Ethical approval was obtained by\nthe Ethiopian Federal Ministry of Health through the Armauer\nHansen Research Institute. The requirement for informed con-\nsent was waived by the Armauer Hansen Research Institute In-\nstitutional Review Board (which functions as the national in-\nstitutionalreviewboardfortheMinistryofHealth)becausethis\nwas a quality improvement program with any patient-facing\nelements of the study being the implementation of best evi-\ndence–based infection prevention practices. This study fol-\nlowed the Strengthening the Reporting of Observational Stud-\nies in Epidemiology (STROBE) reporting guideline.\nAt the beginning of the program, a process mapping exer-\ncise was conducted to identify practice gaps and improve-\nment opportunities for each of the 6 IPC standards. After this\nbaseline period, which ranged from 1 to 4 months of data col-\nlection, hospital staff examined their process mapping and\nbaseline performance data to create action plans for improve-\nment. They gathered monthly for a data review and quality im-\nprovement meeting to iteratively improve SSI prevention be-\nhaviors. The primary outcome was SSI; secondary outcomes\nKey Points\nQuestion Is a quality improvement program to reduce surgical\nsite infections in low-income settings, modified to enhance\nscalability and sustainability, associated with similar outcomes as a\npilot program?\nFindings This cohort study of the Clean Cut quality improvement\ninitiative included 3364 surgical patients from 7 Ethiopian\nhospitals; after program implementation, all 6 infection\nprevention process measures improved significantly, with a 34%\nrelative risk reduction of surgical site infection.\nMeaning The modified, scalable Clean Cut program was\nassociated with similar improvements in infection prevention\npractices and reduction in surgical infections as the pilot program,\nsupporting its value for wider implementation.\nResearch Original Investigation\nSurgical Infection Prevention Program in Low-Income Environments\n162\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n(Reprinted)\njamasurgery.com\n© 2023 American Medical Association. All rights reserved.\nDownloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n",
+   "n_chars": 6462,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.3,
+      62.9,
+      93.4,
+      101.4
+     ],
+     "text": "S\n"
+    },
+    {
+     "bbox": [
+      95.4,
+      64.2,
+      299.8,
+      95.0
+     ],
+     "text": "urgical site infections (SSIs) are an important qual-\nity metric. They generally occur at a much higher\nrate in low- and middle-income countries (LMICs)1,2\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      98.6,
+      300.0,
+      209.7
+     ],
+     "text": "and represent the most common cause of health\ncare–associated infection in Sub-Saharan Africa.3 A recent\nstudy4 demonstrated that 23% of patients developed\nSSIs after gastrointestinal surgery in low–human develop-\nment index (HDI) settings vs 9% in high-HDI settings. Inequali-\nties in accessing health care resources in Ethiopia continue to\nbe high,5 and estimates of SSI rates in Ethiopia range from 11%\nto 14%6-8 but are typically estimated via patient medical\nrecord review, a strategy known to underestimate SSIs in\nLMICs.9\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      213.3,
+      299.9,
+      336.0
+     ],
+     "text": "Surgical infection prevention and control (IPC) bundles\nhave been shown to reduce SSIs in many settings, from\nhigh-resource ventral hernia repair practices10 to colorectal\nsurgery groups.11-14 In sub-Saharan Africa, a recent random-\nized clinical trial of changing gloves and instruments before\nabdominal wound closure demonstrated a 13% reduction in\nthe risk of SSIs.15 Surgical IPC standards and recommenda-\ntions are well established and supported by multiple\nguidelines,16-21 but implementation of best practices, espe-\ncially in resource-limited settings, is difficult to accomplish\nand measure.22,23\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      339.5,
+      299.9,
+      462.2
+     ],
+     "text": "Clean Cut is an adaptive, multimodal surgical quality\nimprovement program that aims to reduce SSIs through\nimproved adherence to best practices. The program is\nimplemented in concert with partner hospitals focused on\nsurgical infection prevention in 6 key areas: (1) appropriate\nsurgeon hand scrubbing and patient skin preparation,\n(2) surgical instrument decontamination and sterilization,\n(3) antibiotic prophylaxis, (4) reusable gown and drape\nintegrity and sterility, (5) gauze counting, and (6) use of\nan adapted World Health Organization Surgical Safety\nChecklist (SSC).\n"
+    },
+    {
+     "bbox": [
+      87.3,
+      464.8,
+      299.8,
+      473.7
+     ],
+     "text": "Clean Cut was piloted at 5 hospitals in Ethiopia8\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      477.2,
+      299.9,
+      576.9
+     ],
+     "text": "by Lifebox, a nonprofit organization focused on improving\nthe safety of surgery and anesthesia worldwide. The\n2-year pilot phase (2016-2018) demonstrated significant\nimprovement in adherence to IPC standards and a commen-\nsurate 35% relative risk (RR) reduction in SSIs after\nprogram implementation.24 After the pilot phase, clinician\nfeedback on program strengths and weaknesses was\ngathered in a qualitative study25 to further refine program\nimplementation.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      580.5,
+      299.9,
+      726.1
+     ],
+     "text": "Recognizing that scalability and affordability were\nnecessary for long-term success and wider implementation,\nseveral programmatic changes were made: formalization of\nprogrammatic and educational materials, creation of an\nautomated data entry and analysis platform, modifications\nof hospital-based team composition, and elimination of sti-\npends for program participation. The COVID-19 pandemic\nnecessitated additional reduction of in-person external\nengagement from 2020 onward. This study examines the\nimprovement of adherence to IPC standards and rates of\npostoperative infections in 7 additional hospitals after\nupdating implementation strategies and refining Clean Cut\nprogram execution.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      259.8,
+      352.0,
+      269.7
+     ],
+     "text": "Methods\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      283.1,
+      539.5,
+      623.3
+     ],
+     "text": "Clean Cut Program and Data Collection\nThe structure of the Clean Cut program (Figure 1) includes\nphased implementation and team building, collecting data on\nadherence to IPC standards via direct observation of behav-\niors in the operating room by surgical staff, coupled with track-\ning inpatient and 30-day outcomes. All adult patients under-\ngoing major operating room cases at participating hospitals\nduring the study period were included in this cohort study; pa-\ntients were excluded if they were younger than 18 years. Post-\noperative data were collected prospectively by daily review of\nthe patient’s clinical factors, antibiotic prescriptions, signs of\nSSI, other complications, and mortality. Surgical site infec-\ntionwasdefinedaccordingtothe2008CentersforDiseaseCon-\ntrol and Prevention criteria.26 Thirty-day follow-up data were\ncollected for each patient with a telephone call by a trained\nnurse, who inquired about signs and symptoms of SSI. All data,\nboth before and after program implementation, were col-\nlected by the same team at each hospital and were entered into\na web-based data collection platform using the DHIS2 soft-\nware, version 2.38 (DHIS2). Ethical approval was obtained by\nthe Ethiopian Federal Ministry of Health through the Armauer\nHansen Research Institute. The requirement for informed con-\nsent was waived by the Armauer Hansen Research Institute In-\nstitutional Review Board (which functions as the national in-\nstitutionalreviewboardfortheMinistryofHealth)becausethis\nwas a quality improvement program with any patient-facing\nelements of the study being the implementation of best evi-\ndence–based infection prevention practices. This study fol-\nlowed the Strengthening the Reporting of Observational Stud-\nies in Epidemiology (STROBE) reporting guideline.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      626.9,
+      539.5,
+      726.6
+     ],
+     "text": "At the beginning of the program, a process mapping exer-\ncise was conducted to identify practice gaps and improve-\nment opportunities for each of the 6 IPC standards. After this\nbaseline period, which ranged from 1 to 4 months of data col-\nlection, hospital staff examined their process mapping and\nbaseline performance data to create action plans for improve-\nment. They gathered monthly for a data review and quality im-\nprovement meeting to iteratively improve SSI prevention be-\nhaviors. The primary outcome was SSI; secondary outcomes\n"
+    },
+    {
+     "bbox": [
+      323.8,
+      77.1,
+      365.0,
+      85.3
+     ],
+     "text": "Key Points\n"
+    },
+    {
+     "bbox": [
+      323.8,
+      92.1,
+      525.5,
+      128.9
+     ],
+     "text": "Question Is a quality improvement program to reduce surgical\nsite infections in low-income settings, modified to enhance\nscalability and sustainability, associated with similar outcomes as a\npilot program?\n"
+    },
+    {
+     "bbox": [
+      323.8,
+      138.0,
+      523.4,
+      184.7
+     ],
+     "text": "Findings This cohort study of the Clean Cut quality improvement\ninitiative included 3364 surgical patients from 7 Ethiopian\nhospitals; after program implementation, all 6 infection\nprevention process measures improved significantly, with a 34%\nrelative risk reduction of surgical site infection.\n"
+    },
+    {
+     "bbox": [
+      323.8,
+      193.9,
+      524.2,
+      230.6
+     ],
+     "text": "Meaning The modified, scalable Clean Cut program was\nassociated with similar improvements in infection prevention\npractices and reduction in surgical infections as the pilot program,\nsupporting its value for wider implementation.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      32.9,
+      539.4,
+      39.2
+     ],
+     "text": "Research Original Investigation\nSurgical Infection Prevention Program in Low-Income Environments\n"
+    },
+    {
+     "bbox": [
+      45.4,
+      743.1,
+      539.4,
+      749.4
+     ],
+     "text": "162\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n(Reprinted)\njamasurgery.com\n"
+    },
+    {
+     "bbox": [
+      198.8,
+      761.0,
+      411.9,
+      768.1
+     ],
+     "text": "© 2023 American Medical Association. All rights reserved.\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      274.5,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "were adherence to IPC standards, reoperation, length of stay,\nand mortality.\nHospital Setting and Ethics\nSite selection was guided by the Ethiopian Federal Ministry of\nHealth; 6 of the hospitals were referral-level hospitals, and 1\nwas a district-level hospital (Figure 1). The program was com-\npleted during 6 to 12 months at each site from January 1, 2019,\nto February 28, 2022.\nProgram Modifications\nAfter the pilot phase, a number of program modifications were\nmade to the Clean Cut program aimed at improving program\nscalability,effectiveness,andintegrationintotheeverydayhos-\npital workflow and culture. The first modification involved\nbuilding a standard set of program and educational materials\nand creating an online platform for hosting hospital site en-\ngagement. An implementation manual was created with ac-\ncompanying checkpoints for each program phase. These docu-\nments were shared with partner hospitals and used to facilitate\nprogram delivery.\nThe second modification involved emphasizing broad en-\ngagementofadministrativeandoperatingroomstaffinthepro-\ngram and eliminating hospital-based team stipends for par-\nticipation. Clean Cut team composition shifted from a compact\nteam of clinical staff to a more hospital-wide model that in-\ncluded all operating rooms and hospital administrators. Qual-\nity improvement meetings presented hospital data to a broad\naudience, including clinicians from surgery, anesthesia, and\nobstetrics;operatingroomandwardnurses;stafffromthecen-\ntral sterilization room and laundry; environmental services;\nhospital administration; and finance personnel. Broadening\nmultidisciplinary involvement supported building a commu-\nnity of learning within hospitals to drive lasting changes in cul-\nture where best practices are integrated in the hospital work-\nflow. Although remuneration for data collection and entry\nvaried by site, direct financial stipends were no longer\nprovided for staff participation in the quality improvement\nprogram.\nThethirdmodificationinvolvedestablishingaplatformfor\ndata entry, quality checking, and initial analysis. Compared\nwith the pilot program, which used paper forms and manual\nentry into Excel spreadsheets, we created an open-source\nDHIS2 software–based platform for data entry. Data were en-\ntered using the web-based or mobile telephone–based op-\ntions for the software and fed into hospital-specific data-\nbases that populated real-time dashboards with data on\nadherence behaviors and outcomes. Data were also acces-\nsible for real-time quality checking for accuracy and complete-\nness by program leadership.\nThe fourth modification involved instituting supplemen-\ntary education to reinforce infection prevention standards.\nSupplementaryIPCtrainingmaterialsweredevelopedandpro-\nvided to hospital staff on each of the 6 infection prevention\nstandards.TheIPCtrainingwasdesignedusingguidelinesfrom\nthe World Health Organization,16 Jhpiego,18 and the Centers\nfor Disease Control and Prevention17 as well as other litera-\nture.Pretestsandposttestswereadministeredtoconfirmtrans-\nfer of knowledge. Workshops on SSC implementation and sur-\ngical instrument reprocessing were also conducted with\nperioperative staff at each hospital, with certain staff se-\nlected to complete a training-of-trainers portion to further dis-\nseminate the workshop materials to additional staff.\nStatistical Analysis\nPatient demographics were analyzed via χ2 tests for categori-\ncal variables and 2-tailed, unpaired t tests for continuous vari-\nables. Adherence to each of the 6 IPC standards before and af-\nter implementation was analyzed using χ2 tests. Multiple\nbehaviors are required for full adherence with each standard\nas previously described in our pilot work, and adherence to\neach was defined as all criteria in that category being met dur-\nFigure 1. Clean-Cut Implementation Sites and Program Phases\nPhase 1: set up the program (week 1)\nPhase 2: establish a baseline \n(months 1-2)\nPhase 3: develop an action plan \n(month 2)\nPhase 4: improve continuously \n(months 3-6)\nPhase 5: beyond the Clean Cut \nprogram (month 6 or later)\n• Introduce the Clean Cut program\n• Identify the Clean Cut program team\n• Integrate the Clean Cut program with the facility’s\n   quality improvement team\n• Quality improvement beyond Clean Cut\n• Assess the hospital context and current practices\n• Perform the process mapping exercise\n• Establish a surveillance system, begin data collection\n• Review baseline hospital data\n• Connect the data with process mapping findings\n• Develop and implement an action plan\n• Perioperative infection prevention refresher courses\n• Surgical safety checklist strategies workshop\n• Safer surgical instruments training\n• Improving teamwork: SAFE OR course\nNew Clean Cut site \n(2019-2022)\nTigray\nAfar\nAmhara\nAddis Ababa\nDire Dawa\nHarari\nOromiya\nSidama\nSNNPR\nSouth West\nGambela\nSomali\nBenishangul-\nGumuz\nPilot Clean Cut site\n(2015-2018)\nSurgical Infection Prevention Program in Low-Income Environments\nOriginal Investigation Research\njamasurgery.com\n(Reprinted)\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n163\n© 2023 American Medical Association. All rights reserved.\nDownloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n",
+   "n_chars": 5215,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      72.3,
+      316.4,
+      299.9,
+      335.7
+     ],
+     "text": "were adherence to IPC standards, reoperation, length of stay,\nand mortality.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      351.3,
+      300.0,
+      416.1
+     ],
+     "text": "Hospital Setting and Ethics\nSite selection was guided by the Ethiopian Federal Ministry of\nHealth; 6 of the hospitals were referral-level hospitals, and 1\nwas a district-level hospital (Figure 1). The program was com-\npleted during 6 to 12 months at each site from January 1, 2019,\nto February 28, 2022.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      431.6,
+      300.0,
+      553.8
+     ],
+     "text": "Program Modifications\nAfter the pilot phase, a number of program modifications were\nmade to the Clean Cut program aimed at improving program\nscalability,effectiveness,andintegrationintotheeverydayhos-\npital workflow and culture. The first modification involved\nbuilding a standard set of program and educational materials\nand creating an online platform for hosting hospital site en-\ngagement. An implementation manual was created with ac-\ncompanying checkpoints for each program phase. These docu-\nments were shared with partner hospitals and used to facilitate\nprogram delivery.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      557.4,
+      300.1,
+      725.9
+     ],
+     "text": "The second modification involved emphasizing broad en-\ngagementofadministrativeandoperatingroomstaffinthepro-\ngram and eliminating hospital-based team stipends for par-\nticipation. Clean Cut team composition shifted from a compact\nteam of clinical staff to a more hospital-wide model that in-\ncluded all operating rooms and hospital administrators. Qual-\nity improvement meetings presented hospital data to a broad\naudience, including clinicians from surgery, anesthesia, and\nobstetrics;operatingroomandwardnurses;stafffromthecen-\ntral sterilization room and laundry; environmental services;\nhospital administration; and finance personnel. Broadening\nmultidisciplinary involvement supported building a commu-\nnity of learning within hospitals to drive lasting changes in cul-\nture where best practices are integrated in the hospital work-\nflow. Although remuneration for data collection and entry\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      316.4,
+      539.3,
+      347.2
+     ],
+     "text": "varied by site, direct financial stipends were no longer\nprovided for staff participation in the quality improvement\nprogram.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      350.8,
+      539.5,
+      473.4
+     ],
+     "text": "Thethirdmodificationinvolvedestablishingaplatformfor\ndata entry, quality checking, and initial analysis. Compared\nwith the pilot program, which used paper forms and manual\nentry into Excel spreadsheets, we created an open-source\nDHIS2 software–based platform for data entry. Data were en-\ntered using the web-based or mobile telephone–based op-\ntions for the software and fed into hospital-specific data-\nbases that populated real-time dashboards with data on\nadherence behaviors and outcomes. Data were also acces-\nsible for real-time quality checking for accuracy and complete-\nness by program leadership.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      477.0,
+      539.4,
+      622.6
+     ],
+     "text": "The fourth modification involved instituting supplemen-\ntary education to reinforce infection prevention standards.\nSupplementaryIPCtrainingmaterialsweredevelopedandpro-\nvided to hospital staff on each of the 6 infection prevention\nstandards.TheIPCtrainingwasdesignedusingguidelinesfrom\nthe World Health Organization,16 Jhpiego,18 and the Centers\nfor Disease Control and Prevention17 as well as other litera-\nture.Pretestsandposttestswereadministeredtoconfirmtrans-\nfer of knowledge. Workshops on SSC implementation and sur-\ngical instrument reprocessing were also conducted with\nperioperative staff at each hospital, with certain staff se-\nlected to complete a training-of-trainers portion to further dis-\nseminate the workshop materials to additional staff.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      638.1,
+      539.5,
+      725.9
+     ],
+     "text": "Statistical Analysis\nPatient demographics were analyzed via χ2 tests for categori-\ncal variables and 2-tailed, unpaired t tests for continuous vari-\nables. Adherence to each of the 6 IPC standards before and af-\nter implementation was analyzed using χ2 tests. Multiple\nbehaviors are required for full adherence with each standard\nas previously described in our pilot work, and adherence to\neach was defined as all criteria in that category being met dur-\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      70.2,
+      265.0,
+      77.0
+     ],
+     "text": "Figure 1. Clean-Cut Implementation Sites and Program Phases\n"
+    },
+    {
+     "bbox": [
+      278.9,
+      108.1,
+      375.5,
+      113.7
+     ],
+     "text": "Phase 1: set up the program (week 1)\n"
+    },
+    {
+     "bbox": [
+      278.9,
+      143.8,
+      353.5,
+      156.4
+     ],
+     "text": "Phase 2: establish a baseline \n(months 1-2)\n"
+    },
+    {
+     "bbox": [
+      278.9,
+      183.9,
+      361.6,
+      196.5
+     ],
+     "text": "Phase 3: develop an action plan \n(month 2)\n"
+    },
+    {
+     "bbox": [
+      278.9,
+      226.0,
+      359.6,
+      238.6
+     ],
+     "text": "Phase 4: improve continuously \n(months 3-6)\n"
+    },
+    {
+     "bbox": [
+      278.9,
+      264.2,
+      358.3,
+      276.8
+     ],
+     "text": "Phase 5: beyond the Clean Cut \nprogram (month 6 or later)\n"
+    },
+    {
+     "bbox": [
+      386.9,
+      101.9,
+      485.4,
+      115.5
+     ],
+     "text": "• Introduce the Clean Cut program\n• Identify the Clean Cut program team\n"
+    },
+    {
+     "bbox": [
+      386.9,
+      264.7,
+      520.7,
+      285.3
+     ],
+     "text": "• Integrate the Clean Cut program with the facility’s\n   quality improvement team\n• Quality improvement beyond Clean Cut\n"
+    },
+    {
+     "bbox": [
+      386.9,
+      139.2,
+      528.0,
+      160.8
+     ],
+     "text": "• Assess the hospital context and current practices\n• Perform the process mapping exercise\n• Establish a surveillance system, begin data collection\n"
+    },
+    {
+     "bbox": [
+      386.9,
+      180.6,
+      515.2,
+      202.2
+     ],
+     "text": "• Review baseline hospital data\n• Connect the data with process mapping findings\n• Develop and implement an action plan\n"
+    },
+    {
+     "bbox": [
+      386.9,
+      216.5,
+      525.8,
+      246.1
+     ],
+     "text": "• Perioperative infection prevention refresher courses\n• Surgical safety checklist strategies workshop\n• Safer surgical instruments training\n• Improving teamwork: SAFE OR course\n"
+    },
+    {
+     "bbox": [
+      136.3,
+      111.7,
+      261.1,
+      128.6
+     ],
+     "text": "New Clean Cut site \n(2019-2022)\nTigray\n"
+    },
+    {
+     "bbox": [
+      171.2,
+      147.6,
+      179.7,
+      151.9
+     ],
+     "text": "Afar\n"
+    },
+    {
+     "bbox": [
+      131.0,
+      159.5,
+      146.6,
+      163.8
+     ],
+     "text": "Amhara\n"
+    },
+    {
+     "bbox": [
+      119.2,
+      195.2,
+      143.7,
+      199.5
+     ],
+     "text": "Addis Ababa\n"
+    },
+    {
+     "bbox": [
+      179.2,
+      182.3,
+      199.5,
+      186.6
+     ],
+     "text": "Dire Dawa\n"
+    },
+    {
+     "bbox": [
+      173.6,
+      201.2,
+      186.0,
+      205.5
+     ],
+     "text": "Harari\n"
+    },
+    {
+     "bbox": [
+      151.3,
+      215.6,
+      168.3,
+      219.9
+     ],
+     "text": "Oromiya\n"
+    },
+    {
+     "bbox": [
+      140.0,
+      228.4,
+      153.4,
+      241.8
+     ],
+     "text": "Sidama\n"
+    },
+    {
+     "bbox": [
+      118.2,
+      244.6,
+      132.2,
+      248.9
+     ],
+     "text": "SNNPR\n"
+    },
+    {
+     "bbox": [
+      103.8,
+      228.5,
+      126.3,
+      232.8
+     ],
+     "text": "South West\n"
+    },
+    {
+     "bbox": [
+      79.2,
+      212.2,
+      96.8,
+      216.5
+     ],
+     "text": "Gambela\n"
+    },
+    {
+     "bbox": [
+      206.7,
+      227.6,
+      220.4,
+      231.9
+     ],
+     "text": "Somali\n"
+    },
+    {
+     "bbox": [
+      91.7,
+      175.2,
+      118.0,
+      179.5
+     ],
+     "text": "Benishangul-\n"
+    },
+    {
+     "bbox": [
+      97.8,
+      180.2,
+      111.9,
+      184.5
+     ],
+     "text": "Gumuz\n"
+    },
+    {
+     "bbox": [
+      215.4,
+      126.8,
+      260.4,
+      139.0
+     ],
+     "text": "Pilot Clean Cut site\n(2015-2018)\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      32.9,
+      539.4,
+      39.2
+     ],
+     "text": "Surgical Infection Prevention Program in Low-Income Environments\nOriginal Investigation Research\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      743.1,
+      566.2,
+      749.4
+     ],
+     "text": "jamasurgery.com\n(Reprinted)\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n163\n"
+    },
+    {
+     "bbox": [
+      198.8,
+      761.0,
+      411.9,
+      768.1
+     ],
+     "text": "© 2023 American Medical Association. All rights reserved.\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      274.5,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "ing intraoperative observation. To aggregate performance in\nall areas, a mean adherence score was calculated using the sum\nof the total areas of perioperative infection prevention, with\nperfect adherence being 6 of 6. Mean adherence scores be-\nfore and after implementation were compared using 2-tailed,\nunpaired t tests. The RR of SSI before and after implementa-\ntion was calculated using modified robust Poisson regres-\nsions controlling for age, comorbidities, case urgency,\nAmerican Society of Anesthesiologists classification, type of\nprocedure, and wound class. Because of loss to follow-up at\n30 days postoperatively, we conducted sensitivity analyses\nusing best- and worst-case scenarios in which all patients miss-\ning follow-up SSI data were recorded as having an SSI or not\nhaving an SSI, again using modified robust Poisson regres-\nsions controlling for the same factors. The mean adherence\nscore was also plotted over time across all 7 hospitals from 100\ndays before Clean Cut implementation to 200 days after imple-\nmentation. Best-fit lines in the before and after implementa-\ntion were calculated using univariate linear regressions. All\nanalyses were performed using Stata/SE, version 16.1\n(StataCorp LLC).\nResults\nA total of 3364 patients (mean [SD] age, 26.5 [38.0] years; 2196\n[65.3%] female and 1168 [34.7%] male) were included in the\nstudy: 1575 in the preintervention period and 1789 in the post-\nintervention period (Table 1). The 2 groups were demographi-\ncally comparable, and the case mix of emergency vs elective\ncases was not statistically different.\nAdherence significantly improved in all 6 focus areas af-\nter Clean Cut implementation (Figure 2), including SSC use\n(43.0% vs 16.3%), surgeon hand and patient skin antisepsis\n(66.0% vs 46.0%), timely antibiotic administration (39.0% vs\n17.8%), surgical instrument (38.7% vs 10.2%), linen sterility\n(35.5%vs12.8%),andgauzecounting(89.2%vs82.5%,P < .001\nfor all comparisons). Mean (SD) adherence scores, calculated\nTable 1. Patient Demographics and Outcomes Before and After Implementation of the Clean Cut Programa\nFactor\nPreintervention (n = 1575)\nPostintervention (n = 1789)\nP value\nSex\nFemale\n1069 (67.9)\n1127 (63.0)\n.003\nMale\n506 (32.1)\n662 (37.0)\nAge, mean (SD), y\n27.1 (16.7)\n26.0 (49.7)\n.40\nDiabetes\n35 (2.2)\n31 (1.7)\n.01\nHypertension\n89 (5.7)\n70 (3.9)\n.31\nASA classification\nI\n1154 (73.3)\n1272 (71.1)\n<.001\nII\n280 (17.8)\n415 (23.2)\nIII\n39 (2.5)\n25 (1.4)\nIV\n4 (0.3)\n1 (0.1)\nUnknown\n98 (6.2%\n76 (4.2)\nProcedure\nGeneral surgery\n538 (34.2)\n638 (35.7)\n<.001\nObstetrics/gynecology\n701 (44.5)\n683 (38.2)\nSubspecialty surgery\n274 (17.4)\n362 (20.2)\nUnknown\n62 (3.9)\n106 (5.9)\nCase urgency\nElective\n592 (37.6)\n652 (36.4)\n.72\nEmergency\n877 (55.7)\n1021 (57.1)\nUnknown urgency\n106 (6.7)\n116 (6.5)\nWound class\nWound class I or II\n969 (61.5)\n961 (53.7)\n<.001\nWound class III or IV\n138 (8.8)\n242 (13.5)\nUnknown\n468 (29.7)\n586 (32.8)\nOutcomes\nSurgical site infection\n152 (23.2)\n144 (17.4)\n.006\nUrinary tract infection\n5 (0.4)\n1 (0.1)\n.06\nPneumonia\n19 (1.7)\n13 (0.9)\n.10\nOther complications\n12 (1.1)\n9 (0.7)\n.27\nReoperation\n33 (2.9)\n14 (1.0)\n<.001\nLength of stay, d\n5.6 (4.3-6.9)\n5.1 (4.6-5.5)\n.35b\n30-d mortality\n36 (5.5)\n37 (4.4)\n.34\nAbbreviation: ASA, American Society\nof Anesthesiologists.\na Data are presented as number\n(percentage) of patients unless\notherwise indicated.\nbUsing 2-tailed, unpaired t test.\nResearch Original Investigation\nSurgical Infection Prevention Program in Low-Income Environments\n164\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n(Reprinted)\njamasurgery.com\n© 2023 American Medical Association. All rights reserved.\nDownloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n",
+   "n_chars": 3686,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.3,
+      511.8,
+      300.1,
+      726.2
+     ],
+     "text": "ing intraoperative observation. To aggregate performance in\nall areas, a mean adherence score was calculated using the sum\nof the total areas of perioperative infection prevention, with\nperfect adherence being 6 of 6. Mean adherence scores be-\nfore and after implementation were compared using 2-tailed,\nunpaired t tests. The RR of SSI before and after implementa-\ntion was calculated using modified robust Poisson regres-\nsions controlling for age, comorbidities, case urgency,\nAmerican Society of Anesthesiologists classification, type of\nprocedure, and wound class. Because of loss to follow-up at\n30 days postoperatively, we conducted sensitivity analyses\nusing best- and worst-case scenarios in which all patients miss-\ning follow-up SSI data were recorded as having an SSI or not\nhaving an SSI, again using modified robust Poisson regres-\nsions controlling for the same factors. The mean adherence\nscore was also plotted over time across all 7 hospitals from 100\ndays before Clean Cut implementation to 200 days after imple-\nmentation. Best-fit lines in the before and after implementa-\ntion were calculated using univariate linear regressions. All\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      511.8,
+      539.3,
+      531.1
+     ],
+     "text": "analyses were performed using Stata/SE, version 16.1\n(StataCorp LLC).\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      562.2,
+      344.4,
+      572.2
+     ],
+     "text": "Results\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      580.6,
+      539.5,
+      645.9
+     ],
+     "text": "A total of 3364 patients (mean [SD] age, 26.5 [38.0] years; 2196\n[65.3%] female and 1168 [34.7%] male) were included in the\nstudy: 1575 in the preintervention period and 1789 in the post-\nintervention period (Table 1). The 2 groups were demographi-\ncally comparable, and the case mix of emergency vs elective\ncases was not statistically different.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      649.5,
+      539.4,
+      726.2
+     ],
+     "text": "Adherence significantly improved in all 6 focus areas af-\nter Clean Cut implementation (Figure 2), including SSC use\n(43.0% vs 16.3%), surgeon hand and patient skin antisepsis\n(66.0% vs 46.0%), timely antibiotic administration (39.0% vs\n17.8%), surgical instrument (38.7% vs 10.2%), linen sterility\n(35.5%vs12.8%),andgauzecounting(89.2%vs82.5%,P < .001\nfor all comparisons). Mean (SD) adherence scores, calculated\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      69.3,
+      402.3,
+      77.0
+     ],
+     "text": "Table 1. Patient Demographics and Outcomes Before and After Implementation of the Clean Cut Programa\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      86.2,
+      403.5,
+      92.3
+     ],
+     "text": "Factor\nPreintervention (n = 1575)\nPostintervention (n = 1789)\nP value\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      96.8,
+      85.4,
+      102.8
+     ],
+     "text": "Sex\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      108.8,
+      396.4,
+      126.8
+     ],
+     "text": "Female\n1069 (67.9)\n1127 (63.0)\n.003\nMale\n506 (32.1)\n662 (37.0)\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      132.7,
+      392.6,
+      138.7
+     ],
+     "text": "Age, mean (SD), y\n27.1 (16.7)\n26.0 (49.7)\n.40\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      144.7,
+      392.6,
+      150.7
+     ],
+     "text": "Diabetes\n35 (2.2)\n31 (1.7)\n.01\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      156.7,
+      392.6,
+      162.7
+     ],
+     "text": "Hypertension\n89 (5.7)\n70 (3.9)\n.31\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      168.7,
+      125.7,
+      174.7
+     ],
+     "text": "ASA classification\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      180.6,
+      319.7,
+      186.6
+     ],
+     "text": "I\n1154 (73.3)\n1272 (71.1)\n"
+    },
+    {
+     "bbox": [
+      383.0,
+      205.2,
+      400.3,
+      211.2
+     ],
+     "text": "<.001\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      192.6,
+      315.9,
+      198.6
+     ],
+     "text": "II\n280 (17.8)\n415 (23.2)\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      204.6,
+      308.2,
+      210.6
+     ],
+     "text": "III\n39 (2.5)\n25 (1.4)\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      216.6,
+      304.3,
+      222.6
+     ],
+     "text": "IV\n4 (0.3)\n1 (0.1)\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      228.5,
+      308.2,
+      234.5
+     ],
+     "text": "Unknown\n98 (6.2%\n76 (4.2)\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      240.5,
+      104.4,
+      246.5
+     ],
+     "text": "Procedure\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      252.5,
+      315.9,
+      258.5
+     ],
+     "text": "General surgery\n538 (34.2)\n638 (35.7)\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      264.4,
+      400.3,
+      277.1
+     ],
+     "text": "<.001\nObstetrics/gynecology\n701 (44.5)\n683 (38.2)\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      276.4,
+      315.9,
+      282.4
+     ],
+     "text": "Subspecialty surgery\n274 (17.4)\n362 (20.2)\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      288.4,
+      312.0,
+      294.4
+     ],
+     "text": "Unknown\n62 (3.9)\n106 (5.9)\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      300.4,
+      112.8,
+      306.4
+     ],
+     "text": "Case urgency\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      312.3,
+      315.9,
+      318.4
+     ],
+     "text": "Elective\n592 (37.6)\n652 (36.4)\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      324.3,
+      392.6,
+      330.9
+     ],
+     "text": ".72\nEmergency\n877 (55.7)\n1021 (57.1)\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      336.3,
+      312.0,
+      342.3
+     ],
+     "text": "Unknown urgency\n106 (6.7)\n116 (6.5)\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      348.3,
+      110.3,
+      354.3
+     ],
+     "text": "Wound class\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      360.2,
+      315.9,
+      366.2
+     ],
+     "text": "Wound class I or II\n969 (61.5)\n961 (53.7)\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      372.2,
+      400.3,
+      378.8
+     ],
+     "text": "<.001\nWound class III or IV\n138 (8.8)\n242 (13.5)\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      384.2,
+      315.9,
+      390.2
+     ],
+     "text": "Unknown\n468 (29.7)\n586 (32.8)\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      396.2,
+      104.0,
+      402.2
+     ],
+     "text": "Outcomes\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      408.1,
+      396.4,
+      414.1
+     ],
+     "text": "Surgical site infection\n152 (23.2)\n144 (17.4)\n.006\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      420.1,
+      392.6,
+      426.1
+     ],
+     "text": "Urinary tract infection\n5 (0.4)\n1 (0.1)\n.06\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      432.1,
+      392.6,
+      438.1
+     ],
+     "text": "Pneumonia\n19 (1.7)\n13 (0.9)\n.10\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      444.1,
+      392.6,
+      450.1
+     ],
+     "text": "Other complications\n12 (1.1)\n9 (0.7)\n.27\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      456.0,
+      400.3,
+      462.0
+     ],
+     "text": "Reoperation\n33 (2.9)\n14 (1.0)\n<.001\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      467.0,
+      395.4,
+      474.0
+     ],
+     "text": "Length of stay, d\n5.6 (4.3-6.9)\n5.1 (4.6-5.5)\n.35b\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      480.0,
+      392.6,
+      486.0
+     ],
+     "text": "30-d mortality\n36 (5.5)\n37 (4.4)\n.34\n"
+    },
+    {
+     "bbox": [
+      431.5,
+      434.8,
+      536.7,
+      450.2
+     ],
+     "text": "Abbreviation: ASA, American Society\nof Anesthesiologists.\n"
+    },
+    {
+     "bbox": [
+      431.5,
+      452.5,
+      521.6,
+      461.6
+     ],
+     "text": "a Data are presented as number\n"
+    },
+    {
+     "bbox": [
+      435.5,
+      464.3,
+      524.1,
+      479.6
+     ],
+     "text": "(percentage) of patients unless\notherwise indicated.\n"
+    },
+    {
+     "bbox": [
+      431.5,
+      483.8,
+      521.4,
+      491.1
+     ],
+     "text": "bUsing 2-tailed, unpaired t test.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      32.9,
+      539.4,
+      39.2
+     ],
+     "text": "Research Original Investigation\nSurgical Infection Prevention Program in Low-Income Environments\n"
+    },
+    {
+     "bbox": [
+      45.4,
+      743.1,
+      539.4,
+      749.4
+     ],
+     "text": "164\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n(Reprinted)\njamasurgery.com\n"
+    },
+    {
+     "bbox": [
+      198.8,
+      761.0,
+      411.9,
+      768.1
+     ],
+     "text": "© 2023 American Medical Association. All rights reserved.\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      274.5,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "as a composite score of perfect adherence to each of the 6 IPC\nmeasures, improved from 1.53 (0.48) before Clean Cut to 2.59\n(1.22) after the program (P < .001). Mean adherence scores im-\nproved over time across the intervention (Figure 3), with a sig-\nnificant increase in the rate of improvement in the postinter-\nvention period (β = 0.026; 95% CI, 0.022-0.023) compared\nwith the preintervention period (β = 0.0135; 95% CI, 0.0131-\n0.0140; P < .001).\nA total of 2508 patients (74.6%) were admitted to the ward\npostoperatively and had complete SSI data, whereas 1481\n(44.0%) had complete 30-day SSI data (eTable in Supple-\nment 1). The unadjusted incidence of SSI decreased signifi-\ncantly after Clean Cut implementation (17.4% from 23.2% be-\nfore implementation, P = .006) (Table 1). In multivariate\nanalysis controlling for age, comorbidities, case urgency,\nAmerican Society of Anesthesiologists classification, type of\nprocedure, and wound class, patients in the postimplemen-\ntation period had a 34% reduced risk of developing SSI (RR,\n0.66; 95% CI, 0.54-0.81; P < .001) (Table 2). There was also a\nsignificant decrease in the need for subsequent operations\n(1.0%from2.9%,P < .001)(Table1).Reductioninlengthofstay\n(5.1 vs 5.6 days, P = .35) and overall mortality (4.4% from 5.5%,\nP = .34) did not reach statistical significance.\nMore patients were lost to follow-up at 30 days postop-\neratively in the preintervention period than in the postinter-\nvention period (58.4% vs 53.8%) (eTable in Supplement 1). Be-\ncause of this high loss to follow-up, we conducted sensitivity\nanalyses using best- and worst-case scenarios in which all pa-\ntients missing follow-up SSI data were imputed as having or\nnot having an SSI, again using modified robust Poisson regres-\nsions that controlled for the same factors. The reduction in SSI\nafter program implementation remained significant in best-\ncase (RR, 0.75; 95% CI, 0.61-0.94; P = .01) and worst-case (RR,\n0.91; 95% CI, 0.86-0.95; P < .001) scenarios (Table 2).\nDiscussion\nFollowing initial success of the Clean Cut program, this study\nfoundthatimprovementstostandardizeprogrammaterialsand\ntrainings and expand program delivery to entire hospital sur-\ngical teams while reducing direct support from Lifebox were\nassociated with improvements in behaviors and reductions in\nSSI rates on par with the original pilot study. The initial Clean\nCut pilot program was resource intensive and required sus-\ntained engagement by the Lifebox team at each site. It also\nlacked standardized materials for program-related education\nand training or an automated system for data recording. To\nscale the program, we needed to simplify implementation and\nfacilitate uptake. These findings confirm that the program pro-\nduced equivalent behavior change and improved patient out-\ncomes using a more scalable delivery model with fewer re-\nsource requirements from Lifebox.\nProcess Changes\nMultiple studies27,28 have described the impact of quality im-\nprovement programs on SSI reduction in low-HDI settings. The\nchoice of intervention is important, as those undertaken in\nhigh-income environments may not have the same cost-\nbenefit ratio in low-income settings. As demonstrated by the\nFALCON trial (Pragmatic Multicentre Factorial Randomised\nControlled Trial Testing Measures to Reduce Surgical Site In-\nfection in Low and Middle Income Countries), changes to more\nexpensiveproducts,suchaschlorhexidineskinpreparationand\ntriclosan-coated sutures, did not reduce SSI in LMICs, despite\nhigher costs.29 Another multimodal SSI reduction program in\nsub-Saharan Africa that focused on improving process indi-\ncators—including preoperative bathing, hair removal, antibi-\notic administration, and in-theater traffic—showed signifi-\ncant improvement in each indicator and subsequent reduction\nin SSI from 8.0% to 3.8%.30 This intervention focused on lo-\ncal practitioners implementing evidence-based guidelines;\nhowever, it lacked attention to instrument cleaning, linen re-\nprocessing, reducing retained surgical items, and team com-\nmunication through use of the SSC—all areas we found to have\nmajor gaps in our setting.31,32 Furthermore, the Clean Cut pro-\ngram fits within the framework proposed by the Interna-\ntional Society for Infectious Diseases (identifying IPC cham-\npions, prioritizing IPC training in LMICs, using multimodal\nimprovement measures, and using telecommunication for\nfollow-up)33 and recapitulates the findings of other multi-\nmodal quality improvement programs to reduce SSI in low-\nincome environments.30,34 Compared with the pilot study, ad-\nherence to some standards (antibiotics administration, SSC\ncompletion, and skin antisepsis) was lower both before and af-\nter program intervention. More stringent criteria were used in\nthe current study to measure adherence to these standards,\npartially as a result of improved data collection mechanisms\nusing the DHIS2 platform, but the degree of improvement af-\nterCleanCutimplementationwassimilarorbetterineacharea.\nImpact of Specific Program Modifications\nFor the first modification, which involved building standard\nprogram materials and creating an online platform for host-\ning hospital site engagement, the implementation manual and\nstandard program materials provide a consistent experience\nforeachhospital,enhancingthescalabilityoftheprogram.Dur-\ning the COVID-19 pandemic, we necessarily transitioned to on-\nFigure 2. Improvements in Infection Prevention Behaviors\n100\n75\n50\n25\n0\nAdherence, %\nFocus area\nChecklist\nHand and skin\nLinens\nInstruments\nAntibiotics\nGauze\nPostintervention\nPreintervention\nP < .05 for all comparisons. Error bars indicate 95% CIs.\nSurgical Infection Prevention Program in Low-Income Environments\nOriginal Investigation Research\njamasurgery.com\n(Reprinted)\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n165\n© 2023 American Medical Association. All rights reserved.\nDownloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n",
+   "n_chars": 5957,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.3,
+      64.2,
+      300.1,
+      324.5
+     ],
+     "text": "as a composite score of perfect adherence to each of the 6 IPC\nmeasures, improved from 1.53 (0.48) before Clean Cut to 2.59\n(1.22) after the program (P < .001). Mean adherence scores im-\nproved over time across the intervention (Figure 3), with a sig-\nnificant increase in the rate of improvement in the postinter-\nvention period (β = 0.026; 95% CI, 0.022-0.023) compared\nwith the preintervention period (β = 0.0135; 95% CI, 0.0131-\n0.0140; P < .001).\nA total of 2508 patients (74.6%) were admitted to the ward\npostoperatively and had complete SSI data, whereas 1481\n(44.0%) had complete 30-day SSI data (eTable in Supple-\nment 1). The unadjusted incidence of SSI decreased signifi-\ncantly after Clean Cut implementation (17.4% from 23.2% be-\nfore implementation, P = .006) (Table 1). In multivariate\nanalysis controlling for age, comorbidities, case urgency,\nAmerican Society of Anesthesiologists classification, type of\nprocedure, and wound class, patients in the postimplemen-\ntation period had a 34% reduced risk of developing SSI (RR,\n0.66; 95% CI, 0.54-0.81; P < .001) (Table 2). There was also a\nsignificant decrease in the need for subsequent operations\n(1.0%from2.9%,P < .001)(Table1).Reductioninlengthofstay\n(5.1 vs 5.6 days, P = .35) and overall mortality (4.4% from 5.5%,\nP = .34) did not reach statistical significance.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      328.1,
+      300.0,
+      450.7
+     ],
+     "text": "More patients were lost to follow-up at 30 days postop-\neratively in the preintervention period than in the postinter-\nvention period (58.4% vs 53.8%) (eTable in Supplement 1). Be-\ncause of this high loss to follow-up, we conducted sensitivity\nanalyses using best- and worst-case scenarios in which all pa-\ntients missing follow-up SSI data were imputed as having or\nnot having an SSI, again using modified robust Poisson regres-\nsions that controlled for the same factors. The reduction in SSI\nafter program implementation remained significant in best-\ncase (RR, 0.75; 95% CI, 0.61-0.94; P = .01) and worst-case (RR,\n0.91; 95% CI, 0.86-0.95; P < .001) scenarios (Table 2).\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      481.8,
+      120.1,
+      491.7
+     ],
+     "text": "Discussion\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      500.2,
+      300.0,
+      668.7
+     ],
+     "text": "Following initial success of the Clean Cut program, this study\nfoundthatimprovementstostandardizeprogrammaterialsand\ntrainings and expand program delivery to entire hospital sur-\ngical teams while reducing direct support from Lifebox were\nassociated with improvements in behaviors and reductions in\nSSI rates on par with the original pilot study. The initial Clean\nCut pilot program was resource intensive and required sus-\ntained engagement by the Lifebox team at each site. It also\nlacked standardized materials for program-related education\nand training or an automated system for data recording. To\nscale the program, we needed to simplify implementation and\nfacilitate uptake. These findings confirm that the program pro-\nduced equivalent behavior change and improved patient out-\ncomes using a more scalable delivery model with fewer re-\nsource requirements from Lifebox.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      684.3,
+      300.0,
+      726.1
+     ],
+     "text": "Process Changes\nMultiple studies27,28 have described the impact of quality im-\nprovement programs on SSI reduction in low-HDI settings. The\nchoice of intervention is important, as those undertaken in\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      270.7,
+      539.5,
+      634.3
+     ],
+     "text": "high-income environments may not have the same cost-\nbenefit ratio in low-income settings. As demonstrated by the\nFALCON trial (Pragmatic Multicentre Factorial Randomised\nControlled Trial Testing Measures to Reduce Surgical Site In-\nfection in Low and Middle Income Countries), changes to more\nexpensiveproducts,suchaschlorhexidineskinpreparationand\ntriclosan-coated sutures, did not reduce SSI in LMICs, despite\nhigher costs.29 Another multimodal SSI reduction program in\nsub-Saharan Africa that focused on improving process indi-\ncators—including preoperative bathing, hair removal, antibi-\notic administration, and in-theater traffic—showed signifi-\ncant improvement in each indicator and subsequent reduction\nin SSI from 8.0% to 3.8%.30 This intervention focused on lo-\ncal practitioners implementing evidence-based guidelines;\nhowever, it lacked attention to instrument cleaning, linen re-\nprocessing, reducing retained surgical items, and team com-\nmunication through use of the SSC—all areas we found to have\nmajor gaps in our setting.31,32 Furthermore, the Clean Cut pro-\ngram fits within the framework proposed by the Interna-\ntional Society for Infectious Diseases (identifying IPC cham-\npions, prioritizing IPC training in LMICs, using multimodal\nimprovement measures, and using telecommunication for\nfollow-up)33 and recapitulates the findings of other multi-\nmodal quality improvement programs to reduce SSI in low-\nincome environments.30,34 Compared with the pilot study, ad-\nherence to some standards (antibiotics administration, SSC\ncompletion, and skin antisepsis) was lower both before and af-\nter program intervention. More stringent criteria were used in\nthe current study to measure adherence to these standards,\npartially as a result of improved data collection mechanisms\nusing the DHIS2 platform, but the degree of improvement af-\nterCleanCutimplementationwassimilarorbetterineacharea.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      649.9,
+      539.5,
+      726.1
+     ],
+     "text": "Impact of Specific Program Modifications\nFor the first modification, which involved building standard\nprogram materials and creating an online platform for host-\ning hospital site engagement, the implementation manual and\nstandard program materials provide a consistent experience\nforeachhospital,enhancingthescalabilityoftheprogram.Dur-\ning the COVID-19 pandemic, we necessarily transitioned to on-\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      70.2,
+      493.1,
+      77.0
+     ],
+     "text": "Figure 2. Improvements in Infection Prevention Behaviors\n"
+    },
+    {
+     "bbox": [
+      318.8,
+      88.9,
+      328.7,
+      94.0
+     ],
+     "text": "100\n"
+    },
+    {
+     "bbox": [
+      322.1,
+      119.5,
+      328.7,
+      124.6
+     ],
+     "text": "75\n"
+    },
+    {
+     "bbox": [
+      322.1,
+      150.1,
+      328.7,
+      155.3
+     ],
+     "text": "50\n"
+    },
+    {
+     "bbox": [
+      322.1,
+      180.7,
+      328.7,
+      185.9
+     ],
+     "text": "25\n"
+    },
+    {
+     "bbox": [
+      325.4,
+      211.3,
+      328.7,
+      216.5
+     ],
+     "text": "0\n"
+    },
+    {
+     "bbox": [
+      312.6,
+      134.5,
+      318.2,
+      170.5
+     ],
+     "text": "Adherence, %\n"
+    },
+    {
+     "bbox": [
+      419.9,
+      227.2,
+      447.9,
+      232.8
+     ],
+     "text": "Focus area\n"
+    },
+    {
+     "bbox": [
+      337.5,
+      217.6,
+      529.1,
+      222.8
+     ],
+     "text": "Checklist\nHand and skin\nLinens\nInstruments\nAntibiotics\nGauze\n"
+    },
+    {
+     "bbox": [
+      348.3,
+      100.7,
+      442.7,
+      105.9
+     ],
+     "text": "Postintervention\nPreintervention\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      246.7,
+      469.2,
+      253.0
+     ],
+     "text": "P < .05 for all comparisons. Error bars indicate 95% CIs.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      32.9,
+      539.4,
+      39.2
+     ],
+     "text": "Surgical Infection Prevention Program in Low-Income Environments\nOriginal Investigation Research\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      743.1,
+      566.2,
+      749.4
+     ],
+     "text": "jamasurgery.com\n(Reprinted)\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n165\n"
+    },
+    {
+     "bbox": [
+      198.8,
+      761.0,
+      411.9,
+      768.1
+     ],
+     "text": "© 2023 American Medical Association. All rights reserved.\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      274.5,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "Table 2. Adjusted and Unadjusted Risk Factors for Surgical Site Infection\nRisk factor\nUnadjusted\nAdjusted\nRR (95% CI)\nP value\nRR (95% CI)\nP value\nIntervention status\nPreintervention\n1 [Reference]\nNA\n1 [Reference]\nNA\nPostintervention\n0.75 (0.61-0.92)\n.006\n0.66 (0.54-0.81)\n<.001\nAge, y\n<10\n1 [Reference]\nNA\n1 [Reference]\nNA\n10-19\n0.75 (0.45-1.26)\n.28\n0.65 (0.40-1.08)\n.10\n20-29\n1.07 (0.81-1.43)\n.62\n1.01 (0.76-1.34)\n.94\n30-39\n1.12 (0.82-1.52)\n.48\n1.08 (0.80-1.47)\n.60\n40-49\n1.07 (0.68-0.1.70)\n.76\n0.99 (0.63-1.57)\n.98\n≥50\n1.05 (0.73-1.50)\n.79\n1.01 (0.70-1.46)\n.96\nDiabetes\n0.96 (0.43-2.13)\n.92\n1.05 (0.45-2.45)\n.91\nHypertension\n1.15 (0.68-1.96)\n.61\n1.29 (0.74-2.25)\n.36\nCase urgency\nElective\n1 [Reference]\n1 [Reference]\nEmergency\n1.74 (1.38-2.20)\n<.001\n2.01 (1.56-2.60)\n<.001\nUnknown urgency\n2.14 (1.52-3.01)\n<.001\n1.81 (1.23-2.65)\n.002\nASA classification\nI\n1 [Reference]\nNA\n1 [Reference]\nNA\nII\n0.95 (0.76-1.20)\n.69\n1.04 (0.81-1.34)\n.76\nIII\n1.26 (0.69-2.31)\n.46\n1.12 (0.60-2.06)\n.73\nIV\n2.36 (0.59-9.50)\n.23\n1.7 (1.02-2.82)\n.04\nUnknown\n0.39 (0.21-0.71)\n.002\n0.38 (0.21-0.70)\n.002\nProcedure\nGeneral surgery\n1 [Reference]\nNA\n1 [Reference]\nNA\nObstetrics/gynecology\n0.66 (0.51-0.87)\n.002\n0.62 (0.47-0.82)\n.001\nOther subspecialty\n0.98 (0.76-1.26)\n.85\n1.31 (1.01-1.69)\n.04\nUnknown\n1.14 (0.78-1.66)\n.499\n0.93 (0.61-1.42)\n.73\nWound class\nI or II\n1 [Reference]\nNA\n1 [Reference]\nNA\nIII or IV\n2.18 (1.55-2.89)\n<.001\n1.61 (1.15-2.26)\n.006\nUnknown\n0.14 (0.12-0.17)\n<.001\n1.66 (1.31-2.12)\n<.001\nSensitivity analyses (n = 3364)\nWorst case (assumes SSI is present\nif SSI is missing)\nNA\nNA\n0.91 (0.86-0.95)\n<.001\nBest case (assumes SSI is not present\nif SSI is missing)\nNA\nNA\n0.75 (0.61-0.94)\n.01\nAbbreviations: ASA, American\nSociety of Anesthesiologists; NA, not\napplicable; RR, relative risk; SSI,\nsurgical site infection.\nFigure 3. Adherence to Infection Prevention Over Time\n6\n4\n5\n3\n2\n1\n0\nMean adherence score\nTime from Clean Cut implementation, d\n–100\n–50\n0\n50\n100\n150\n200\nFitted values (preintervention)\nFitted values (postintervention)\nMean adherence score\nResearch Original Investigation\nSurgical Infection Prevention Program in Low-Income Environments\n166\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n(Reprinted)\njamasurgery.com\n© 2023 American Medical Association. All rights reserved.\nDownloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n",
+   "n_chars": 2348,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.3,
+      259.5,
+      296.6,
+      266.3
+     ],
+     "text": "Table 2. Adjusted and Unadjusted Risk Factors for Surgical Site Infection\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      288.0,
+      105.9,
+      294.0
+     ],
+     "text": "Risk factor\n"
+    },
+    {
+     "bbox": [
+      194.9,
+      275.5,
+      335.1,
+      281.5
+     ],
+     "text": "Unadjusted\nAdjusted\n"
+    },
+    {
+     "bbox": [
+      194.9,
+      288.0,
+      405.3,
+      294.0
+     ],
+     "text": "RR (95% CI)\nP value\nRR (95% CI)\nP value\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      299.1,
+      129.7,
+      305.1
+     ],
+     "text": "Intervention status\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      311.5,
+      393.1,
+      317.6
+     ],
+     "text": "Preintervention\n1 [Reference]\nNA\n1 [Reference]\nNA\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      324.0,
+      402.1,
+      330.0
+     ],
+     "text": "Postintervention\n0.75 (0.61-0.92)\n.006\n0.66 (0.54-0.81)\n<.001\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      336.5,
+      92.9,
+      342.5
+     ],
+     "text": "Age, y\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      349.0,
+      393.1,
+      355.0
+     ],
+     "text": "<10\n1 [Reference]\nNA\n1 [Reference]\nNA\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      361.4,
+      394.4,
+      367.4
+     ],
+     "text": "10-19\n0.75 (0.45-1.26)\n.28\n0.65 (0.40-1.08)\n.10\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      373.9,
+      394.4,
+      379.9
+     ],
+     "text": "20-29\n1.07 (0.81-1.43)\n.62\n1.01 (0.76-1.34)\n.94\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      386.4,
+      394.4,
+      392.4
+     ],
+     "text": "30-39\n1.12 (0.82-1.52)\n.48\n1.08 (0.80-1.47)\n.60\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      398.9,
+      394.4,
+      404.9
+     ],
+     "text": "40-49\n1.07 (0.68-0.1.70)\n.76\n0.99 (0.63-1.57)\n.98\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      411.3,
+      394.4,
+      417.3
+     ],
+     "text": "≥50\n1.05 (0.73-1.50)\n.79\n1.01 (0.70-1.46)\n.96\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      423.8,
+      394.4,
+      429.8
+     ],
+     "text": "Diabetes\n0.96 (0.43-2.13)\n.92\n1.05 (0.45-2.45)\n.91\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      436.3,
+      394.4,
+      442.3
+     ],
+     "text": "Hypertension\n1.15 (0.68-1.96)\n.61\n1.29 (0.74-2.25)\n.36\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      448.7,
+      112.8,
+      454.7
+     ],
+     "text": "Case urgency\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      461.2,
+      349.1,
+      467.2
+     ],
+     "text": "Elective\n1 [Reference]\n1 [Reference]\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      473.7,
+      402.1,
+      479.7
+     ],
+     "text": "Emergency\n1.74 (1.38-2.20)\n<.001\n2.01 (1.56-2.60)\n<.001\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      486.2,
+      398.3,
+      492.2
+     ],
+     "text": "Unknown urgency\n2.14 (1.52-3.01)\n<.001\n1.81 (1.23-2.65)\n.002\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      498.6,
+      125.7,
+      504.6
+     ],
+     "text": "ASA classification\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      511.1,
+      393.1,
+      517.1
+     ],
+     "text": "I\n1 [Reference]\nNA\n1 [Reference]\nNA\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      523.6,
+      394.4,
+      529.6
+     ],
+     "text": "II\n0.95 (0.76-1.20)\n.69\n1.04 (0.81-1.34)\n.76\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      536.0,
+      394.4,
+      542.1
+     ],
+     "text": "III\n1.26 (0.69-2.31)\n.46\n1.12 (0.60-2.06)\n.73\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      548.5,
+      394.4,
+      554.5
+     ],
+     "text": "IV\n2.36 (0.59-9.50)\n.23\n1.7 (1.02-2.82)\n.04\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      561.0,
+      398.3,
+      567.0
+     ],
+     "text": "Unknown\n0.39 (0.21-0.71)\n.002\n0.38 (0.21-0.70)\n.002\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      573.5,
+      104.4,
+      579.5
+     ],
+     "text": "Procedure\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      585.9,
+      393.1,
+      591.9
+     ],
+     "text": "General surgery\n1 [Reference]\nNA\n1 [Reference]\nNA\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      598.4,
+      398.3,
+      604.4
+     ],
+     "text": "Obstetrics/gynecology\n0.66 (0.51-0.87)\n.002\n0.62 (0.47-0.82)\n.001\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      610.9,
+      394.4,
+      616.9
+     ],
+     "text": "Other subspecialty\n0.98 (0.76-1.26)\n.85\n1.31 (1.01-1.69)\n.04\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      623.4,
+      394.4,
+      629.4
+     ],
+     "text": "Unknown\n1.14 (0.78-1.66)\n.499\n0.93 (0.61-1.42)\n.73\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      635.8,
+      110.3,
+      641.8
+     ],
+     "text": "Wound class\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      648.3,
+      393.1,
+      654.3
+     ],
+     "text": "I or II\n1 [Reference]\nNA\n1 [Reference]\nNA\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      660.8,
+      398.3,
+      666.8
+     ],
+     "text": "III or IV\n2.18 (1.55-2.89)\n<.001\n1.61 (1.15-2.26)\n.006\n"
+    },
+    {
+     "bbox": [
+      82.3,
+      673.2,
+      402.1,
+      679.3
+     ],
+     "text": "Unknown\n0.14 (0.12-0.17)\n<.001\n1.66 (1.31-2.12)\n<.001\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      685.7,
+      164.3,
+      691.7
+     ],
+     "text": "Sensitivity analyses (n = 3364)\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      698.2,
+      173.4,
+      711.7
+     ],
+     "text": "Worst case (assumes SSI is present\nif SSI is missing)\n"
+    },
+    {
+     "bbox": [
+      194.9,
+      698.2,
+      402.1,
+      704.2
+     ],
+     "text": "NA\nNA\n0.91 (0.86-0.95)\n<.001\n"
+    },
+    {
+     "bbox": [
+      75.3,
+      716.9,
+      180.3,
+      730.4
+     ],
+     "text": "Best case (assumes SSI is not present\nif SSI is missing)\n"
+    },
+    {
+     "bbox": [
+      194.9,
+      716.9,
+      394.4,
+      722.9
+     ],
+     "text": "NA\nNA\n0.75 (0.61-0.94)\n.01\n"
+    },
+    {
+     "bbox": [
+      431.5,
+      700.9,
+      536.5,
+      734.2
+     ],
+     "text": "Abbreviations: ASA, American\nSociety of Anesthesiologists; NA, not\napplicable; RR, relative risk; SSI,\nsurgical site infection.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      70.2,
+      243.5,
+      77.0
+     ],
+     "text": "Figure 3. Adherence to Infection Prevention Over Time\n"
+    },
+    {
+     "bbox": [
+      86.7,
+      90.9,
+      90.0,
+      96.0
+     ],
+     "text": "6\n"
+    },
+    {
+     "bbox": [
+      86.7,
+      131.7,
+      90.0,
+      136.8
+     ],
+     "text": "4\n"
+    },
+    {
+     "bbox": [
+      86.7,
+      111.3,
+      90.0,
+      116.4
+     ],
+     "text": "5\n"
+    },
+    {
+     "bbox": [
+      86.7,
+      152.1,
+      90.0,
+      157.3
+     ],
+     "text": "3\n"
+    },
+    {
+     "bbox": [
+      86.7,
+      172.5,
+      90.0,
+      177.7
+     ],
+     "text": "2\n"
+    },
+    {
+     "bbox": [
+      86.7,
+      192.9,
+      90.0,
+      198.1
+     ],
+     "text": "1\n"
+    },
+    {
+     "bbox": [
+      86.7,
+      213.3,
+      90.0,
+      218.5
+     ],
+     "text": "0\n"
+    },
+    {
+     "bbox": [
+      73.9,
+      125.0,
+      79.5,
+      183.9
+     ],
+     "text": "Mean adherence score\n"
+    },
+    {
+     "bbox": [
+      204.6,
+      229.2,
+      309.2,
+      234.8
+     ],
+     "text": "Time from Clean Cut implementation, d\n"
+    },
+    {
+     "bbox": [
+      93.4,
+      219.6,
+      419.2,
+      224.8
+     ],
+     "text": "–100\n–50\n0\n50\n100\n150\n200\n"
+    },
+    {
+     "bbox": [
+      113.0,
+      109.8,
+      191.1,
+      123.0
+     ],
+     "text": "Fitted values (preintervention)\nFitted values (postintervention)\n"
+    },
+    {
+     "bbox": [
+      112.8,
+      101.2,
+      167.2,
+      106.4
+     ],
+     "text": "Mean adherence score\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      32.9,
+      539.4,
+      39.2
+     ],
+     "text": "Research Original Investigation\nSurgical Infection Prevention Program in Low-Income Environments\n"
+    },
+    {
+     "bbox": [
+      45.4,
+      743.1,
+      539.4,
+      749.4
+     ],
+     "text": "166\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n(Reprinted)\njamasurgery.com\n"
+    },
+    {
+     "bbox": [
+      198.8,
+      761.0,
+      411.9,
+      768.1
+     ],
+     "text": "© 2023 American Medical Association. All rights reserved.\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      274.5,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "line delivery of some training and team meetings and noted\nthat these were possible to deliver in a lighter-touch format.\nFor the second modification, which involved hospital-\nwide implementation, community building, and eliminating\nfinancial incentives, the inclusion of more operating rooms in\nthe program enabled more hospital-wide engagement of staff,\ncreating a cultural shift that appears to persist after formal con-\nclusion of the Clean Cut program, as seen in a separate study35\nof program sustainability. In an effort to adapt Clean Cut struc-\nturetomaximizesustainabilityandscalability,Lifeboxstopped\nproviding stipends to hospital staff for participation in the pro-\ngram. When the hospital rather than an external organization\ntakes on responsibility for aligning staff incentives or modes\nofcompensationforadditionalresponsibilitiesassociatedwith\nthe program, there is greater potential for uptake and long-\nterm impact.36-39\nFor the third modification, which involved establishing\na platform for data entry, quality checking, and initial analy-\nsis, the addition of an automated data management system\nwith the ability to synthesize and report real-time adher-\nence and outcome information to program leaders was a\nmajor upgrade to the Clean Cut program. The DHIS2 plat-\nform was chosen because of its open-source nature40 and\nability to potentially integrate with the existing Ethiopian\nFederal Ministry of Health reporting system. The ability to\naudit data for quality and completeness and to view and\nreact to trends in real time without the need for an interme-\ndiary to clean and analyze data each month reduced the\nburden on program staff and allowed for more hospital team\nautonomy. We anticipate this platform will continue to\nallow for scalability of the program.\nFor the fourth modification, which involved instituting\nsupplementary education to reinforce infection prevention\nstandards, supplementary training on infection prevention\nstandards was a critical part of improving practice in Ethiopia,\nwhere many IPC processes are nursing driven and fit with rec-\nommendations for other LMIC’s IPC programs.20 The avail-\nable workshops on IPC standards, SSC adaptation and up-\ntake, and surgical instrument reprocessing can now be\ndeliveredinastandardizedfashiontoallCleanCutsitestoclose\nthese knowledge and training gaps.41,42\nLimitations\nThis study has some limitations. As with many quality im-\nprovement programs in the global health sphere, our work was\nsignificantlyaffectedbyCOVID-19andshiftinggeopolitics.Sev-\neral hospitals had just completed delivery of Clean Cut work-\nshops in March 2020 and then had a long interruption in pro-\ngramdeliverybecauseofthepandemicbeforeimplementation\nresumed 6 to 8 months later. Additionally, the political up-\nheaval and ethnic conflicts in Ethiopia over the past several\nyears intermittently interrupted communications and made\ntravel unsafe, which in turn affected the ease of the Clean Cut\nprogram implementation. These delays also prolonged the\nbaseline period for some hospitals, which continued to col-\nlect data even though the program had formally not been\nimplemented, and resulted in our baseline and follow-up\ngroups being nearly equal in size; our original 6-month pro-\ngram design includes a baseline cohort representing only 1 to\n2 months of data.\nThe loss to follow-up was high in our cohort: up to one-\nquarter of patients did not have inpatient data, although many\nlikelyhadoutpatientoperations(ourdataformatdidnotdistin-\nguish between inpatient and outpatient surgery), and half did\nnot have 30-day outpatient follow-up. The higher loss to fol-\nlow-up in the preintervention phase mirrors our experience in\nthepilotstudybecausedatacollectorsgetbetteratfollowingup\npatientsovertime.Becauseoursensitivityanalysesassumedthat\nallpatientsmissingdatawereeitherpositiveornegativeforSSIs,\nthisapproachbiasesourworkfororagainstourinterventionhav-\ning an effect, respectively. Because both analyses demon-\nstratedastrongeffectofourintervention,weareconfidentthat\nour findings represent true improvements in outcomes. Al-\nthough patient follow-up is a pervasive challenge in many en-\nvironments, the fact that this degree of follow-up was accom-\nplished is a testament to the commitment of the hospital team,\nwho have multiple competing priorities.\nFurthermore, the Lifebox Clean Cut program has a rela-\ntively narrow focus on 6 infection prevention areas and ex-\ncluded some standards that are common in bundled quality\nimprovement programs, such as hair clipping, glycemic con-\ntrol,normothermia,andpreoperativebathing.The6areaswere\nchosen in part because of the clear gaps seen in each during\nprogram development8 and the difficulty in monitoring more\ncomplex measures, such as intraoperative temperature or gly-\ncemic control in settings with limited patient monitoring and\nlaboratorytestingcapacity.Otherinterventions,suchaschang-\ning gloves and instruments for abdominal wound closure af-\nter gastrointestinal surgery, can impact SSI risk in low-\nincome environments as well15 and could be considered for\nfuture iterations of this program.\nConclusions\nThis cohort study’s findings confirm that the Lifebox Clean Cut\nprogram is an effective and scalable surgical quality improve-\nment program with a demonstrable association with im-\nproved adherence to infection prevention standards in Ethio-\npian operating rooms and with a reduction in SSIs. The\nmodifications made to program implementation as a result of\nshared learning allow for wider implementation with more\nstandardized and automated program features and produced\nresults that were similar to the original pilot program, includ-\ning comparable reductions in SSI. Because the Clean Cut pro-\ngram is scaled to a wider global audience, further study of the\nstrategies of successful program implementation will be\nneeded.\nARTICLE INFORMATION\nAccepted for Publication: August 7, 2023.\nPublished Online: November 29, 2023.\ndoi:10.1001/jamasurg.2023.6033\nAuthor Affiliations: Department of Surgery,\nUniversity of California, San Francisco (Starr);\nLifebox Foundation, New York, New York (Starr,\nSurgical Infection Prevention Program in Low-Income Environments\nOriginal Investigation Research\njamasurgery.com\n(Reprinted)\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n167\n© 2023 American Medical Association. All rights reserved.\nDownloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n",
+   "n_chars": 6431,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.3,
+      64.2,
+      299.9,
+      83.5
+     ],
+     "text": "line delivery of some training and team meetings and noted\nthat these were possible to deliver in a lighter-touch format.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      87.1,
+      300.1,
+      152.4
+     ],
+     "text": "For the second modification, which involved hospital-\nwide implementation, community building, and eliminating\nfinancial incentives, the inclusion of more operating rooms in\nthe program enabled more hospital-wide engagement of staff,\ncreating a cultural shift that appears to persist after formal con-\nclusion of the Clean Cut program, as seen in a separate study35\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      156.0,
+      300.1,
+      244.2
+     ],
+     "text": "of program sustainability. In an effort to adapt Clean Cut struc-\nturetomaximizesustainabilityandscalability,Lifeboxstopped\nproviding stipends to hospital staff for participation in the pro-\ngram. When the hospital rather than an external organization\ntakes on responsibility for aligning staff incentives or modes\nofcompensationforadditionalresponsibilitiesassociatedwith\nthe program, there is greater potential for uptake and long-\nterm impact.36-39\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      247.8,
+      299.9,
+      416.3
+     ],
+     "text": "For the third modification, which involved establishing\na platform for data entry, quality checking, and initial analy-\nsis, the addition of an automated data management system\nwith the ability to synthesize and report real-time adher-\nence and outcome information to program leaders was a\nmajor upgrade to the Clean Cut program. The DHIS2 plat-\nform was chosen because of its open-source nature40 and\nability to potentially integrate with the existing Ethiopian\nFederal Ministry of Health reporting system. The ability to\naudit data for quality and completeness and to view and\nreact to trends in real time without the need for an interme-\ndiary to clean and analyze data each month reduced the\nburden on program staff and allowed for more hospital team\nautonomy. We anticipate this platform will continue to\nallow for scalability of the program.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      419.9,
+      300.0,
+      531.0
+     ],
+     "text": "For the fourth modification, which involved instituting\nsupplementary education to reinforce infection prevention\nstandards, supplementary training on infection prevention\nstandards was a critical part of improving practice in Ethiopia,\nwhere many IPC processes are nursing driven and fit with rec-\nommendations for other LMIC’s IPC programs.20 The avail-\nable workshops on IPC standards, SSC adaptation and up-\ntake, and surgical instrument reprocessing can now be\ndeliveredinastandardizedfashiontoallCleanCutsitestoclose\nthese knowledge and training gaps.41,42\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      546.6,
+      300.0,
+      680.2
+     ],
+     "text": "Limitations\nThis study has some limitations. As with many quality im-\nprovement programs in the global health sphere, our work was\nsignificantlyaffectedbyCOVID-19andshiftinggeopolitics.Sev-\neral hospitals had just completed delivery of Clean Cut work-\nshops in March 2020 and then had a long interruption in pro-\ngramdeliverybecauseofthepandemicbeforeimplementation\nresumed 6 to 8 months later. Additionally, the political up-\nheaval and ethnic conflicts in Ethiopia over the past several\nyears intermittently interrupted communications and made\ntravel unsafe, which in turn affected the ease of the Clean Cut\nprogram implementation. These delays also prolonged the\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      64.2,
+      539.5,
+      324.5
+     ],
+     "text": "baseline period for some hospitals, which continued to col-\nlect data even though the program had formally not been\nimplemented, and resulted in our baseline and follow-up\ngroups being nearly equal in size; our original 6-month pro-\ngram design includes a baseline cohort representing only 1 to\n2 months of data.\nThe loss to follow-up was high in our cohort: up to one-\nquarter of patients did not have inpatient data, although many\nlikelyhadoutpatientoperations(ourdataformatdidnotdistin-\nguish between inpatient and outpatient surgery), and half did\nnot have 30-day outpatient follow-up. The higher loss to fol-\nlow-up in the preintervention phase mirrors our experience in\nthepilotstudybecausedatacollectorsgetbetteratfollowingup\npatientsovertime.Becauseoursensitivityanalysesassumedthat\nallpatientsmissingdatawereeitherpositiveornegativeforSSIs,\nthisapproachbiasesourworkfororagainstourinterventionhav-\ning an effect, respectively. Because both analyses demon-\nstratedastrongeffectofourintervention,weareconfidentthat\nour findings represent true improvements in outcomes. Al-\nthough patient follow-up is a pervasive challenge in many en-\nvironments, the fact that this degree of follow-up was accom-\nplished is a testament to the commitment of the hospital team,\nwho have multiple competing priorities.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      328.1,
+      539.5,
+      485.1
+     ],
+     "text": "Furthermore, the Lifebox Clean Cut program has a rela-\ntively narrow focus on 6 infection prevention areas and ex-\ncluded some standards that are common in bundled quality\nimprovement programs, such as hair clipping, glycemic con-\ntrol,normothermia,andpreoperativebathing.The6areaswere\nchosen in part because of the clear gaps seen in each during\nprogram development8 and the difficulty in monitoring more\ncomplex measures, such as intraoperative temperature or gly-\ncemic control in settings with limited patient monitoring and\nlaboratorytestingcapacity.Otherinterventions,suchaschang-\ning gloves and instruments for abdominal wound closure af-\nter gastrointestinal surgery, can impact SSI risk in low-\nincome environments as well15 and could be considered for\nfuture iterations of this program.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      516.2,
+      365.8,
+      526.2
+     ],
+     "text": "Conclusions\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      534.6,
+      539.5,
+      680.2
+     ],
+     "text": "This cohort study’s findings confirm that the Lifebox Clean Cut\nprogram is an effective and scalable surgical quality improve-\nment program with a demonstrable association with im-\nproved adherence to infection prevention standards in Ethio-\npian operating rooms and with a reduction in SSIs. The\nmodifications made to program implementation as a result of\nshared learning allow for wider implementation with more\nstandardized and automated program features and produced\nresults that were similar to the original pilot program, includ-\ning comparable reductions in SSI. Because the Clean Cut pro-\ngram is scaled to a wider global audience, further study of the\nstrategies of successful program implementation will be\nneeded.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      700.2,
+      143.6,
+      706.5
+     ],
+     "text": "ARTICLE INFORMATION\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      712.1,
+      194.2,
+      718.5
+     ],
+     "text": "Accepted for Publication: August 7, 2023.\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      700.2,
+      345.5,
+      715.5
+     ],
+     "text": "Published Online: November 29, 2023.\ndoi:10.1001/jamasurg.2023.6033\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      700.2,
+      527.0,
+      724.5
+     ],
+     "text": "Author Affiliations: Department of Surgery,\nUniversity of California, San Francisco (Starr);\nLifebox Foundation, New York, New York (Starr,\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      32.9,
+      539.4,
+      39.2
+     ],
+     "text": "Surgical Infection Prevention Program in Low-Income Environments\nOriginal Investigation Research\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      743.1,
+      566.2,
+      749.4
+     ],
+     "text": "jamasurgery.com\n(Reprinted)\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n167\n"
+    },
+    {
+     "bbox": [
+      198.8,
+      761.0,
+      411.9,
+      768.1
+     ],
+     "text": "© 2023 American Medical Association. All rights reserved.\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      274.5,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "Gebeyehu, Nofal, Tesfaye, Mammo, Weiser);\nDepartment of Surgery, Addis Ababa University,\nAddis Ababa, Ethiopia (Gebeyehu, Mammo);\nDepartment of Surgery, Boston Medical Center,\nBoston, Massachusetts (Nofal); Department of\nSurgery, Stanford University, Palo Alto, California\n(Nofal, Weiser); Hoag Family Cancer Institute,\nNewport Beach, California (Forrester); Department\nof Surgery, St Peter’s Specialized Hospital, Addis\nAbaba, Ethiopia (Tesfaye).\nLifebox Clean Cut Collaborative: Daniel Abebe\nAmdie, MD; Milena Abreha, BA; Mechal Alemu, MD;\nSeleman Ally, MS; Abdii Amin Abdukadir, MD;\nGezahegn Assefa, MD; Yoseph Bedore, MD; Abebe\nBekele, MD; Mahlet Berhanu, MD; Senait Bitew\nAlemu, BSN, MPH; Zelalem Chimdesa, MD; Miliard\nDerbew, MD; Christina Fast, CRCST; Katie\nFernandez, MA, MSc; Selam Kahsay, MPH; Ananya\nKassahun, MD; Hillena Kebede, MD, MPH; Garoma\nKitesa, MD, MPH; Luca Koritsanszky, BSN, MPH;\nBella Lima, MA, MSc; Belay Mellese, MD; Miklol\nMengistu, MD; Samuel Negash, MD; Mansi Tara,\nBDS, MPH, PMP; Sara Taye, PT, MPH; Kris Torgeson,\nMA, MPH; Milkias Tsehaye, MD; Agazi Tiruneh, MD;\nKristine Stave, MA.\nAffiliations of Lifebox Clean Cut Collaborative:\nLifebox Foundation, New York, New York (Abreha,\nAlly, S. B. Alemu, Derbew, Fernandez, Kebede,\nLima, Negash, Tara, Taye, Torgeson); Department of\nSurgery, Addis Ababa University, Addis Ababa,\nEthiopia (Derbew); Department of Surgery, Yekatit\n12 Hospital Medical College, Addis Ababa, Ethiopia\n(Amdie, Assefa, Kitesa); Department of Surgery,\nZewditu Memorial Hospital, Addis Ababa, Ethiopia\n(M. Alemu, Chimdesa, Tiruneh); Haramaya\nUniversity Hiwot Fana Comprehensive Specialized\nHospital, Harar, Ethiopia (Abdukadir); Department\nof Surgery, Hawassa University Hospital, Hawassa,\nEthiopia (Bedore, Mellese); Department of Surgery,\nUniversity of Global Health Equity, Kigali, Rwanda\n(Bekele, Mengistu); Jhpiego/Ethiopia, Addis Ababa,\nEthiopia (Berhanu); Sterile Processing Education\nCharitable Trust, Calgary, Alberta, Canada (Fast);\nInternational Samaritan, Addis Ababa, Ethiopia\n(Kahsay); Department of Surgery, University of\nGondar, Gondar, Ethiopia (Kassahun); Department\nof Obstetrics and Gynecology, Boston Medical\nCenter, Boston, Massachusetts (Koritsanszky);\nDepartment of Surgery, Menelik II Hospital, Addis\nAbaba, Ethiopia (Negash); Department of\nOrthopedics, St Paul Millennium Medical College,\nAddis Ababa, Ethiopia (Tsehaye); World Federation\nof Societies of Anaesthesiologists, London, UK\n(Stave).\nAuthor Contributions: Drs Starr and Nofal had full\naccess to all of the data in the study and take\nresponsibility for the integrity of the data and the\naccuracy of the data analysis. Drs Mammo and\nWeiser are senior authors responsible for study\noversight.\nConcept and design: Starr, Gebeyehu, Forrester,\nTesfaye, M. Alemu, Bekele, Tefera, S. Alemu, Merga,\nDerbew, Fast, Kitesa, Koritsanszky, Abebe,\nHailemariam, Tara, Torgeson, Hiruy, Tsehaye, Stave,\nMammo, Weiser.\nAcquisition, analysis, or interpretation of data: Starr,\nNofal, Amdie, Kebedew, M. Alemu, Ally, Abdukadir,\nHurrisa, Bedore, Bekele, Tefera, Fernandez, Abraha,\nKassahun, Kebede, Lima, Negash, Taye,\nMammo, Weiser.\nDrafting of the manuscript: Starr, M. Alemu, Ally,\nBekele, S. Alemu, Kitesa, Abebe, Hiruy, Tsehaye.\nCritical review of the manuscript for important\nintellectual content: Starr, Gebeyehu, Nofal,\nForrester, Tesfaye, Amdie, Kebedew, M. Alemu,\nAbdukadir, Hurrisa, Bedore, Bekele, Tefera, Merga,\nDerbew, Fast, Fernandez, Abraha, Kassahun,\nKebede, Koritsanszky, Lima, Hailemariam, Negash,\nTara, Taye, Torgeson, Stave, Mammo, Weiser.\nStatistical analysis: Starr, Gebeyehu, Nofal, M.\nAlemu, Ally, Kitesa, Abebe, Hiruy.\nObtained funding: M. Alemu, Abdukadir, Torgeson.\nAdministrative, technical, or material support:\nGebeyehu, Forrester, Tesfaye, Amdie, Kebedew, M.\nAlemu, Abdukadir, Bedore, Tefera, S. Alemu, Fast,\nFernandez, Abraha, Kassahun, Kebede,\nKoritsanszky, Lima, Negash, Tara, Taye, Torgeson,\nTsehaye, Mammo, Weiser.\nSupervision: M. Alemu, Abdukadir, Bedore, Bekele,\nMerga, Derbew, Fernandez, Kassahun, Torgeson,\nMammo, Weiser.\nConflict of Interest Disclosures: Ms Fast reported\nreceiving personal fees from Lifebox during the\nconduct of the study. Dr Weiser reported serving as\na consulting medical officer for Lifebox. No other\ndisclosures were reported.\nFunding/Support: This study was supported by\nGlobal Health Equity Scholars grant D43TW010540\nfrom the National Institutes of Health Fogarty\nInternational Center (Drs Starr and Nofal) and T32\ntraining grant DK007573 from the National\nInstitutes of Health (Dr Starr). The Clean Cut\nProgram is funded by Lifebox, with additional\nsupport from the Royal College of Surgeons of\nEdinburgh’s Global Surgery Foundation.\nRole of the Funder/Sponsor: Funding supported\nresearch fellow salary and program\nimplementation, including information technology\nsupport for the creation of data management\nplatform. No external funder was involved in\ndecisions on research design, execution, or\nsubmission of the manuscript.\nData Sharing Statement: See Supplement 2.\nREFERENCES\n1. Allegranzi B, Bagheri Nejad S, Combescure C,\net al. Burden of endemic health-care-associated\ninfection in developing countries: systematic\nreview and meta-analysis. Lancet. 2011;377(9761):\n228-241. doi:10.1016/S0140-6736(10)61458-4\n2. Biccard BM, Madiba TE, Kluyts HL, et al; African\nSurgical Outcomes Study (ASOS) investigators.\nPerioperative patient outcomes in the African\nSurgical Outcomes Study: a 7-day prospective\nobservational cohort study. Lancet. 2018;391\n(10130):1589-1598. doi:10.1016/S0140-6736(18)\n30001-1\n3. Rothe C, Schlaich C, Thompson S.\nHealthcare-associated infections in sub-Saharan\nAfrica. J Hosp Infect. 2013;85(4):257-267. doi:10.\n1016/j.jhin.2013.09.008\n4. GlobalSurg Collaborative. Surgical site infection\nafter gastrointestinal surgery in high-income,\nmiddle-income, and low-income countries:\na prospective, international, multicentre cohort\nstudy. Lancet Infect Dis. 2018;18(5):516-525. doi:10.\n1016/S1473-3099(18)30101-4\n5. Woldemichael A, Takian A, Akbari Sari A,\nOlyaeemanesh A. Inequalities in healthcare\nresources and outcomes threatening sustainable\nhealth development in Ethiopia: panel data\nanalysis. BMJ Open. 2019;9(1):e022923. doi:10.\n1136/bmjopen-2018-022923\n6. Wodajo S, Belayneh M, Gebremedhin S.\nMagnitude and factors associated with\npost-cesarean surgical site infection at Hawassa\nUniversity Teaching and Referral Hospital, Southern\nEthiopia: a cross-sectional study. Ethiop J Health Sci.\n2017;27(3):283-290. doi:10.4314/ejhs.v27i3.10\n7. Weldu MG, Berhane H, Berhe N, et al. Magnitude\nand determinant factors of surgical site infection in\nSuhul Hospital Tigrai, Northern Ethiopia:\na cross-sectional study. Surg Infect (Larchmt). 2018;\n19(7):684-690. doi:10.1089/sur.2017.312\n8. Forrester JA, Koritsanszky L, Parsons BD, et al.\nDevelopment of a surgical infection surveillance\nprogram at a tertiary hospital in Ethiopia: lessons\nlearned from two surveillance strategies. Surg Infect\n(Larchmt). 2018;19(1):25-32. doi:10.1089/sur.2017.\n136\n9. Guerra J, Guichon C, Isnard M, et al. Active\nprospective surveillance study with post-discharge\nsurveillance of surgical site infections in Cambodia.\nJ Infect Public Health. 2015;8(3):298-301. doi:10.\n1016/j.jiph.2014.09.007\n10. Cherla DV, Holihan JL, Flores-Gonzalez JR, et al.\nDecreasing surgical site infections after ventral\nhernia repair: a quality-improvement initiative. Surg\nInfect (Larchmt). 2017;18(7):780-786. doi:10.1089/\nsur.2017.142\n11. Zywot A, Lau CSM, Stephen Fletcher H, Paul S.\nBundles prevent surgical site infections after\ncolorectal surgery: meta-analysis and systematic\nreview. J Gastrointest Surg. 2017;21(11):1915-1930.\ndoi:10.1007/s11605-017-3465-3\n12. Tanner J, Padley W, Assadian O, Leaper D,\nKiernan M, Edmiston C. Do surgical care bundles\nreduce the risk of surgical site infections in patients\nundergoing colorectal surgery? a systematic review\nand cohort meta-analysis of 8,515 patients. Surgery.\n2015;158(1):66-77. doi:10.1016/j.surg.2015.03.009\n13. Munday GS, Deveaux P, Roberts H, Fry DE, Polk\nHC. Impact of implementation of the Surgical Care\nImprovement Project and future strategies for\nimproving quality in surgery. Am J Surg. 2014;208\n(5):835-840. doi:10.1016/j.amjsurg.2014.05.005\n14. Cataife G, Weinberg DA, Wong HH, Kahn KL.\nThe effect of Surgical Care Improvement Project\n(SCIP) compliance on surgical site infections (SSI).\nMed Care. 2014;52(2)(suppl 1):S66-S73. doi:10.\n1097/MLR.0000000000000028\n15. Ademuyiwa AO, Adisa AO, Bhangu A, et al;\nNIHR Global Research Health Unit on Global\nSurgery. Routine sterile glove and instrument\nchange at the time of abdominal wound closure to\nprevent surgical site infection (ChEETAh):\na pragmatic, cluster-randomised trial in seven\nlow-income and middle-income countries. Lancet.\n2022;400(10365):1767-1776. doi:10.1016/S0140-\n6736(22)01884-0\n16. World Health Organization. Global guidelines\non the prevention of surgical site infection.\nAccessed October 13, 2022. https://www.who.int/\npublications/i/item/9789241550475\n17. Berríos-Torres SI, Umscheid CA, Bratzler DW,\net al; Healthcare Infection Control Practices\nAdvisory Committee. Centers for Disease Control\nand Prevention Guideline for the Prevention of\nSurgical Site Infection, 2017. JAMA Surg. 2017;152\n(8):784-791. doi:10.1001/jamasurg.2017.0904\nResearch Original Investigation\nSurgical Infection Prevention Program in Low-Income Environments\n168\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n(Reprinted)\njamasurgery.com\n© 2023 American Medical Association. All rights reserved.\nDownloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n",
+   "n_chars": 9642,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.3,
+      64.8,
+      217.6,
+      152.0
+     ],
+     "text": "Gebeyehu, Nofal, Tesfaye, Mammo, Weiser);\nDepartment of Surgery, Addis Ababa University,\nAddis Ababa, Ethiopia (Gebeyehu, Mammo);\nDepartment of Surgery, Boston Medical Center,\nBoston, Massachusetts (Nofal); Department of\nSurgery, Stanford University, Palo Alto, California\n(Nofal, Weiser); Hoag Family Cancer Institute,\nNewport Beach, California (Forrester); Department\nof Surgery, St Peter’s Specialized Hospital, Addis\nAbaba, Ethiopia (Tesfaye).\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      157.6,
+      219.1,
+      289.7
+     ],
+     "text": "Lifebox Clean Cut Collaborative: Daniel Abebe\nAmdie, MD; Milena Abreha, BA; Mechal Alemu, MD;\nSeleman Ally, MS; Abdii Amin Abdukadir, MD;\nGezahegn Assefa, MD; Yoseph Bedore, MD; Abebe\nBekele, MD; Mahlet Berhanu, MD; Senait Bitew\nAlemu, BSN, MPH; Zelalem Chimdesa, MD; Miliard\nDerbew, MD; Christina Fast, CRCST; Katie\nFernandez, MA, MSc; Selam Kahsay, MPH; Ananya\nKassahun, MD; Hillena Kebede, MD, MPH; Garoma\nKitesa, MD, MPH; Luca Koritsanszky, BSN, MPH;\nBella Lima, MA, MSc; Belay Mellese, MD; Miklol\nMengistu, MD; Samuel Negash, MD; Mansi Tara,\nBDS, MPH, PMP; Sara Taye, PT, MPH; Kris Torgeson,\nMA, MPH; Milkias Tsehaye, MD; Agazi Tiruneh, MD;\nKristine Stave, MA.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      295.3,
+      219.9,
+      553.1
+     ],
+     "text": "Affiliations of Lifebox Clean Cut Collaborative:\nLifebox Foundation, New York, New York (Abreha,\nAlly, S. B. Alemu, Derbew, Fernandez, Kebede,\nLima, Negash, Tara, Taye, Torgeson); Department of\nSurgery, Addis Ababa University, Addis Ababa,\nEthiopia (Derbew); Department of Surgery, Yekatit\n12 Hospital Medical College, Addis Ababa, Ethiopia\n(Amdie, Assefa, Kitesa); Department of Surgery,\nZewditu Memorial Hospital, Addis Ababa, Ethiopia\n(M. Alemu, Chimdesa, Tiruneh); Haramaya\nUniversity Hiwot Fana Comprehensive Specialized\nHospital, Harar, Ethiopia (Abdukadir); Department\nof Surgery, Hawassa University Hospital, Hawassa,\nEthiopia (Bedore, Mellese); Department of Surgery,\nUniversity of Global Health Equity, Kigali, Rwanda\n(Bekele, Mengistu); Jhpiego/Ethiopia, Addis Ababa,\nEthiopia (Berhanu); Sterile Processing Education\nCharitable Trust, Calgary, Alberta, Canada (Fast);\nInternational Samaritan, Addis Ababa, Ethiopia\n(Kahsay); Department of Surgery, University of\nGondar, Gondar, Ethiopia (Kassahun); Department\nof Obstetrics and Gynecology, Boston Medical\nCenter, Boston, Massachusetts (Koritsanszky);\nDepartment of Surgery, Menelik II Hospital, Addis\nAbaba, Ethiopia (Negash); Department of\nOrthopedics, St Paul Millennium Medical College,\nAddis Ababa, Ethiopia (Tsehaye); World Federation\nof Societies of Anaesthesiologists, London, UK\n(Stave).\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      558.7,
+      219.2,
+      717.7
+     ],
+     "text": "Author Contributions: Drs Starr and Nofal had full\naccess to all of the data in the study and take\nresponsibility for the integrity of the data and the\naccuracy of the data analysis. Drs Mammo and\nWeiser are senior authors responsible for study\noversight.\nConcept and design: Starr, Gebeyehu, Forrester,\nTesfaye, M. Alemu, Bekele, Tefera, S. Alemu, Merga,\nDerbew, Fast, Kitesa, Koritsanszky, Abebe,\nHailemariam, Tara, Torgeson, Hiruy, Tsehaye, Stave,\nMammo, Weiser.\nAcquisition, analysis, or interpretation of data: Starr,\nNofal, Amdie, Kebedew, M. Alemu, Ally, Abdukadir,\nHurrisa, Bedore, Bekele, Tefera, Fernandez, Abraha,\nKassahun, Kebede, Lima, Negash, Taye,\nMammo, Weiser.\nDrafting of the manuscript: Starr, M. Alemu, Ally,\nBekele, S. Alemu, Kitesa, Abebe, Hiruy, Tsehaye.\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      64.8,
+      376.7,
+      232.8
+     ],
+     "text": "Critical review of the manuscript for important\nintellectual content: Starr, Gebeyehu, Nofal,\nForrester, Tesfaye, Amdie, Kebedew, M. Alemu,\nAbdukadir, Hurrisa, Bedore, Bekele, Tefera, Merga,\nDerbew, Fast, Fernandez, Abraha, Kassahun,\nKebede, Koritsanszky, Lima, Hailemariam, Negash,\nTara, Taye, Torgeson, Stave, Mammo, Weiser.\nStatistical analysis: Starr, Gebeyehu, Nofal, M.\nAlemu, Ally, Kitesa, Abebe, Hiruy.\nObtained funding: M. Alemu, Abdukadir, Torgeson.\nAdministrative, technical, or material support:\nGebeyehu, Forrester, Tesfaye, Amdie, Kebedew, M.\nAlemu, Abdukadir, Bedore, Tefera, S. Alemu, Fast,\nFernandez, Abraha, Kassahun, Kebede,\nKoritsanszky, Lima, Negash, Tara, Taye, Torgeson,\nTsehaye, Mammo, Weiser.\nSupervision: M. Alemu, Abdukadir, Bedore, Bekele,\nMerga, Derbew, Fernandez, Kassahun, Torgeson,\nMammo, Weiser.\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      238.4,
+      377.8,
+      280.7
+     ],
+     "text": "Conflict of Interest Disclosures: Ms Fast reported\nreceiving personal fees from Lifebox during the\nconduct of the study. Dr Weiser reported serving as\na consulting medical officer for Lifebox. No other\ndisclosures were reported.\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      286.3,
+      379.0,
+      364.5
+     ],
+     "text": "Funding/Support: This study was supported by\nGlobal Health Equity Scholars grant D43TW010540\nfrom the National Institutes of Health Fogarty\nInternational Center (Drs Starr and Nofal) and T32\ntraining grant DK007573 from the National\nInstitutes of Health (Dr Starr). The Clean Cut\nProgram is funded by Lifebox, with additional\nsupport from the Royal College of Surgeons of\nEdinburgh’s Global Surgery Foundation.\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      370.1,
+      375.8,
+      430.3
+     ],
+     "text": "Role of the Funder/Sponsor: Funding supported\nresearch fellow salary and program\nimplementation, including information technology\nsupport for the creation of data management\nplatform. No external funder was involved in\ndecisions on research design, execution, or\nsubmission of the manuscript.\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      436.0,
+      360.3,
+      442.3
+     ],
+     "text": "Data Sharing Statement: See Supplement 2.\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      453.9,
+      271.8,
+      460.3
+     ],
+     "text": "REFERENCES\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      465.9,
+      374.3,
+      508.2
+     ],
+     "text": "1. Allegranzi B, Bagheri Nejad S, Combescure C,\net al. Burden of endemic health-care-associated\ninfection in developing countries: systematic\nreview and meta-analysis. Lancet. 2011;377(9761):\n228-241. doi:10.1016/S0140-6736(10)61458-4\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      513.8,
+      375.5,
+      574.0
+     ],
+     "text": "2. Biccard BM, Madiba TE, Kluyts HL, et al; African\nSurgical Outcomes Study (ASOS) investigators.\nPerioperative patient outcomes in the African\nSurgical Outcomes Study: a 7-day prospective\nobservational cohort study. Lancet. 2018;391\n(10130):1589-1598. doi:10.1016/S0140-6736(18)\n30001-1\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      579.7,
+      369.8,
+      612.9
+     ],
+     "text": "3. Rothe C, Schlaich C, Thompson S.\nHealthcare-associated infections in sub-Saharan\nAfrica. J Hosp Infect. 2013;85(4):257-267. doi:10.\n1016/j.jhin.2013.09.008\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      618.6,
+      377.6,
+      669.8
+     ],
+     "text": "4. GlobalSurg Collaborative. Surgical site infection\nafter gastrointestinal surgery in high-income,\nmiddle-income, and low-income countries:\na prospective, international, multicentre cohort\nstudy. Lancet Infect Dis. 2018;18(5):516-525. doi:10.\n1016/S1473-3099(18)30101-4\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      675.4,
+      370.5,
+      708.7
+     ],
+     "text": "5. Woldemichael A, Takian A, Akbari Sari A,\nOlyaeemanesh A. Inequalities in healthcare\nresources and outcomes threatening sustainable\nhealth development in Ethiopia: panel data\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      64.8,
+      526.6,
+      80.1
+     ],
+     "text": "analysis. BMJ Open. 2019;9(1):e022923. doi:10.\n1136/bmjopen-2018-022923\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      85.7,
+      538.3,
+      137.0
+     ],
+     "text": "6. Wodajo S, Belayneh M, Gebremedhin S.\nMagnitude and factors associated with\npost-cesarean surgical site infection at Hawassa\nUniversity Teaching and Referral Hospital, Southern\nEthiopia: a cross-sectional study. Ethiop J Health Sci.\n2017;27(3):283-290. doi:10.4314/ejhs.v27i3.10\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      142.6,
+      538.4,
+      184.9
+     ],
+     "text": "7. Weldu MG, Berhane H, Berhe N, et al. Magnitude\nand determinant factors of surgical site infection in\nSuhul Hospital Tigrai, Northern Ethiopia:\na cross-sectional study. Surg Infect (Larchmt). 2018;\n19(7):684-690. doi:10.1089/sur.2017.312\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      190.5,
+      538.9,
+      241.8
+     ],
+     "text": "8. Forrester JA, Koritsanszky L, Parsons BD, et al.\nDevelopment of a surgical infection surveillance\nprogram at a tertiary hospital in Ethiopia: lessons\nlearned from two surveillance strategies. Surg Infect\n(Larchmt). 2018;19(1):25-32. doi:10.1089/sur.2017.\n136\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      247.4,
+      536.0,
+      289.7
+     ],
+     "text": "9. Guerra J, Guichon C, Isnard M, et al. Active\nprospective surveillance study with post-discharge\nsurveillance of surgical site infections in Cambodia.\nJ Infect Public Health. 2015;8(3):298-301. doi:10.\n1016/j.jiph.2014.09.007\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      295.3,
+      538.8,
+      337.6
+     ],
+     "text": "10. Cherla DV, Holihan JL, Flores-Gonzalez JR, et al.\nDecreasing surgical site infections after ventral\nhernia repair: a quality-improvement initiative. Surg\nInfect (Larchmt). 2017;18(7):780-786. doi:10.1089/\nsur.2017.142\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      343.2,
+      533.3,
+      385.5
+     ],
+     "text": "11. Zywot A, Lau CSM, Stephen Fletcher H, Paul S.\nBundles prevent surgical site infections after\ncolorectal surgery: meta-analysis and systematic\nreview. J Gastrointest Surg. 2017;21(11):1915-1930.\ndoi:10.1007/s11605-017-3465-3\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      391.1,
+      538.8,
+      442.3
+     ],
+     "text": "12. Tanner J, Padley W, Assadian O, Leaper D,\nKiernan M, Edmiston C. Do surgical care bundles\nreduce the risk of surgical site infections in patients\nundergoing colorectal surgery? a systematic review\nand cohort meta-analysis of 8,515 patients. Surgery.\n2015;158(1):66-77. doi:10.1016/j.surg.2015.03.009\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      448.0,
+      537.0,
+      490.2
+     ],
+     "text": "13. Munday GS, Deveaux P, Roberts H, Fry DE, Polk\nHC. Impact of implementation of the Surgical Care\nImprovement Project and future strategies for\nimproving quality in surgery. Am J Surg. 2014;208\n(5):835-840. doi:10.1016/j.amjsurg.2014.05.005\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      495.9,
+      533.0,
+      538.1
+     ],
+     "text": "14. Cataife G, Weinberg DA, Wong HH, Kahn KL.\nThe effect of Surgical Care Improvement Project\n(SCIP) compliance on surgical site infections (SSI).\nMed Care. 2014;52(2)(suppl 1):S66-S73. doi:10.\n1097/MLR.0000000000000028\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      543.7,
+      534.4,
+      621.9
+     ],
+     "text": "15. Ademuyiwa AO, Adisa AO, Bhangu A, et al;\nNIHR Global Research Health Unit on Global\nSurgery. Routine sterile glove and instrument\nchange at the time of abdominal wound closure to\nprevent surgical site infection (ChEETAh):\na pragmatic, cluster-randomised trial in seven\nlow-income and middle-income countries. Lancet.\n2022;400(10365):1767-1776. doi:10.1016/S0140-\n6736(22)01884-0\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      627.6,
+      533.6,
+      660.8
+     ],
+     "text": "16. World Health Organization. Global guidelines\non the prevention of surgical site infection.\nAccessed October 13, 2022. https://www.who.int/\npublications/i/item/9789241550475\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      666.5,
+      531.3,
+      717.7
+     ],
+     "text": "17. Berríos-Torres SI, Umscheid CA, Bratzler DW,\net al; Healthcare Infection Control Practices\nAdvisory Committee. Centers for Disease Control\nand Prevention Guideline for the Prevention of\nSurgical Site Infection, 2017. JAMA Surg. 2017;152\n(8):784-791. doi:10.1001/jamasurg.2017.0904\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      32.9,
+      539.4,
+      39.2
+     ],
+     "text": "Research Original Investigation\nSurgical Infection Prevention Program in Low-Income Environments\n"
+    },
+    {
+     "bbox": [
+      45.4,
+      743.1,
+      539.4,
+      749.4
+     ],
+     "text": "168\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n(Reprinted)\njamasurgery.com\n"
+    },
+    {
+     "bbox": [
+      198.8,
+      761.0,
+      411.9,
+      768.1
+     ],
+     "text": "© 2023 American Medical Association. All rights reserved.\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      274.5,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "text": "18. ReproLinePlus. Infection Prevention and\nControl: Reference Manual for Health Care Facilities\nwith Limited Resources. Accessed October 13,\n2023. https://www.jhpiego.org/resources/\n19. Allegranzi B, Donaldson LJ, Kilpatrick C, et al.\nInfection prevention: laying an essential foundation\nfor quality universal health coverage. Lancet Glob\nHealth. 2019;7(6):e698-e700. doi:10.1016/S2214-\n109X(19)30174-3\n20. Sastry S, Masroor N, Bearman G, et al. The 17th\nInternational Congress on Infectious Diseases\nworkshop on developing infection prevention and\ncontrol resources for low- and middle-income\ncountries. Int J Infect Dis. 2017;57:138-143. doi:10.\n1016/j.ijid.2017.01.040\n21. Seidelman JL, Mantyh CR, Anderson DJ.\nSurgical site infection prevention: a review. JAMA.\n2023;329(3):244-252. doi:10.1001/jama.2022.24075\n22. Rasa K, Kilpatrick C. Implementation of World\nHealth Organization guidelines in the prevention of\nsurgical site infection in low- and middle-income\ncountries: what we know and do not know. Surg\nInfect (Larchmt). 2020;21(7):592-598. doi:10.1089/\nsur.2020.163\n23. World Health Organization. Preventing surgical\nsite infections: implementation approaches for\nevidence-based recommendations. Accessed\nOctober 13, 2023. https://www.who.int/\npublications/i/item/9789241514385\n24. Forrester JA, Starr N, Negussie T, et al. Clean\nCut (adaptive, multimodal surgical infection\nprevention programme) for low-resource settings:\na prospective quality improvement study. Br J Surg.\n2021;108(6):727-734. doi:10.1002/bjs.11997\n25. Mattingly AS, Starr N, Bitew S, et al. Qualitative\noutcomes of Clean Cut: implementation lessons\nfrom reducing surgical infections in Ethiopia. BMC\nHealth Serv Res. 2019;19(1):579. doi:10.1186/s12913-\n019-4383-8\n26. Centers for Disease Control and Prevention.\nSurgical Site Infection (SSI). Centers for Disease\nControl and Prevention; 2020:36.\n27. Birkmeyer JD, Dimick JB, Birkmeyer NJO.\nMeasuring the quality of surgical care: structure,\nprocess, or outcomes? J Am Coll Surg. 2004;198(4):\n626-632. doi:10.1016/j.jamcollsurg.2003.11.017\n28. Saluja S, Mukhopadhyay S, Amundson JR, et al.\nQuality of essential surgical care in low- and\nmiddle-income countries: a systematic review of\nthe literature. Int J Qual Health Care. 2019;31(3):\n166-172. doi:10.1093/intqhc/mzy141\n29. Ademuyiwa AO, Hardy P, Runigamugabo E,\net al; NIHR Global Research Health Unit on Global\nSurgery. Reducing surgical site infections in\nlow-income and middle-income countries\n(FALCON): a pragmatic, multicentre, stratified,\nrandomised controlled trial. Lancet. 2021;398\n(10312):1687-1699. doi:10.1016/S0140-6736(21)\n01548-8\n30. Allegranzi B, Aiken AM, Zeynep Kubilay N, et al.\nA multimodal infection control and patient safety\nintervention to reduce surgical site infections in\nAfrica: a multicentre, before-after, cohort study.\nLancet Infect Dis. 2018;18(5):507-515. doi:10.1016/\nS1473-3099(18)30107-5\n31. Forrester JA, Powell BL, Forrester JD, Fast C,\nWeiser TG. Surgical instrument reprocessing in\nresource-constrained countries: a scoping review of\nexisting methods, policies, and barriers. Surg Infect\n(Larchmt). 2018;19(6):593-602. doi:10.1089/sur.\n2018.078\n32. Weiser TG, Haynes AB, Dziekan G, Berry WR,\nLipsitz SR, Gawande AA; Safe Surgery Saves Lives\nInvestigators and Study Group. Effect of a 19-item\nsurgical safety checklist during urgent operations in\na global patient population. Ann Surg. 2010;251(5):\n976-980. doi:10.1097/SLA.0b013e3181d970e3\n33. Mehtar S, Wanyoro A, Ogunsola F, et al.\nImplementation of surgical site infection\nsurveillance in low- and middle-income countries:\na position statement for the International Society\nfor Infectious Diseases. Int J Infect Dis. 2020;100:\n123-131. doi:10.1016/j.ijid.2020.07.021\n34. Ariyo P, Zayed B, Riese V, et al. Implementation\nstrategies to reduce surgical site infections:\na systematic review. Infect Control Hosp Epidemiol.\n2019;40(3):287-300. doi:10.1017/ice.2018.355\n35. Starr N, Nofal MR, Gebeyehu N, et al.\nSustainability of a surgical quality improvement\nprogram at hospitals in Ethiopia. JAMA Surg. 2022;\n157(1):68-70. doi:10.1001/jamasurg.2021.5569\n36. Hung YW, Hoxha K, Irwin BR, Law MR, Grépin\nKA. Using routine health information data for\nresearch in low- and middle-income countries:\na systematic review. BMC Health Serv Res. 2020;20\n(1):790. doi:10.1186/s12913-020-05660-1\n37. Bezuidenhout L, Chakauya E. Hidden concerns\nof sharing research data by low/middle-income\ncountry scientists. Glob Bioeth. 2018;29(1):39-54.\ndoi:10.1080/11287462.2018.1441780\n38. Olufadewa I, Adesina M, Ayorinde T. Global\nhealth in low-income and middle-income countries:\na framework for action. Lancet Glob Health. 2021;9\n(7):e899-e900. doi:10.1016/S2214-109X(21)\n00143-1\n39. Hailemariam M, Bustos T, Montgomery B,\nBarajas R, Evans LB, Drahota A. Evidence-based\nintervention sustainability strategies: a systematic\nreview. Implement Sci. 2019;14(1):57. doi:10.1186/\ns13012-019-0910-6\n40. Dehnavieh R, Haghdoost A, Khosravi A, et al.\nThe District Health Information System (DHIS2):\na literature review and meta-synthesis of its\nstrengths and operational challenges based on the\nexperiences of 11 countries. Health Inf Manag. 2019;\n48(2):62-75. doi:10.1177/1833358318777713\n41. Fast OM, Gebremedhin Teka H,\nAlemayehu/Gebreselassie M, Fast CMD, Fast D,\nUzoka FE. The impact of a short-term training\nprogram on workers’ sterile processing knowledge\nand practices in 12 Ethiopian hospitals: A mixed\nmethods study. PLoS One. 2019;14(5):e0215643.\ndoi:10.1371/journal.pone.0215643\n42. Harrell Shreckengost CS, Starr N, Negussie\nMammo T, et al. Clean and confident: impact of\nsterile instrument processing workshops on\nknowledge and confidence in five low- and\nmiddle-income countries. Surg Infect (Larchmt).\n2022;23(2):183-190. doi:10.1089/sur.2021.187\nSurgical Infection Prevention Program in Low-Income Environments\nOriginal Investigation Research\njamasurgery.com\n(Reprinted)\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n169\n© 2023 American Medical Association. All rights reserved.\nDownloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n",
+   "n_chars": 6111,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.3,
+      64.8,
+      218.7,
+      98.1
+     ],
+     "text": "18. ReproLinePlus. Infection Prevention and\nControl: Reference Manual for Health Care Facilities\nwith Limited Resources. Accessed October 13,\n2023. https://www.jhpiego.org/resources/\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      103.7,
+      218.7,
+      146.0
+     ],
+     "text": "19. Allegranzi B, Donaldson LJ, Kilpatrick C, et al.\nInfection prevention: laying an essential foundation\nfor quality universal health coverage. Lancet Glob\nHealth. 2019;7(6):e698-e700. doi:10.1016/S2214-\n109X(19)30174-3\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      151.6,
+      217.8,
+      202.9
+     ],
+     "text": "20. Sastry S, Masroor N, Bearman G, et al. The 17th\nInternational Congress on Infectious Diseases\nworkshop on developing infection prevention and\ncontrol resources for low- and middle-income\ncountries. Int J Infect Dis. 2017;57:138-143. doi:10.\n1016/j.ijid.2017.01.040\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      208.5,
+      220.2,
+      232.8
+     ],
+     "text": "21. Seidelman JL, Mantyh CR, Anderson DJ.\nSurgical site infection prevention: a review. JAMA.\n2023;329(3):244-252. doi:10.1001/jama.2022.24075\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      238.4,
+      218.7,
+      289.7
+     ],
+     "text": "22. Rasa K, Kilpatrick C. Implementation of World\nHealth Organization guidelines in the prevention of\nsurgical site infection in low- and middle-income\ncountries: what we know and do not know. Surg\nInfect (Larchmt). 2020;21(7):592-598. doi:10.1089/\nsur.2020.163\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      295.3,
+      218.1,
+      337.6
+     ],
+     "text": "23. World Health Organization. Preventing surgical\nsite infections: implementation approaches for\nevidence-based recommendations. Accessed\nOctober 13, 2023. https://www.who.int/\npublications/i/item/9789241514385\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      343.2,
+      218.1,
+      385.5
+     ],
+     "text": "24. Forrester JA, Starr N, Negussie T, et al. Clean\nCut (adaptive, multimodal surgical infection\nprevention programme) for low-resource settings:\na prospective quality improvement study. Br J Surg.\n2021;108(6):727-734. doi:10.1002/bjs.11997\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      391.1,
+      219.5,
+      433.3
+     ],
+     "text": "25. Mattingly AS, Starr N, Bitew S, et al. Qualitative\noutcomes of Clean Cut: implementation lessons\nfrom reducing surgical infections in Ethiopia. BMC\nHealth Serv Res. 2019;19(1):579. doi:10.1186/s12913-\n019-4383-8\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      439.0,
+      209.6,
+      463.3
+     ],
+     "text": "26. Centers for Disease Control and Prevention.\nSurgical Site Infection (SSI). Centers for Disease\nControl and Prevention; 2020:36.\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      468.9,
+      209.2,
+      484.2
+     ],
+     "text": "27. Birkmeyer JD, Dimick JB, Birkmeyer NJO.\nMeasuring the quality of surgical care: structure,\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      64.8,
+      379.1,
+      80.1
+     ],
+     "text": "process, or outcomes? J Am Coll Surg. 2004;198(4):\n626-632. doi:10.1016/j.jamcollsurg.2003.11.017\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      85.8,
+      378.2,
+      128.0
+     ],
+     "text": "28. Saluja S, Mukhopadhyay S, Amundson JR, et al.\nQuality of essential surgical care in low- and\nmiddle-income countries: a systematic review of\nthe literature. Int J Qual Health Care. 2019;31(3):\n166-172. doi:10.1093/intqhc/mzy141\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      133.7,
+      371.9,
+      202.9
+     ],
+     "text": "29. Ademuyiwa AO, Hardy P, Runigamugabo E,\net al; NIHR Global Research Health Unit on Global\nSurgery. Reducing surgical site infections in\nlow-income and middle-income countries\n(FALCON): a pragmatic, multicentre, stratified,\nrandomised controlled trial. Lancet. 2021;398\n(10312):1687-1699. doi:10.1016/S0140-6736(21)\n01548-8\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      208.5,
+      379.0,
+      259.7
+     ],
+     "text": "30. Allegranzi B, Aiken AM, Zeynep Kubilay N, et al.\nA multimodal infection control and patient safety\nintervention to reduce surgical site infections in\nAfrica: a multicentre, before-after, cohort study.\nLancet Infect Dis. 2018;18(5):507-515. doi:10.1016/\nS1473-3099(18)30107-5\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      265.4,
+      379.1,
+      316.6
+     ],
+     "text": "31. Forrester JA, Powell BL, Forrester JD, Fast C,\nWeiser TG. Surgical instrument reprocessing in\nresource-constrained countries: a scoping review of\nexisting methods, policies, and barriers. Surg Infect\n(Larchmt). 2018;19(6):593-602. doi:10.1089/sur.\n2018.078\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      322.2,
+      378.1,
+      373.5
+     ],
+     "text": "32. Weiser TG, Haynes AB, Dziekan G, Berry WR,\nLipsitz SR, Gawande AA; Safe Surgery Saves Lives\nInvestigators and Study Group. Effect of a 19-item\nsurgical safety checklist during urgent operations in\na global patient population. Ann Surg. 2010;251(5):\n976-980. doi:10.1097/SLA.0b013e3181d970e3\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      379.1,
+      373.0,
+      430.4
+     ],
+     "text": "33. Mehtar S, Wanyoro A, Ogunsola F, et al.\nImplementation of surgical site infection\nsurveillance in low- and middle-income countries:\na position statement for the International Society\nfor Infectious Diseases. Int J Infect Dis. 2020;100:\n123-131. doi:10.1016/j.ijid.2020.07.021\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      436.0,
+      378.0,
+      469.3
+     ],
+     "text": "34. Ariyo P, Zayed B, Riese V, et al. Implementation\nstrategies to reduce surgical site infections:\na systematic review. Infect Control Hosp Epidemiol.\n2019;40(3):287-300. doi:10.1017/ice.2018.355\n"
+    },
+    {
+     "bbox": [
+      232.0,
+      474.9,
+      366.5,
+      490.2
+     ],
+     "text": "35. Starr N, Nofal MR, Gebeyehu N, et al.\nSustainability of a surgical quality improvement\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      64.8,
+      535.4,
+      80.1
+     ],
+     "text": "program at hospitals in Ethiopia. JAMA Surg. 2022;\n157(1):68-70. doi:10.1001/jamasurg.2021.5569\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      85.8,
+      538.0,
+      128.0
+     ],
+     "text": "36. Hung YW, Hoxha K, Irwin BR, Law MR, Grépin\nKA. Using routine health information data for\nresearch in low- and middle-income countries:\na systematic review. BMC Health Serv Res. 2020;20\n(1):790. doi:10.1186/s12913-020-05660-1\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      133.7,
+      536.4,
+      166.9
+     ],
+     "text": "37. Bezuidenhout L, Chakauya E. Hidden concerns\nof sharing research data by low/middle-income\ncountry scientists. Glob Bioeth. 2018;29(1):39-54.\ndoi:10.1080/11287462.2018.1441780\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      172.6,
+      538.0,
+      214.8
+     ],
+     "text": "38. Olufadewa I, Adesina M, Ayorinde T. Global\nhealth in low-income and middle-income countries:\na framework for action. Lancet Glob Health. 2021;9\n(7):e899-e900. doi:10.1016/S2214-109X(21)\n00143-1\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      220.5,
+      533.9,
+      262.7
+     ],
+     "text": "39. Hailemariam M, Bustos T, Montgomery B,\nBarajas R, Evans LB, Drahota A. Evidence-based\nintervention sustainability strategies: a systematic\nreview. Implement Sci. 2019;14(1):57. doi:10.1186/\ns13012-019-0910-6\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      268.4,
+      538.9,
+      319.6
+     ],
+     "text": "40. Dehnavieh R, Haghdoost A, Khosravi A, et al.\nThe District Health Information System (DHIS2):\na literature review and meta-synthesis of its\nstrengths and operational challenges based on the\nexperiences of 11 countries. Health Inf Manag. 2019;\n48(2):62-75. doi:10.1177/1833358318777713\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      325.2,
+      534.9,
+      385.4
+     ],
+     "text": "41. Fast OM, Gebremedhin Teka H,\nAlemayehu/Gebreselassie M, Fast CMD, Fast D,\nUzoka FE. The impact of a short-term training\nprogram on workers’ sterile processing knowledge\nand practices in 12 Ethiopian hospitals: A mixed\nmethods study. PLoS One. 2019;14(5):e0215643.\ndoi:10.1371/journal.pone.0215643\n"
+    },
+    {
+     "bbox": [
+      391.6,
+      391.1,
+      527.3,
+      442.3
+     ],
+     "text": "42. Harrell Shreckengost CS, Starr N, Negussie\nMammo T, et al. Clean and confident: impact of\nsterile instrument processing workshops on\nknowledge and confidence in five low- and\nmiddle-income countries. Surg Infect (Larchmt).\n2022;23(2):183-190. doi:10.1089/sur.2021.187\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      32.9,
+      539.4,
+      39.2
+     ],
+     "text": "Surgical Infection Prevention Program in Low-Income Environments\nOriginal Investigation Research\n"
+    },
+    {
+     "bbox": [
+      72.3,
+      743.1,
+      566.2,
+      749.4
+     ],
+     "text": "jamasurgery.com\n(Reprinted)\nJAMA Surgery\nFebruary 2024\nVolume 159, Number 2\n169\n"
+    },
+    {
+     "bbox": [
+      198.8,
+      761.0,
+      411.9,
+      768.1
+     ],
+     "text": "© 2023 American Medical Association. All rights reserved.\n"
+    },
+    {
+     "bbox": [
+      3.0,
+      776.2,
+      274.5,
+      783.7
+     ],
+     "text": "Downloaded from jamanetwork.​com by TAREQ AL HOSSAIN on 09/​09/​2026\n"
+    }
+   ]
+  }
+ ]
+}

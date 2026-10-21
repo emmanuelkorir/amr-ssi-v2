@@ -1,0 +1,1708 @@
+{
+ "doc_id": "billoro-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Billoro-et-al.pdf",
+ "sha256": "6ae2f0953dc7931cff740a33cbfda329025a202b787547a02d9821ff440d2057",
+ "document_type": "pdf",
+ "n_pages": 8,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "Evaluation of antimicrobial prophylaxis use and rate of surgical site infection in surgical ward of Wachemo University Nigist Eleni Mohammed Memorial Hospital, Southern Ethiopia: prospective cohort study",
+  "author": "Bruke B. Billoro",
+  "subject": "BMC Infectious Diseases, 2019, doi:10.1186/s12879-019-3895-5",
+  "keywords": "Risk factors,Surgical wound infection,Susceptibility,Prospective,Ethiopia",
+  "creator": "Arbortext Advanced Print Publisher 9.1.440/W Unicode",
+  "producer": "Acrobat Distiller 10.1.5 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (AGPL-version)",
+  "creationDate": "D:20190402025402+08'00'",
+  "modDate": "D:20190402151341+02'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:53+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "RESEARCH ARTICLE\nOpen Access\nEvaluation of antimicrobial prophylaxis use\nand rate of surgical site infection in surgical\nward of Wachemo University Nigist Eleni\nMohammed Memorial Hospital, Southern\nEthiopia: prospective cohort study\nBruke B. Billoro1,4*, Mengistu H. Nunemo2 and Seid E. Gelan3\nAbstract\nBackground: Surgical site infection (SSI) is the foremost infection in the overall patient population, affecting up to\n66% of operated patients and with a frequency up to nine times more than in developed countries. This study\naimed to determine the rate, associated factors of surgical site infection, and identification of causative agents and\ntheir antimicrobial susceptibility in surgical ward of Wachemo University Nigist Eleni Mohamed Memorial Hospital\n(WUNEMMH), Southern Ethiopia.\nMethod: Prospective cohort study involving 255 patients who underwent surgical procedure in WUNEMMH from\nJanuary 1 to September 1, 2017. We extracted data from medical chart, operational and anesthesia note by direct\nobservation and interviewer administered semi-structured questionnaire which was validated. We collected wound\nspecimens and processed it based on standard operating procedure, and disc-diffusion antibiotic susceptibility test\nwas done. Data analysis was done using SPSS version 22.0. Factors significantly associated were identified using\nlogistic regression model at P-value < 0.05 and 95%CI.\nResult: Forty-two patients (16.5%) developed SSIs. The most causative organism of surgical site infection was\nKlebsiella pneumoniae (60%).Ciprofloxacin and ceftriaxone were sensitive antibiotics. Surgery waiting time more than\n7 days [ARR = 2.48 (95%CI(1.28–4.79),P = 0.007], Operation time more than 1 h.[ARR = 2.13(95%CI(1.18–3.86),P = 0.012],\nand administering antibiotic before 1 h of operation [ARR = 5.05(95%CI(1.79–14.21),P = 0.002], smoking [ARR = 8.01\n(95% CI (2.15 29.84),P = 0.002] were independently associated with surgical site infections.\nConclusion: The rate of SSI was relatively high. Klebsiella pneumoniae was found to be the most causative agent for\nSSI. Organisms causing SSI were sensitive to commonly used antimicrobial agents in WUNEMMH.\nKeywords: Risk factors, Surgical wound infection, Susceptibility, Prospective, Ethiopia\n© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0\nInternational License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and\nreproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to\nthe Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver\n(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\n* Correspondence: 3b2005pharm@gmail.com; brukeB@wcu.edu.et\n1Department of Pharmacy, College of Medicine and Health Sciences,\nWachemo University, Hosanna, Ethiopia\n4Department of Clinical Pharmacy, Near East University, Nicosia, Northern\nCyprus, Cyprus\nFull list of author information is available at the end of the article\nBilloro et al. BMC Infectious Diseases         (2019) 19:298 \nhttps://doi.org/10.1186/s12879-019-3895-5\n",
+   "n_chars": 3289,
+   "n_images": 3,
+   "blocks": [
+    {
+     "bbox": [
+      60.7,
+      92.4,
+      534.5,
+      104.3
+     ],
+     "text": "RESEARCH ARTICLE\nOpen Access\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      122.5,
+      477.1,
+      248.6
+     ],
+     "text": "Evaluation of antimicrobial prophylaxis use\nand rate of surgical site infection in surgical\nward of Wachemo University Nigist Eleni\nMohammed Memorial Hospital, Southern\nEthiopia: prospective cohort study\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      254.9,
+      309.7,
+      269.9
+     ],
+     "text": "Bruke B. Billoro1,4*, Mengistu H. Nunemo2 and Seid E. Gelan3\n"
+    },
+    {
+     "bbox": [
+      63.2,
+      298.8,
+      101.7,
+      308.2
+     ],
+     "text": "Abstract\n"
+    },
+    {
+     "bbox": [
+      63.2,
+      316.9,
+      525.4,
+      374.2
+     ],
+     "text": "Background: Surgical site infection (SSI) is the foremost infection in the overall patient population, affecting up to\n66% of operated patients and with a frequency up to nine times more than in developed countries. This study\naimed to determine the rate, associated factors of surgical site infection, and identification of causative agents and\ntheir antimicrobial susceptibility in surgical ward of Wachemo University Nigist Eleni Mohamed Memorial Hospital\n(WUNEMMH), Southern Ethiopia.\n"
+    },
+    {
+     "bbox": [
+      63.2,
+      380.0,
+      526.9,
+      449.2
+     ],
+     "text": "Method: Prospective cohort study involving 255 patients who underwent surgical procedure in WUNEMMH from\nJanuary 1 to September 1, 2017. We extracted data from medical chart, operational and anesthesia note by direct\nobservation and interviewer administered semi-structured questionnaire which was validated. We collected wound\nspecimens and processed it based on standard operating procedure, and disc-diffusion antibiotic susceptibility test\nwas done. Data analysis was done using SPSS version 22.0. Factors significantly associated were identified using\nlogistic regression model at P-value < 0.05 and 95%CI.\n"
+    },
+    {
+     "bbox": [
+      63.2,
+      455.0,
+      530.7,
+      512.1
+     ],
+     "text": "Result: Forty-two patients (16.5%) developed SSIs. The most causative organism of surgical site infection was\nKlebsiella pneumoniae (60%).Ciprofloxacin and ceftriaxone were sensitive antibiotics. Surgery waiting time more than\n7 days [ARR = 2.48 (95%CI(1.28–4.79),P = 0.007], Operation time more than 1 h.[ARR = 2.13(95%CI(1.18–3.86),P = 0.012],\nand administering antibiotic before 1 h of operation [ARR = 5.05(95%CI(1.79–14.21),P = 0.002], smoking [ARR = 8.01\n(95% CI (2.15 29.84),P = 0.002] were independently associated with surgical site infections.\n"
+    },
+    {
+     "bbox": [
+      63.2,
+      518.0,
+      530.9,
+      539.2
+     ],
+     "text": "Conclusion: The rate of SSI was relatively high. Klebsiella pneumoniae was found to be the most causative agent for\nSSI. Organisms causing SSI were sensitive to commonly used antimicrobial agents in WUNEMMH.\n"
+    },
+    {
+     "bbox": [
+      63.2,
+      546.9,
+      404.7,
+      556.1
+     ],
+     "text": "Keywords: Risk factors, Surgical wound infection, Susceptibility, Prospective, Ethiopia\n"
+    },
+    {
+     "bbox": [
+      180.3,
+      710.3,
+      520.3,
+      748.7
+     ],
+     "text": "© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0\nInternational License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and\nreproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to\nthe Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver\n(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      648.0,
+      277.0,
+      699.9
+     ],
+     "text": "* Correspondence: 3b2005pharm@gmail.com; brukeB@wcu.edu.et\n1Department of Pharmacy, College of Medicine and Health Sciences,\nWachemo University, Hosanna, Ethiopia\n4Department of Clinical Pharmacy, Near East University, Nicosia, Northern\nCyprus, Cyprus\nFull list of author information is available at the end of the article\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      32.0,
+      239.7,
+      50.7
+     ],
+     "text": "Billoro et al. BMC Infectious Diseases         (2019) 19:298 \nhttps://doi.org/10.1186/s12879-019-3895-5\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "Background\nA surgical site infection (SSI) is an infection which hap-\npens within thirty days at the operative site if no graft\nis left in place or within ninety (90) days if an insert is\nleft in place after the surgical operation. The surgical\nprocedure determines the category of infection must\nappear [1].\nSSIs are the third common hospital acquired infection\nwhich accounts 38% of all nosocomial infections accord-\ning to center for disease control (CDC’s) national noso-\ncomial infection surveillance system [2].\nIn countries with limited resources, SSI is the foremost\ninfection in the overall patient population, affecting up\nto 66% of operated patients and nine times more than in\nindustrialized countries [3].\nIncrease hospital stays time, readmissions and additional\nuse of antimicrobials which lead to antibiotic-resistant\nwere seen by SSIs [4].On average, SSIs increased postoper-\native hospital stay by 6.5 to 11 days and 3.57 additional\ndrug uses [2, 4]. SSI increased cost in England from\n$1,341-10,922 per patient, in Europe € 3,985/day and in\nthe USA $25,546 per infection depending on surgery type\nand infection severity at institutional as well as national\nlevel [5, 6].\nStudy indicated that nearly 40-60% of SSIs can be pre-\nvented with the appropriate use of surgical antimicrobial\nprophylaxis (AMP) [7, 8]. Approximately 30-50% of anti-\nmicrobials used in hospitals are for surgical prophylaxis\nbut 30 -90% of them are used inappropriately [9, 10]\nwhich attribute for 16% of SSIs [8].\nAntimicrobials are a serious matter and resources are\nin short supply to prevent rise of resistance and limit the\ndegree of this problem in developing countries. Al-\nthough pathogens resistivity has increased, unfortu-\nnately, no new antimicrobials that can manage this\nresistance have been introduced and are not expected in\nthe future [11, 12]. World Health organization (WHO)\ndescribed as resistance to antimicrobials has been a main\nthreat to worldwide public health because there are few\nantimicrobials available to treat life-threatening infec-\ntions in some cases [13].\nUnnecessary extra costs, potential promotion of mi-\ncrobial resistance selection and a precious resource\nwastage in health care occur due to inappropriate use of\nAMP. Studies presented that the cost of inappropriate\nAMP is approximately 10 times higher than the values\nexpected [14, 15].\nGram-positive cocci and gram-negative bacilli are\nmajor causative organisms of SSI as described by multi\nand single centered studies [16, 17].\nDue to inadequate SSI surveillance programs in many\nof sub-sahara Africa, healthcare centers are unable to\nget an update on bacteria which is resistant to the anti-\nmicrobial [18]. In developing countries tests which\nwould be used to isolate the organism and the correct\nantibiotic has limited accessibility and affordability [19].\nPeriodic surveillance and feedback to surgeons on the\nrate of SSIs and factors significantly associated can re-\nduce up to 50% of SSIs rate according to WHO and\nother studies [5, 20].\nStudies on rates of SSI, factors independently associ-\nated with SSI as well as on the causative agents and anti-\nbiotics susceptibility test are scarce in Ethiopia.\nTo our knowledge, studies focusing on SSI causing\nbacteria and their sensitivity pattern to antibiotics were\nnot done in the study area.\nTherefore, our study aimed to show the rate of SSI as\nwell as factors associated with SSIs and characterize the\nsusceptibility patterns of bacterial agents causing SSI at\nsurgical ward department of WUNEMMH.\nMethods\nStudy area\nConducted in surgical department of WUNEMMH\nwhich is government hospital.\nStudy design and period\nA prospective cohort study in the surgical ward from\nJanuary 1, 2017, to September 1, 2017, at WUNEMMH.\nStudy population\nAll patients who admitted for elective and emergency\nsurgical procedures, and who fulfill eligibility criteria\nduring the study period.\nSample size\nCalculated using single population proportion formula\nwith\nof 5% and proportion for SSI rate is 19.1 % [21].\nBy considering 10% contingency, total sample size would\nbe 280 patients.\nStudy procedures\nPatients who were not willing to participate, receiving\nantimicrobial during admission or stopped receiving\nwithin 48 hours before operation and patients with ini-\ntial diagnosis suggestive of infection were excluded.\nWritten consent was obtained and interviewer adminis-\ntered\nsemi-structured\nquestionnaire\nwas\nused\nfor\nsocio-demographic characteristics.\nSocio-demographic and patient-related factors were\ncollected from patient’s medical chart. Data on antimi-\ncrobials administration after operation and duration of\nadministration were obtained from medication chart and\ndirect observation.\nData were collected by three Nurses (BSc) using pre-\ntested data collection tool and the data collection was\nsupervised daily by the research team.\nBilloro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 2 of 8\n",
+   "n_chars": 4942,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      88.0,
+      290.6,
+      169.7
+     ],
+     "text": "Background\nA surgical site infection (SSI) is an infection which hap-\npens within thirty days at the operative site if no graft\nis left in place or within ninety (90) days if an insert is\nleft in place after the surgical operation. The surgical\nprocedure determines the category of infection must\nappear [1].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      172.4,
+      290.6,
+      217.7
+     ],
+     "text": "SSIs are the third common hospital acquired infection\nwhich accounts 38% of all nosocomial infections accord-\ning to center for disease control (CDC’s) national noso-\ncomial infection surveillance system [2].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      220.4,
+      290.5,
+      265.7
+     ],
+     "text": "In countries with limited resources, SSI is the foremost\ninfection in the overall patient population, affecting up\nto 66% of operated patients and nine times more than in\nindustrialized countries [3].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      268.4,
+      290.6,
+      373.7
+     ],
+     "text": "Increase hospital stays time, readmissions and additional\nuse of antimicrobials which lead to antibiotic-resistant\nwere seen by SSIs [4].On average, SSIs increased postoper-\native hospital stay by 6.5 to 11 days and 3.57 additional\ndrug uses [2, 4]. SSI increased cost in England from\n$1,341-10,922 per patient, in Europe € 3,985/day and in\nthe USA $25,546 per infection depending on surgery type\nand infection severity at institutional as well as national\nlevel [5, 6].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      376.4,
+      290.5,
+      445.7
+     ],
+     "text": "Study indicated that nearly 40-60% of SSIs can be pre-\nvented with the appropriate use of surgical antimicrobial\nprophylaxis (AMP) [7, 8]. Approximately 30-50% of anti-\nmicrobials used in hospitals are for surgical prophylaxis\nbut 30 -90% of them are used inappropriately [9, 10]\nwhich attribute for 16% of SSIs [8].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      448.3,
+      290.6,
+      577.6
+     ],
+     "text": "Antimicrobials are a serious matter and resources are\nin short supply to prevent rise of resistance and limit the\ndegree of this problem in developing countries. Al-\nthough pathogens resistivity has increased, unfortu-\nnately, no new antimicrobials that can manage this\nresistance have been introduced and are not expected in\nthe future [11, 12]. World Health organization (WHO)\ndescribed as resistance to antimicrobials has been a main\nthreat to worldwide public health because there are few\nantimicrobials available to treat life-threatening infec-\ntions in some cases [13].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      580.3,
+      290.5,
+      649.6
+     ],
+     "text": "Unnecessary extra costs, potential promotion of mi-\ncrobial resistance selection and a precious resource\nwastage in health care occur due to inappropriate use of\nAMP. Studies presented that the cost of inappropriate\nAMP is approximately 10 times higher than the values\nexpected [14, 15].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      652.3,
+      290.5,
+      685.6
+     ],
+     "text": "Gram-positive cocci and gram-negative bacilli are\nmajor causative organisms of SSI as described by multi\nand single centered studies [16, 17].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      688.3,
+      290.6,
+      733.6
+     ],
+     "text": "Due to inadequate SSI surveillance programs in many\nof sub-sahara Africa, healthcare centers are unable to\nget an update on bacteria which is resistant to the anti-\nmicrobial [18]. In developing countries tests which\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      88.3,
+      538.6,
+      109.6
+     ],
+     "text": "would be used to isolate the organism and the correct\nantibiotic has limited accessibility and affordability [19].\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      112.3,
+      538.6,
+      157.7
+     ],
+     "text": "Periodic surveillance and feedback to surgeons on the\nrate of SSIs and factors significantly associated can re-\nduce up to 50% of SSIs rate according to WHO and\nother studies [5, 20].\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      160.3,
+      538.6,
+      193.7
+     ],
+     "text": "Studies on rates of SSI, factors independently associ-\nated with SSI as well as on the causative agents and anti-\nbiotics susceptibility test are scarce in Ethiopia.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      196.4,
+      538.5,
+      229.7
+     ],
+     "text": "To our knowledge, studies focusing on SSI causing\nbacteria and their sensitivity pattern to antibiotics were\nnot done in the study area.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      232.4,
+      538.6,
+      277.7
+     ],
+     "text": "Therefore, our study aimed to show the rate of SSI as\nwell as factors associated with SSIs and characterize the\nsusceptibility patterns of bacterial agents causing SSI at\nsurgical ward department of WUNEMMH.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      294.4,
+      538.5,
+      340.1
+     ],
+     "text": "Methods\nStudy area\nConducted in surgical department of WUNEMMH\nwhich is government hospital.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      357.6,
+      538.5,
+      390.5
+     ],
+     "text": "Study design and period\nA prospective cohort study in the surgical ward from\nJanuary 1, 2017, to September 1, 2017, at WUNEMMH.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      408.0,
+      538.5,
+      452.9
+     ],
+     "text": "Study population\nAll patients who admitted for elective and emergency\nsurgical procedures, and who fulfill eligibility criteria\nduring the study period.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      470.4,
+      538.5,
+      527.3
+     ],
+     "text": "Sample size\nCalculated using single population proportion formula\nwith\nof 5% and proportion for SSI rate is 19.1 % [21].\nBy considering 10% contingency, total sample size would\nbe 280 patients.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      544.8,
+      538.6,
+      637.7
+     ],
+     "text": "Study procedures\nPatients who were not willing to participate, receiving\nantimicrobial during admission or stopped receiving\nwithin 48 hours before operation and patients with ini-\ntial diagnosis suggestive of infection were excluded.\nWritten consent was obtained and interviewer adminis-\ntered\nsemi-structured\nquestionnaire\nwas\nused\nfor\nsocio-demographic characteristics.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      640.4,
+      538.6,
+      697.7
+     ],
+     "text": "Socio-demographic and patient-related factors were\ncollected from patient’s medical chart. Data on antimi-\ncrobials administration after operation and duration of\nadministration were obtained from medication chart and\ndirect observation.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      700.4,
+      538.6,
+      733.7
+     ],
+     "text": "Data were collected by three Nurses (BSc) using pre-\ntested data collection tool and the data collection was\nsupervised daily by the research team.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      32.0,
+      538.6,
+      41.0
+     ],
+     "text": "Billoro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 2 of 8\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "Wound classification was done using Center for Dis-\nease Prevention and Control (CDC) criteria for surgical\nsite infections surveillance and WUNEMMH surgeons\nwere\nresponsible\nfor\ndiagnosing\nsurgical\npatients’\ninfection\nSpecimen collection procedures\nSterile swabs were used for collection of exudates from\nwounds of patients who develop SSI which transferred\nat room temperatures to the laboratory within 20 mi-\nnutes. Chocolate, blood, and Mac-Conkey agar were\nused for inoculating swabs. We sited chocolate plate\nwith other plates in a candle jam jar and keep warm at\n35–37 °C for 24–48 hours. We report organisms by per-\nforming gram stain procedure on culture growth. An\nadditional blood agar plate was inoculated anaerobically\nat 35–37 °C for 48–72 hours.\nSensitivity pattern of antibiotics\nDisk diffusion test was performed for testing sensitivity\n[22]. They were exposed to gentamicin, erythromycin,\nceftriaxone,\nciprofoxacillin,\nchloramphenicol\n(CAF),\ncloxacillin, ampicillin, and tetracycline. We did not test\nfor methicillin resistant Staphylococcus aureus (MRSA)\nand gram negatives which are extended-spectrum pro-\nducers since this was not our study aim.\nStatistical analysis\nWe used Epi-Data version 3.1 and analyzed using SPSS\nfor window version 20.0. Frequency and percentages were\nused to describe socio-demographic, surgery-related fac-\ntors, type of surgery and sensitivity of causative agents. Be-\nfore running a multivariable binary logistic regression,\nmulticollinearity between the independent variables was\nchecked in linear regression by variance inflation factors\n(VIF). The model fitness for the variables was evaluated\nby the Hosmer-Lemeshow goodness of fit test. P-value of\nless than 0.05 was considered as independently associated\nin the multivariable analysis.\nResult\nSocial demographic factor\nTwenty-five patients out of 280 patients were excluded\nbased on the exclusion criteria. The analysis was done\non a total of 255 patients. 147 patients (57.65%) were\nmales and more than half patients were from rural area\n150(58.8%). Nine patients (3.5%) were obese with BMI >\n= 30 kg/m2. Twelve patients (4.7%) received blood\ntransfusion preoperatively (Table 1).\nSurgery-related factor\nOne hundred forty-four (56.5%) surgical procedures\nwere clean wound and 177(69.4%) surgical procedures\nwere elective. 225 (88.2%) had no history of previous\nsurgical procedure (Table 2).\nSurgery procedure type\nCaesarean section, 72(28.2%) was the leading procedure\nfollowed by appendectomy, 54(21.2%), head and neck\nsurgery, 32(12.5%) (Table 3).\nRate of SSI\nOut of 255 patients, 42(16.5%) patients developed SSIs.\nAmong patients who developed SSIs, 38 (90.47%) pa-\ntients developed SSIs in hospital.\nWe followed patients and reviewed charts daily before,\nduring and after operation until the patients were\nTable 1 Socio-demographic factors in surgical ward of\nWUNEMMH from January 1 to September 1, 2017 (N = 255)\nVariables\nFrequency\nPercent\nResidence\nUrban\n105\n41.2\nRural\n150\n58.8\nCigarette smoking\nNo\n192\n75.3\nYes\n63\n24.7\nGender\nFemale\n108\n42.35\nMale\n147\n57.65\nAge categories in a year\n1–18\n63\n24.7\n19–40\n111\n43.5\n> 40\n81\n31.8\nObesity\nBMI < 30 kg/m2\n246\n96.5\nBMI > =30 kg/m2\n9\n3.5\nPreoperative blood transfusion\nNo\n243\n95.3\nYes\n12\n4.7\nSurgery waiting time\n<=7 days\n198\n77.65\n>7 days\n57\n22.35\nASA score\nI\n66\n25.9\nII\n171\n67\nIII\n18\n7.1\nTable 2 Surgical related factors in the surgical ward of\nWUNEMMH from January 1 to September 1, 2017 (N = 255)\nVariables\nFrequency\nPercent\nPrevious surgery\nYes\n30\n11.8\nNo\n225\n88.2\nWound class\nClean\n144\n56.5\nClean-contaminated\n111\n43.5\nSurgical type\nElective\n177\n69.4\nEmergency\n78\n30.6\nBilloro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 3 of 8\n",
+   "n_chars": 3703,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      88.4,
+      290.5,
+      145.7
+     ],
+     "text": "Wound classification was done using Center for Dis-\nease Prevention and Control (CDC) criteria for surgical\nsite infections surveillance and WUNEMMH surgeons\nwere\nresponsible\nfor\ndiagnosing\nsurgical\npatients’\ninfection\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      163.2,
+      290.6,
+      292.1
+     ],
+     "text": "Specimen collection procedures\nSterile swabs were used for collection of exudates from\nwounds of patients who develop SSI which transferred\nat room temperatures to the laboratory within 20 mi-\nnutes. Chocolate, blood, and Mac-Conkey agar were\nused for inoculating swabs. We sited chocolate plate\nwith other plates in a candle jam jar and keep warm at\n35–37 °C for 24–48 hours. We report organisms by per-\nforming gram stain procedure on culture growth. An\nadditional blood agar plate was inoculated anaerobically\nat 35–37 °C for 48–72 hours.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      309.6,
+      290.5,
+      402.5
+     ],
+     "text": "Sensitivity pattern of antibiotics\nDisk diffusion test was performed for testing sensitivity\n[22]. They were exposed to gentamicin, erythromycin,\nceftriaxone,\nciprofoxacillin,\nchloramphenicol\n(CAF),\ncloxacillin, ampicillin, and tetracycline. We did not test\nfor methicillin resistant Staphylococcus aureus (MRSA)\nand gram negatives which are extended-spectrum pro-\nducers since this was not our study aim.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      420.0,
+      290.6,
+      560.9
+     ],
+     "text": "Statistical analysis\nWe used Epi-Data version 3.1 and analyzed using SPSS\nfor window version 20.0. Frequency and percentages were\nused to describe socio-demographic, surgery-related fac-\ntors, type of surgery and sensitivity of causative agents. Be-\nfore running a multivariable binary logistic regression,\nmulticollinearity between the independent variables was\nchecked in linear regression by variance inflation factors\n(VIF). The model fitness for the variables was evaluated\nby the Hosmer-Lemeshow goodness of fit test. P-value of\nless than 0.05 was considered as independently associated\nin the multivariable analysis.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      577.6,
+      290.5,
+      683.3
+     ],
+     "text": "Result\nSocial demographic factor\nTwenty-five patients out of 280 patients were excluded\nbased on the exclusion criteria. The analysis was done\non a total of 255 patients. 147 patients (57.65%) were\nmales and more than half patients were from rural area\n150(58.8%). Nine patients (3.5%) were obese with BMI >\n= 30 kg/m2. Twelve patients (4.7%) received blood\ntransfusion preoperatively (Table 1).\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      700.8,
+      290.6,
+      733.7
+     ],
+     "text": "Surgery-related factor\nOne hundred forty-four (56.5%) surgical procedures\nwere clean wound and 177(69.4%) surgical procedures\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      388.4,
+      538.5,
+      409.7
+     ],
+     "text": "were elective. 225 (88.2%) had no history of previous\nsurgical procedure (Table 2).\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      424.8,
+      538.5,
+      469.7
+     ],
+     "text": "Surgery procedure type\nCaesarean section, 72(28.2%) was the leading procedure\nfollowed by appendectomy, 54(21.2%), head and neck\nsurgery, 32(12.5%) (Table 3).\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      484.0,
+      538.5,
+      529.7
+     ],
+     "text": "Rate of SSI\nOut of 255 patients, 42(16.5%) patients developed SSIs.\nAmong patients who developed SSIs, 38 (90.47%) pa-\ntients developed SSIs in hospital.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      532.4,
+      538.5,
+      553.7
+     ],
+     "text": "We followed patients and reviewed charts daily before,\nduring and after operation until the patients were\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      88.7,
+      519.0,
+      108.0
+     ],
+     "text": "Table 1 Socio-demographic factors in surgical ward of\nWUNEMMH from January 1 to September 1, 2017 (N = 255)\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      113.5,
+      538.6,
+      120.9
+     ],
+     "text": "Variables\nFrequency\nPercent\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      126.7,
+      527.3,
+      134.0
+     ],
+     "text": "Residence\nUrban\n105\n41.2\n"
+    },
+    {
+     "bbox": [
+      410.9,
+      140.7,
+      527.3,
+      148.0
+     ],
+     "text": "Rural\n150\n58.8\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      154.7,
+      527.3,
+      162.0
+     ],
+     "text": "Cigarette smoking\nNo\n192\n75.3\n"
+    },
+    {
+     "bbox": [
+      410.9,
+      168.7,
+      527.3,
+      176.0
+     ],
+     "text": "Yes\n63\n24.7\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      182.7,
+      531.1,
+      190.0
+     ],
+     "text": "Gender\nFemale\n108\n42.35\n"
+    },
+    {
+     "bbox": [
+      410.9,
+      196.7,
+      531.1,
+      204.0
+     ],
+     "text": "Male\n147\n57.65\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      210.0,
+      527.3,
+      218.0
+     ],
+     "text": "Age categories in a year\n1–18\n63\n24.7\n"
+    },
+    {
+     "bbox": [
+      410.9,
+      224.0,
+      527.3,
+      232.0
+     ],
+     "text": "19–40\n111\n43.5\n"
+    },
+    {
+     "bbox": [
+      410.9,
+      238.7,
+      527.3,
+      246.0
+     ],
+     "text": "> 40\n81\n31.8\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      252.7,
+      527.3,
+      260.0
+     ],
+     "text": "Obesity\nBMI < 30 kg/m2\n246\n96.5\n"
+    },
+    {
+     "bbox": [
+      410.9,
+      266.7,
+      523.5,
+      274.0
+     ],
+     "text": "BMI > =30 kg/m2\n9\n3.5\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      280.6,
+      527.3,
+      288.0
+     ],
+     "text": "Preoperative blood transfusion\nNo\n243\n95.3\n"
+    },
+    {
+     "bbox": [
+      410.9,
+      294.6,
+      523.5,
+      302.0
+     ],
+     "text": "Yes\n12\n4.7\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      308.6,
+      531.2,
+      316.0
+     ],
+     "text": "Surgery waiting time\n<=7 days\n198\n77.65\n"
+    },
+    {
+     "bbox": [
+      410.9,
+      322.6,
+      531.2,
+      330.0
+     ],
+     "text": ">7 days\n57\n22.35\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      336.6,
+      527.3,
+      344.0
+     ],
+     "text": "ASA score\nI\n66\n25.9\n"
+    },
+    {
+     "bbox": [
+      410.9,
+      350.6,
+      522.2,
+      358.0
+     ],
+     "text": "II\n171\n67\n"
+    },
+    {
+     "bbox": [
+      410.9,
+      364.6,
+      523.5,
+      372.0
+     ],
+     "text": "III\n18\n7.1\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      570.5,
+      519.0,
+      589.8
+     ],
+     "text": "Table 2 Surgical related factors in the surgical ward of\nWUNEMMH from January 1 to September 1, 2017 (N = 255)\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      595.4,
+      538.6,
+      602.7
+     ],
+     "text": "Variables\nFrequency\nPercent\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      608.5,
+      357.2,
+      615.8
+     ],
+     "text": "Previous surgery\n"
+    },
+    {
+     "bbox": [
+      312.7,
+      622.5,
+      527.3,
+      629.8
+     ],
+     "text": "Yes\n30\n11.8\n"
+    },
+    {
+     "bbox": [
+      312.7,
+      636.5,
+      527.3,
+      643.8
+     ],
+     "text": "No\n225\n88.2\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      650.5,
+      345.1,
+      657.8
+     ],
+     "text": "Wound class\n"
+    },
+    {
+     "bbox": [
+      312.7,
+      664.5,
+      527.3,
+      671.8
+     ],
+     "text": "Clean\n144\n56.5\n"
+    },
+    {
+     "bbox": [
+      312.7,
+      678.5,
+      527.3,
+      685.8
+     ],
+     "text": "Clean-contaminated\n111\n43.5\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      692.5,
+      346.0,
+      699.8
+     ],
+     "text": "Surgical type\n"
+    },
+    {
+     "bbox": [
+      312.7,
+      706.5,
+      527.3,
+      713.8
+     ],
+     "text": "Elective\n177\n69.4\n"
+    },
+    {
+     "bbox": [
+      312.7,
+      720.5,
+      527.3,
+      727.8
+     ],
+     "text": "Emergency\n78\n30.6\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      32.0,
+      538.6,
+      41.0
+     ],
+     "text": "Billoro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 3 of 8\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "discharged from the hospital and after discharge till 30\ndays since operation was done\nEtiological organisms for SSIs\nKlebsiella pneumonia was found to be the most com-\nmon for 60.0% of isolates followed by Staphylococcus\naureus (17.8%), Escherichia colli (11.1%) and Pseudo-\nmonas aeruginosa (11.1%).\nSensitivity of causative organisms\nCeftriaxone was used as prophylactic antibiotic in study\narea. Susceptibility test to identified organisms were\ndone in eight drugs. 35% of them had resistance to or-\nganisms\nwhich\ninclude\nampicillin,\ntetracycline\nand\nerythromycin. The remaining 65% of drugs had different\nsensitivity patterns.\nKlebsiella species were 88.9% susceptible to ciprofloxa-\ncin, ceftriaxone, and Pseudomonas aeruginosa was 100%\nsusceptible to both drugs. Klebsiella species and Pseudo-\nmonas aeruginosa showed different resistant pattern for\ngentamycin and chloramphenicol. Escherichia colli was\nfound to be resistant organism from gram-negative.\nStaphylococcus aureus was the only gram-positive iso-\nlate identified, and had sensitivity to ciprofloxacillin and\ncloxacillin. It was 100 % sensitive to ceftriaxone and gen-\ntamycin but found to be resistant to chloramphenicol.\nCiprofloxacin and ceftriaxone had best sensitivity with\nP-values of 0.021 and 0.001, respectively. Chlorampheni-\ncol was found to be resistant to both Gram-positive and\nGram-negative organisms (Table 4).\nFactors associated with surgical site infection\nSurgery waiting time >7 days, Operation time >1 hours,\nadministering AMP before 1 hour of operation, and\nsmokers were factors independently associated with SSIs\n(Table 5).\nSmokers were 8.01 times more likely to develop SSIs\ncompared with non-smokers [ARR = 8.01(95%CI (2.15–\n29.84)]. Moreover, Hospital stay more than 7 days pre-\noperatively were likely to increase SSI by odd of 2.48\ntimes compared with preoperative hospital stay less than\n7 days [ARR = 2.48 (95% CI (1.28-4.79)].\nPatients with operation time more than 1 hour in-\ncreased SSI by 2.13 times compared with patients whose\noperation finished within 1 hour [ARR = 2.13 (95% CI\n(1.18-3.86)].\nAdministering antibiotic before 1 hour were likely to\nincrease SSI by risk of 5.05 times more than those who\ndid not get AMP administration within 1 hour [ARR =\n5.05(95% CI(1.79-14.21)] (Table 5).\nTable 3 Surgical procedure done in the surgical ward of\nWUNEMMH from January 1 to September 1, 2017 (N=255)\nVariables\nFrequency\nPercent\nCaesarean section\n72\n28.2\nAppendectomy\n54\n21.2\nHead and neck surgery\n32\n12.5\nGenitourinary surgery\n30\n11.8\nHernia repair\n28\n10.9\nBreast surgery\n21\n8.2\nHepato-biliary surgery\n15\n5.9\nLipoma excision\n3\n1.2\nTotal\n255\n100.0\nTable 4 Organisms’ sensitivity to antibiotics in the surgical ward of WUNEMMH from January 1 to September 1, 2017\nSensitivity\nklebsiella species.\nStaphylococcus aureus\nPseudomonas\nEscherichia colli\nTotal sensitivity\nP-value\nchloramphenicol (CAF)\nResistant\n2 (33.3)\n4 (80)\n1 (100)\n2 (100)\n9\n0.124\nSensitivity\n4 (66.6)\n1 (20)\n0\n0\n5\ngentamycin\nResistant\n3 (33.3)\n0\n1 (100)\n1 (50)\n5\n0.135\nSensitivity\n6 (66.6)\n3 (100)\n0\n1 (50)\n10\nciprofloxacillin\nResistant\n1 (11.1)\n1 (25)\n0\n2 (100)\n4\n0.021\nSensitivity\n8 (88.9)\n3 (75)\n2 (100)\n0\n13\nceftriaxone\nResistant\n1 (11.1)\n0\n0\n2 (100)\n3\n0.001\nSensitivity\n8 (88.9)\n3 (100)\n2 (100)\n0\n13\ncloxacillin\nResistant\n1 (25)\nSensitivity\n3 (75)\nBilloro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 4 of 8\n",
+   "n_chars": 3392,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      268.4,
+      290.5,
+      289.7
+     ],
+     "text": "discharged from the hospital and after discharge till 30\ndays since operation was done\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      304.0,
+      290.5,
+      361.7
+     ],
+     "text": "Etiological organisms for SSIs\nKlebsiella pneumonia was found to be the most com-\nmon for 60.0% of isolates followed by Staphylococcus\naureus (17.8%), Escherichia colli (11.1%) and Pseudo-\nmonas aeruginosa (11.1%).\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      376.0,
+      290.6,
+      457.7
+     ],
+     "text": "Sensitivity of causative organisms\nCeftriaxone was used as prophylactic antibiotic in study\narea. Susceptibility test to identified organisms were\ndone in eight drugs. 35% of them had resistance to or-\nganisms\nwhich\ninclude\nampicillin,\ntetracycline\nand\nerythromycin. The remaining 65% of drugs had different\nsensitivity patterns.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      460.4,
+      290.5,
+      481.7
+     ],
+     "text": "Klebsiella species were 88.9% susceptible to ciprofloxa-\ncin, ceftriaxone, and Pseudomonas aeruginosa was 100%\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      88.4,
+      538.6,
+      133.7
+     ],
+     "text": "susceptible to both drugs. Klebsiella species and Pseudo-\nmonas aeruginosa showed different resistant pattern for\ngentamycin and chloramphenicol. Escherichia colli was\nfound to be resistant organism from gram-negative.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      136.3,
+      538.5,
+      181.7
+     ],
+     "text": "Staphylococcus aureus was the only gram-positive iso-\nlate identified, and had sensitivity to ciprofloxacillin and\ncloxacillin. It was 100 % sensitive to ceftriaxone and gen-\ntamycin but found to be resistant to chloramphenicol.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      184.4,
+      538.5,
+      229.7
+     ],
+     "text": "Ciprofloxacin and ceftriaxone had best sensitivity with\nP-values of 0.021 and 0.001, respectively. Chlorampheni-\ncol was found to be resistant to both Gram-positive and\nGram-negative organisms (Table 4).\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      256.8,
+      538.6,
+      313.7
+     ],
+     "text": "Factors associated with surgical site infection\nSurgery waiting time >7 days, Operation time >1 hours,\nadministering AMP before 1 hour of operation, and\nsmokers were factors independently associated with SSIs\n(Table 5).\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      316.4,
+      538.6,
+      433.7
+     ],
+     "text": "Smokers were 8.01 times more likely to develop SSIs\ncompared with non-smokers [ARR = 8.01(95%CI (2.15–\n29.84)]. Moreover, Hospital stay more than 7 days pre-\noperatively were likely to increase SSI by odd of 2.48\ntimes compared with preoperative hospital stay less than\n7 days [ARR = 2.48 (95% CI (1.28-4.79)].\nPatients with operation time more than 1 hour in-\ncreased SSI by 2.13 times compared with patients whose\noperation finished within 1 hour [ARR = 2.13 (95% CI\n(1.18-3.86)].\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      436.4,
+      538.6,
+      481.7
+     ],
+     "text": "Administering antibiotic before 1 hour were likely to\nincrease SSI by risk of 5.05 times more than those who\ndid not get AMP administration within 1 hour [ARR =\n5.05(95% CI(1.79-14.21)] (Table 5).\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      88.7,
+      267.7,
+      108.0
+     ],
+     "text": "Table 3 Surgical procedure done in the surgical ward of\nWUNEMMH from January 1 to September 1, 2017 (N=255)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      113.5,
+      290.6,
+      120.9
+     ],
+     "text": "Variables\nFrequency\nPercent\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      126.7,
+      279.3,
+      134.0
+     ],
+     "text": "Caesarean section\n72\n28.2\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      140.7,
+      279.3,
+      148.0
+     ],
+     "text": "Appendectomy\n54\n21.2\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      154.7,
+      279.3,
+      162.0
+     ],
+     "text": "Head and neck surgery\n32\n12.5\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      168.7,
+      279.3,
+      176.0
+     ],
+     "text": "Genitourinary surgery\n30\n11.8\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      182.7,
+      279.3,
+      190.0
+     ],
+     "text": "Hernia repair\n28\n10.9\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      196.7,
+      275.5,
+      204.0
+     ],
+     "text": "Breast surgery\n21\n8.2\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      210.7,
+      275.5,
+      218.0
+     ],
+     "text": "Hepato-biliary surgery\n15\n5.9\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      224.7,
+      275.5,
+      232.0
+     ],
+     "text": "Lipoma excision\n3\n1.2\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      238.7,
+      283.1,
+      246.0
+     ],
+     "text": "Total\n255\n100.0\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      496.7,
+      482.1,
+      505.8
+     ],
+     "text": "Table 4 Organisms’ sensitivity to antibiotics in the surgical ward of WUNEMMH from January 1 to September 1, 2017\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      511.4,
+      538.6,
+      518.7
+     ],
+     "text": "Sensitivity\nklebsiella species.\nStaphylococcus aureus\nPseudomonas\nEscherichia colli\nTotal sensitivity\nP-value\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      524.5,
+      129.7,
+      531.9
+     ],
+     "text": "chloramphenicol (CAF)\n"
+    },
+    {
+     "bbox": [
+      64.7,
+      538.5,
+      535.4,
+      545.9
+     ],
+     "text": "Resistant\n2 (33.3)\n4 (80)\n1 (100)\n2 (100)\n9\n0.124\n"
+    },
+    {
+     "bbox": [
+      64.7,
+      552.5,
+      444.2,
+      559.9
+     ],
+     "text": "Sensitivity\n4 (66.6)\n1 (20)\n0\n0\n5\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      566.5,
+      94.5,
+      573.9
+     ],
+     "text": "gentamycin\n"
+    },
+    {
+     "bbox": [
+      64.7,
+      580.5,
+      535.4,
+      587.9
+     ],
+     "text": "Resistant\n3 (33.3)\n0\n1 (100)\n1 (50)\n5\n0.135\n"
+    },
+    {
+     "bbox": [
+      64.7,
+      594.5,
+      448.0,
+      601.9
+     ],
+     "text": "Sensitivity\n6 (66.6)\n3 (100)\n0\n1 (50)\n10\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      608.4,
+      102.1,
+      615.8
+     ],
+     "text": "ciprofloxacillin\n"
+    },
+    {
+     "bbox": [
+      64.7,
+      622.4,
+      535.4,
+      629.8
+     ],
+     "text": "Resistant\n1 (11.1)\n1 (25)\n0\n2 (100)\n4\n0.021\n"
+    },
+    {
+     "bbox": [
+      64.7,
+      636.4,
+      448.0,
+      643.8
+     ],
+     "text": "Sensitivity\n8 (88.9)\n3 (75)\n2 (100)\n0\n13\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      650.4,
+      91.8,
+      657.8
+     ],
+     "text": "ceftriaxone\n"
+    },
+    {
+     "bbox": [
+      64.7,
+      664.4,
+      535.4,
+      671.8
+     ],
+     "text": "Resistant\n1 (11.1)\n0\n0\n2 (100)\n3\n0.001\n"
+    },
+    {
+     "bbox": [
+      64.7,
+      678.4,
+      448.0,
+      685.8
+     ],
+     "text": "Sensitivity\n8 (88.9)\n3 (100)\n2 (100)\n0\n13\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      692.4,
+      87.5,
+      699.8
+     ],
+     "text": "cloxacillin\n"
+    },
+    {
+     "bbox": [
+      64.7,
+      706.4,
+      218.7,
+      713.8
+     ],
+     "text": "Resistant\n1 (25)\n"
+    },
+    {
+     "bbox": [
+      64.7,
+      720.4,
+      218.7,
+      727.8
+     ],
+     "text": "Sensitivity\n3 (75)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      31.9,
+      538.6,
+      41.0
+     ],
+     "text": "Billoro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 4 of 8\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "Discussion\nOut of 255 patients who underwent surgical procedure,\n42 patients developed SSIs which contribute to the overall\nrate of 16.5%. This was consistent with similar studies\ndone in Ethiopia 19.1% [21], Uganda 16.4% [23] and\nNigeria 20.3% [24]. But, it is relatively less compared to\nstudy done in Tanzania 26% [25]. This difference might be\nfor the reason that our study included only wounds which\nare clean and clean-contaminated while other studies in-\ncluded contaminated and dirty wound. The finding was\nhigher compared with studies done in USA 7.2% [26] and\nSaudi Arabia 6.8 % [27]. The difference might be due to\nmodern surgical techniques, surgery rooms and sufficient\ntrained professionals in developed countries.\nSmoking contributes to the development of SSI by caus-\ning vasoconstriction which results in tissue hypoxia and\nhypovolemia locally as well as systemically which delays\nthe healing progress, an environment conducive to SSI. In\nour study patients who smokes were 8.01 times more\nlikely to develop SSIs compared with non-smokers with\n[ARR = 8.01 (95% CI (2.15-29.84), P= 0.002]. This study is\nin support of study done in Tanzania [25].\nWaiting time for surgery at hospital exposes the pa-\ntients to contamination or colonization by pathogens\nwhich will contribute to the occurrence of SSI [28]. Also\npatients with long stay in hospital before surgery were\nsicker or had higher comorbidities that increase their\nrisk for SSI. Hospital stay more than 7 days preopera-\ntively was likely to increase SSIs by risk of 2.48 times\ncompared with preoperative hospital stay less than 7\ndays, [ARR = 2.48 (95% CI (1.28-4.79), P= 0.007]. Similar\nto our finding, study done in Egypt showed that patients\nwho underwent operation within 2 days of admission de-\ncreased risk of SSI more than those whose operation\ndone after 2 days (P= 0.0034) [29]. This confirms that as\nthe duration of hospital stay preoperatively gets shorten,\nit minimize rate of SSIs.\nIn our study, the rate of SSIs were 10.4% and 24.3% in\nthe clean wound and in the clean-contaminated wound\nrespectively. The finding was in contrast with study\nshowed in Tanzania which indicated the rate as clean\n(63%) and clean-contaminated (33.7%) [25]. As well as\nin study conducted in Egypt indicated that 57 % and\n20%\nwere\nclean\nand\nclean-contaminated\nwounds\nTable 5 Results of binary and multivariable logistic analysis indicating factors significantly associated with SSI in the surgical ward of\nWUNEMMH from January 1 to September 1, 2017 (N = 255)\nCharacteristics\nSurgical site infection\nRR(95% CI)\nARR(95% CI)\nP-\nvalue\nYes N (%)\n42 (16.5%)\nNo N (%)\n213 (83.5%)\nSurgery waiting time\n>7 days\n33 (55%)\n27 (45%)\n1.92 (1.12–3.31)\n2.48 (1.28–4.79)\n0.007*\n<=7 days\n9 (4.6%)\n186 (95.4%)\n1\nSmokers\nYes\n18 (30%)\n42 (70%)\n7.55 (2.50–22.78)\n8.01 (2.15–29.84)\n0.002*\nNo\n24 (12.3)\n171 (87.7%)\n1\nOperation time\n>1 h\n33 (32.4%)\n69 (67.6%)\n2.57 (1.56–4.23)\n2.13 (1.18–3.86)\n0.012*\n<=1 h\n9 (5.9%)\n144 (94.1%)\n1\nAdministering antibiotic before 1 h of operation\n> 1 h\n30 (20%)\n120 (80%)\n5.27 (2.05–13.54)\n5.05 (1.79–14.21)\n0.002*\n<=1 h\n12 (11.4%)\n93 (88.6%)\n1\nResidence\nRural\n33 (22.4%)\n114 (77.6%)\n1.57 (0.689–6.786)\n1.53 (0.124–3.740)\n0.691\nUrban\n9 (8.3%)\n99 (91.7)\n1\nAge in year\n1–18\n6 (8.7%)\n63 (91.3%)\n0.79 (0.305–5.346)\n1.71 (0.206–8.723)\n0.849\n19–40\n9 (8.3%)\n99 (91.7%)\n1\n> 40\n27 (34.6%)\n51 (65.4%)\n7.11 (1.47–15.022)\n7.72 (8.46–40.810)\nASA Score\n>1\n39 (20.6%)\n150 (79.4%)\n6.09 (0.607–29.16)\n6.27 (0.52–15.501)\n0.076\n<=1\n3 (4.5%)\n63 (95.5%)\n1\nCo-morbidity\nPresent\n6 (28.6%)\n15 (71.4%)\n3.51 (0.545–8.96)\n1.39 (0.154–16.11)\n0.358\nAbsent\n36 (15.4%)\n198 (84.6%)\n1\nPrevious surgery\nYes\n12 (40%)\n18 (60%)\n2.23 (1.540–15.62)\n7.64 (0.639–34.04)\n0.678\nNo\n30 (13.3%)\n195 (86.7%)\n1\nWound class\nClean-contaminated\n27 (24.3%)\n84 (75.7%)\n1.52 (0.194–1.388)\n3.54 (0.70–4.698)\n0.185\nClean\n15 (10.4%)\n129 (89.6%)\n1\nRR Relative risk, ARR Adjusted relative risk\n*statistically significant\nBilloro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 5 of 8\n",
+   "n_chars": 4008,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      472.0,
+      290.6,
+      637.7
+     ],
+     "text": "Discussion\nOut of 255 patients who underwent surgical procedure,\n42 patients developed SSIs which contribute to the overall\nrate of 16.5%. This was consistent with similar studies\ndone in Ethiopia 19.1% [21], Uganda 16.4% [23] and\nNigeria 20.3% [24]. But, it is relatively less compared to\nstudy done in Tanzania 26% [25]. This difference might be\nfor the reason that our study included only wounds which\nare clean and clean-contaminated while other studies in-\ncluded contaminated and dirty wound. The finding was\nhigher compared with studies done in USA 7.2% [26] and\nSaudi Arabia 6.8 % [27]. The difference might be due to\nmodern surgical techniques, surgery rooms and sufficient\ntrained professionals in developed countries.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      640.3,
+      290.6,
+      733.7
+     ],
+     "text": "Smoking contributes to the development of SSI by caus-\ning vasoconstriction which results in tissue hypoxia and\nhypovolemia locally as well as systemically which delays\nthe healing progress, an environment conducive to SSI. In\nour study patients who smokes were 8.01 times more\nlikely to develop SSIs compared with non-smokers with\n[ARR = 8.01 (95% CI (2.15-29.84), P= 0.002]. This study is\nin support of study done in Tanzania [25].\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      472.4,
+      538.5,
+      649.7
+     ],
+     "text": "Waiting time for surgery at hospital exposes the pa-\ntients to contamination or colonization by pathogens\nwhich will contribute to the occurrence of SSI [28]. Also\npatients with long stay in hospital before surgery were\nsicker or had higher comorbidities that increase their\nrisk for SSI. Hospital stay more than 7 days preopera-\ntively was likely to increase SSIs by risk of 2.48 times\ncompared with preoperative hospital stay less than 7\ndays, [ARR = 2.48 (95% CI (1.28-4.79), P= 0.007]. Similar\nto our finding, study done in Egypt showed that patients\nwho underwent operation within 2 days of admission de-\ncreased risk of SSI more than those whose operation\ndone after 2 days (P= 0.0034) [29]. This confirms that as\nthe duration of hospital stay preoperatively gets shorten,\nit minimize rate of SSIs.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      652.3,
+      538.5,
+      733.7
+     ],
+     "text": "In our study, the rate of SSIs were 10.4% and 24.3% in\nthe clean wound and in the clean-contaminated wound\nrespectively. The finding was in contrast with study\nshowed in Tanzania which indicated the rate as clean\n(63%) and clean-contaminated (33.7%) [25]. As well as\nin study conducted in Egypt indicated that 57 % and\n20%\nwere\nclean\nand\nclean-contaminated\nwounds\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      88.7,
+      536.1,
+      108.0
+     ],
+     "text": "Table 5 Results of binary and multivariable logistic analysis indicating factors significantly associated with SSI in the surgical ward of\nWUNEMMH from January 1 to September 1, 2017 (N = 255)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      113.5,
+      535.7,
+      143.1
+     ],
+     "text": "Characteristics\nSurgical site infection\nRR(95% CI)\nARR(95% CI)\nP-\nvalue\nYes N (%)\n42 (16.5%)\nNo N (%)\n213 (83.5%)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      148.1,
+      538.6,
+      156.2
+     ],
+     "text": "Surgery waiting time\n>7 days\n33 (55%)\n27 (45%)\n1.92 (1.12–3.31)\n2.48 (1.28–4.79)\n0.007*\n"
+    },
+    {
+     "bbox": [
+      220.6,
+      162.9,
+      456.0,
+      170.2
+     ],
+     "text": "<=7 days\n9 (4.6%)\n186 (95.4%)\n1\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      176.1,
+      538.6,
+      184.2
+     ],
+     "text": "Smokers\nYes\n18 (30%)\n42 (70%)\n7.55 (2.50–22.78)\n8.01 (2.15–29.84)\n0.002*\n"
+    },
+    {
+     "bbox": [
+      220.6,
+      190.9,
+      456.0,
+      198.2
+     ],
+     "text": "No\n24 (12.3)\n171 (87.7%)\n1\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      204.1,
+      538.6,
+      212.2
+     ],
+     "text": "Operation time\n>1 h\n33 (32.4%)\n69 (67.6%)\n2.57 (1.56–4.23)\n2.13 (1.18–3.86)\n0.012*\n"
+    },
+    {
+     "bbox": [
+      220.6,
+      218.9,
+      456.0,
+      226.2
+     ],
+     "text": "<=1 h\n9 (5.9%)\n144 (94.1%)\n1\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      232.1,
+      538.6,
+      240.2
+     ],
+     "text": "Administering antibiotic before 1 h of operation\n> 1 h\n30 (20%)\n120 (80%)\n5.27 (2.05–13.54)\n5.05 (1.79–14.21)\n0.002*\n"
+    },
+    {
+     "bbox": [
+      220.6,
+      246.8,
+      456.0,
+      254.2
+     ],
+     "text": "<=1 h\n12 (11.4%)\n93 (88.6%)\n1\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      260.1,
+      535.6,
+      268.2
+     ],
+     "text": "Residence\nRural\n33 (22.4%)\n114 (77.6%)\n1.57 (0.689–6.786)\n1.53 (0.124–3.740)\n0.691\n"
+    },
+    {
+     "bbox": [
+      220.6,
+      274.8,
+      456.0,
+      282.2
+     ],
+     "text": "Urban\n9 (8.3%)\n99 (91.7)\n1\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      288.1,
+      535.6,
+      296.2
+     ],
+     "text": "Age in year\n1–18\n6 (8.7%)\n63 (91.3%)\n0.79 (0.305–5.346)\n1.71 (0.206–8.723)\n0.849\n"
+    },
+    {
+     "bbox": [
+      220.6,
+      302.1,
+      456.0,
+      310.2
+     ],
+     "text": "19–40\n9 (8.3%)\n99 (91.7%)\n1\n"
+    },
+    {
+     "bbox": [
+      220.7,
+      316.1,
+      508.7,
+      324.2
+     ],
+     "text": "> 40\n27 (34.6%)\n51 (65.4%)\n7.11 (1.47–15.022)\n7.72 (8.46–40.810)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      330.1,
+      535.6,
+      338.2
+     ],
+     "text": "ASA Score\n>1\n39 (20.6%)\n150 (79.4%)\n6.09 (0.607–29.16)\n6.27 (0.52–15.501)\n0.076\n"
+    },
+    {
+     "bbox": [
+      220.6,
+      344.8,
+      455.9,
+      352.2
+     ],
+     "text": "<=1\n3 (4.5%)\n63 (95.5%)\n1\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      358.1,
+      535.6,
+      366.2
+     ],
+     "text": "Co-morbidity\nPresent\n6 (28.6%)\n15 (71.4%)\n3.51 (0.545–8.96)\n1.39 (0.154–16.11)\n0.358\n"
+    },
+    {
+     "bbox": [
+      220.6,
+      372.8,
+      455.9,
+      380.2
+     ],
+     "text": "Absent\n36 (15.4%)\n198 (84.6%)\n1\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      386.1,
+      535.6,
+      394.2
+     ],
+     "text": "Previous surgery\nYes\n12 (40%)\n18 (60%)\n2.23 (1.540–15.62)\n7.64 (0.639–34.04)\n0.678\n"
+    },
+    {
+     "bbox": [
+      220.6,
+      400.8,
+      455.9,
+      408.2
+     ],
+     "text": "No\n30 (13.3%)\n195 (86.7%)\n1\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      414.1,
+      535.6,
+      422.2
+     ],
+     "text": "Wound class\nClean-contaminated\n27 (24.3%)\n84 (75.7%)\n1.52 (0.194–1.388)\n3.54 (0.70–4.698)\n0.185\n"
+    },
+    {
+     "bbox": [
+      220.6,
+      428.8,
+      456.0,
+      436.2
+     ],
+     "text": "Clean\n15 (10.4%)\n129 (89.6%)\n1\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      442.1,
+      179.6,
+      457.7
+     ],
+     "text": "RR Relative risk, ARR Adjusted relative risk\n*statistically significant\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      32.0,
+      538.6,
+      41.0
+     ],
+     "text": "Billoro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 5 of 8\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "respectively [29]. Similar findings have been documented\nin\nIndia\nwhere\nthe\nrate\nof\nSSI\nwas\nhigher\nin\nclean-contaminated wound (22.8%) compared to wound\nwhich are clean (15.1%) [28]. Also in study done in\nSudan the rate of SSI was higher in clean contaminated\n(9.5%) relative to clean wound (8%) [30]. The lesser rate\nof SSIs in clean wound in our study might be due to\nclose precaution was taken to clean wound and might\nalso be due to rational use of ceftriaxone for the most\nclean wound, which might result in sensitive strains in\nthe clean wound as indicated [31] and also our study\nconfirms that ceftriaxone is highly sensitive to suspected\norganisms in clean wound.\nThe prolonged operation is an independent factor for\nSSIs in other study because of higher risk for infection\ndue to incision of the operation site [32]. It also in-\ncreases the extent of tissue trauma due to an extensive\nsurgical procedure, long duration of anesthesia effect, in-\ncreased blood loss and also decrease surgical antimicro-\nbial prophylaxis concentration at tissue level which all\nincreases the risk of SSIs [25, 28]. In our study, patients\nwith duration of operation more than 1 hour were 2.13\ntimes more likely to develop SSI compared to patients\nwhose operation completed within 1 hour, [ARR = 2.13\n(95%CI(1.18-3.86),P= 0.012] which was in line with other\nstudy [33].\nAdministering AMP before 1 hour was observed to be\nan independent factor associated with SSIs in previous\nstudy [34]. In this study, AMP administration before 1\nhour increased SSIs risk by 5.05 times compared with\nadministration of first dose of surgical antimicrobial\nprophylaxis within 1 hour of skin incision [ARR =5.05\n(95% CI(1.79-14.21),P=0.002]. Antimicrobials concentra-\ntion is not sufficient enough at the action site in tissue,\nas well as in serum to avoid the contamination during\noperation until wound closure if the first dose of anti-\nmicrobial was administered 1 hour earlier. One study in-\ndicated that low antibiotic concentration in tissue at the\ntime of wound closure was an independent factor for the\ndevelopment of SSIs [35].\nConcerning to the causative agents, common cause of\nSSI were Klebsiella pneumoniae followed by Staphylo-\ncoccus aureus, Escherichia colli and Pseudomonas aeru-\nginosa. Most of the operations were caesarean section\n(CS) and appendectomy which were either clean or\nclean-contaminated. Our study suggested that the prob-\nable reason for the organisms to cause SSI was the\nspillage\nof\nthis\norganism\nfrom\nthe\nGIT.\nThe\naerobic-anaerobic organisms closely similar with the\nnormal endogenous flora of the operated organ like\nclean-contaminated surgery of CS constitutes the most\nidentified bacterial agents.\nGram-negative bacilli are the most common aerobic\nbacterial agents causing SSIs in CS patients and our\nfinding showed that the predominant etiology was\nKlebsiella species.\nThe finding of our study is concordant with other\nstudies done Nigeria, Uganda, Tanzania [36–39] which\nshowed that gastrointestinal tract (appendectomy) is a\nnatural habitat for Klebsiella pneumonia’s.\nIn our study resistance to antibiotics were from 11.1%\nfor Klebsiella to 100% (Escherichia colli). A similar find-\ning has been documented with other studies conducted\nin Mbarara, Mulago and Tanzania [37–39].\nIn our study Klebsiella pneumoniae has high sensitivity\nto both ciprofloxacin and ceftriaxone but was resistant\nto ampicillin, tetracycline, and erythromycin. In line with\nour study, study conducted in Kenya showed that Kleb-\nsiella's resistant to ceftriaxone [40] and resistance to\nchloramphenicol was also reported in Uganda [41].\nOur study showed that ciprofloxacin, ceftriaxone, clox-\nacillin, and gentamycin were sensitive to Staphylococcus\naureus, but were resistant to erythromycin, chloram-\nphenicol, and ampicillin. This was in line with a study\ndone in Uganda [41]. The finding for ceftriaxone in our\nstudy is surprisingly indicated high sensitivity against\nboth Gram-negative and Gram-positive organisms since\nthe drug is frequently prescribed to almost all patients\nwho underwent operation.\nThe result of this study will provide information for\nsurgeons, working organizations like Non-governmental\norganizations\n(NGOs)\nin\nhealth\ncare\nsystem\nof\nWUNEMMH as well as in national and international\nlevel to decrease the rate of SSI and related complica-\ntions with SSIs.\nLimitation\nProfessionals’ related variables, antiseptics used, surgical\nequipment sterilization methods and anesthesia type\nwere not included due to resources shortage.\nDespite limitation, the study provides baseline infor-\nmation on rate of SSI, associated factors of surgical site\ninfection as well as on the causative agents and their\nantimicrobial susceptibility\nin the surgical ward of\nWUNEMMH.\nConclusion\nThe rate of SSIs was 16.5% which was lower compared\nwith some developing countries and higher relative to\nreports from developed countries. Klebsiella pneumonia\nfound to cause the majority of SSI. Ceftriaxone and cip-\nrofloxacin were sensitive antibiotics.\nSurgery waiting time more than 7 days, smokers, ad-\nministrating antibiotic before 1 hour and operation time\nmore than 1 hour were independently associated with\nSSIs.\nAntimicrobial resistance is one of world problem,\nwhich results partly due to unnecessarily administration\nBilloro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 6 of 8\n",
+   "n_chars": 5383,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      88.4,
+      290.5,
+      241.7
+     ],
+     "text": "respectively [29]. Similar findings have been documented\nin\nIndia\nwhere\nthe\nrate\nof\nSSI\nwas\nhigher\nin\nclean-contaminated wound (22.8%) compared to wound\nwhich are clean (15.1%) [28]. Also in study done in\nSudan the rate of SSI was higher in clean contaminated\n(9.5%) relative to clean wound (8%) [30]. The lesser rate\nof SSIs in clean wound in our study might be due to\nclose precaution was taken to clean wound and might\nalso be due to rational use of ceftriaxone for the most\nclean wound, which might result in sensitive strains in\nthe clean wound as indicated [31] and also our study\nconfirms that ceftriaxone is highly sensitive to suspected\norganisms in clean wound.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      244.3,
+      290.6,
+      397.7
+     ],
+     "text": "The prolonged operation is an independent factor for\nSSIs in other study because of higher risk for infection\ndue to incision of the operation site [32]. It also in-\ncreases the extent of tissue trauma due to an extensive\nsurgical procedure, long duration of anesthesia effect, in-\ncreased blood loss and also decrease surgical antimicro-\nbial prophylaxis concentration at tissue level which all\nincreases the risk of SSIs [25, 28]. In our study, patients\nwith duration of operation more than 1 hour were 2.13\ntimes more likely to develop SSI compared to patients\nwhose operation completed within 1 hour, [ARR = 2.13\n(95%CI(1.18-3.86),P= 0.012] which was in line with other\nstudy [33].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      400.3,
+      290.6,
+      565.7
+     ],
+     "text": "Administering AMP before 1 hour was observed to be\nan independent factor associated with SSIs in previous\nstudy [34]. In this study, AMP administration before 1\nhour increased SSIs risk by 5.05 times compared with\nadministration of first dose of surgical antimicrobial\nprophylaxis within 1 hour of skin incision [ARR =5.05\n(95% CI(1.79-14.21),P=0.002]. Antimicrobials concentra-\ntion is not sufficient enough at the action site in tissue,\nas well as in serum to avoid the contamination during\noperation until wound closure if the first dose of anti-\nmicrobial was administered 1 hour earlier. One study in-\ndicated that low antibiotic concentration in tissue at the\ntime of wound closure was an independent factor for the\ndevelopment of SSIs [35].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      568.3,
+      290.6,
+      709.6
+     ],
+     "text": "Concerning to the causative agents, common cause of\nSSI were Klebsiella pneumoniae followed by Staphylo-\ncoccus aureus, Escherichia colli and Pseudomonas aeru-\nginosa. Most of the operations were caesarean section\n(CS) and appendectomy which were either clean or\nclean-contaminated. Our study suggested that the prob-\nable reason for the organisms to cause SSI was the\nspillage\nof\nthis\norganism\nfrom\nthe\nGIT.\nThe\naerobic-anaerobic organisms closely similar with the\nnormal endogenous flora of the operated organ like\nclean-contaminated surgery of CS constitutes the most\nidentified bacterial agents.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      712.3,
+      290.5,
+      733.6
+     ],
+     "text": "Gram-negative bacilli are the most common aerobic\nbacterial agents causing SSIs in CS patients and our\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      88.3,
+      538.6,
+      109.6
+     ],
+     "text": "finding showed that the predominant etiology was\nKlebsiella species.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      112.3,
+      538.6,
+      157.6
+     ],
+     "text": "The finding of our study is concordant with other\nstudies done Nigeria, Uganda, Tanzania [36–39] which\nshowed that gastrointestinal tract (appendectomy) is a\nnatural habitat for Klebsiella pneumonia’s.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      160.3,
+      538.6,
+      205.6
+     ],
+     "text": "In our study resistance to antibiotics were from 11.1%\nfor Klebsiella to 100% (Escherichia colli). A similar find-\ning has been documented with other studies conducted\nin Mbarara, Mulago and Tanzania [37–39].\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      208.3,
+      538.6,
+      277.7
+     ],
+     "text": "In our study Klebsiella pneumoniae has high sensitivity\nto both ciprofloxacin and ceftriaxone but was resistant\nto ampicillin, tetracycline, and erythromycin. In line with\nour study, study conducted in Kenya showed that Kleb-\nsiella's resistant to ceftriaxone [40] and resistance to\nchloramphenicol was also reported in Uganda [41].\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      280.4,
+      538.6,
+      385.7
+     ],
+     "text": "Our study showed that ciprofloxacin, ceftriaxone, clox-\nacillin, and gentamycin were sensitive to Staphylococcus\naureus, but were resistant to erythromycin, chloram-\nphenicol, and ampicillin. This was in line with a study\ndone in Uganda [41]. The finding for ceftriaxone in our\nstudy is surprisingly indicated high sensitivity against\nboth Gram-negative and Gram-positive organisms since\nthe drug is frequently prescribed to almost all patients\nwho underwent operation.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      388.3,
+      538.5,
+      457.7
+     ],
+     "text": "The result of this study will provide information for\nsurgeons, working organizations like Non-governmental\norganizations\n(NGOs)\nin\nhealth\ncare\nsystem\nof\nWUNEMMH as well as in national and international\nlevel to decrease the rate of SSI and related complica-\ntions with SSIs.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      472.0,
+      538.5,
+      517.7
+     ],
+     "text": "Limitation\nProfessionals’ related variables, antiseptics used, surgical\nequipment sterilization methods and anesthesia type\nwere not included due to resources shortage.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      520.4,
+      538.6,
+      577.7
+     ],
+     "text": "Despite limitation, the study provides baseline infor-\nmation on rate of SSI, associated factors of surgical site\ninfection as well as on the causative agents and their\nantimicrobial susceptibility\nin the surgical ward of\nWUNEMMH.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      592.0,
+      538.6,
+      661.7
+     ],
+     "text": "Conclusion\nThe rate of SSIs was 16.5% which was lower compared\nwith some developing countries and higher relative to\nreports from developed countries. Klebsiella pneumonia\nfound to cause the majority of SSI. Ceftriaxone and cip-\nrofloxacin were sensitive antibiotics.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      664.4,
+      538.5,
+      709.7
+     ],
+     "text": "Surgery waiting time more than 7 days, smokers, ad-\nministrating antibiotic before 1 hour and operation time\nmore than 1 hour were independently associated with\nSSIs.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      712.3,
+      538.5,
+      733.7
+     ],
+     "text": "Antimicrobial resistance is one of world problem,\nwhich results partly due to unnecessarily administration\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      32.0,
+      538.6,
+      41.0
+     ],
+     "text": "Billoro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 6 of 8\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "of antibiotic for long period so administration of surgical\nAMP for long time should be avoided.\nIt becomes imperative, therefore, to know local anti-\nbiotic sensitivity patterns existing in a hospital to plan\nappropriate antibiotic policy.\nIn addition, periodic surveillance on rate of SSI, asso-\nciated factors of surgical site infection, causative agents,\nand their antimicrobial susceptibility will decrease the\nrate.\nA surveillance system for SSI with feedback of proper\ndata to surgeons and hospital authorities is highly rec-\nommended to reduce SSI rate in WUNEMMH.\nAcknowledgements\nThe author would like to express due appreciation for Wachemo University,\nfor providing us different reference materials and financial support. We are\nalso grateful to WUNEMMH surgeons and staffs, for allowing us to access\npatients’ data.\nFunding\nThe study was supported by research grant from Wachemo University\n[Hosanna, Ethiopia]. The funders had no role in the design, collection,\ninvestigation and explanation of data and in preparing the manuscript.\nAvailability of data and materials\nThe datasets used and/or analyzed during the current study will be made\navailable from the corresponding author on reasonable request.\nAuthors’ contributions\nBB: collect data, analyzed, and drafted the manuscript. MH: designed study\nand reviewed it critically for intellectual content. SE: finalized study design\nand coordinated implementation. All authors read and approved the final\nmanuscript.\nEthics approval and consent to participate\nEthical clearance was obtained from Wachemo University ethical review\ncommittee and official permission letter was obtained from Wachemo\nUniversity Nigist Eleni Mohamed Memorial Hospital administrators to\nconduct the study. Written informed consent was obtained from each study\nparticipant before data collection and documented in prepared format.\nPrivacy of the data was also assured and collected anonymously.\nConsent for publication\nNot applicable.\nCompeting interests\nThe authors declare that they have no competing interests.\nPublisher’s Note\nSpringer Nature remains neutral with regard to jurisdictional claims in\npublished maps and institutional affiliations.\nAuthor details\n1Department of Pharmacy, College of Medicine and Health Sciences,\nWachemo University, Hosanna, Ethiopia. 2Department of Public Health,\nCollege of Medicine and Health Sciences, Wachemo University, Hosanna,\nEthiopia. 3Ethiopian Biotechnology Institute, Addis Ababa, Ethiopia.\n4Department of Clinical Pharmacy, Near East University, Nicosia, Northern\nCyprus, Cyprus.\nReceived: 13 June 2018 Accepted: 11 March 2019\nReferences\n1.\nBruce J, Russel EM, Mollison J. The measurement and monitoring of surgical\nadverse events. Health Technol Assess. 2001;5:13–28.\n2.\nEzechi OC, Fasuba OB, Dare FO. Socioeconomic barrier to safe motherhood\namong booked patients in rural Nigerian communities. J Obstet Gynaecol.\n2000;20(1):32–4.\n3.\nSingh R, Singla P, Chaudhary U. Surgical site infections: classification, risk\nfactors, pathogenesis and preventive management. Int J Pharm Res Heal\nSci. 2014;2:203–14.\n4.\nGagliardi AR, Fenech D, Eskicioglu C, Nathens AB, McLeod R. Factors\ninfluencing antibiotic prophylaxis for surgical site infection prevention in\ngeneral surgery: a review of the literature. Can J Surg. 2009;52(6):481.\n5.\nErnesto C, Starling F, Horizonte B. Applicability of the national nosocomial\ninfections surveillance system risk index for the prediction of surgical site\ninfections: a review. Braz J Infect Dis. 2007;11(1):134–41.\n6.\nFan Y, Wei Z, Wang W, Tan L, Jiang H, Tian L, Cao Y, Nie S. The incidence\nand distribution of surgical site infection in mainland China: a meta-analysis\nof 84 prospective observational studies. Sci Rep. 2014;4:6783.\n7.\nBratzler DW, Dellinger EP, Olsen KM, Perl TM, Auwaerter PG, Bolon MK, Fish DN,\nNapolitano LM, Sawyer RG, Slain D, Steinberg JP. Clinical practice guidelines for\nantimicrobial prophylaxis in surgery. Surg Infect. 2013;14(1):73–156.\n8.\nCDC. Surgical infection prevention (SIP) collaborative problem statement;\n2002. p. 1–16.\n9.\nBurke JP. Maximizing appropriate antibiotic prophylaxis for surgical patients: an\nupdate from LDS hospital, Salt Lake City. Clin Infect Dis. 2001;33(Suppl 2):S78–83.\n10.\nCusini A, Rampini SK, Bansal V, Ledergerber B, Kuster SP, Ruef C, Weber R.\nDifferent patterns of inappropriate antimicrobial use in surgical and medical\nunits at a tertiary care hospital in Switzerland: a prevalence survey. PLoS\nOne. 2010;5(11):e14011.\n11.\nBrand AM. Therapeutic properties of the lantibiotic nisin F (Doctoral\ndissertation, Stellenbosch: Stellenbosch University).\n12.\nApisarnthanarak A, Danchaivijitr S, Bailey TC, Fraser VJ. Inappropriate antibiotic\nuse in a tertiary care center in Thailand: an incidence study and review of\nexperience in Thailand. Infect Control Hosp Epidemiol. 2006;27(4):416–20.\n13.\nWorld Health Organization. Antimicrobial resistance: global report on\nsurveillance: World Health Organization; 2014.\n14.\nSchmitt C, Lacerda RA, Padoveze MC, Turrini RN. Applying validated quality\nindicators to surgical antibiotic prophylaxis in a Brazilian hospital: learning\nwhat should be learned. Am J Infect Control. 2012;40(10):960–2.\n15.\nHatam N, Askarian M, Moravveji AR, Assadian O. Economic burden of\ninappropriate antibiotic use for prophylactic purpose in Shiraz, Iran. Iran Red\nCrescent Med J. 2011;13(4):234–8.\n16.\nAnderson DJ, Sexton DJ, Kanafani ZA, Auten G, Kaye KS. Severe surgical site\ninfection in community hospitals: epidemiology, key procedures, and the\nchanging prevalence of methicillin-resistant Staphylococcus aureus. Infect\nControl Hosp Epidemiol. 2007;28(9):1047–53.\n17.\nCantlon CA, Stemper ME, Schwan WR, Hoffman MA, Qutaishat SS.\nSignificant pathogens isolated from surgical site infections at a community\nhospital in the Midwest. Am J Infect Control. 2006;34(8):526–9.\n18.\nAiken AM, Karuri DM, Wanyoro AK, Macleod J. Interventional studies for\npreventing surgical site infections in sub-Saharan Africa–a systematic review.\nInt J Surg. 2012;10(5):242–9.\n19.\nByarugaba DK. Antimicrobial resistance in developing countries and\nresponsible risk factors. Int J Antimicrob Agents. 2004;24(2):105–10.\n20.\nSafety WP, World Health Organization. WHO guidelines for safe surgery:\n2009: safe surgery saves lives. Geneva: World Health Organization; 2009.\n21.\nLaloto TL, Gemeda DH, Abdella SH. Incidence and predictors of surgical site\ninfection in Ethiopia: prospective cohort. BMC Infect Dis. 2017;17(1):119.\n22.\nBauer AW, Kirby WM, Sherris JC, Turck M. Antibiotic susceptibility testing by\na standardized single disk method. Am J Clin Pathol. 1966;45(4):493–6.\n23.\nLubega A, Joel B, Justina Lucy N. Incidence and etiology of surgical site\ninfections among emergency postoperative patients in mbarara regional\nreferral hospital, South Western Uganda. Surg Res Pract. 2017;2017:6365172.\n24.\nNwankwo EO, Ibeh IN, Enabulele OI. Incidence and risk factors of surgical\nsite infection in a tertiary health institution in Kano, northwestern Nigeria.\nInt J Infect Control. 2012;8(4):8–13.\n25.\nMawalla B, Mshana SE, Chalya PL, Imirzalioglu C, Mahalu W. Predictors of\nsurgical site infections among patients undergoing major surgery at Bugando\nmedical Centre in Northwestern Tanzania. BMC Surg. 2011;11(1):21.\n26.\nGarey KW, Dao T, Chen H, Amrutkar P, Kumar N, Reiter M, Gentry LO. Timing\nof vancomycin prophylaxis for cardiac surgery patients and the risk of\nsurgical site infections. J Antimicrob Chemother. 2006;58(3):645–50.\n27.\nKhairy GA, Kambal AM, Al-Dohayan AA, Al-Shehri MY, Zubaidi AM, Al-Naami\nMY, AlSaif FA, Al-Obaid OA, Al-Saif AA, El-Farouk OY, Al-Abdulkarim AA.\nBilloro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 7 of 8\n",
+   "n_chars": 7729,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      88.4,
+      290.5,
+      109.7
+     ],
+     "text": "of antibiotic for long period so administration of surgical\nAMP for long time should be avoided.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      112.4,
+      290.5,
+      145.7
+     ],
+     "text": "It becomes imperative, therefore, to know local anti-\nbiotic sensitivity patterns existing in a hospital to plan\nappropriate antibiotic policy.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      148.4,
+      290.5,
+      193.7
+     ],
+     "text": "In addition, periodic surveillance on rate of SSI, asso-\nciated factors of surgical site infection, causative agents,\nand their antimicrobial susceptibility will decrease the\nrate.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      196.4,
+      290.6,
+      229.7
+     ],
+     "text": "A surveillance system for SSI with feedback of proper\ndata to surgeons and hospital authorities is highly rec-\nommended to reduce SSI rate in WUNEMMH.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      241.3,
+      285.0,
+      284.2
+     ],
+     "text": "Acknowledgements\nThe author would like to express due appreciation for Wachemo University,\nfor providing us different reference materials and financial support. We are\nalso grateful to WUNEMMH surgeons and staffs, for allowing us to access\npatients’ data.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      296.7,
+      271.2,
+      330.6
+     ],
+     "text": "Funding\nThe study was supported by research grant from Wachemo University\n[Hosanna, Ethiopia]. The funders had no role in the design, collection,\ninvestigation and explanation of data and in preparing the manuscript.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      343.0,
+      279.7,
+      367.9
+     ],
+     "text": "Availability of data and materials\nThe datasets used and/or analyzed during the current study will be made\navailable from the corresponding author on reasonable request.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      379.7,
+      282.4,
+      423.3
+     ],
+     "text": "Authors’ contributions\nBB: collect data, analyzed, and drafted the manuscript. MH: designed study\nand reviewed it critically for intellectual content. SE: finalized study design\nand coordinated implementation. All authors read and approved the final\nmanuscript.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      435.7,
+      287.7,
+      496.6
+     ],
+     "text": "Ethics approval and consent to participate\nEthical clearance was obtained from Wachemo University ethical review\ncommittee and official permission letter was obtained from Wachemo\nUniversity Nigist Eleni Mohamed Memorial Hospital administrators to\nconduct the study. Written informed consent was obtained from each study\nparticipant before data collection and documented in prepared format.\nPrivacy of the data was also assured and collected anonymously.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      509.0,
+      133.7,
+      524.9
+     ],
+     "text": "Consent for publication\nNot applicable.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      537.3,
+      236.2,
+      553.3
+     ],
+     "text": "Competing interests\nThe authors declare that they have no competing interests.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      568.8,
+      267.2,
+      596.6
+     ],
+     "text": "Publisher’s Note\nSpringer Nature remains neutral with regard to jurisdictional claims in\npublished maps and institutional affiliations.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      607.7,
+      277.0,
+      668.6
+     ],
+     "text": "Author details\n1Department of Pharmacy, College of Medicine and Health Sciences,\nWachemo University, Hosanna, Ethiopia. 2Department of Public Health,\nCollege of Medicine and Health Sciences, Wachemo University, Hosanna,\nEthiopia. 3Ethiopian Biotechnology Institute, Addis Ababa, Ethiopia.\n4Department of Clinical Pharmacy, Near East University, Nicosia, Northern\nCyprus, Cyprus.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      679.7,
+      213.4,
+      686.6
+     ],
+     "text": "Received: 13 June 2018 Accepted: 11 March 2019\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      708.0,
+      289.2,
+      732.9
+     ],
+     "text": "References\n1.\nBruce J, Russel EM, Mollison J. The measurement and monitoring of surgical\nadverse events. Health Technol Assess. 2001;5:13–28.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      90.0,
+      538.5,
+      732.9
+     ],
+     "text": "2.\nEzechi OC, Fasuba OB, Dare FO. Socioeconomic barrier to safe motherhood\namong booked patients in rural Nigerian communities. J Obstet Gynaecol.\n2000;20(1):32–4.\n3.\nSingh R, Singla P, Chaudhary U. Surgical site infections: classification, risk\nfactors, pathogenesis and preventive management. Int J Pharm Res Heal\nSci. 2014;2:203–14.\n4.\nGagliardi AR, Fenech D, Eskicioglu C, Nathens AB, McLeod R. Factors\ninfluencing antibiotic prophylaxis for surgical site infection prevention in\ngeneral surgery: a review of the literature. Can J Surg. 2009;52(6):481.\n5.\nErnesto C, Starling F, Horizonte B. Applicability of the national nosocomial\ninfections surveillance system risk index for the prediction of surgical site\ninfections: a review. Braz J Infect Dis. 2007;11(1):134–41.\n6.\nFan Y, Wei Z, Wang W, Tan L, Jiang H, Tian L, Cao Y, Nie S. The incidence\nand distribution of surgical site infection in mainland China: a meta-analysis\nof 84 prospective observational studies. Sci Rep. 2014;4:6783.\n7.\nBratzler DW, Dellinger EP, Olsen KM, Perl TM, Auwaerter PG, Bolon MK, Fish DN,\nNapolitano LM, Sawyer RG, Slain D, Steinberg JP. Clinical practice guidelines for\nantimicrobial prophylaxis in surgery. Surg Infect. 2013;14(1):73–156.\n8.\nCDC. Surgical infection prevention (SIP) collaborative problem statement;\n2002. p. 1–16.\n9.\nBurke JP. Maximizing appropriate antibiotic prophylaxis for surgical patients: an\nupdate from LDS hospital, Salt Lake City. Clin Infect Dis. 2001;33(Suppl 2):S78–83.\n10.\nCusini A, Rampini SK, Bansal V, Ledergerber B, Kuster SP, Ruef C, Weber R.\nDifferent patterns of inappropriate antimicrobial use in surgical and medical\nunits at a tertiary care hospital in Switzerland: a prevalence survey. PLoS\nOne. 2010;5(11):e14011.\n11.\nBrand AM. Therapeutic properties of the lantibiotic nisin F (Doctoral\ndissertation, Stellenbosch: Stellenbosch University).\n12.\nApisarnthanarak A, Danchaivijitr S, Bailey TC, Fraser VJ. Inappropriate antibiotic\nuse in a tertiary care center in Thailand: an incidence study and review of\nexperience in Thailand. Infect Control Hosp Epidemiol. 2006;27(4):416–20.\n13.\nWorld Health Organization. Antimicrobial resistance: global report on\nsurveillance: World Health Organization; 2014.\n14.\nSchmitt C, Lacerda RA, Padoveze MC, Turrini RN. Applying validated quality\nindicators to surgical antibiotic prophylaxis in a Brazilian hospital: learning\nwhat should be learned. Am J Infect Control. 2012;40(10):960–2.\n15.\nHatam N, Askarian M, Moravveji AR, Assadian O. Economic burden of\ninappropriate antibiotic use for prophylactic purpose in Shiraz, Iran. Iran Red\nCrescent Med J. 2011;13(4):234–8.\n16.\nAnderson DJ, Sexton DJ, Kanafani ZA, Auten G, Kaye KS. Severe surgical site\ninfection in community hospitals: epidemiology, key procedures, and the\nchanging prevalence of methicillin-resistant Staphylococcus aureus. Infect\nControl Hosp Epidemiol. 2007;28(9):1047–53.\n17.\nCantlon CA, Stemper ME, Schwan WR, Hoffman MA, Qutaishat SS.\nSignificant pathogens isolated from surgical site infections at a community\nhospital in the Midwest. Am J Infect Control. 2006;34(8):526–9.\n18.\nAiken AM, Karuri DM, Wanyoro AK, Macleod J. Interventional studies for\npreventing surgical site infections in sub-Saharan Africa–a systematic review.\nInt J Surg. 2012;10(5):242–9.\n19.\nByarugaba DK. Antimicrobial resistance in developing countries and\nresponsible risk factors. Int J Antimicrob Agents. 2004;24(2):105–10.\n20.\nSafety WP, World Health Organization. WHO guidelines for safe surgery:\n2009: safe surgery saves lives. Geneva: World Health Organization; 2009.\n21.\nLaloto TL, Gemeda DH, Abdella SH. Incidence and predictors of surgical site\ninfection in Ethiopia: prospective cohort. BMC Infect Dis. 2017;17(1):119.\n22.\nBauer AW, Kirby WM, Sherris JC, Turck M. Antibiotic susceptibility testing by\na standardized single disk method. Am J Clin Pathol. 1966;45(4):493–6.\n23.\nLubega A, Joel B, Justina Lucy N. Incidence and etiology of surgical site\ninfections among emergency postoperative patients in mbarara regional\nreferral hospital, South Western Uganda. Surg Res Pract. 2017;2017:6365172.\n24.\nNwankwo EO, Ibeh IN, Enabulele OI. Incidence and risk factors of surgical\nsite infection in a tertiary health institution in Kano, northwestern Nigeria.\nInt J Infect Control. 2012;8(4):8–13.\n25.\nMawalla B, Mshana SE, Chalya PL, Imirzalioglu C, Mahalu W. Predictors of\nsurgical site infections among patients undergoing major surgery at Bugando\nmedical Centre in Northwestern Tanzania. BMC Surg. 2011;11(1):21.\n26.\nGarey KW, Dao T, Chen H, Amrutkar P, Kumar N, Reiter M, Gentry LO. Timing\nof vancomycin prophylaxis for cardiac surgery patients and the risk of\nsurgical site infections. J Antimicrob Chemother. 2006;58(3):645–50.\n27.\nKhairy GA, Kambal AM, Al-Dohayan AA, Al-Shehri MY, Zubaidi AM, Al-Naami\nMY, AlSaif FA, Al-Obaid OA, Al-Saif AA, El-Farouk OY, Al-Abdulkarim AA.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      32.0,
+      538.6,
+      41.0
+     ],
+     "text": "Billoro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 7 of 8\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "Surgical site infection in a teaching hospital: a prospective study. J Taibah\nUniv Med Sci. 2011;6(2):114–20.\n28.\nBanashankari G S, Rudresh H K, Harsha SS. An overview of surgical site\ninfections: an insight into the prevalence, etiology and predisposing factors.\nValley Int J 204AD; 1(9):493–499.\n29.\nWassef MA, Hussein A, El-Sherif RH. A prospective surveillance of surgical\nsite infections: study for efficacy of preoperative antibiotic prophylaxis. Afr J\nMicrobiol Res. 2012;6(12):3072–8.\n30.\nMiliani K, L'hériteau F, Astagneau P, INCISO Network Study Group. Non-\ncompliance with recommendations for the practice of antibiotic prophylaxis\nand risk of surgical site infection: results of a multilevel analysis from the\nINCISO surveillance network. J Antimicrob Chemother. 2009;64(6):1307–15.\n31.\nGuta M, Aragaw K, Merid Y. Bacteria from infected surgical wounds and\ntheir antimicrobial resistance in Hawassa University referral teaching\nhospital, southern Ethiopia. Afr J Microbiol Res. 2014;8(11):1118–24.\n32.\nMangram AJ, Horan TC, Pearson ML, Silver LC, Jarvis WR. Hospital infection\ncontrol practices advisory committee. Guideline for prevention of surgical\nsite infection, 1999. Infect Control Hosp Epidemiol. 1999;20(4):247–80.\n33.\nElbur AI, Yousif M, Elsayed A, AbdelRahman M. Prevalence and predictors of\nwound infection in elective clean and clean/contaminated surgery in\nKhartoum teaching hospital, Sudan. Int J Infect Control. 2012;8(4):1–0.\n34.\nGarey KW, Dao T, Chen H, Amrutkar P, Kumar N, Reiter M, et al. Timing of\nvancomycin prophylaxis for cardiac surgery patients and the risk of surgical\nsite infections. J Antimicrobial Chemother. 2006;58:645–50.\n35.\nZelenitsky SA, Ariano RE, Harding GK, Silverman RE. Antibiotic\npharmacodynamics in surgical prophylaxis: an association between\nintraoperative antibiotic concentrations and efficacy. Antimicrob Agents\nChemother. 2002;46(9):3026–30.\n36.\nAkinkunmi EO, Adesunkanmi AR, Lamikanra A. Pattern of pathogens from\nsurgical wound infections in a Nigerian hospital and their antimicrobial\nsusceptibility profiles. Afr Health Sci. 2014;14(4):802–9.\n37.\nSeni J, Najjuka CF, Kateete DP, Makobore P, Joloba ML, Kajumbula H, Kapesa A,\nBwanga F. Antimicrobial resistance in hospitalized surgical patients: a silently\nemerging public health concern in Uganda. BMC Res Notes. 2013;6(1):298.\n38.\nSeni J, Bwanga F, Najjuka CF, Makobore P, Okee M, Mshana SE, Kidenya BR,\nJoloba ML, Kateete DP. Molecular characterization of staphylococcus aureus\nfrom patients with surgical site infections at Mulago Hospital in Kampala,\nUganda. PLoS One. 2013;8(6):e66153.\n39.\nManyahi J, Matee MI, Majigo M, Moyo S, Mshana SE, Lyamuya EF.\nPredominance of multi-drug resistant bacterial pathogens causing surgical\nsite infections in Muhimbili National Hospital, Tanzania. BMC Res Notes.\n2014;7(1):500.\n40.\nO. Okello S, R. Kuremu T, Ayumba BR, Ruto E, Otieno VO. Etiology and\nantimicrobial susceptibility of surgical site infections at Moi teaching and\nreferral hospital, Eldoret-Kenya. Int Ann Med. 2018;2(4).\n41.\nAnguzu JR, Olila D. Drug sensitivity patterns of bacterial isolates from septic\npost-operative wounds in a regional referral hospital in Uganda. Afr Health\nSci. 2007;7(3).\nBilloro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 8 of 8\n",
+   "n_chars": 3293,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      90.0,
+      290.2,
+      519.9
+     ],
+     "text": "Surgical site infection in a teaching hospital: a prospective study. J Taibah\nUniv Med Sci. 2011;6(2):114–20.\n28.\nBanashankari G S, Rudresh H K, Harsha SS. An overview of surgical site\ninfections: an insight into the prevalence, etiology and predisposing factors.\nValley Int J 204AD; 1(9):493–499.\n29.\nWassef MA, Hussein A, El-Sherif RH. A prospective surveillance of surgical\nsite infections: study for efficacy of preoperative antibiotic prophylaxis. Afr J\nMicrobiol Res. 2012;6(12):3072–8.\n30.\nMiliani K, L'hériteau F, Astagneau P, INCISO Network Study Group. Non-\ncompliance with recommendations for the practice of antibiotic prophylaxis\nand risk of surgical site infection: results of a multilevel analysis from the\nINCISO surveillance network. J Antimicrob Chemother. 2009;64(6):1307–15.\n31.\nGuta M, Aragaw K, Merid Y. Bacteria from infected surgical wounds and\ntheir antimicrobial resistance in Hawassa University referral teaching\nhospital, southern Ethiopia. Afr J Microbiol Res. 2014;8(11):1118–24.\n32.\nMangram AJ, Horan TC, Pearson ML, Silver LC, Jarvis WR. Hospital infection\ncontrol practices advisory committee. Guideline for prevention of surgical\nsite infection, 1999. Infect Control Hosp Epidemiol. 1999;20(4):247–80.\n33.\nElbur AI, Yousif M, Elsayed A, AbdelRahman M. Prevalence and predictors of\nwound infection in elective clean and clean/contaminated surgery in\nKhartoum teaching hospital, Sudan. Int J Infect Control. 2012;8(4):1–0.\n34.\nGarey KW, Dao T, Chen H, Amrutkar P, Kumar N, Reiter M, et al. Timing of\nvancomycin prophylaxis for cardiac surgery patients and the risk of surgical\nsite infections. J Antimicrobial Chemother. 2006;58:645–50.\n35.\nZelenitsky SA, Ariano RE, Harding GK, Silverman RE. Antibiotic\npharmacodynamics in surgical prophylaxis: an association between\nintraoperative antibiotic concentrations and efficacy. Antimicrob Agents\nChemother. 2002;46(9):3026–30.\n36.\nAkinkunmi EO, Adesunkanmi AR, Lamikanra A. Pattern of pathogens from\nsurgical wound infections in a Nigerian hospital and their antimicrobial\nsusceptibility profiles. Afr Health Sci. 2014;14(4):802–9.\n37.\nSeni J, Najjuka CF, Kateete DP, Makobore P, Joloba ML, Kajumbula H, Kapesa A,\nBwanga F. Antimicrobial resistance in hospitalized surgical patients: a silently\nemerging public health concern in Uganda. BMC Res Notes. 2013;6(1):298.\n38.\nSeni J, Bwanga F, Najjuka CF, Makobore P, Okee M, Mshana SE, Kidenya BR,\nJoloba ML, Kateete DP. Molecular characterization of staphylococcus aureus\nfrom patients with surgical site infections at Mulago Hospital in Kampala,\nUganda. PLoS One. 2013;8(6):e66153.\n39.\nManyahi J, Matee MI, Majigo M, Moyo S, Mshana SE, Lyamuya EF.\nPredominance of multi-drug resistant bacterial pathogens causing surgical\nsite infections in Muhimbili National Hospital, Tanzania. BMC Res Notes.\n2014;7(1):500.\n40.\nO. Okello S, R. Kuremu T, Ayumba BR, Ruto E, Otieno VO. Etiology and\nantimicrobial susceptibility of surgical site infections at Moi teaching and\nreferral hospital, Eldoret-Kenya. Int Ann Med. 2018;2(4).\n41.\nAnguzu JR, Olila D. Drug sensitivity patterns of bacterial isolates from septic\npost-operative wounds in a regional referral hospital in Uganda. Afr Health\nSci. 2007;7(3).\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      32.0,
+      538.6,
+      41.0
+     ],
+     "text": "Billoro et al. BMC Infectious Diseases         (2019) 19:298 \nPage 8 of 8\n"
+    }
+   ]
+  }
+ ]
+}

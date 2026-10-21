@@ -1,0 +1,910 @@
+
+
+===== PAGE 1 =====
+
+World Journal of Surgery 
+-
+ORIGINAL RESEARCH
+Surgical Site Infections After Laparotomy in a Tertiary 
+Referral Hospital in Kenya: Incidence and Risk Factors
+Ivy Agade1
+| Suhail Sherman2 | Alma Akute2 | Caleb Langat2 | Dennis Njeri1 | Laban Chabari1 | Sophia Abdulhai1 | 
+Ivan Seno2
+1School of Medicine, Moi University, Eldoret, Kenya | 2Moi Teaching and Referral Hospital, Eldoret, Kenya
+Correspondence: Ivy Agade (vivy620@gmail.com)
+Received: 17 February 2026 | Revised: 22 May 2026 | Accepted: 16 June 2026
+ABSTRACT
+Introduction: Globally, surgical site infection (SSI) remains a major nosocomial infection, contributing significantly to 
+morbidity and mortality. Laparotomies are known to have higher reported rates of SSI compared to other types of surgery. SSI 
+rates are generally higher in Low‐ and Middle‐Income Countries (LMIC) than in High Income Countries (HIC) for similar 
+surgical procedures, though specific rates in LMICs are often unknown. Identifying population‐specific risk factors is critical for 
+implementing effective SSI surveillance programs aimed at reducing the infection burden.
+Methodology: Data was collected retrospectively from 393 general surgery patients who underwent surgery between January 
+2022 and December 2023. The study included all patients aged 14 years and above who had an exploratory laparotomy per­
+formed by the general surgery team. Bivariate analysis was performed to establish associations between variables and SSI 
+occurrence, followed by a stepwise multivariable logistic regression. SSI was defined as per the World Health Organization 
+(WHO) and Center for Disease Control (CDC) criteria.
+Findings: The overall complication rate among the 393 patients was 26.7%. The study identified 55 cases of SSI, yielding an 
+overall SSI rate of 14.1%. 40.4% of SSI cases were classified as superficial, 32.7% as organ space, and 25% as deep. Wound culture 
+was only performed in 24 patients, with Escherichia coli being the most common organism found. Multivariable logistic 
+regression identified three independent predictors of increased SSI risk: Operative Time: Each additional hour of operative time 
+was associated with a 68% increase in the odds of SSI (aOR = 1.68, 95% CI 1.149–2.455, p = 0.007). Sex: Female patients had 2.6 
+times higher odds of developing SSI compared to male patients (aOR = 2.599, 95% CI 1.251–5.399, p = 0.01). Wound Class: Dirty 
+wounds were associated with 2.34 times higher odds of infection compared to clean wounds (aOR = 2.343, 95% CI 1.123–4.886, 
+p = 0.023).
+Conclusion: The SSI rate of 14.1% at MTRH highlights the considerable burden of infection following laparotomies in this 
+setting. Operative duration, patient sex, and wound contamination level are critical, modifiable and unmodifiable, independent 
+risk factors that should be targeted for surveillance and preventative programs in western Kenya.
+1 |
+Background Information
+Surgical site infection (SSI) is globally recognized as the most 
+frequent nosocomial infection among patients in hospitals 
+worldwide [1]. SSI is a major concern for the patient, the sur­
+geon, and the healthcare system, leading to longer hospital 
+stays, increased rates of readmission, and a heightened risk of 
+mortality [2, 3]. In LMIC, management of SSI adds direct and 
+indirect healthcare costs to already strained low resource sur­
+gical services in LMIC. It is associated with one‐third of all 
+postoperative complications [4] and accounts for 8% of fatalities 
+© 2026 International Society of Surgery/Société Internationale de Chirurgie (ISS/SIC).
+World Journal of Surgery, 2026; 50:2313–2320
+2313
+https://doi.org/10.1002/wjs.70478
+
+
+===== PAGE 2 =====
+
+caused by hospital‐acquired infections [1]. The World Health 
+Organization (WHO) and the Center for Disease Control (CDC) 
+define SSI as a superficial or deep infection occurring at the 
+surgical site within 30 days, or within 1 year if an implant was 
+utilized [5].
+Although all surgeries carry a risk of postoperative SSI, typically 
+ranging from 2% to 11%, laparotomies have reported rates that 
+are notably higher when compared to other types of surgical 
+procedures. Furthermore, higher SSI rate has been consistently 
+reported in LMIC compared to HIC for comparable surgeries [3, 
+6, 7]. A systematic review covering Africa indicated that SSI 
+rates generally ranged from 6.8% to 26%, with a predominance 
+in general surgical cases [8]. General surgical cases account for 
+the majority of surgical site infections [9]. The increase in SSI 
+leads directly to an increased length of hospital stay, which 
+subsequently translates into increased healthcare costs, thereby 
+straining surgical care systems in LMIC such as Kenya [2].
+In the existing literature, many risk factors have been identified, 
+including unmodifiable patient factors like sex and age, and 
+modifiable factors such as tobacco smoking and poor glycemic 
+control [10, 11]. Specific operative factors such as longer oper­
+ative time (more than 50 min) and wound classification have 
+been identified in Tanzania as factors that significantly increase 
+the risk of SSI [10]. SSI surveillance programs, which are not 
+frequently conducted in LMIC’S6, rely heavily on appropriate 
+risk stratification. However, the surgical population western 
+Kenya suffers from a lack of specific data regarding SSI 
+following laparotomies, which severely restricts the local ca­
+pacity to establish effective SSI surveillance protocols.
+The objectives of this retrospective observational study were to 
+determine the rate of SSI at Moi Teaching and Referral Hospital 
+(MTRH) following exploratory laparotomies and to assess po­
+tential SSI risk factors within this surgical patient population as 
+part of SSI surveillance strategies.
+2 |
+Methodology
+This study utilized a retrospective observational design to 
+determine the incidence of SSI following both elective and non‐ 
+elective exploratory laparotomies. The research was conducted 
+at Moi Teaching and Referral Hospital (MTRH), which is a level 
+six healthcare facility situated in western Kenya. Retrospective 
+data was collected by reviewing patient records from between 
+January 2022 and December 2023. The study population con­
+sisted of all patients who underwent exploratory laparotomy by 
+the general surgery team at MTRH and were above the age of 14 
+years. Data was collected for the duration the patient was 
+admitted in the surgical ward. The target sample size was 
+calculated using the formula by Fisher et al. (1991). This 
+calculation yielded a necessary sample size of 328 study par­
+ticipants. The final study cohort included 393 patients. 
+Consecutive sampling was employed, where patients were 
+identified by reviewing the operation logbooks maintained by 
+the general surgery team. Inclusion criteria mandated that pa­
+tients be above 14 years old and have undergone an exploratory 
+laparotomy by the general surgery team at MTRH. Exclusion 
+criteria specifically omitted patients who were referred to 
+MTRH for continuing surgical care, including repeat laparot­
+omies, if their initial exploratory laparotomies were performed 
+at an outside healthcare facility.
+The following definitions were applied during the study for 
+clarity and consistency:
+2.1 |
+Surgical Site Infection (SSI)
+An infection diagnosed by the surgical team in the postoperative 
+continuation notes within 30 days of initial surgery, occurring 
+within 30 days on the site where surgery has been done, or 
+within 1 year if an implant was used, involving the superficial, 
+deep, or organ spaces. A description of the wound, such as 
+purulent discharge or fascial/wound dehiscence, was used to 
+classify superficial or deep SSI. Radiological reports (CT scan or 
+ultrasound) were used to define organ space SSI.
+Wound Classification (Based on CDC):
+• Clean: Operative wounds that did not involve the respira­
+tory, alimentary, genital, or urinary tracts.
+• Clean‐contaminated: Operative wounds involving the res­
+piratory, alimentary, genital, or urinary tract under 
+controlled conditions without significant contamination.
+• Contaminated: Open wounds or wounds experiencing a 
+breakdown of sterile technique, such as uncontrolled 
+spillage from the gastrointestinal tract, or evidence of 
+necrotic tissue without purulent drainage.
+• Dirty: Old traumatic wounds, infected tissue, or perforated 
+viscera.
+Urgency of Procedure:
+• Elective surgical procedures: Procedures scheduled in 
+advance for patients without immediate life‐threatening 
+conditions.
+• Semi‐elective surgical procedures: Interventions required in 
+a timely manner for a surgical condition, but where the 
+patient is not acutely life‐threatening.
+• Urgent surgical procedures: Procedures for a patient with a 
+life‐threatening condition, but the surgery is performed 
+once the patient is medically stable.
+• Emergent surgical procedures: Procedures that must be 
+performed immediately to prevent death or permanent 
+disability.
+Wound Closure Techniques:
+• Primary Wound Closure: Closure of the skin during the 
+original operation.
+• Delayed Primary Wound Closure: The operative incision is 
+left open during the initial surgery but closed primarily 
+48–72 h later.
+• Secondary Wound Closure: The operative incision is left 
+open to close spontaneously by granulation.
+2.2 |
+Data Collection and Management
+A detailed chart review was performed by the research team. 
+The variables collected included patient factors (age, sex, 
+comorbidities), procedure details (urgency, preoperative antibi­
+otics, EBL, intraoperative transfusions, OR time, wound 
+2314
+World Journal of Surgery, 2026
+ 14322323, 2026, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/wjs.70478 by <Shibboleth>-member@uwe.ac.uk, Wiley Online Library on [10/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PAGE 3 =====
+
+classification, stoma creation). Primary outcome was the docu­
+mentation of an SSI. Secondary outcomes were anastomotic 
+leak, fascial dehiscence, duration of antibiotics, and length of 
+hospital stay. If the wound classification was absent in the 
+operative report, the research team which consisted of surgeons 
+and surgery residents, classified the wound based on the oper­
+ation notes documented. Data collected was recorded directly 
+into REDCap, a secure, web‐based application, where patient 
+records were assigned a study ID number for de‐identification 
+before analysis.
+2.3 |
+Statistical Analysis
+Statistical analyses were conducted using SPSS with the assis­
+tance of a biostatistician. Examination of data included calcu­
+lating summary statistics and distributional assessments for 
+continuous data, and frequencies and percentages for categori­
+cal data. The Chi‐Square Test of Independence or the Fischer's 
+Exact test were utilized for bivariate analysis to establish po­
+tential associations between the collected variables and the 
+incidence of SSI. Subsequently, a stepwise multivariable logistic 
+regression analysis was performed to identify independent 
+predictors of SSI, with statistical significance set at an alpha 
+(type‐2 Error Rate) of 0.05.
+2.4 |
+Ethical Considerations
+Approval was sought and granted by the MTRH institutional 
+research and Ethics board; Approval number 004529.
+Due to the retrospective nature of the chart review, which 
+involved no interventions, procedures, or direct interactions 
+with the subject's, informed consent was not obtained. The data 
+was de‐identified prior to analysis to mitigate the potential risk 
+of breaching patient privacy or confidentiality.
+The benefit of conducting this study was to improve the un­
+derstanding of complications occurring at MTRH, which would 
+facilitate the creation of targeted risk reduction programs.
+3 |
+Results
+The study results are based on an analysis of 393 general surgery 
+patients who underwent laparotomies at MTRH between 
+January 2022 and December 2023. The mean age of the patients 
+was 39.5 years (SD 17.3), with ages ranging broadly from 14 to 
+97 years. The cohort was composed of 227 males (57.8%) and 
+166 females (42.2%). Approximately 28% of the patients had 
+documented comorbidities. Malignancies represented the most 
+common comorbidity with 48 cases (12.2%), followed by pa­
+tients with a history of prior abdominal surgery (25 cases, 6.4%). 
+Diabetes Mellitus was present in 10 patients (2.5%), and auto­
+immune disease was noted in 2 patients (0.5%). A significant 
+portion of the cohort, 121 patients (32.1%), were referrals from 
+other health facilities.
+As shown in Table 1 below, almost all study participants (98.0%, 
+n = 383) underwent an open celiotomy. Preoperative antibiotic 
+prophylaxis was administered to the majority of patients (95.4%, 
+n = 373). The urgency of surgical procedures was heavily 
+weighted toward non‐elective cases, with emergent procedures 
+accounting for 68.4% (n = 268) of surgeries. Elective surgeries 
+constituted 22.7% (n = 89), urgent 5.4% (n = 21), and semi‐ 
+elective 3.6% (n = 14).
+For non‐elective cases the median time from the Emergency 
+Department (ED) arrival to the Operating Room (OR) was 12 h 
+(IQR 8.5–22 h). The median operating room (OR) time was 2 h, 
+with a wide range from 0.25 to 11.25 h (IQR 1, 2.17). The 
+TABLE 1
+|
+Operative information.
+Variables
+Values
+Surgical approach
+Laparascopic
+8 (2.0%)
+Open
+383 (98.0%)
+Preoperative antibiotics given
+No
+18 (4.6%)
+Yes
+373 (95.4%)
+Time of surgery
+Off peak (5 p.m.–8 a.m.)
+141 (36.1%)
+Peak (8 a.m.–5 p.m.)
+248 (63.4%)
+Unknown
+2 (0.5%)
+Urgency of procedure
+Emergent
+268 (68.4%)
+Elective
+89 (22.7%)
+Urgent
+21 (5.4%)
+Semi‐elective
+14 (3.6%)
+Length of time to OR from ED (hours)
+Median (IQR)
+12 (8.5, 22)
+Range
+1–480
+Wound class
+Clean‐contaminated
+129 (33.1%)
+Contaminated
+125 (32.1%)
+Dirty
+86 (22.1%)
+Clean
+49 (12.6%)
+Unknown
+1 (0.3%)
+Wound closure
+Primary
+385 (98.7%)
+Secondary
+4 (1.0%)
+Delayed primary
+1 (0.3%)
+OR time (hours)
+Median (IQR)
+2 (1, 2.17)
+Range
+0.25–11.25
+Intraop blood transfusions
+No
+366 (94.1%)
+Yes
+23 (5.9%)
+Surgeon cadre
+Consultant
+172 (44.0%)
+Senior registrar
+154 (39.4%)
+Junior registrar
+65 (16.6%)
+World Journal of Surgery, 2026
+2315
+ 14322323, 2026, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/wjs.70478 by <Shibboleth>-member@uwe.ac.uk, Wiley Online Library on [10/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PAGE 4 =====
+
+median estimated blood loss (EBL) was low at 150 mL (IQR 100, 
+250), though the range extended up to 2500 mL. Regarding 
+surgical team experience, the majority of procedures (83.4%) 
+were performed by consultants (44.0%, n = 172) or senior reg­
+istrars (39.4%, n = 154). Primary wound closure was done in 
+98.7% of cases (n = 385). A stoma was created in 7.9% of pa­
+tients (n = 31).
+3.1 |
+Wound Classification
+Clean‐contaminated wounds were the most frequent classifica­
+tion (33.1%, n = 129), followed closely by contaminated wounds 
+(32.1%, n = 125), and dirty wounds (22.1%, n = 86). Clean 
+wounds were the least common at 12.6% (n = 49).
+3.2 |
+Postoperative Information and SSI Rate
+The overall complication rate for the study cohort was deter­
+mined to be 26.7% (95% CI 22.5–31.3). A total of 55 cases of 
+surgical site infection (SSI) were reported, resulting in an overall 
+SSI rate of 14.1%. SSI cases were classified as superficial in 21 
+patients (40.4% of SSIs), organ space in 17 patients (32.7%), and 
+deep in 13 patients (25.0%), as demonstrated in Table 2 below.
+Wound culture was performed for only 24 patients, representing 
+43.6% of those with SSI. Among the results, Escherichia coli was 
+the most frequently isolated organism, found in 7 cases (35.0%). 
+Other organisms isolated included Candida albicans, Proteus 
+vulgaris, Enterococcus faecalis, Enterococcus faecium, Klebsiella 
+pneumoniae spp pneumoniae, Providencia stuartii, and Pseudo­
+monas (1 case each, 5.0% each). Notably, five cultures (25.0%) 
+showed no growth.
+Besides SSI, other complications included fascial dehiscence 
+(7.1%, n = 28), mortality (8.7%, n = 34) and respiratory (2.0%, 
+n = 8). Anastomotic leak occurred in 5 patients (1.3%), and 
+urinary tract infection (UTI) occurred in 1 patient (0.3%).
+The average length of hospital stay was 5 days (median IQR 3, 
+10), which was the same as the median duration of post­
+operative antibiotics prescribed (5 days, IQR 4, 8). Most patients 
+(91.0%) were discharged home.
+As shown in Tables 3 and 4, bivariate and Multivariate analysis 
+examined the relationship between SSI rates and wound clas­
+sification, distinguishing between elective and emergent 
+procedures.
+3.3 |
+Elective Laparotomies
+The analysis found no statistically significant difference in SSI 
+rates across various wound classes following elective laparot­
+omies (p = 0.33). Contaminated wounds had the highest 
+observed incidence at 20.0%, followed by clean‐contaminated 
+wounds at 9.7%. Clean and dirty wounds in the elective cate­
+gory reported 0.0% SSI incidence. The interpretation notes that 
+the statistical power for this specific cohort was lacking due to 
+the extremely small sample sizes, particularly in the clean and 
+dirty wound categories.
+Emergent Laparotomies: Conversely, a statistically significant 
+relationship was identified between wound class and SSI rates 
+following emergent laparotomies (p = 0.004). The risk of SSI 
+showed a clear, graded increase corresponding to increased 
+wound contamination. The SSI rate for clean wounds was 5.7%, 
+rising to 8.8% for clean‐contaminated wounds, and 13.6% for 
+contaminated wounds. The risk culminated in the dirty wound 
+classification, which had the highest SSI rate at 27.1%.
+A bivariate analysis of potential risk factors showed that age, 
+sex, comorbidity, surgical approach (laparoscopic vs. open), 
+time from ED to OR, surgeon cadre, and use of preoperative 
+antibiotics did not have a statistically significant association 
+with the incidence of SSI, as demonstrated below in Table 5.
+However, the analysis identified several highly significant pre­
+dictors (p < 0.05):
+1. Stoma Creation: Patients who underwent stoma creation 
+had a significantly higher SSI rate (38.7%) compared to 
+those without a stoma (11.9%, p < 0.001).
+2. Wound Class: A higher wound class was a significant 
+predictor (p = 0.001), with dirty wounds demonstrating an 
+SSI rate of 26.7%.
+3. Operative Time (OR Time): Longer operative time was 
+significantly associated with SSI (p < 0.001). Although the 
+median time remained 2.0 h for both groups, the inter­
+quartile range (IQR) was higher for patients who developed 
+TABLE 2
+|
+Postoperative information.
+Variables
+Values
+SSI
+No
+334 (85.9%)
+Yes
+55 (14.1%)
+SSI class
+Superficial
+21 (40.4%)
+Organ space
+17 (32.7%)
+Deep
+13 (25.0%)
+Unknown
+1 (1.9%)
+Post operative complications
+Fascial dehiscence
+28 (7.1%)
+Anastomotic leak
+5 (1.3%)
+UTI
+1 (0.3%)
+Respiratory
+8 (2.0%)
+Other abdominal complications
+7 (1.8%)
+Mortality
+34 (8.7%)
+TABLE 3
+|
+SSI rate per wound class following elective laparotomies.
+SSI
+Wound class
+No
+Yes
+p‐value
+Clean
+14 (100.0%)
+0 (0.0%)
+0.33
+Clean‐contaminated
+65 (90.3%)
+7 (9.7%)
+Contaminated
+12 (80.0%)
+3 (20.0%)
+Dirty
+1 (100.0%)
+0 (0.0%)
+2316
+World Journal of Surgery, 2026
+ 14322323, 2026, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/wjs.70478 by <Shibboleth>-member@uwe.ac.uk, Wiley Online Library on [10/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PAGE 5 =====
+
+SSI (IQR 2.0–3.0) compared to those who did not (IQR 
+1.0–2.0).
+A stepwise multivariable logistic regression analysis was 
+executed to control for potential confounding variables. This 
+analysis identified three variables that were independently 
+associated with a statistically significant higher odds of devel­
+oping SSI. This is demonstrated below in Table 6.
+1. Operative Time: Each additional hour spent in the oper­
+ating room increased the odds of developing SSI by 68% 
+(aOR = 1.68, 95% CI 1.149–2.455, p = 0.007).
+2. Sex: Female patients were found to have 2.6 times higher 
+odds of developing SSI compared to male patients 
+(aOR = 2.599, 95% CI 1.251–5.399, p = 0.01).
+3. Dirty Wound Classification: Compared to clean wounds, 
+dirty wounds were associated with 2.34 times higher odds 
+of developing an SSI (aOR = 2.343, 95% CI 1.123–4.886, 
+p = 0.023).
+4 |
+Discussion
+The overall surgical site infection rate observed at MTRH 
+following exploratory laparotomies was 14.1%. This finding 
+aligns with the systematic review conducted across Africa, 
+which reported SSI rates ranging from 6.8% to 26% in general 
+surgical cases, and supports the initial hypothesis that the SSI 
+burden in this LMIC setting would be substantial [8]. A lower 
+rate of surgical site infection following laparotomy was reported 
+in HIC [7]. The high percentage of emergent procedures (68.4%) 
+in this cohort likely contributes to this significant infection 
+burden. A significant proportion of the participants presented as 
+referrals with perforated viscera or infected tissue, classifying 
+them into the higher‐risk wound categories. This was also a 
+retrospective review of patients up to the point of discharge. As 
+part of the methodology, post discharge SSI were not included in 
+the study sample. There are low postoperative visits in LMICS 
+[12, 13]. This was the case in most of the post laparotomy pa­
+tients in our patient population.
+Most of the participants, 98%, had open surgery as opposed to 
+minimally invasive surgical approach. Several publications have 
+shown a decline in the number of surgical site infections with 
+the increase in number of laparoscopic approaches in general 
+surgery cases [14–17]. Less than 1% of cases recorded by surgical 
+trainees in East, Central and Southern Africa were done lapa­
+roscopically with fewer laparoscopy cases in public hospital 
+training centers, like MTRH, compared to mission and private 
+hospitals [17]. Minimally invasive approaches offer several ad­
+vantages that could be beneficial to healthcare systems in 
+LMICs [14]. Despite longer operative time in LMIC, laparo­
+scopic surgery still offers decreased SSI risk, less blood loss, 
+decrease in total cost and earlier hospital discharge compared to 
+open surgery [18, 19]. However, access, availability and afford­
+ability of laparoscopic surgery services remain low in LMIC, 
+including our center [14].
+This study reports higher SSI rate in emergent compared to 
+elective laparotomies. In consonance, Prakash et al. reported an 
+TABLE 4
+|
+SSI rate per wound class following emergent 
+laparotomies.
+SSI
+p‐value
+Wound class
+No
+Yes
+Clean
+33 (94.3%)
+2 (5.7%)
+0.004
+Clean‐contaminated
+52 (91.2%)
+5 (8.8%)
+Contaminated
+95 (86.4%)
+15 (13.6%)
+Dirty
+62 (72.9%)
+23 (27.1%)
+TABLE 5
+|
+Potential risk factors at MTRH that increases the 
+incidence of SSI.
+No
+Yes
+p‐ 
+value
+Variables
+N = 338
+N = 55
+Age (yrs)
+0.22
+Mean (SD)
+39.1 (17.3)
+42.1 (17.3)
+Range
+14–97
+17–87
+Sex
+0.090
+Male
+201 (88.5%)
+26 (11.5%)
+Female
+137 (82.5%)
+29 (17.5%)
+Comorbidity
+0.57
+Absent
+246 (86.6%)
+38 (13.4%)
+Present
+92 (84.4%)
+17 (15.6%)
+Referral
+0.61
+No
+217 (84.8%)
+39 (15.2%)
+Yes
+105 (86.8%)
+16 (13.2%)
+Surgical approach
+0.91
+Laparoscopic
+7 (87.5%)
+1 (12.5%)
+Open
+330 (86.2%)
+53 (13.8%)
+Prophylactic antibiotics
+0.73
+No
+16 (88.9%)
+2 (11.1%)
+Yes
+321 (86.1%)
+52 (13.9%)
+Urgency of procedure
+0.14
+Urgent/Emergent
+244 (84.4%)
+45 (15.6%)
+Elective/Semi‐ 
+elective
+93 (90.3%)
+10 (9.7%)
+Wound class
+0.001
+Clean
+47 (95.9%)
+2 (4.1%)
+Clean‐contaminated
+117 (90.7%)
+12 (9.3%)
+Contaminated
+107 (85.6%)
+18 (14.4%)
+Dirty
+63 (73.3%)
+23 (26.7%)
+Unknown
+1 (100.0%)
+0 (0.0%)
+OR time (hours)
+< 0.001
+Median (IQR)
+2.0 (1.0–2.0) 2.0 (2.0–3.0)
+Range
+0.25–11.25
+0.53–5
+Surgeon cadre
+0.99
+Consultant
+148 (86.0%)
+24 (14.0%)
+Senior registrar
+132 (85.7%)
+22 (14.3%)
+Junior registrar
+56 (86.2%)
+9 (13.8%)
+World Journal of Surgery, 2026
+2317
+ 14322323, 2026, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/wjs.70478 by <Shibboleth>-member@uwe.ac.uk, Wiley Online Library on [10/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PAGE 6 =====
+
+SSI rate of 23% and 46% in the elective and emergency lapa­
+rotomy cases respectively [11]. A Study on elective laparotomies 
+only reported a similar SSI rate of 14% which is this study's 
+overall SSI rate [20]. The specific analysis of SSI rate based on 
+wound class showed a crucial divergence between elective and 
+emergent cases. While elective procedures lacked statistical 
+power due to small sample sizes in higher contamination clas­
+ses, emergent laparotomies demonstrated a statistically signifi­
+cant graded increase in SSI risk corresponding to contamination 
+level (p = 0.004). The SSI rate peaked at 27.1% in dirty wounds 
+following emergent laparotomies. This emphasizes that emer­
+gent surgery involving gross contamination (dirty wounds are 
+defined as involving infected tissue or perforated viscera) pre­
+sents the highest infection risk in this population.
+The multivariable regression identified three crucial indepen­
+dent risk factors that remained significant even after controlling 
+for confounders: operative time, female sex, and dirty wound 
+class. The finding that each additional hour of operative time 
+increases the odds of SSI by 68% strongly suggests that efforts 
+should be focused on minimizing surgical time to reduce 
+exposure and contamination. Several studies report a similar 
+association of increased operative time and increased SSI risk 
+[10, 11].
+The elevated risk observed in female patients (2.6 times higher 
+odds) compared to males (aOR = 2.599) is an unmodifiable 
+patient factor that warrants further investigation to understand 
+underlying population‐specific vulnerabilities. Huda et al. on 
+their study on elective laparotomies with more female partici­
+pants, did not have any statistically significant association be­
+tween sex and SSI risk on bivariate analysis [20]. However, in a 
+previous study at this study site, women were more likely to 
+have delays in accessing healthcare compared to male patients 
+due to financial and cultural factors [21]. Otoki et al. reported 
+more postoperative complications, longer hospital length of stay 
+in female participants that culminated to higher costs in the 
+management of emergency gastrointestinal surgeries in Kenya 
+[22]. Patterson et al. in a comparative study also reported worse 
+postoperative outcomes in women in LMIC compared to HICs 
+probably attributable to health care system failures such as 
+surgical workforce [23]. The designation of dirty wounds as an 
+independent risk factor (2.34 times higher odds) reinforces the 
+need for rigorous intraoperative contamination control and 
+optimal antibiotic management tailored to these high‐risk 
+cases.
+Administration of prophylactic antibiotics is a well‐documented 
+practice in SSI prevention [24, 25]. In this study, 95.4% of pa­
+tients received prophylactic antibiotics. Only 43.6% of the par­
+ticipants who had SSI had microbiological culture and drug 
+sensitivity done. This is reflective of the low utilization of cul­
+ture and sensitivity in antimicrobial stewardship in LMIC [7, 
+24]. The finding that Escherichia coli as the most common or­
+ganism isolated from the limited number of wound cultures 
+(35.0%) is several other studies [26] suggests targeted prophy­
+lactic and therapeutic antibiotic strategies focusing on sensi­
+tivity patterns. There is a need to utilize available Microscopy 
+Culture and Sensitivity to guide targeted antibiotic use in pro­
+phylactic antibiotics and SSI treatment. This would enhance 
+stewardship targeted at ensuring and efficacy in SSI prevention 
+and in the broader picture of reducing multidrug resistance in 
+LMIC [24].
+The results from this study may be generalizable to other LMIC 
+surgical populations in some aspects. Challenges such as limited 
+use of minimally invasive surgical techniques and delayed ac­
+cess to surgical care especially in referred patients with 
+advanced disease are characteristic of many LMICs. However, 
+this was a single center study, limiting its generalizability 
+despite the facility being a major referral center in Western 
+Kenya receiving patients from a large catchment area. Addi­
+tionally, microbiological patterns differ geographically, which 
+further limits this study's generalizability.
+Limitations of this study include its retrospective nature and the 
+duration of follow‐up, which was until patient discharge from 
+hospital or mortality. This was due to poor patient compliance 
+to attend scheduled postoperative visits in LMICs [12, 13]. Pa­
+tients who had implants such as mesh, could have developed 
+surgical site infections up to 1 year after the initial surgical 
+procedure. Early mortality in the postoperative period before an 
+SSI became clinically apparent or recorded could have contrib­
+uted to underestimation of the true SSI incidence. This could 
+suggest that the SSI rate following laparotomy at MTRH, is 
+higher than 14.1%. A prospective multicenter study with a 
+longer duration of follow‐up is recommended.
+5 |
+Conclusion
+The SSI rate of 14.1% after laparotomies at Moi Teaching and 
+Referral Hospital confirms a significant surgical burden com­
+parable to reported rates in other African settings. Operative 
+time, female sex, and the presence of a dirty wound are inde­
+pendent predictors of SSI in this patient population. To reduce 
+the burden of SSI at MTRH, risk reduction programs should 
+prioritize minimizing operative duration and enhancing surgical 
+practices and antibiotic protocols, especially for emergent pro­
+cedures classified as contaminated or dirty.
+Author Contributions
+Ivy Agade: conceptualization, investigation, writing – original draft, 
+writing – review and editing, supervision, software, formal analysis, 
+project administration. Suhail Sherman: writing – original draft, 
+conceptualization, methodology, validation, writing – review and 
+TABLE 6
+|
+Potential risk factors independently associated with SSI 
+incidence.
+SSI
+aOR
+p‐value
+95% CI.
+OR time in hours
+1.68
+0.007
+1.149–2.455
+Sex
+Male
+1
+Female
+2.599
+0.01
+1.251–5.399
+Wound class
+Clean
+1
+Dirty
+2.343
+0.023
+1.123–4.886
+2318
+World Journal of Surgery, 2026
+ 14322323, 2026, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/wjs.70478 by <Shibboleth>-member@uwe.ac.uk, Wiley Online Library on [10/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PAGE 7 =====
+
+editing. Alma Akute: conceptualization, investigation, project admin­
+istration, supervision, data curation, software, visualization. Dennis 
+Njeri: conceptualization, investigation, formal analysis, software, proj­
+ect administration, validation, writing – review and editing. Caleb 
+Langat: conceptualization, investigation, writing – original draft, 
+writing – review and editing, resources, supervision, software. Laban 
+Chabari: conceptualization, investigation, writing – review and editing, 
+validation, formal analysis, project administration, data curation. 
+Sophia Abdulhai: software, methodology, validation, visualization, 
+writing – review and editing, writing – original draft, supervision. Ivan 
+Seno: supervision, resources, data curation, conceptualization, investi­
+gation, writing – original draft, formal analysis.
+Funding
+The authors have nothing to report.
+Ethics Statement
+The study was approved by the Moi Teaching and Referral Hospital 
+Institutional Ethics Committee Approval number: 004529.
+Conflicts of Interest
+The authors declare no conflicts of interest.
+Data Availability Statement
+The data that support the findings of this study are available on request 
+from the corresponding author. The data are not publicly available due 
+to privacy or ethical restrictions.
+References
+1. D. Pittet, S. Harbarth, C. Ruef, P. Francioli, P. Sudre. “Prevalence 
+And RISK Factors For Nosocomial Infections In Four University Hos­
+pitals In Switzerland,” Infection Control & Hospital Epidemiology 2, no. 1 
+(2017): 37‐42, https://doi.org/10.1086/501554.
+2. J. D. Whitehouse, N. D. Friedman, K. B. Kirkland, and W. J. 
+Richardson, “The Impact of Surgical‐Site Infections Following Ortho­
+pedic Surgery at a Community Hospital and a University Hospital: 
+Adverse Quality of Life, Excess Length of Stay, and Extra Cost,” Infec­
+tion Control & Hospital Epidemiology 23, no. 4 (2002): 183–189, https:// 
+doi.org/10.1086/502033.
+3. S. Mehtar, A. Wanyoro, F. Ogunsola, et al., “Implementation of 
+Surgical Site Infection Surveillance in Low‐ and Middle‐Income Coun­
+tries a Position Statement for the International Society for Infectious 
+Diseases: A Position Statement for the International Society for Infec­
+tious Diseases,” International Journal of Infectious Diseases 100 (2020): 
+123–131, https://doi.org/10.1016/j.ijid.2020.07.021.
+4. G. Ramesh, M. RJ, J. N, K. Selvaraj, and S. P, “Surgical Site Infection 
+After Abdominal Surgery: Distribution and Determinants From a Cross‐ 
+Sectional Study,” Cureus 17, no. 8 (2025), https://doi.org/10.7759/cureu 
+s.91124.
+5. World Health Organization, “No TWorld Health Organization. 
+Global Guidelines for the Prevention of Surgical Site Infection,” 2nd ed., 
+(World Health Organization, 2018).
+6. A. M. Aiken, A. K. Wanyoro, J. Mwangi, et al., “Evaluation of Sur­
+veillance for Surgical Site Infections in Thika Hospital, Kenya,” Journal 
+of Hospital Infection 83, no. 2 (2013): 140–145, https://doi.org/10.1016/j.j 
+hin.2012.11.003.
+7. A. Bhangu, A. O. Ademuyiwa, M. L. Aguilera, et al., “Surgical Site 
+Infection After Gastrointestinal Surgery in High‐Income, Middle‐ 
+Income, and Low‐Income Countries: A Prospective, International, 
+Multicentre Cohort Study,” Lancet Infectious Diseases 18, no. 5 (2018): 
+516–525, https://doi.org/10.1016/S1473‐3099(18)30101‐4.
+8. N. J. E. Ngaroua, T. Bénet, and Y. Djibrilla, “Incidence Des Infections 
+du site opératoire en Afrique Sub‐saharienne: Revue systématique et 
+méta‐analyse,” Pan African Medical Journal 24 (2016): 1–10, https://doi. 
+org/10.11604/pamj.2016.24.171.9754.
+9. P. Astagneau, C. Rioux, F. Golliot, and G. Brücker, “Morbidity and 
+Mortality Associated With Surgical Site Infections: Results From the 
+1997‐1999 INCISO Surveillance,” Journal of Hospital Infection 48, no. 4 
+(2001): 267–274, https://doi.org/10.1053/jhin.2001.1003.
+10. H. M. Eriksen, S. Chugulu, S. Kondo, and E. Lingaas, “Surgical‐Site 
+Infections at Kilimanjaro Christian Medical Center,” Journal of Hospital 
+Infection 55, no. 1 (2003): 14–20, https://doi.org/10.1016/S0195‐6701(03) 
+00225‐1.
+11. P. Prakash, S. Jaiswal, V. K. Srivastava, and N. Srivastava, “Evalu­
+ation of Surgical Site Infection Rates in Emergency Vs Elective Lapa­
+rotomy: A Cross‐Sectional Analysis in a Tertiary Care Center,” Journal 
+of Contemporary Clinical Practice 11, no. 5 (2025): 546–550, https://doi. 
+org/10.61336/jccp/25‐05‐76.
+12. K. Mesfin and Y. Abaynew, “Patient Understanding and Compli­
+ance With Post‐Operative Instructions and Follow‐Up at Yekatit 12 
+Hospital, Addis Ababa, Ethiopia,” BMC Oral Health 25, no. 1 (2025): 
+499, https://doi.org/10.1186/s12903‐025‐05859‐w.
+13. R. Ologunde and S. R. Rufai, “Surgical Follow‐Up in Low‐Income 
+and Middle‐Income Countries,” Lancet Global Health 1, no. 3 (2013): 
+e132, https://doi.org/10.1016/S2214‐109X(13)70061‐5.
+14. T. E. Chao, M. Mandigo, J. Opoku‐Anane, and R. Maine, “System­
+atic Review of Laparoscopic Surgery in Low‐ and Middle‐Income 
+Countries: Benefits, Challenges, and Strategies,” Surgical Endoscopy 
+30, no. 1 (2016): 1–10, https://doi.org/10.1007/s00464‐015‐4201‐2.
+15. Y. Xiao, G. Shi, J. Zhang, et al., “Surgical Site Infection After 
+Laparoscopic and Open Appendectomy: A Multicenter Large Consecu­
+tive Cohort Study,” Surgical Endoscopy 29, no. 6 (2015): 1384–1393, 
+https://doi.org/10.1007/s00464‐014‐3809‐y.
+16. A. Alkaaki, O. O. Al‐Radi, A. Khoja, et al., “Surgical Site Infection 
+Following Abdominal Surgery: A Prospective Cohort Study,” Canadian 
+Journal of Surgery 62, no. 2 (2019): 111–117, https://doi.org/10.1503/cjs. 
+004818.
+17. Y. Yankunze, M. M. Mwachiro, J. O. Lando, et al., “Laparoscopy 
+Experience in East, Central, and Southern Africa: Insights From Oper­
+ative Case Volume Analysis,” Surgical Endoscopy 38, no. 8 (2024): 
+4415–4421, https://doi.org/10.1007/s00464‐024‐10960‐2.
+18. K. Otoki, I. Simel, D. Moenga, P. Chesang, and R. K. Parker, 
+“Laparoscopic Appendectomy Improves Outcomes and Reduces Costs 
+in Rural Kenya,” Surgical Endoscopy 39, no. 4 (2025): 2191–2197, 
+https://doi.org/10.1007/s00464‐025‐11589‐5.
+19. T. J. Oyedele, S. H. Ali, A. O. Asini, et al., “Laparoscopic Versus 
+Open Appendectomy for Acute Appendicitis in Sub‐Saharan Africa,” 
+Annals of Medicine and Surgery 88, no. 1 (2026): 728–735, https://doi. 
+org/10.1097/ms9.0000000000004445.
+20. F. Huda, S. Shasheendran, S. Basu, et al., “Risk Factors of Surgical 
+Site Infection in Elective Laparotomy in a Tertiary Care Center: An 
+Observational Study,” International Journal of Burns and Trauma 12, 
+no. 3 (2022): 106–113, https://pubmed.ncbi.nlm.nih.gov/35891976/.
+21. A. M. Gillio, H. W. Li, M. B. Bhatia, et al., “Sex Differences in In­
+surance, Surgical Admissions and Outcomes at a Kenyan Referral 
+Hospital,” Journal of Surgical Research 268 (2021): 199–208, https://doi. 
+org/10.1016/j.jss.2021.06.014.
+22. K. Otoki, A. S. Parker, H. R. Many, and R. K. Parker, “Sex Disparities 
+in Complications, Costs, and Mortality After Emergency Gastrointestinal 
+World Journal of Surgery, 2026
+2319
+ 14322323, 2026, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/wjs.70478 by <Shibboleth>-member@uwe.ac.uk, Wiley Online Library on [10/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+===== PAGE 8 =====
+
+Surgery in Kenya,” Journal of Surgical Research 295 (2024): 846–852, 
+https://doi.org/10.1016/J.JSS.2023.06.050.
+23. A. Paterson, S. Maswime, A. Hardy, R. M. Pearse, and B. M. Biccard, 
+“Postoperative Outcomes Associated With Surgical Care for Women in 
+Africa: An International Risk‐Adjusted Analysis of Prospective Obser­
+vational Cohorts,” BJA Open 4 (2022): 100100, https://doi.org/10.1016/j. 
+bjao.2022.100100.
+24. S. Mehtar, A. Wanyoro, F. Ogunsola, and E. A. Ameh, Since January 
+2020 Elsevier has Created a COVID‐19 Resource Centre With Free In­
+formation in English and Mandarin on the Novel Coronavirus COVID‐ 
+19. The COVID‐19 Resource Centre Is Hosted on (Elsevier, 2020).
+25. S. M. E. Kazuma, M. Chalwe, B. Chirengendure, et al., “Prevalence 
+and Risk Factors for Surgical Site Infections at Three Tertiary Hospitals 
+in the Copperbelt Province, Zambia,” East and Central African Journal 
+of Surgery 30, no. 3 (2025): 5–12, https://doi.org/10.4314/ecajs.v30i3.2.
+26. M. N. Garale, A. K. Rewatkar, A. V. Moktali, and A. Dalvi, “Inci­
+dence and Risk Factors for Surgical Site Infections Following Emer­
+gency Laparotomies: A Prospective Observational Study,” Cureus 17, no. 
+3 (2025), https://doi.org/10.7759/cureus.80283.
+2320
+World Journal of Surgery, 2026
+ 14322323, 2026, 8, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/wjs.70478 by <Shibboleth>-member@uwe.ac.uk, Wiley Online Library on [10/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

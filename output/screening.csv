@@ -1,0 +1,57 @@
+﻿doc_id,label,decision,reason,linked_study_id,notes
+abayneh-et-al,Abayneh 2022,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",abayneh2022,33 clinical SSI; 41 isolates from 33 patients.
+abosse-samuel-et-al,Abosse 2021,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",abosse2021,165 clinically diagnosed SWI patients; 115 culture-positive; no operated-patient denominator. AMR-only.
+agade-et-al,Agade 2026,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",agade2026,55 SSI (14.1%); 34 deaths overall (8.7%).
+ali-et-al,Ali 2023,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",ali2023,49 clinical SSI (14.5%); 41 culture-positive (12.1%); 48 isolates.
+amulioto,Amulioto 2020,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",amulioto2020,"58 SSI patients, 55 culture-positive, 78 isolates. AMR-only. Text reports MRSA 17/26 all staphylococci, but Table 2 supports 13/22 S. aureus (plus CoNS 4/4)."
+bayardorj-et-al,Bayardorj 2023,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",bayardorj2023,428 operations screened; 128 records analysable; 14 SSI.
+billoro-et-al,Billoro 2019,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",billoro2019,42 SSI (16.5%); 45 isolates but limited AST reporting.
+boru-et-al,Boru 2025,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",boru2025,29/183 culture-confirmed SSI (15.8%); 41 isolates.
+burugu-et-al,Burugu 2022,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",burugu2022,62 SSI patients; 45 culture-positive; 54 isolates. AMR-only.
+chipaga-et-al-amr,Chipaga 2025,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",chipaga2025,"158 SSI patients; 140 culture-positive; 164 isolates. AMR-only. Human extraction omitted country (Tanzania, not Malawi)."
+deyem-et-al,Deyem 2025,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",deyem2025,71 SSI (32.6%); mortality 23.94% with SSI vs 4.76% without.
+dinda-et-al,Dinda 2013,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",dinda2013,All infections 39/268 (14.6%); true SSI 12/171 (7.0%). Only 171 had the complete SSI assessment.
+forrester-et-al,Forrester 2021,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",forrester2021,"Baseline 374 operations, post 1839. SSI 7.4% -> 5.8% (derived counts 28 and 107)."
+garoy-et-al,Garoy 2021,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",garoy2021,"83 SSI patients; 116 isolates; 20 S. aureus, 14 MRSA. AMR-only."
+gashaw-et-al-amr,Gashaw 2026,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",gashaw2026,"312 SSI (25.9%); 260 cultured, 189 positive, 252 isolates. Human used denominator 1038 (error)."
+gentilotti-et-al,Gentilotti 2020,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",gentilotti2020,"Pre 225/467 (48.2%), post 95/573 (16.6%). Nardo 2016 is the pre-intervention cohort (duplicate)."
+habtemariam-et-al,Habtemariam 2023,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",habtemariam2023,"126 SSI (61.8%) - unusually high; single hospital, short follow-up."
+haifete-et-al,Haifete 2025,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",haifete2025,126/1248 (10.1%).
+hamudu-et-al,Hamudu 2025,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",hamudu2025,36/120 (30.0%); 30 culture-positive; 30 isolates.
+hope-et-al,Hope 2019,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",hope2019,83 SSI patients; 68 culture-positive; 68 isolates. AMR-only.
+iyamba-et-al,Iyamba 2014,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",iyamba2014,"130 SSI patients; 89 staphylococci (74 S. aureus, 15 CoNS); 47/74 MRSA. AMR-only."
+kachipedzu-et-al,Kachipedzu 2024,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",kachipedzu2024,"20/208 (9.6%); 10 cultures, 5 positive; 3 S. aureus all MRSA."
+kazuma-et-al,Kazuma 2025,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",kazuma2025,218/1122 (19.4%); AMR reported only qualitatively.
+kefale-et-al,Kefale 2020,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",kefale2020,55/281 (19.6%) from Table 4 (27 male + 28 female); no culture data.
+kisibo-et-al,Kisibo 2017,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",kisibo2017,75/300 (25.0%). Scanned PDF; OCR used.
+mammo-et-al,Mammo 2024,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",mammo2024,Control 265/2483 (10.67%); intervention 263/2670 (9.85%). Control period used as primary incidence.
+manyahi-et-al,Manyahi 2014,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",manyahi2014,100 SSI patients; 90 culture-positive; 147 isolates. AMR-only. Human labelled 2022 (actual 2014).
+mbabazi-et-al-amr,Mbabazi 2025,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",mbabazi2025,66 SSI patients; 50 culture-positive; 80 isolates. AMR-only; human entered impossible 66/50.
+mengesha-et-al,Mengesha 2014,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",mengesha2014,128/610 clinical SSI (21.0%); 96/128 culture-positive; 123 isolates.
+misha-et-al,Misha 2021,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",misha2021,53/251 (21.1%); 38 culture-positive; 42 isolates.
+mukagendaneza-et-al,Mukagendaneza 2019,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",mukagendaneza2019,34/294 (calculated 11.6%); paper reports 10.2% and abstract 10.9% - arithmetic inconsistency.
+ntirushwa-et-al,Ntirushwa 2021,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",ntirushwa2021,"12/301 (4.0%); single 8/147, multiple 4/154."
+odoko-et-al,Odoko 2024,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",odoko2024,"422 suspected SSI; 69 Enterobacterales; ESBL 46/69, CPE 15/69. AMR-only."
+scherbaum-et-al,Scherbaum 2014,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",scherbaum2014,SSI incidence in surgery 1.4% (95% CI 0.7-2.1) of 1022; numerator derived (14). Human omitted study.
+scalability-and-sustainability-of-a-surgical-infection-prevention-program-in-low,Starr 2023,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",starr2023,Table reports 152 (23.2%) and 144 (17.4%) but cohort n=1575/1789; percentages imply 655/828 with outcome. Internal inconsistency.
+velin-et-al,Velin 2021,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",velin2021,"45/795 (5.7%); 44 swabs, 57 isolates."
+wekesa-et-al,Wekesa 2020,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",wekesa2020,109 SSI patients; 93 culture-positive; 118 isolates. AMR-only.
+worku-et-al,Worku 2023,Included,"Meets ECSA setting, surgical population, SSI/AMR outcome and design criteria",worku2023,"752 SSI patients; 493 culture-positive. Table 3: S. aureus n=153, cefoxitin 43% (66/153), oxacillin 20% (31/153); the text says cefoxitin 22.7%. Human extraction used 40/163. Flagged."
+aaron-oladipo-et-al,FALCON secondary analysis (Aaron Oladipo 2024),Excluded,"FALCON post-hoc secondary analysis across seven LMICs (Benin, Ghana, India, Mexico, Nigeria, Rwanda, South Africa); no ECSA-specific strata",,
+copy-of-gashaw-et-al-amr,Copy of Gashaw 2026,Excluded,Duplicate copy of the included Gashaw 2026 article,gashaw2026,
+copy-of-mbabazi-et-al-amr,Copy of Mbabazi 2025,Excluded,Duplicate copy of the included Mbabazi 2025 article,mbabazi2025,
+data-extraction,Human data-extraction workbook,Excluded,"Human data-extraction workbook, not a primary study",,
+kihla-et-al,Kihla 2014 (mixed wounds),Excluded,"Wound infections across healthcare facilities, including non-surgical wounds; no SSI-specific operated-patient denominator",,
+kumburu-et-al,Kumburu 2015 (all hospital infections),Excluded,"All hospital-acquired infections at a tertiary hospital, not restricted to SSI",,
+laura-jung-et-al,Jung 2024 (post-traumatic wounds),Excluded,"Post-traumatic wound infections, not surgical site infections",,
+nardo-et-al,De Nardo 2016 (duplicate cohort),Excluded,Duplicate/overlapping report of the Gentilotti 2020 pre-intervention cohort,gentilotti2020,
+ojulong-et-al,Ojulong 2009 (isolate-level MRSA),Excluded,Isolate-level MRSA report without an SSI-patient denominator; duplicate report of the same Mulago cohort,,
+ojulongandezera,Ojulong 2010 (duplicate cohort),Excluded,Duplicate report of the Ojulong 2009 Mulago SSI cohort,,
+pmc10364890-clean-cut-ethiopia,Clean Cut pilot duplicate,Excluded,Duplicate report of the Forrester 2021 Clean Cut pilot cohort,forrester2021,
+protocol,Review protocol,Excluded,"Review protocol, not a study",,
+response-to-reviewers-1,Response to reviewers,Excluded,"Response to reviewers, not a study",,
+similar-sr-to-ssis-in-ecsa,Similar systematic review correction,Excluded,"Correction/other systematic review, not a primary study",,
+soi230088-featured-1707866555-17813,One-page image,Excluded,One-page image with no extractable study data,,
+surgical-site-infection-among-patients-undergone-orthopaedic-surgery-at-muhimbil,Orthopaedic DOCX duplicate,Excluded,Duplicate DOCX of the Kisibo 2017 orthopaedic cohort,kisibo2017,
+worku-et-al-molecular,Worku 2023 molecular report,Excluded,Overlapping molecular report of the Worku 2023 SSI cohort,worku2023,
+worku-et-al-b6295820,Worku 2023 molecular report,Excluded,Overlapping molecular report of the Worku 2023 SSI cohort,worku2023,

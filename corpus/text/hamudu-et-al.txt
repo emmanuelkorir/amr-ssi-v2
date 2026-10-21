@@ -1,0 +1,1126 @@
+
+
+===== PAGE 1 =====
+
+RESEARCH
+Open Access
+© The Author(s) 2025. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the 
+licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or 
+exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​
+v​e​c​o​m​m​o​n​s​.​o​r​g​/​l​i​c​e​n​s​e​s​/​b​y​-​n​c​-​n​d​/​4​.​0​/.
+Hamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 
+https://doi.org/10.1186/s13018-025-05638-x
+Journal of Orthopaedic 
+Surgery and Research
+*Correspondence:
+Helmut Nyawale
+helmutny@yahoo.com
+Full list of author information is available at the end of the article
+Abstract
+Background  Surgical site infections (SSIs) after limb amputations have been associated with increased patient 
+morbidity, mortality and costs. This study aimed to determine the incidence, bacteriological profile and predictors of 
+SSIs following limb amputation at Bugando Medical Centre (BMC) and Sekou Toure Regional Referral Hospital (SRRH).
+Methods  The longitudinal study was conducted among patients undergoing limb amputations between March and 
+July 2024 at BMC and SRRH. Pre-tested structured questionnaires were used to collect sociodemographic and clinical 
+data. Clinical diagnosis of SSI was done using CDC criteria followed by collection of wound or pus swab for culture 
+and susceptibility testing. Univariate and multivariate logistic regression modelling was done using STATA version 15.0 
+to assess associations between clinical variables and odds of SSI.
+Results  A total of 120 patients with a median (IQR) age of 58 [43.5–66.5] years were enrolled. The indications for 
+limb amputations included diabetic foot ulcers (50.8%,61/120), trauma (8.3%,10/120), malignancy (8.3%,10/120), 
+gangrene (9.2%,11/120), peripheral vascular disease (16.7%,20/120) and congenital malformations (6.7%,8/120). The 
+incidence of SSIs was (30%,36/120), with Escherichia coli (36.7%; 11/30) and Staphylococcus aureus (23%; 7/30) being 
+the most frequently isolated pathogens. More than half of the Gram-negative isolates were resistant to third and 
+fourth generations cephalosporins which were commonly used as prophylactic antibiotics in the study settings. Age 
+above 65 years (OR = 0.21, 95% CI: 0.05–0.95, p = 0.043), smoking (OR = 14.3, 95% CI: 1.33-10.00, p = 0.027), ASA Class III 
+(OR = 13.33, 95% CI: 2.82–63.14, p = 0.001), longer surgery duration (≥ 2 h) (OR = 4.09, 95% CI: 1.30-12.89, p = 0.016) and 
+blood transfusion (OR = 2.4, 95% CI: 0.7-8.00, p = 0.02) were independently associated with SSIs.
+Conclusion  About one third of the patients developed SSIs following limb amputation. Odds of SSIs were increased 
+in patients with low age, smoking, high ASA score, prolonged surgery and who received blood transfusion. This 
+Incidence, bacteriological profile 
+and predictors of surgical site infections 
+following limb amputation at Bugando 
+medical centre and Sekou toure referral 
+regional hospital, Mwanza, Tanzania
+Haitham Hamudu1,2, Helmut Nyawale3*, Vitus Silago3, Mariam M. Mirambo3, Phillipo L. Chalya1,2 and Stephen 
+E. Mshana3
+
+
+===== PAGE 2 =====
+
+Page 2 of 9
+Hamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 
+Background
+Limb amputation, defined as the surgical removal of a 
+limb, or part of a limb through the bone, is reported to 
+be a major but preventable public health problem [1–3]. 
+Amputation of a limb has been considered as the last 
+management option when limb salvage is not possible 
+or when the limb is non-functional or the patient’s life 
+is in danger due to the limb [4, 5]. Despite its devastat­
+ing impact on patients and the families, limb amputation 
+remains among the most commonly performed surger­
+ies with approximately 185,000 surgeries performed 
+each year worldwide [2]. Indications for limb amputation 
+include trauma, musculoskeletal malignancies, diabetes, 
+infections, peripheral vascular disease, congenital mal­
+formations, sepsis, and burns [6, 7].
+Surgical site infections (SSIs) have been reported to be 
+the most common complications following limb amputa­
+tion [1, 4, 8]. SSIs following limb amputation contribute 
+significantly to patient morbidity and mortality, longer 
+hospital stays, increased risk of readmission, revision sur­
+gery, higher treatment costs, and compromised health 
+outcomes [4, 9]. Cumulative incidence of SSIs has been 
+estimated to range from 13 to 48% following amputation, 
+however SSIs rates as high as 57% has also been reported 
+following traumatic limb amputation [7, 10–12]. Previ­
+ous studies from Tanzania reported different rates of 
+SSIs, ranging from 19% in Kilimanjaro Christian Medi­
+cal College Centre(KCMC) to 35% in Muhimbili National 
+Hospital(MNH) [13, 14]. This variability, together with 
+limited publications, prompts further research into the 
+magnitude of the problem in various settings as well as 
+trends in SSIs following amputation over time. Previous 
+studies by Chalya et al. in 2012 [4] and Mawalla et al. in 
+2011 [15] at BMC reported more than ten years ago dem­
+onstrated SSIs rates of 21.0% and 12.5% respectively fol­
+lowing limb amputations.
+The patient’s age, smoking habit, diabetes, HIV infec­
+tion, jaundice, anemia, Body Mass Index (BMI, bacterial 
+colonization, steroid use, hospitalization, and uremia 
+have all been documented to be associated factors with 
+SSIs [16–18]. Prolonged duration of operation, wound 
+contamination status, prophylactic antibiotics, type of 
+procedure, emergency nature of the surgery, American 
+society of Anesthesiology(ASA) class, contaminated 
+instruments and suture material have also been docu­
+mented as the most common procedure-related risk 
+factors of SSIs [17, 18]. Furthermore, it should be noted 
+that the bacteriological profile and antimicrobial suscep­
+tibility patterns of the bacteria isolates causing SSIs vary 
+between one places to another, different surgeries, sur­
+geons, facilities, wards in the same hospital, and it might 
+even change periodically [17, 18].
+Recent data regarding SSIs following limb amputa­
+tions in our setting are limited, and the few available are 
+outdated [4]. Moreover, there is no evidence-based data 
+to support the preoperative and postoperative care pro­
+tocols in many health facilities in developing countries. 
+Therefore, this study was carried out to determine the 
+incidence, susceptibility patterns of isolated pathogens 
+and factors associated with SSI among patients undergo­
+ing limb amputations at BMC and SRRH. The results of 
+this study are critical in developing an evidence-based 
+treatment protocol for post amputation SSIs.
+Materials and methods
+Study design, population and setting
+This was a longitudinal study that involved all consent­
+ing patients who underwent limb amputation at Bugando 
+Medical Centre (BMC) and Sekou Toure Regional Refer­
+ral Hospital (SRRH) between March and July 2024. BMC 
+is the Lake Zonal referral hospital situated in the city of 
+Mwanza, Northwestern Tanzania. It is a consultant and 
+tertiary care hospital with a bed capacity of 1060. BMC 
+has about 30–45 limb amputations performed every 
+month. SRRH is located in Nyamagana district in the 
+city of Mwanza, it is a public regional facility serving the 
+population of Mwanza Region with 450-bed capacity and 
+about 15–20 limb amputations performed every month.
+Exclusion criteria
+Patients who previously undergone amputation in other 
+healthcare facilities who were referred for stump revi­
+sions were excluded.
+Sample size Estimation and sampling procedures
+The minimum sample size was 120 patients calculated 
+using Yamane-Taro [19]. Purposive sampling of patients 
+who met the inclusion criteria was performed until the 
+sample size was reached. Patients were recruited from 
+general surgery, pediatric surgery, plastic surgery and 
+orthopedic surgery wards, also from the emergency 
+department and surgical outpatient clinic once the sur­
+geon reached a decision of amputation. The attending 
+surgeon performed limb amputation based on the stan­
+dard care. The level of amputation was determined in 
+accordance with clinical evaluation and radiographic 
+tests (e.g., plain X-rays of the affected limb, Dop­
+pler studies, CT angiography), and histopathological 
+highlighted the need to update the management protocol of limb amputation in relation to antibiotics prophylaxis 
+among patients with increased risk of SSIs based on the local antimicrobial surveillance prevalence data.
+Keywords  Limb amputation, Surgical site infection, Incidence, Bacteriological profile, Tanzania
+
+
+===== PAGE 3 =====
+
+Page 3 of 9
+Hamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 
+investigations. Standard of care pre operative investiga­
+tions were performed to assess general fitness for sur­
+gery. Patients were screened for HIV using Tanzania HIV 
+Rapid Test Algorithm [3] and CD 4 + count using FACS 
+or FACSCALIBUR from BD Biosciences USA. A deter­
+mination of CD 4 + count was performed only in HIV 
+positive patients.
+After surgery, the surgical wound was examined once 
+for the initial dressing and then once a week for the next 
+30 days as per CDC protocol [20]. Patients were followed 
+up in the ward from the time of admission until time of 
+the discharge and for 30 days postoperatively in the sur­
+gical outpatient clinic or dressing clinic or through tele­
+phone interview.
+Clinical case definitions
+Superficial surgical site infection was diagnosed if any 
+one of the following criteria was fulfilled: purulent drain­
+age from the superficial incision, organisms isolated from 
+an aseptically obtained culture of fluid or tissue from the 
+superficial incision, at least one of the following signs 
+or symptoms of infection: pain or tenderness, local­
+ized swelling, redness, or heat, and superficial incision is 
+deliberately opened by surgeon, and is culture-positive or 
+not cultured.
+Deep surgical site infection was diagnosed if any one of 
+the following criteria is fulfilled; purulent drainage from 
+the deep incision but not from the organ/space compo­
+nent of the surgical site, a deep incision spontaneously 
+dehisces or is deliberately opened by a surgeon and is cul­
+ture-positive or not cultured and the patient has at least 
+one of the following signs or symptoms: fever (> 38 °C), 
+or localized pain or tenderness.
+The primary and secondary outcomes
+The primary outcome was to establish the incidence of 
+SSI within 30 days following major amputations with two 
+secondary aims of identifying predictors of SSI as well as 
+bacterial etiology and susceptibility patterns.
+Data collection
+A pretested, structured questionnaire was used for data 
+collection, including demographic and clinical charac­
+teristics, pre-operative investigations, operative and out­
+come variables.
+Specimen collection and laboratory procedures
+Two pus swabs: one for microscopy and the other for cul­
+ture were obtained from the surgical infected wound by 
+sterile cotton swabs and transported in Stuart transport 
+media to the laboratory for processing within an hour of 
+collection. Before sample collection surrounding skin was 
+cleaned with sterile saline or 70% alcohol (Aldrich Sigma; 
+Nairobi). All specimens were processed in accordance 
+with the standard operating procedures of the laboratory. 
+Briefly specimens were inoculated on Blood agar and 
+MacConkey agar (Oxoid; UK) and incubated aerobically 
+for 24–48  h. Identification of bacteria was done using 
+conventional physiological and biochemical methods. 
+Biochemical and physiological methods included; gram 
+stain, catalase reaction, coagulase reaction, hemolytic 
+activity on 5% sheep blood agar plate, hippurate hydro­
+lysis and CAMP test for Gram positive bacteria while for 
+Gram negative; colonies morphology on blood agar and 
+MacConkey agar, triple sugar iron (TSI) reaction, indole, 
+motility, citrate, urease and hydrogen sulphide produc­
+tion (Oxoid, UK) was used [21, 22]. Antimicrobial sus­
+ceptibility of isolates was determined using disk diffusion 
+method according to Clinical Laboratory Standard Insti­
+tute [23].
+Data management and statistical analysis
+Data was entered in the Microsoft excel data sheet and 
+analyzed using STATA version 15 (Collage Station, Texas, 
+the United States). The median (+ IQR)/mean ± stan­
+dard deviation was calculated for continuous variables 
+depending on the distribution of data whereas propor­
+tions, frequency tables, bar and pie charts were used for 
+categorical variables. Univariate logistic regression analy­
+sis was done and all factors with p values less than 0.05 
+were used to build up a multivariate logistic regression to 
+determine predictors of SSI. In all tests, p values of < 0.05 
+were regarded as statistically significant.
+Results
+Socio-demographic and clinical characteristics
+A total of 120 patients were included in the study. The 
+median [IQR] age was 58[43.5–66.5] years. Most patients 
+had primary education (58.3%, 70/120) and unemployed 
+(83.3%,100/120). Nearly half of the patients had a medi­
+cal co-morbid (47.5%,57/120) or were underweight 
+(45.8%,55/120) while only (4.2%,5/120) patients reported 
+smoking cigarettes (Table 1).
+Pre-operative indications for amputations
+The most common indication for surgery was complica­
+tions of diabetes mellitus (DM), affecting (50.8%,61/120) 
+of patients. Trauma and malignant tumors each 
+accounted for (8.3%,10/120) while gangrene was present 
+in (9.2%,11/120) of cases Table 2.
+Post operative outcomes
+Out of 120 enrolled and followed patients, 36 devel­
+oped SSI, therefore the overall incidence of SSI within 
+3 months of amputation was 30.0% (95% CI 21.8–38). 
+Superficial SSIs were the most common type accounting 
+for 28(77.8%) cases and 8(22.2%) were deep SSIs. Out of 
+90 patients recruited from BMC, 23(25.5%) developed 
+
+
+===== PAGE 4 =====
+
+Page 4 of 9
+Hamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 
+SSIs while out of 30 patients recruited from SRRH, 
+13(43.3%) developed SSIs (p = 0.066).
+Bacteria and their susceptibility patterns
+Out of 36 patients clinically diagnosed with SSI, 
+(83.3%,30/36) had positive cultures. Among these 30 
+patients, (66.7%,20/30) had SSIs due to Gram-negative 
+bacteria while (33.33%,10/30) SSIs were due to Gram-
+positive bacteria. The predominant bacterial species 
+identified were E. coli, found in (36.7%,11/30) of cases, 
+followed by S. aureus in (23%,7/30) and P. aeruginosa in 
+(13.3%,4/30), Table 3.
+The majority of Gram-negative isolates were resistant 
+to third generation cephalosporins, while the majority 
+of Gram-positive bacteria were resistant to ceftriaxone, 
+ampicillin as shown in Table 4.
+Distribution of surgical site infections among the study 
+participants
+A large number of the participants who developed 
+surgical site infection were of the age below or equal 
+to 45 years, (46.9%,15/32). Most of the study partici­
+pants underwent were listed for emergency surgeries, 
+( 93.3%,112/120) compared to the ones who were listed 
+for elective, (6.7%,8/120 ), however, SSI occurred more 
+frequent in patients who underwent elective surgeries, 
+compared to those who underwent emergency surgeries 
+(Table 5).
+Predictors of surgical site infections following limb 
+amputations
+The study analyzed various factors documented to be 
+associated with surgical site infections (SSI). On univari­
+ate logistic regression factors found to be associated SSI 
+were: age group between 46 and 65 years (OR = 0.36, 95% 
+CI: 0.15–0.93, p = 0.034), those over 65 years (OR = 0.33, 
+95% CI: 0.11–0.98, p = 0.047), duration of surgery ≥ 2  h 
+(OR = 4.36, 95% CI: 1.80-10.57, p = 0.001), smoking 
+(OR = 25, 95% CI: 2.85-10, p = 0.003), ASA class III 
+(OR = 4.36, 95% CI: 1.21–9.79, p = 0.02) and blood trans­
+fusion (OR = 3.33, 95% CI: 1.29–9.09, p = 0.012).
+When these predictors were subjected to multivari­
+ate logistic regression analysis the factors that remained 
+statistically significant were, age group 46–65 years 
+(OR = 0.25, 95% CI: 0.07–0.92, p = 0.037), smoking 
+(OR = 14.3, 95% CI: 1.33-10, p = 0.027), ASA Class III 
+(OR = 13.33, 95% CI: 2.82–63.14, p = 0.001), surgery dura­
+tion (≥ 2 h) (OR = 4.09, 95% CI: 1.30-12.89, p = 0.016) and 
+blood transfusion (OR = 4.0, 95% CI:1.25–12.5, p = 0.02) 
+(Table 6).
+Table 1  Socio-demographic and clinical characteristic of study 
+participants(N = 120)
+Characteristics
+Frequency(n)
+Percentage (%)
+Age group (years)
+≤ 45
+32
+26.7
+46–65
+57
+47.5
+> 65
+31
+25.8
+Gender
+Male
+64
+53.3
+Female
+56
+46.7
+Education
+Informal
+6
+5
+Primary
+70
+58.3
+Secondary
+35
+29.2
+Tertiary
+9
+7.5
+Occupation
+Employed
+20
+16.7
+Unemployed
+100
+83.3
+Marital Status
+Single
+23
+19.2
+Married
+47
+39.2
+Divorced
+50
+41.6
+Region of residence
+Mwanza
+55
+45.8
+Outside Mwanza
+65
+54.2
+Residence
+Urban
+84
+70.0
+Rural
+36
+30.0
+Hospital centre
+Sekou Toure
+30
+25.0
+BMC
+90
+75.0
+*Comorbidity
+Yes
+57
+47.5
+No
+63
+52.5
+BMI
+Underweight
+55
+45.8
+Normal
+60
+50.0
+Overweight
+5
+4.2
+Smoking
+Yes
+5
+4.2
+No
+115
+95.8
+Key: BMI -Body Mass Index, BMC-Bugando Medical Centre
+*Comorbid conditions: HIV = 1, Diabetes Mellitus = 23, Hypertension = 4, 
+Malignancy = 7, Osteomyelitis = 2, Peripheral artery disease = 13, Trauma = 8
+Table 2  Indications for limb amputation (N = 120)
+Characteristics
+Frequency(n)
+Percentage (%)
+Indication
+Other complications of DM
+61
+50.8
+Trauma
+10
+8.3
+Malignant tumors
+10
+8.3
+Gangrene
+11
+9.2
+Peripherals vascular diseases
+20
+16.7
+Malformations
+8
+6.67
+
+
+===== PAGE 5 =====
+
+Page 5 of 9
+Hamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 
+Discussion
+The overall incidence of surgical site infections follow­
+ing limb amputations was found to be 30% in two refer­
+ral hospitals in Mwanza, Tanzania. The current observed 
+prevalence is higher than 21% and 12.5% that were previ­
+ously reported more than a decade ago by Chalya et al. 
+[4] and Mawalla et al. [15] at the same center following 
+limb amputations, respectively. However, it was lower 
+than what was reported in a Nigerian study which pre­
+sented an SSI incidence of 58.8% after major limb ampu­
+tation, however contrary to our study the Nigerian study 
+was a five year retrospective [1].
+In the present study, the majority of patients were in 
+their fourth and fifth decades of life, which is consistent 
+with Chalya et al. [4] at BMC and other studies [14, 24], 
+but unlike with a Ghanaian study which reported high 
+median age incidence in the 7th decade [9]. Other stud­
+ies reported even lower peak age incidence [25]. In this 
+study, age above 65 years was found to be protective fac­
+tor of development of SSIs following limb amputation 
+with young age group being more likely to develop SSI. 
+This was due to the reason explained above of the major­
+ity young age groups having amputation due to trauma 
+(road traffic accidents). Previous studies have docu­
+mented increased SSI among patients with trauma [11, 
+14, 26].However, this association is weak due to a p value 
+of 0.043 and wide confidence intervals.
+Also, in this study young age were shown to be at high 
+risk of SSIs due to the fact that majority had trauma as 
+indication of amputation.
+In keeping with other studies done elsewhere [2, 15], 
+complication of diabetic foot ulcers was the most com­
+mon indication for limb amputation. These findings are 
+not in agreement with other studies which reported 
+trauma as the most common indication for limb ampu­
+tation [7, 23]. It has been documented in several stud­
+ies that approximately 80–90% of limb amputations in 
+developed countries are performed as a result of vascu­
+lar problems [24, 27]. These differences in the pattern of 
+indications reflect differences in incidences of different 
+pathologies leading to limb amputation which tend to 
+vary from one place to the other. The increased incidence 
+of diabetic foot complications requiring limb amputation 
+may reflect the level of effectiveness of the early detection 
+of diabetes mellitus and the foot at risk, medical educa­
+tion, patient compliance and overall control of diabetes 
+mellitus in this population.
+In this study Gram-negative bacteria predominantly 
+Escherichia coli(36.7%) and Pseudomonas aeruginosa 
+(13.3%) were the most frequently isolated bacteria 
+Table 3  Pathogens isolated from 30 patients with positive growth of wound swabs(N = 30)
+Gram stain
+Bacterial isolates
+Frequency (n)
+Percentage (%)
+Gram-positive
+Staphylococcus aureus
+7
+23.4
+Enterococcus feacalis
+3
+10
+Gram-negative
+Escherichia coli
+11
+36.7
+Pseudomonas aeruginosa
+4
+13.3
+Klebsiella pneumoniae
+1
+3.3
+Morganella morganii
+2
+6.7
+Enterobacter cloacae
+1
+3.3
+Acinetobacter baumannii
+1
+3.3
+Table 4  The resistance pattens of the 30 isolates from patient with SSI
+ANTOBIOTICS
+BACTERIA ISOLATED
+Enterobacterales(N = 15)
+P. aeruginosa(N = 4)
+A. baumannii(N = 1)
+S. aureus
+(N = 7)
+E. faecalis
+(N = 3)
+n (%)
+n (%)
+n (%)
+n (%)
+n (%)
+Ampicillin
+13(86.7)
+3(75)
+1(100)
+4(57.14)
+1(33.33)
+Trimethoprim/sulphamethoxazole
+12(80.0)
+3(75)
+1(100)
+4(57.14)
+1 (33.33)
+Cefepime
+9(60.0)
+0(0)
+0(0)
+NA
+NA
+Ceftazidime
+11(73.3)
+1(25)
+0(0)
+NA
+NA
+Ceftriaxone
+12(80.0)
+2(50)
+0(0)
+NA
+NA
+Ceftriaxone/sulbactam
+10(66.7)
+3(75)
+0(0)
+NA
+NA
+Ciprofloxacin
+9(60.0)
+0(0)
+1(100)
+2(28.57)
+0(0)
+Gentamycin
+11(73.33)
+1(25)
+1(100)
+1(14.29)
+0(0)
+Amikacin
+5(33.3)
+1(25)
+0(0)
+1(14.29)
+0(0)
+Meropenem
+0(0.0)
+0(0)
+0(0)
+NA
+NA
+Piperacillin/tazobactam
+8(53.3)
+2(50)
+0(0)
+NA
+NA
+Vancomycin
+NA
+NA
+NA
+0(0.0)
+0(0)
+KEY: Enterobacterales group comprise of the following bacteria species: -Escherichia coli, Morganella morganii, Klebsiella pneumoniae and Enterobacter cloacae
+
+
+===== PAGE 6 =====
+
+Page 6 of 9
+Hamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 
+contrary to previous studies done at BMC which dem­
+onstrated Staphylococcus aureus as the most common 
+organism isolated in SSIs following limb amputation 
+[2, 15]. Findings from this study concurs with a recent 
+study [28] which observed a shifting towards Gram nega­
+tive bacteria as the commonest pathogens isolated from 
+wound swabs. The predominance of Gram-negative 
+organisms in the postoperative wound infections can be 
+attributed to transmission from health care environment 
+[29].
+In line with previous studies [4, 15] done at BMC, the 
+majority of bacteria isolates in this study demonstrated 
+multi drugs resistance phenotypes to commonly pre­
+scribed antibiotics such as ciprofloxacin, ampicillin, trim­
+ethoprim/sulphamethoxazole, gentamicin, erythromycin 
+and ceftriaxone.
+As reported in other reports done elsewhere [2, 14, 15], 
+majority of Gram-negative isolates in this study were sen­
+sitive to meropenem while Gram positive bacteria were 
+uniformly sensitive to vancomycin.
+In agreement with other studies conducted elsewhere 
+[15, 30], this study observed association between ciga­
+rette smoking and increased odds of SSIs development. 
+Cigarette smoking has been reported to have an impact 
+on wound healing through impairment of tissue oxy­
+genation and local hypoxia via vasoconstriction [15, 31]. 
+Additionally, tobacco smoke has high concentrations of 
+carbon monoxide, which binds hemoglobin, forming car­
+boxyhemoglobin which in turn binds to oxygen with high 
+affinity and thereby interferes with normal oxygen deliv­
+ery to hypoxic tissues [31].
+As in the current studies, several studies have shown a 
+strong association between ASA status and SSIs follow­
+ing surgery [15, 27, 32]. ASA classification is a standard­
+ized, reproducible numeric determination that has been 
+used to routinely stratify severity of illness for surgical 
+patients and is known to be a good indicator of host sus­
+ceptibility to infection [15, 33]. The overall poor general 
+health of the study subjects with higher ASA class could 
+be the reason for this association.
+In agreement with other studies, this study found that 
+length of surgery > 2 h was associated with increased risk 
+of developing SSI [27]. The increasing length of surgery 
+can lead to higher risk of SSI due to desiccation of tis­
+sues, increased bacterial exposure and decreased level of 
+prophylactic antibiotic in the tissues [15, 34]. This finding 
+supports the notion that the administration of an addi­
+tional dose of antibiotic in lengthy procedures (e.g.>2 h) 
+might be effective in reducing the overall SSI rate [15, 27, 
+34].
+Blood transfusion has been reported in the literature 
+to be associated with SSIs following surgery [3, 35]. Stud­
+ies have shown that blood transfusion leads to immuno­
+modulation, increased serum iron, and microcirculatory 
+dysfunction, which can cause bacterial overgrowth [3, 
+36]. Allogeneic blood transfusion induces immunosup­
+pression and predisposes to postoperative infection 
+[36]. In this study, perioperative blood transfusion was 
+significantly associated with SSI following limb amputa­
+tion. However, potential of contamination due hospital 
+surfaces(settings) surpasses the potential of SSI due to 
+blood infection [29].
+Limitations of the study includes failure to perform 
+anaerobic culture that led to inability to establish the 
+Table 5  Distribution of surgical site infections among the study 
+participants
+Variables
+Surgical Site Infections
+Yes
+No
+n (%)
+n (%)
+Age group (years)
+≤ 45
+15(46.9)
+17(53.1)
+46–65
+14(24.6)
+43(75.4)
+> 65
+7(22.6)
+24(77.4)
+Gender
+Male
+16(25.0)
+48(75.0)
+Female
+20(35.7)
+36(64.3)
+BMI
+< 18.5
+19(34.6)
+36(65.4)
+18.5–24.9
+16(26.7)
+44(73.3)
+≥ 25.0
+1(20.0)
+4(80.0)
+Comorbidity
+No
+16(25.4)
+47(74.6)
+Yes
+20(35.09)
+37(64.91)
+Smoking
+No
+28(25.23)
+83(74.8)
+Yes
+8(88.89)
+1(11.1)
+ASA class score
+I &II
+5(14.29)
+30(85.7)
+III
+31(36.47)
+54(63.5)
+Timing of Surgery
+Emergency
+33(29.46)
+79(70.54)
+Elective
+3(37.5)
+5(62.5)
+Prophylactic antibiotics
+Yes
+33(28.95)
+81(71.05)
+No
+3(50)
+3(50)
+Duration of surgery (hours)
+< 2
+20(22.0)
+71(78.0)
+≥ 2
+16(55.2)
+13(44.8)
+Limb involved
+Upper
+5(55.6)
+4(44.4)
+Lower
+31(27.9)
+80(72.1)
+Amputation type
+Closed
+23(30.3)
+53(69.7)
+Open
+13(29.5)
+31(70.5)
+Blood Transfusion
+No
+20(20.6)
+77(79.4)
+Yes
+16(69.6)
+7(30.4)
+
+
+===== PAGE 7 =====
+
+Page 7 of 9
+Hamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 
+presence of anaerobic organisms hence underestimate 
+the patterns of the bacteria and the yield of the culture 
+of wound swab. However, the positive rate of the swabs 
+was within the range of previously reported rates. The 
+superficial swab culture results may not always repre­
+sent the organism’s causing infection, particularly in deep 
+wounds. Another limitation is lack of reporting of resis­
+tance mechanism proportions in gram negatives (e.g. 
+ampC, ESBL) and Gram-positive organisms (MRSA).
+Conclusion and recommendations
+This study has demonstrated an increased trend of SSI 
+amongst patients who underwent limb amputation 
+underscoring the need to improve infection preven­
+tion and control (IPC) programs in these hospitals. The 
+observed predominance of multi drug resistant (MDR) 
+Gram negative bacteria causing SSI requires strength­
+ening of antimicrobial stewardship and IPC programs 
+in these hospitals and other hospitals in low- and mid­
+dle-income countries to control emergence and spread 
+of MDR Enterobacterales which have been classified by 
+WHO as critical priority pathogens. Patients with history 
+Table 6  Predictors of SSI following major limb amputations
+Predictors
+Surgical Site Infections
+Univariate
+Multivariate
+Yes
+No
+n (%)
+n (%)
+OR [95% CI]
+p-value
+OR [95% CI]
+p-value
+Age group (years)
+≤ 45
+15(46.9)
+17(53.1)
+Ref
+46–65
+14(24.6)
+43(75.4)
+0.36(0.15–0.93)
+0.034
+0.25(0.06–0.91)
+0.037
+> 65
+7(22.6)
+24(77.4)
+0.33(0.11–0.98)
+0.047
+0.21(0.04–0.95)
+0.043
+Gender
+Male
+16(25.0)
+48(75.0)
+Ref
+Female
+20(35.7)
+36(64.3)
+1.6(0.75–3.66)
+0.203
+BMI
+< 18.5
+19(34.6)
+36(65.4)
+Ref
+18.5–24.9
+16(26.7)
+44(73.3)
+0.68(0.31–1.52)
+0.360
+≥ 25.0
+1(20.0)
+4(80.0)
+0.47(0.04–4.54)
+0.517
+Comorbidity
+No
+16(25.4)
+47(74.6)
+Ref
+Yes
+20(35.09)
+37(64.91)
+1.58(0.72–3.48)
+0.249
+Smoking
+No
+28(25.23)
+83(74.8)
+Ref
+Yes
+8(88.89)
+1(11.1)
+25(2.85-10.00)
+0.003
+14.3(1.33-10.0)
+0.027
+ASA class score
+I &II
+5(14.29)
+30(85.7)
+Ref
+III
+31(36.47)
+54(63.5)
+3.44(1.21–9.79)
+0.020
+13.3(2.81–63.1)
+0.001
+Timing of Surgery
+Emergency
+33(29.46)
+79(70.54)
+Elective
+3(37.5)
+5(62.5)
+1.43(0.32–6.35)
+0.633
+Prophylactic antibiotics
+Yes
+33(28.95)
+81(71.05)
+Ref
+No
+3(50)
+3(50)
+2.45(0.47–12.78)
+0.286
+Duration of surgery (hours)
+< 2
+20(22.0)
+71(78.0)
+Ref
+≥ 2
+16(55.2)
+13(44.8)
+4.36(1.80-10.57)
+0.001
+4.08(1.29–12.9)
+0.016
+Limb involved
+Upper
+5(55.6)
+4(44.4)
+Ref
+Lower
+31(27.9)
+80(72.1)
+0.31(0.07–1.23)
+0.096
+Amputation type
+Closed
+23(30.3)
+53(69.7)
+Ref
+Open
+13(29.5)
+31(70.5)
+1.14(0.51–2.56)
+0.741
+Blood Transfusion
+No
+20(20.6)
+77(79.4)
+Ref
+Yes
+16(69.6)
+7(30.4)
+3.0(1.10–7.70)
+0.012
+4.0(1.25–12.5)
+0.020
+
+
+===== PAGE 8 =====
+
+Page 8 of 9
+Hamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 
+of cigarette smoking and those with high ASA status, 
+prolonged duration of surgery and blood transfusion 
+should be carefully prepared and managed to ensure the 
+risk of SSI are minimized.
+Acknowledgements
+The authors wish to thank members of the Department of Surgery and 
+Microbiology at Bugando Medical Centre and Sekou Toure Regional hospital. 
+We appreciate Hospital administration at Bugando Medical Centre Mwanza 
+Tanzania and Sekou Toure regional hospital.
+Author contributions
+HH, PLC and conceived and designed the study. HH, VS and HN performed 
+data collection and laboratory procedures. HH, VS and HN analyzed the data. 
+HH and HN drafted the manuscript. MMM, PLC and SEM critically reviewed the 
+manuscripts and responsible for validation. All authors read and approved the 
+manuscript.
+Funding
+No formal funding for this research, the Article publication Charges (APC) will 
+be covered by the Catholic University of Health and Allied Sciences.
+Data availability
+No datasets were generated or analysed during the current study.
+Declarations
+Ethical approval and consent to participate
+Ethical approval for this study was sought was sought from the Joint CUHAS/
+BMC Research, Ethics and Review Committee (CREC/796/2024). Permission 
+to carry out the study was obtained from the hospital authority (BMC) and 
+Sekou-Toure Regional Referral Hospital.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Author details
+1Department of Surgery, Catholic University of Health and Allied Sciences, 
+Mwanza, Tanzania
+2Department of Surgery, Bugando Medical Centre, Mwanza, Tanzania
+3Department of Microbiology/Immunology, Catholic University of Health 
+and Allied Sciences, Mwanza, Tanzania
+Received: 24 September 2024 / Accepted: 21 February 2025
+References
+1.	
+Ajibade AAO, Okoye CS. Indications and complications of major limb ampu­
+tations in Kano,Nigeria. Ghana Med J. 2013;47(4):185–8.
+2.	
+Ahmad N, Thomas GN, Gill P, Torella F. The prevalence of major lower 
+limb amputation in the diabetic and non-diabetic population of England 
+2003–2013. Diabetes Vascular Disease Res. 2016;13(5):348–53.
+3.	
+Lyamuya EF, Aboud S, Urassa WK, Sufi J, Mbwana J, Ndugulile F, Massambu C. 
+Evaluation of simple rapid HIV assays and development of National rapid HIV 
+test algorithms in Dar Es Salaam, Tanzania. BMC Infect Dis. 2009;9:1–7.
+4.	
+Chalya PL, Mabula JB, Dass RM, Ngayomela IH, Chandika AB, Mbelenge N, 
+Gilyoma JM. Major limb amputations: A tertiary hospital experience in North­
+western Tanzania. J Orthop Surg Res. 2012;7:1–6.
+5.	
+Lazzarini PA, O’Rourke SR, Russell AW, Clark D, Kuys SS. What are the key 
+conditions associated with lower limb amputations in a major Australian 
+teaching hospital? J Foot Ankle Res. 2012;5:1–9.
+6.	
+Paudel B, Shrestha B, Banskota A. Two faces of major lower limb amputations. 
+Kathmandu Univ Med J. 2005;3(3):212–6.
+7.	
+Dada A, Awoyomi B. Is the trend of amputation in Nigeria changing? A 
+review of 51 consecutives cases seen at federal medical centre Ebute Metta, 
+Lagos, Nigeria. Nigerian Med J. 2010;51(4):167.
+8.	
+Ogeng’o JA, Obimbo MM, King’ori J. Pattern of limb amputation in a Kenyan 
+rural hospital. Int Orthop. 2009;33:1449–53.
+9.	
+Essoh S, Bamba I, Dje VB, Traore A, Lambin Y. Limb amputations in adults in an 
+Ivorian teaching hospital. Nigerian J Orthop Trauma. 2007;6(2):61–3.
+10.	 Akinyoola A, Ojo O, Oginni L. Microbiology of amputation wound infection in 
+a Nigerian setting. J Wound Care. 2008;17(5):202–6.
+11.	 Sadat U, Chaudhuri A, Hayes P, Gaunt M, Boyle J, Varty K. Five day antibiotic 
+prophylaxis for major lower limb amputation reduces wound infection rates 
+and the length of in-hospital stay. Eur J Vasc Endovasc Surg. 2008;35(1):75–8.
+12.	 Omoke NI, Chukwu COO, Madubueze CC, Egwu AN. Traumatic extremity 
+amputation in a Nigerian setting: patterns and challenges of care. Int Orthop. 
+2012;36:613–8.
+13.	 Kitembo S, Chugulu S. Incidence of surgical site infections and microbial pat­
+tern at Kilimanjaro Christian medical centre. Annals Afr Surg 2013, 10(1).
+14.	 Kisibo A, Ndume V, Semiono A, Mika E, Sariah A, Protas J, Landolin H. 
+Surgical site infection among patients undergone orthopaedic surgery at 
+muhimbili orthopaedic institute, Dar Es Salaam, Tanzania. East Cent Afr J Surg. 
+2017;22(1):49–58.
+15.	 Mawalla B, Mshana SE, Chalya PL, Imirzalioglu C, Mahalu W. Predictors of sur­
+gical site infections among patients undergoing major surgery at Bugando 
+medical centre in Northwestern Tanzania. BMC Surg. 2011;11(1):1–7.
+16.	 Malik S, Gupta A, Singh K, Agarwal J, Singh M. Antibiogram of aerobic bacte­
+rial isolates from post-operative wound infections at a tertiary care hospital in 
+India. J Infect Dis Antimicrob Agents. 2011;28(1):45–51.
+17.	 Sonawane J, Kamath N, Swaminathan R, Dosani K. Bacterial profile of surgical 
+site infections and their antibiograms in a tertiary care hospital in navi Mum­
+bai. Bombay Hosp J. 2010;52:358–61.
+18.	 Negi V, Pal S, Juyal D, Sharma MK, Sharma N. Bacteriological profile of surgical 
+site infections and their antibiogram: A study from resource constrained 
+rural setting of Uttarakhand State, India. J Clin Diagn Research: JCDR. 
+2015;9(10):DC17.
+19.	 Yamane T. Statistics: An introductory analysis. 1973.
+20.	 Keely Boyle K, Rachala S, Nodzo SR. Centers for disease control and preven­
+tion 2017 guidelines for prevention of surgical site infections: review and 
+relevant recommendations. Curr Rev Musculoskelet Med. 2018;11:357–69.
+21.	 Horan TC, Gaynes RP, Martone WJ, Jarvis WR, Emori TG. CDC definitions of 
+nosocomial surgical site infections, 1992: a modification of CDC definitions of 
+surgical wound infections. Infect Control Hosp Epidemiol. 1992;13(10):606–8.
+22.	 Ahuja S, Peiffer-Smadja N, Peven K, White M, Leather AJ, Singh S, Mendelson 
+M, Holmes A, Birgand G, Sevdalis N. Use of feedback data to reduce surgical 
+site infections and optimize antibiotic use in surgery: a systematic scoping 
+review. Ann Surg. 2022;275(2):e345.
+23.	 Owens C, Stoessel K. Surgical site infections: epidemiology, microbiology and 
+prevention. J Hosp Infect. 2008;70:3–10.
+24.	 Brown S, Kurtsikashvili G, Alonso-Echanove J, Ghadua M, Ahmeteli L, 
+Bochoidze T, Shushtakashvili M, Eremin S, Tsertsvadze E, Imnadze P. Preva­
+lence and predictors of surgical site infection in Tbilisi, Republic of Georgia. J 
+Hosp Infect. 2007;66(2):160–6.
+25.	 Sharan J, Tiwary R, Raza MA, Chauhan C. Surgical site infections in elec­
+tive abdominal surgery and their prevention in a tertiary Care Centre of 
+Rohilkhand Region.
+26.	 Classen DC, Evans RS, Pestotnik SL, Horn SD, Menlove RL, Burke JP. The timing 
+of prophylactic administration of antibiotics and the risk of surgical-wound 
+infection. N Engl J Med. 1992;326(5):281–6.
+27.	 Tang R, Chen HH, Wang YL, Changchien CR, Chen J-S, Hsu K-C, Chiang J-M, 
+Wang J-Y. Risk factors for surgical site infection after elective resection of the 
+colon and rectum: a single-center prospective study of 2,809 consecutive 
+patients. Ann Surg. 2001;234(2):181.
+28.	 Baraka N. Antimicrobial resistance surveillance on bacterial species causing 
+skin and soft tissue infections at BMC, Mwanza, Tanzania. Catholic University 
+And Allied Sciences; 2023.
+29.	 Ali KM, Al-Jaff BM. Source and antibiotic susceptibility of gram-negative 
+bacteria causing superficial incisional surgical site infections. Int J Surg Open. 
+2021;30:100318.
+30.	 Dale WB, Peter MH, Workgroup SIPGW. Antimicrobial prophylaxis for surgery: 
+an advisory statement from the National surgical infection prevention proj­
+ect. Clin Infect Dis. 2004;38(12):1706–15.
+
+
+===== PAGE 9 =====
+
+Page 9 of 9
+Hamudu et al. Journal of Orthopaedic Surgery and Research          (2025) 20:252 
+31.	 Kaneko M, Sasaki S, Ishimaru K, Terai E, Nakayama H, Watanabe T. The impact 
+of perioperative allogeneic blood transfusion on survival in elderly patients 
+with colorectal cancer. Anticancer Res. 2015;35(6):3553–8.
+32.	 Kim JL, Park J-H, Han S-B, Cho IY, Jang K-M. Allogeneic blood transfusion is a 
+significant risk factor for surgical-site infection following total hip and knee 
+arthroplasty: a meta-analysis. J Arthroplast. 2017;32(1):320–5.
+33.	 Mshana S, Kamugisha E, Miramb M, Chalya P, Rambau P, Mahalu W, Lyamuya 
+E. Prevalence of clindamycin inducible resistance among methicillin-resistant 
+Staphylococcus aureus at Bugando medical centre, Mwanza, Tanzania. 
+Tanzan J Health Res 2009, 11(2).
+34.	 Afenigus A, Shbabawu A, Melese T. Surgical site infection and associated fac­
+tors among adult patients admitted in West and East Gojjam zone hospitals, 
+Amhara region, Ethiopia. Ethiopia Nurse Care Open Acces J. 2019;6(3):107–12.
+35.	 Wayne P. Methods for dilution antimicrobial susceptibility tests for bacteria 
+that grow aerobically. Approved standard M7-A7 Clinical and Laboratory Stan­
+dards Institute 2006.
+36.	 Mshana SE, Kamugisha E, Mirambo M, Chakraborty T, Lyamuya EF. Prevalence 
+of multiresistant gram-negative organisms in a tertiary hospital in Mwanza, 
+Tanzania. BMC Res Notes. 2009;2(1):1–6.
+Publisher’s note
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.

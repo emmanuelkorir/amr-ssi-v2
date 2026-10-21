@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.python-version
+
+# Local tooling (OCR / PDF binaries)
+.tools/
+
+# Source PDFs are not redistributed (copyright); corpus/ holds the derived text
+amr-ssis-ecsa-files/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/

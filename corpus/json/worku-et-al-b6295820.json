@@ -1,0 +1,1970 @@
+{
+ "doc_id": "worku-et-al-b6295820",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/worku et al.pdf",
+ "sha256": "b6295820fe755b069e089875221865c6e14f42ca8a8a702d9a9a720ef1b9835c",
+ "document_type": "pdf",
+ "n_pages": 16,
+ "pdf_metadata": {
+  "format": "PDF 1.7",
+  "title": "Molecular Epidemiology of Methicillin-Resistant Staphylococcus aureus among Patients Diagnosed with Surgical Site Infection at Four Hospitals in Ethiopia",
+  "author": "Seble Worku, Tamrat Abebe, Berhanu Seyoum, Ashenafi Alemu, Yidenek Shimelash, Marechign Yimer, Alemseged Abdissa, Getachew Tesfaye Beyene, Göte Swedberg and Adane Mihret",
+  "subject": "Methicillin-resistant Staphylococcus aureus (MRSA) is a common cause of severe surgical site infections (SSI). The molecular epidemiology of MRSA is poorly documented in Ethiopia. This study is designed to determine the prevalence of MRSA and associated factors among patients diagnosed with SSI. A multicenter study was conducted at four hospitals in Ethiopia. A wound culture was performed among 752 SSI patients. This study isolated S. aureus and identified MRSA using standard bacteriology, Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry (MALDI-TOF MS), and cefoxitin disk diffusion test. The genes mecA, femA, vanA, and vanB were detected through PCR tests. S. aureus was identified in 21.6% of participants, with 24.5% of these being methicillin-resistant Staphylococci and 0.6% showing vancomycin resistance. Using MALDI-TOF MS for the 40 methicillin-resistant Staphylococci, we confirmed that 31 (77.5%) were S. aureus, 6 (15%) were Mammaliicoccus sciuri, and the other 3 (2.5%) were Staphylococcus warneri, Staphylococcus epidermidis, and Staphylococcus haemolyticus. The gene mecA was detected from 27.5% (11/40) of Staphylococci through PCR. Only 36.4% (4/11) were detected in S. aureus, and no vanA or vanB genes were identified. Out of 11 mecA-gene-positive Staphylococci, 8 (72.7%) were detected in Debre Tabor Comprehensive Specialized Hospital. Methicillin-resistant staphylococcal infections were associated with the following risk factors: age  61 years, prolonged duration of hospital stay, and history of previous antibiotic use, p-values < 0.05. Hospitals should strengthen infection prevention and control strategies and start antimicrobial stewardship programs.",
+  "keywords": "surgical site infection; methicillin-resistant Staphylococci; molecular epidemiology; antimicrobial resistance; Ethiopia",
+  "creator": "LaTeX with hyperref",
+  "producer": "pdfTeX-1.40.21",
+  "creationDate": "D:20231201093829+08'00'",
+  "modDate": "D:20231201031318+01'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:57+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "Citation: Worku, S.; Abebe, T.;\nSeyoum, B.; Alemu, A.; Shimelash, Y.;\nYimer, M.; Abdissa, A.; Beyene, G.T.;\nSwedberg, G.; Mihret, A. Molecular\nEpidemiology of Methicillin-Resistant\nStaphylococcus aureus among Patients\nDiagnosed with Surgical Site\nInfection at Four Hospitals in\nEthiopia. Antibiotics 2023, 12, 1681.\nhttps://doi.org/10.3390/\nantibiotics12121681\nAcademic Editor: Samantha\nFlores-Treviño\nReceived: 31 October 2023\nRevised: 22 November 2023\nAccepted: 23 November 2023\nPublished: 29 November 2023\nCopyright:\n© 2023 by the authors.\nLicensee MDPI, Basel, Switzerland.\nThis article is an open access article\ndistributed\nunder\nthe\nterms\nand\nconditions of the Creative Commons\nAttribution (CC BY) license (https://\ncreativecommons.org/licenses/by/\n4.0/).\nantibiotics\nArticle\nMolecular Epidemiology of Methicillin-Resistant\nStaphylococcus aureus among Patients Diagnosed with Surgical\nSite Infection at Four Hospitals in Ethiopia\nSeble Worku 1,2,3,*, Tamrat Abebe 1, Berhanu Seyoum 3, AshenaﬁAlemu 3\n, Yidenek Shimelash 4,\nMarechign Yimer 3, Alemseged Abdissa 3, Getachew Tesfaye Beyene 3, Göte Swedberg 5\nand Adane Mihret 1,3\n1\nDepartment of Microbiology, Immunology and Parasitology, School of Medicine, College of Health Sciences,\nAddis Ababa University, Addis Ababa 1165, Ethiopia; tamrat.abebe@aau.edu.et (T.A.);\nadane.mihret@ahri.gov.et (A.M.)\n2\nDepartment of Medical Laboratory Science, College of Health Sciences, Debre Tabor University,\nDebre Tabor P.O. Box 272, Ethiopia\n3\nBacterial and Viral Diseases Research Directorate, Armauer Hansen Research Institute,\nAddis Ababa 1165, Ethiopia; berhanu.seyoum@ahri.gov.et (B.S.); ashenaﬁalemu07@gmail.com (A.A.);\nmarechign01@yahoo.com (M.Y.); alemseged.abdissa@ahri.gov.et (A.A.); getachew.tesfaye@ahri.gov.et (G.T.B.)\n4\nDebre Tabor Comprehensive Specialized Hospital, Debre Tabor P.O. Box 272, Ethiopia;\nyidenek.shim2008@gmail.com\n5\nDepartment of Medical Biochemistry and Microbiology, Uppsala University, 750 08 Uppsala, Sweden;\ngote.swedberg@imbim.uu.se\n*\nCorrespondence: workuseble@ymail.com; Tel.: +251-911782487\nAbstract: Methicillin-resistant Staphylococcus aureus (MRSA) is a common cause of severe surgical\nsite infections (SSI). The molecular epidemiology of MRSA is poorly documented in Ethiopia. This\nstudy is designed to determine the prevalence of MRSA and associated factors among patients\ndiagnosed with SSI. A multicenter study was conducted at four hospitals in Ethiopia. A wound\nculture was performed among 752 SSI patients. This study isolated S. aureus and identiﬁed MRSA\nusing standard bacteriology, Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass\nSpectrometry (MALDI-TOF MS), and cefoxitin disk diffusion test. The genes mecA, femA, vanA, and\nvanB were detected through PCR tests. S. aureus was identiﬁed in 21.6% of participants, with 24.5%\nof these being methicillin-resistant Staphylococci and 0.6% showing vancomycin resistance. Using\nMALDI-TOF MS for the 40 methicillin-resistant Staphylococci, we conﬁrmed that 31 (77.5%) were\nS. aureus, 6 (15%) were Mammaliicoccus sciuri, and the other 3 (2.5%) were Staphylococcus warneri,\nStaphylococcus epidermidis, and Staphylococcus haemolyticus. The gene mecA was detected from 27.5%\n(11/40) of Staphylococci through PCR. Only 36.4% (4/11) were detected in S. aureus, and no vanA\nor vanB genes were identiﬁed. Out of 11 mecA-gene-positive Staphylococci, 8 (72.7%) were detected\nin Debre Tabor Comprehensive Specialized Hospital. Methicillin-resistant staphylococcal infections\nwere associated with the following risk factors: age ≥61 years, prolonged duration of hospital\nstay, and history of previous antibiotic use, p-values < 0.05. Hospitals should strengthen infection\nprevention and control strategies and start antimicrobial stewardship programs.\nKeywords: surgical site infection; methicillin-resistant Staphylococci; molecular epidemiology; antimicrobial\nresistance; Ethiopia\n1. Introduction\nStaphylococcus aureus (S. aureus) is a Gram-positive coccus that causes signiﬁcant\ninfections worldwide, including bacteremia, endocarditis, osteomyelitis, and skin and\nsoft tissue infections, due to its easy transmission and commensal nature [1]. Not only\nS. aureus but also coagulase-negative Staphylococci (CoNS), which currently are deﬁned\nas more than 40 species, are frequently associated with opportunistic human infections.\nAntibiotics 2023, 12, 1681. https://doi.org/10.3390/antibiotics12121681\nhttps://www.mdpi.com/journal/antibiotics\n",
+   "n_chars": 4488,
+   "n_images": 5,
+   "blocks": [
+    {
+     "bbox": [
+      35.7,
+      435.0,
+      129.5,
+      442.0
+     ],
+     "text": "Citation: Worku, S.; Abebe, T.;\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      447.0,
+      151.7,
+      453.9
+     ],
+     "text": "Seyoum, B.; Alemu, A.; Shimelash, Y.;\n"
+    },
+    {
+     "bbox": [
+      35.5,
+      458.9,
+      148.0,
+      465.8
+     ],
+     "text": "Yimer, M.; Abdissa, A.; Beyene, G.T.;\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      470.8,
+      144.3,
+      477.8
+     ],
+     "text": "Swedberg, G.; Mihret, A. Molecular\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      482.7,
+      149.3,
+      489.7
+     ],
+     "text": "Epidemiology of Methicillin-Resistant\n"
+    },
+    {
+     "bbox": [
+      35.5,
+      494.6,
+      148.6,
+      501.6
+     ],
+     "text": "Staphylococcus aureus among Patients\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      506.6,
+      124.7,
+      513.5
+     ],
+     "text": "Diagnosed with Surgical Site\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      518.5,
+      126.1,
+      525.5
+     ],
+     "text": "Infection at Four Hospitals in\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      530.4,
+      142.3,
+      537.4
+     ],
+     "text": "Ethiopia. Antibiotics 2023, 12, 1681.\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      542.4,
+      114.9,
+      549.3
+     ],
+     "text": "https://doi.org/10.3390/\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      554.3,
+      95.5,
+      561.2
+     ],
+     "text": "antibiotics12121681\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      572.2,
+      122.3,
+      579.1
+     ],
+     "text": "Academic Editor: Samantha\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      584.1,
+      80.1,
+      591.1
+     ],
+     "text": "Flores-Treviño\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      603.0,
+      116.6,
+      610.0
+     ],
+     "text": "Received: 31 October 2023\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      614.9,
+      121.5,
+      621.9
+     ],
+     "text": "Revised: 22 November 2023\n"
+    },
+    {
+     "bbox": [
+      35.4,
+      626.9,
+      125.8,
+      633.8
+     ],
+     "text": "Accepted: 23 November 2023\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      638.8,
+      128.0,
+      645.7
+     ],
+     "text": "Published: 29 November 2023\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      683.7,
+      153.2,
+      690.6
+     ],
+     "text": "Copyright:\n© 2023 by the authors.\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      695.6,
+      153.2,
+      702.5
+     ],
+     "text": "Licensee MDPI, Basel, Switzerland.\n"
+    },
+    {
+     "bbox": [
+      35.5,
+      707.5,
+      151.9,
+      714.5
+     ],
+     "text": "This article is an open access article\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      719.4,
+      151.9,
+      726.4
+     ],
+     "text": "distributed\nunder\nthe\nterms\nand\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      731.4,
+      151.9,
+      738.3
+     ],
+     "text": "conditions of the Creative Commons\n"
+    },
+    {
+     "bbox": [
+      35.4,
+      743.3,
+      153.2,
+      750.2
+     ],
+     "text": "Attribution (CC BY) license (https://\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      755.2,
+      146.2,
+      762.2
+     ],
+     "text": "creativecommons.org/licenses/by/\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      767.1,
+      52.7,
+      774.1
+     ],
+     "text": "4.0/).\n"
+    },
+    {
+     "bbox": [
+      74.3,
+      59.1,
+      165.5,
+      73.8
+     ],
+     "text": "antibiotics\n"
+    },
+    {
+     "bbox": [
+      35.2,
+      106.0,
+      554.9,
+      155.7
+     ],
+     "text": "Article\nMolecular Epidemiology of Methicillin-Resistant\nStaphylococcus aureus among Patients Diagnosed with Surgical\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      157.0,
+      387.3,
+      174.5
+     ],
+     "text": "Site Infection at Four Hospitals in Ethiopia\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      187.4,
+      543.6,
+      211.5
+     ],
+     "text": "Seble Worku 1,2,3,*, Tamrat Abebe 1, Berhanu Seyoum 3, AshenaﬁAlemu 3\n, Yidenek Shimelash 4,\nMarechign Yimer 3, Alemseged Abdissa 3, Getachew Tesfaye Beyene 3, Göte Swedberg 5\nand Adane Mihret 1,3\n"
+    },
+    {
+     "bbox": [
+      165.7,
+      234.4,
+      560.1,
+      372.9
+     ],
+     "text": "1\nDepartment of Microbiology, Immunology and Parasitology, School of Medicine, College of Health Sciences,\nAddis Ababa University, Addis Ababa 1165, Ethiopia; tamrat.abebe@aau.edu.et (T.A.);\nadane.mihret@ahri.gov.et (A.M.)\n2\nDepartment of Medical Laboratory Science, College of Health Sciences, Debre Tabor University,\nDebre Tabor P.O. Box 272, Ethiopia\n3\nBacterial and Viral Diseases Research Directorate, Armauer Hansen Research Institute,\nAddis Ababa 1165, Ethiopia; berhanu.seyoum@ahri.gov.et (B.S.); ashenaﬁalemu07@gmail.com (A.A.);\nmarechign01@yahoo.com (M.Y.); alemseged.abdissa@ahri.gov.et (A.A.); getachew.tesfaye@ahri.gov.et (G.T.B.)\n4\nDebre Tabor Comprehensive Specialized Hospital, Debre Tabor P.O. Box 272, Ethiopia;\nyidenek.shim2008@gmail.com\n5\nDepartment of Medical Biochemistry and Microbiology, Uppsala University, 750 08 Uppsala, Sweden;\ngote.swedberg@imbim.uu.se\n*\nCorrespondence: workuseble@ymail.com; Tel.: +251-911782487\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      389.9,
+      560.4,
+      619.5
+     ],
+     "text": "Abstract: Methicillin-resistant Staphylococcus aureus (MRSA) is a common cause of severe surgical\nsite infections (SSI). The molecular epidemiology of MRSA is poorly documented in Ethiopia. This\nstudy is designed to determine the prevalence of MRSA and associated factors among patients\ndiagnosed with SSI. A multicenter study was conducted at four hospitals in Ethiopia. A wound\nculture was performed among 752 SSI patients. This study isolated S. aureus and identiﬁed MRSA\nusing standard bacteriology, Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass\nSpectrometry (MALDI-TOF MS), and cefoxitin disk diffusion test. The genes mecA, femA, vanA, and\nvanB were detected through PCR tests. S. aureus was identiﬁed in 21.6% of participants, with 24.5%\nof these being methicillin-resistant Staphylococci and 0.6% showing vancomycin resistance. Using\nMALDI-TOF MS for the 40 methicillin-resistant Staphylococci, we conﬁrmed that 31 (77.5%) were\nS. aureus, 6 (15%) were Mammaliicoccus sciuri, and the other 3 (2.5%) were Staphylococcus warneri,\nStaphylococcus epidermidis, and Staphylococcus haemolyticus. The gene mecA was detected from 27.5%\n(11/40) of Staphylococci through PCR. Only 36.4% (4/11) were detected in S. aureus, and no vanA\nor vanB genes were identiﬁed. Out of 11 mecA-gene-positive Staphylococci, 8 (72.7%) were detected\nin Debre Tabor Comprehensive Specialized Hospital. Methicillin-resistant staphylococcal infections\nwere associated with the following risk factors: age ≥61 years, prolonged duration of hospital\nstay, and history of previous antibiotic use, p-values < 0.05. Hospitals should strengthen infection\nprevention and control strategies and start antimicrobial stewardship programs.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      635.4,
+      559.3,
+      657.4
+     ],
+     "text": "Keywords: surgical site infection; methicillin-resistant Staphylococci; molecular epidemiology; antimicrobial\nresistance; Ethiopia\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      697.9,
+      234.5,
+      707.6
+     ],
+     "text": "1. Introduction\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      713.3,
+      561.0,
+      773.5
+     ],
+     "text": "Staphylococcus aureus (S. aureus) is a Gram-positive coccus that causes signiﬁcant\ninfections worldwide, including bacteremia, endocarditis, osteomyelitis, and skin and\nsoft tissue infections, due to its easy transmission and commensal nature [1]. Not only\nS. aureus but also coagulase-negative Staphylococci (CoNS), which currently are deﬁned\nas more than 40 species, are frequently associated with opportunistic human infections.\n"
+    },
+    {
+     "bbox": [
+      35.4,
+      814.9,
+      559.3,
+      822.9
+     ],
+     "text": "Antibiotics 2023, 12, 1681. https://doi.org/10.3390/antibiotics12121681\nhttps://www.mdpi.com/journal/antibiotics\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "Antibiotics 2023, 12, 1681\n2 of 16\nS. epidermidis and S. haemolyticus are the major species of CoNS frequently isolated from\nclinical specimens [2]. Furthermore, Mammaliicoccus sciuri (previously called S. sciuri)\nis part of the normal ﬂora of goats and camels, and it is a rare opportunistic pathogen\nin humans [3]. S. aureus possesses a unique set of virulence factors, including toxins,\nenzymes, and metallophores, which enable it to survive extreme conditions, promote tissue\ncolonization, cause systemic infection, and evade the host’s immunity [4]. By utilizing\nmetallophores, this bacterium can sequester metal ions from its environment [5]. S. aureus\ninfections have previously been treated with beta-lactams, including penicillin and, later,\nmethicillin, as well as sulfonamides, tetracyclines, and macrolides [6]. However, antibiotic-\nresistant strains of S. aureus have developed due to repeated exposure to antibiotics, leading\nto an increase in methicillin-resistant S. aureus (MRSA) infections globally. MRSA is one\nof the most causative pathogens of surgical site infections (SSIs), and it is a prevalent\nbacterium that frequently colonizes hospital environments and causes hospital-acquired\ninfections [6] and community-acquired infections [7].\nMRSA is characterized by resistance to penicillins, cephalosporins, and carbapenems,\nwith the exception of the new anti-MRSA cephalosporins ceftaroline and ceftobiprole an-\ntimicrobial agents [6,8]. The main mechanism of resistance is an altered penicillin-binding\nprotein (PBP2a/c) encoded by the mecA gene [1]. The mecA gene is regarded as the gold\nstandard for identifying isolates of MRSA, and it is a helpful marker. It is highly con-\nserved in staphylococcal strains and acquired through horizontal gene transfer. mecA is\ncarried/located on the mobile genetic element staphylococcal cassette chromosome (SCC)\nmec, and it codes for the low-afﬁnity PBP2a [9]. Other chromosomal factors, such as the\nhigh-level expression of femA and femB, also seem to be essential for high-level methi-\ncillin resistance [10]. The current treatment options for more serious MRSA infections\nrequiring hospitalization include parenteral antimicrobials, such as teicoplanin, tigecy-\ncline, linezolid [8], trimethoprim–sulfamethoxazole, doxycycline, daptomycin [6], and\nvancomycin [8]. However, the majority of MRSA strains are capable of evolution and have\nacquired resistance to a variety of antibiotics, including those listed above [9,11].\nVancomycin resistance in MRSA was ﬁrst discovered in 1996 in Japan following a few\nyears of commercializing the antibiotic [12]. Vancomycin resistance is acquired through\nmutations and cell wall modiﬁcation [12,13] mediated by a vanA gene cluster that can\nbe acquired from vancomycin-resistant enterococcus (VRE) [11] through mobile genetic\nelements like transposonTn1546 [14]. Vancomycin-resistant S. aureus (VRSA) infections are\ntreated with antibiotics like tigecycline, quinupristin, daptomycin, ceftobiprole, iclaprim,\nlinezolid, and new glycopeptides (telavancin, oritavancin, and dabavancin) [15].\nGlobally, the prevalence of VRSA was 16% in Africa, 1% in Europe, 3% in South\nAmerica, 4% in North America, and 5% in Asia [16]. A systematic review and meta-analysis\nrevealed a highly variable prevalence of VRSA and MRSA in Ethiopian S. aureus isolates.\nThe MRSA prevalence ranged from 8.3% to 77.3% (with a pooled prevalence of 32.5%) [17].\nIn the same way, there was a 5.1% to 44.3% variation in VRSA prevalence. [18]. These\ndays, MRSA is considered a serious threat to public health, and it is one of the pathogens\nthat needs to be treated with high priority. However, the molecular epidemiology of\nMRSA and VRSA is less well documented in Ethiopia, and published reports on MRSA-\nand VRSA-causing SSIs are scarce. Furthermore, almost all earlier reports depend on\nphenotypic laboratory methods. Therefore, in this study, we used the Matrix-Assisted Laser\nDesorption/Ionization Time-of-Flight Mass Spectrometry (MALDI-TOF MS) technique for\nthe conﬁrmation of bacterial isolates and multiplex polymerase chain reaction (PCR) for\nthe detection of mecA, femA, vanA, and vanB.\n2. Results\nIn this study, a total of 752 participants were included. S. aureus was isolated from\n21.7% (163) of these participants. Following that, a cefoxitin disc diffusion test was used as\na substitute marker for oxacillin and other penicillinase-resistant penicillins to ascertain the\npercentage of MRSA.\n",
+   "n_chars": 4479,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      57.2,
+      559.3,
+      65.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n2 of 16\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      97.6,
+      560.9,
+      270.8
+     ],
+     "text": "S. epidermidis and S. haemolyticus are the major species of CoNS frequently isolated from\nclinical specimens [2]. Furthermore, Mammaliicoccus sciuri (previously called S. sciuri)\nis part of the normal ﬂora of goats and camels, and it is a rare opportunistic pathogen\nin humans [3]. S. aureus possesses a unique set of virulence factors, including toxins,\nenzymes, and metallophores, which enable it to survive extreme conditions, promote tissue\ncolonization, cause systemic infection, and evade the host’s immunity [4]. By utilizing\nmetallophores, this bacterium can sequester metal ions from its environment [5]. S. aureus\ninfections have previously been treated with beta-lactams, including penicillin and, later,\nmethicillin, as well as sulfonamides, tetracyclines, and macrolides [6]. However, antibiotic-\nresistant strains of S. aureus have developed due to repeated exposure to antibiotics, leading\nto an increase in methicillin-resistant S. aureus (MRSA) infections globally. MRSA is one\nof the most causative pathogens of surgical site infections (SSIs), and it is a prevalent\nbacterium that frequently colonizes hospital environments and causes hospital-acquired\ninfections [6] and community-acquired infections [7].\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      273.4,
+      560.9,
+      446.6
+     ],
+     "text": "MRSA is characterized by resistance to penicillins, cephalosporins, and carbapenems,\nwith the exception of the new anti-MRSA cephalosporins ceftaroline and ceftobiprole an-\ntimicrobial agents [6,8]. The main mechanism of resistance is an altered penicillin-binding\nprotein (PBP2a/c) encoded by the mecA gene [1]. The mecA gene is regarded as the gold\nstandard for identifying isolates of MRSA, and it is a helpful marker. It is highly con-\nserved in staphylococcal strains and acquired through horizontal gene transfer. mecA is\ncarried/located on the mobile genetic element staphylococcal cassette chromosome (SCC)\nmec, and it codes for the low-afﬁnity PBP2a [9]. Other chromosomal factors, such as the\nhigh-level expression of femA and femB, also seem to be essential for high-level methi-\ncillin resistance [10]. The current treatment options for more serious MRSA infections\nrequiring hospitalization include parenteral antimicrobials, such as teicoplanin, tigecy-\ncline, linezolid [8], trimethoprim–sulfamethoxazole, doxycycline, daptomycin [6], and\nvancomycin [8]. However, the majority of MRSA strains are capable of evolution and have\nacquired resistance to a variety of antibiotics, including those listed above [9,11].\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      449.2,
+      560.5,
+      534.4
+     ],
+     "text": "Vancomycin resistance in MRSA was ﬁrst discovered in 1996 in Japan following a few\nyears of commercializing the antibiotic [12]. Vancomycin resistance is acquired through\nmutations and cell wall modiﬁcation [12,13] mediated by a vanA gene cluster that can\nbe acquired from vancomycin-resistant enterococcus (VRE) [11] through mobile genetic\nelements like transposonTn1546 [14]. Vancomycin-resistant S. aureus (VRSA) infections are\ntreated with antibiotics like tigecycline, quinupristin, daptomycin, ceftobiprole, iclaprim,\nlinezolid, and new glycopeptides (telavancin, oritavancin, and dabavancin) [15].\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      537.0,
+      561.0,
+      697.6
+     ],
+     "text": "Globally, the prevalence of VRSA was 16% in Africa, 1% in Europe, 3% in South\nAmerica, 4% in North America, and 5% in Asia [16]. A systematic review and meta-analysis\nrevealed a highly variable prevalence of VRSA and MRSA in Ethiopian S. aureus isolates.\nThe MRSA prevalence ranged from 8.3% to 77.3% (with a pooled prevalence of 32.5%) [17].\nIn the same way, there was a 5.1% to 44.3% variation in VRSA prevalence. [18]. These\ndays, MRSA is considered a serious threat to public health, and it is one of the pathogens\nthat needs to be treated with high priority. However, the molecular epidemiology of\nMRSA and VRSA is less well documented in Ethiopia, and published reports on MRSA-\nand VRSA-causing SSIs are scarce. Furthermore, almost all earlier reports depend on\nphenotypic laboratory methods. Therefore, in this study, we used the Matrix-Assisted Laser\nDesorption/Ionization Time-of-Flight Mass Spectrometry (MALDI-TOF MS) technique for\nthe conﬁrmation of bacterial isolates and multiplex polymerase chain reaction (PCR) for\nthe detection of mecA, femA, vanA, and vanB.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      710.2,
+      210.7,
+      719.9
+     ],
+     "text": "2. Results\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      725.6,
+      559.3,
+      773.2
+     ],
+     "text": "In this study, a total of 752 participants were included. S. aureus was isolated from\n21.7% (163) of these participants. Following that, a cefoxitin disc diffusion test was used as\na substitute marker for oxacillin and other penicillinase-resistant penicillins to ascertain the\npercentage of MRSA.\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "Antibiotics 2023, 12, 1681\n3 of 16\nOf all participants, 5.3% (40/752) carried bacteria characterized as MRSA, while among\nisolates of S. aureus, the frequency of MRSA was 24.5% (Table 1). All methicillin-resistant\nisolates were also tested for vancomycin susceptibility. Except for one isolate (2.5%), all\ntested isolates for vancomycin were sensitive.\nTable 1. Antibiotic resistance pattern of S. aureus isolates from patients diagnosed with surgical site\ninfection at four different hospitals in Ethiopia between July 2020 and August 2021.\nAntibiotics\nMethods\nN (%), % = N/752\nN (%), % = N/163\nAST Results\nStrain\nCefoxitin\nI-Z ≥22 mm\n123 (16.4)\n123 (75.5)\nS\nMSSA\n≤21 mm\n40 (5.3)\n40 (24.5)\nR\nMRSA\nAbbreviations: S, susceptible; R, resistant; I, intermediate; I-Z, inhibition zone; MSSA, methicillin-sensitive S.\naureus; MRSA, methicillin-resistant S. aureus; AST, antimicrobial susceptibility test.\nThe age of study participants with MRSA ranged from 8 days to 85 years, with a mean\nage (±standard deviation) of 35 ± 28.3 years and a median of 30 years, and 58.3% (95) were\nmales. Fifty-nine (36.2%) of the participants received antimicrobial prophylaxis before the\nprocedure, and 47.2% (63) underwent surgeries lasting longer than an hour (Table 2).\nTable 2. Socio-demographic characteristics and clinical data of S. aureus among patients diagnosed\nwith SSI at four different hospitals in Ethiopia from July 2020 to August 2021.\nVariables/Characteristics\nFrequency of S. aureus (%)\nGender\nMale\n95 (58.3)\nFemale\n68 (41.7)\nAge in (years)\n≤18\n25 (20.9)\n19–40\n77 (54)\n41–60\n19 (13.5)\n≥61\n42 (11.7)\nSurgical site infection\nSuperﬁcial\n79 (48.5)\nDeep\n84 (51.5)\nPreoperative hospital stays\n<7\n77 (47.2)\n≥7\n86 (52.8)\nPrevious use of antibiotics\nYes\n79 (48.5)\nNo\n84 (51.5)\nSmoking\nYes\n16 (9.8)\nNo\n147 (90.1)\nAlcoholic\nYes\n48 (29.4)\nNo\n115 (70.6)\nNature of surgery\nEmergency\nElective\n55 (68.1)\n108 (31.9)\nType of surgery\nClean/Clean contaminated surgery\n148 (90.8)\nContaminated surgery\n15 (9.2)\nTiming of surgical antimicrobial\nprophylaxis\nBefore the operation\n59 (36.2)\nDuring the operation\n104 (63.8)\nDuration of operation\n<1 h\n100 (52.8)\n≥1 h\n63 (47.2)\nThe likelihood of MRSA SSI occurrence was about 3.7 times higher among patients\naged ≥61 (AOR = 3.729 (1.179–11.791)) compared to those aged ≤60. Similarly, the relative\nrisk of MRSA SSI occurrence was about 1.9 times more likely among patients who had\na hospital stay ≥7 days (AOR = 1.856 (0.688–5.311)). Also, those who had a history of\nantibiotic use had a 3.7 times higher risk of developing methicillin-resistant Staphylococci\ninfections (AOR = 3.692 (1.059–2.800)) than methicillin-sensitive S. aureus (MSSA) SSI. The\nlikelihood of SSI occurrence was about 3.16 times more likely among patients who had\nantimicrobial prophylaxis during the operation (AOR = 3.066 (1.101–9.392)) than those who\nhad antimicrobial prophylaxis before the operation. All p-value < 0.05 (Table 3).\n",
+   "n_chars": 2927,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      57.2,
+      559.3,
+      65.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n3 of 16\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      97.7,
+      559.3,
+      145.3
+     ],
+     "text": "Of all participants, 5.3% (40/752) carried bacteria characterized as MRSA, while among\nisolates of S. aureus, the frequency of MRSA was 24.5% (Table 1). All methicillin-resistant\nisolates were also tested for vancomycin susceptibility. Except for one isolate (2.5%), all\ntested isolates for vancomycin were sensitive.\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      160.7,
+      559.3,
+      182.6
+     ],
+     "text": "Table 1. Antibiotic resistance pattern of S. aureus isolates from patients diagnosed with surgical site\ninfection at four different hospitals in Ethiopia between July 2020 and August 2021.\n"
+    },
+    {
+     "bbox": [
+      56.4,
+      196.8,
+      527.8,
+      205.5
+     ],
+     "text": "Antibiotics\nMethods\nN (%), % = N/752\nN (%), % = N/163\nAST Results\nStrain\n"
+    },
+    {
+     "bbox": [
+      60.1,
+      211.9,
+      528.5,
+      232.4
+     ],
+     "text": "Cefoxitin\nI-Z ≥22 mm\n123 (16.4)\n123 (75.5)\nS\nMSSA\n≤21 mm\n40 (5.3)\n40 (24.5)\nR\nMRSA\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      238.6,
+      560.3,
+      256.1
+     ],
+     "text": "Abbreviations: S, susceptible; R, resistant; I, intermediate; I-Z, inhibition zone; MSSA, methicillin-sensitive S.\naureus; MRSA, methicillin-resistant S. aureus; AST, antimicrobial susceptibility test.\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      273.5,
+      559.3,
+      321.1
+     ],
+     "text": "The age of study participants with MRSA ranged from 8 days to 85 years, with a mean\nage (±standard deviation) of 35 ± 28.3 years and a median of 30 years, and 58.3% (95) were\nmales. Fifty-nine (36.2%) of the participants received antimicrobial prophylaxis before the\nprocedure, and 47.2% (63) underwent surgeries lasting longer than an hour (Table 2).\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      336.5,
+      559.3,
+      358.4
+     ],
+     "text": "Table 2. Socio-demographic characteristics and clinical data of S. aureus among patients diagnosed\nwith SSI at four different hospitals in Ethiopia from July 2020 to August 2021.\n"
+    },
+    {
+     "bbox": [
+      265.2,
+      369.7,
+      542.9,
+      376.7
+     ],
+     "text": "Variables/Characteristics\nFrequency of S. aureus (%)\n"
+    },
+    {
+     "bbox": [
+      216.3,
+      389.4,
+      240.3,
+      396.2
+     ],
+     "text": "Gender\n"
+    },
+    {
+     "bbox": [
+      358.7,
+      382.6,
+      513.8,
+      389.5
+     ],
+     "text": "Male\n95 (58.3)\n"
+    },
+    {
+     "bbox": [
+      355.3,
+      395.4,
+      513.8,
+      402.3
+     ],
+     "text": "Female\n68 (41.7)\n"
+    },
+    {
+     "bbox": [
+      206.4,
+      420.0,
+      250.6,
+      426.8
+     ],
+     "text": "Age in (years)\n"
+    },
+    {
+     "bbox": [
+      357.7,
+      407.7,
+      513.8,
+      439.0
+     ],
+     "text": "≤18\n25 (20.9)\n19–40\n77 (54)\n41–60\n19 (13.5)\n≥61\n42 (11.7)\n"
+    },
+    {
+     "bbox": [
+      193.4,
+      444.8,
+      513.8,
+      459.7
+     ],
+     "text": "Surgical site infection\nSuperﬁcial\n79 (48.5)\nDeep\n84 (51.5)\n"
+    },
+    {
+     "bbox": [
+      185.5,
+      465.6,
+      513.8,
+      480.5
+     ],
+     "text": "Preoperative hospital stays\n<7\n77 (47.2)\n≥7\n86 (52.8)\n"
+    },
+    {
+     "bbox": [
+      186.1,
+      486.3,
+      513.8,
+      501.2
+     ],
+     "text": "Previous use of antibiotics\nYes\n79 (48.5)\nNo\n84 (51.5)\n"
+    },
+    {
+     "bbox": [
+      213.7,
+      507.0,
+      515.5,
+      522.0
+     ],
+     "text": "Smoking\nYes\n16 (9.8)\nNo\n147 (90.1)\n"
+    },
+    {
+     "bbox": [
+      212.8,
+      527.8,
+      515.5,
+      542.7
+     ],
+     "text": "Alcoholic\nYes\n48 (29.4)\nNo\n115 (70.6)\n"
+    },
+    {
+     "bbox": [
+      200.2,
+      548.5,
+      383.9,
+      559.4
+     ],
+     "text": "Nature of surgery\nEmergency\n"
+    },
+    {
+     "bbox": [
+      354.3,
+      556.5,
+      378.6,
+      563.5
+     ],
+     "text": "Elective\n"
+    },
+    {
+     "bbox": [
+      486.3,
+      548.5,
+      515.3,
+      563.5
+     ],
+     "text": "55 (68.1)\n108 (31.9)\n"
+    },
+    {
+     "bbox": [
+      203.4,
+      569.3,
+      515.5,
+      584.2
+     ],
+     "text": "Type of surgery\nClean/Clean contaminated surgery\n148 (90.8)\nContaminated surgery\n15 (9.2)\n"
+    },
+    {
+     "bbox": [
+      176.5,
+      590.1,
+      279.8,
+      596.9
+     ],
+     "text": "Timing of surgical antimicrobial\n"
+    },
+    {
+     "bbox": [
+      209.2,
+      598.1,
+      247.1,
+      604.9
+     ],
+     "text": "prophylaxis\n"
+    },
+    {
+     "bbox": [
+      333.8,
+      590.0,
+      515.5,
+      604.9
+     ],
+     "text": "Before the operation\n59 (36.2)\nDuring the operation\n104 (63.8)\n"
+    },
+    {
+     "bbox": [
+      193.4,
+      610.7,
+      515.5,
+      625.7
+     ],
+     "text": "Duration of operation\n<1 h\n100 (52.8)\n≥1 h\n63 (47.2)\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      646.0,
+      559.3,
+      756.4
+     ],
+     "text": "The likelihood of MRSA SSI occurrence was about 3.7 times higher among patients\naged ≥61 (AOR = 3.729 (1.179–11.791)) compared to those aged ≤60. Similarly, the relative\nrisk of MRSA SSI occurrence was about 1.9 times more likely among patients who had\na hospital stay ≥7 days (AOR = 1.856 (0.688–5.311)). Also, those who had a history of\nantibiotic use had a 3.7 times higher risk of developing methicillin-resistant Staphylococci\ninfections (AOR = 3.692 (1.059–2.800)) than methicillin-sensitive S. aureus (MSSA) SSI. The\nlikelihood of SSI occurrence was about 3.16 times more likely among patients who had\nantimicrobial prophylaxis during the operation (AOR = 3.066 (1.101–9.392)) than those who\nhad antimicrobial prophylaxis before the operation. All p-value < 0.05 (Table 3).\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Antibiotics 2023, 12, 1681\n4 of 16\nTable 3. Bivariate and multivariate analysis for identiﬁcation of methicillin resistance Staphylococci predictors among patients diagnosed with surgical site infection\nat four different hospitals in Ethiopia from July 2020 to August 2021.\nCharacteristics\nBacterial Growth\np-Value\nCrude-OR (95%CI)\nAdjusted-OR (95%CI)\np-Value\nMRSA\nMSSA\nGender\nMale\n29 (17.8)\n66 (40.5)\n0.039\n2.276 (1.0444–4.9633)\n1.638 (0.597–4.489)\n0.337\nFemale\n11 (6.7)\n57 (35)\n1\nAge in (years)\n≤18\n2 (1.2)\n23 (14.1)\n0.000\n2.788 (1.8716–4.154)\n0.556 (0.1014–3.046)\n0.499\n19–40\n11 (6.7)\n66 (40.5)\n1\n41–60\n2 (1.2)\n17 (10.4)\n1.556 (0.259–9.328)\n0.628\n≥61\n25 (15.3)\n17 (10.4)\n3.729 (1.179–11.791)\n0.025\nPreoperative hospital stays\n≤7\n13 (8)\n64 (39.3)\n0.034\n2.253 (1.064–4.771)\n1\n>7\n27 (16.7)\n59 (36.2)\n1.856 (0.688–5.311)\n0.000\nPrevious use of antibiotics\nYes\n26 (16)\n53 (32.5)\n3.692 (1.059–2.800)\n0.025\nNo\n14 (8.9)\n70 (42.9)\n0.001\n3.256 (1.724–7.634)\n1\nHistory of alcohol intake\nYes\n18 (11)\n30 (18.4)\n1.075 (0.1331–8.6925)\n0.945\nNo\n22 (13.5)\n93 (57.1)\n0.015\n2.536 (1.202–5.351)\n1\nNature of surgery\nElective\n16 (9.8)\n92 (56.4)\n1\nEmergency\n24 (14.7)\n31 (19)\n0.000\n4.452 (2.098–9.445)\n1.962 (0.0619–6.224)\n0.000\nTiming of surgical\nantimicrobial prophylaxis\nBefore the operation\n7 (4.3)\n57 (35)\n1\nAfter the operation\n33 (20.2)\n71(43.6)\n0.006\n3.453 (2.098–9.445)\n3.066 (1.001–9.392)\n0.05\nDuration of operation\n≤1 h\n19 (11.7)\n81 (49.7)\n1\n>1 h\n21 (12.9)\n42 (25.8)\n0.004\n2.132 (1.034–4.396)\n1.890 (0.6321–5.652)\n0.235\nBold: p-value statistically signiﬁcant association.\n",
+   "n_chars": 1560,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.7,
+      55.2,
+      805.9,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n4 of 16\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      89.4,
+      805.9,
+      111.2
+     ],
+     "text": "Table 3. Bivariate and multivariate analysis for identiﬁcation of methicillin resistance Staphylococci predictors among patients diagnosed with surgical site infection\nat four different hospitals in Ethiopia from July 2020 to August 2021.\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      131.5,
+      102.2,
+      140.2
+     ],
+     "text": "Characteristics\n"
+    },
+    {
+     "bbox": [
+      277.7,
+      123.2,
+      790.2,
+      132.2
+     ],
+     "text": "Bacterial Growth\np-Value\nCrude-OR (95%CI)\nAdjusted-OR (95%CI)\np-Value\n"
+    },
+    {
+     "bbox": [
+      277.7,
+      139.2,
+      400.8,
+      147.9
+     ],
+     "text": "MRSA\nMSSA\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      163.0,
+      72.9,
+      171.7
+     ],
+     "text": "Gender\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      154.9,
+      779.0,
+      163.8
+     ],
+     "text": "Male\n29 (17.8)\n66 (40.5)\n0.039\n2.276 (1.0444–4.9633)\n1.638 (0.597–4.489)\n0.337\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      170.6,
+      638.3,
+      179.6
+     ],
+     "text": "Female\n11 (6.7)\n57 (35)\n1\n"
+    },
+    {
+     "bbox": [
+      41.6,
+      209.9,
+      98.4,
+      218.6
+     ],
+     "text": "Age in (years)\n"
+    },
+    {
+     "bbox": [
+      181.5,
+      185.8,
+      779.0,
+      195.3
+     ],
+     "text": "≤18\n2 (1.2)\n23 (14.1)\n0.000\n2.788 (1.8716–4.154)\n0.556 (0.1014–3.046)\n0.499\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      202.1,
+      638.3,
+      211.1
+     ],
+     "text": "19–40\n11 (6.7)\n66 (40.5)\n1\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      217.9,
+      779.0,
+      226.9
+     ],
+     "text": "41–60\n2 (1.2)\n17 (10.4)\n1.556 (0.259–9.328)\n0.628\n"
+    },
+    {
+     "bbox": [
+      181.5,
+      233.1,
+      779.0,
+      242.6
+     ],
+     "text": "≥61\n25 (15.3)\n17 (10.4)\n3.729 (1.179–11.791)\n0.025\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      257.6,
+      152.0,
+      266.3
+     ],
+     "text": "Preoperative hospital stays\n"
+    },
+    {
+     "bbox": [
+      181.5,
+      248.8,
+      638.3,
+      258.4
+     ],
+     "text": "≤7\n13 (8)\n64 (39.3)\n0.034\n2.253 (1.064–4.771)\n1\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      265.2,
+      779.0,
+      274.1
+     ],
+     "text": ">7\n27 (16.7)\n59 (36.2)\n1.856 (0.688–5.311)\n0.000\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      290.2,
+      150.3,
+      298.9
+     ],
+     "text": "Previous use of antibiotics\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      281.0,
+      779.0,
+      289.9
+     ],
+     "text": "Yes\n26 (16)\n53 (32.5)\n3.692 (1.059–2.800)\n0.025\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      296.7,
+      638.3,
+      305.7
+     ],
+     "text": "No\n14 (8.9)\n70 (42.9)\n0.001\n3.256 (1.724–7.634)\n1\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      320.6,
+      143.8,
+      329.3
+     ],
+     "text": "History of alcohol intake\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      312.5,
+      779.0,
+      321.4
+     ],
+     "text": "Yes\n18 (11)\n30 (18.4)\n1.075 (0.1331–8.6925)\n0.945\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      328.2,
+      638.3,
+      337.2
+     ],
+     "text": "No\n22 (13.5)\n93 (57.1)\n0.015\n2.536 (1.202–5.351)\n1\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      352.1,
+      114.2,
+      360.9
+     ],
+     "text": "Nature of surgery\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      344.0,
+      638.3,
+      352.9
+     ],
+     "text": "Elective\n16 (9.8)\n92 (56.4)\n1\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      359.8,
+      779.0,
+      368.7
+     ],
+     "text": "Emergency\n24 (14.7)\n31 (19)\n0.000\n4.452 (2.098–9.445)\n1.962 (0.0619–6.224)\n0.000\n"
+    },
+    {
+     "bbox": [
+      41.7,
+      378.2,
+      148.3,
+      397.9
+     ],
+     "text": "Timing of surgical\nantimicrobial prophylaxis\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      375.5,
+      638.3,
+      384.5
+     ],
+     "text": "Before the operation\n7 (4.3)\n57 (35)\n1\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      391.3,
+      774.5,
+      400.2
+     ],
+     "text": "After the operation\n33 (20.2)\n71(43.6)\n0.006\n3.453 (2.098–9.445)\n3.066 (1.001–9.392)\n0.05\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      415.2,
+      131.6,
+      423.9
+     ],
+     "text": "Duration of operation\n"
+    },
+    {
+     "bbox": [
+      181.5,
+      406.4,
+      638.3,
+      416.0
+     ],
+     "text": "≤1 h\n19 (11.7)\n81 (49.7)\n1\n"
+    },
+    {
+     "bbox": [
+      181.4,
+      422.8,
+      779.0,
+      431.7
+     ],
+     "text": ">1 h\n21 (12.9)\n42 (25.8)\n0.004\n2.132 (1.034–4.396)\n1.890 (0.6321–5.652)\n0.235\n"
+    },
+    {
+     "bbox": [
+      166.7,
+      438.0,
+      336.9,
+      446.0
+     ],
+     "text": "Bold: p-value statistically signiﬁcant association.\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "Antibiotics 2023, 12, 1681\n5 of 16\n2.1. MALDI-TOF MS Identiﬁcation of Methicillin-Resistant Staphylococcus Isolates\nOf the 40 phenotypic MRSA bacterial isolates, MALDI-TOF MS only identiﬁed 77.5%\n(31/40) as S. aureus, while 6 were identiﬁed as M. sciuri, and the other three as S. warneri,\nS. epidermidis, and S. haemolyticus (Figure 1). The majority (70%) of methicillin-resistant\nStaphylococcus isolates were identiﬁed from Debre Tabor Comprehensive Specialized\nHospital (Figure 2) with 47.5% as S. aureus, 15% as M. sciuri, 2.5% as S. warneri, 2.5% as\nS. epidermidis and 2.5% as S. haemolyticus.\n31\n6\n1 1 1\nFrequency \nS. aureus\nM. sciuri\nS. warneri\nS. haemolyticus\nS. epidermidis\nFigure 1. Frequency of methicillin-resistant Staphylococci isolates from patients diagnosed with\nsurgical site infection at four different hospitals in Ethiopia using MALDI-TOF MS between July 2020\nand August 2021.\nFigure 2. Frequencies of MALDI-TOF MS identiﬁcation and distribution of phenotypic methicillin-\nresistant Staphylococci and M. sciuri isolates at each hospital between July 2020 and August 2021.\nDTCSH: Debre Tabor Comprehensive Specialized Hospital; HUCSH: Hawassa University Compre-\nhensive Specialized Hospital; JUTSH: Jimma University Teaching Specialized Hospital; TASH: Tikur\nAnbessa Specialized Hospital.\n",
+   "n_chars": 1308,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      55.2,
+      559.3,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n5 of 16\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      89.6,
+      508.1,
+      99.5
+     ],
+     "text": "2.1. MALDI-TOF MS Identiﬁcation of Methicillin-Resistant Staphylococcus Isolates\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      105.3,
+      560.5,
+      178.0
+     ],
+     "text": "Of the 40 phenotypic MRSA bacterial isolates, MALDI-TOF MS only identiﬁed 77.5%\n(31/40) as S. aureus, while 6 were identiﬁed as M. sciuri, and the other three as S. warneri,\nS. epidermidis, and S. haemolyticus (Figure 1). The majority (70%) of methicillin-resistant\nStaphylococcus isolates were identiﬁed from Debre Tabor Comprehensive Specialized\nHospital (Figure 2) with 47.5% as S. aureus, 15% as M. sciuri, 2.5% as S. warneri, 2.5% as\nS. epidermidis and 2.5% as S. haemolyticus.\n"
+    },
+    {
+     "bbox": [
+      298.4,
+      374.1,
+      308.4,
+      384.2
+     ],
+     "text": "31\n"
+    },
+    {
+     "bbox": [
+      192.0,
+      271.3,
+      197.0,
+      281.4
+     ],
+     "text": "6\n"
+    },
+    {
+     "bbox": [
+      224.2,
+      241.3,
+      252.5,
+      256.7
+     ],
+     "text": "1 1 1\n"
+    },
+    {
+     "bbox": [
+      279.0,
+      191.1,
+      329.4,
+      201.2
+     ],
+     "text": "Frequency \n"
+    },
+    {
+     "bbox": [
+      399.3,
+      220.1,
+      439.3,
+      230.3
+     ],
+     "text": "S. aureus\n"
+    },
+    {
+     "bbox": [
+      399.3,
+      239.4,
+      438.8,
+      249.6
+     ],
+     "text": "M. sciuri\n"
+    },
+    {
+     "bbox": [
+      399.3,
+      258.8,
+      444.9,
+      269.0
+     ],
+     "text": "S. warneri\n"
+    },
+    {
+     "bbox": [
+      399.3,
+      278.2,
+      469.9,
+      288.3
+     ],
+     "text": "S. haemolyticus\n"
+    },
+    {
+     "bbox": [
+      399.3,
+      297.5,
+      462.1,
+      307.7
+     ],
+     "text": "S. epidermidis\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      418.8,
+      559.3,
+      453.4
+     ],
+     "text": "Figure 1. Frequency of methicillin-resistant Staphylococci isolates from patients diagnosed with\nsurgical site infection at four different hospitals in Ethiopia using MALDI-TOF MS between July 2020\nand August 2021.\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      693.5,
+      560.8,
+      753.7
+     ],
+     "text": "Figure 2. Frequencies of MALDI-TOF MS identiﬁcation and distribution of phenotypic methicillin-\nresistant Staphylococci and M. sciuri isolates at each hospital between July 2020 and August 2021.\nDTCSH: Debre Tabor Comprehensive Specialized Hospital; HUCSH: Hawassa University Compre-\nhensive Specialized Hospital; JUTSH: Jimma University Teaching Specialized Hospital; TASH: Tikur\nAnbessa Specialized Hospital.\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "Antibiotics 2023, 12, 1681\n6 of 16\n2.2. PCR ampliﬁcation of mecA, femA, van A, and vanB\nDetection of mecA, femA, van A, and vanB was performed for all MRSA and methicillin-\nresistant Staphylococci other than S. aureus (MRSOSA). The PCR tests revealed that 27.5%\n(11/40) contained the mecA gene, 25% (10/40) were both mecA- and femA- positive, and\n92.5% (37/40) showed the femA gene (Figure 3). On the other hand, from all eleven isolates\nthat contained the mecA gene only, four were S. aureus, whereas ﬁve were M. sciuri, one\nwas S. warneri, and one was S. haemolyticus, respectively (Figure 4 and Table 4). Among\nS. aureus isolates, only 12.9% (4/31) carried the mecA gene (MRSA), whereas 83.3% (5/6) of\nM. sciuri and both S. warneri and S. haemolyticus isolates carried mecA (Figure 3).\nFigure 3. Frequency and distribution of cefoxitin resistance and PCR-confirmed gene among each\nStaphylococci isolate in patient diagnosed with surgical site infection between July 2020 and August 2021.\nTable 4. Presentation of the cefoxitin and vancomycin resistance patterns of mecA carrying Staphylo-\ncocci, and the distribution of femA and van genes among patients diagnosed with SSI at four different\nhospitals in Ethiopia from July 2020 to August 2021.\nLane (mecApos)\nMALDI-TOF MS\nStudy Site\nCefoxitin\nVancomycin\nfemA\nmecA\nvanA and vanB\n1\nS. aureus\nDTCSH\nR\nS\nPos\nPos\nNeg\n5\nS. aureus\nJUTSH\nR\nS\nPos\nPos\nNeg\n7\nM. sciuri\nDTCSH\nR\nS\nPos\nPos\nNeg\n11\nS. haemolyticus\nDTCSH\nR\nR\nPos\nPos\nNeg\n12\nS. warneri\nDTCSH\nR\nS\nPos\nPos\nNeg\n18\nS. aureus\nTASH\nR\nS\nPos\nPos\nNeg\n19\nS. aureus\nHUCSH\nR\nS\nPos\nPos\nNeg\n23\nM. sciuri\nDTCSH\nR\nS\nPos\nPos\nNeg\n24\nM. sciuri\nDTCSH\nR\nS\nPos\nPos\nNeg\n29\nM. sciuri\nDTCSH\nR\nS\nPos\nPos\nNeg\n31\nM. sciuri\nDTCSH\nR\nS\nNeg\nPos\nNeg\n",
+   "n_chars": 1718,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      55.2,
+      559.3,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n6 of 16\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      95.6,
+      393.5,
+      105.4
+     ],
+     "text": "2.2. PCR ampliﬁcation of mecA, femA, van A, and vanB\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      111.2,
+      560.9,
+      209.1
+     ],
+     "text": "Detection of mecA, femA, van A, and vanB was performed for all MRSA and methicillin-\nresistant Staphylococci other than S. aureus (MRSOSA). The PCR tests revealed that 27.5%\n(11/40) contained the mecA gene, 25% (10/40) were both mecA- and femA- positive, and\n92.5% (37/40) showed the femA gene (Figure 3). On the other hand, from all eleven isolates\nthat contained the mecA gene only, four were S. aureus, whereas ﬁve were M. sciuri, one\nwas S. warneri, and one was S. haemolyticus, respectively (Figure 4 and Table 4). Among\nS. aureus isolates, only 12.9% (4/31) carried the mecA gene (MRSA), whereas 83.3% (5/6) of\nM. sciuri and both S. warneri and S. haemolyticus isolates carried mecA (Figure 3).\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      522.7,
+      559.3,
+      544.5
+     ],
+     "text": "Figure 3. Frequency and distribution of cefoxitin resistance and PCR-confirmed gene among each\nStaphylococci isolate in patient diagnosed with surgical site infection between July 2020 and August 2021.\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      561.3,
+      560.8,
+      595.9
+     ],
+     "text": "Table 4. Presentation of the cefoxitin and vancomycin resistance patterns of mecA carrying Staphylo-\ncocci, and the distribution of femA and van genes among patients diagnosed with SSI at four different\nhospitals in Ethiopia from July 2020 to August 2021.\n"
+    },
+    {
+     "bbox": [
+      47.0,
+      609.6,
+      546.8,
+      617.5
+     ],
+     "text": "Lane (mecApos)\nMALDI-TOF MS\nStudy Site\nCefoxitin\nVancomycin\nfemA\nmecA\nvanA and vanB\n"
+    },
+    {
+     "bbox": [
+      71.6,
+      623.9,
+      526.5,
+      726.6
+     ],
+     "text": "1\nS. aureus\nDTCSH\nR\nS\nPos\nPos\nNeg\n5\nS. aureus\nJUTSH\nR\nS\nPos\nPos\nNeg\n7\nM. sciuri\nDTCSH\nR\nS\nPos\nPos\nNeg\n11\nS. haemolyticus\nDTCSH\nR\nR\nPos\nPos\nNeg\n12\nS. warneri\nDTCSH\nR\nS\nPos\nPos\nNeg\n18\nS. aureus\nTASH\nR\nS\nPos\nPos\nNeg\n19\nS. aureus\nHUCSH\nR\nS\nPos\nPos\nNeg\n23\nM. sciuri\nDTCSH\nR\nS\nPos\nPos\nNeg\n24\nM. sciuri\nDTCSH\nR\nS\nPos\nPos\nNeg\n29\nM. sciuri\nDTCSH\nR\nS\nPos\nPos\nNeg\n31\nM. sciuri\nDTCSH\nR\nS\nNeg\nPos\nNeg\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "Antibiotics 2023, 12, 1681\n7 of 16\n \nFigure 4. (A,B) Agarose gel electrophoresis showing bands of femA and mecA genes of methicillin-\nresistant Staphylococcic strains from patients diagnosed with surgical site infection at four different\nhospitals in Ethiopia; lane M1: 100 bp molecular weight ladder; lane PC: positive control; lanes 1–40\nare tested isolates, and positive ampliﬁcation of femA and mecA is indicated by 132 bp and 310 bp\nPCR amplicons, respectively.\nThe 11 isolates that contained the mecA gene, as shown in Figure 4A,B, were S. aureus\n(lanes 1, 5, 18, and 19), M. sciuri (lanes 7, 23, 24, 29, and 31), S. hemolyticus (lane 11), and\nS. warneri (lane 12). These were analyzed for vanA and vanB, and none of these isolates\nshowed vanA or vanB in the gel electrophoresis (Table 5).\nMost of the isolates carrying both the mecA and femA gene were reported from De-\nbre Tabor (Figure 5). At Debre Tabor Comprehensive Specialized Hospital, 72.7% of\nmecA-positive, 70% of cefoxitin-resistant, and 67.7% of femA-positive Staphylococci were\ndiscovered (Figure 5).\n",
+   "n_chars": 1070,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      55.2,
+      559.3,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n7 of 16\n"
+    },
+    {
+     "bbox": [
+      520.9,
+      529.8,
+      523.4,
+      540.3
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      166.4,
+      548.6,
+      560.8,
+      608.9
+     ],
+     "text": "Figure 4. (A,B) Agarose gel electrophoresis showing bands of femA and mecA genes of methicillin-\nresistant Staphylococcic strains from patients diagnosed with surgical site infection at four different\nhospitals in Ethiopia; lane M1: 100 bp molecular weight ladder; lane PC: positive control; lanes 1–40\nare tested isolates, and positive ampliﬁcation of femA and mecA is indicated by 132 bp and 310 bp\nPCR amplicons, respectively.\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      621.5,
+      559.3,
+      669.2
+     ],
+     "text": "The 11 isolates that contained the mecA gene, as shown in Figure 4A,B, were S. aureus\n(lanes 1, 5, 18, and 19), M. sciuri (lanes 7, 23, 24, 29, and 31), S. hemolyticus (lane 11), and\nS. warneri (lane 12). These were analyzed for vanA and vanB, and none of these isolates\nshowed vanA or vanB in the gel electrophoresis (Table 5).\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      671.7,
+      560.9,
+      719.4
+     ],
+     "text": "Most of the isolates carrying both the mecA and femA gene were reported from De-\nbre Tabor (Figure 5). At Debre Tabor Comprehensive Specialized Hospital, 72.7% of\nmecA-positive, 70% of cefoxitin-resistant, and 67.7% of femA-positive Staphylococci were\ndiscovered (Figure 5).\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "Antibiotics 2023, 12, 1681\n8 of 16\n \nFigure 5. Frequency and distribution of cefoxitin-resistant isolates and mecA and femA genes from the\ntotal number of Staphylococci and M. sciuri isolates at each hospital between July 2020 and August\n2021. DTCSH: Debre Tabor Comprehensive Specialized Hospital; HUCSH: Hawassa University\nComprehensive Specialized Hospital; JUTSH: Jimma University Teaching Specialized Hospital;\nTASH: Tikur Anbessa Specialized Hospital.\n3. Discussion\nMRSA is one of the primary bacteria responsible for surgical site infections [19]. The\nbacteria are human commensals [20], and they can cause a variety of infections, including\nsimple skin and wound infections; they can also infect visceral organs. If not diagnosed and\ntreated properly, many of these illnesses can quickly become life-threatening diseases [1].\nIn our study, among the 752 wound swab samples processed, we detected 21.7%\n(163/752) of S. aureus phenotypically. The present ﬁnding is similar to previous studies\nreported from Jimma Ethiopia (23.6%) [21] and Brazil (20%) [22]. On the other hand, this\nﬁnding is lower than those of studies conducted in other parts of Ethiopia, such as Dessie\n(34.5%) [23] and Debre Markos (39.7%) [24]. The variation in prevalence between studies\nmight be due to variations in the study subjects, the conducted time, and the method\nemployed for the detection of S. aureus [25].\nThe proportion of MRSA among the isolates based on disc diffusions was 24.5%\n(40/163). This study’s ﬁndings were similar to a previous study conducted in an Indian\nHospital (21.7%) [26]. On the other hand, the ﬁnding showed higher frequency than\nearlier studies in Ethiopia from Dessie (9.8%) [23] and Debre Markos (13.2%) [24], but\nit was below the national pooled prevalence estimate of Ethiopia (32.5%) [17], Addis\nAbaba (68.4%) [27], Arba Minch (82.3%) [28], and Nigeria (44%) [29]. Variations in MRSA\nprevalence across countries are inﬂuenced by demographics, antibiotic prescription policies,\ninfection prevention and control programs, staff and elderly hygiene education, healthcare\nsystem structure, and MRSA diagnostic facilities [30,31].\nFrom those tested for vancomycin resistance, one isolate had a minimum inhibitory\nconcentration for vancomycin greater than 8 µg/mL, and it was identiﬁed as a vancomycin-\nresistant Staphylococcus. This result was consistent with Pournajaf et al.’s [32] ﬁnding that\nvancomycin resistance was 2.5%, and this ﬁgure was lower than that from a review from\nEthiopia, where the pooled prevalence of VRSA was 5.3% [17], as well as the ﬁndings from\nDebre Markos (14.1%) [33] and elsewhere (29.4%) [34].\nFrom all methicillin-resistant Staphylococci, the mecA gene was carried by 27.5% of\nthe isolates. This ﬁnding was comparable with a study from Nigeria, where 30.5% of\nthe isolates carried the mecA gene [29]. In the present study, 12.9% of S. aureus carried\n",
+   "n_chars": 2896,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      55.2,
+      559.3,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n8 of 16\n"
+    },
+    {
+     "bbox": [
+      493.0,
+      312.0,
+      496.0,
+      325.3
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      166.1,
+      331.5,
+      560.4,
+      391.8
+     ],
+     "text": "Figure 5. Frequency and distribution of cefoxitin-resistant isolates and mecA and femA genes from the\ntotal number of Staphylococci and M. sciuri isolates at each hospital between July 2020 and August\n2021. DTCSH: Debre Tabor Comprehensive Specialized Hospital; HUCSH: Hawassa University\nComprehensive Specialized Hospital; JUTSH: Jimma University Teaching Specialized Hospital;\nTASH: Tikur Anbessa Specialized Hospital.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      402.5,
+      227.3,
+      412.2
+     ],
+     "text": "3. Discussion\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      417.9,
+      559.3,
+      465.5
+     ],
+     "text": "MRSA is one of the primary bacteria responsible for surgical site infections [19]. The\nbacteria are human commensals [20], and they can cause a variety of infections, including\nsimple skin and wound infections; they can also infect visceral organs. If not diagnosed and\ntreated properly, many of these illnesses can quickly become life-threatening diseases [1].\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      468.1,
+      560.1,
+      553.4
+     ],
+     "text": "In our study, among the 752 wound swab samples processed, we detected 21.7%\n(163/752) of S. aureus phenotypically. The present ﬁnding is similar to previous studies\nreported from Jimma Ethiopia (23.6%) [21] and Brazil (20%) [22]. On the other hand, this\nﬁnding is lower than those of studies conducted in other parts of Ethiopia, such as Dessie\n(34.5%) [23] and Debre Markos (39.7%) [24]. The variation in prevalence between studies\nmight be due to variations in the study subjects, the conducted time, and the method\nemployed for the detection of S. aureus [25].\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      556.0,
+      560.5,
+      666.4
+     ],
+     "text": "The proportion of MRSA among the isolates based on disc diffusions was 24.5%\n(40/163). This study’s ﬁndings were similar to a previous study conducted in an Indian\nHospital (21.7%) [26]. On the other hand, the ﬁnding showed higher frequency than\nearlier studies in Ethiopia from Dessie (9.8%) [23] and Debre Markos (13.2%) [24], but\nit was below the national pooled prevalence estimate of Ethiopia (32.5%) [17], Addis\nAbaba (68.4%) [27], Arba Minch (82.3%) [28], and Nigeria (44%) [29]. Variations in MRSA\nprevalence across countries are inﬂuenced by demographics, antibiotic prescription policies,\ninfection prevention and control programs, staff and elderly hygiene education, healthcare\nsystem structure, and MRSA diagnostic facilities [30,31].\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      669.0,
+      560.9,
+      741.7
+     ],
+     "text": "From those tested for vancomycin resistance, one isolate had a minimum inhibitory\nconcentration for vancomycin greater than 8 µg/mL, and it was identiﬁed as a vancomycin-\nresistant Staphylococcus. This result was consistent with Pournajaf et al.’s [32] ﬁnding that\nvancomycin resistance was 2.5%, and this ﬁgure was lower than that from a review from\nEthiopia, where the pooled prevalence of VRSA was 5.3% [17], as well as the ﬁndings from\nDebre Markos (14.1%) [33] and elsewhere (29.4%) [34].\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      744.2,
+      559.3,
+      779.4
+     ],
+     "text": "From all methicillin-resistant Staphylococci, the mecA gene was carried by 27.5% of\nthe isolates. This ﬁnding was comparable with a study from Nigeria, where 30.5% of\nthe isolates carried the mecA gene [29]. In the present study, 12.9% of S. aureus carried\n"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "text": "Antibiotics 2023, 12, 1681\n9 of 16\nthe mecA gene, which is lower than studies reported in Ethiopia (20%) [35], Bangladesh\n(25%) [36], Nigeria (38%) [29], and Iran (45.1%) [32]. It should be noted that the majority of\nisolates exhibiting the mecA gene were discovered in Debre Tabor. Eight (72.7%) of the ten\nmecA-positive isolates were detected at Debre Tabor Hospital. The reason might be poor\nsocioeconomic status, personal demographics, antibiotic prescription practice, and infection\ncontrol practices, which are associated with increased MRSA infection rates [30,31].\nIn our present study, the femA gene was detected in all S. aureus isolates, except two\ncefoxitin-resistant strains (6.7%). This ﬁnding was comparable with a study from China [37].\nAdditionally, in the present study, the femA gene was found in S. haemolyticus, S. warneri,\nand 83.3% of M. sciuri cefoxitin-resistant strains. On the other hand, neither mecA nor\nfemA were detected in S. epidermidis [37]. The primers used should be speciﬁc to S. aureus;\ntherefore, it is somewhat surprising that the two S. aureus lack the gene and that several\nother non-aureus isolates carry the gene. The explanation could be mutational changes in\nS. aureus and gene transfer to other species. All of these isolates have been sent for whole\ngenome sequencing, and this matter will be analyzed further when the results are ready.\nIt is interesting that a signiﬁcantly higher proportion of CoNS isolates harbour methi-\ncillin resistance genes, where 83.3% of M. sciuri and 50% of S. haemolyticus carried the mecA\ngene. This is in agreement with early reports that CoNS were the most common species in\nnosocomial infections and exhibit higher antibiotic resistance rates than S. aureus. This may\nbe explained by the high prevalence of methicillin resistance linked with staphylococcal\ncassette chromosome (SCCmec) elements in CoNS [38], and they are considered a major\nreservoir of SCCmec [39]. For instance, Berglund et al. described the likely transfer of\na type V SCCmec from methicillin-resistant S. haemolyticus to MSSA, thus transforming\ninto MRSA [9,40]. Another study revealed that the mecA homologue in M. sciuri may be\nan evolutionary precursor to MRSA pathogenic strains, highlighting the main routes of\nantibiotic resistance gene transfer [41]. Furthermore, the report demonstrated that MSSA\nbecome MRSA by acquiring SCCmec from S. epidermidis through horizontal transfer [42].\nThese accounts suggest that horizontal interspecies transfer of mobile genetic elements\ncould be a crucial element for MRSA global dissemination [40,41,43].\nThe absence of the mecA and vanA genes in the MRSA and VRSA samples does not\nimply the absence of resistance, as resistance may be due to other mutations or cassette-\ncontaining resistance genes [44]. Globally, resistant staphylococcal isolates lacking the\nmecA gene show the possibility for additional mechanisms to compete with mecA in the\nestablishment of MRSA [45,46]. MRSA’s resistance against beta-lactams and methicillin is\nfurther complicated by its ability to develop resistance to vancomycin through accidental\ntransmission of the vanA gene from Enterococcal strains [47]. Vancomycin is a glycopeptide\nantibiotic that prevents the formation of the peptidoglycan layer by binding to the peptide\nprecursor. Antibiotic overuse leads to bacterial resistance, thus prompting the search for\nnew antimicrobial strategies [48]. Genomics can identify antibiotic targets, and live non-\nmultiplying bacteria can be targeted for new antibacterials, potentially resulting in new\nantibacterials that shorten therapy microorganisms, reduce adverse effects, and potentially\nreduce antibacterial resistance [49]. Preclinical research explores metal uptake via bacterial\nmetallophores [48]. Bacteriophages have been demonstrated to be antibacterial in animals\nthat are susceptible to certain infectious diseases [49].\nIn the present study, the likelihood of methicillin-resistant staphylococcus SSI in-\ncreased among patients aged ≥61 years (p = 0.025, AOR = 3.729 (1.179–11.791)). Similar\nﬁndings have been reported in Brazil [22]. Previous studies have suggested that patients on\nantibiotics (p = 0. 017), who had a previous wound infection (p = 0.006), and with a hospital\nstay > 72 h showed an association with MRSA infection [33]. Similarly to our ﬁnding,\nprevious use of antibiotics (p = 0.025, AOR = 3.066 (1.101–9.392)) and preoperative hospital\nstays > 7 days (p = 0.000, AOR = 1.856 (0.688–5.311)) demonstrated an association with\nmethicillin-resistant Staphylococci for SSI. Unlike our study, a report by X. Yang et al. [50]\nshowed that long, invasive procedures used in the ICU, such as tracheal intubation and\n",
+   "n_chars": 4715,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      55.2,
+      559.3,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n9 of 16\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      95.6,
+      559.5,
+      168.4
+     ],
+     "text": "the mecA gene, which is lower than studies reported in Ethiopia (20%) [35], Bangladesh\n(25%) [36], Nigeria (38%) [29], and Iran (45.1%) [32]. It should be noted that the majority of\nisolates exhibiting the mecA gene were discovered in Debre Tabor. Eight (72.7%) of the ten\nmecA-positive isolates were detected at Debre Tabor Hospital. The reason might be poor\nsocioeconomic status, personal demographics, antibiotic prescription practice, and infection\ncontrol practices, which are associated with increased MRSA infection rates [30,31].\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      170.9,
+      561.0,
+      281.4
+     ],
+     "text": "In our present study, the femA gene was detected in all S. aureus isolates, except two\ncefoxitin-resistant strains (6.7%). This ﬁnding was comparable with a study from China [37].\nAdditionally, in the present study, the femA gene was found in S. haemolyticus, S. warneri,\nand 83.3% of M. sciuri cefoxitin-resistant strains. On the other hand, neither mecA nor\nfemA were detected in S. epidermidis [37]. The primers used should be speciﬁc to S. aureus;\ntherefore, it is somewhat surprising that the two S. aureus lack the gene and that several\nother non-aureus isolates carry the gene. The explanation could be mutational changes in\nS. aureus and gene transfer to other species. All of these isolates have been sent for whole\ngenome sequencing, and this matter will be analyzed further when the results are ready.\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      284.0,
+      561.0,
+      457.1
+     ],
+     "text": "It is interesting that a signiﬁcantly higher proportion of CoNS isolates harbour methi-\ncillin resistance genes, where 83.3% of M. sciuri and 50% of S. haemolyticus carried the mecA\ngene. This is in agreement with early reports that CoNS were the most common species in\nnosocomial infections and exhibit higher antibiotic resistance rates than S. aureus. This may\nbe explained by the high prevalence of methicillin resistance linked with staphylococcal\ncassette chromosome (SCCmec) elements in CoNS [38], and they are considered a major\nreservoir of SCCmec [39]. For instance, Berglund et al. described the likely transfer of\na type V SCCmec from methicillin-resistant S. haemolyticus to MSSA, thus transforming\ninto MRSA [9,40]. Another study revealed that the mecA homologue in M. sciuri may be\nan evolutionary precursor to MRSA pathogenic strains, highlighting the main routes of\nantibiotic resistance gene transfer [41]. Furthermore, the report demonstrated that MSSA\nbecome MRSA by acquiring SCCmec from S. epidermidis through horizontal transfer [42].\nThese accounts suggest that horizontal interspecies transfer of mobile genetic elements\ncould be a crucial element for MRSA global dissemination [40,41,43].\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      459.7,
+      560.9,
+      645.4
+     ],
+     "text": "The absence of the mecA and vanA genes in the MRSA and VRSA samples does not\nimply the absence of resistance, as resistance may be due to other mutations or cassette-\ncontaining resistance genes [44]. Globally, resistant staphylococcal isolates lacking the\nmecA gene show the possibility for additional mechanisms to compete with mecA in the\nestablishment of MRSA [45,46]. MRSA’s resistance against beta-lactams and methicillin is\nfurther complicated by its ability to develop resistance to vancomycin through accidental\ntransmission of the vanA gene from Enterococcal strains [47]. Vancomycin is a glycopeptide\nantibiotic that prevents the formation of the peptidoglycan layer by binding to the peptide\nprecursor. Antibiotic overuse leads to bacterial resistance, thus prompting the search for\nnew antimicrobial strategies [48]. Genomics can identify antibiotic targets, and live non-\nmultiplying bacteria can be targeted for new antibacterials, potentially resulting in new\nantibacterials that shorten therapy microorganisms, reduce adverse effects, and potentially\nreduce antibacterial resistance [49]. Preclinical research explores metal uptake via bacterial\nmetallophores [48]. Bacteriophages have been demonstrated to be antibacterial in animals\nthat are susceptible to certain infectious diseases [49].\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      648.0,
+      560.9,
+      758.4
+     ],
+     "text": "In the present study, the likelihood of methicillin-resistant staphylococcus SSI in-\ncreased among patients aged ≥61 years (p = 0.025, AOR = 3.729 (1.179–11.791)). Similar\nﬁndings have been reported in Brazil [22]. Previous studies have suggested that patients on\nantibiotics (p = 0. 017), who had a previous wound infection (p = 0.006), and with a hospital\nstay > 72 h showed an association with MRSA infection [33]. Similarly to our ﬁnding,\nprevious use of antibiotics (p = 0.025, AOR = 3.066 (1.101–9.392)) and preoperative hospital\nstays > 7 days (p = 0.000, AOR = 1.856 (0.688–5.311)) demonstrated an association with\nmethicillin-resistant Staphylococci for SSI. Unlike our study, a report by X. Yang et al. [50]\nshowed that long, invasive procedures used in the ICU, such as tracheal intubation and\n"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "text": "Antibiotics 2023, 12, 1681\n10 of 16\nventilator usage, along with patients with cerebral infarction and other embolisms increase\nthe likelihood of developing MRSA colonization and further infections.\n4. Materials and Methods\n4.1. Study Area and Design\nA cross-sectional study was conducted in four purposively selected University Teach-\ning Hospitals, including Debre Tabor Comprehensive Specialized Hospital (DTCSH), Tikur\nAnbessa Specialized Hospital (TASH), Hawassa University Teaching Hospital (HUTH), and\nJimma University Teaching Hospital (JUTH) in Ethiopia. These hospitals provide a range\nof services in both outpatient and inpatient units under different wards, such as general\nsurgical, gynecology, obstetric/maternity, and orthopedics, and they all have microbiology\nlaboratories for culture and antimicrobial sensitivity testing. This study was conducted\nbetween July 2020 and August 2021.\n4.2. Variables\nThe variables in this study were MRSA and VRSA infections, socio-demographic char-\nacteristics, clinical data, and risk factor variables, such as age, sex, surgical site, length of\nhospital stay, history of hospital admission, previous use of antibiotics, smoking history, alco-\nhol consumption, type and nature of the surgery, type of antimicrobial prophylaxis, history of\nprevious antibiotic use, surgical procedure performed, and duration of the operation.\n4.3. Study Population and Sampling\nThe study population consisted of patients admitted for elective and emergency\nsurgery in general surgery, gynecology/obstetric, and orthopedics wards. All surgical\npatients, regardless of their age, who underwent surgery during the study period and\ndeveloped signs and symptoms of surgical site infection (SSI) within 30 days were included\nin this study. Consent and/or assent was secured from each participant before the com-\nmencement of data collection. Patients who developed SSIs after 30 days following the\noperation, those who refused to participate, patients with infected burn wounds, and those\non treatment were excluded from this study.\n4.4. Sample Size and Sampling Technique\nA total of 752 clinically diagnosed cases of SSI from different wards were enrolled\nin this study. The sample size was calculated based on a single population proportion\nsample size estimation formula (n = Z2 P (1 −P)/d2) using a proportion (P) of 20% [51].\nAs this was a multicenter study, to increase the sample size, a precision (d) of 0.03 was\nused, where Z stands for Z statistic with a conﬁdence level of 95% and a Z value of 1.96.\nConsidering a 10% non-response rate, the ﬁnal total sample size was estimated at 752.\nEnrollments continued until the necessary sample size was achieved, with proportional\nallocation among the different hospitals based on patient ﬂow.\n4.5. Specimen Collection, Isolation, and Identiﬁcation of S. aureus\nWound swabs or aspirates were collected based on standard operation procedure\n(SOP). Conventional bacteriological techniques, such as morphological, cultural, and bio-\nchemical characterization, were used to identify strains of S. aureus [52]. The specimens\nwere inoculated on blood agar plates (BAP) (Oxoid, UK), and mannitol salt agar (MSA)\n(Oxoid) and then incubated at 35 ◦C for 24 h. The S. aureus isolates were identiﬁed through\nGram staining, catalase and coagulase tests, including golden yellow colonies on MSA,\nwhich were considered phenotypic identiﬁcation tests.\n4.6. Identiﬁcation Conﬁrmation of the Species of Bacteria Strain Using Matrix-Assisted Laser\nDesorption/Ionization Time-of-Flight Mass Spectrometry (MALDI-TOF MS)\nAll phenotypically cefoxitin-resistant S. aureus isolates were re-identified using MALDI-TOF\nMS [53] at the Clinical Microbiology Department, Uppsala University Hospital in Sweden.\n",
+   "n_chars": 3759,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      55.2,
+      559.3,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n10 of 16\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      95.7,
+      559.3,
+      118.2
+     ],
+     "text": "ventilator usage, along with patients with cerebral infarction and other embolisms increase\nthe likelihood of developing MRSA colonization and further infections.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      130.7,
+      282.6,
+      153.8
+     ],
+     "text": "4. Materials and Methods\n4.1. Study Area and Design\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      159.7,
+      560.9,
+      257.5
+     ],
+     "text": "A cross-sectional study was conducted in four purposively selected University Teach-\ning Hospitals, including Debre Tabor Comprehensive Specialized Hospital (DTCSH), Tikur\nAnbessa Specialized Hospital (TASH), Hawassa University Teaching Hospital (HUTH), and\nJimma University Teaching Hospital (JUTH) in Ethiopia. These hospitals provide a range\nof services in both outpatient and inpatient units under different wards, such as general\nsurgical, gynecology, obstetric/maternity, and orthopedics, and they all have microbiology\nlaboratories for culture and antimicrobial sensitivity testing. This study was conducted\nbetween July 2020 and August 2021.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      269.9,
+      221.5,
+      279.7
+     ],
+     "text": "4.2. Variables\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      285.5,
+      560.9,
+      345.6
+     ],
+     "text": "The variables in this study were MRSA and VRSA infections, socio-demographic char-\nacteristics, clinical data, and risk factor variables, such as age, sex, surgical site, length of\nhospital stay, history of hospital admission, previous use of antibiotics, smoking history, alco-\nhol consumption, type and nature of the surgery, type of antimicrobial prophylaxis, history of\nprevious antibiotic use, surgical procedure performed, and duration of the operation.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      358.0,
+      314.2,
+      367.8
+     ],
+     "text": "4.3. Study Population and Sampling\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      373.7,
+      560.9,
+      471.5
+     ],
+     "text": "The study population consisted of patients admitted for elective and emergency\nsurgery in general surgery, gynecology/obstetric, and orthopedics wards. All surgical\npatients, regardless of their age, who underwent surgery during the study period and\ndeveloped signs and symptoms of surgical site infection (SSI) within 30 days were included\nin this study. Consent and/or assent was secured from each participant before the com-\nmencement of data collection. Patients who developed SSIs after 30 days following the\noperation, those who refused to participate, patients with infected burn wounds, and those\non treatment were excluded from this study.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      483.9,
+      334.3,
+      493.7
+     ],
+     "text": "4.4. Sample Size and Sampling Technique\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      499.5,
+      561.0,
+      597.3
+     ],
+     "text": "A total of 752 clinically diagnosed cases of SSI from different wards were enrolled\nin this study. The sample size was calculated based on a single population proportion\nsample size estimation formula (n = Z2 P (1 −P)/d2) using a proportion (P) of 20% [51].\nAs this was a multicenter study, to increase the sample size, a precision (d) of 0.03 was\nused, where Z stands for Z statistic with a conﬁdence level of 95% and a Z value of 1.96.\nConsidering a 10% non-response rate, the ﬁnal total sample size was estimated at 752.\nEnrollments continued until the necessary sample size was achieved, with proportional\nallocation among the different hospitals based on patient ﬂow.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      609.7,
+      431.4,
+      619.5
+     ],
+     "text": "4.5. Specimen Collection, Isolation, and Identiﬁcation of S. aureus\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      625.3,
+      560.9,
+      710.6
+     ],
+     "text": "Wound swabs or aspirates were collected based on standard operation procedure\n(SOP). Conventional bacteriological techniques, such as morphological, cultural, and bio-\nchemical characterization, were used to identify strains of S. aureus [52]. The specimens\nwere inoculated on blood agar plates (BAP) (Oxoid, UK), and mannitol salt agar (MSA)\n(Oxoid) and then incubated at 35 ◦C for 24 h. The S. aureus isolates were identiﬁed through\nGram staining, catalase and coagulase tests, including golden yellow colonies on MSA,\nwhich were considered phenotypic identiﬁcation tests.\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      723.0,
+      543.1,
+      743.2
+     ],
+     "text": "4.6. Identiﬁcation Conﬁrmation of the Species of Bacteria Strain Using Matrix-Assisted Laser\nDesorption/Ionization Time-of-Flight Mass Spectrometry (MALDI-TOF MS)\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      749.0,
+      561.0,
+      771.5
+     ],
+     "text": "All phenotypically cefoxitin-resistant S. aureus isolates were re-identified using MALDI-TOF\nMS [53] at the Clinical Microbiology Department, Uppsala University Hospital in Sweden.\n"
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "text": "Antibiotics 2023, 12, 1681\n11 of 16\nA single colony of bacteria from fresh cultures was smeared onto a MALDI-TOF plate,\nair-dried, treated with formic acid and MALDI matrix solution, and again air-dried before\nreading. MALDI-TOF identiﬁcation scores were automatically generated by the system\nsoftware [54], and isolates with scores of two and above were accepted, while those with\nscores below 1.7 and ﬂagged red were rejected. Samples with scores between 1.7 and 2 and\nﬂagged yellow were re-analyzed.\n4.7. Antimicrobial Susceptibility Testing\nAntimicrobial susceptibility testing (AST) was carried out using the cefoxitin disc\ndiffusion test, which is a surrogate marker test for oxacillin resistance following the clin-\nical and laboratory standard institute (CLSI) protocol [55], and the minimum inhibitory\nconcentration (MIC) of the vancomycin strip was determined using the E-test method on\nMHA. The reference strain S. aureus (ATCC® 25923, Seattle, DC, USA) was used as a quality\ncontrol. Evidence showed that MRSA is a requisite for VISA [56]. Hence, we screened\nVRSA/VISA from MRSA isolates.\n4.8. Identiﬁcation of Methicillin-Resistant S. aureus Strains\n4.8.1. DNA Extraction\nDNA was extracted from all cefoxitin-resistant S. aureus isolates through the boiling\nmethod, as described previously [57]. Brieﬂy, each isolate was grown overnight on nutrient\nagar (Oxoid, UK), and 3 to 5 colonies of that culture were suspended in 300 µL of 1×\nTris EDTA buffer. The suspension was subjected to 10 min of boiling at 94 ◦C in a water\nbath (Thermo Fisher Scientiﬁc, CA, USA), followed by 10 minutes of freezing at −20 ◦C,\n1 min at room temperature, and 5 min of centrifugation at 14,000× g. Finally, 150 µL of\nthe supernatant was transferred into a nuclease-free Eppendorf tube and measured using\nNanodrop (Thermo Scientiﬁc) for the quality and quantity of DNA prior to storage at\n−20 ◦C until analysis.\n4.8.2. Standardization of Multiplex PCR for the Detection of Staphylococci mecA, femA, vanA,\nand vanB\nMultiplex PCR was used to amplify different genes that are associated with methicillin\nresistance from Staphylococci. The primers and annealing temperatures were standardized\nfor the detection of S. aureus mecA, vanA, vanB, and femA. The PCR products were analyzed\nthrough gel electrophoresis. Positive and negative control strains were included in all\nampliﬁcation reactions to ensure accuracy of the test results.\nFirst, PCR was standardized using a range of annealing temperatures to establish the\noptimum annealing reaction condition for all of the primers. All PCR primers are described\nin Table 5. The reaction mixture contained 12.5 µL of hot star master mix (Qiagen, Hilden,\nGermany), 0.5 µL each of the forward and reverse primers, 9 µL of molecular-grade water,\nand 2.5 µL of the template, with a ﬁnal volume of 25 µL. Ampliﬁcation for mecA and femA\nwas carried out over 40 cycles of initial heat activation at 95 ◦C for 15 min, denaturation at\n94 ◦C for 30 s, followed by annealing at 52 ◦C for 45 s, extension at 72 ◦C for 1 min, and\nﬁnal extension at 72 ◦C for 10 min. Ampliﬁcation for vanA and vanB was carried out over\n40 cycles of initial heat activation at 95 ◦C for 15 min, denaturation at 94 ◦C for 30 s, followed\nby annealing at 56 ◦C for 90 s, extension at 72 ◦C for 90 min, and ﬁnal extension at 72 ◦C\nfor 10 min. The PCR products were analyzed through electrophoresis on a 2% agarose gel\nand detected through staining in ethidium bromide with the aid of a gel imaging system,\nGelDoc (Bio-Rad). The following controls were included in all ampliﬁcation reactions:\nATCC 33591 (mecA-positive S. aureus) and ATCC 25923 (mecA-negative S. aureus).\n",
+   "n_chars": 3669,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      55.2,
+      559.3,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n11 of 16\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      95.7,
+      560.5,
+      168.4
+     ],
+     "text": "A single colony of bacteria from fresh cultures was smeared onto a MALDI-TOF plate,\nair-dried, treated with formic acid and MALDI matrix solution, and again air-dried before\nreading. MALDI-TOF identiﬁcation scores were automatically generated by the system\nsoftware [54], and isolates with scores of two and above were accepted, while those with\nscores below 1.7 and ﬂagged red were rejected. Samples with scores between 1.7 and 2 and\nﬂagged yellow were re-analyzed.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      180.8,
+      330.0,
+      190.6
+     ],
+     "text": "4.7. Antimicrobial Susceptibility Testing\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      196.4,
+      560.9,
+      281.7
+     ],
+     "text": "Antimicrobial susceptibility testing (AST) was carried out using the cefoxitin disc\ndiffusion test, which is a surrogate marker test for oxacillin resistance following the clin-\nical and laboratory standard institute (CLSI) protocol [55], and the minimum inhibitory\nconcentration (MIC) of the vancomycin strip was determined using the E-test method on\nMHA. The reference strain S. aureus (ATCC® 25923, Seattle, DC, USA) was used as a quality\ncontrol. Evidence showed that MRSA is a requisite for VISA [56]. Hence, we screened\nVRSA/VISA from MRSA isolates.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      294.1,
+      408.0,
+      317.5
+     ],
+     "text": "4.8. Identiﬁcation of Methicillin-Resistant S. aureus Strains\n4.8.1. DNA Extraction\n"
+    },
+    {
+     "bbox": [
+      165.9,
+      323.1,
+      560.5,
+      433.5
+     ],
+     "text": "DNA was extracted from all cefoxitin-resistant S. aureus isolates through the boiling\nmethod, as described previously [57]. Brieﬂy, each isolate was grown overnight on nutrient\nagar (Oxoid, UK), and 3 to 5 colonies of that culture were suspended in 300 µL of 1×\nTris EDTA buffer. The suspension was subjected to 10 min of boiling at 94 ◦C in a water\nbath (Thermo Fisher Scientiﬁc, CA, USA), followed by 10 minutes of freezing at −20 ◦C,\n1 min at room temperature, and 5 min of centrifugation at 14,000× g. Finally, 150 µL of\nthe supernatant was transferred into a nuclease-free Eppendorf tube and measured using\nNanodrop (Thermo Scientiﬁc) for the quality and quantity of DNA prior to storage at\n−20 ◦C until analysis.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      445.9,
+      560.5,
+      466.4
+     ],
+     "text": "4.8.2. Standardization of Multiplex PCR for the Detection of Staphylococci mecA, femA, vanA,\nand vanB\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      472.0,
+      559.3,
+      532.1
+     ],
+     "text": "Multiplex PCR was used to amplify different genes that are associated with methicillin\nresistance from Staphylococci. The primers and annealing temperatures were standardized\nfor the detection of S. aureus mecA, vanA, vanB, and femA. The PCR products were analyzed\nthrough gel electrophoresis. Positive and negative control strains were included in all\nampliﬁcation reactions to ensure accuracy of the test results.\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      534.8,
+      560.5,
+      707.9
+     ],
+     "text": "First, PCR was standardized using a range of annealing temperatures to establish the\noptimum annealing reaction condition for all of the primers. All PCR primers are described\nin Table 5. The reaction mixture contained 12.5 µL of hot star master mix (Qiagen, Hilden,\nGermany), 0.5 µL each of the forward and reverse primers, 9 µL of molecular-grade water,\nand 2.5 µL of the template, with a ﬁnal volume of 25 µL. Ampliﬁcation for mecA and femA\nwas carried out over 40 cycles of initial heat activation at 95 ◦C for 15 min, denaturation at\n94 ◦C for 30 s, followed by annealing at 52 ◦C for 45 s, extension at 72 ◦C for 1 min, and\nﬁnal extension at 72 ◦C for 10 min. Ampliﬁcation for vanA and vanB was carried out over\n40 cycles of initial heat activation at 95 ◦C for 15 min, denaturation at 94 ◦C for 30 s, followed\nby annealing at 56 ◦C for 90 s, extension at 72 ◦C for 90 min, and ﬁnal extension at 72 ◦C\nfor 10 min. The PCR products were analyzed through electrophoresis on a 2% agarose gel\nand detected through staining in ethidium bromide with the aid of a gel imaging system,\nGelDoc (Bio-Rad). The following controls were included in all ampliﬁcation reactions:\nATCC 33591 (mecA-positive S. aureus) and ATCC 25923 (mecA-negative S. aureus).\n"
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "text": "Antibiotics 2023, 12, 1681\n12 of 16\nTable 5. Primers used in multiplex PCR for the detection of the mecA, vanA, vanB, and femA genes.\nTarget Gene\nPrimer Name\nPrimer Sequence (5′-3′)\nSize bp\nReferences\nmecA\nMF\nGTAGAAATGACTGAACGTCCGATAA\n310\n[58]\nMR\nCCAATTCCACATTGTTTCGGTCTAA\nvanA\nVF\nGGGAAAACGACAATTGC\n732\n[59]\nVR\nGTACAATGCGGCCGTTA\nvanB\nVF\nACCTACCCTGTCTTTGTGAA\n300\nVR\nAATGTCTGCTGGAACGATA\nfemA\nFF\nAAAAAAGCACATAACAAGCG\n132\n[60]\nFR\nGATAAAGAAGAAACCAGCAG\n4.9. Quality Assurance\nSpecimens were collected according to the recommended standard operating proce-\ndures (SOPs). The performance of all prepared culture media (BAP and MSA) was also\nchecked by inoculating control strains, S. aureus (ATCC® 25923), for each new batch of agar\nplates prepared. In addition, the sterility of culture media was checked by incubating 5% of\nthe prepared media at 37 ◦C for 24–48 h. In addition, reagents for Gram stain and biochem-\nical tests were checked against control strains of S. aureus. The 0.5 McFarland standard was\nused to standardize the bacterial suspension inoculum density for the susceptibility test.\nEach MALDI-TOF run also included S. aureus (ATCC® 25923) as a quality control strain.\nFurthermore, the performance of the antibiotic disks was evaluated using American-type\ncell culture (ATCC) controls. As such, S. aureus ATCC® 25923 (cefoxitin zone 21–29 mm)\nand S. aureus ATCC® 43300 (zone ≤21 mm) were used as control strains to determine the\nperformance of the cefoxitin disc diffusion test. S. aureus ATCC® 29213 MIC of vancomycin\nbroth value 0.5–2.0 µg/mL was used as a control strain to measure the performance of\nvancomycin [55].\n4.10. Data Entry and Analysis\nThe data were checked for completeness, missing values, and coding of questionnaires\nentered into the Research Electronic Data Capture (RED-Cap). A double data entry method\nwas used to ensure the accuracy of the data, and data were analyzed using STATA version 25.\nDescriptive statistics were used to present antimicrobial susceptibility patterns. Frequencies\nand cross-tabulations were used to summarize descriptive statistics. Logistic regression\nwas used to study the effect of independent variables on the dependent variables. p-values\nless than 0.05 were considered statistically signiﬁcant.\n4.11. Ethical Considerations\nThe Department of Medical Microbiology, Immunology, and Parasitology (DMIP)\nand the AHRI/ALERT Research Ethics Committee (AAREC) reviewed and approved this\nstudy. Institutional review board (IRB) approval was also obtained from Addis Ababa\nUniversity’s College of Health Sciences, AAUMF03-008/2020. Selected hospitals received a\nformal letter from the AHRI and DMIP, and each hospital’s medical directors gave their\nconsent. Written consent/assent was taken from each study participant before initiation of\nthe actual data collection.\nPatient information was kept conﬁdential by sharing the laboratory results of research\nparticipants only with the designated accountable clinicians. Patients who experienced\nSSIs were managed according to hospital policy. In general, this study was conducted in\naccordance with the Declaration of Helsinki.\n5. Conclusions\nA multicenter study identiﬁed 11 mecA-positive Staphylococci species, with 36.4%\nbeing MRSA, but no VRSA was found among these MRSA. What is more captivating in\n",
+   "n_chars": 3304,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      55.2,
+      559.3,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n12 of 16\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      95.4,
+      554.4,
+      104.4
+     ],
+     "text": "Table 5. Primers used in multiplex PCR for the detection of the mecA, vanA, vanB, and femA genes.\n"
+    },
+    {
+     "bbox": [
+      56.1,
+      116.2,
+      536.3,
+      127.3
+     ],
+     "text": "Target Gene\nPrimer Name\nPrimer Sequence (5′-3′)\nSize bp\nReferences\n"
+    },
+    {
+     "bbox": [
+      70.7,
+      134.3,
+      521.3,
+      154.2
+     ],
+     "text": "mecA\nMF\nGTAGAAATGACTGAACGTCCGATAA\n310\n[58]\nMR\nCCAATTCCACATTGTTTCGGTCTAA\n"
+    },
+    {
+     "bbox": [
+      71.0,
+      161.0,
+      521.3,
+      186.5
+     ],
+     "text": "vanA\nVF\nGGGAAAACGACAATTGC\n732\n[59]\nVR\nGTACAATGCGGCCGTTA\n"
+    },
+    {
+     "bbox": [
+      71.4,
+      187.7,
+      437.5,
+      207.6
+     ],
+     "text": "vanB\nVF\nACCTACCCTGTCTTTGTGAA\n300\nVR\nAATGTCTGCTGGAACGATA\n"
+    },
+    {
+     "bbox": [
+      71.3,
+      214.4,
+      521.3,
+      234.3
+     ],
+     "text": "femA\nFF\nAAAAAAGCACATAACAAGCG\n132\n[60]\nFR\nGATAAAGAAGAAACCAGCAG\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      260.8,
+      260.7,
+      270.6
+     ],
+     "text": "4.9. Quality Assurance\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      276.4,
+      561.0,
+      449.5
+     ],
+     "text": "Specimens were collected according to the recommended standard operating proce-\ndures (SOPs). The performance of all prepared culture media (BAP and MSA) was also\nchecked by inoculating control strains, S. aureus (ATCC® 25923), for each new batch of agar\nplates prepared. In addition, the sterility of culture media was checked by incubating 5% of\nthe prepared media at 37 ◦C for 24–48 h. In addition, reagents for Gram stain and biochem-\nical tests were checked against control strains of S. aureus. The 0.5 McFarland standard was\nused to standardize the bacterial suspension inoculum density for the susceptibility test.\nEach MALDI-TOF run also included S. aureus (ATCC® 25923) as a quality control strain.\nFurthermore, the performance of the antibiotic disks was evaluated using American-type\ncell culture (ATCC) controls. As such, S. aureus ATCC® 25923 (cefoxitin zone 21–29 mm)\nand S. aureus ATCC® 43300 (zone ≤21 mm) were used as control strains to determine the\nperformance of the cefoxitin disc diffusion test. S. aureus ATCC® 29213 MIC of vancomycin\nbroth value 0.5–2.0 µg/mL was used as a control strain to measure the performance of\nvancomycin [55].\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      461.9,
+      291.0,
+      471.7
+     ],
+     "text": "4.10. Data Entry and Analysis\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      477.5,
+      561.0,
+      562.8
+     ],
+     "text": "The data were checked for completeness, missing values, and coding of questionnaires\nentered into the Research Electronic Data Capture (RED-Cap). A double data entry method\nwas used to ensure the accuracy of the data, and data were analyzed using STATA version 25.\nDescriptive statistics were used to present antimicrobial susceptibility patterns. Frequencies\nand cross-tabulations were used to summarize descriptive statistics. Logistic regression\nwas used to study the effect of independent variables on the dependent variables. p-values\nless than 0.05 were considered statistically signiﬁcant.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      575.2,
+      280.6,
+      585.0
+     ],
+     "text": "4.11. Ethical Considerations\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      590.8,
+      560.3,
+      676.1
+     ],
+     "text": "The Department of Medical Microbiology, Immunology, and Parasitology (DMIP)\nand the AHRI/ALERT Research Ethics Committee (AAREC) reviewed and approved this\nstudy. Institutional review board (IRB) approval was also obtained from Addis Ababa\nUniversity’s College of Health Sciences, AAUMF03-008/2020. Selected hospitals received a\nformal letter from the AHRI and DMIP, and each hospital’s medical directors gave their\nconsent. Written consent/assent was taken from each study participant before initiation of\nthe actual data collection.\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      678.7,
+      559.3,
+      726.3
+     ],
+     "text": "Patient information was kept conﬁdential by sharing the laboratory results of research\nparticipants only with the designated accountable clinicians. Patients who experienced\nSSIs were managed according to hospital policy. In general, this study was conducted in\naccordance with the Declaration of Helsinki.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      738.8,
+      233.4,
+      748.5
+     ],
+     "text": "5. Conclusions\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      754.3,
+      560.1,
+      776.8
+     ],
+     "text": "A multicenter study identiﬁed 11 mecA-positive Staphylococci species, with 36.4%\nbeing MRSA, but no VRSA was found among these MRSA. What is more captivating in\n"
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "text": "Antibiotics 2023, 12, 1681\n13 of 16\nthis study is a signiﬁcantly high prevalence of mecA carriage among CoNS, suggesting\ndifﬁculties in the treatment of patients with CoNS infections. Furthermore, this signiﬁes\na huge potential of MSSA conversion to MRSA through horizontal gene transfer, which\nwould make things more complicated. In terms of geographic distribution, out of 11 mecA-\ngene-positive Staphylococci, 8 (72.7%) were detected in DTCSH, with signiﬁcant variations\nbetween hospitals, suggesting that strategies to control methicillin-resistant Staphylococci\nshould be tailored to speciﬁc hospitals. The presence of staphylococcal isolates was linked\nto factors like older age, hospital stay, antibiotic history, and prophylaxis. Prompt preven-\ntion and control measures for MRSA-high-risk populations, including strict adherence to\ninfection prevention methods, periodic surveillance, and antibiotic stewardship programs,\nare crucial for effective treatment and prevention strategies.\nAuthor Contributions: S.W., conceptualization, data collection, laboratory investigation, drafting\nthe manuscript, and write-up. Y.S., M.Y. and A.A. (AshenaﬁAlemu) substantially participated in\nlaboratory investigation. T.A., B.S., A.A. (Alemseged Abdissa), G.T.B., G.S. and A.M. substantially\nparticipated in the design of this study, reviewed the manuscript and provided critical intellectual\ncontent. S.W. and G.S. participated in the analysis and interpretation of the ﬁndings. All authors have\nread and agreed to the published version of the manuscript.\nFunding: Collection of samples and laboratory work in Ethiopia was covered by grants from Addis\nAbaba University, and Armauer Hansen Research Institute. For work in Sweden, grants from\nSIDA/SAREC bilateral research cooperation with Ethiopia (5108013506) and the Centre for Innovative\nDrug Development and Therapeutic Trials for Africa (CDT-Africa) were used to cover travel and\nsubsistence for SW during a three-month visit. Laboratory work in Sweden was done without\nexternal grants.\nInstitutional Review Board Statement: Ethical clearance and approval were obtained from Addis\nAbaba University’s College of Health Sciences and AAREC. Institutional Review Board Statement:\nThe research was granted approval by the Institutional Review Board (AAUMF 03-008-2020) of Addis\nAbeba University’s College of Health Sciences and the Department of Microbiology, Immunology,\nand Parasitology Ethical Review Committee (DEREC002/2020). This study was also approved by\nthe AHRI/ALERT Ethics Review Committee (protocol number: PO/29/19) of the Armauer Hansen\nResearch Institute.\nInformed Consent Statement: Data were collected only when written consent or assent was obtained\nfrom each participant or guardian.\nData Availability Statement: The data sets generated during and/or analyzed during the current\nstudy are available from the corresponding authors upon reasonable request. The data are not\npublicly available due to privacy restrictions.\nAcknowledgments: The authors would like to extend our gratitude to The Centre for Innovative\nDrug Development and Therapeutic Trials for Africa (CDT-Africa) for supporting this study (cover\nSweden travel cost and subsistence for SW). We would like to thank the Debre Tabor Compressive\nSpecialized Hospital, Tikur Anbessa Specialized Hospital, Hawassa University Teaching Hospital,\nand Jimma University Teaching Specialized Hospital for allowing us to conduct this study. We\nappreciate all of the research sites’ doctors, nurses, and microbiologists who assisted us in conducting\nthis investigation. And, lastly, we would like to thank everyone who took part in this study.\nConﬂicts of Interest: The authors declare no competing interest. The funders had no role in the\ndesign of this study; in the collection, analyses, or interpretation of data; in the writing of the\nmanuscript; or in the decision to publish the results.\nAbbreviations\nCLSI, Clinical and Laboratory Standards Institute; CoNS, Coagulase Negative Staphylococcous;\nMALDI-TOF MS, Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry;\nMHA, Muller–Hinton agar; MIC, Minimum Inhibitory Concentration; MRSA, Methicillin-Resistant S.\naureus; MSSA, Methicillin-Sensitive S. aureus; SSI, Surgical Site Infection; SCCmec, Staphylococcal\nCassette Chromosome mec; VISA, Vancomycin-Intermediate S. aureus; VRSA, Vancomycin-Resistant\n",
+   "n_chars": 4396,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      55.2,
+      559.3,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n13 of 16\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      95.6,
+      560.9,
+      231.2
+     ],
+     "text": "this study is a signiﬁcantly high prevalence of mecA carriage among CoNS, suggesting\ndifﬁculties in the treatment of patients with CoNS infections. Furthermore, this signiﬁes\na huge potential of MSSA conversion to MRSA through horizontal gene transfer, which\nwould make things more complicated. In terms of geographic distribution, out of 11 mecA-\ngene-positive Staphylococci, 8 (72.7%) were detected in DTCSH, with signiﬁcant variations\nbetween hospitals, suggesting that strategies to control methicillin-resistant Staphylococci\nshould be tailored to speciﬁc hospitals. The presence of staphylococcal isolates was linked\nto factors like older age, hospital stay, antibiotic history, and prophylaxis. Prompt preven-\ntion and control measures for MRSA-high-risk populations, including strict adherence to\ninfection prevention methods, periodic surveillance, and antibiotic stewardship programs,\nare crucial for effective treatment and prevention strategies.\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      245.6,
+      559.6,
+      313.1
+     ],
+     "text": "Author Contributions: S.W., conceptualization, data collection, laboratory investigation, drafting\nthe manuscript, and write-up. Y.S., M.Y. and A.A. (AshenaﬁAlemu) substantially participated in\nlaboratory investigation. T.A., B.S., A.A. (Alemseged Abdissa), G.T.B., G.S. and A.M. substantially\nparticipated in the design of this study, reviewed the manuscript and provided critical intellectual\ncontent. S.W. and G.S. participated in the analysis and interpretation of the ﬁndings. All authors have\nread and agreed to the published version of the manuscript.\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      321.9,
+      559.3,
+      389.4
+     ],
+     "text": "Funding: Collection of samples and laboratory work in Ethiopia was covered by grants from Addis\nAbaba University, and Armauer Hansen Research Institute. For work in Sweden, grants from\nSIDA/SAREC bilateral research cooperation with Ethiopia (5108013506) and the Centre for Innovative\nDrug Development and Therapeutic Trials for Africa (CDT-Africa) were used to cover travel and\nsubsistence for SW during a three-month visit. Laboratory work in Sweden was done without\nexternal grants.\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      398.2,
+      560.4,
+      477.4
+     ],
+     "text": "Institutional Review Board Statement: Ethical clearance and approval were obtained from Addis\nAbaba University’s College of Health Sciences and AAREC. Institutional Review Board Statement:\nThe research was granted approval by the Institutional Review Board (AAUMF 03-008-2020) of Addis\nAbeba University’s College of Health Sciences and the Department of Microbiology, Immunology,\nand Parasitology Ethical Review Committee (DEREC002/2020). This study was also approved by\nthe AHRI/ALERT Ethics Review Committee (protocol number: PO/29/19) of the Armauer Hansen\nResearch Institute.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      486.1,
+      559.3,
+      506.8
+     ],
+     "text": "Informed Consent Statement: Data were collected only when written consent or assent was obtained\nfrom each participant or guardian.\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      515.6,
+      559.3,
+      547.9
+     ],
+     "text": "Data Availability Statement: The data sets generated during and/or analyzed during the current\nstudy are available from the corresponding authors upon reasonable request. The data are not\npublicly available due to privacy restrictions.\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      556.7,
+      560.4,
+      635.9
+     ],
+     "text": "Acknowledgments: The authors would like to extend our gratitude to The Centre for Innovative\nDrug Development and Therapeutic Trials for Africa (CDT-Africa) for supporting this study (cover\nSweden travel cost and subsistence for SW). We would like to thank the Debre Tabor Compressive\nSpecialized Hospital, Tikur Anbessa Specialized Hospital, Hawassa University Teaching Hospital,\nand Jimma University Teaching Specialized Hospital for allowing us to conduct this study. We\nappreciate all of the research sites’ doctors, nurses, and microbiologists who assisted us in conducting\nthis investigation. And, lastly, we would like to thank everyone who took part in this study.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      644.7,
+      559.3,
+      677.1
+     ],
+     "text": "Conﬂicts of Interest: The authors declare no competing interest. The funders had no role in the\ndesign of this study; in the collection, analyses, or interpretation of data; in the writing of the\nmanuscript; or in the decision to publish the results.\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      692.0,
+      231.3,
+      701.7
+     ],
+     "text": "Abbreviations\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      713.9,
+      560.4,
+      773.1
+     ],
+     "text": "CLSI, Clinical and Laboratory Standards Institute; CoNS, Coagulase Negative Staphylococcous;\nMALDI-TOF MS, Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry;\nMHA, Muller–Hinton agar; MIC, Minimum Inhibitory Concentration; MRSA, Methicillin-Resistant S.\naureus; MSSA, Methicillin-Sensitive S. aureus; SSI, Surgical Site Infection; SCCmec, Staphylococcal\nCassette Chromosome mec; VISA, Vancomycin-Intermediate S. aureus; VRSA, Vancomycin-Resistant\n"
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "text": "Antibiotics 2023, 12, 1681\n14 of 16\nS. aureus; VSSA, Vancomycin-Sensitive S. aureus.\nReferences\n1.\nTurner, N.A.; Sharma-Kuinkel, B.K.; Maskarinec, S.A.; Eichenberger, E.M.; Shah, P.P.; Carugati, M.; Holland, T.L.; Fowler, V.G.\nMethicillin-resistant Staphylococcus aureus: An overview of basic and clinical research. Nat. Rev. Microbiol. 2019, 17, 203–218.\n[CrossRef]\n2.\nMartínez-Meléndez, A.; Morfín-Otero, R.; Villarreal-Treviño, L.; González-González, G.; Llaca-Díaz, J.; Rodríguez-Noriega, E.;\nCamacho-Ortíz, A.; Garza-González, E. Staphylococcal cassette chromosome mec (SCCmec) in coagulase negative staphylococci.\nMed. Univ. 2015, 17, 229–233. [CrossRef]\n3.\nBeims, H.; Overmann, A.; Fulde, M.; Steinert, M.; Bergmann, S. Isolation of Staphylococcus sciuri from horse skin infection. Open\nVet. J. 2016, 6, 242–246. [CrossRef]\n4.\nCheung, G.Y.C.; Bae, J.S.; Otto, M. Pathogenicity and virulence of Staphylococcus aureus. Virulence 2021, 12, 547–569. [CrossRef]\n[PubMed]\n5.\nGhssein, G.; Ezzeddine, Z. The Key Element Role of Metallophores in the Pathogenicity and Virulence of Staphylococcus aureus:\nA Review. Biology 2022, 11, 1525. [CrossRef] [PubMed]\n6.\nDavid, M.Z.; Daum, R.S. Treatment of Staphylococcus aureus Infections. Curr. Top. Microbiol. Immunol. 2017, 409, 325–383.\n7.\nHiramatsu, K.; Katayama, Y.; Matsuo, M.; Sasaki, T.; Morimoto, Y.; Sekiguchi, A.; Baba, T. Multi-drug-resistant Staphylococcus\naureus and future chemotherapy. J. Infect. Chemother. 2014, 20, 593–601. [CrossRef] [PubMed]\n8.\nMahjabeen, F.; Saha, U.; Mostafa, M.N.; Siddique, F.; Ahsan, E.; Fathma, S.; Tasnim, A.; Rahman, T.; Faruq, R.; Sakibuzzaman, M.;\net al. An Update on Treatment Options for Methicillin-Resistant Staphylococcus aureus (MRSA) Bacteremia: A Systematic Review.\nCureus 2022, 14, e31486. [CrossRef]\n9.\nVestergaard, M.; Frees, D.; Ingmer, H. Antibiotic Resistance and the MRSA Problem. Microbiol. Spectr. 2019, 7. [CrossRef]\n10.\nLi, X.; Xiong, Y.; Fan, X.; Feng, P.; Tang, H.; Zhou, T. The role of femA regulating gene on methicillin-resistant Staphylococcus\naureus clinical isolates. Med. Mal. Infect. 2012, 42, 218–225. [CrossRef]\n11.\nCong, Y.; Yang, S.; Rao, X. Vancomycin resistant Staphylococcus aureus infections: A review of case updating and clinical features.\nJ. Adv. Res. 2020, 21, 169–176. [CrossRef]\n12.\nStogios, P.J.; Savchenko, A. Molecular mechanisms of vancomycin resistance. Protein Sci. 2020, 29, 654–669. [CrossRef]\n13.\nLi, G.; Walker, M.J.; De Oliveira, D.M.P. Vancomycin Resistance in Enterococcus and Staphylococcus aureus. Microorganisms 2022,\n11, 24. [CrossRef]\n14.\nArredondo-Alonso, S.; Top, J.; Corander, J.; Willems, R.J.L.; Schürch, A.C. Mode and dynamics of vanA-type vancomycin\nresistance dissemination in Dutch hospitals. Genome Med. 2021, 13, 9.\n15.\nMicek, S.T. Alternatives to vancomycin for the treatment of methicillin-resistant Staphylococcus aureus infections. Clin. Infect. Dis.\n2007, 45 (Suppl. S3), S184–S190. [CrossRef] [PubMed]\n16.\nWu, Q.; Sabokroo, N.; Wang, Y.; Hashemian, M.; Karamollahi, S.; Kouhsari, E. Systematic review and meta-analysis of the\nepidemiology of vancomycin-resistance Staphylococcus aureus isolates. Antimicrob. Resist. Infect. Control 2021, 10, 101. [CrossRef]\n[PubMed]\n17.\nEshetie, S.; Tarekegn, F.; Moges, F.; Amsalu, A.; Birhan, W.; Huruy, K. Methicillin resistant Staphylococcus aureus in Ethiopia:\nA meta-analysis. BMC Infect. Dis. 2016, 16, 689. [CrossRef]\n18.\nAnagaw, B.; Shiferaw, Y.; Anagaw, B.; Biadglegne, F.; Moges, F.; Kassu, A.; Unakal, C.; Mulu, A. Frequency of methicillin-resistant\nStaphylococcus aureus isolates from clinical specimens in Gondar University Hospital, Northwest Ethiopia. Asian J. Med. Sci. 2013,\n5, 59–64. [CrossRef]\n19.\nPal, S.; Sayana, A.; Joshi, A.; Juyal, D. Staphylococcus aureus: A predominant cause of surgical site infections in a rural healthcare\nsetup of Uttarakhand. J. Fam. Med. Prim. Care 2019, 8, 3600–3606.\n20.\nHaaber, J.; Penadés, J.R.; Ingmer, H. Transfer of antibiotic resistance in Staphylococcus aureus. Trends Microbiol. 2017, 25, 893–905.\n[CrossRef] [PubMed]\n21.\nGodebo, G.; Kibru, G.; Tassew, H. Multidrug-resistant bacterial isolates in infected wounds at Jimma University Specialized\nHospital, Ethiopia. Ann. Clin. Microbiol. Antimicrob. 2013, 12, 17. [CrossRef]\n22.\nAlmeida, G.C.; dos Santos, M.M.; Lima, N.G.; Cidral, T.A.; Melo, M.C.; Lima, K.C. Prevalence and factors associated with\nwound colonization by Staphylococcus spp. and Staphylococcus aureus in hospitalized patients in inland northeastern Brazil:\nA cross-sectional study. BMC Infect. Dis. 2014, 14, 328. [CrossRef]\n23.\nTsige, Y.; Tadesse, S.; G/Eyesus, T.; Tefera, M.M.; Amsalu, A.; Menberu, M.A.; Gelaw, B. Prevalence of Methicillin-Resistant\nStaphylococcus aureus and Associated Risk Factors among Patients with Wound Infection at Referral Hospital, Northeast Ethiopia.\nJ. Pathog. 2020, 2020, 3168325. [CrossRef] [PubMed]\n24.\nKahsay, A.; Mihret, A.; Abebe, T.; Andualem, T. Isolation and antimicrobial susceptibility pattern of Staphylococcus aureus in\npatients with surgical site infection at Debre Markos Referral Hospital, Amhara Region, Ethiopia. Arch. Public Health 2014, 72, 16.\n[CrossRef] [PubMed]\n",
+   "n_chars": 5194,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      55.2,
+      559.3,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n14 of 16\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      96.3,
+      357.3,
+      105.4
+     ],
+     "text": "S. aureus; VSSA, Vancomycin-Sensitive S. aureus.\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      130.7,
+      85.5,
+      140.4
+     ],
+     "text": "References\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      145.9,
+      560.8,
+      753.2
+     ],
+     "text": "1.\nTurner, N.A.; Sharma-Kuinkel, B.K.; Maskarinec, S.A.; Eichenberger, E.M.; Shah, P.P.; Carugati, M.; Holland, T.L.; Fowler, V.G.\nMethicillin-resistant Staphylococcus aureus: An overview of basic and clinical research. Nat. Rev. Microbiol. 2019, 17, 203–218.\n[CrossRef]\n2.\nMartínez-Meléndez, A.; Morfín-Otero, R.; Villarreal-Treviño, L.; González-González, G.; Llaca-Díaz, J.; Rodríguez-Noriega, E.;\nCamacho-Ortíz, A.; Garza-González, E. Staphylococcal cassette chromosome mec (SCCmec) in coagulase negative staphylococci.\nMed. Univ. 2015, 17, 229–233. [CrossRef]\n3.\nBeims, H.; Overmann, A.; Fulde, M.; Steinert, M.; Bergmann, S. Isolation of Staphylococcus sciuri from horse skin infection. Open\nVet. J. 2016, 6, 242–246. [CrossRef]\n4.\nCheung, G.Y.C.; Bae, J.S.; Otto, M. Pathogenicity and virulence of Staphylococcus aureus. Virulence 2021, 12, 547–569. [CrossRef]\n[PubMed]\n5.\nGhssein, G.; Ezzeddine, Z. The Key Element Role of Metallophores in the Pathogenicity and Virulence of Staphylococcus aureus:\nA Review. Biology 2022, 11, 1525. [CrossRef] [PubMed]\n6.\nDavid, M.Z.; Daum, R.S. Treatment of Staphylococcus aureus Infections. Curr. Top. Microbiol. Immunol. 2017, 409, 325–383.\n7.\nHiramatsu, K.; Katayama, Y.; Matsuo, M.; Sasaki, T.; Morimoto, Y.; Sekiguchi, A.; Baba, T. Multi-drug-resistant Staphylococcus\naureus and future chemotherapy. J. Infect. Chemother. 2014, 20, 593–601. [CrossRef] [PubMed]\n8.\nMahjabeen, F.; Saha, U.; Mostafa, M.N.; Siddique, F.; Ahsan, E.; Fathma, S.; Tasnim, A.; Rahman, T.; Faruq, R.; Sakibuzzaman, M.;\net al. An Update on Treatment Options for Methicillin-Resistant Staphylococcus aureus (MRSA) Bacteremia: A Systematic Review.\nCureus 2022, 14, e31486. [CrossRef]\n9.\nVestergaard, M.; Frees, D.; Ingmer, H. Antibiotic Resistance and the MRSA Problem. Microbiol. Spectr. 2019, 7. [CrossRef]\n10.\nLi, X.; Xiong, Y.; Fan, X.; Feng, P.; Tang, H.; Zhou, T. The role of femA regulating gene on methicillin-resistant Staphylococcus\naureus clinical isolates. Med. Mal. Infect. 2012, 42, 218–225. [CrossRef]\n11.\nCong, Y.; Yang, S.; Rao, X. Vancomycin resistant Staphylococcus aureus infections: A review of case updating and clinical features.\nJ. Adv. Res. 2020, 21, 169–176. [CrossRef]\n12.\nStogios, P.J.; Savchenko, A. Molecular mechanisms of vancomycin resistance. Protein Sci. 2020, 29, 654–669. [CrossRef]\n13.\nLi, G.; Walker, M.J.; De Oliveira, D.M.P. Vancomycin Resistance in Enterococcus and Staphylococcus aureus. Microorganisms 2022,\n11, 24. [CrossRef]\n14.\nArredondo-Alonso, S.; Top, J.; Corander, J.; Willems, R.J.L.; Schürch, A.C. Mode and dynamics of vanA-type vancomycin\nresistance dissemination in Dutch hospitals. Genome Med. 2021, 13, 9.\n15.\nMicek, S.T. Alternatives to vancomycin for the treatment of methicillin-resistant Staphylococcus aureus infections. Clin. Infect. Dis.\n2007, 45 (Suppl. S3), S184–S190. [CrossRef] [PubMed]\n16.\nWu, Q.; Sabokroo, N.; Wang, Y.; Hashemian, M.; Karamollahi, S.; Kouhsari, E. Systematic review and meta-analysis of the\nepidemiology of vancomycin-resistance Staphylococcus aureus isolates. Antimicrob. Resist. Infect. Control 2021, 10, 101. [CrossRef]\n[PubMed]\n17.\nEshetie, S.; Tarekegn, F.; Moges, F.; Amsalu, A.; Birhan, W.; Huruy, K. Methicillin resistant Staphylococcus aureus in Ethiopia:\nA meta-analysis. BMC Infect. Dis. 2016, 16, 689. [CrossRef]\n18.\nAnagaw, B.; Shiferaw, Y.; Anagaw, B.; Biadglegne, F.; Moges, F.; Kassu, A.; Unakal, C.; Mulu, A. Frequency of methicillin-resistant\nStaphylococcus aureus isolates from clinical specimens in Gondar University Hospital, Northwest Ethiopia. Asian J. Med. Sci. 2013,\n5, 59–64. [CrossRef]\n19.\nPal, S.; Sayana, A.; Joshi, A.; Juyal, D. Staphylococcus aureus: A predominant cause of surgical site infections in a rural healthcare\nsetup of Uttarakhand. J. Fam. Med. Prim. Care 2019, 8, 3600–3606.\n20.\nHaaber, J.; Penadés, J.R.; Ingmer, H. Transfer of antibiotic resistance in Staphylococcus aureus. Trends Microbiol. 2017, 25, 893–905.\n[CrossRef] [PubMed]\n21.\nGodebo, G.; Kibru, G.; Tassew, H. Multidrug-resistant bacterial isolates in infected wounds at Jimma University Specialized\nHospital, Ethiopia. Ann. Clin. Microbiol. Antimicrob. 2013, 12, 17. [CrossRef]\n22.\nAlmeida, G.C.; dos Santos, M.M.; Lima, N.G.; Cidral, T.A.; Melo, M.C.; Lima, K.C. Prevalence and factors associated with\nwound colonization by Staphylococcus spp. and Staphylococcus aureus in hospitalized patients in inland northeastern Brazil:\nA cross-sectional study. BMC Infect. Dis. 2014, 14, 328. [CrossRef]\n23.\nTsige, Y.; Tadesse, S.; G/Eyesus, T.; Tefera, M.M.; Amsalu, A.; Menberu, M.A.; Gelaw, B. Prevalence of Methicillin-Resistant\nStaphylococcus aureus and Associated Risk Factors among Patients with Wound Infection at Referral Hospital, Northeast Ethiopia.\nJ. Pathog. 2020, 2020, 3168325. [CrossRef] [PubMed]\n24.\nKahsay, A.; Mihret, A.; Abebe, T.; Andualem, T. Isolation and antimicrobial susceptibility pattern of Staphylococcus aureus in\npatients with surgical site infection at Debre Markos Referral Hospital, Amhara Region, Ethiopia. Arch. Public Health 2014, 72, 16.\n[CrossRef] [PubMed]\n"
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "text": "Antibiotics 2023, 12, 1681\n15 of 16\n25.\nCongdon, S.T.; Guaglione, J.A.; Ricketts, O.M.A.; Murphy, K.V.; Anderson, M.G.; Trowbridge, D.A.; Abduladheem, Y.A.;\nPhillips, A.M.; Beausoleil, A.M.; Stanley, A.J.; et al. Prevalence and antibiotic resistance of Staphylococcus aureus associated with a\ncollege-aged cohort: Life-style factors that contribute to nasal carriage. Front. Cell. Infect. Microbiol. 2023, 13, 1195758. [CrossRef]\n[PubMed]\n26.\nKownhar, H.; Shankar, E.M.; Vignesh, R.; Sekar, R.; Velu, V.; Rao, U.A. High isolation rate of Staphylococcus aureus from surgical\nsite infections in an Indian hospital. J. Antimicrob. Chemother. 2008, 61, 758–760. [CrossRef] [PubMed]\n27.\nTadesse, S.; Alemayehu, H.; Tenna, A.; Tadesse, G.; Tessema, T.S.; Shibeshi, W.; Eguale, T. Antimicrobial resistance proﬁle of\nStaphylococcus aureus isolated from patients with infection at Tikur Anbessa Specialized Hospital, Addis Ababa, Ethiopia. BMC\nPharmacol. Toxicol. 2018, 19, 24. [CrossRef] [PubMed]\n28.\nMama, M.; Aklilu, A.; Misgna, K.; Tadesse, M.; Alemayehu, E. Methicillin-and inducible clindamycin-resistant Staphylococcus\naureus among patients with wound infection attending Arba Minch Hospital, South Ethiopia. Int. J. Microbiol. 2019, 2019, 2965490.\n[CrossRef] [PubMed]\n29.\nIbadin, E.E.; Enabulele, I.O.; Muinah, F. Prevalence of mecA gene among staphylococci from clinical samples of a tertiary hospital\nin Benin City, Nigeria. Afr. Health Sci. 2017, 17, 1000–1010. [CrossRef]\n30.\nKavanagh, K.T. Control of MSSA and MRSA in the United States: Protocols, policies, risk adjustment and excuses. Antimicrob.\nResist. Infect. Control 2019, 8, 103. [CrossRef]\n31.\nAl-Orphaly, M.; Hadi, H.A.; Eltayeb, F.K.; Al-Hail, H.; Samuel, B.G.; Sultan, A.A.; Skariah, S. Epidemiology of multidrug-resistant\nPseudomonas aeruginosa in the Middle East and North Africa Region. mSphere 2021, 6, e00202–e00221. [CrossRef]\n32.\nPournajaf, A.; Ardebili, A.; Goudarzi, L.; Khodabandeh, M.; Narimani, T.; Abbaszadeh, H. PCR-based identiﬁcation of methicillin–\nresistant Staphylococcus aureus strains and their antibiotic resistance proﬁles. Asian Pac. J. Trop. Biomed. 2014, 4, S293–S297.\n[CrossRef] [PubMed]\n33.\nTefera, S.; Awoke, T.; Mekonnen, D. Methicillin and vancomycin resistant Staphylococcus aureus and associated factors from\nsurgical ward inpatients at Debre Markos Referral Hospital, Northwest Ethiopia. Infect. Drug Resist. 2021, 14, 3053–3062.\n[CrossRef] [PubMed]\n34.\nAlani, H.A.; Hassawi, D.S.; Flayih, M.T. Patterns of antibiotic resistance in Staphylococcus aureus isolates and detection the\nheteroresistance to vancomycin by population analysis method. JUAPS 2017, 11, 26–33. [CrossRef]\n35.\nMoges, F.; Tamiru, T.; Amare, A.; Mengistu, G.; Eshetie, S.; Dagnew, M.; Feleke, T.; Gizachew, M.; Abebe, W. Prevalence of\nMethicillin-Resistant Staphylococcus aureus and Multidrug-Resistant Strains from Patients Attending the Referral Hospitals of\nAmhara Regional State, Ethiopia. Int. J. Microbiol. 2023, 2023, 3848073. [CrossRef]\n36.\nZahan, N.A.; Hossain, M.A.; Musa, A.K.; Shamsuzzaman, A.K.; Mahamud, M.C.; Mamun, A.A.; Paul, S.K.; Ahmed, S.; Sumona,\nA.A.; Begum, Z.; et al. PCR for mecA gene of methicillin resistant Staphylococcus aureus. Mymensingh Med. J. 2009, 18, 21–26.\n[PubMed]\n37.\nKobayashi, N.; Wu, H.; Kojima, K.; Taniguchi, K.; Urasawa, S.; Uehara, N.; Omizu, Y.; Kishi, Y.; Yagihashi, A.; Kurokawa, I.\nDetection of mecA, femA, and femB genes in clinical strains of using polymerase chain reaction. Epidemiol. Infect. 1994, 113, 259–266.\n[CrossRef]\n38.\nGarza-Gonzalez, E.; Morﬁn-Otero, R.; Llaca-Diaz, J.M.; Rodriguez-Noriega, E. Staphylococcal cassette chromosome mec (SCCmec)\nin methicillin-resistant coagulase-negative staphylococci. Epidemiol. Infect. 2010, 138, 645–654. [CrossRef]\n39.\nZong, Z.; Peng, C.; Lü, X. Diversity of SCC mec elements in methicillin-resistant coagulase-negative staphylococci clinical isolates.\nPLoS ONE 2011, 6, e20191. [CrossRef]\n40.\nBerglund, C.; Söderquist, B. The origin of a methicillin-resistant Staphylococcus aureus isolate at a neonatal ward in Sweden—\nPossible horizontal transfer of a staphylococcal cassette chromosome mec between methicillin-resistant Staphylococcus haemolyti-\ncus and Staphylococcus aureus. Clin. Microbiol. Infect. 2008, 14, 1048–1056. [CrossRef]\n41.\nWu, S.W.; de Lencastre, H.; Tomasz, A. Recruitment of the mecA gene homologue of Staphylococcus sciuri into a resistance\ndeterminant and expression of the resistant phenotype in Staphylococcus aureus. J. Bacteriol. 2001, 183, 2417–2424. [CrossRef]\n42.\nBloemendaal, A.L.A.; Brouwer, E.C.; Fluit, A.C. Methicillin resistance transfer from Staphylocccus epidermidis to methicillin-\nsusceptible Staphylococcus aureus in a patient during antibiotic therapy. PLoS ONE 2010, 5, e11841. [CrossRef] [PubMed]\n43.\nMiragaia, M. Factors Contributing to the Evolution of mecA-Mediated β-lactam Resistance in Staphylococci: Update and New\nInsights From Whole Genome Sequencing (WGS). Front. Microbiol. 2018, 9, 2723. [CrossRef]\n44.\nSun, J.; Deng, Z.; Yan, A. Bacterial multidrug efﬂux pumps: Mechanisms, physiology and pharmacological exploitations. Biochem.\nBiophys. Res. 2014, 453, 254–267. [CrossRef] [PubMed]\n45.\nZong, Z. Characterization of a complex context containing mecA but lacking genes encoding cassette chromosome recombinases\nin Staphylococcus haemolyticus. BMC Microbiol. 2013, 13, 64. [CrossRef] [PubMed]\n46.\nElhassan, M.M.; Ozbak, H.A.; Hemeg, H.A.; Elmekki, M.A.; Ahmed, L.M. Absence of the mecA gene in methicillin resistant\nStaphylococcus aureus isolated from different clinical specimens in Shendi city, Sudan. BioMed. Res. Int. 2015, 2015, 895860.\n[CrossRef] [PubMed]\n47.\nMcGuinness, W.A.; Malachowa, N.; DeLeo, F.R. Vancomycin Resistance in Staphylococcus aureus. Yale J. Biol. Med. 2017, 90, 269–281.\n48.\nEzzeddine, Z.; Ghssein, G. Towards new antibiotics classes targeting bacterial metallophores. Microb. Pathog. 2023, 182, 106221.\n[CrossRef]\n",
+   "n_chars": 5964,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      55.2,
+      559.3,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n15 of 16\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      96.4,
+      561.1,
+      761.3
+     ],
+     "text": "25.\nCongdon, S.T.; Guaglione, J.A.; Ricketts, O.M.A.; Murphy, K.V.; Anderson, M.G.; Trowbridge, D.A.; Abduladheem, Y.A.;\nPhillips, A.M.; Beausoleil, A.M.; Stanley, A.J.; et al. Prevalence and antibiotic resistance of Staphylococcus aureus associated with a\ncollege-aged cohort: Life-style factors that contribute to nasal carriage. Front. Cell. Infect. Microbiol. 2023, 13, 1195758. [CrossRef]\n[PubMed]\n26.\nKownhar, H.; Shankar, E.M.; Vignesh, R.; Sekar, R.; Velu, V.; Rao, U.A. High isolation rate of Staphylococcus aureus from surgical\nsite infections in an Indian hospital. J. Antimicrob. Chemother. 2008, 61, 758–760. [CrossRef] [PubMed]\n27.\nTadesse, S.; Alemayehu, H.; Tenna, A.; Tadesse, G.; Tessema, T.S.; Shibeshi, W.; Eguale, T. Antimicrobial resistance proﬁle of\nStaphylococcus aureus isolated from patients with infection at Tikur Anbessa Specialized Hospital, Addis Ababa, Ethiopia. BMC\nPharmacol. Toxicol. 2018, 19, 24. [CrossRef] [PubMed]\n28.\nMama, M.; Aklilu, A.; Misgna, K.; Tadesse, M.; Alemayehu, E. Methicillin-and inducible clindamycin-resistant Staphylococcus\naureus among patients with wound infection attending Arba Minch Hospital, South Ethiopia. Int. J. Microbiol. 2019, 2019, 2965490.\n[CrossRef] [PubMed]\n29.\nIbadin, E.E.; Enabulele, I.O.; Muinah, F. Prevalence of mecA gene among staphylococci from clinical samples of a tertiary hospital\nin Benin City, Nigeria. Afr. Health Sci. 2017, 17, 1000–1010. [CrossRef]\n30.\nKavanagh, K.T. Control of MSSA and MRSA in the United States: Protocols, policies, risk adjustment and excuses. Antimicrob.\nResist. Infect. Control 2019, 8, 103. [CrossRef]\n31.\nAl-Orphaly, M.; Hadi, H.A.; Eltayeb, F.K.; Al-Hail, H.; Samuel, B.G.; Sultan, A.A.; Skariah, S. Epidemiology of multidrug-resistant\nPseudomonas aeruginosa in the Middle East and North Africa Region. mSphere 2021, 6, e00202–e00221. [CrossRef]\n32.\nPournajaf, A.; Ardebili, A.; Goudarzi, L.; Khodabandeh, M.; Narimani, T.; Abbaszadeh, H. PCR-based identiﬁcation of methicillin–\nresistant Staphylococcus aureus strains and their antibiotic resistance proﬁles. Asian Pac. J. Trop. Biomed. 2014, 4, S293–S297.\n[CrossRef] [PubMed]\n33.\nTefera, S.; Awoke, T.; Mekonnen, D. Methicillin and vancomycin resistant Staphylococcus aureus and associated factors from\nsurgical ward inpatients at Debre Markos Referral Hospital, Northwest Ethiopia. Infect. Drug Resist. 2021, 14, 3053–3062.\n[CrossRef] [PubMed]\n34.\nAlani, H.A.; Hassawi, D.S.; Flayih, M.T. Patterns of antibiotic resistance in Staphylococcus aureus isolates and detection the\nheteroresistance to vancomycin by population analysis method. JUAPS 2017, 11, 26–33. [CrossRef]\n35.\nMoges, F.; Tamiru, T.; Amare, A.; Mengistu, G.; Eshetie, S.; Dagnew, M.; Feleke, T.; Gizachew, M.; Abebe, W. Prevalence of\nMethicillin-Resistant Staphylococcus aureus and Multidrug-Resistant Strains from Patients Attending the Referral Hospitals of\nAmhara Regional State, Ethiopia. Int. J. Microbiol. 2023, 2023, 3848073. [CrossRef]\n36.\nZahan, N.A.; Hossain, M.A.; Musa, A.K.; Shamsuzzaman, A.K.; Mahamud, M.C.; Mamun, A.A.; Paul, S.K.; Ahmed, S.; Sumona,\nA.A.; Begum, Z.; et al. PCR for mecA gene of methicillin resistant Staphylococcus aureus. Mymensingh Med. J. 2009, 18, 21–26.\n[PubMed]\n37.\nKobayashi, N.; Wu, H.; Kojima, K.; Taniguchi, K.; Urasawa, S.; Uehara, N.; Omizu, Y.; Kishi, Y.; Yagihashi, A.; Kurokawa, I.\nDetection of mecA, femA, and femB genes in clinical strains of using polymerase chain reaction. Epidemiol. Infect. 1994, 113, 259–266.\n[CrossRef]\n38.\nGarza-Gonzalez, E.; Morﬁn-Otero, R.; Llaca-Diaz, J.M.; Rodriguez-Noriega, E. Staphylococcal cassette chromosome mec (SCCmec)\nin methicillin-resistant coagulase-negative staphylococci. Epidemiol. Infect. 2010, 138, 645–654. [CrossRef]\n39.\nZong, Z.; Peng, C.; Lü, X. Diversity of SCC mec elements in methicillin-resistant coagulase-negative staphylococci clinical isolates.\nPLoS ONE 2011, 6, e20191. [CrossRef]\n40.\nBerglund, C.; Söderquist, B. The origin of a methicillin-resistant Staphylococcus aureus isolate at a neonatal ward in Sweden—\nPossible horizontal transfer of a staphylococcal cassette chromosome mec between methicillin-resistant Staphylococcus haemolyti-\ncus and Staphylococcus aureus. Clin. Microbiol. Infect. 2008, 14, 1048–1056. [CrossRef]\n41.\nWu, S.W.; de Lencastre, H.; Tomasz, A. Recruitment of the mecA gene homologue of Staphylococcus sciuri into a resistance\ndeterminant and expression of the resistant phenotype in Staphylococcus aureus. J. Bacteriol. 2001, 183, 2417–2424. [CrossRef]\n42.\nBloemendaal, A.L.A.; Brouwer, E.C.; Fluit, A.C. Methicillin resistance transfer from Staphylocccus epidermidis to methicillin-\nsusceptible Staphylococcus aureus in a patient during antibiotic therapy. PLoS ONE 2010, 5, e11841. [CrossRef] [PubMed]\n43.\nMiragaia, M. Factors Contributing to the Evolution of mecA-Mediated β-lactam Resistance in Staphylococci: Update and New\nInsights From Whole Genome Sequencing (WGS). Front. Microbiol. 2018, 9, 2723. [CrossRef]\n44.\nSun, J.; Deng, Z.; Yan, A. Bacterial multidrug efﬂux pumps: Mechanisms, physiology and pharmacological exploitations. Biochem.\nBiophys. Res. 2014, 453, 254–267. [CrossRef] [PubMed]\n45.\nZong, Z. Characterization of a complex context containing mecA but lacking genes encoding cassette chromosome recombinases\nin Staphylococcus haemolyticus. BMC Microbiol. 2013, 13, 64. [CrossRef] [PubMed]\n46.\nElhassan, M.M.; Ozbak, H.A.; Hemeg, H.A.; Elmekki, M.A.; Ahmed, L.M. Absence of the mecA gene in methicillin resistant\nStaphylococcus aureus isolated from different clinical specimens in Shendi city, Sudan. BioMed. Res. Int. 2015, 2015, 895860.\n[CrossRef] [PubMed]\n47.\nMcGuinness, W.A.; Malachowa, N.; DeLeo, F.R. Vancomycin Resistance in Staphylococcus aureus. Yale J. Biol. Med. 2017, 90, 269–281.\n48.\nEzzeddine, Z.; Ghssein, G. Towards new antibiotics classes targeting bacterial metallophores. Microb. Pathog. 2023, 182, 106221.\n[CrossRef]\n"
+    }
+   ]
+  },
+  {
+   "page": 16,
+   "text": "Antibiotics 2023, 12, 1681\n16 of 16\n49.\nCoates, A.R.; Hu, Y. Novel approaches to developing new antibiotics for bacterial infections. Br. J. Pharmacol. 2007, 152, 1147–1154.\n[CrossRef]\n50.\nYang, X.; Zhao, J.; Wang, Y.; Wu, J.; Wang, X.; Wang, Y.; Zhang, Y.; Li, H. Molecular Epidemiology of Methicillin-Resistant\nStaphylococcus aureus in Hospitalized Patients in Eastern Heilongjiang Province, China. Infect. Drug Resist. 2021, 14, 1635–1643.\n[CrossRef]\n51.\nMengesha, R.E.; Kasa, B.G.; Saravanan, M.; Berhe, D.F.; Wasihun, A.G. Aerobic bacteria in post surgical wound infections and\npattern of their antimicrobial susceptibility in Ayder Teaching and Referral Hospital, Mekelle, Ethiopia. BMC Res. Notes 2014,\n7, 575. [CrossRef]\n52.\nBendary, M.M.; Solyman, S.M.; Azab, M.M.; Mahmoud, N.F.; Hanora, A.M. Genetic diversity of multidrug resistant Staphylococcus\naureus isolated from clinical and non clinical samples in Egypt. Cell. Mol. Biol. 2016, 62, 55–61. [PubMed]\n53.\nTorres-Sangiao, E.; Leal Rodriguez, C.; García-Riestra, C. Application and Perspectives of MALDI–TOF Mass Spectrometry in\nClinical Microbiology Laboratories. Microorganisms 2021, 9, 1539. [CrossRef] [PubMed]\n54.\nHou, T.-Y.; Chiang-Ni, C.; Teng, S.-H. Current status of MALDI-TOF mass spectrometry in clinical microbiology. J. Food Drug\nAnal. 2019, 27, 404–414. [CrossRef] [PubMed]\n55.\nClinical Laboratory Standard Institute. Performans Standards for Antimicrobial Susceptablity Testing, CLSI Supplement M100, 30th ed.;\nClinical and Laboratory Standared Institiute: Wayne, PA, USA, 2021.\n56.\nCenters for Disease Control and Prevention. Laboratory Detection of Vancomycin-Intermediate/Resistant Staphylococcus aureus\n(VISA/VRSA); Centers for Disease Control and Prevention: Atlanta, GA, USA, 2006.\n57.\nYamagishi, J.; Sato, Y.; Shinozaki, N.; Ye, B.; Tsuboi, A.; Nagasaki, M.; Yamashita, R. Comparison of boiling and robotics\nautomation method in DNA extraction for metagenomic sequencing of human oral microbes. PLoS ONE 2016, 11, e0154389.\n[CrossRef]\n58.\nPerez-Roth, E.; Claverie-Martın, F.; Villar, J.; Mendez-Alvarez, S. Multiplex PCR for simultaneous identiﬁcation of Staphylococcus\naureus and detection of methicillin and mupirocin resistance. J. Clin. Microbiol. 2001, 39, 4037–4041. [CrossRef]\n59.\nEmamie, A.; Zolfaghari, P.; Zarei, A.; Ghorbani, M. Prevalence and antibiotic resistance of ESKAPE pathogens isolated from\npatients with bacteremia in Tehran, Iran. Indian J. Med. Spec. 2023, 14, 97.\n60.\nAl-Marzoqi, A.; Azize, H.; Al Dulaimi, T.; Ahmed, N. Phenotypic detection of resistance in Staphylococcus aureus isolates: Detection\nof (mec A and fem A) gene in methicillin resistant Staphylococcus aureus (MRSA) by Polymerase Chain Reaction. J. Nat. Sci. Res.\n2014, 4, 112–118.\nDisclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual\nauthor(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to\npeople or property resulting from any ideas, methods, instructions or products referred to in the content.\n",
+   "n_chars": 3126,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      55.2,
+      559.3,
+      63.2
+     ],
+     "text": "Antibiotics 2023, 12, 1681\n16 of 16\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      96.3,
+      560.8,
+      416.0
+     ],
+     "text": "49.\nCoates, A.R.; Hu, Y. Novel approaches to developing new antibiotics for bacterial infections. Br. J. Pharmacol. 2007, 152, 1147–1154.\n[CrossRef]\n50.\nYang, X.; Zhao, J.; Wang, Y.; Wu, J.; Wang, X.; Wang, Y.; Zhang, Y.; Li, H. Molecular Epidemiology of Methicillin-Resistant\nStaphylococcus aureus in Hospitalized Patients in Eastern Heilongjiang Province, China. Infect. Drug Resist. 2021, 14, 1635–1643.\n[CrossRef]\n51.\nMengesha, R.E.; Kasa, B.G.; Saravanan, M.; Berhe, D.F.; Wasihun, A.G. Aerobic bacteria in post surgical wound infections and\npattern of their antimicrobial susceptibility in Ayder Teaching and Referral Hospital, Mekelle, Ethiopia. BMC Res. Notes 2014,\n7, 575. [CrossRef]\n52.\nBendary, M.M.; Solyman, S.M.; Azab, M.M.; Mahmoud, N.F.; Hanora, A.M. Genetic diversity of multidrug resistant Staphylococcus\naureus isolated from clinical and non clinical samples in Egypt. Cell. Mol. Biol. 2016, 62, 55–61. [PubMed]\n53.\nTorres-Sangiao, E.; Leal Rodriguez, C.; García-Riestra, C. Application and Perspectives of MALDI–TOF Mass Spectrometry in\nClinical Microbiology Laboratories. Microorganisms 2021, 9, 1539. [CrossRef] [PubMed]\n54.\nHou, T.-Y.; Chiang-Ni, C.; Teng, S.-H. Current status of MALDI-TOF mass spectrometry in clinical microbiology. J. Food Drug\nAnal. 2019, 27, 404–414. [CrossRef] [PubMed]\n55.\nClinical Laboratory Standard Institute. Performans Standards for Antimicrobial Susceptablity Testing, CLSI Supplement M100, 30th ed.;\nClinical and Laboratory Standared Institiute: Wayne, PA, USA, 2021.\n56.\nCenters for Disease Control and Prevention. Laboratory Detection of Vancomycin-Intermediate/Resistant Staphylococcus aureus\n(VISA/VRSA); Centers for Disease Control and Prevention: Atlanta, GA, USA, 2006.\n57.\nYamagishi, J.; Sato, Y.; Shinozaki, N.; Ye, B.; Tsuboi, A.; Nagasaki, M.; Yamashita, R. Comparison of boiling and robotics\nautomation method in DNA extraction for metagenomic sequencing of human oral microbes. PLoS ONE 2016, 11, e0154389.\n[CrossRef]\n58.\nPerez-Roth, E.; Claverie-Martın, F.; Villar, J.; Mendez-Alvarez, S. Multiplex PCR for simultaneous identiﬁcation of Staphylococcus\naureus and detection of methicillin and mupirocin resistance. J. Clin. Microbiol. 2001, 39, 4037–4041. [CrossRef]\n59.\nEmamie, A.; Zolfaghari, P.; Zarei, A.; Ghorbani, M. Prevalence and antibiotic resistance of ESKAPE pathogens isolated from\npatients with bacteremia in Tehran, Iran. Indian J. Med. Spec. 2023, 14, 97.\n60.\nAl-Marzoqi, A.; Azize, H.; Al Dulaimi, T.; Ahmed, N. Phenotypic detection of resistance in Staphylococcus aureus isolates: Detection\nof (mec A and fem A) gene in methicillin resistant Staphylococcus aureus (MRSA) by Polymerase Chain Reaction. J. Nat. Sci. Res.\n2014, 4, 112–118.\n"
+    },
+    {
+     "bbox": [
+      35.4,
+      433.1,
+      559.3,
+      465.1
+     ],
+     "text": "Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual\nauthor(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to\npeople or property resulting from any ideas, methods, instructions or products referred to in the content.\n"
+    }
+   ]
+  }
+ ]
+}

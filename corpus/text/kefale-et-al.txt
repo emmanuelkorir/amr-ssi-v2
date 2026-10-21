@@ -1,0 +1,1158 @@
+
+
+===== PAGE 1 =====
+
+Infection and Drug Resistance
+ISSN: 1178-6973 (Online) Journal homepage: www.tandfonline.com/journals/didr20
+Surgical Site Infections and Prophylaxis Antibiotic
+Use in the Surgical Ward of Public Hospital in
+Western Ethiopia: A Hospital-Based Retrospective
+Cross-Sectional Study
+Belayneh Kefale, Gobezie T Tegegne, Amsalu Degu, Mulugeta Molla & Yitayih
+Kefale
+To cite this article: Belayneh Kefale, Gobezie T Tegegne, Amsalu Degu, Mulugeta Molla &
+Yitayih Kefale (2020) Surgical Site Infections and Prophylaxis Antibiotic Use in the Surgical Ward
+of Public Hospital in Western Ethiopia: A Hospital-Based Retrospective Cross-Sectional Study,
+Infection and Drug Resistance, , 3627-3635, DOI: 10.2147/IDR.S281097
+To link to this article:  https://doi.org/10.2147/IDR.S281097
+© 2020 Kefale et al.
+Published online: 15 Oct 2020.
+Submit your article to this journal 
+Article views: 1463
+View related articles 
+View Crossmark data
+Citing articles: 19 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=didr20
+
+
+===== PAGE 2 =====
+
+O R I G I N A L R E S E A R C H
+Surgical Site Infections and Prophylaxis Antibiotic 
+Use in the Surgical Ward of Public Hospital in 
+Western Ethiopia: A Hospital-Based 
+Retrospective Cross-Sectional Study
+This article was published in the following Dove Press journal: 
+Infection and Drug Resistance
+Belayneh Kefale
+1 
+Gobezie T Tegegne
+2 
+Amsalu Degu
+3 
+Mulugeta Molla4 
+Yitayih Kefale5
+1Clinical Pharmacy Unit and Research 
+Team, Department of Pharmacy, College 
+of Health Sciences, Debre Tabor 
+University, Debre Tabor, Amhara, 
+Ethiopia; 2Department of Pharmacology 
+and Clinical Pharmacy, School of 
+Pharmacy, College of Health Sciences, 
+Addis Ababa University, Addis Ababa, 
+Ethiopia; 3Department of Pharmaceutics 
+and Pharmacy Practice, School of 
+Pharmacy and Health Sciences, United 
+States International University-Africa, 
+Nairobi, Kenya; 4Pharmacology and 
+Toxicology Unit and Research Team, 
+Department of Pharmacy, College of 
+Health Sciences, Debre Tabor University, 
+Debre Tabor, Amhara, Ethiopia; 5Clinical 
+Pharmacy Unit, Department of Pharmacy, 
+Bahir Dar Health Sciences College, Bahir 
+Dar, Amhara, Ethiopia 
+Objective: Surgical site infection (SSI) is one of the leading causes of hospital-acquired 
+infection among hospitalized patients. It causes significant health problems and results in an 
+extended length of hospital stay, increased cost, and increased patient morbidity and mor­
+tality. To prevent the development of SSI, surgical antibiotic prophylaxis (SAP) administra­
+tion before surgery is an evidence-based practice. Therefore, this study aimed to assess the 
+prevalence of SSIs and surgical antibiotic prophylaxis practice, and identifying the gap in 
+practicing prophylactic surgical antibiotic use.
+Methods: A retrospective cross-sectional study design was conducted on randomly selected 
+281 participants who fulfilled the inclusion criteria. Appropriateness of surgical antibiotic 
+prophylaxis was assessed by clinical pharmacists based on the standard treatment guideline. 
+Descriptive and multivariate logistic regression analyses were performed in SPSS version 25. 
+Statistical significance was set at p <0.05.
+Results: The overall prevalence of SSI was 19.6% (95% CI: 19–20.2). Majority of surgical 
+patients (88.6%) got surgical antibiotic prophylaxis. Ceftriaxone and metronidazole (45.4%), and 
+ceftriaxone (33.3%) were the most frequently used prophylactic antibiotics. Presence of comor­
+bidity (AOR=9.18, 95% CI: 5.17–17.9, p<0.001), contaminated (AOR=6.01, 95% CI: 1.77– 
+16.8, p=0.019) and dirty (AOR=7.20, 95% CI: 1.23–12.1, p=0.029) wound classes, devoid of 
+prophylactic antibiotics (AOR=6.63, 95% CI: 0.89–19.3, p=0.006), the timing of prophylactic 
+antibiotic administration between 1 hour and 2 hours before incision (AOR=8.2, 95% CI: 4.34– 
+18.1, p=0.001), and 48 hours duration of surgical antimicrobial prophylaxis (AOR=7.20, 95% 
+CI: 1.23–28.17, p=0.027) were significantly associated with the development of SSIs.
+Conclusion: The prevalence of SSI was relatively high despite most surgical patients were 
+given prophylactic antibiotics. The presence of comorbidity, contaminated and dirty wound 
+classes, devoid of prophylactic antibiotics, administering prophylactic antibiotics between 
+1 hour and 2 hours before incision, and 48 hours duration of surgical antibiotic prophylaxis 
+were significantly associated with SSIs.
+Keywords: surgical site infection, surgical antibiotic prophylaxis, Finote Selam General 
+Hospital, Ethiopia
+Introduction
+Hospital-acquired infections remain a major clinical problem that caused significant 
+morbidity and mortality, and increased healthcare cost.1 In developing countries, it 
+is estimated that about 10% of hospitalized patients acquired hospital-acquired 
+Correspondence: Belayneh Kefale  
+Clinical Pharmacy Unit and Research Team, 
+Department of Pharmacy, College of Health 
+Sciences, Debre Tabor University, Debre 
+Tabor, Amhara, Ethiopia  
+Tel +251913805289  
+Email bkefale5@gmail.com
+submit your manuscript | www.dovepress.com
+Infection and Drug Resistance 2020:13 3627–3635                                                         
+3627
+http://doi.org/10.2147/IDR.S281097 
+DovePress
+© 2020 Kefale et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms. 
+php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the 
+work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For 
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+Infection and Drug Resistance                                                              
+Dovepress
+open access to scientific and medical research
+Open Access Full Text Article
+
+
+===== PAGE 3 =====
+
+infections. Most of them are SSIs that accounted for 5.6% 
+of surgical admitted patients.2 SSI is an infection occurring 
+at or near surgical incision within 30 days of operation or 
+after one year in case of an implant and affecting either the 
+incision or the deep tissue in parts of the body where the 
+surgery took place.3 Patients who developed SSI were 
+more likely to have an outpatient and emergency depart­
+ment visits, frequent radiological service use, high rate of 
+readmission, and home health aide service.4 In addition, 
+SSI was a significant predictor of patient morbidity and 
+mortality,5 associated with an extended duration of hospi­
+tal stay,6 and resulted in an increased healthcare cost.7 
+Further, antimicrobial resistance in SSI was another chal­
+lenge in the healthcare system.8,9
+In low- and middle-income countries, more than one in 
+ten surgical patients developed SSI. Even the risk of SSI is 
+three to five times more susceptible to SSI in low- and 
+middle-income 
+countries 
+than 
+in 
+high-income 
+countries.10,11 In Africa, SSIs were the leading hospital- 
+acquired infections, and the cumulative incidence varies 
+from 2.5% to 30.9% as reported in a systematic review.12 
+In Ethiopia, although there was limited information, 
+10.9–75% of surgical patients developed SSI at different 
+teaching hospitals.13–16 Furthermore, a meta-analysis 
+reported that the pooled prevalence of SSI in Ethiopia 
+was 12.3%.17
+Surgical antibiotic prophylaxis (SAP) administration 
+before surgery is an evidence-based practice to prevent 
+the development of SSI.18 The literature recommends 
+that antibiotics should be administered at least 30 minutes, 
+but not more than 60 minutes, before incision.19 However, 
+the nature of the pathogen, pharmacokinetics and pharma­
+codynamic profile of antibiotics, correct timing, dose, and 
+route of administration are significantly related to the pre­
+vention of SSI and appropriate prophylaxis antibiotic use.1 
+According to the World Health Organization (WHO), the 
+maximum duration of post-operative prophylaxis adminis­
+tration should be within 24 hours of the incision.20 
+Furthermore, antibiotic prophylaxis is usually indicated 
+in contaminated wounds, penetrating wounds, abdominal 
+trauma, compound fractures and wounds with devitalized 
+tissue, which has a higher risk of infection.21 Despite this 
+recommendation, evidence showed that SAP was often 
+inappropriately 
+reported 
+by 
+different 
+studies.1,22,23 
+Inappropriate choice, timing, and the SAP duration were 
+the commonly reported irrational use of prophylactic 
+antibiotics.1,22,24 30–50% of surgical patients prescribed 
+prophylactic antibiotics, and of which, 30–90% was 
+inappropriate.25,26 Due to these irrational prophylactic 
+antibiotic uses, increased medical care costs, prolonged 
+hospitalization, superinfection, resistance, and adverse 
+drug reaction were the frequently reported adverse 
+effects.18,22
+Although several studies have been conducted on SSIs, 
+with significant variations in different regions, there was 
+a paucity of data in the Northwest part of Ethiopia. 
+Besides, these previous studies showed that antibiotics 
+use associated problems were highly prevalent in 
+Ethiopia.27 Therefore, this study aimed to assess surgical 
+antibiotic prophylaxis practice and prevalence of SSI 
+among surgically operated patients at Finote Selam 
+General Hospital (FSGH), which will help promote SSI 
+control and rational antibiotic prophylaxis utilization.
+Methods
+Study Design and Setting
+A retrospective cross-sectional study design was con­
+ducted at FSGH located 387 km from Addis Ababa, 
+Northwest Ethiopia. It is one of the biggest general hospi­
+tals in Northwest Ethiopia and provides specialized ser­
+vices in five major departments: Pediatrics, Surgery, 
+Gynecology, 
+Outpatient 
+Department, 
+and 
+Internal 
+Medicine. FSGH provides services to people residing in 
+Finote-Selam town and its surroundings. The data were 
+collected from 1st June 2020 to 31st July 2020.
+Study Population
+All patients admitted from 1st June 2019 to 31st May 2020 
+for elective or emergency surgical procedures were eligi­
+ble. The study sample size was determined using a single 
+population proportion formula by considering proportions 
+of SSI rate was 23.5%28 with 5% marginal error and 
+a confidence level of 95% as follows:
+n ¼ z2ðpð1   pÞÞ
+d2
+¼ 276 
+where
+p = the proportion of favorable outcome
+n= sample size
+Z = is standard normal distribution usually set as 1.96 
+(which corresponds to 95% confidence level)
+d = marginal error
+Therefore, with a 5% contingency for incomplete med­
+ical records, the final sample size was 290 surgical 
+patients.
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                    
+DovePress                                                                                                                                                     
+Infection and Drug Resistance 2020:13 
+3628
+Kefale et al                                                                                                                                                            
+Dovepress
+
+
+===== PAGE 4 =====
+
+Eligibility Criteria
+All medical records of surgical patients admitted from 1st 
+June 2019 to 31st May 2020 for elective or emergency 
+surgical procedures with complete medical records were 
+included in the study. Nonetheless, medical records that 
+did not have complete information, such as list of surgical 
+antibiotics prophylaxis, were excluded from the study.
+Study Variables
+The outcome variable for this study was SSI, while age, 
+types of surgery, co-morbidity status, duration of surgery 
+in hours, wound class, prophylactic antibiotic use, timing 
+of prophylactic antibiotic administration, and duration of 
+surgical antimicrobial prophylaxis administration were the 
+main independent variables of the study.
+Sampling Technique and Sampling 
+Procedure
+A simple random sampling technique was used among 
+patients who underwent surgery from 1st June 2019 to 
+31st May 2020. The list of patients who underwent surgery 
+was obtained from the record department of the hospital. 
+Each eligible patient was given specific identification 
+number and written in a piece of paper. Then, this paper 
+was folded and placed in a basket. After meticulous mix­
+ing, the data collectors randomly chose study participants 
+using the lottery method until the estimated sample size 
+was attained. Finally, all the randomly selected medical 
+records were assessed by trained data collector.
+Data Collection Tool and Procedure
+A structured data abstraction format was prepared consid­
+ering the pretest result, which was conducted in 5% of the 
+sample size at Debre Tabor General Hospital, to ensure the 
+validity of data collection instrument. It contained socio- 
+demographic characteristics, clinically related information, 
+and prophylactic antibiotic regimens. Proper training was 
+given for the four clinical pharmacists involved in the data 
+collection. Data were retrospectively collected from the 
+patients’ medical record. Patients’ medical record was 
+reviewed from the time of patient admission to discharge. 
+Appropriateness of surgical antibiotic prophylaxis was 
+assessed by clinical pharmacists based on the American 
+Society of Health-System Pharmacists, the Infectious 
+Diseases Society of America, the Surgical Infection 
+Society, and the Society for Healthcare Epidemiology of 
+America,29 Clinical Practice Guidelines for Antimicrobial 
+Prophylaxis in Surgery29 and World Health Organization 
+SAP guidelines.30
+Data Analysis
+The collected data were cleaned, entered, and analyzed 
+using Statistical Package for the Social Sciences (SPSS) 
+version 25.0 software. Descriptive statistics (frequency, 
+mean, and standard deviation) were employed. In addition, 
+bivariate logistic regression analysis was conducted to 
+investigate risk factors of SSIs. All variables with p<0.20 
+in the bivariate analysis were considered during multivari­
+ate logistic regression. Adjusted Odds Ratio (COR/AOR) 
+with its p-value and confidence interval (95%) were 
+reported in each logistic regression analysis. P-value < 
+0.05 considered as statistically significant.
+Operational Definition of Terms
+Surgical Antimicrobial Prophylaxis
+Any antibiotics given before surgery to prevent surgical 
+site infections.
+Appropriate Surgical Antibiotics Prophylaxis
+Refers to the use right antibiotics to the right indication at 
+the right dose, frequency, route, and duration of antibiotics 
+during the surgical procedure as per the WHO guideline.
+Results
+Socio-Demographic and Clinical 
+Characteristics
+In this study, 281 patients were assessed for SSI and 
+appropriateness of surgical antibiotic prophylaxis use. As 
+depicted in Table 1, 55.2% (155) were males, and almost 
+half of them (52.3%) lived in urban areas. Forty-six per­
+cent of patients were in the age range of 21–40 years.
+Regarding clinical characteristics of study participants, 
+general surgery (39.1%) and gastrointestinal surgery 
+(26.3%) were the frequent surgical procedures in the 
+study setting. More than half of these surgical procedures 
+(53.4%) were elective. In addition, clean contaminated and 
+contaminated wounds constituted 26.3% and 23.5% of 
+surgical procedures, respectively. The predominant propor­
+tion of surgical procedures (62.6%) was taken between 
+1 hour and 3 hours of incision. Further, 26.0% of patients 
+stayed in the hospital for more than one day before surgi­
+cal procedure, while 56.6% of patients stayed in the hos­
+pital for more than two days after surgical procedure 
+(Table 1).
+Infection and Drug Resistance 2020:13                                                                                     
+submit your manuscript | www.dovepress.com                                                                 
+DovePress                                                               
+3629
+Dovepress                                                                                                                                                           
+Kefale et al
+
+
+===== PAGE 5 =====
+
+Prevalence of Surgical Site Infections
+The present study showed that 19.6% (95% CI: 18–21.1) 
+of patients developed SSIs. Of the developed SSI, 14.5%, 
+3% and 3% involved superficial, deep, and organ struc­
+tures, respectively (Figure 1).
+Surgical antibiotic prophylaxis was administered for 
+more than three-fourth of patients (88.6%). 4.4%11 of 
+prophylactic antibiotics were per-oral medications. In 
+addition, 40.6% of antibiotic prophylaxis was given before 
+30 minutes of incision, while 82.8% of them were given 
+between 30 minutes to 1 hour before incision. Of the 
+prescribed antibiotics, 7.2% were inappropriate and 5.4% 
+of these antibiotics’ dosage was inappropriate. Further, 
+43.8% of the prophylactic antibiotics were administered 
+once (Table 2). Ceftriaxone (45.4%), and ceftriaxone and 
+metronidazole (33.3%) were the most frequently used 
+prophylactic antibiotics (Table 3).
+Factors Associated with Surgical Site 
+Infections
+Univariate logistic regression analysis showed that age, 
+types of surgery, co-morbidity status, duration of surgery 
+in hours, wound class, prophylactic antibiotic use, timing 
+of prophylactic antibiotic administration, and duration of 
+Table 1 Socio-Demographic and Clinical Characteristics of the Study Participants (N = 281)
+Variables
+Categories
+N (%)
+Sex
+Male
+155 (55.2)
+Female
+126 (44.8)
+Age
+≤20
+28(10)
+21–40
+131 (46.6)
+41–60
+87 (31.0)
+≥61
+35 (12.5)
+Residence
+Urban
+147 (52.3)
+Rural
+134 (47.7)
+Presence of comorbid conditions
+Yes
+72 (25.6)
+Types of surgery
+Elective
+150 (53.4)
+Emergency
+131 (46.6)
+Types of surgical procedures conducted
+General surgery
+110 (39.1)
+GI surgery
+74 (26.3)
+Gynecologic surgery
+41 (14.6)
+Urological surgery
+33 (11.7)
+Orthopedic surgery
+14 (5.0)
+Other surgery
+9 (3.2)
+Wound class
+Clean
+107 (38.1)
+Clean-contaminated
+74 (26.3)
+Contaminated
+66 (23.5)
+Dirty
+34 (12.5)
+Preoperative duration of hospitalization
+≤1 day
+208 (74.0)
+>1 day
+73 (26.0)
+Postoperative duration of hospitalization
+1 day
+9 (3.2)
+2 days
+113 (40.2)
+3 days
+128 (45.6)
+4 days
+31(11)
+Duration of surgery (in hours)
+<1
+85 (30.2)
+1–2
+115 (40.9)
+>23
+61 (21.7)
+>34
+20 (7.1)
+Note: Other surgery: neck surgery and appendectomy. 
+Abbreviation: GI, gastrointestinal.
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                    
+DovePress                                                                                                                                                     
+Infection and Drug Resistance 2020:13 
+3630
+Kefale et al                                                                                                                                                            
+Dovepress
+
+
+===== PAGE 6 =====
+
+surgical antimicrobial prophylaxis administration were 
+selected for final logistic regression analysis (p < 0.2).
+At the end, multivariate regression analysis revealed 
+that presence of comorbidity (p < 0.001), contaminated (p 
+= 0.019) and dirty (p = 0.029) wound classes, devoid of 
+prophylactic antibiotics (p = 0.006), the timing of prophy­
+lactic antibiotic between 1 hour and 2 hours before 
+incision (p = 0.001), and 48 hours duration of surgical 
+antimicrobial prophylaxis (p = 0.027) were significant 
+predictors of SSI (Table 4).
+Discussion
+In this study, antibiotics were used preoperatively and 
+postoperatively, and the incidence of SSIs was assessed 
+in FSGH, Ethiopia. Socio-demographic and clinical char­
+acteristics, antibiotics utilization practice in surgery, SAP, 
+and factors associated with SSIs were studied. SSIs are the 
+most common cause of hospital-acquired infections that 
+result in considerable morbidity and mortality, extended 
+duration of hospital stay, increased cost, and high rate of 
+antimicrobial resistance and pose an additional burden to 
+the healthcare system.2,5,6
+In the present study, 19.6% (95% CI: 19–20.2) of 
+patients developed SSIs, which is consistent with other 
+previous study conducted by Tekie et al (18%),31 Sievert 
+et al (19.1%),32 Nobandegani et al (20%),33 and Halawi 
+et al (20.6%).34 The finding is higher than studies con­
+ducted by Lubega et al (16.4%),35 Fisha et al (9.9%),36 
+and Alamrew et al (11.1%).25 The higher prevalence of 
+SSI in our setting could be due to the lack of adequate 
+infection control systems, poor practices, and inap­
+propriate use of antibiotics. Likewise, the prevalence 
+of SSI was 
+higher than studies conducted by 
+Mukagendaneza et al (10.9%)37 and Ghali et al 
+(8.6%).38 This variation may be because of the different 
+healthcare services, type of and level of healthcare pro­
+fessionals, sanitation status, and the number of patients 
+seeking medical care.
+Nonetheless, the prevalence was lower than studies 
+conducted by Misganaw et al (23.4%)28 and Mezemir 
+et al (24.6%).39 In addition, it was lower than the recent 
+systematic review performed in Ethiopian literature 
+(25.22%, 95% CI: 17.30–3.14%).40 This disparity could 
+probably be due to the higher prevalence of prophylactic 
+surgical antibiotic use (88.6%) in our setting.
+14%
+3% 3%
+80%
+Surgical site infection rate
+Superficial
+Deep
+Organ/space
+No SSI
+Figure 1 Type of surgical site infection.
+Table 2 Characteristics of Surgical Antimicrobial Prophylaxis 
+Administration
+Variables
+Frequency 
+(%)
+Antibiotic surgical 
+prophylaxis use
+Yes
+249 (88.6)
+Timing of antibiotic 
+prophylaxis 
+Administration
+30 minutes before surgery
+100 (40.6)
+30 minutes to 1 hour 
+before incision
+108 (42.2)
+1–2 hours before incision
+31 (13.2)
+Not known
+10 (4.0)
+Duration of SAP 
+administration
+Single dose
+109 (43.8)
+24 hours
+92 (36.9)
+48 hours
+39 (15.7)
+72 hours
+9 (3.6)
+Indication of SAP
+Indicated and 
+administered
+235 (94.4)
+Administered but not 
+indicated
+14 (5.4)
+Choice of antibiotics 
+prophylaxis
+Appropriate
+218 (92.8)
+Inappropriate
+17 (7.2)
+Dosage appropriateness
+Appropriate
+235 (94.4)
+Inappropriate
+14 (5.4)
+Route
+Intravenous
+203 (81.5)
+Intravenous and oral
+35 (14.1)
+Oral
+11 (4.4)
+Abbreviation: SAP, surgical antibiotic prophylaxis.
+Table 3 Pattern of Prophylactic Antibiotic Use in Surgical Patients
+Prophylaxis Drug
+Frequency (%)
+Ceftriaxone
+113 (45.4)
+Ceftriaxone + metronidazole
+83 (33.3)
+Cloxacillin
+32 (12.9)
+Ceftriaxone + gentamicin + metronidazole
+15 (6.0)
+Ciprofloxacillin
+6 (2.4)
+Note: + Plus.
+Infection and Drug Resistance 2020:13                                                                                     
+submit your manuscript | www.dovepress.com                                                                 
+DovePress                                                               
+3631
+Dovepress                                                                                                                                                           
+Kefale et al
+
+
+===== PAGE 7 =====
+
+The present study showed that most surgical proce­
+dures (71.2%) were undertaken within 1–2 hours. 
+Further, a higher number of surgical procedures were 
+clean (38.1%) surgeries, which is lower as compared to 
+Aragaw et al study,41 where 54% of surgical wounds were 
+clean and 80% of patients received preoperative 
+prophylaxis.
+In our study, 14.7% SSIs were superficial, followed by 
+deep (3%) infections, which is different from Mezemir 
+et al,39 study that reported 40.7% and 37.4% were deep 
+and organ spaced infections, respectively. In addition, 
+a higher percentage of surgical procedures were general 
+(39.1%). On the other hand, Legesse et al,15 and Awoke 
+et al,42 found that head and neck procedures (29.5%) and 
+abdominal surgery (42.9%) were the leading surgical pro­
+cedures, respectively. Further, most of the procedures were 
+elective (53.4%), which is lower than the study conducted 
+by Awoke et al (62.8%).42 The different patterns of surgi­
+cal cases and the type of surgery performed in two hospi­
+tals may be responsible for this variation.
+Regarding prophylactic antibiotic use, 88.6% of surgical 
+patients got surgical antibiotic prophylaxis, which is greater 
+than Alamrew et al (72.1%)25 and lower than Lijaemiro et al 
+(92.0%)43 study. This difference may be due to the variation 
+Table 4 Factors Associated with Surgical Site Infections Occurrence Among Surgical Patients
+Variables
+Categories
+Status of SSI
+Univariate Analysis
+Multivariate Analysis
+No (N, %)
+Yes (N, %)
+COR (95% CI)
+AOR (95% CI)
+p-value
+Sex
+Male
+128(82.6)
+27(17.4)
+1
+1
+Female
+98(77.8)
+28 (22.2)
+1.35(0.75–2.44)
+7.23(0.27–13.6)
+0.801
+Age (in years)
+≤20
+25(89.3)
+3(10.7)
+1
+1
+21–40
+114 (87.0)
+17(13.0)
+1.24(0.34–4.57)
+0.71(0.09–5.63)
+0.749
+41–60
+63(72.4)
+24(27.6)
+3.18(0.88–11.49)*
+6.63(0.89–19.3)
+0.065
+≥61
+24(68.6)
+11(31.4)
+3.82(0.95–15.4)*
+0.33(0.19–5.81)
+0.450
+Types of surgery
+Elective
+131(87.1)
+19(12.9)
+1
+1
+Emergency
+95(72.5)
+36(27.5)
+2.61(1.41–4.83)*
+2.82(0.47–16.8)
+0.254
+Comorbidity 
+status
+Yes
+38(52.8)
+34(47.2)
+8.01 (4.20–15.28)*
+9.18(5.17–17.9)
+<0.001
+No
+188(90)
+21(10)
+1
+1
+Duration of 
+surgery in hours
+<1
+75(88.2)
+10(11.8)
+1
+1
+1–2
+95(82.6)
+20(17.4)
+1.58(0.7–3.58)
+0.85(0.12–6.10)
+0.870
+>23
+48(78.7)
+13(21.3)
+2.03(0.83–5.0)*
+0.52(0.033–8.15)
+0.640
+>34
+8(40)
+12 (60)
+11.25(3.7–34.2)*
+0.38(0.012–12.9)
+0.803
+Wound class
+Clean
+92(86)
+15(14)
+1
+1
+Clean-contaminated
+63(85.1)
+11(14.9)
+1.07(0.46–2.48)
+1.94(0.145–15.8)
+0.617
+Contaminated
+49(74.2)
+17(25.8)
+2.13(0.98–4.62)*
+6.01(1.77–16.8)
+0.019
+Dirty
+22 (64.7)
+12 (35.3)
+3.35(1.37–8.15)*
+7.20(1.23–12.1)
+0.029
+Prophylactic 
+antibiotics
+Received
+210(84.3)
+39(15.7)
+1
+1
+Not received
+16(50)
+16(50)
+5.39(2.49–11.66)*
+6.63(1.89–19.3)
+0.006
+Timing of 
+prophylaxis 
+administration
+30 minutes before surgery
+88(88)
+12(12)
+1
+1
+30 minutes to 1 hour before incision
+98(90.7)
+10(9.3)
+0.8(0.32–1.97)
+0.56(0.1–3.04)
+0.499
+1 to 2 hours before incision
+14(45.2)
+17(54.8)
+10.2(3.93–26.62)*
+8.2(4.34–18.1)
+0.001
+Not known
+5 (50)
+5 (50)
+7.82(1.95–31.37)*
+10.33(0.89–22.1)
+0.062
+Duration of SAP 
+administration
+Single dose
+85(81)
+24(19)
+1
+1
+24 hours
+86(93.5)
+6(6.5)
+0.26(0.1–0.68)*
+0.30(0.64–1.45)
+0.136
+48 hours
+29(74.4)
+10(25.6)
+1.22(0.52–2.86)*
+7.20(1.23–28.17)
+0.027
+72 hours
+4 (44.4)
+5 (55.6)
+9.43(1.71–51.93)
+5.89(0.43–12.28)
+0.834
+Note: *p<0.2. 
+Abbreviations: AOR, adjusted odds ratio; COR, crude odds ratio; SAP, surgical antimicrobial prophylaxis.
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                    
+DovePress                                                                                                                                                     
+Infection and Drug Resistance 2020:13 
+3632
+Kefale et al                                                                                                                                                            
+Dovepress
+
+
+===== PAGE 8 =====
+
+of cases, urgency, and healthcare professionals involved. One 
+hundred (40.6%) of surgical antibiotic prophylaxis was given 
+30 minutes before incision in line with the recommended 
+guideline. This is comparable to a study conducted by 
+Alamrew et al25 and Lee et al.44 According to American 
+Family Physicians recommendations, prophylactic antibio­
+tics should be initiated within 1 hour before surgical 
+incision.45 This supports our study finding as most of our 
+study participants (208, 83.5%) received SAP within 1 hour 
+before surgical incision.
+Of the prescribed antibiotics, 7.2% of them were inap­
+propriate, while 5.4% used inappropriate dosages. Besides, 
+a single antibiotic was used more than half of the surgical 
+patients (60.7%), and ceftriaxone (45.4%) was the most 
+frequently administered antibiotic. The finding is in con­
+trast to Misganaw et al28 and Alamrew et al25 studies, 
+which reported that a combination of ceftriaxone and 
+metronidazole (47.46%) was the frequently used antibio­
+tics. Such variation may be because of the different types 
+of surgical procedures conducted among these studies and 
+variation in the drug’s accessibility. Accordingly, appro­
+priate antibiotic selection, time of administration, and 
+dosage form should be advocated to reduce inappropriate 
+antibiotic use and development of SSIs.
+Our study identified a few risk factors that contributed to 
+SSIs. Patients with comorbidity were nine times more risk to 
+develop SSI than patients without comorbidity. This is in line 
+with Misganaw et al study.28 The presence of comorbidity may 
+expose patients to infection due to lowered immunity. Besides, 
+contaminated and dirty wound classes were six and seven 
+times more susceptible to SSIs than clean wound classes. 
+This finding is in line with Weldu et al,46 Mezemir et al,39 
+and Misganaw et al28 studies. These types of wound classes are 
+suitable for the colonization and multiplication of different 
+pathogens. Patients who did not get prophylactic antibiotics 
+were seven (6.6) times more likely to develop SSI than patients 
+who had prophylactic antibiotics, which is in line with 
+Misganaw et al28 and Alamrew et al25 studies. Administering 
+prophylactic antibiotic prevent colonization and spread of 
+microbes. Prophylactic antibiotic administration between 
+1 hour and 2 hours before the incision was eight times more 
+likely to have SSIs than patients who got these antibiotics 
+before 30 minutes of surgery. Our finding is in line with 
+Legesse et al15 and Misganaw et al28 studies. Prophylactic 
+antibiotic administration within 30 minutes of incision reduces 
+the risk of SSIs. Guidelines recommended that SAP should be 
+administered 30 minutes before incision. The present study 
+also showed that the duration of surgical antibiotic prophylaxis 
+with 48 hours was seven times more likely to develop SSI than 
+patients with a single dose, which is in line with Misganaw et al 
+study.28
+Our study’s strength involves a sufficient number of 
+study participants and comprehensive data collection to 
+generalize to the source population, while the main limita­
+tion is the retrospective nature of the study.
+Conclusion
+Our study found that most of the surgical procedures were 
+general and gastrointestinal. Of these procedures, half of them 
+were either contaminated or dirty wounds. Besides, despite 
+more than three-fourth of surgical patients got surgical anti­
+biotic prophylaxis, one in five of these patients developed SSI. 
+Superficial infections were common SSIs. In addition, more 
+than half of the prescribed prophylactic antibiotics were given 
+after the recommended time limit (30 minutes before the inci­
+sion). Further, the presence of comorbidity, contaminated and 
+dirty wound class, devoid of prophylactic antibiotics, admin­
+istering prophylactic antibiotics between 1 hour and 2 hours 
+before incision, and 48 hours duration of surgical antibiotic 
+prophylaxis were significantly associated with SSIs. 
+Therefore, healthcare professionals should consider the above 
+risk factors while they are undergoing surgical procedures. 
+They should also adhere to the recommended treatment guide­
+line to prescribe appropriate prophylactic surgical antibiotics.
+Abbreviations
+AOR, adjusted odds ratio; CI, confidence interval; COR, 
+crude odds ratio; FSGH, Finote Selam General Hospital; 
+SAP, surgical antibiotic prophylaxis; SPSS, Statistical 
+Package for the Social Sciences; SSI, surgical site infec­
+tion; WHO, World Health Organization.
+Data Sharing Statement
+The datasets used and/or analyzed during the current study are 
+available from the corresponding author on reasonable 
+request.
+Ethics Approval and Informed 
+Consent
+The study was approved by the Ethical Review Board of Debre 
+Tabor University (Approval number: DTU/RE/1/189/12), and 
+subsequent permission was obtained from the Medical Record 
+Department of FSGH. The Ethics Committee and the Hospital 
+waived the informed written consent from the study partici­
+pants due to the retrospective nature of this study. Patients’ 
+Infection and Drug Resistance 2020:13                                                                                     
+submit your manuscript | www.dovepress.com                                                                 
+DovePress                                                               
+3633
+Dovepress                                                                                                                                                           
+Kefale et al
+
+
+===== PAGE 9 =====
+
+personal information and clinical information were recorded 
+by ensuring patient confidentiality without recording their 
+names and address. The methods were carried out following 
+the relevant guidelines and regulations of Debre Tabor 
+University. Our study was conducted in accordance with the 
+Declaration of Helsinki.
+Consent for Publication
+Not applicable
+Acknowledgments
+We would like to acknowledge FSGH medical ward staffs 
+and data abstractors for their valuable contribution towards 
+this project.
+Author Contributions
+All authors made a significant contribution to the work 
+reported, in the conception, study design, execution, acqui­
+sition of data, analysis, and interpretation; took part in 
+drafting, revising, or critically reviewing the article; gave 
+final approval of the version to be published; have agreed 
+on the journal to which the article has been submitted, and 
+agree to be accountable for all aspects of the work.
+Funding
+There is no funding to report.
+Disclosure
+The authors declare that they have no competing interests.
+References
+1. Alemkere G. Antibiotic usage in surgical prophylaxis: A prospective 
+observational study in the surgical ward of Nekemte referral hospital. 
+PLoS One. 2018;13(9):e0203523. doi:10.1371/journal.pone.0203523
+2. Allegranzi B, Nejad SB, Combescure C, et al. Burden of endemic 
+health-care-associated infection in developing countries: systematic 
+review 
+and 
+meta-analysis. 
+Lancet. 
+2011;377(9761):228–241. 
+doi:10.1016/S0140-6736(10)61458-4
+3. Smith MA, Dahlen NR, Bruemmer A, Davis S, Heishman C. Clinical 
+practice guideline surgical site infection prevention. Orthopaedic 
+Nursing. 2013;32(5):242–248. doi:10.1097/NOR.0b013e3182a39c6b
+4. Perencevich EN, Sands KE, Cosgrove SE, Guadagnoli E, Meara E, 
+Platt R. Health and economic impact of surgical site infections diag­
+nosed after hospital discharge. Emerg Infect Dis. 2003;9(2):196. 
+doi:10.3201/eid0902.020232
+5. Astagneau P, Rioux C, Golliot F, Brücker G. Morbidity and mortality 
+associated with surgical site infections: results from the 1997–1999 
+INCISO surveillance. J Hospital Infection. 2001;48(4):267–274. 
+doi:10.1053/jhin.2001.1003
+6. Mahmoud NN, Turpin RS, Yang G, Saunders WB. Impact of surgical site 
+infections on length of stay and costs in selected colorectal procedures. 
+Surg Infect. 2009;10(6):539–544. doi:10.1089/sur.2009.006
+7. Monahan M, Jowett S, Pinkney T, et al. Surgical site infection and 
+costs in low- and middle-income countries: A systematic review of 
+the economic burden. PLoS One. 2020;15(6):e0232960. doi:10.1371/ 
+journal.pone.0232960
+8. Salmanov AG, Dyndar OA, Vdovychenko YP, et al. Surgical site 
+infections and antimicrobial resistance in Kyiv City Hospitals, 
+Ukraine. Wiad Lek. 2019;72(5 cz 1):760–764.
+9. Zahran WA, Zein-Eldeen AA, Hamam SS, Sabal MSE. Surgical site 
+infections: problem of multidrug-resistant bacteria. Menoufia Medical 
+J. 2017;30(4):1005. doi:10.4103/mmj.mmj_119_17
+10. WHO. Stop infections after surgery; what is the problem? 2016. 
+Available from: https://www.who.int/gpsc/ssi-infographic.pdf?ua=1. 
+Accessed August 21, 2020.
+11. Curcio D, Cane A, Fernández F, Correa J. Surgical site infection in 
+elective clean and clean-contaminated surgeries in developing countries. 
+Int 
+J 
+Infectious 
+Diseases. 
+2019;80:34–45. 
+doi:10.1016/j. 
+ijid.2018.12.013
+12. Nejad SB, Allegranzi B, Syed SB, Ellis B, Pittet D. Health-care- 
+associated infection in Africa: a systematic review. Bull World Health 
+Organ. 2011;89:757–765.
+13. Mulu W, Kibru G, Beyene G, Damtie H. Associated risk factors 
+for postoperative nosocomial infections among patients admitted at 
+Felege Hiwot Referral Hospital, Bahir Dar, Northwest Ethiopia. 
+Clin 
+Med 
+Res. 
+2013;2(6):140–147. 
+doi:10.11648/j. 
+cmr.20130206.15
+14. Mengesha RE, Kasa BG-S, Saravanan M, Berhe DF, Wasihun AG. 
+Aerobic bacteria in post surgical wound infections and pattern of 
+their antimicrobial susceptibility in Ayder Teaching and Referral 
+Hospital, Mekelle, Ethiopia. BMC Res Notes. 2014;7(1):1–6.
+15. Laloto TL, Gemeda DH, Abdella SH. Incidence and predictors of 
+surgical site infection in Ethiopia: prospective cohort. BMC Infect 
+Dis. 2017;17(1):119. doi:10.1186/s12879-016-2167-x
+16. Gedefaw G, Asires A, Shiferaw S, Addisu D. Factors associated with 
+surgical site infection among women undergoing obstetrics surgery at 
+Felegehiwot referral hospital, Bahir Dar, Northwest Ethiopia: 
+a retrospective cross-sectional study. Safety in Health. 2018;4(1):14. 
+doi:10.1186/s40886-018-0081-1
+17. Shiferaw WS, Aynalem YA, Akalu TY, Petrucka PM. Surgical site 
+infection and its associated factors in Ethiopia: a systematic review 
+and meta-analysis. BMC Surg. 2020;20:1–15. doi:10.1186/s12893- 
+020-00764-1
+18. Ban KA, Minei JP, Laronga C, et al. American College of Surgeons 
+and Surgical Infection Society: surgical site infection guidelines, 
+2016 update. J Am Coll Surg. 2017;224(1):59–74. doi:10.1016/j. 
+jamcollsurg.2016.10.029
+19. Crader MF, Varacallo M. Preoperative antibiotic prophylaxis. 
+StatPearls. 2020.
+20. WHO Guidelines Development Group, Allegranzi B, Zayed B, 
+Bischoff P, et al. New WHO recommendations on intraoperative 
+and postoperative measures for surgical site infection prevention: an 
+evidence-based global perspective. Lancet Infect Dis. 2016;16(12): 
+e288–e303. doi:10.1016/S1473-3099(16)30402-9.
+21. Organization WH. Prevention and management of wound infection. 
+2010.
+22. Ayele Y, Taye H. Antibiotic utilization pattern for surgical site infec­
+tion prophylaxis at Dil Chora Referral Hospital Surgical Ward, Dire 
+Dawa, Eastern Ethiopia. BMC Res Notes. 2018;11(1):537. 
+doi:10.1186/s13104-018-3629-6
+23. Hosoglu S, Aslan S, Akalin S, Bosnak V. Audit of quality of perio­
+perative antimicrobial prophylaxis. Pharmacy World Sci. 2009;31 
+(1):14–17. doi:10.1007/s11096-008-9259-7
+24. Nabovati E, Vakili-Arki H, Taherzadeh Z, Hasibian MR, Abu-Hanna A, 
+Eslami S. Drug-drug interactions in inpatient and outpatient settings in 
+Iran: a systematic review of the literature. DARU J Pharm Sci. 2014;22 
+(1):52.
+submit your manuscript | www.dovepress.com                                                                                                                                                                                                                    
+DovePress                                                                                                                                                     
+Infection and Drug Resistance 2020:13 
+3634
+Kefale et al                                                                                                                                                            
+Dovepress
+
+
+===== PAGE 10 =====
+
+25. Alamrew K, Tadesse TA, Abiye AA, Shibeshi W. Surgical antimi­
+crobial prophylaxis and incidence of surgical site infections at ethio­
+pian 
+tertiary-care 
+teaching 
+hospital. 
+Infectious 
+Diseases. 
+2019;12:1178633719892267.
+26. Afzal Khan A, Mirshad P, MohAMMed rAfiuddin rAshed GB. 
+A study on the usage pattern of antimicrobial agents for the preven­
+tion of surgical site infections (SSIs) in a tertiary care teaching 
+hospital. JCDR. 2013;7(4):671.
+27. Tefera GM, Feyisa BB, Kebede TM. Antimicrobial use–related pro­
+blems and their costs in surgery ward of Jimma University Medical 
+Center: prospective observational study. PLoS One. 2019;14(5): 
+e0216770.
+28. Misganaw D, Linger B, Abesha A. Surgical antibiotic prophylaxis 
+use and surgical site infection pattern in Dessie Referral Hospital, 
+Dessie, Northeast of Ethiopia. Biomed Res Int. 2020;2020.
+29. Bratzler DW, Dellinger EP, Olsen KM, et al. Clinical practice guide­
+lines for antimicrobial prophylaxis in surgery. Surg Infect. 2013;14 
+(1):73–156. doi:10.1089/sur.2013.9999
+30. Organization WH. Implementation Manual to Support the Prevention 
+of Surgical Site Infections at the Facility Level: Turning 
+Recommendations into Practice: Interim Version. World Health 
+Organization; 2018.
+31. Tekie K Surgical wound infection in Tikur Anbessa hospital with 
+special emphasis on Pseudomonas aeruginosa. Unpublished MSc 
+thesis in medical microbiology. Addis Ababa University, Medical 
+Faculty. Ethiopia; 2008. Available from: http://etd aau edu et/bit 
+stream/handle/123456789/5772/Kassaye% 20Tekie pdf. Accessed 
+January 31, 2014.
+32. Sievert DM, Ricks P, Edwards JR, et al. National Healthcare Safety 
+Network (NHSN) Team and Participating NHSN facilities. 
+Antimicrobial-resistant 
+pathogens 
+associated 
+with 
+healthcare- 
+associated infections: summary of data reported to the national 
+healthcare safety network at the centers for disease control and 
+prevention, 2009–2010. Infect Control Hosp Epidemiol. 2013;34 
+(1):1–14.
+33. Nobandegani Zinat M, Doulatabad Shahla N, Masoumeh R, 
+Ardeshir 
+A. 
+Surgical 
+site 
+infection 
+incidence 
+after 
+a 
+clean-contaminated surgery in Yasuj Shahid Beheshti hospital, Iran. 
+Investigación y Educación En Enfermería. 2011;29(3):435–441.
+34. Halawi E, Assefa T, Hussen S. Pattern of antibiotics use, incidence 
+and predictors of surgical site infections in a tertiary care teaching 
+hospital. BMC Res Notes. 2018;11(1):538. doi:10.1186/s13104-018- 
+3643-8
+35. Lubega A, Joel B, Justina Lucy N. Incidence and etiology of surgical 
+site infections among emergency postoperative patients in mbarara 
+regional referral hospital, South Western Uganda. Surgery Res 
+Practice. 2017;2017.
+36. Fisha K, Azage M, Mulat G, Tamirat KS. The prevalence and root 
+causes of surgical site infections in public versus private hospitals in 
+Ethiopia: a retrospective observational cohort study. Patient Saf Surg. 
+2019;13(1):26. doi:10.1186/s13037-019-0206-4
+37. Mukagendaneza MJ, Munyaneza E, Muhawenayo E, et al. Incidence, 
+root causes, and outcomes of surgical site infections in a tertiary care 
+hospital in Rwanda: a prospective observational cohort study. Patient 
+Saf Surg. 2019;13(1):10. doi:10.1186/s13037-019-0190-8
+38. Ghali H, Ben Rejeb M, Chahed C, et al. Incidence and risk factors of 
+surgical site infection in general surgery department of a Tunisian 
+tertiary teaching hospital: A prospective observational study. 
+Canadian J Infection Control. 2018;33:1.
+39. Mezemir R, Seid A, Gishu T, Demas T, Gize A. Prevalence and root 
+causes of surgical site infections at an academic trauma and burn 
+center in Ethiopia: a cross-sectional study. Patient Saf Surg. 2020;14 
+(1):3. doi:10.1186/s13037-019-0229-x
+40. Birhanu Y, Endalamaw A. Surgical site infection and pathogens in 
+Ethiopia: a systematic review and meta-analysis. Patient Saf Surg. 
+2020;14(1):1–8. doi:10.1186/s13037-020-00232-y
+41. Argaw NA, Shumbash KZ, Asfaw AA, Hawaze S. Assessment of 
+surgical antimicrobial prophylaxis in orthopaedics and traumatology 
+surgical unit of a tertiary care teaching hospital in Addis Ababa. BMC 
+Res Notes. 2017;10(1):1–8. doi:10.1186/s13104-017-2475-2
+42. Awoke N, Arba A, Girma A. Magnitude of surgical site infection and 
+its associated factors among patients who underwent a surgical pro­
+cedure at Wolaita Sodo University Teaching and Referral Hospital, 
+South Ethiopia. PLoS One. 2019;14(12):e0226140.
+43. Lijaemiro H, Berhe Lemlem S, Tesfaye Deressa J. Incidence of 
+surgical site infection and factors associated among cesarean deliv­
+eries in selected government Hospitals in Addis Ababa, Ethiopia, 
+2019. Obstet Gynecol Int. 2020;2020.
+44. Lee JS, Lee HH, Song KY, Park CH, Jeon HM. The feasibility of 
+short term prophylactic antibiotics in gastric cancer surgery. J Gastric 
+Cancer. 2010;10(4):206–211. doi:10.5230/jgc.2010.10.4.206
+45. Salkind AR, Rao KC. Antibiotic prophylaxis to prevent surgical site 
+infections. Am Fam Physician. 2011;83(5):585–590.
+46. Weldu MG, Berhane H, Berhe N, et al. Magnitude and determinant 
+factors of surgical site infection in Suhul hospital Tigrai, northern 
+Ethiopia: a cross-sectional study. Surg Infect. 2018;19(7):684–690. 
+doi:10.1089/sur.2017.312
+Infection and Drug Resistance                                                                                                          
+Dovepress 
+Publish your work in this journal 
+Infection and Drug Resistance is an international, peer-reviewed open- 
+access journal that focuses on the optimal treatment of infection 
+(bacterial, fungal and viral) and the development and institution of 
+preventive strategies to minimize the development and spread of resis­
+tance. The journal is specifically concerned with the epidemiology of  
+antibiotic resistance and the mechanisms of resistance development and 
+diffusion in both hospitals and the community. The manuscript manage­
+ment system is completely online and includes a very quick and fair peer- 
+review system, which is all easy to use. Visit http://www.dovepress.com/ 
+testimonials.php to read real quotes from published authors.  
+Submit your manuscript here: https://www.dovepress.com/infection-and-drug-resistance-journal
+Infection and Drug Resistance 2020:13                                                                                     
+submit your manuscript | www.dovepress.com                                                                 
+DovePress                                                               
+3635
+Dovepress                                                                                                                                                           
+Kefale et al

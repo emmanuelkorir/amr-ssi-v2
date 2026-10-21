@@ -1,0 +1,1696 @@
+
+
+===== PAGE 1 =====
+
+www.thelancet.com/lancetgh   Vol 12   November 2024	
+e1816
+Articles
+Lancet Glob Health 2024; 
+12: e1816–25
+Published Online
+September 5, 2024
+https://doi.org/10.1016/
+S2214-109X(24)00330-9
+See Comment page e1744
+For the French translation of the 
+abstract see Online for 
+appendix 1
+For the Spanish translation of the 
+abstract see Online for 
+appendix 2
+*Collaborating authors are listed 
+in appendix 3 (pp 117–122)
+Correspondence to:
+Dr Shereen Rachel Varghese, 
+Department of Microbiology, 
+Christian Medical College & 
+Hospital, Ludhiana 141008, India
+shereenrv@gmail.com
+or
+Dr Elizabeth Li, NIHR Global 
+Health Research Unit on Global 
+Surgery, Institute of Applied 
+Health Research, University of 
+Birmingham, Birmingham 
+B15 2TT, UK
+y.e.li@bham.ac.uk
+See Online for appendix 3
+Microbiology testing capacity and antimicrobial drug 
+resistance in surgical-site infections: a post-hoc, prospective, 
+secondary analysis of the FALCON randomised trial in 
+seven low-income and middle-income countries
+NIHR Global Health Research Unit on Global Surgery*
+Summary
+Background Surgical-site infection (SSI) is one of the most common health-care-associated infections, substantially 
+contributing to antibiotic use. Targeted antibiotic prophylaxis to prevent SSIs and effective treatment are crucial to 
+controlling antimicrobial resistance (AMR). This study aimed to describe the testing capacity and multidrug 
+resistance (MDR) of SSI microorganisms in low-income and middle-income countries (LMICs).
+Methods This analysis included patients undergoing abdominal surgery in seven LMICs (Benin, Ghana, India, 
+Mexico, Nigeria, Rwanda, and South Africa) as part of the FALCON randomised controlled trial. Wound swabs were 
+collected from patients diagnosed with SSI, as per US Centers for Disease Control and Prevention (CDC) definition. 
+Data on microorganism species and MDR, as per CDC and European Centre for Disease Prevention and Control 
+definitions, were analysed alongside hospital-level data on local microbiological practices. An adjusted analysis was 
+performed to identify perioperative factors associated with MDR. Testing capacity was assessed by the completion of 
+swab testing in positively diagnosed SSIs.
+Findings Between Dec 10, 2018, and Sept 7, 2020, 5788 patients were recruited to the FALCON trial. 1163 patients were 
+diagnosed with an SSI, of whom 905 (77·8%) received prophylactic antibiotics before surgery. In patients with SSIs, 
+935 of 1163 (80·4%) did not have a wound swab; 195 were from hospitals not performing swabs (15 hospitals) and 
+740 were from hospitals with capacity but no swab performed (35 hospitals). Of 228 patients swabbed, 200 (88·5%) 
+had microorganisms detected. Escherichia coli (89 of 200, 37·9%) was the most common microorganism and 
+116 of 200 (58·0%) patients were not covered by the perioperative prophylactic antibiotic. MDR was found in 
+102 of 147 (69·4%) patients for whom data were available to determine MDR status. Adjusted analysis found that 
+appropriate prophylactic antibiotic coverage (adjusted odds ratio 0·43, 95% CI 0·19–0·96) and regular availability of 
+infection control teams (0·32, 0·11–0·93) were associated with a significant reduction in MDR.
+Interpretation Targeted perioperative antibiotic prophylaxis during contaminated abdominal surgery is insufficient in 
+LMICs, with very few SSI organisms undergoing formal diagnosis. Expansion of testing capacity, development of 
+local guidelines, and implementation of infection control teams could support the prevention of SSI through directed 
+antibiotic prophylaxis, subsequently reducing the burden of MDR.
+Funding National Institute for Health and Care Research.
+Copyright © 2024 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 
+license.
+Introduction
+Surgical-site infection (SSI) is one of the most 
+common health-care-associated infections globally 
+and the most frequent postoperative complication,1,2 
+affecting 15–25% of all patients undergoing abdominal 
+surgery.2–4 Patients from low-income countries are 
+disproportionately affected (23·2%) compared with 
+those in middle-income (14·0%) and high-income 
+countries (9·4%).2 Because SSIs typically require 
+antibiotic treatment, the development of SSIs increases 
+the need for additional antibiotic use. Therefore, SSI 
+prevention and targeted antibiotics are key in controlling 
+antimicrobial resistance (AMR). WHO guidelines 
+strongly recommend prophylactic antibiotics to prevent 
+SSIs.5 However, inappropriate use is common. In the 
+past two decades, the biggest growth in antibiotic use 
+has been in low-income and middle-income countries 
+(LMICs),6 and a 165% rise in the use of second-line 
+antibiotics—which are normally reserved for when 
+first-line antibiotics fail— has been seen in these 
+settings.7 Antimicrobial-resistant SSIs have a higher 
+incidence in low-income countries (35·9%) compared 
+with that in middle-income (19·8%) and high-income 
+countries (16·6%).2 WHO has declared that AMR is in 
+the top ten global public health threats facing humanity,8 
+and the Africa Centres for Disease Control and 
+
+
+===== PAGE 2 =====
+
+Articles
+e1817	
+www.thelancet.com/lancetgh   Vol 12   November 2024
+Prevention identified AMR as an urgent public health 
+threat in 2023.9 The Fleming Fund (Department of 
+Health and Social Care, UK)10,11 aims to help LMICs gain 
+knowledge and control of AMR by 2040. Management of 
+SSIs, controlling antibiotic use, timely identification of 
+causative organisms, and reducing AMR will require 
+system-wide approaches that target multiple factors 
+(appendix 3 p 14).
+Although the development of AMR is a natural 
+phenomenon, the inappropriate use of antimicrobial 
+drugs and poor infection prevention and control practices 
+contribute to the emergence of and further spread 
+of AMR alongside an accelerated progression into 
+multidrug resistance (MDR).12 One systematic analysis 
+of 
+the 
+burden 
+of 
+AMR 
+found 
+an 
+estimated 
+4·95 million deaths associated with bacterial AMR 
+in the year 2019, with sub-Saharan Africa observing the 
+highest death rate of 27·3 per 100 deaths.13 As well as 
+increased mortality and morbidity, AMR is associated 
+with an increased length of hospital stay, difficulty 
+treating infections, high health-care costs, and risk of 
+catastrophic health expenditure for patients, particularly 
+in LMICs.12,14
+This study aimed to analyse the antibiotic susceptibility 
+of bacteria in wound swabs of patients who developed an 
+SSI and the microbiology testing capacity and 
+antimicrobial practices of the facilities these patients 
+were admitted to during the FALCON randomised 
+controlled 
+trial 
+(a 
+2 × 2 
+factorial 
+trial 
+testing 
+two interventions aimed at the prevention of SSIs).
+Methods
+Study design
+This study was a post-hoc prospective secondary analysis 
+of a randomised controlled trial, with a protocol designed 
+before data analysis.15 This study is reported according to 
+the STROBE statement (appendix 3 pp 16–20).16 The 
+FALCON 
+trial 
+evaluated 
+the 
+effectiveness 
+of 
+two interventions (2% alcoholic chlorhexidine and 
+triclosan-coated sutures) recommended by WHO to 
+reduce SSIs after abdominal surgery.4,5,15 Patient 
+identification, recruitment to the trial, and outcomes 
+have been comprehensively described in the FALCON 
+trial protocol and primary analysis (appendix 3 
+pp 21–71).4,15 Here, we provide a summary of the main 
+trial.
+The FALCON trial recruited all eligible, consecutive 
+patients undergoing abdominal surgery with an incision 
+of 5 cm or greater. The trial was undertaken in 
+54 hospitals in seven countries (Benin, Ghana, India, 
+Mexico, Nigeria, Rwanda, and South Africa). Patients 
+were randomly assigned by a 2 × 2 factorial design to 
+receive 
+either 
+2% 
+alcoholic 
+chlorhexidine 
+or 
+10% aqueous povidone–iodine skin preparation, and 
+Research in context
+Evidence before this study
+Surgical-site infection (SSI) remains the most common 
+postoperative complication and is associated with substantial 
+morbidity and mortality, particularly in low-resource settings. 
+A search was conducted to identify studies of SSI that 
+described microorganisms and antibiotic resistance from low-
+income and middle-income countries (LMICs), published 
+between Jan 1, 2000, and Feb 16, 2023, with no restrictions on 
+the language of publication. We used the search terms “surgical 
+site infection”, “abdominal surgery”, and “microorganism” or 
+“antibiotic resistance” or any equivalents to these on the 
+MEDLINE, Embase, and Cochrane Library databases. This search 
+identified 153 full-text articles. We found no multicentre 
+studies reporting SSI microorganisms or microbiology testing 
+capacity in hospitals from LMICs. One report described 
+antimicrobial resistance patterns in SSI from a single hospital 
+in Kenya, and an interventional cohort study described 
+antibiotic stewardship for SSI from India. The remaining 
+evidence was largely single-centre or single-country 
+observational studies, commentary, and reviews, or was from 
+high-income settings.
+Added value of this study
+This study provides prospective data from seven LMICs on 
+antimicrobial use in SSIs, microorganism testing capacity, and 
+antimicrobial resistance patterns, as a secondary analysis of the 
+FALCON randomised controlled trial. The infrastructure of a 
+major randomised trial allowed for a multicentre analysis that 
+substantially adds to the current evidence from single-centre 
+studies. We found that whole-system weaknesses are common 
+in the identification and prevention of multidrug 
+resistance (MDR) in hospitals where surgery is performed in 
+LMICs. Expansion of testing capacity, development of local 
+guidelines, and implementation of infection control teams will 
+support the prevention of SSI, the reduction of inappropriate 
+antibiotic use, and the reduction of propagation of MDR 
+through directed antibiotic prophylaxis.
+Implications of all the available evidence
+MDR in SSIs and limited microbial capacity are substantial 
+problems in LMICs, probably affecting most hospitals where 
+surgery is performed. When infections do occur, testing capacity 
+is low, turnaround time is long, and MDR is high. Thus, 
+undirected prophylactic antibiotic use before surgery that is 
+ineffective is common. This study has identified the pressing 
+need for an expansion of testing strategies, development of 
+local antimicrobial guidelines (especially context-specific 
+prophylaxis guidance), and dedicated infection control teams 
+to tackle infection prevention and antimicrobial drug use. 
+Targeted prophylactic antibiotic prevention of SSIs is central to 
+improved patient care and will be likely to have positive effects 
+beyond surgery alone.
+
+
+===== PAGE 3 =====
+
+Articles
+www.thelancet.com/lancetgh   Vol 12   November 2024	
+e1818
+either triclosan-coated sutures or non-coated sutures. 
+Patients were stratified by level of intraoperative 
+contamination (appendix 3 p 2). Those undergoing 
+clean operations (in which the gastrointestinal tract is 
+not entered) were excluded. Patient demographics (age, 
+sex, diabetes status, smoking status, HIV status, and 
+American Society of Anesthesiologists [ASA] grade), 
+perioperative factors (including urgency, contamination, 
+and whether prophylactic antibiotics were given), and 
+30-day postoperative follow-up data (including SSI and 
+microbiology swab data) were prospectively collected. 
+Patients provided written informed consent, which 
+included the use of collected data in all secondary 
+analyses. Approval for this analysis was given by 
+the FALCON trial management group. FALCON was 
+approved by the University of Birmingham Research 
+Ethics Committee (ERN_180230). Ethics and regulatory 
+approvals in each participating country were sought in 
+line with regional or national regulations, or both. The 
+trial was prospectively registered at ClinicalTrials.gov, 
+NCT03700749.
+Microbiology analysis
+Patients with a diagnosis of SSI (as per the US Centers 
+for Disease Control and Prevention [CDC] criteria for 
+SSI)17 were included in this analysis. This analysis is 
+based on the presumption that all patients who have a 
+confirmed SSI diagnosis should have a wound swab 
+taken for microbiological analysis so that the infective 
+organisms can be identified, and microorganism 
+antibiotic susceptibility testing can be performed to 
+enable directed antibiotic use (thereby reducing use of 
+empirical broad-spectrum antibiotics). However, there 
+was no stipulation in the trial protocol that patients must 
+have wound swabs. The full patient inclusion and 
+exclusion criteria of the FALCON trial are presented in 
+appendix 3 (p 3). The decision to swab an SSI was 
+presumptively determined by local clinical practices, 
+patient’s choice, or patient’s ability to afford the test, 
+although data on reasoning for decisions were not 
+collected. 
+Microbiological 
+cultures 
+and 
+antibiotic 
+susceptibility and AMR testing were carried out in local 
+microbiology facilities. Susceptibility was defined 
+according to the Clinical and Laboratory Standards 
+Institute and the European Committee on Antimicrobial 
+Susceptibility Testing guidelines.18 Non-bacterial isolates, 
+such as yeast, were excluded from analysis. The 
+microbiology results were categorised according to: 
+MDR profiles of isolates; number of isolates in swabs; 
+and whether isolates were endogenous to gut flora, skin 
+flora, or both. MDR categorisation was performed based 
+on these data. Analyses were performed on MDR and 
+non-MDR isolates, whether swabs grew monomicrobial 
+or polymicrobial cultures, and whether isolated 
+pathogens were endogenous to gut and skin flora. These 
+variables were analysed against patient demographics, 
+operative factors, and patient outcomes. Duplicate data 
+were removed and there were no allowances for 
+multiplicity for this analysis.
+MDR was defined as “acquired non-susceptibility to at 
+least one agent in three or more antimicrobial categories”19 
+and was calculated according to the European Centre for 
+Disease Prevention and Control and CDC criteria. If there 
+were not enough antibiotic categories tested, the 
+organisms were categorised as being unknown due to 
+insufficient data. Further subcategorisation of MDR 
+organisms as extremely drug resistant or pan-drug 
+resistant was not done. If a wound swab contained more 
+5788 patients in FALCON trial
+4120 excluded due to no SSI
+1047 allocated to alcoholic chlorhexidine and triclosan-coated 
+suture
+987 allocated to alcoholic chlorhexidine and non-coated suture
+994 allocated to povidone–iodine and triclosan-coated suture
+976 allocated to povidone–iodine and non-coated suture
+116 missing
+505 excluded due to loss to follow-up, death, or missing primary 
+outcome data
+935 with no swab taken
+206 allocated to alcoholic chlorhexidine and triclosan-coated 
+suture
+240 allocated to alcoholic chlorhexidine and non-coated suture
+236 allocated to povidone–iodine and triclosan-coated suture
+230 allocated to povidone–iodine and non-coated suture
+23 missing
+28 with no microorganism grown from swab
+9 allocated to alcoholic chlorhexidine and triclosan-coated 
+suture
+3 allocated to alcoholic chlorhexidine and non-coated suture
+9 allocated to povidone–iodine and triclosan-coated suture
+6 allocated to povidone–iodine and non-coated suture
+1 missing
+1163 with SSI
+266 allocated to alcoholic chlorhexidine and triclosan-coated suture
+286 allocated to alcoholic chlorhexidine and non-coated suture
+300 allocated to povidone–iodine and triclosan-coated suture
+284 allocated to povidone–iodine and non-coated suture
+27 missing
+228 with swab taken
+60 allocated to alcoholic chlorhexidine and triclosan-coated suture
+46 allocated to alcoholic chlorhexidine and non-coated suture
+64 allocated to povidone–iodine and triclosan-coated suture
+54 allocated to povidone–iodine and non-coated suture
+4 missing
+200 with microorganism grown from swab
+51 allocated to alcoholic chlorhexidine and triclosan-coated suture
+43 allocated to alcoholic chlorhexidine and non-coated suture
+55 allocated to povidone–iodine and triclosan-coated suture
+48 allocated to povidone–iodine and non-coated suture
+3 missing
+Figure 1: Patients from the FALCON randomised controlled trial included in these analyses
+A complete analysis of patients with and without SSIs has been previously reported.4 This study focuses on 
+patients with SSIs and microbiology testing of wound swabs. SSI=surgical-site infection. 
+
+
+===== PAGE 4 =====
+
+Articles
+e1819	
+www.thelancet.com/lancetgh   Vol 12   November 2024
+than one microorganism within a mixture of isolates, it 
+was dichotomised and classified as MDR if there was 
+one or more MDR isolate in the swab. When wound swab 
+testing was insufficient to reliably classify the bacterial 
+isolates, they were excluded from the MDR analysis. 
+The hospital-level survey also addressed MDR by 
+requesting information on whether participating hospitals 
+routinely screened for methicillin-resistant Staphylococcus 
+aureus, extended spectrum beta-lactamase, carbapenem-
+resistant Enterobacteriaceae, and vancomycin-resistant 
+Enterococcus.
+Outcomes and procedures
+The primary outcomes were the incidence of MDR 
+microorganisms in abdominal SSI swabs and the patient, 
+operative, or system-wide factors associated with these 
+MDR SSIs. Secondary outcomes, compared across 
+countries and levels of intraoperative contamination, 
+were: microbiological testing practices and capacity 
+across different types of health-care facility; characteristics 
+of isolated microorganisms, including the genus and 
+species, Gram stain, origin, and the association with the 
+level of intraoperative contamination; and patterns of 
+antibiotic susceptibility and resistance in microorganisms 
+isolated from wound swabs.
+Resistance was calculated as a percentage, with a 
+higher rate of susceptibility or resistance if the result was 
+closer or equal to 100%, and a lower rate of susceptibility 
+and resistance if closer or equal to 0%: antibiotic 
+resistance=number of times microorganism is resistant 
+to antibiotics / total number of microorganisms × 100%.
+A hospital-level survey was developed to capture key 
+datapoints not available from the FALCON data, to 
+facilitate a more complete descriptive analysis. This 
+survey was conducted after the completion of the trial. To 
+determine the key datapoints, five international forums 
+were held between January, 2021, and May, 2022. These 
+were attended by 18 experts, consisting of microbiologists 
+and surgeons from seven LMIC hospitals. Discussion 
+focused on gaps in knowledge, high-utility data, key 
+comparators, and global standards. These datapoints 
+were then iteratively codeveloped and refined into a 
+hospital-level survey (appendix 3 pp 27–33) by a core 
+group of four microbiologists and the central research 
+team. Infrastructure and processing resources identified 
+as core service components to ensure high-quality 
+microbiology care were captured. These components 
+included wound swabbing procedures, susceptibility 
+testing definitions, culture media, transport practices, 
+turnover 
+times, 
+standard 
+antibiotic 
+prophylaxis, 
+susceptibility 
+testing 
+antibiotics, 
+AMR 
+pathogen 
+screening, antimicrobial surveillance, and availability of 
+infection control teams. This assessment of local capacity 
+and surveillance systems provided an international, real-
+world snapshot of microbiological capacity.
+The survey was sent to all participating hospitals with 
+testing capacity in May, 2022. Any member of staff, either 
+Patients with SSI, included in the analyses of this 
+study
+Patients without 
+SSI, excluded from 
+the analyses of this 
+study (n=4120)
+No swab taken 
+(n=935)
+Swab taken 
+(n=228)
+Total
+(n=1163)
+Patient demographics
+Age, years
+Mean (SD)
+35·6 (18·3)
+33·0 (18·3)
+35·1 (18·3)
+33·3 (16·1)
+Range
+0–87
+0–80
+0–87
+0–89
+Sex
+Female
+539 (57·6%)
+107 (46·9%)
+646 (55·5%)
+2700 (65·5%)
+Male
+396 (42·4%)
+121 (53·1%)
+517 (44·5%)
+1419 (34·5%)
+Missing
+0
+0
+0
+1
+ASA physical status
+Grade 1–2
+678 (72·6%)
+153 (67·1%)
+831 (71·5%)
+3658 (88·8%)
+Grade 3–5
+256 (27·4%)
+75 (32·9%)
+331 (28·5%)
+461 (11·2%)
+Missing
+1 
+0
+1 
+1
+Known diabetes
+No
+889 (95·1%)
+213 (93·4%)
+1102 (94·8%)
+3988 (96·9%)
+Yes
+46 (4·9%)
+15 (6·6%)
+61 (5·2%)
+127 (3·1%)
+Missing
+0
+0
+0
+5
+Smoking
+No
+862 (92·2%)
+212 (93·0%)
+1074 (92·3%)
+3896 (94·6%)
+Yes
+73 (7·8%)
+16 (7·0%)
+89 (7·7%)
+221 (5·4%)
+Missing
+0
+0
+0
+3
+HIV status
+Known negative
+490 (52·4%)
+118 (51·8%)
+608 (52·3%)
+2380 (57·8%)
+Known positive
+21 (2·2%)
+3 (1·3%)
+24 (2·1%)
+91 (2·2%)
+Unknown
+424 (45·3%)
+107 (46·9%)
+531 (45·7%)
+1648 (40·0%)
+Missing
+0
+0
+0
+1
+Indication for surgery
+Benign disease
+632 (67·7%)
+188 (82·5%)
+820 (70·6%)
+2262 (54·9%)
+Malignant disease
+91 (9·7%)
+20 (8·8%)
+111 (9·6%)
+256 (6·2%)
+Obstetric
+179 (19·2%)
+11 (4·8%)
+190 (16·4%)
+1492 (36·2%)
+Trauma
+32 (3·4%)
+9 (3·9%)
+41 (3·5%)
+107 (2·6%)
+Missing
+1
+0
+1
+3
+Operative factors
+Timing of surgery
+Elective
+287 (30·7%)
+53 (23·2%)
+340 (29·2%)
+1466 (35·6%)
+Emergency
+648 (69·3%)
+175 (76·8%)
+823 (70·8%)
+2654 (64·4%)
+Prophylactic antibiotics
+No
+235 (25·1%)
+23 (10·1%)
+258 (22·2%)
+784 (19·0%)
+Yes
+700 (74·9%)
+205 (89·9%)
+905 (77·8%)
+3336 (81·0%)
+Cefepime plus 
+metronidazole
+48 (5·1%)
+13 (5·7%)
+61 (5·2%)
+230 (5·6%)
+Ceftriaxone
+247 (26·4%)
+41 (18·0%)
+288 (24·8%)
+1083 (26·3%)
+Ceftriaxone plus 
+metronidazole
+153 (16·4%)
+35 (15·4%)
+188 (16·2%)
+754 (18·3%)
+Cefuroxime plus 
+ceftazidime
+36 (3·9%)
+21 (9·2%)
+57 (4·9%)
+66 (1·6%)
+Ciprofloxacin plus 
+metronidazole
+70 (7·5%)
+17 (7·5%)
+87 (7·5%)
+400 (9·7%)
+Other
+146 (15·6%)
+78 (34·2%)
+224 (19·3%)
+803 (19·5%)
+(Table continues on next page)
+
+
+===== PAGE 5 =====
+
+Articles
+www.thelancet.com/lancetgh   Vol 12   November 2024	
+e1820
+new to this analysis study or who had originally taken 
+part in the FALCON trial, was invited to participate, 
+although only one response was required per hospital. A 
+secure online link was made available. Respondents 
+entered data directly onto the REDCap web application,20 
+based in the secure servers in the University of 
+Birmingham (Birmingham, UK). For continuous data, a 
+mean average was calculated.
+Entries that were missing SSI status, which was the 
+primary outcome from the FALCON trial, were excluded 
+in the same manner as the original analysis.4 Missing 
+datapoints from the hospital-level survey were promptly 
+queried
+Statistical analysis
+Categorical 
+outcomes 
+were 
+summarised 
+using 
+frequencies and proportions and continuous outcomes 
+were summarised using medians and IQRs. The primary 
+analysis was modelled using mixed-effects multivariable 
+logistic regression adjusting for ASA grade, timing of 
+surgery (emergency or elective), and intraoperative 
+contamination. Hospital was included as a random 
+effect. Adjusted odds ratios, 95% CIs, and p values from 
+two-sided tests are presented for the multivariable 
+analysis of the primary outcome and for point estimates 
+of results. These factors were chosen because they were 
+inherent properties of operative procedures and known 
+to have an effect on the incidence of SSIs, and hence 
+were also most likely to affect MDR.
+Similar summary statistics for the primary outcome 
+are also presented across the following groups: specific 
+microorganisms and operative factors, whether patients 
+underwent clean-contaminated versus contaminated or 
+dirty surgery, and across different countries. p<0·05 was 
+considered to indicate statistical significance. Analyses 
+were performed with Stata SE version 16.1.
+Role of the funding source
+The funder of the study had no role in study design, data 
+collection, data analysis, data interpretation, or writing of 
+the report.
+Results
+Between Dec 10, 2018, and Sept 7, 2020, 5788 patients 
+were recruited to the FALCON trial. Because the primary 
+trial has been reported and compared patients with and 
+without SSIs,4 this current analysis focuses on patients 
+with SSI only, and 4120 patients without SSIs were 
+excluded (figure 1). Overall, 1163 of 5284 patients (22·0% 
+[95% CI 20·9–23·2]) at 50 hospitals were diagnosed with 
+an SSI in the FALCON trial. Of these patients with SSIs, 
+228 of 1163 (19·6% [17·4–22·0]) had a wound swab taken 
+(table). 935 (80·4%) patients did not have a swab taken, 
+among whom 195 (20·9% [18·3–23·6]) were from 
+hospitals (n=15) that did not have capacity to carry out 
+microbiological analysis and 740 (79·1% [76·4–81·7]) were 
+from hospitals (n=35) that had capacity but did not swab 
+the SSI wound (appendix 3 p 4). The demographics of 
+patients who had a swab taken versus those who did not 
+are shown in the table. The 35 hospitals with testing 
+capacity were based in all seven countries (Benin, India, 
+Mexico, Nigeria, Ghana, Rwanda, and South Africa). 
+Missing datapoints from the original dataset in this 
+current analysis amounted to less than 0·8% of the total 
+datapoints. There were no missing datapoints in the 
+hospital-level survey.
+200 (87·7%) patients had a wound swab that cultured a 
+microorganism. 235 microorganisms were detected, 
+Patients with SSI, included in the analyses of this 
+study
+Patients without 
+SSI, excluded from 
+the analyses of this 
+study (n=4120)
+No swab taken 
+(n=935)
+Swab taken 
+(n=228)
+Total
+(n=1163)
+(Continued from previous page)
+Intraoperative contamination
+Clean or clean-contaminated
+400 (42·8%)
+55 (24·1%)
+455 (39·1%)
+2464 (59·8%)
+Contaminated or dirty
+535 (57·2%)
+173 (75·9%)
+708 (60·9%)
+1656 (40·2%)
+Stoma
+No
+863 (92·9%)
+194 (85·8%)
+1057 (91·5%)
+3958 (96·8%)
+Yes
+66 (7·1%)
+32 (14·2%)
+98 (8·5%)
+132 (3·2%)
+Missing
+6
+2
+8
+30
+30-day outcomes
+Purulent wound
+No
+381 (41·4%)
+40 (18·3%)
+421 (37·0%)
+4120 (100%)
+Yes
+539 (58·6%)
+179 (81·7%)
+718 (63·0%)
+0
+Missing
+15
+9
+24
+0
+Wound opened
+No
+432 (47·0%)
+66 (30·1%)
+498 (43·7%)
+4031 (97·8)
+Yes
+488 (53·0%)
+153 (69·9%)
+641 (56·3%)
+89 (2·2%)
+Missing
+15
+9
+24
+0
+Systemic fever
+No
+706 (76·7%)
+110 (50·2%)
+816 (71·6%)
+4049 (98·3%)
+Yes
+214 (23·3%)
+109 (49·8%)
+323 (28·4%)
+71 (1·7%)
+Missing
+15
+9
+24
+0
+Re-admitted
+No
+821 (89·2%)
+181 (83·0%)
+1002 (88·0%)
+4073 (98·9%)
+Yes
+99 (10·8%)
+37 (17·0%)
+136 (12·0%)
+46 (1·1%)
+Missing
+15
+10
+25
+1
+Re-operated
+No
+827 (90·0%)
+180 (82·2%)
+1007 (88·5%)
+4096 (99·5%)
+Yes
+92 (10·0%)
+39 (17·8%)
+131 (11·5%)
+21 (0·5%)
+Missing
+16
+9
+25
+3
+Died
+No
+914 (98·0%)
+218 (95·6%)
+1132 (97·5%)
+4107 (99·8%)
+Yes
+19 (2·0%)
+10 (4·4%)
+29 (2·5%)
+9 (0·2%)
+Missing
+2
+0
+2
+4
+Data are n (%) unless otherwise indicated. Percentages were calculated using number of patients with available data as 
+the denominator. Percentages might not add to 100% due to rounding. SSI=surgical-site infection. ASA=American 
+Society of Anesthesiologists.
+Table: Demographics, operative factors, and 30-day outcomes of patients in the FALCON trial
+
+
+===== PAGE 6 =====
+
+Articles
+e1821	
+www.thelancet.com/lancetgh   Vol 12   November 2024
+because 35 swabs grew more than one microorganism, 
+and 30 different microorganisms were reported. 
+Compared with patients with no swab or no 
+microorganism grown (n=28), patients with a positive 
+microorganism identified (n=200) tended to be from 
+hospitals situated in low-income countries, and tended 
+to be younger than 18 years, male, ASA grade 3–5, 
+undergoing 
+emergency 
+surgery, 
+undergoing 
+a 
+contaminated or dirty procedure, and to have benign 
+surgical pathology (appendix 3 p 5). Stomas were more 
+common in the patients with a positive swab, which 
+might 
+reflect 
+an 
+increased 
+number of 
+heavily 
+contaminated surgical procedures that prevented safe 
+bowel anastomosis, or the ongoing presence of an 
+ostomy that diverted effluence to the abdominal wall, 
+which increased the risk of SSIs (appendix 3 p 5). 
+Patients with an SSI who had a swab taken also appeared 
+to be more symptomatic, with higher rates of tenderness, 
+swelling, and redness (appendix 3 p 6).
+Ceftriaxone, a third-generation cephalosporin, was by 
+far the most common prophylactic antibiotic given to 
+patients with SSIs. It was given alone in 288 patients 
+(24·8% [95% CI 22·3–27·3]) and in combination with 
+metronidazole in 188 patients (17·6% [14·1–18·4]; table 1, 
+appendix 3 p 7). Of the 235 microorganisms detected, 
+77 (32·8% [26·8–39·2]) were susceptible to the 
+prophylactic antibiotic given (appendix 3 p 8).
+Escherichia coli was the most common species 
+identified (89 of 235; 37·9% [95% CI 31·6–44·4]), 
+followed by Klebsiella spp. (33 of 235; 14·0% [9·9–19·2], 
+appendix 3 p 8). Gram-negative bacteria constituted 
+179 of 235 (76·2% [70·2–81·5]) and four of 235 
+(1·7% [0·5–4·3]) were yeasts. Most organisms grown 
+were 
+primarily 
+of 
+gut 
+origin 
+(199 
+of 
+235; 
+84·7% [79·4–89·0]; 26 of 235 (11·0% [7·4–15·8]) were 
+primarily of skin origin and ten (4·3% [2·1–7·7]) could 
+be of either origin (appendix 3 pp 9, 15). Standard 
+microbiological analysis practice in hospitals in the 
+study is presented in figure 2.
+For many wound swabs, details on the reported 
+microorganisms were incomplete and often not subjected 
+to extensive antibiotic susceptibility testing. For example, 
+in several cases, the specific species was not reported and 
+only the genus was identified. The results reported here 
+reflect the level of granularity available from the 
+participating hospitals.
+MDR was identified in 120 of 235 (51·1% [95% CI 
+44·5–57·6]) microorganisms. 56 of 235 (23·8% 
+Figure 2: Standard hospital microbiology practice for 200 swabs with 
+isolated bacteria at 35 study hospitals
+AMR=antimicrobial resistance. CPE=carbapenem-resistant Enterobacteriaceae. 
+CSLI=Clinical & Laboratory Standards Institute. ESBL=extended-spectrum 
+beta-lactamase. EUCAST=European Committee on Antimicrobial Susceptibility 
+Testing. MDR=multidrug resistance. MRSA=methicillin-resistant S aureus. 
+S aureus=Staphylococcus aureus. VRE=vancomycin-resistant Enterococcus. 
+AMR deﬁnition
+CSLI criteria
+EUCAST criteria
+Transportation method
+Transport medium
+No transport medium
+Culture
+Aerobic
+Anaerobic
+Both
+Susceptibility testing
+CLSI Kirby-Bauer method
+No deﬁnition used
+Other
+Swab culture medium
+Blood agar
+Cooked meat media
+MacConkey agar
+Other
+Turnaround time, h
+0 to <24
+24 to <48
+48 to <72
+≥72
+Characterisation
+Standard bacteriological test
+Analytical proﬁle index
+Other
+ESBL screening
+Yes
+No
+MRSA screening
+Yes
+No
+VRE screening
+Yes
+No
+CPE screening
+Yes
+No
+Coliforms targeted during
+AMR testing
+Yes
+No
+S aureus targeted
+during AMR testing
+Yes
+No
+Non-fermentative Gram-negative
+bacilli targeted during AMR testing
+Yes
+No
+200
+0
+50
+100
+150
+Proportion of swabs (%)
+44
+10
+35
+30
+26
+77
+40
+11
+25
+9
+74
+39
+83
+46
+19
+7
+4
+4
+4
+6
+6
+8
+13
+15
+11
+13
+11
+13
+18
+25
+9
+11
+42
+45
+30
+15
+27
+18
+17
+53
+28
+29
+16
+28
+17
+38
+28
+64
+25
+15
+31
+71
+38
+19
+49
+34
+54
+43
+48
+10
+52
+41
+50
+12
+100
+45
+83
+33
+11 4
+3
+2 8
+19
+20
+3
+17
+74
+46
+36
+21
+42
+19
+12
+21
+6
+331
+5
+37
+20
+53
+38
+12 5
+3 5
+152
+97
+51
+1
+No MDR
+MDR present
+Unknown or not applicable
+
+
+===== PAGE 7 =====
+
+Articles
+www.thelancet.com/lancetgh   Vol 12   November 2024	
+e1822
+[18·5–29·8]) did not have MDR and 59 of 235 
+(25·1% [19·7–31·2]) did not have sufficient testing data 
+to classify the microorganism (appendix 3 pp 8, 15). 
+MDR was more commonly detected when the isolated 
+micro­organism was not susceptible to the preoperative 
+prophylactic antibiotic given. There was sufficient 
+prophylactic antibiotic coverage in 44·6% (31·3–58·5) 
+of the non-MDR microorganisms, whereas in the 
+MDR microorganisms, there was sufficient coverage 
+in 26·7% (19·0–35·5; appendix p 8). In adjusted analysis, 
+sufficient coverage for microorganisms by prophylactic 
+antibiotics and regular availability of infection control 
+teams were significantly associated with reduced MDR 
+(figure 3).
+Turnaround time (from sending the wound swab to 
+receiving the results) was reported to be 48 h or longer in 
+149 of 200 cases (74·5% [95% CI 67·9–80·4]) and 72 h or 
+longer in 75 of 200 cases (37·5% [30·8–44·6], figure 2). 
+Analytical profile index, a classification of bacteria based 
+on biochemical tests that allows fast identification, was 
+only available for 29 of 200 cases (14·5% [9·9–20·2], 
+figure 2).
+There were notable differences in the composition 
+of MDR microorganisms in different circumstances. 
+E coli and S aureus were the most common MDR 
+microorganisms 
+in 
+clean-contaminated 
+surgeries, 
+whereas E coli and Klebsiella spp. were the most common 
+MDR microorganisms in contaminated or dirty 
+surgeries (appendix 3 pp 2, 12). Differences were also 
+seen between countries. In Nigeria, Klebsiella spp. and 
+S aureus were the most common MDR microorganisms, 
+whereas in India and Ghana, E coli was the most 
+common (appendix 3 p 13).
+The antibiotics most widely tested for susceptibility 
+were gentamicin (17·8% susceptibility), third-generation 
+cephalosporins (16·6% susceptibility), second-generation 
+fluroquinolones 
+(11·2% 
+susceptibility), 
+and 
+anti­
+pseudomonal 
+penicillin 
+(14·0% 
+susceptibility). 
+Chloram­phenicol had the highest overall susceptibility 
+of 24·2%. Of those tested, microorganisms had 
+no susceptibility (0%) to third-generation and fourth-
+generation fluroquinolones, isoniazid, clindamycin, 
+metronidazole, 
+flucloxacillin 
+and 
+quinupristin–
+dalfopristin (figure 4A, appendix 3 p 10).
+The antibiotics with highest levels of resistance, 
+proportionally, were second-generation cephalosporins 
+(77·4% resistance), third-generation cephalosporins 
+(48·1% resistance), penicillin (43·1% resistance), and 
+second-generation fluoroquinolones (42·2% resistance; 
+figure 4B, appendix 3 p 11). The most prescribed surgical 
+prophylaxis drug was ceftriaxone, a third-generation 
+cephalosporin.
+Discussion
+This study aimed to carry out a post-hoc analysis of SSI 
+wound swabs from a randomised controlled trial. The 
+two key findings were high levels of MDR, and low 
+capacity for microbiological testing alongside an absence 
+Figure 3: Forest plot of adjusted analysis for MDR
+ORs and 95% CIs were estimated from a mixed-effects logistic regression model adjusted for American Society of Anesthesiologists grade, timing of surgery 
+(emergency or elective), intraoperative contamination, the use of triclosan-coated polydioxanone sutures, and 2% alcoholic chlorhexidine skin preparation. 
+MDR=multidrug resistance. OR=odds ratio.
+Prophylactic antibiotics
+No
+Yes
+Origin of primary organism
+Gut
+Skin
+Covered by prophylactic antibiotics
+No
+Yes
+Unknown or not applicable
+Infection control teams
+None
+Yes: ad hoc or on request
+Yes: regular (daily or weekly)
+Antibiotic availability
+Generally available
+Needs to be ordered in
+Payment for treatment
+Patient: health insurance
+Patient: out of pocket
+   1/45 (2·2%)
+44/45 (97·8%)
+42/45 (93·3%)
+   3/45 (6·7%)
+22/45 (48·9%)
+20/45 (44·4%)
+   3/45 (6·7%)
+   7/45 (15·6%)
+20/45 (44·4%)
+18/45 (40·0%)
+40/45 (88·9%)
+   5/45 (11·1%)
+   5/45 (11·1%)
+40/45 (88·9%)
+   5/102 (4·9%)
+97/102 (95·1%)
+92/102 (90·2%)
+10/102 (9·8%)
+69/102 (67·7%)
+28/102 (27·5%)
+   5/102 (4·9%)
+30/102 (29·4%)
+51/102 (50·0%)
+21/102 (20·6%)
+92/102 (90·2%)
+10/102 (9·8%)
+18/102 (17·7%)
+84/102 (82·3%)
+1 (ref)
+0·57 (0·06–5·25)
+1 (ref)
+1·34 (0·33–5·34)
+1 (ref)
+0·43 (0·19–0·96)
+0·59 (0·12–2·99)
+1 (ref)
+0·66 (0·24–1·81)
+0·32 (0·11–0·93)
+1 (ref)
+0·88 (0·24–3·23)
+1 (ref)
+0·79 (0·26–2·39)
+No MDR
+MDR present
+ Adjusted OR (95% CI)
+OR (log scale)
+1
+10
+0·2
+0·1
+2
+5
+0·05
+0·5
+
+
+===== PAGE 8 =====
+
+Articles
+e1823	
+www.thelancet.com/lancetgh   Vol 12   November 2024
+Figure 4: Proportional 
+antibiotic susceptibility (A) 
+and proportional antibiotic 
+resistance (B) by bacterial 
+species
+Susceptibility and resistance 
+were defined by ISO 20776-1 
+standard or European 
+Committee on Antimicrobial 
+Susceptibility Testing 
+standards. The y axis shows 
+the individual antibiotics (top 
+row) and their class (bottom 
+row). Higher values (nearer 
+100% and darker colour) 
+indicate a higher proportion of 
+microorganisms were 
+susceptible to the specific 
+antibiotic, out of all swabs 
+tested for that antibiotic. Grey 
+indicates that the antibiotic 
+was not tested for that 
+microorganism. 
+ASP=antipseudomonal 
+penicillin. AZT=aztreonam. 
+CAR=carbapenem. 
+CAZ=ceftazidime. CFZ-1=first-
+generation cephalosporin. 
+CFZ-2=second-generation 
+cephalosporin. CFZ-3=third-
+generation cephalosporin. 
+CHL=chloramphenicol. 
+CLI=clindamycin. 
+DAP=daptomycin. 
+ERY=erythromycin. 
+FID=fidaxomicin. 
+FOS=fosfomycin. FLU-1=first-
+generation fluoroquinolone. 
+FLU-2=second-generation 
+fluoroquinolone. FLU-3=third-
+generation fluoroquinolone. 
+FLU-4=fourth-generation 
+fluoroquinolone. 
+FLU=flucloxacillin. 
+GEN=gentamicin. 
+ISO=isoniazid. LZD=linezolid. 
+MET=metronidazole. 
+NIT=nitrofurantoin. 
+PEN=penicillin. 
+PIV=pivmecillinam. 
+POL=polymyxin B. 
+Q–D=quinupristin–dalfopristin. 
+RIF=rifampicin. 
+TRI=trimethoprim or 
+sulfamethoxazole–
+trimethoprim. 
+TET=tetracycline. 
+TGC=tigecycline. 
+VAN=vancomycin.
+Enterobacter aerogenes
+Staphylocccus spp.
+Klebsiella ozaenae
+Acinetobacter baumanni
+Klebsiella aerogenes
+Morganella morganii
+Raoultella terrigena
+Aerococcus spp.
+Proteus spp.
+Enterobacter cloacae
+Pseudomonas spp.
+Acinetobacter spp.
+Citrobacter spp.
+Proteus penneri
+Coagulase-negative Staphylococcus
+Proteus mirabilis
+Enterococcus faecium
+Klebsiella oxytoca
+Enterococcus spp.
+Acinetobacter parvus
+Klebsiella pneumoniae
+Enterobacter spp.
+Staphylococcus aureus
+Escherichia coli
+Pseudomonas aeruginosa
+Klebsiella spp.
+Streptococcus spp.
+Bacterial species
+A
+Aerococcus spp.
+Raoultella terrigena
+Enterobacter aerogenes
+Staphylocccus spp.
+Klebsiella ozaenae
+Morganella morganii
+Klebsiella aerogenes
+Acinetobacter baumanni
+Coagulase-negative Staphylococcus
+Klebsiella oxytoca
+Pseudomonas spp.
+Proteus spp.
+Enterobacter cloacae
+Acinetobacter spp.
+Citrobacter spp.
+Streptococcus spp.
+Proteus penneri
+Proteus mirabilis
+Enterococcus faecium
+Acinetobacter parvus
+Enterococcus spp.
+Klebsiella spp
+Enterobacter spp
+Escherichia coli
+Pseudomonas aeruginosa
+Klebsiella pneumoniae
+Staphylococcus aureus
+Bacterial species
+GEN
+CHL
+TRI
+CAR
+CFZ-1
+CFZ-2
+CFZ-3
+POL
+FLU-1
+FLU-2
+FLU-3
+FLU-4
+VAN
+TGC
+ISO
+CLI
+DAP
+ERY
+FID
+AZT
+NIT
+MET
+LZD
+ASP
+FLU
+PEN
+PIV
+FOS
+RIF
+Q–D
+TET
+CAZ
+Aminoglycoside
+Amphenicol
+Antifolate
+Carbapenem
+Cephalosporin
+Cephalosporin + 
+beta-lactamase inhibitor
+Colistin
+Fluoroquinolone
+Glycopeptide
+Glycylcycline
+Isoniazid
+Macrolide
+Monobactam
+Nitrofuran
+Nitroimidazole
+Oxazolidinonone
+Penicillin
+Phosphonic
+Rifampicin
+Streptogramin
+Tetracycline
+Antibiotic
+B
+Susceptibility (%)
+0
+25
+50
+75
+100
+Resistance (%)
+0
+25
+50
+75
+100
+
+
+===== PAGE 9 =====
+
+Articles
+www.thelancet.com/lancetgh   Vol 12   November 2024	
+e1824
+of infection control teams. Around half of hospitals that 
+performed microbiological testing had regular reviews by 
+infection control teams and more than a third had no 
+reviews by infection control teams. Despite widespread 
+use of prophylactic antibiotics, they were frequently 
+ineffective, which is associated with a substantial increase 
+in MDR organisms. Data are scarce from LMICs and the 
+little evidence that has emerged is concerning. A study 
+from Uganda of 83 patients with SSIs found that 
+86·0% of aerobic bacteria isolated were MDR.21,22 A study 
+from Benin found that 41·2% of the bacteria isolated 
+from SSIs were MDR.23 A 2024 meta-analysis of 
+59 
+articles 
+identified 
+that 
+the 
+top 
+three 
+SSI 
+microorganisms had very high levels of AMR 
+(48% methicillin resistance in S aureus, 64% in E coli, and 
+up to 85% in Klebsiella pneumoniae).24 AMR is particularly 
+challenging in LMICs with a scarcity of microbial data, 
+lower levels of awareness, and widespread lack of local 
+guidelines.
+The findings in this study sit within and expand upon 
+the Mapping Antimicrobial Resistance and Antimicrobial 
+Use Partnership9 involving 14 African countries, which 
+identified that only 1·3% of laboratories across the 
+14 countries perform bacteriological testing and 
+12 of the 14 countries have a drug resistance index at 
+least twice the benchmark of 25%.25 Poor access to 
+microbiology diagnostics and overuse and misuse of 
+antimicrobials are major drivers in the development 
+of MDR.8,26
+Optimising targeted antibiotic treatment requires a full 
+complement of microbiology services, stewardship, 
+education, and appropriate antimicrobial use. Substantial 
+investment is required in infrastructure and workforce, 
+which poses significant challenges in resource-limited 
+settings.27,28 When patients pay for their own health care, 
+diagnosis and treatment of SSI can be beyond the means 
+of public health-care systems and can lead to catastrophic 
+expenditure for patients and families.3,14,29 Worsening 
+MDR could outpace efforts to expand microbiological 
+infrastructure and services and lead to extensive 
+untreatable SSIs.26
+A strength of this study is its scope, reporting data 
+across 35 hospitals from seven LMICs, providing a 
+comprehensive overview of the testing capacity and 
+MDR on the front line. This study is based on high-
+quality, prospectively collected data from dedicated 
+research teams as part of a randomised controlled trial, 
+making this a generalisable snapshot of the current 
+environment. A limitation of this study was that, 
+although it was included in the FALCON protocol 
+written before the trial, this was a post-hoc prospective 
+secondary analysis of a randomised controlled trial, and 
+microorganism analysis was not the primary outcome of 
+the FALCON trial. Other limitations include: we were 
+unable to report the exact reason that swabs were or 
+were not taken; due to current practices in hospitals, we 
+were unable to capture wound swab data on MDR and 
+microorganisms in every SSI; due to limited testing 
+capacity, a substantial number of microorganisms could 
+not be classified as MDR or not MDR by the accepted 
+definition; we could not specify the cases where SSI was 
+prevented by antibiotics, although we suspect this was 
+proportionately very low because we found that antibiotic 
+use was almost entirely non-targeted; detailed data on 
+specific factors that influenced prophylactic antibiotic 
+use were not available (based on national or regional 
+guidelines, the patient’s choice, or intraoperative 
+findings); and granular information on the laboratory 
+testing conditions, quality controls, culture mediums, 
+and transport was beyond the scope of this study and 
+requires a larger, separate study, designed specifically to 
+answer these questions. The hospital-level survey was 
+not intended to be exhaustive, because it was intended to 
+support the secondary analysis from the primary trial. It 
+was intended to identify unmet needs and areas for 
+focusing future research.
+To prevent worsening MDR, goal-directed future 
+research and initiatives are needed. First, prevention 
+efforts are essential. These will reduce overall antibiotic 
+consumption and can be cost-effective and implemented 
+in all settings, even where resources are limited. For 
+example, the ChEETAh randomised controlled trial has 
+shown that a change of gloves and instruments before 
+wound closure significantly reduces SSI.30 Second, global 
+mapping of local microorganism patterns by way of an 
+active and responsive surveillance network will be key to 
+effective, targeted antibiotic use. Third, evidence-based 
+best practice must be implemented on the front line, 
+facilitated by communication between departments, 
+education of staff, and behavioural change through 
+awareness and team building. Fourth, the effectiveness 
+of a dedicated infection control team needs to be explored 
+and a cost-effectiveness model is needed. Finally, when 
+SSIs do occur, capacity for microorganism testing is 
+crucial for targeted treatment instead of broad-spectrum 
+antibiotic use. To achieve this targeted antibiotic 
+treatment, effective, rapid, low-cost diagnostic tools are 
+needed. Evidence-based prescribing on local microbial 
+and resistance patterns should be the standard of care.
+In conclusion, systemic weaknesses exist in the 
+testing capacity and prevention of MDR in LMIC 
+hospitals. These weaknesses are associated with non-
+targeted antibiotic use and high levels of AMR. Future 
+research should be directed towards development of 
+guidelines, and implementation of infection control 
+teams to educate staff and patients to reduce the burden 
+of MDR SSIs.
+Contributors
+The role of all coauthors is shown in appendix 3 (pp 117–122). 
+The writing group, which consisted of the microbiology expert group 
+and the surgical expert group, contributed to conceptualisation, 
+methodology, data curation, analysis, investigation, writing of the 
+original draft, and review and editing, and have accessed and verified the 
+data. EL (UK), SRV (India), and AB (UK) were responsible for the 
+decision to submit the manuscript for publication.
+
+
+===== PAGE 10 =====
+
+Articles
+e1825	
+www.thelancet.com/lancetgh   Vol 12   November 2024
+Equitable partnership declaration
+The authors of this paper have submitted an equitable partnership 
+declaration (appendix 4). This statement allows researchers to describe 
+how their work engages with researchers, communities, and 
+environments in the countries of study. This statement is part of 
+The Lancet Global Health’s broader goal to decolonise global health.
+Declaration of interests
+We declare no competing interests.
+Data sharing
+Data sharing requests will be considered by the writing group upon 
+written request to the corresponding author.
+Acknowledgments
+This research was funded by a National Institute for Health and Care 
+Research (NIHR) Global Health Research Unit Grant (NIHR 16.136.79). 
+The views expressed are those of the authors and not necessarily those 
+of the NIHR or the UK Department of Health and Social Care.
+References
+1	
+Biccard BM, Madiba TE, Kluyts H-L, et al. Perioperative patient 
+outcomes in the African Surgical Outcomes Study: a 7-day 
+prospective observational cohort study. Lancet 2018; 391: 1589–98.
+2	
+Bhangu A, Ademuyiwa AO, Aguilera ML, et al. Surgical site 
+infection after gastrointestinal surgery in high-income, middle-
+income, and low-income countries: a prospective, international, 
+multicentre cohort study. Lancet Infect Dis 2018; 18: 516–25.
+3	
+Alkaaki A, Al-Radi OO, Khoja A, et al. Surgical site infection 
+following abdominal surgery: a prospective cohort study. Can J Surg 
+2019; 62: 111–17.
+4	
+Ademuyiwa AO, Hardy P, Runigamugabo E, et al. Reducing 
+surgical site infections in low-income and middle-income countries 
+(FALCON): a pragmatic, multicentre, stratified, randomised 
+controlled trial. Lancet 2021; 398: 1687–99.
+5	
+Allegranzi B, Zayed B, Bischoff P, et al. New WHO 
+recommendations on intraoperative and postoperative measures for 
+surgical site infection prevention: an evidence-based global 
+perspective. Lancet Infect Dis 2016; 16: e288–303.
+6	
+Klein EY, Milkowska-Shibata M, Tseng KK, et al. Assessment of 
+WHO antibiotic consumption and access targets in 76 countries, 
+2000–15: an analysis of pharmaceutical sales data. Lancet Infect Dis 
+2021; 21: 107–15.
+7	
+Klein EY, Van Boeckel TP, Martinez EM, et al. Global increase and 
+geographic convergence in antibiotic consumption between 2000 
+and 2015. Proc Natl Acad Sci USA 2018; 115: E3463–70.
+8	
+WHO. Antimicrobial resistance. 2023. https://www.who.int/news-
+room/fact-sheets/detail/antimicrobial-resistance (accessed 
+Nov 30, 2023).
+9	
+Africa Centres for Disease Control and Prevention. Mapping 
+Antimicrobial Resistance and Antimicrobial Use Partnership 
+(MAAP) country reports. https://africacdc.org/download/mapping-
+antimicrobial-resistance-and-antimicrobial-use-partnership-maap-
+country-reports (accessed Oct 24, 2023).
+10	
+The Fleming Fund. About the Fleming Fund. https://www.
+flemingfund.org/about-us (accessed Oct 24, 2023).
+11	
+Gordon N, Aggarwal V, Amos B, et al. The UK Fleming Fund: 
+developing AMR surveillance capacity in low- and middle-income 
+countries. Int J Infect Dis 2020; 101: 40.
+12	
+Tanwar J, Das S, Fatima Z, Hameed S. Multidrug resistance: 
+an emerging crisis. Interdiscip Perspect Infect Dis 2014; 
+2014: 541340.
+13	
+Murray CJL, Ikuta KS, Sharara F, et al. Global burden of bacterial 
+antimicrobial resistance in 2019: a systematic analysis. Lancet 2022; 
+399: 629–55.
+14	
+Dadgostar P. Antimicrobial resistance: implications and costs. 
+Infect Drug Resist 2019; 12: 3903–10.
+15	
+NIHR Global Health Research Unit on Global Surgery. Pragmatic 
+multicentre factorial randomized controlled trial testing measures to 
+reduce surgical site infection in low- and middle-income countries: 
+study protocol of the FALCON trial. Colorectal Dis 2021; 23: 298–306.
+16	
+Vandenbroucke JP, von Elm E, Altman DG, et al. Strengthening the 
+Reporting of Observational Studies in Epidemiology (STROBE): 
+explanation and elaboration. Ann Intern Med 2007; 147: W163-94.
+17	
+Borchardt RA, Tzizik D. Update on surgical site infections: the new 
+CDC guidelines. JAAPA 2018; 31: 52–54.
+18	
+Cusack TP, Ashley EA, Ling CL, et al. Time to switch from CLSI to 
+EUCAST? A Southeast Asian perspective. Clin Microbiol Infect 2019; 
+25: 782–85.
+19	
+Magiorakos AP, Srinivasan A, Carey RB, et al. Multidrug-resistant, 
+extensively drug-resistant and pandrug-resistant bacteria: 
+an international expert proposal for interim standard definitions for 
+acquired resistance. Clin Microbiol Infect 2012; 18: 268–81.
+20	 Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. 
+Research electronic data capture (REDCap)—a metadata-driven 
+methodology and workflow process for providing translational 
+research informatics support. J Biomed Inform 2009; 42: 377–81.
+21	
+Hope D, Ampaire L, Oyet C, Muwanguzi E, Twizerimana H, 
+Apecu RO. Antimicrobial resistance in pathogenic aerobic bacteria 
+causing surgical site infections in Mbarara regional referral 
+hospital, southwestern Uganda. Sci Rep 2019; 9: 17299.
+22	 Sartelli M, C Hardcastle T, Catena F, et al. Antibiotic use in low and 
+middle-income countries and the challenges of antimicrobial 
+resistance in surgery. Antibiotics (Basel) 2020; 9: 497.
+23	 Adrien HM, Alexandre AS, Tobome SR, et al. Epidemiological 
+aspects of surgical site infections in an income country. The case of 
+regional hospital center, Borgou (Benin). Int J Med Res Health Sci 
+2017; 3: 29–33.
+24	
+Monk EJM, Jones TPW, Bongomin F, et al. Antimicrobial resistance 
+in bacterial wound, skin, soft tissue and surgical site infections in 
+Central, Eastern, Southern and Western Africa: a systematic review 
+and meta-analysis. PLoS Glob Public Health 2024; 4: e0003077.
+25	 African Society of Laboratory Medicine. Incomplete antimicrobial 
+resistance (AMR) data in Africa: the crisis within the crisis. 2022. 
+https://aslm.org/wp-content/uploads/2022/09/ASLM_MAAP-
+Policy-Brief_Embargoed-until-15-Sept-6AM-GMT.pdf?x89467 
+(accessed Oct 24, 2023).
+26	 WHO. Global action plan on antimicrobial resistance. 2016. https://
+iris.who.int/bitstream/handle/10665/193736/9789241509763_eng.
+pdf?sequence=1 (accessed Oct 24, 2023).
+27	
+Monahan M, Glasbey J, Roberts TE, et al. The costs of surgical site 
+infection after abdominal surgery in middle-income countries: key 
+resource use in wound infection (KIWI) study. J Hosp Infect 2023; 
+136: 38–44.
+28	 Rickard J, Beilman G, Forrester J, et al. Surgical infections in low- 
+and middle-income countries: a global assessment of the burden 
+and management needs. Surg Infect (Larchmt) 2020; 21: 478–94.
+29	 Badia JM, Casey AL, Petrosillo N, Hudson PM, Mitchell SA, 
+Crosby C. Impact of surgical site infection on healthcare costs and 
+patient outcomes: a systematic review in six European countries. 
+J Hosp Inf 2017; 96: 1–15.
+30	 NIHR Global Research Health Unit on Global Surgery. Routine 
+sterile glove and instrument change at the time of abdominal 
+wound closure to prevent surgical site infection (ChEETAh): 
+a pragmatic, cluster-randomised trial in seven low-income and 
+middle-income countries. Lancet 2022; 400: 1767–76.
+See Online for appendix 4

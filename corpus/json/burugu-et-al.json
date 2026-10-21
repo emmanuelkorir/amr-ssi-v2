@@ -1,0 +1,829 @@
+{
+ "doc_id": "burugu-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Burugu et al..pdf",
+ "sha256": "18f0101ff1e52b575a7e29de7d9e774183011f59e7939d5165b43196c7012a25",
+ "document_type": "pdf",
+ "n_pages": 5,
+ "pdf_metadata": {
+  "format": "PDF 1.5",
+  "title": "Occurrence of Post-Surgical Wound Infections, Bacterial Isolates, and their Susceptibility to Commonly Used Antibiotics at Kenyatta National Hospital, Kenya",
+  "author": "Magdaline Burugu, Andrew Nyerere, Susan Odera, Lameck Ontweka",
+  "subject": "Medical Microbiology",
+  "keywords": "Surgical site infection, antimicrobial resistance, antibiotics, Kenya\r\n",
+  "creator": "",
+  "producer": "",
+  "creationDate": "D:20220816082756",
+  "modDate": "D:20220816140000+05'30'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:54+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/362906576\nLicensed Under Creative Commons Attribution CC BY Occurrence of Post-\nSurgical Wound Infections, Bacterial Isolates, and their Susceptibility to\nCommonly Used Antibiotics at Kenyatt...\nArticle  in  International Journal of Science and Research (IJSR) · August 2022\nDOI: 10.21275/SR22705124816\nCITATIONS\n0\nREADS\n145\n4 authors, including:\nMagdaline Burugu\nUniversity of Nairobi\n3 PUBLICATIONS   25 CITATIONS   \nSEE PROFILE\nSusan Odera\n22 PUBLICATIONS   145 CITATIONS   \nSEE PROFILE\nAll content following this page was uploaded by Magdaline Burugu on 24 August 2022.\nThe user has requested enhancement of the downloaded file.\n",
+   "n_chars": 742,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      39.8,
+      71.8,
+      335.2,
+      79.8
+     ],
+     "text": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/362906576\n"
+    },
+    {
+     "bbox": [
+      39.8,
+      90.8,
+      524.8,
+      149.2
+     ],
+     "text": "Licensed Under Creative Commons Attribution CC BY Occurrence of Post-\nSurgical Wound Infections, Bacterial Isolates, and their Susceptibility to\nCommonly Used Antibiotics at Kenyatt...\n"
+    },
+    {
+     "bbox": [
+      39.8,
+      163.2,
+      251.3,
+      172.2
+     ],
+     "text": "Article  in  International Journal of Science and Research (IJSR) · August 2022\n"
+    },
+    {
+     "bbox": [
+      39.8,
+      175.1,
+      98.4,
+      181.3
+     ],
+     "text": "DOI: 10.21275/SR22705124816\n"
+    },
+    {
+     "bbox": [
+      39.8,
+      193.7,
+      63.5,
+      212.4
+     ],
+     "text": "CITATIONS\n0\n"
+    },
+    {
+     "bbox": [
+      297.5,
+      193.7,
+      312.3,
+      212.4
+     ],
+     "text": "READS\n145\n"
+    },
+    {
+     "bbox": [
+      39.8,
+      221.5,
+      97.1,
+      230.5
+     ],
+     "text": "4 authors, including:\n"
+    },
+    {
+     "bbox": [
+      66.3,
+      239.5,
+      116.7,
+      248.4
+     ],
+     "text": "Magdaline Burugu\n"
+    },
+    {
+     "bbox": [
+      66.3,
+      250.1,
+      122.7,
+      259.0
+     ],
+     "text": "University of Nairobi\n"
+    },
+    {
+     "bbox": [
+      66.3,
+      262.0,
+      143.1,
+      270.9
+     ],
+     "text": "3 PUBLICATIONS   25 CITATIONS   \n"
+    },
+    {
+     "bbox": [
+      73.5,
+      279.2,
+      102.1,
+      286.3
+     ],
+     "text": "SEE PROFILE\n"
+    },
+    {
+     "bbox": [
+      324.0,
+      239.5,
+      359.1,
+      248.4
+     ],
+     "text": "Susan Odera\n"
+    },
+    {
+     "bbox": [
+      324.0,
+      253.4,
+      406.9,
+      262.3
+     ],
+     "text": "22 PUBLICATIONS   145 CITATIONS   \n"
+    },
+    {
+     "bbox": [
+      331.3,
+      270.6,
+      359.8,
+      277.7
+     ],
+     "text": "SEE PROFILE\n"
+    },
+    {
+     "bbox": [
+      43.1,
+      807.9,
+      208.4,
+      814.1
+     ],
+     "text": "All content following this page was uploaded by Magdaline Burugu on 24 August 2022.\n"
+    },
+    {
+     "bbox": [
+      43.1,
+      820.5,
+      178.1,
+      827.6
+     ],
+     "text": "The user has requested enhancement of the downloaded file.\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "International Journal of Science and Research (IJSR) \nISSN: 2319-7064 \nSJIF (2022): 7.942 \nVolume 11 Issue 8, August 2022 \nwww.ijsr.net \nLicensed Under Creative Commons Attribution CC BY \nOccurrence of Post-Surgical Wound Infections, \nBacterial Isolates, and their Susceptibility to \nCommonly Used Antibiotics at Kenyatta National \nHospital, Kenya \n \nMagdaline Burugu1, Andrew Nyerere2, Susan Odera3, Lameck Ontweka4 \nEmail: magdalene.burugu[at]uonbi.ac.ke \n \n \nAbstract: Surgical site infections are now the most common and costly of all hospital-acquired infections (HAIs), accounting for 20% \nof all HAIs. This was a cross-sectional study to determine the occurrence of SSI, the common causative microbes and their antibacterial \nsusceptibility pattern. Sixty-two specimens from various types of surgical wounds were processed by standard methods and \nantimicrobial susceptibility testing done by disc diffusion method. Recovered bacteria were Staphylococcusaureus (29.6%), \nEscherichiacoli (22.2%), Pseudomonasaeruginosa (12.9%), Enterococcusfaecalis and Enterobacterspp (7.4%), Klebsiellaspp (5.6%), \nStreptococcuspyogenes (3.7%) and Acinetobacterspp (1.9%).62.5% of the S. aureus were Methicillin-resistant MRSA, while 75% of E. \nfaecalis were resistant to Vancomycin. Gram-negative rods were highly resistant to Ceftriaxone. Control and prevention measures \nshould be put into place as strategy to minimize the incidence of SSIs and the spread of resistance isolates.  \n \nKeywords: Surgical site infection, antimicrobial resistance, antibiotics, Kenya \n \n1. \nBackground \n \nSurgical site infection (SSI) rates in low-and middle-income \ncountries (LMICs) range from 8 to 30% of procedures, \nmaking them the most frequent healthcare-acquired infection \n(HAI) with substantial morbidity, mortality, and economic \nimpacts  (Mehtar et al., 2020) . SSIs impact many aspects of \nthe patient journey including, increased pain and reduction \nin mobility, delayed wound healing, increased use of \nantibiotics, a common need for additional surgery, increased \nlength of hospital stay, and increased mortality  (Harrop et \nal., 2012) . Most wound infections are caused by \ncontamination during surgery with the patient’s own \nmicro‐organisms  (Townsend et al., 2016) . They may be \nsuperficial and self‐limiting, involving the skin only, or they \nmay be deeper and life‐threatening. SSIs are classified by \nthe Centers for Disease Control and Prevention (CDC) as \nsuperficial incisional, deep incisional and organ/space \ninfections  (Heal et al., 2016)  \n \nTo treat SSI, antibiotics are commonly used, however, the \nrise in antibiotic resistance (ABR) is an impediment to \nwound healing  (Harrop et al., 2012) . Overuse and misuse \nof antibiotics in LMICs is a probable contributing factor to \nABR development  (Manenzhe et al., 2015) . The small \namount of data available from LMICs raises a real concern \nabout the dynamic spread of multi-drug-and extensively-\ndrug resistant bacteria, especially Gram-negatives, in \nsettings where the availability of appropriate treatments is \nabsent.  \n \n2. \nLiterature Review \n \nArya et al. (2005)  in a prospective survey of SSI conducted \nin India (Arya etal., 2000) that evaluated 516 bacteria \nisolates from pus samples collected from post operative \nwounds found Staphylococcusaureus to be the most frequent \nisolate \nbacteria \nfollowed \nby \nEscherichiacoli, \nPseudomonasaeruginosa, KlebsiellaPneumonia and others. \nShe noted majority of the isolates as being resistant to \nampicillin-clavulanic \nacid, \nampicillin, \ncephalexin, \ncefuroxime, cefotaxime, fluoroquinolone and cotrimoxazole.  \n \nAnother study by Shamsuzzaman et al. (2003)  to evaluate \nantimicrobial susceptibility pattern among the most common \nbacteria associated with post operative wound infection, also \nreported S. aureus as the most common isolates. In addition, \nthey reported most of the isolates as being resistant to \nampicilin and amoxicillin. Moreover, 1.8% of S. saureus \nisolates were methicilin resistant (MRSA) while most of the \ngram-negative \nbacteria \nisolated \nsuch \nas \nE. \ncoli, \nKlebsiellaspp, and Pseudomonasaeruginosa were sensitive \nto quinoles and amino glycosides but resistant to \ncephalosporins  (Shamsuzzaman et al., 2003) . Antimicrobial \nresistance has become a serious worldwide public health \nproblem and global strategies of interventions to slow the \nemergence and reduce the spread of antimicrobial resistant \nmicroorganisms have been and continue to be formulated  \n(Bratzler & Houck, 2004) .  \n \nProblem definition \nSSIs are the 2nd leading nosocomial infectious with a \nprevalence of 2.6% globally. SSI prevalence ranges between \n4.3% to 21% in Nigeria and 8% to 11% in Kenya. There are \nlimited published data on the prevalence of bacteria isolates \ncausing Surgical Site Infections and their antibiotic \nsusceptibility patterns at the surgical wards of Kenyatta \nNational Hospital to help guide antimicrobial prophylaxis \nand patient care. The study of surgical site infections is \nimportant to give the trend of bacteria causing SSI in KNH. \nWith increasing emergence of drug resistances in some \npathogenic bacteria there is needed to determine the bacteria \ncausing SSIs and evaluate their antibiotic patterns. The \nresults of this study could help formulate an policy on SSIs \ncontrol. As such, this study aimed at determining the \noccurrence of post-surgical infections in KNH, their bacteria \nPaper ID: SR22705124816\nDOI: 10.21275/SR22705124816\n762 \n",
+   "n_chars": 5501,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      165.5,
+      7.5,
+      443.1,
+      20.8
+     ],
+     "text": "International Journal of Science and Research (IJSR) \n"
+    },
+    {
+     "bbox": [
+      263.8,
+      21.4,
+      344.3,
+      43.9
+     ],
+     "text": "ISSN: 2319-7064 \nSJIF (2022): 7.942 \n"
+    },
+    {
+     "bbox": [
+      221.4,
+      781.4,
+      387.2,
+      794.7
+     ],
+     "text": "Volume 11 Issue 8, August 2022 \n"
+    },
+    {
+     "bbox": [
+      191.4,
+      795.2,
+      417.7,
+      820.7
+     ],
+     "text": "www.ijsr.net \nLicensed Under Creative Commons Attribution CC BY \n"
+    },
+    {
+     "bbox": [
+      74.3,
+      51.1,
+      537.0,
+      77.7
+     ],
+     "text": "Occurrence of Post-Surgical Wound Infections, \n"
+    },
+    {
+     "bbox": [
+      62.4,
+      78.7,
+      549.1,
+      132.9
+     ],
+     "text": "Bacterial Isolates, and their Susceptibility to \nCommonly Used Antibiotics at Kenyatta National \n"
+    },
+    {
+     "bbox": [
+      50.4,
+      133.9,
+      386.8,
+      172.2
+     ],
+     "text": "Hospital, Kenya \n \n"
+    },
+    {
+     "bbox": [
+      131.7,
+      171.3,
+      476.6,
+      184.9
+     ],
+     "text": "Magdaline Burugu1, Andrew Nyerere2, Susan Odera3, Lameck Ontweka4 \n"
+    },
+    {
+     "bbox": [
+      228.1,
+      185.1,
+      379.8,
+      195.0
+     ],
+     "text": "Email: magdalene.burugu[at]uonbi.ac.ke \n"
+    },
+    {
+     "bbox": [
+      50.4,
+      195.6,
+      557.5,
+      775.8
+     ],
+     "text": " \n \nAbstract: Surgical site infections are now the most common and costly of all hospital-acquired infections (HAIs), accounting for 20% \nof all HAIs. This was a cross-sectional study to determine the occurrence of SSI, the common causative microbes and their antibacterial \nsusceptibility pattern. Sixty-two specimens from various types of surgical wounds were processed by standard methods and \nantimicrobial susceptibility testing done by disc diffusion method. Recovered bacteria were Staphylococcusaureus (29.6%), \nEscherichiacoli (22.2%), Pseudomonasaeruginosa (12.9%), Enterococcusfaecalis and Enterobacterspp (7.4%), Klebsiellaspp (5.6%), \nStreptococcuspyogenes (3.7%) and Acinetobacterspp (1.9%).62.5% of the S. aureus were Methicillin-resistant MRSA, while 75% of E. \nfaecalis were resistant to Vancomycin. Gram-negative rods were highly resistant to Ceftriaxone. Control and prevention measures \nshould be put into place as strategy to minimize the incidence of SSIs and the spread of resistance isolates.  \n \nKeywords: Surgical site infection, antimicrobial resistance, antibiotics, Kenya \n \n1. \nBackground \n \nSurgical site infection (SSI) rates in low-and middle-income \ncountries (LMICs) range from 8 to 30% of procedures, \nmaking them the most frequent healthcare-acquired infection \n(HAI) with substantial morbidity, mortality, and economic \nimpacts  (Mehtar et al., 2020) . SSIs impact many aspects of \nthe patient journey including, increased pain and reduction \nin mobility, delayed wound healing, increased use of \nantibiotics, a common need for additional surgery, increased \nlength of hospital stay, and increased mortality  (Harrop et \nal., 2012) . Most wound infections are caused by \ncontamination during surgery with the patient’s own \nmicro‐organisms  (Townsend et al., 2016) . They may be \nsuperficial and self‐limiting, involving the skin only, or they \nmay be deeper and life‐threatening. SSIs are classified by \nthe Centers for Disease Control and Prevention (CDC) as \nsuperficial incisional, deep incisional and organ/space \ninfections  (Heal et al., 2016)  \n \nTo treat SSI, antibiotics are commonly used, however, the \nrise in antibiotic resistance (ABR) is an impediment to \nwound healing  (Harrop et al., 2012) . Overuse and misuse \nof antibiotics in LMICs is a probable contributing factor to \nABR development  (Manenzhe et al., 2015) . The small \namount of data available from LMICs raises a real concern \nabout the dynamic spread of multi-drug-and extensively-\ndrug resistant bacteria, especially Gram-negatives, in \nsettings where the availability of appropriate treatments is \nabsent.  \n \n2. \nLiterature Review \n \nArya et al. (2005)  in a prospective survey of SSI conducted \nin India (Arya etal., 2000) that evaluated 516 bacteria \nisolates from pus samples collected from post operative \nwounds found Staphylococcusaureus to be the most frequent \nisolate \nbacteria \nfollowed \nby \nEscherichiacoli, \n"
+    },
+    {
+     "bbox": [
+      310.6,
+      334.6,
+      560.2,
+      771.1
+     ],
+     "text": "Pseudomonasaeruginosa, KlebsiellaPneumonia and others. \nShe noted majority of the isolates as being resistant to \nampicillin-clavulanic \nacid, \nampicillin, \ncephalexin, \ncefuroxime, cefotaxime, fluoroquinolone and cotrimoxazole.  \n \nAnother study by Shamsuzzaman et al. (2003)  to evaluate \nantimicrobial susceptibility pattern among the most common \nbacteria associated with post operative wound infection, also \nreported S. aureus as the most common isolates. In addition, \nthey reported most of the isolates as being resistant to \nampicilin and amoxicillin. Moreover, 1.8% of S. saureus \nisolates were methicilin resistant (MRSA) while most of the \ngram-negative \nbacteria \nisolated \nsuch \nas \nE. \ncoli, \nKlebsiellaspp, and Pseudomonasaeruginosa were sensitive \nto quinoles and amino glycosides but resistant to \ncephalosporins  (Shamsuzzaman et al., 2003) . Antimicrobial \nresistance has become a serious worldwide public health \nproblem and global strategies of interventions to slow the \nemergence and reduce the spread of antimicrobial resistant \nmicroorganisms have been and continue to be formulated  \n(Bratzler & Houck, 2004) .  \n \nProblem definition \nSSIs are the 2nd leading nosocomial infectious with a \nprevalence of 2.6% globally. SSI prevalence ranges between \n4.3% to 21% in Nigeria and 8% to 11% in Kenya. There are \nlimited published data on the prevalence of bacteria isolates \ncausing Surgical Site Infections and their antibiotic \nsusceptibility patterns at the surgical wards of Kenyatta \nNational Hospital to help guide antimicrobial prophylaxis \nand patient care. The study of surgical site infections is \nimportant to give the trend of bacteria causing SSI in KNH. \nWith increasing emergence of drug resistances in some \npathogenic bacteria there is needed to determine the bacteria \ncausing SSIs and evaluate their antibiotic patterns. The \nresults of this study could help formulate an policy on SSIs \ncontrol. As such, this study aimed at determining the \noccurrence of post-surgical infections in KNH, their bacteria \n"
+    },
+    {
+     "bbox": [
+      57.6,
+      825.8,
+      545.0,
+      838.1
+     ],
+     "text": "Paper ID: SR22705124816\nDOI: 10.21275/SR22705124816\n762 \n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "International Journal of Science and Research (IJSR) \nISSN: 2319-7064 \nSJIF (2022): 7.942 \nVolume 11 Issue 8, August 2022 \nwww.ijsr.net \nLicensed Under Creative Commons Attribution CC BY \nspectrum and their susceptibility to the various commonly \nused antibiotics \n \n3. \nMethodology \n \nThis was a cross sectional study conducted at the Kenyatta \nNational hospital (KNH) using a population sample of 62 \nmale and female adult patients admitted at the surgical ward \nafter undergoing surgery. The participants were purposively \nrecruited into the study. KNH is the largest referral and \nteaching hospital in Kenya and has a wide catchment.  \nTo be included in this study one had to be an adult (>18 \nyears), had undergone surgery at KNH, had an identifiable \nsuperficial SSI with the following signs: a purulent exudate \ndraining from surgical site, swelling erythema, pain, local \ntemperature and peri wound cellulitis or the surgeon’s \ndiagnosis of infection after the surgical period and consented \nto participate in the study. Immunocompromised patients \nand those on long term treatment with corticosteroids were \nexcluded.  \n \nSpecimen Collection \nParticipant clinical data and other demographic data were \ncollected. Pus from the surgical wounds were collected \nusing sterile cotton swabs and immediately transported to \nthe laboratory at the Department of Medical microbiology of \nthe University of Nairobi (UoN) for bacteriological studies.  \n \nOnce in the laboratory, each participant sample was \ninoculated onto two blood agar (BA) and one MacConkey \n(MAC) plate. One BA plate was incubated under 5%-10% \ncarbon dioxide (CO2) in a candle jar, the second BA plate \nand MAC plate were incubated aerobically at 37°C for 24 \nhours. After 24 hours, the plates were examined for growth, \nthose with no growth were re-incubated for extra 24 hours to \nenable the growth of slow growing bacteria. Plates that had \npresence of growth were classified on whether they had a \nmixed or pure growth. Isolates were identified by their \ncolonial morphological characteristics and the effect they \nhad on the media. A colony was picked and a slide smear \nmade \nfollowed \nby \ngram \nstaining \nfor \nmicroscopic \nexamination. Convectional biochemical tests: e. g., catalase, \ncoagulase, indole, urease, and oxidase, Methyl red, vogues \nproskauer, citrate utilization test, motility test, carbohydrate \nfermentation tests were done for identification and were \nidentified according to Bargey’s manual and manual of \nclinical microbiology (Holt 2003). For gram-negative rods, \nthey were inoculated in Triple Sugar Iron agar and in \nanalytical profile index (API 20E) for identification.  \n \nAntibiotic susceptibility testing  \nIdentified bacteria were cultured on Mueller Hinton agar \nwhile Streptococcuspyogenes isolates were cultured on BA \nfor antimicrobial susceptibility testing. Kirby Bauer disk \ndiffusion method was used for the susceptibility testing. \nQuality control was assured by adding Staphylococciaureus \nATCC 25923, Escherichia coli ATCC 25922 and \nPseudomonas aeruginosa ATCC 27853 as control.  \n \nStaphylococcusaureus isolates were also subjected to \nmethicillin susceptibility testing using Oxacillin discs.  \n \n \nData Analysis \nParticipant data was checked for completeness, consistency, \nand accuracy. It was then coded and analyzed using the \nstatistical package for social sciences (SPSS) version 19. \nThe results were presented in text, graphs, tables and charts.  \n \nEthical Considerations \nThis study was approved by the ethics research committee of \nthe KNH-UoN. Signed inform consent was required from \nstudy participants prior to participating in the study.  \n \n4. \nResults \n \nOut of the 62 pus samples that were collected, bacterial \nisolates were recovered from seven in ten samples (n=45, \n72.6%) while approximately three in ten samples (n=17, \n27.4%) had no bacterial growth. From the 45 samples that \nhad growth, 36 had pure cultures while nine had mixed \ncolonies. In total, 54 different bacterial species were \nisolated.  \n \nThe \nmost \noccurring \nbacterial \nisolate \nwas \nStaphylococcusaureus \n(n-16) \n29.6% \nfollowed \nby \nEscherichiacoli (n-12) 22.2%, Pseudomonas aeruginosa (n-\n7) 12.9%, Enterobacter spp (n-4) 7.4%, E. faecalis (n-4) \n7.4%, Proteus. spp (n-4) 7.4%, Klebsiella spp (n-3) 5.6%, \nand S. pyogens (n-2) 3.7%. The least occurring bacterial \nisolates were Acinetobacterspp (n-1) 1.9% and S. \nepidermidis (n-1) 1.9%.  \n \nThere were more male patients (n-37) compared to females \n(n-25) participants. Among the males, the most isolated \npathogen was S. saureus (20%) followed by E. coli (16%), \nwhile the least isolated organism was Klebsiellaspp and S. \nepidermidis (2%). In females the most isolated pathogen was \nalso S. aureus but with a less percent of (8%) followed by E. \ncoli and E. faecalis (5%), Klebsiellaspp and S. pyogenes \n(4%) \nand \nthe \nleast \nisolated \nwas \nProteusspp \nand \nAcinetobacterspp (2%).  \n \nAntimicrobial susceptibility patterns \n \nAntibiotics susceptibility pattern of Gram Negatives \nIsolates  \nAntimicrobial susceptibility testing was done on four \nisolatesE. coli, Proteus spp, P. aeruginosa, and Klebsiella \nspp. E. coli showed high resistance to ceftriaxone (91.7%). \nP. aeruginosa isolates showed high resistance to Amikacin \n(71.4%) with one isolate (14.3%) showing resistance to \nMeropenem while 2 (42.9%) were resistance to piperacillin \nn = 2 (42.9%). Klebsiella spp isolates had high resistance to \nAmpicillin and Augmentin (66.7%). Proteus spp showed \nhigh resistance to Ceftazidime and Ceftriazone (66.7%). \nThis is summarized in table1.  \n \nTable 1: Antibiotics susceptibility pattern of Gram \nNegatives Isolates showing resistance results \nANTIBIOTIC \nE. coli \n% \nProteus \nspp % \nP. aeruginosa \n% \nKlebsiella \nspp % \nAmikacin \n41.7 \n25.0 \n71.4 \n33.3 \nAmpicillin \n83.3 \n33.3 \n- \n66.7 \nAugmentin \n50.0 \n50.0 \n- \n66.7 \nCeftazidime \n41.7 \n33.3 \n- \n33.3 \nPaper ID: SR22705124816\nDOI: 10.21275/SR22705124816\n763 \n",
+   "n_chars": 5983,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      165.5,
+      7.5,
+      443.1,
+      20.8
+     ],
+     "text": "International Journal of Science and Research (IJSR) \n"
+    },
+    {
+     "bbox": [
+      263.8,
+      21.4,
+      344.3,
+      43.9
+     ],
+     "text": "ISSN: 2319-7064 \nSJIF (2022): 7.942 \n"
+    },
+    {
+     "bbox": [
+      221.4,
+      781.4,
+      387.2,
+      794.7
+     ],
+     "text": "Volume 11 Issue 8, August 2022 \n"
+    },
+    {
+     "bbox": [
+      191.4,
+      795.2,
+      417.7,
+      820.7
+     ],
+     "text": "www.ijsr.net \nLicensed Under Creative Commons Attribution CC BY \n"
+    },
+    {
+     "bbox": [
+      50.4,
+      50.5,
+      297.5,
+      777.1
+     ],
+     "text": "spectrum and their susceptibility to the various commonly \nused antibiotics \n \n3. \nMethodology \n \nThis was a cross sectional study conducted at the Kenyatta \nNational hospital (KNH) using a population sample of 62 \nmale and female adult patients admitted at the surgical ward \nafter undergoing surgery. The participants were purposively \nrecruited into the study. KNH is the largest referral and \nteaching hospital in Kenya and has a wide catchment.  \nTo be included in this study one had to be an adult (>18 \nyears), had undergone surgery at KNH, had an identifiable \nsuperficial SSI with the following signs: a purulent exudate \ndraining from surgical site, swelling erythema, pain, local \ntemperature and peri wound cellulitis or the surgeon’s \ndiagnosis of infection after the surgical period and consented \nto participate in the study. Immunocompromised patients \nand those on long term treatment with corticosteroids were \nexcluded.  \n \nSpecimen Collection \nParticipant clinical data and other demographic data were \ncollected. Pus from the surgical wounds were collected \nusing sterile cotton swabs and immediately transported to \nthe laboratory at the Department of Medical microbiology of \nthe University of Nairobi (UoN) for bacteriological studies.  \n \nOnce in the laboratory, each participant sample was \ninoculated onto two blood agar (BA) and one MacConkey \n(MAC) plate. One BA plate was incubated under 5%-10% \ncarbon dioxide (CO2) in a candle jar, the second BA plate \nand MAC plate were incubated aerobically at 37°C for 24 \nhours. After 24 hours, the plates were examined for growth, \nthose with no growth were re-incubated for extra 24 hours to \nenable the growth of slow growing bacteria. Plates that had \npresence of growth were classified on whether they had a \nmixed or pure growth. Isolates were identified by their \ncolonial morphological characteristics and the effect they \nhad on the media. A colony was picked and a slide smear \nmade \nfollowed \nby \ngram \nstaining \nfor \nmicroscopic \nexamination. Convectional biochemical tests: e. g., catalase, \ncoagulase, indole, urease, and oxidase, Methyl red, vogues \nproskauer, citrate utilization test, motility test, carbohydrate \nfermentation tests were done for identification and were \nidentified according to Bargey’s manual and manual of \nclinical microbiology (Holt 2003). For gram-negative rods, \nthey were inoculated in Triple Sugar Iron agar and in \nanalytical profile index (API 20E) for identification.  \n \nAntibiotic susceptibility testing  \nIdentified bacteria were cultured on Mueller Hinton agar \nwhile Streptococcuspyogenes isolates were cultured on BA \nfor antimicrobial susceptibility testing. Kirby Bauer disk \ndiffusion method was used for the susceptibility testing. \nQuality control was assured by adding Staphylococciaureus \nATCC 25923, Escherichia coli ATCC 25922 and \nPseudomonas aeruginosa ATCC 27853 as control.  \n \nStaphylococcusaureus isolates were also subjected to \nmethicillin susceptibility testing using Oxacillin discs.  \n \n \n"
+    },
+    {
+     "bbox": [
+      310.6,
+      50.8,
+      557.7,
+      673.4
+     ],
+     "text": "Data Analysis \nParticipant data was checked for completeness, consistency, \nand accuracy. It was then coded and analyzed using the \nstatistical package for social sciences (SPSS) version 19. \nThe results were presented in text, graphs, tables and charts.  \n \nEthical Considerations \nThis study was approved by the ethics research committee of \nthe KNH-UoN. Signed inform consent was required from \nstudy participants prior to participating in the study.  \n \n4. \nResults \n \nOut of the 62 pus samples that were collected, bacterial \nisolates were recovered from seven in ten samples (n=45, \n72.6%) while approximately three in ten samples (n=17, \n27.4%) had no bacterial growth. From the 45 samples that \nhad growth, 36 had pure cultures while nine had mixed \ncolonies. In total, 54 different bacterial species were \nisolated.  \n \nThe \nmost \noccurring \nbacterial \nisolate \nwas \nStaphylococcusaureus \n(n-16) \n29.6% \nfollowed \nby \nEscherichiacoli (n-12) 22.2%, Pseudomonas aeruginosa (n-\n7) 12.9%, Enterobacter spp (n-4) 7.4%, E. faecalis (n-4) \n7.4%, Proteus. spp (n-4) 7.4%, Klebsiella spp (n-3) 5.6%, \nand S. pyogens (n-2) 3.7%. The least occurring bacterial \nisolates were Acinetobacterspp (n-1) 1.9% and S. \nepidermidis (n-1) 1.9%.  \n \nThere were more male patients (n-37) compared to females \n(n-25) participants. Among the males, the most isolated \npathogen was S. saureus (20%) followed by E. coli (16%), \nwhile the least isolated organism was Klebsiellaspp and S. \nepidermidis (2%). In females the most isolated pathogen was \nalso S. aureus but with a less percent of (8%) followed by E. \ncoli and E. faecalis (5%), Klebsiellaspp and S. pyogenes \n(4%) \nand \nthe \nleast \nisolated \nwas \nProteusspp \nand \nAcinetobacterspp (2%).  \n \nAntimicrobial susceptibility patterns \n \nAntibiotics susceptibility pattern of Gram Negatives \nIsolates  \nAntimicrobial susceptibility testing was done on four \nisolatesE. coli, Proteus spp, P. aeruginosa, and Klebsiella \nspp. E. coli showed high resistance to ceftriaxone (91.7%). \nP. aeruginosa isolates showed high resistance to Amikacin \n(71.4%) with one isolate (14.3%) showing resistance to \nMeropenem while 2 (42.9%) were resistance to piperacillin \nn = 2 (42.9%). Klebsiella spp isolates had high resistance to \nAmpicillin and Augmentin (66.7%). Proteus spp showed \nhigh resistance to Ceftazidime and Ceftriazone (66.7%). \nThis is summarized in table1.  \n"
+    },
+    {
+     "bbox": [
+      330.8,
+      674.1,
+      537.6,
+      696.5
+     ],
+     "text": " \nTable 1: Antibiotics susceptibility pattern of Gram \n"
+    },
+    {
+     "bbox": [
+      342.9,
+      696.8,
+      525.5,
+      707.9
+     ],
+     "text": "Negatives Isolates showing resistance results \n"
+    },
+    {
+     "bbox": [
+      312.2,
+      708.8,
+      403.3,
+      724.0
+     ],
+     "text": "ANTIBIOTIC \nE. coli \n"
+    },
+    {
+     "bbox": [
+      385.5,
+      719.3,
+      395.2,
+      729.2
+     ],
+     "text": "% \n"
+    },
+    {
+     "bbox": [
+      412.3,
+      708.8,
+      441.5,
+      718.8
+     ],
+     "text": "Proteus \n"
+    },
+    {
+     "bbox": [
+      414.7,
+      719.3,
+      439.1,
+      729.2
+     ],
+     "text": "spp % \n"
+    },
+    {
+     "bbox": [
+      453.0,
+      708.8,
+      503.7,
+      718.8
+     ],
+     "text": "P. aeruginosa \n"
+    },
+    {
+     "bbox": [
+      473.5,
+      719.3,
+      483.2,
+      729.2
+     ],
+     "text": "% \n"
+    },
+    {
+     "bbox": [
+      516.2,
+      708.8,
+      555.0,
+      718.8
+     ],
+     "text": "Klebsiella \n"
+    },
+    {
+     "bbox": [
+      315.9,
+      719.3,
+      547.8,
+      772.6
+     ],
+     "text": "spp % \nAmikacin \n41.7 \n25.0 \n71.4 \n33.3 \nAmpicillin \n83.3 \n33.3 \n- \n66.7 \nAugmentin \n50.0 \n50.0 \n- \n66.7 \nCeftazidime \n41.7 \n33.3 \n- \n33.3 \n"
+    },
+    {
+     "bbox": [
+      57.6,
+      825.8,
+      545.0,
+      838.1
+     ],
+     "text": "Paper ID: SR22705124816\nDOI: 10.21275/SR22705124816\n763 \n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "International Journal of Science and Research (IJSR) \nISSN: 2319-7064 \nSJIF (2022): 7.942 \nVolume 11 Issue 8, August 2022 \nwww.ijsr.net \nLicensed Under Creative Commons Attribution CC BY \nCeftriazone \n91.7 \n66.7 \n- \n33.3 \nCefotaxime \n66.7 \n- \n- \n- \nCefuroxime \n25.0 \n25 \n- \n- \nCiprofloxacin \n33.3 \n- \n- \n33.3 \nPiperacillin \n- \n- \n42.9 \nMeropenem \n- \n- \n14.3 \n0.0 \nTimentin \n- \n- \n57.1 \n- \nCefepime \n- \n- \n85.7 \n- \n KEY; %-percentage \n \nAntibiotics susceptibility pattern of Gram-positive \nIsolates showing resistance \nIn cases of Staphylococcusaureus 56.3% of the isolates were \nfound resistant to Methicillin (Oxacillin), this isolate also \nshowed high resistant to Augmentin (62.5%), Erythromycin \n(56.3%). In the case of S. epidermidis the 1 isolate isolated \nwas \nfound \nto \nbe \nresistant \nto \nErythromycin \nand \nCotrimoxazole. Out of the 4 Enterococcusfaecalis isolates \nonly 1 had resistance to Erythromycin and Cotrimoxazole \n(25%) and 3 of the isolates were Vancomycin (75%) \nresistant as shown in Table 2.  \n \nStaphylococcusaureus \nretained \n43.8% \nsensitivity \nto \nMethicillin \nwhile \nS. \nepidermidis \nwas \nsensitive \nto \nAugmentin, Cephalexin and Cotrimoxazole. Enterococcus \nfaecalis was found to be highly sensitive to Augmentin and \nErythromycin (75%) respectively.  \n \nTable 2: Antibiotic sensitivity pattern of Gram positive \ncocci showing resistance \nANTIBIOTIC S. aureus \n% \nS. epidermidis \n% \nS. pyogenes \n% \nE. faecalis \n% \nAmpicillin \n56.3 \n0 \n0 \n50 \nAugmentin \n62.5 \n0 \n50 \n75 \nErythromycin \n56.2 \n100 \n0 \n25 \nCephalexin \n37.5 \n0 \n50 \n50 \nCotrimoxazole \n50 \n100 \n50 \n50 \nVancomycin \n31.3 \n0 \n50 \n75 \nOxacillin \n56.3 \n- \n- \n- \n KEY; %-percentage \n \nFrequency and Percentage of Bacteria Isolated from \nVarious Operation Sites \nIn the operation of incision and drainage Saureus was the \nmost isolated n-3 (18.8%) and in laparotomy Proteusspp \n75% and E. Faecalis 75% respectively was the most \nisolated. The 1 isolate of S. epidermidis was also isolated \nfrom laparotomy.  \n \nTable 3: Frequency and Percentage of Bacteria Isolated from Various Operation Sites \nType of  \nsurgery \nE. coli Proteus \nspp \nKlebsiella \nspp \nPseudomonas \nspp \nEnterobacter \nspp \nAcinetobacter \nspp \nS. aureus E. faecalis S. pyogenes S. epidermidis \nID \n2 (16.7) \n0 \n1 (33.3) \n0 \n0 \n0 \n3 (18.8) \n1 (25) \n1 (50) \n0 \nHERN \n1 (8.3) \n0 \n0 \n1 (14.3) \n0 \n0 \n0 \n0 \n0 \n0 \nAPPEND \n2 (16.7) \n0 \n0 \n1 (14.3) \n2 (50) \n0 \n2 (12.5) \n0 \n0 \n0 \nORIF \n0 \n1 (25) \n0 \n2 (28.6) \n1 (25) \n1 (100) \n1 (6.3) \n0 \n1 (50) \n0 \nLAP \n5 (41.7) 3 (75) \n0 \n3 (42.9) \n1 (25) \n0 \n6 (37.5) \n3 (75) \n0 \n1 (100) \nCORR SUR \n0 \n0 \n0 \n0 \n0 \n0 \n0 \n0 \n0 \n0 \nOTHERS \n2 (16.7) \n0 \n2 (66.7) \n0 \n0 \n0 \n4 (25) \n0 \n0 \n0 \nTOTAL \n12 \n4 \n3 \n7 \n4 \n1 \n16 \n4 \n2 \n1 \nKEY; ID-Incision & Drainage, HERN-Heriorropathy, APPEND-Appendectomy, ORIF-Open reduction internal fixation. \nLAP-Laparotomy, OTHERS-Breast surgery, corrective surgery \n \n5. \nDiscussion \n \nThe risk of infection after surgery depends upon the factors \nincluding the type and length of surgical procedure; age, \nunderlying conditions and previous history of the patient: \nskill of the surgeon; diligence with which infection control \nprocedures are applied and the type and timing of pre-\noperative antibiotic prophylaxis.  \n \nIn this study, 54 microbes were isolated from the 45 samples \nthat grew bacteria. The most isolated pathogen was \nStaphylococcusaureus \n(n-16, \n29.6%), \nfollowed \nby \nEscherichiacoli (n-12, 22.2%) and Pseudomonas aeruginosa \n(n-7, 12.9%). These findings agree with Arya et al. (2000) \nwho found the same trend. Similarly, Shamsuzzaman et al. \n(2003)  identified Staphylococcusaureus as the most \ncommon causative bacteria agent of surgical site Infections.  \n \nThe high prevalence of Staphylococcu aureus infection \nobserved in this study could be because it is endogenous \nsource of infections. Nasal carriage of S. aureus is an \nimportant risk factor for infection of SSIs as the organism is \na normal flora in the nostrils. Infection with this organism \nmay also be due to contamination from the environment \nsuch as surgical instruments. It is noted that with disruption \nof the natural skin barrier S. aureuswhich is a common \nbacterium on surface can easily find its way into Surgical \nsites  (Brown, 1990) .  \n \nThe isolation of coliforms; Escherichiacoli (22.2%), \nProteusspp (7.4%) and Enterobacterspp (7.4%) could be as \na result of contamination of the surgical site with the patients \nendogenous flora as they are normal flora of the GIT  \n(Anguzu & Olila, 2007) .  \n \nMajority of gram-negative isolates showed high resistance \ntoceftriaxone as shown by E. coli (91.7%), and Proteus spp \n(66.7%); to Ampicillin by Ecoli (83.3%), and Klebsiella spp \n(66.5%); to Augmentin by Klebsiella spp (66.7%), and \nProteus spp (50%). These findings agree with the findings of \nAmrita et al. (2010). Resistance to Ceftriaxone and \nAmpicillin could be explained by they having been used as \nprophylaxis preoperatively hence increasing their use in \npatients. Over-use of antibiotics has been shown to \ncontributes to organisms developing resistance  (Seppälä et \nal., 1992). Pseudomonasaeruginosa isolates had high \nresistance to Amikacin (71.4%), Cefepime (85.7%) and \nPiperacillin (42.9%).  \n \nPaper ID: SR22705124816\nDOI: 10.21275/SR22705124816\n764 \n",
+   "n_chars": 5279,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      165.5,
+      7.5,
+      443.1,
+      20.8
+     ],
+     "text": "International Journal of Science and Research (IJSR) \n"
+    },
+    {
+     "bbox": [
+      263.8,
+      21.4,
+      344.3,
+      43.9
+     ],
+     "text": "ISSN: 2319-7064 \nSJIF (2022): 7.942 \n"
+    },
+    {
+     "bbox": [
+      221.4,
+      781.4,
+      387.2,
+      794.7
+     ],
+     "text": "Volume 11 Issue 8, August 2022 \n"
+    },
+    {
+     "bbox": [
+      191.4,
+      795.2,
+      417.7,
+      820.7
+     ],
+     "text": "www.ijsr.net \nLicensed Under Creative Commons Attribution CC BY \n"
+    },
+    {
+     "bbox": [
+      50.4,
+      51.0,
+      297.5,
+      321.4
+     ],
+     "text": "Ceftriazone \n91.7 \n66.7 \n- \n33.3 \nCefotaxime \n66.7 \n- \n- \n- \nCefuroxime \n25.0 \n25 \n- \n- \nCiprofloxacin \n33.3 \n- \n- \n33.3 \nPiperacillin \n- \n- \n42.9 \nMeropenem \n- \n- \n14.3 \n0.0 \nTimentin \n- \n- \n57.1 \n- \nCefepime \n- \n- \n85.7 \n- \n KEY; %-percentage \n \nAntibiotics susceptibility pattern of Gram-positive \nIsolates showing resistance \nIn cases of Staphylococcusaureus 56.3% of the isolates were \nfound resistant to Methicillin (Oxacillin), this isolate also \nshowed high resistant to Augmentin (62.5%), Erythromycin \n(56.3%). In the case of S. epidermidis the 1 isolate isolated \nwas \nfound \nto \nbe \nresistant \nto \nErythromycin \nand \nCotrimoxazole. Out of the 4 Enterococcusfaecalis isolates \nonly 1 had resistance to Erythromycin and Cotrimoxazole \n(25%) and 3 of the isolates were Vancomycin (75%) \nresistant as shown in Table 2.  \n \nStaphylococcusaureus \nretained \n43.8% \nsensitivity \nto \nMethicillin \nwhile \nS. \nepidermidis \nwas \nsensitive \nto \n"
+    },
+    {
+     "bbox": [
+      310.6,
+      50.5,
+      557.7,
+      84.6
+     ],
+     "text": "Augmentin, Cephalexin and Cotrimoxazole. Enterococcus \nfaecalis was found to be highly sensitive to Augmentin and \nErythromycin (75%) respectively.  \n"
+    },
+    {
+     "bbox": [
+      321.7,
+      85.2,
+      546.6,
+      107.5
+     ],
+     "text": " \nTable 2: Antibiotic sensitivity pattern of Gram positive \n"
+    },
+    {
+     "bbox": [
+      383.2,
+      108.0,
+      485.1,
+      119.1
+     ],
+     "text": "cocci showing resistance \n"
+    },
+    {
+     "bbox": [
+      310.8,
+      120.0,
+      406.1,
+      135.2
+     ],
+     "text": "ANTIBIOTIC S. aureus \n"
+    },
+    {
+     "bbox": [
+      383.5,
+      130.4,
+      393.2,
+      140.3
+     ],
+     "text": "% \n"
+    },
+    {
+     "bbox": [
+      411.1,
+      120.0,
+      464.8,
+      130.0
+     ],
+     "text": "S. epidermidis \n"
+    },
+    {
+     "bbox": [
+      433.2,
+      130.4,
+      442.9,
+      140.3
+     ],
+     "text": "% \n"
+    },
+    {
+     "bbox": [
+      470.3,
+      120.0,
+      515.0,
+      130.0
+     ],
+     "text": "S. pyogenes \n"
+    },
+    {
+     "bbox": [
+      487.8,
+      130.4,
+      497.5,
+      140.3
+     ],
+     "text": "% \n"
+    },
+    {
+     "bbox": [
+      519.5,
+      120.0,
+      559.8,
+      130.0
+     ],
+     "text": "E. faecalis \n"
+    },
+    {
+     "bbox": [
+      56.8,
+      130.4,
+      557.7,
+      365.7
+     ],
+     "text": "% \nAmpicillin \n56.3 \n0 \n0 \n50 \nAugmentin \n62.5 \n0 \n50 \n75 \nErythromycin \n56.2 \n100 \n0 \n25 \nCephalexin \n37.5 \n0 \n50 \n50 \nCotrimoxazole \n50 \n100 \n50 \n50 \nVancomycin \n31.3 \n0 \n50 \n75 \nOxacillin \n56.3 \n- \n- \n- \n KEY; %-percentage \n \nFrequency and Percentage of Bacteria Isolated from \nVarious Operation Sites \nIn the operation of incision and drainage Saureus was the \nmost isolated n-3 (18.8%) and in laparotomy Proteusspp \n75% and E. Faecalis 75% respectively was the most \nisolated. The 1 isolate of S. epidermidis was also isolated \nfrom laparotomy.  \n \nTable 3: Frequency and Percentage of Bacteria Isolated from Various Operation Sites \nType of  \nsurgery \n"
+    },
+    {
+     "bbox": [
+      100.8,
+      345.3,
+      161.5,
+      355.3
+     ],
+     "text": "E. coli Proteus \n"
+    },
+    {
+     "bbox": [
+      139.0,
+      355.8,
+      153.7,
+      365.7
+     ],
+     "text": "spp \n"
+    },
+    {
+     "bbox": [
+      164.1,
+      345.3,
+      202.8,
+      355.3
+     ],
+     "text": "Klebsiella \n"
+    },
+    {
+     "bbox": [
+      176.1,
+      355.8,
+      190.8,
+      365.7
+     ],
+     "text": "spp \n"
+    },
+    {
+     "bbox": [
+      206.7,
+      345.3,
+      259.0,
+      355.3
+     ],
+     "text": "Pseudomonas \n"
+    },
+    {
+     "bbox": [
+      225.5,
+      355.8,
+      240.3,
+      365.7
+     ],
+     "text": "spp \n"
+    },
+    {
+     "bbox": [
+      263.5,
+      345.3,
+      313.2,
+      355.3
+     ],
+     "text": "Enterobacter \n"
+    },
+    {
+     "bbox": [
+      281.0,
+      355.8,
+      295.7,
+      365.7
+     ],
+     "text": "spp \n"
+    },
+    {
+     "bbox": [
+      317.8,
+      345.3,
+      370.6,
+      355.3
+     ],
+     "text": "Acinetobacter \n"
+    },
+    {
+     "bbox": [
+      336.8,
+      355.8,
+      351.5,
+      365.7
+     ],
+     "text": "spp \n"
+    },
+    {
+     "bbox": [
+      374.4,
+      345.3,
+      559.7,
+      355.3
+     ],
+     "text": "S. aureus E. faecalis S. pyogenes S. epidermidis \n"
+    },
+    {
+     "bbox": [
+      48.6,
+      366.6,
+      557.7,
+      777.2
+     ],
+     "text": "ID \n2 (16.7) \n0 \n1 (33.3) \n0 \n0 \n0 \n3 (18.8) \n1 (25) \n1 (50) \n0 \nHERN \n1 (8.3) \n0 \n0 \n1 (14.3) \n0 \n0 \n0 \n0 \n0 \n0 \nAPPEND \n2 (16.7) \n0 \n0 \n1 (14.3) \n2 (50) \n0 \n2 (12.5) \n0 \n0 \n0 \nORIF \n0 \n1 (25) \n0 \n2 (28.6) \n1 (25) \n1 (100) \n1 (6.3) \n0 \n1 (50) \n0 \nLAP \n5 (41.7) 3 (75) \n0 \n3 (42.9) \n1 (25) \n0 \n6 (37.5) \n3 (75) \n0 \n1 (100) \nCORR SUR \n0 \n0 \n0 \n0 \n0 \n0 \n0 \n0 \n0 \n0 \nOTHERS \n2 (16.7) \n0 \n2 (66.7) \n0 \n0 \n0 \n4 (25) \n0 \n0 \n0 \nTOTAL \n12 \n4 \n3 \n7 \n4 \n1 \n16 \n4 \n2 \n1 \nKEY; ID-Incision & Drainage, HERN-Heriorropathy, APPEND-Appendectomy, ORIF-Open reduction internal fixation. \nLAP-Laparotomy, OTHERS-Breast surgery, corrective surgery \n \n5. \nDiscussion \n \nThe risk of infection after surgery depends upon the factors \nincluding the type and length of surgical procedure; age, \nunderlying conditions and previous history of the patient: \nskill of the surgeon; diligence with which infection control \nprocedures are applied and the type and timing of pre-\noperative antibiotic prophylaxis.  \n \nIn this study, 54 microbes were isolated from the 45 samples \nthat grew bacteria. The most isolated pathogen was \nStaphylococcusaureus \n(n-16, \n29.6%), \nfollowed \nby \nEscherichiacoli (n-12, 22.2%) and Pseudomonas aeruginosa \n(n-7, 12.9%). These findings agree with Arya et al. (2000) \nwho found the same trend. Similarly, Shamsuzzaman et al. \n(2003)  identified Staphylococcusaureus as the most \ncommon causative bacteria agent of surgical site Infections.  \n \nThe high prevalence of Staphylococcu aureus infection \nobserved in this study could be because it is endogenous \nsource of infections. Nasal carriage of S. aureus is an \nimportant risk factor for infection of SSIs as the organism is \na normal flora in the nostrils. Infection with this organism \nmay also be due to contamination from the environment \nsuch as surgical instruments. It is noted that with disruption \n"
+    },
+    {
+     "bbox": [
+      310.6,
+      487.9,
+      560.2,
+      763.4
+     ],
+     "text": "of the natural skin barrier S. aureuswhich is a common \nbacterium on surface can easily find its way into Surgical \nsites  (Brown, 1990) .  \n \nThe isolation of coliforms; Escherichiacoli (22.2%), \nProteusspp (7.4%) and Enterobacterspp (7.4%) could be as \na result of contamination of the surgical site with the patients \nendogenous flora as they are normal flora of the GIT  \n(Anguzu & Olila, 2007) .  \n \nMajority of gram-negative isolates showed high resistance \ntoceftriaxone as shown by E. coli (91.7%), and Proteus spp \n(66.7%); to Ampicillin by Ecoli (83.3%), and Klebsiella spp \n(66.5%); to Augmentin by Klebsiella spp (66.7%), and \nProteus spp (50%). These findings agree with the findings of \nAmrita et al. (2010). Resistance to Ceftriaxone and \nAmpicillin could be explained by they having been used as \nprophylaxis preoperatively hence increasing their use in \npatients. Over-use of antibiotics has been shown to \ncontributes to organisms developing resistance  (Seppälä et \nal., 1992). Pseudomonasaeruginosa isolates had high \nresistance to Amikacin (71.4%), Cefepime (85.7%) and \nPiperacillin (42.9%).  \n \n"
+    },
+    {
+     "bbox": [
+      57.6,
+      825.8,
+      545.0,
+      838.1
+     ],
+     "text": "Paper ID: SR22705124816\nDOI: 10.21275/SR22705124816\n764 \n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "International Journal of Science and Research (IJSR) \nISSN: 2319-7064 \nSJIF (2022): 7.942 \nVolume 11 Issue 8, August 2022 \nwww.ijsr.net \nLicensed Under Creative Commons Attribution CC BY \nMethicillin resistance Staphylococcusaureus were at 56.3% \nof isolates. E. faecalis isolates showed high resistance to \nVancomycin (75%). This resistance pattern for both S. \naureus and E. faecalis confirmed that MRSA and VRE \nclinical isolates are important causes of hospital acquired \nsurgical site infections. Our results on MSRA resistance is \nsimilar to the study done in Mulago hospital by Kironde et \nal. \n(2001) \n. \nThe \nresistance \nobserved \nin \nStaphylococcusaureus could also be attributed to irrational \nuse of antibiotics for conditions that may not clinically \nindicate their use, over the counter sell of antibiotics in \npharmacies without prescription by authorised practitioners, \nsome new drug and formulations which may be of poor \nquality and dumping of banned products into the market \nwhere the public may get access to them  (Kironde et al., \n2001). Staphylococcusaureus was isolated across the various \nanatomical sites e. g. thigh (18.8%), knee (25%), cheek and \nchest (6.3%). Thismay be due to surface contamination by \norganisms on the skin and environment causing nosocomial \ninfections  (Kironde et al., 2001) .  \n \n6. \nConclusions \n \nWe should clearly understand and identify SSIs as a problem \nand devise a system to track, analyse and monitor these in \nour hospitals. In view of such highly resistance isolates \ncausing SSIs in our hospital it will be very difficult to treat \nthese cases, so the only hope lies within prevention of such \ninfections. There is also need to be careful in selection of \nantibiotic regime in SSIs cases to minimize incoming \nmagnitude of drug resistance among bacteria.  \n \n7. \nFuture Scope \n \nThere is need for continuous surveillance genotypic \ncharacterization of clinical isolates and their antimicrobial \nsusceptibility patterns. Surgical site Infections need to be \nprevented \nby \nthe \nsurgeons’ \npersonnel, \noperation \nenvironment should be clean and aseptic and modern \noperating techniques should be employed. Patients should be \neducated on importance of hygiene after undergoing surgery \nto minimize contamination of the surgical sites. Since a high \nproportion of samples had positive cultures, infections \ncontrol is recommended as a strategy to minimize speedy \nresistance organisms’ future studies should be extended to \ninclude cultures under anaerobic conditions to establish \npresence of other bacteria that require such environment for \ngrowth. There is need to develop National surveillance of \nantibiotic resistant organisms.  \n \nReferences \n \n[1] \nAnguzu, J., & Olila, D. (2007). Drug sensitivity \npatterns of bacterial isolates from septic post-operative \nwounds in a regional referral hospital in Uganda. \nAfrican health sciences, 7 (3).  \n[2] \nArya, M., Arya, P. K., Biswas, D., & Prasad, R. \n(2005). Antimicrobial susceptibility pattern of bacterial \nisolates from post-operative wound infections. Indian \nJournal of Pathology & Microbiology, 48 (2), 266-\n269.  \n[3] \nBratzler, D. W., & Houck, P. M. (2004). Antimicrobial \nprophylaxis for surgery: an advisory statement from \nthe National Surgical Infection Prevention Project. \nClinical infectious diseases, 1706-1715.  \n[4] \nBrown, A. (1990). Bacteriology of wound infections in \nsurgical ward of teaching hospitals. West African \nJournal of Medicine, 9, 4285-4290.  \n[5] \nHarrop, J. S., Styliaras, J. C., Ooi, Y. C., Radcliff, K. \nE., Vaccaro, A. R., & Wu, C. (2012). Contributing \nfactors to surgical site infections. J Am Acad Orthop \nSurg, 20 (2), 94-101. https: //doi. org/10.5435/jaaos-\n20-02-094 \n[6] \nHeal, C. F., Banks, J. L., Lepper, P. D., Kontopantelis, \nE., & van Driel, M. L. (2016). Topical antibiotics for \npreventing surgical site infection in wounds healing by \nprimary intention. Cochrane Database Syst Rev, 11 \n(11), Cd011426. https: //doi. org/10.1002/14651858. \nCD011426. pub2 \n[7] \nKironde, F., Pimundu, G., & Wewedru, I. C. (2001). \nStaphylococcus Aureus Antibiotypes at Mulago \nHospital. Mulago Hospital Bulletin, 18-25.  \n[8] \nManenzhe, R. I., Zar, H. J., Nicol, M. P., & Kaba, M. \n(2015). The spread of carbapenemase-producing \nbacteria in Africa: a systematic review. J Antimicrob \nChemother, \n70 \n(1), \n23-40. \nhttps: \n//doi. \norg/10.1093/jac/dku356 \n[9] \nMehtar, S., Wanyoro, A., Ogunsola, F., Ameh, E. A., \nNthumba, P., Kilpatrick, C., Revathi, G., Antoniadou, \nA., Giamarelou, H., Apisarnthanarak, A., Ramatowski, \nJ. W., Rosenthal, V. D., Storr, J., Osman, T. S., & \nSolomkin, J. S. (2020). Implementation of surgical site \ninfection surveillance in low-and middle-income \ncountries: A position statement for the International \nSociety for Infectious Diseases. Int J Infect Dis, 100, \n123-131. https: //doi. org/10.1016/j. ijid.2020.07.021 \n[10] Seppälä, H., Nissinen, A., Järvinen, H., Huovinen, S., \nHenriksson, T., Herva, E., Holm, S. E., Jahkola, M., \nKatila, M.-L., & Klaukka, T. (1992). Resistance to \nerythromycin in group A streptococci. New England \nJournal of Medicine, 326 (5), 292-297.  \n[11] Shamsuzzaman, A., Sirajee, A., Rahman, M., Miah, \nA., & Hossain, M. (2003). Pattern of aerobic bacteria \nwith their drug susceptibility of surgical inpatients. \nMymensingh Medical Journal: MMJ, 12 (2), 98-103.  \n[12] Townsend, C. M., Beauchamp, R. D., Evers, B. M., & \nMattox, K. L. (2016). Sabiston textbook of surgery. \nElsevier Health Sciences.  \n \nAuthor Profile \n \nMagdaline W. Burugu is a Medical Microbiologist in the \nDepartment of Medical Microbiology and Immunology at the \nUniversity of Nairobi, Kenya. She holds an MSc in Medical \nMicrobiology \n(University \nof \nNairobi), \nBSc \nin \nMedical \nMicrobiology (Jomo Kenyatta University of Science and \nTechnology), Higher National Diploma in Medical Microbiology, \nDiploma in Medical Laboratory Science and Certificate in Medical \nLaboratory Science (Kenya Polytechnic). She has interest in \nresearch and teaching of Medical Microbiology. She is a member \nof Kenya Medical Laboratory Technologist and Technician Board \nand American Society of Microbiologist. She is an examiner with \nKMLTTB, KNEC Technical Examinations. She participates in \nMentoring \nand \nCapacity \nbuilding \nof \nCounty \nLaboratory \nTechnologists in Diagnosing of infectious diseases.  \nPaper ID: SR22705124816\nDOI: 10.21275/SR22705124816\n765 \nView publication stats\n",
+   "n_chars": 6458,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      165.5,
+      7.5,
+      443.1,
+      20.8
+     ],
+     "text": "International Journal of Science and Research (IJSR) \n"
+    },
+    {
+     "bbox": [
+      263.8,
+      21.4,
+      344.3,
+      43.9
+     ],
+     "text": "ISSN: 2319-7064 \nSJIF (2022): 7.942 \n"
+    },
+    {
+     "bbox": [
+      221.4,
+      781.4,
+      387.2,
+      794.7
+     ],
+     "text": "Volume 11 Issue 8, August 2022 \n"
+    },
+    {
+     "bbox": [
+      191.4,
+      795.2,
+      417.7,
+      820.7
+     ],
+     "text": "www.ijsr.net \nLicensed Under Creative Commons Attribution CC BY \n"
+    },
+    {
+     "bbox": [
+      50.4,
+      50.5,
+      297.5,
+      758.5
+     ],
+     "text": "Methicillin resistance Staphylococcusaureus were at 56.3% \nof isolates. E. faecalis isolates showed high resistance to \nVancomycin (75%). This resistance pattern for both S. \naureus and E. faecalis confirmed that MRSA and VRE \nclinical isolates are important causes of hospital acquired \nsurgical site infections. Our results on MSRA resistance is \nsimilar to the study done in Mulago hospital by Kironde et \nal. \n(2001) \n. \nThe \nresistance \nobserved \nin \nStaphylococcusaureus could also be attributed to irrational \nuse of antibiotics for conditions that may not clinically \nindicate their use, over the counter sell of antibiotics in \npharmacies without prescription by authorised practitioners, \nsome new drug and formulations which may be of poor \nquality and dumping of banned products into the market \nwhere the public may get access to them  (Kironde et al., \n2001). Staphylococcusaureus was isolated across the various \nanatomical sites e. g. thigh (18.8%), knee (25%), cheek and \nchest (6.3%). Thismay be due to surface contamination by \norganisms on the skin and environment causing nosocomial \ninfections  (Kironde et al., 2001) .  \n \n6. \nConclusions \n \nWe should clearly understand and identify SSIs as a problem \nand devise a system to track, analyse and monitor these in \nour hospitals. In view of such highly resistance isolates \ncausing SSIs in our hospital it will be very difficult to treat \nthese cases, so the only hope lies within prevention of such \ninfections. There is also need to be careful in selection of \nantibiotic regime in SSIs cases to minimize incoming \nmagnitude of drug resistance among bacteria.  \n \n7. \nFuture Scope \n \nThere is need for continuous surveillance genotypic \ncharacterization of clinical isolates and their antimicrobial \nsusceptibility patterns. Surgical site Infections need to be \nprevented \nby \nthe \nsurgeons’ \npersonnel, \noperation \nenvironment should be clean and aseptic and modern \noperating techniques should be employed. Patients should be \neducated on importance of hygiene after undergoing surgery \nto minimize contamination of the surgical sites. Since a high \nproportion of samples had positive cultures, infections \ncontrol is recommended as a strategy to minimize speedy \nresistance organisms’ future studies should be extended to \ninclude cultures under anaerobic conditions to establish \npresence of other bacteria that require such environment for \ngrowth. There is need to develop National surveillance of \nantibiotic resistant organisms.  \n \nReferences \n \n[1] \nAnguzu, J., & Olila, D. (2007). Drug sensitivity \npatterns of bacterial isolates from septic post-operative \nwounds in a regional referral hospital in Uganda. \nAfrican health sciences, 7 (3).  \n[2] \nArya, M., Arya, P. K., Biswas, D., & Prasad, R. \n(2005). Antimicrobial susceptibility pattern of bacterial \nisolates from post-operative wound infections. Indian \nJournal of Pathology & Microbiology, 48 (2), 266-\n269.  \n"
+    },
+    {
+     "bbox": [
+      310.6,
+      50.4,
+      557.7,
+      464.1
+     ],
+     "text": "[3] \nBratzler, D. W., & Houck, P. M. (2004). Antimicrobial \nprophylaxis for surgery: an advisory statement from \nthe National Surgical Infection Prevention Project. \nClinical infectious diseases, 1706-1715.  \n[4] \nBrown, A. (1990). Bacteriology of wound infections in \nsurgical ward of teaching hospitals. West African \nJournal of Medicine, 9, 4285-4290.  \n[5] \nHarrop, J. S., Styliaras, J. C., Ooi, Y. C., Radcliff, K. \nE., Vaccaro, A. R., & Wu, C. (2012). Contributing \nfactors to surgical site infections. J Am Acad Orthop \nSurg, 20 (2), 94-101. https: //doi. org/10.5435/jaaos-\n20-02-094 \n[6] \nHeal, C. F., Banks, J. L., Lepper, P. D., Kontopantelis, \nE., & van Driel, M. L. (2016). Topical antibiotics for \npreventing surgical site infection in wounds healing by \nprimary intention. Cochrane Database Syst Rev, 11 \n(11), Cd011426. https: //doi. org/10.1002/14651858. \nCD011426. pub2 \n[7] \nKironde, F., Pimundu, G., & Wewedru, I. C. (2001). \nStaphylococcus Aureus Antibiotypes at Mulago \nHospital. Mulago Hospital Bulletin, 18-25.  \n[8] \nManenzhe, R. I., Zar, H. J., Nicol, M. P., & Kaba, M. \n(2015). The spread of carbapenemase-producing \nbacteria in Africa: a systematic review. J Antimicrob \nChemother, \n70 \n(1), \n23-40. \nhttps: \n//doi. \norg/10.1093/jac/dku356 \n[9] \nMehtar, S., Wanyoro, A., Ogunsola, F., Ameh, E. A., \nNthumba, P., Kilpatrick, C., Revathi, G., Antoniadou, \nA., Giamarelou, H., Apisarnthanarak, A., Ramatowski, \nJ. W., Rosenthal, V. D., Storr, J., Osman, T. S., & \nSolomkin, J. S. (2020). Implementation of surgical site \ninfection surveillance in low-and middle-income \ncountries: A position statement for the International \nSociety for Infectious Diseases. Int J Infect Dis, 100, \n123-131. https: //doi. org/10.1016/j. ijid.2020.07.021 \n[10] Seppälä, H., Nissinen, A., Järvinen, H., Huovinen, S., \n"
+    },
+    {
+     "bbox": [
+      310.6,
+      464.6,
+      557.7,
+      521.6
+     ],
+     "text": "Henriksson, T., Herva, E., Holm, S. E., Jahkola, M., \nKatila, M.-L., & Klaukka, T. (1992). Resistance to \nerythromycin in group A streptococci. New England \nJournal of Medicine, 326 (5), 292-297.  \n[11] Shamsuzzaman, A., Sirajee, A., Rahman, M., Miah, \n"
+    },
+    {
+     "bbox": [
+      310.6,
+      522.1,
+      557.7,
+      567.5
+     ],
+     "text": "A., & Hossain, M. (2003). Pattern of aerobic bacteria \nwith their drug susceptibility of surgical inpatients. \nMymensingh Medical Journal: MMJ, 12 (2), 98-103.  \n[12] Townsend, C. M., Beauchamp, R. D., Evers, B. M., & \n"
+    },
+    {
+     "bbox": [
+      310.6,
+      568.0,
+      557.7,
+      772.4
+     ],
+     "text": "Mattox, K. L. (2016). Sabiston textbook of surgery. \nElsevier Health Sciences.  \n \nAuthor Profile \n \nMagdaline W. Burugu is a Medical Microbiologist in the \nDepartment of Medical Microbiology and Immunology at the \nUniversity of Nairobi, Kenya. She holds an MSc in Medical \nMicrobiology \n(University \nof \nNairobi), \nBSc \nin \nMedical \nMicrobiology (Jomo Kenyatta University of Science and \nTechnology), Higher National Diploma in Medical Microbiology, \nDiploma in Medical Laboratory Science and Certificate in Medical \nLaboratory Science (Kenya Polytechnic). She has interest in \nresearch and teaching of Medical Microbiology. She is a member \nof Kenya Medical Laboratory Technologist and Technician Board \nand American Society of Microbiologist. She is an examiner with \nKMLTTB, KNEC Technical Examinations. She participates in \nMentoring \nand \nCapacity \nbuilding \nof \nCounty \nLaboratory \nTechnologists in Diagnosing of infectious diseases.  \n"
+    },
+    {
+     "bbox": [
+      50.0,
+      825.8,
+      545.0,
+      838.1
+     ],
+     "text": "Paper ID: SR22705124816\nDOI: 10.21275/SR22705124816\n765 \nView publication stats\n"
+    }
+   ]
+  }
+ ]
+}

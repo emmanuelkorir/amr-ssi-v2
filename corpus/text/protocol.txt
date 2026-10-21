@@ -1,0 +1,84 @@
+
+
+===== PAGE 1 =====
+
+Burden and Antimicrobial Resistance Patterns of Surgical Site Infections in East, Central, and Southern Africa: A Systematic Review and Meta-analysis
+Rationale for the review
+The review is being undertaken to provide a more focused assessment of the burden of surgical site infections (SSIs) and antimicrobial resistance (AMR) patterns in East, Central, and Southern Africa (ECSA). This review will search the evidence comprehensively, including African regional databases (African Journals Online, ECAJS, WHO Global Index Medicus etc) and will focus specifically on burden and AMR patterns. It may add to existing knowledge by providing current pooled estimates of SSI incidence/prevalence and priority AMR patterns, while exmaining variation by wound contamination class, surgical speciality, hospital level, and country/sub-region. It will also summarize reported clinical and economic outcomes and contextual drivers of AMR, helping to identify regional evidence gaps and differences in the burden of SSI and resistance across ECSA.
+Review objectives
+What is the pooled incidence of surgical site infections (SSIs) among patients undergoing surgical procedures in East, Central, and Southern Africa (ECSA), and how does it vary by wound contamination class, surgical specialty, hospital level, and country/sub-region?
+What is the pooled prevalence of antimicrobial resistance among pathogens isolated from SSIs in ECSA, for priority pathogen and antibiotic combinations (methicillin-resistant Staphylococcus aureus; third-generation cephalosporin/ESBL resistance in E. coli and Klebsiella spp.; carbapenem resistance in Acinetobacter baumannii and Pseudomonas aeruginosa)?
+What clinical outcomes (mortality, length of stay, readmission) and economic outcomes (provider and out-of-pocket costs) have been reported in association with SSI and AMR in ECSA, and how complete/comparable is this evidence?
+What drivers of AMR in SSIs (e.g., inappropriate surgical antimicrobial prophylaxis, diagnostic capacity, infection prevention and control infrastructure) are described in the descriptive/observational literature from this region?
+ELIGIBILITY CRITERIA
+Population
+Included
+Patients undergoing surgical procedures in East, Central, and Southern Africa (ECSA)
+Intervention(s) or exposure(s)
+Included
+Antibiotic Prophylaxis; Antibiotic Therapy; Antibiotics
+The "exposure" of interest is (a) having undergone a surgical procedure, for the SSI-incidence question, and (b) having a microbiologically confirmed SSI with pathogen isolation and antimicrobial susceptibility testing, for the AMR-prevalence question.
+Comparator(s) or control(s)
+This review does not have any comparators
+Study design
+Only randomized study types will be included.
+Included
+Randomized controlled studies
+Non-randomized studies: case-control studies, cohort, and cross-sectional studies
+Excluded
+Case reports and small case series (n < 10), editorials, expert opinions, animal or in vitro studies
+Context
+Hospitals and surgical care settings in East, Central, and Southern African countries
+SEARCHING AND SCREENING
+Search for unpublished studies
+Only published studies will be sought.
+Main sources that will be searched
+The main sources to be searched are CENTRAL - Cochrane Central Register of Controlled Trials, Embase, MEDLINE, PubMed and Scopus.
+Other sources that will be searched
+AJOL
+WHO GLOBAL INDEX MEDICUS/AFRICAN INDEX MEDICUS
+ECAJS
+Search language restrictions
+The review will only include studies published in English.
+Search date restrictions
+Databases will be searched for articles published from 1 January 2011, there are no search end date restrictions.
+Other methods of identifying studies
+Other studies will be identified by: contacting authors or experts and looking through all the articles that cite the papers included in the review ("snowballing" or forward citation searching).
+Link to search strategy
+A full search strategy is available in the full protocol as described in the Availability of full protocol section
+Selection process
+Studies will be screened independently by at least two people (or person/machine combination) with a process to resolve differences.
+Other relevant information about searching and screening
+None
+DATA COLLECTION PROCESS
+Data extraction from published articles and reports
+Data will be extracted independently by at least two people (or person/machine combination) with a process to resolve differences.
+Authors will be asked to provide any required data not available in published reports.
+Study datasets/IPD will be obtained from study investigators or via a data repository
+Study risk of bias or quality assessment
+Risk of bias will be assessed using: Cochrane RoB-2 and ROBINS-I
+Data will be assessed independently by at least two people (or person/machine combination) with a process to resolve differences.
+Additional information will be sought from study investigators if required information is unclear or unavailable in the study publications/reports.
+Reporting bias assessment
+Risk of bias due to missing results will be assessed
+Certainty assessment
+The GRADE Approach will be used to assess certainty
+OUTCOMES TO BE ANALYSED
+Main outcomes
+Pooled incidence/prevalence of SSI (random-effects model), reported with the pooled estimate, 95% CI, prediction interval, and I², and reported by pre-specified subgroup wherever ≥3 studies per subgroup are available.
+Pooled prevalence of AMR for pre-specified priority pathogens and antibiotic combinations (MRSA; third-generation cephalosporin/ESBL resistance in E. coli and Klebsiella spp.).
+Additional outcomes
+Mortality, length of hospital stay, and 30-day readmission associated with SSI/AMR — narrative synthesis by default; pooled only if ≥3 studies share a comparable outcome definition (e.g., in-hospital vs. 30-day all-cause mortality kept separate rather than combined).
+Direct provider costs and patient out-of-pocket costs associated with SSI/AMR. A narrative synthesis given the anticipated scarcity of data
+Descriptive/thematic synthesis of reported drivers of AMR (inappropriate surgical antimicrobial prophylaxis, diagnostic capacity, IPC infrastructure, governance/surveillance gaps)
+Pre-specified subgroup analyses (where data allow, generally ≥3 studies per subgroup) for both primary outcomes:
+Surgical wound contamination class (CDC classification)
+Surgical specialty (general, obstetrics/gynaecology, orthopaedic, other)
+Hospital level (tertiary vs. secondary/primary)
+Country / ECSA sub-region (East, Central, Southern Africa)
+Study design (cohort vs. cross-sectional vs. RCT)
+Publication period (to explore whether resistance prevalence has changed over the 15-year window)
+PLANNED DATA SYNTHESIS
+Strategy for data synthesis
+This study will be conducted in line with the PRISMA guidelines. Key study characteristics such as year, country, facility level, design, and outcome metrics will be extracted into a standardized data-extraction sheet. Random-effects meta-analysis for the primary outcomes.Heterogeneity will be evaluated using the Cochran Q test and I² statistics. Publication bias assessed via funnel plot and Egger's/Begg's tests where ≥10 studies contribute to an outcome.
+GRADE assessment of certainty of evidence for both primary outcomes.

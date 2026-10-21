@@ -1,0 +1,1781 @@
+{
+ "doc_id": "ntirushwa-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Ntirushwa-et-al.pdf",
+ "sha256": "46038acd941a584790d60029ff025bd7c156328bb5e5dab9b1837f9b8998a890",
+ "document_type": "pdf",
+ "n_pages": 7,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery",
+  "author": "David Nitrushwa",
+  "subject": "Objective: Emergency Cesarean Section (ECS) improves maternal and neonatal outcomes but can be associated with complications including Surgical Site Infections (SSI). Prophylactic antibiotics reduce SSIs but inappropriate use increases antibiotic resistance. The study aim was to assess single versus multiple-dose antibiotic prophylaxis for SSI prevention in a limited-resource setting. \r\n\r\nMethods: All patients undergoing ECS in a rural district hospital were assessed for eligibility from 2015 to 2016. Participants were randomized, Group A received one dose of 2 g Ampicillin 15 to 60 minutes before skin incision and Group B received 2 g prior to skin incision with additional 1g every 8 hours over 72 hours. Participants were followed for 30 days, Demographic and clinical data were collected by chart review and patient phone interviews were performed on Days 3, 7, 15 and 30.\r\n\r\nResults: Three hundred and one participants were analyzed (147 in Group A; 154 in Group B). There were 8 surgical site infections in Group A and 4 in Group B (p=0.089). The overall prevalence of surgical site infections was lower than expected (4.00%). Most of SSIs cases were diagnosed on day 7 (66.6% of all cases of SSI) and only 22.2% of cases were diagnosed at discharge (day 3). Only 1 additional case was diagnosed at day 15.\r\n \r\nConclusion: Compliance to infection control measures can reduce the rate of SSIs. There was no significant difference between the use of a single vs multiple doses of prophylactic antibiotics in our study but the SSI rate was low. \r\n",
+  "keywords": "",
+  "creator": "Adobe InDesign CC 2014 (Windows)",
+  "producer": "Adobe PDF Library 11.0",
+  "creationDate": "D:20210430183244+05'30'",
+  "modDate": "D:20210430183246+05'30'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:56+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/330067488\n627: Single vs. extended antibiotics for prevention of surgical infection in\nemergent cesarean delivery in Rwanda\nArticle  in  American Journal of Obstetrics and Gynecology · January 2019\nDOI: 10.1016/j.ajog.2018.11.649\nCITATIONS\n4\nREADS\n128\n6 authors, including:\nDavid Ntirushwa\nUniversity of Rwanda\n34 PUBLICATIONS   271 CITATIONS   \nSEE PROFILE\nMarie Aimée Unyuzimana\nRwanda Zambia HIV Research Group (RZHRG)\n6 PUBLICATIONS   16 CITATIONS   \nSEE PROFILE\nMaria Small\nDuke University\n88 PUBLICATIONS   818 CITATIONS   \nSEE PROFILE\nStephen Rulisa\nUniversity of Rwanda\n221 PUBLICATIONS   2,794 CITATIONS   \nSEE PROFILE\nAll content following this page was uploaded by Stephen Rulisa on 17 May 2021.\nThe user has requested enhancement of the downloaded file.\n",
+   "n_chars": 875,
+   "n_images": 3,
+   "blocks": [
+    {
+     "bbox": [
+      39.8,
+      71.8,
+      335.2,
+      79.8
+     ],
+     "text": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/330067488\n"
+    },
+    {
+     "bbox": [
+      39.8,
+      90.8,
+      522.2,
+      130.7
+     ],
+     "text": "627: Single vs. extended antibiotics for prevention of surgical infection in\nemergent cesarean delivery in Rwanda\n"
+    },
+    {
+     "bbox": [
+      39.8,
+      144.7,
+      241.1,
+      153.7
+     ],
+     "text": "Article  in  American Journal of Obstetrics and Gynecology · January 2019\n"
+    },
+    {
+     "bbox": [
+      39.8,
+      156.6,
+      100.6,
+      162.8
+     ],
+     "text": "DOI: 10.1016/j.ajog.2018.11.649\n"
+    },
+    {
+     "bbox": [
+      39.8,
+      175.2,
+      63.5,
+      193.9
+     ],
+     "text": "CITATIONS\n4\n"
+    },
+    {
+     "bbox": [
+      297.5,
+      175.2,
+      312.3,
+      193.9
+     ],
+     "text": "READS\n128\n"
+    },
+    {
+     "bbox": [
+      39.8,
+      203.0,
+      97.1,
+      211.9
+     ],
+     "text": "6 authors, including:\n"
+    },
+    {
+     "bbox": [
+      66.3,
+      221.0,
+      112.0,
+      229.8
+     ],
+     "text": "David Ntirushwa\n"
+    },
+    {
+     "bbox": [
+      66.3,
+      231.6,
+      124.9,
+      240.4
+     ],
+     "text": "University of Rwanda\n"
+    },
+    {
+     "bbox": [
+      66.3,
+      243.5,
+      149.2,
+      252.3
+     ],
+     "text": "34 PUBLICATIONS   271 CITATIONS   \n"
+    },
+    {
+     "bbox": [
+      73.5,
+      260.6,
+      102.1,
+      267.7
+     ],
+     "text": "SEE PROFILE\n"
+    },
+    {
+     "bbox": [
+      324.0,
+      221.0,
+      394.3,
+      229.8
+     ],
+     "text": "Marie Aimée Unyuzimana\n"
+    },
+    {
+     "bbox": [
+      324.0,
+      231.6,
+      449.9,
+      240.4
+     ],
+     "text": "Rwanda Zambia HIV Research Group (RZHRG)\n"
+    },
+    {
+     "bbox": [
+      324.0,
+      243.5,
+      400.8,
+      252.3
+     ],
+     "text": "6 PUBLICATIONS   16 CITATIONS   \n"
+    },
+    {
+     "bbox": [
+      331.3,
+      260.6,
+      359.8,
+      267.7
+     ],
+     "text": "SEE PROFILE\n"
+    },
+    {
+     "bbox": [
+      66.3,
+      283.9,
+      98.9,
+      292.8
+     ],
+     "text": "Maria Small\n"
+    },
+    {
+     "bbox": [
+      66.3,
+      294.5,
+      109.6,
+      303.4
+     ],
+     "text": "Duke University\n"
+    },
+    {
+     "bbox": [
+      66.3,
+      306.4,
+      149.2,
+      315.3
+     ],
+     "text": "88 PUBLICATIONS   818 CITATIONS   \n"
+    },
+    {
+     "bbox": [
+      73.5,
+      323.6,
+      102.1,
+      330.7
+     ],
+     "text": "SEE PROFILE\n"
+    },
+    {
+     "bbox": [
+      324.0,
+      283.9,
+      365.5,
+      292.8
+     ],
+     "text": "Stephen Rulisa\n"
+    },
+    {
+     "bbox": [
+      324.0,
+      294.5,
+      382.7,
+      303.4
+     ],
+     "text": "University of Rwanda\n"
+    },
+    {
+     "bbox": [
+      324.0,
+      306.4,
+      414.7,
+      315.3
+     ],
+     "text": "221 PUBLICATIONS   2,794 CITATIONS   \n"
+    },
+    {
+     "bbox": [
+      331.3,
+      323.6,
+      359.8,
+      330.7
+     ],
+     "text": "SEE PROFILE\n"
+    },
+    {
+     "bbox": [
+      43.1,
+      807.9,
+      196.6,
+      814.1
+     ],
+     "text": "All content following this page was uploaded by Stephen Rulisa on 17 May 2021.\n"
+    },
+    {
+     "bbox": [
+      43.1,
+      820.5,
+      178.1,
+      827.6
+     ],
+     "text": "The user has requested enhancement of the downloaded file.\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "Submit Manuscript | http://medcraveonline.com\nAbbreviations: SSI, surgical site infection; THRiVE, The \ntraining health researchers into vocation excellence in East Africa; \nWHO, World health organization; C/S, cesarean section; HIV, \nhuman immunodeficiency virus; CDC, center for disease control \nand prevention; MD, multiple doses; SD, single dose; HRH, human \nresource for health; PI, principle investigator\nIntroduction\nCesarean section is a lifesaving intervention which contributes \nto improved maternal and neonatal outcome when performed \nappropriately. The World Health Organization (WHO) has considered \nthe optimal rate of cesarean rate to be between 10 and 15% but the \nnumbers have been increasing in both developed and developing \ncountries.1 Unfortunately, as with any surgical intervention, cesarean \nsection can lead to undesired complications including post cesarean \ninfections. Surgical site infection (SSI), which involves the skin \nand uterine incisions, is frequent and can cause short and long term \nadverse outcomes. SSI following cesarean section is a major cause of \nmorbidity and mortality, increasing both the duration of hospitalization \nand hospital costs as well as overall patient dissatisfaction.2\nThe increase in cesarean sections rates and the associated post-\nsurgery complication mainly infections has attracted the interest \nof medical researchers to examine and determine the best way \nantimicrobial prophylaxis can be used efficiently to prevent SSIs. \nThree main areas around the use of antibiotics have been attracting \ninterest for evidence and include; the timing of administrating \nantibiotics, types of antibiotics and duration of antibiotics; single-dose \nversus multiple doses. \nCurrently robust evidence support the role of antibiotics in \npreventing post-cesarean infections and the use of antibiotics prior \nto surgical incision is considered to be effective in reducing cases \nof SSI.3 As proven in a recent study done by Zuarez-Easton S et al \n, compared to placebo, the use of prophylactic antibiotics during \ncesarean section significantly reduce the incidence of wound infection \n(RR: 0.40, 95% CI: 0.35–0.46), endometritis (RR: 0.38, 95% CI: \n0.34–0.42), and maternal serious infectious complications (RR: 0.31, \n95% CI: 0.20–0.49).4 \nEven though, antibiotics are widely used globally to prevent \nmorbidity and mortality from maternal infections post cesarean \nsection, the misuse of antibiotics for obstetrics conditions and \nprocedures that are thought to carry the risk of maternal infections \nis a common practice that can potentially lead to other consequences \nincluding resistance to antibiotics. The 2015 WHO recommendations \nfor the prevention and treatment of maternal puerperium infections \nrecommend a single dose of first-generation cephalosporin or \npenicillin for prevention of post cesarean infections but with weak \nevidence.5 Considering the timing of giving prophylactic antibiotics, \nIt was previously feared that administrating antibio-prophylaxis \nbefore skin incision could affect the baby in utero, however, according \nto several studies, there is strong evidence that prophylactic antibiotic \nfor cesarean delivery given before skin incision rather than after cord \nclamping decreases the incidence of postpartum endometritis and \ntotal infectious morbidities without affecting neonatal outcomes.6 \nAnother important aspect of prophylactic antibiotic for cesarean \nsection is related to the type of antibiotics to use, the choice has to \nbe made based on the type of common organisms likely to cause \nInt J Pregn & Chi Birth. 2021;7(2):51‒56.\n51\n©2021 Nitrushwa et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, \nwhich permits unrestricted use, distribution, and build upon your work non-commercially.\nSingle vs. extended antibiotic for prevention of \nsurgical infection in emergent cesarean delivery\nVolume 7 Issue 2 - 2021\nDavid Nitrushwa,1,5 Rahel Ghebre,1,2,6 Marie \nA Unyuzimana,3 Urania Magriples,1,2 Maria \nSmall,1,4 Stephen Rulisa1,5\n1Department of Obstetrics and Gynecology, School of Medicine \nand Pharmacy, University of Rwanda, Rwanda\n2Department of Obstetrics, Gynecology, and Reproductive \nSciences, Yale School of Medicine, USA \n3Medical department, Project San Francisco/Center for Family \nHealth Research, Rwanda\n4Department of Obstetrics and Gynecology, Duke Medical \nCenter, USA \n5Department of Obstetrics and Gynecology, University Teaching \nHospital of Kigali(CHUK), Rwanda\n6Department of Obstetrics and Gynecology, University of \nMinnesota Medical School, Rwanda\nCorrespondence: David Ntirushwa, Consultant Obstetrician \nand Gynecologist, Rwanda, Tel 250788744660, \nEmail \nReceived: April 02, 2021 | Published: April 30, 2021\nAbstract\nObjective: Emergency Cesarean Section (ECS) improves maternal and neonatal outcomes \nbut can be associated with complications including Surgical Site Infections (SSI). \nProphylactic antibiotics reduce SSIs but inappropriate use increases antibiotic resistance. \nThe study aim was to assess single versus multiple-dose antibiotic prophylaxis for SSI \nprevention in a limited-resource setting. \nMethods: All patients undergoing ECS in a rural district hospital were assessed for \neligibility from 2015 to 2016. Participants were randomized, Group A received one dose \nof 2 g Ampicillin 15 to 60 minutes before skin incision and Group B received 2 g prior to \nskin incision with additional 1g every 8 hours over 72 hours. Participants were followed for \n30 days, Demographic and clinical data were collected by chart review and patient phone \ninterviews were performed on Days 3, 7, 15 and 30.\nResults: Three hundred and one participants were analyzed (147 in Group A; 154 in Group \nB). There were 8 surgical site infections in Group A and 4 in Group B (p=0.089). The \noverall prevalence of surgical site infections was lower than expected (4.00%). Most of \nSSIs cases were diagnosed on day 7 (66.6% of all cases of SSI) and only 22.2% of cases \nwere diagnosed at discharge (day 3). Only 1 additional case was diagnosed at day 15.\nConclusion: Compliance to infection control measures can reduce the rate of SSIs. There \nwas no significant difference between the use of a single vs multiple doses of prophylactic \nantibiotics in our study but the SSI rate was low.\nKeywords: antibiotic, post-surgery, prevention, prophylactic antibiotics\nInternational Journal of Pregnancy & Child Birth\nResearch Article\nOpen Access\n",
+   "n_chars": 6512,
+   "n_images": 23,
+   "blocks": [
+    {
+     "bbox": [
+      44.6,
+      768.4,
+      152.3,
+      796.3
+     ],
+     "text": "Submit Manuscript | http://medcraveonline.com\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      440.2,
+      293.9,
+      508.2
+     ],
+     "text": "Abbreviations: SSI, surgical site infection; THRiVE, The \ntraining health researchers into vocation excellence in East Africa; \nWHO, World health organization; C/S, cesarean section; HIV, \nhuman immunodeficiency virus; CDC, center for disease control \nand prevention; MD, multiple doses; SD, single dose; HRH, human \nresource for health; PI, principle investigator\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      514.2,
+      112.3,
+      529.3
+     ],
+     "text": "Introduction\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      533.2,
+      293.9,
+      663.8
+     ],
+     "text": "Cesarean section is a lifesaving intervention which contributes \nto improved maternal and neonatal outcome when performed \nappropriately. The World Health Organization (WHO) has considered \nthe optimal rate of cesarean rate to be between 10 and 15% but the \nnumbers have been increasing in both developed and developing \ncountries.1 Unfortunately, as with any surgical intervention, cesarean \nsection can lead to undesired complications including post cesarean \ninfections. Surgical site infection (SSI), which involves the skin \nand uterine incisions, is frequent and can cause short and long term \nadverse outcomes. SSI following cesarean section is a major cause of \nmorbidity and mortality, increasing both the duration of hospitalization \nand hospital costs as well as overall patient dissatisfaction.2\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      668.8,
+      293.9,
+      756.2
+     ],
+     "text": "The increase in cesarean sections rates and the associated post-\nsurgery complication mainly infections has attracted the interest \nof medical researchers to examine and determine the best way \nantimicrobial prophylaxis can be used efficiently to prevent SSIs. \nThree main areas around the use of antibiotics have been attracting \ninterest for evidence and include; the timing of administrating \nantibiotics, types of antibiotics and duration of antibiotics; single-dose \nversus multiple doses. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      440.3,
+      555.5,
+      538.5
+     ],
+     "text": "Currently robust evidence support the role of antibiotics in \npreventing post-cesarean infections and the use of antibiotics prior \nto surgical incision is considered to be effective in reducing cases \nof SSI.3 As proven in a recent study done by Zuarez-Easton S et al \n, compared to placebo, the use of prophylactic antibiotics during \ncesarean section significantly reduce the incidence of wound infection \n(RR: 0.40, 95% CI: 0.35–0.46), endometritis (RR: 0.38, 95% CI: \n0.34–0.42), and maternal serious infectious complications (RR: 0.31, \n95% CI: 0.20–0.49).4 \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      543.5,
+      555.5,
+      749.7
+     ],
+     "text": "Even though, antibiotics are widely used globally to prevent \nmorbidity and mortality from maternal infections post cesarean \nsection, the misuse of antibiotics for obstetrics conditions and \nprocedures that are thought to carry the risk of maternal infections \nis a common practice that can potentially lead to other consequences \nincluding resistance to antibiotics. The 2015 WHO recommendations \nfor the prevention and treatment of maternal puerperium infections \nrecommend a single dose of first-generation cephalosporin or \npenicillin for prevention of post cesarean infections but with weak \nevidence.5 Considering the timing of giving prophylactic antibiotics, \nIt was previously feared that administrating antibio-prophylaxis \nbefore skin incision could affect the baby in utero, however, according \nto several studies, there is strong evidence that prophylactic antibiotic \nfor cesarean delivery given before skin incision rather than after cord \nclamping decreases the incidence of postpartum endometritis and \ntotal infectious morbidities without affecting neonatal outcomes.6 \nAnother important aspect of prophylactic antibiotic for cesarean \nsection is related to the type of antibiotics to use, the choice has to \nbe made based on the type of common organisms likely to cause \n"
+    },
+    {
+     "bbox": [
+      166.8,
+      774.9,
+      559.3,
+      785.5
+     ],
+     "text": "Int J Pregn & Chi Birth. 2021;7(2):51‒56.\n51\n"
+    },
+    {
+     "bbox": [
+      215.6,
+      789.2,
+      554.8,
+      804.3
+     ],
+     "text": "©2021 Nitrushwa et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, \nwhich permits unrestricted use, distribution, and build upon your work non-commercially.\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      95.7,
+      502.3,
+      150.5
+     ],
+     "text": "Single vs. extended antibiotic for prevention of \nsurgical infection in emergent cesarean delivery\n"
+    },
+    {
+     "bbox": [
+      363.0,
+      179.4,
+      440.9,
+      189.0
+     ],
+     "text": "Volume 7 Issue 2 - 2021\n"
+    },
+    {
+     "bbox": [
+      363.0,
+      198.0,
+      541.7,
+      231.6
+     ],
+     "text": "David Nitrushwa,1,5 Rahel Ghebre,1,2,6 Marie \nA Unyuzimana,3 Urania Magriples,1,2 Maria \nSmall,1,4 Stephen Rulisa1,5\n"
+    },
+    {
+     "bbox": [
+      363.0,
+      231.3,
+      545.2,
+      248.7
+     ],
+     "text": "1Department of Obstetrics and Gynecology, School of Medicine \nand Pharmacy, University of Rwanda, Rwanda\n"
+    },
+    {
+     "bbox": [
+      363.0,
+      249.3,
+      529.9,
+      266.7
+     ],
+     "text": "2Department of Obstetrics, Gynecology, and Reproductive \nSciences, Yale School of Medicine, USA \n"
+    },
+    {
+     "bbox": [
+      363.0,
+      267.3,
+      539.3,
+      284.7
+     ],
+     "text": "3Medical department, Project San Francisco/Center for Family \nHealth Research, Rwanda\n"
+    },
+    {
+     "bbox": [
+      363.0,
+      285.3,
+      530.0,
+      302.7
+     ],
+     "text": "4Department of Obstetrics and Gynecology, Duke Medical \nCenter, USA \n"
+    },
+    {
+     "bbox": [
+      363.0,
+      303.3,
+      545.1,
+      320.7
+     ],
+     "text": "5Department of Obstetrics and Gynecology, University Teaching \nHospital of Kigali(CHUK), Rwanda\n"
+    },
+    {
+     "bbox": [
+      363.0,
+      321.3,
+      527.5,
+      338.7
+     ],
+     "text": "6Department of Obstetrics and Gynecology, University of \nMinnesota Medical School, Rwanda\n"
+    },
+    {
+     "bbox": [
+      363.0,
+      348.2,
+      541.5,
+      374.7
+     ],
+     "text": "Correspondence: David Ntirushwa, Consultant Obstetrician \nand Gynecologist, Rwanda, Tel 250788744660, \nEmail \n"
+    },
+    {
+     "bbox": [
+      363.0,
+      383.0,
+      515.2,
+      391.8
+     ],
+     "text": "Received: April 02, 2021 | Published: April 30, 2021\n"
+    },
+    {
+     "bbox": [
+      47.1,
+      178.7,
+      83.8,
+      190.1
+     ],
+     "text": "Abstract\n"
+    },
+    {
+     "bbox": [
+      47.1,
+      194.6,
+      339.1,
+      243.6
+     ],
+     "text": "Objective: Emergency Cesarean Section (ECS) improves maternal and neonatal outcomes \nbut can be associated with complications including Surgical Site Infections (SSI). \nProphylactic antibiotics reduce SSIs but inappropriate use increases antibiotic resistance. \nThe study aim was to assess single versus multiple-dose antibiotic prophylaxis for SSI \nprevention in a limited-resource setting. \n"
+    },
+    {
+     "bbox": [
+      47.1,
+      248.6,
+      339.1,
+      307.2
+     ],
+     "text": "Methods: All patients undergoing ECS in a rural district hospital were assessed for \neligibility from 2015 to 2016. Participants were randomized, Group A received one dose \nof 2 g Ampicillin 15 to 60 minutes before skin incision and Group B received 2 g prior to \nskin incision with additional 1g every 8 hours over 72 hours. Participants were followed for \n30 days, Demographic and clinical data were collected by chart review and patient phone \ninterviews were performed on Days 3, 7, 15 and 30.\n"
+    },
+    {
+     "bbox": [
+      47.1,
+      312.2,
+      339.1,
+      361.2
+     ],
+     "text": "Results: Three hundred and one participants were analyzed (147 in Group A; 154 in Group \nB). There were 8 surgical site infections in Group A and 4 in Group B (p=0.089). The \noverall prevalence of surgical site infections was lower than expected (4.00%). Most of \nSSIs cases were diagnosed on day 7 (66.6% of all cases of SSI) and only 22.2% of cases \nwere diagnosed at discharge (day 3). Only 1 additional case was diagnosed at day 15.\n"
+    },
+    {
+     "bbox": [
+      47.1,
+      366.2,
+      339.1,
+      396.0
+     ],
+     "text": "Conclusion: Compliance to infection control measures can reduce the rate of SSIs. There \nwas no significant difference between the use of a single vs multiple doses of prophylactic \nantibiotics in our study but the SSI rate was low.\n"
+    },
+    {
+     "bbox": [
+      47.1,
+      401.9,
+      282.7,
+      413.3
+     ],
+     "text": "Keywords: antibiotic, post-surgery, prevention, prophylactic antibiotics\n"
+    },
+    {
+     "bbox": [
+      265.3,
+      27.1,
+      559.4,
+      42.9
+     ],
+     "text": "International Journal of Pregnancy & Child Birth\n"
+    },
+    {
+     "bbox": [
+      42.6,
+      70.3,
+      468.7,
+      82.9
+     ],
+     "text": "Research Article\nOpen Access\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery\n52\nCopyright:\n©2021 Nitrushwa et al. \nCitation: Nitrushwa D, Ghebre R, Unyuzimana MA, et al. Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery. Int J \nPregn & Chi Birth. 2021;7(2):51‒56. DOI: 10.15406/ipcb.2021.07.00228\npostpartum infections especially SSIs and endometritis to ensure a \ntargeted coverage. The antibiotics must be present not only in the \nplasma but also in the tissues during the surgical procedure, and in \nmost cases, very short prophylaxis, usually using a single bolus is \nconvenient.7 In 2004 E. Ahmed et al. found no difference between \na single dose of ceftriaxone versus Ampicillin/Cloxacillin given at \nthe induction of anesthesia.8 A Cochrane systematic review done by \nDahlke JD et al ,recommended that a single dose of ampicillin or first-\ngeneration cephalosporins, such as cefazolin, should be administered \nin all women undergoing cesarean delivery and given 15 to 60 minutes \nbefore skin incision.9 According to various research findings, evidence \nsupports the use of pre-skin incision broad-spectrum antibiotics10 and \nthere is insufficient evidence to determine whether there is a difference \nbetween the use single dose versus multiple-dose regimens . In 1988 \na multicenter comparative study done by Galask RP et al in the USA \ncompared a single dose of cefotetan versus multiple-dose cefoxitin as \nprophylaxis in patients undergoing cesarean section and no difference \nin cases of endometritis or surgical site infection was seen.11 Despite \nall the evidence about the use of a single dose of antibiotics, resistance \nto change is common in many hospitals; for example, in a teaching \nhospital, southern Taiwan, dissemination of evidence was done and \nclinicians were informed about single-dose prescription as evidence-\nbased best practice and follow-up evaluations were made to see how \nthe information has helped clinicians change their practices. The rate \nof single-dose prescription only increased from 14.2% to 22.4% and \nthe study concluded that knowledge of evidence does not improve \npractice uniformly; more other interventions were encouraged to \nimprove practice.12\nEven though several studies performed in high-income countries \nstill recommend the use of single dose prophylaxis, more cautions and \nhesitancy are taken in low resource settings. Various aspects including \nlack of sufficient infrastructures in operating rooms, lack of optimal \nasepsis, absence of clear antiseptic rules, reuse of disposable materials, \nchallenges in postoperative follow up especially after discharge from \nthe hospital and patients’ level of education to maintain their hygiene, \ndictate the use of extended antibiotic prophylaxis after emergency \ncesarean section and even electives cesarean section by many health \nprofessionals in low resource settings. There is also insufficient data \non the effectiveness of antibiotics, further limiting an evidence-\nbased choice of antibiotics and biasing providers towards the use of \nantibiotics with a broader range.\nAs a consequence, we lack evidence-based standardized \nprotocols to guide the duration of antimicrobial prophylaxis after \nemergency cesarean section in low-resource settings. Considering the \nconsequences of inappropriate use of antibiotics and lack of evidence-\nbased consensus about a clear protocol in low resources maternity \nsettings, studies comparing a single-dose of antibiotics to multiple \ndoses in uncomplicated emergency cesarean sections are necessary. \nIn 2012 at Bugando Medical Center in Tanzania, a study by Lyimo \nFM et al compared a single-dose of Gentamycin and Metronidazole \n30 to 60 minute before skin incision versus extended use of the same \nantibiotics for 24 hours and found no difference in outcome and the \nuse of single intravenous Gentamycin and metronidazole was found \nsuperior to an extended dose of the same antibiotics.13 The extended \nsystematic use of antibiotics to patients with emergency cesarean \nsection without obvious risk factors have some negative impacts \non patient care; it leads to longer hospital stay, prolonged use of \nintravenous medications, increased cost for patients and hospitals, \nincrease in the risk of acquiring nosocomial infections and increased \nrisk of developing resistance to commonly used antibiotics. Emin et al \nstudied the incidence and risk factors of SSI in developing countries \nand concluded that prolonged antimicrobial prophylaxis and broad \nspectrum antibiotics may be associated with the emergence of resistant \nbacterial strains.14 Recently some studies carried out in a tertiary \nhospitals in Rwanda have found a high prevalence of antimicrobial \nresistance to commonly used antibiotics; One of those studies was \ndone by Ntirenganya C et al and found among culture isolates E.Coli \nand Klebsiella pathogens to be the most common and were resistant \nto at least one of the third-generation cephalosporins, other pathogens \nalso had resistance to other commonly used antibiotics.15 Another \nstudy done by Muvunyi CM et al in Rwanda found out that the \nantibiotics commonly used in Rwanda for the treatment of UTI are \nno longer effective due to increased resistance of the most common \npathogen to common antibiotics.16 Interventions aiming at reducing \nthe risk of resistance and leading to the correct use of antibiotics \nwould be helpful in Rwanda and in other countries where they are \nno clear protocols. There is no data in Rwanda about the prevalence \nof surgical site infections post caesarean section. There are limited \nstudies performed in East Africa. A study done in Tanzania at Bugando \nMedical Center revealed an incidence of 6.4% among women who \nreceived prolonged antibiotic prophylaxis during emergency cesarean \nsection while a study performed in Nigeria noted a prevalence of 9.1% \nwith single-dose antibiotics.17\nIn this study, we aim to test if single-dose antimicrobial prophylaxis \nis as effective as extended doses of antibiotics for prevention of post \ncaesarean section surgical site infections or if the use of extended \nantibiotics is justified in high risk poor resource settings. We also \nsought to determine the baseline incidence of SSI among women \nreceiving antimicrobial prophylaxis after an emergency cesarean \nsection.\nMethods\nA prospective parallel randomized clinical trial with 1:1 allocation \nratio was performed. Sample size calculation was calculated based \non previous estimates on SSI in the literature. Using the Blackwelder \nformula for equivalence RCTs, where we hypothesized a difference of \nless than 5% between the two treatments to represent the equivalence. \nWe have used the SSI prevalence found in the previously cited study of \n6.4% among women receiving multiple doses of antibio-prophylaxis \nand we used an incidence of 10% for single dose therapy based on the \npreviously cited Nigerian study which was 9.1%.17\nThe Blackwelder formula used is: (Z 0.95 + Z 0.80)2 [Ps(1-Ps) + Pn(1-\nPn)] / (Ps-Pn-D)2\nPs: 6,4% Ps: Estimated Response among women receiving the \nstandard treatment (Multiple doses)\nPn: 10 %; Pn: Estimated Response rate among women receiving \nthe new treatment (Single dose)\nD: 5%: Hypothesized difference for equivalence\nUsing the above prevalence, the sample size is 125 for each group \nand 250 for both groups. We assumed that 10% of patients may be \nlost to follow up or have incomplete documentation therefore the total \nsample size was calculated at 275 patients. All the calculation assume \nalpha is =0,05 and beta is =0,2(power 80%). A statistician who was \nnot involved in enrolling patients used computer-generated random \nnumbers with block randomization. The size of the blocks was only \nknown by the statistician and blinded to those who enroll participants. \nAll the random numbers were sealed in opaque envelopes and kept \nin a sized box. Each participant picked the next envelope before \ncesarean section and the envelope was opened at the end of surgery. \nEach envelope contained a random number corresponding to either \na single dose or multiple doses depending on what the computer had \ngenerated.\n",
+   "n_chars": 8220,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      42.0,
+      45.7,
+      552.8,
+      62.5
+     ],
+     "text": "Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery\n52\nCopyright:\n©2021 Nitrushwa et al. \n"
+    },
+    {
+     "bbox": [
+      40.0,
+      777.5,
+      550.4,
+      797.1
+     ],
+     "text": "Citation: Nitrushwa D, Ghebre R, Unyuzimana MA, et al. Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery. Int J \nPregn & Chi Birth. 2021;7(2):51‒56. DOI: 10.15406/ipcb.2021.07.00228\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      75.0,
+      293.9,
+      378.5
+     ],
+     "text": "postpartum infections especially SSIs and endometritis to ensure a \ntargeted coverage. The antibiotics must be present not only in the \nplasma but also in the tissues during the surgical procedure, and in \nmost cases, very short prophylaxis, usually using a single bolus is \nconvenient.7 In 2004 E. Ahmed et al. found no difference between \na single dose of ceftriaxone versus Ampicillin/Cloxacillin given at \nthe induction of anesthesia.8 A Cochrane systematic review done by \nDahlke JD et al ,recommended that a single dose of ampicillin or first-\ngeneration cephalosporins, such as cefazolin, should be administered \nin all women undergoing cesarean delivery and given 15 to 60 minutes \nbefore skin incision.9 According to various research findings, evidence \nsupports the use of pre-skin incision broad-spectrum antibiotics10 and \nthere is insufficient evidence to determine whether there is a difference \nbetween the use single dose versus multiple-dose regimens . In 1988 \na multicenter comparative study done by Galask RP et al in the USA \ncompared a single dose of cefotetan versus multiple-dose cefoxitin as \nprophylaxis in patients undergoing cesarean section and no difference \nin cases of endometritis or surgical site infection was seen.11 Despite \nall the evidence about the use of a single dose of antibiotics, resistance \nto change is common in many hospitals; for example, in a teaching \nhospital, southern Taiwan, dissemination of evidence was done and \nclinicians were informed about single-dose prescription as evidence-\nbased best practice and follow-up evaluations were made to see how \nthe information has helped clinicians change their practices. The rate \nof single-dose prescription only increased from 14.2% to 22.4% and \nthe study concluded that knowledge of evidence does not improve \npractice uniformly; more other interventions were encouraged to \nimprove practice.12\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      383.4,
+      293.9,
+      524.9
+     ],
+     "text": "Even though several studies performed in high-income countries \nstill recommend the use of single dose prophylaxis, more cautions and \nhesitancy are taken in low resource settings. Various aspects including \nlack of sufficient infrastructures in operating rooms, lack of optimal \nasepsis, absence of clear antiseptic rules, reuse of disposable materials, \nchallenges in postoperative follow up especially after discharge from \nthe hospital and patients’ level of education to maintain their hygiene, \ndictate the use of extended antibiotic prophylaxis after emergency \ncesarean section and even electives cesarean section by many health \nprofessionals in low resource settings. There is also insufficient data \non the effectiveness of antibiotics, further limiting an evidence-\nbased choice of antibiotics and biasing providers towards the use of \nantibiotics with a broader range.\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      529.8,
+      293.9,
+      606.5
+     ],
+     "text": "As a consequence, we lack evidence-based standardized \nprotocols to guide the duration of antimicrobial prophylaxis after \nemergency cesarean section in low-resource settings. Considering the \nconsequences of inappropriate use of antibiotics and lack of evidence-\nbased consensus about a clear protocol in low resources maternity \nsettings, studies comparing a single-dose of antibiotics to multiple \ndoses in uncomplicated emergency cesarean sections are necessary. \n"
+    },
+    {
+     "bbox": [
+      42.0,
+      611.4,
+      293.9,
+      763.7
+     ],
+     "text": "In 2012 at Bugando Medical Center in Tanzania, a study by Lyimo \nFM et al compared a single-dose of Gentamycin and Metronidazole \n30 to 60 minute before skin incision versus extended use of the same \nantibiotics for 24 hours and found no difference in outcome and the \nuse of single intravenous Gentamycin and metronidazole was found \nsuperior to an extended dose of the same antibiotics.13 The extended \nsystematic use of antibiotics to patients with emergency cesarean \nsection without obvious risk factors have some negative impacts \non patient care; it leads to longer hospital stay, prolonged use of \nintravenous medications, increased cost for patients and hospitals, \nincrease in the risk of acquiring nosocomial infections and increased \nrisk of developing resistance to commonly used antibiotics. Emin et al \nstudied the incidence and risk factors of SSI in developing countries \nand concluded that prolonged antimicrobial prophylaxis and broad \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      75.0,
+      555.6,
+      302.9
+     ],
+     "text": "spectrum antibiotics may be associated with the emergence of resistant \nbacterial strains.14 Recently some studies carried out in a tertiary \nhospitals in Rwanda have found a high prevalence of antimicrobial \nresistance to commonly used antibiotics; One of those studies was \ndone by Ntirenganya C et al and found among culture isolates E.Coli \nand Klebsiella pathogens to be the most common and were resistant \nto at least one of the third-generation cephalosporins, other pathogens \nalso had resistance to other commonly used antibiotics.15 Another \nstudy done by Muvunyi CM et al in Rwanda found out that the \nantibiotics commonly used in Rwanda for the treatment of UTI are \nno longer effective due to increased resistance of the most common \npathogen to common antibiotics.16 Interventions aiming at reducing \nthe risk of resistance and leading to the correct use of antibiotics \nwould be helpful in Rwanda and in other countries where they are \nno clear protocols. There is no data in Rwanda about the prevalence \nof surgical site infections post caesarean section. There are limited \nstudies performed in East Africa. A study done in Tanzania at Bugando \nMedical Center revealed an incidence of 6.4% among women who \nreceived prolonged antibiotic prophylaxis during emergency cesarean \nsection while a study performed in Nigeria noted a prevalence of 9.1% \nwith single-dose antibiotics.17\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      307.8,
+      555.6,
+      384.5
+     ],
+     "text": "In this study, we aim to test if single-dose antimicrobial prophylaxis \nis as effective as extended doses of antibiotics for prevention of post \ncaesarean section surgical site infections or if the use of extended \nantibiotics is justified in high risk poor resource settings. We also \nsought to determine the baseline incidence of SSI among women \nreceiving antimicrobial prophylaxis after an emergency cesarean \nsection.\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      390.4,
+      352.0,
+      405.5
+     ],
+     "text": "Methods\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      409.4,
+      555.5,
+      507.7
+     ],
+     "text": "A prospective parallel randomized clinical trial with 1:1 allocation \nratio was performed. Sample size calculation was calculated based \non previous estimates on SSI in the literature. Using the Blackwelder \nformula for equivalence RCTs, where we hypothesized a difference of \nless than 5% between the two treatments to represent the equivalence. \nWe have used the SSI prevalence found in the previously cited study of \n6.4% among women receiving multiple doses of antibio-prophylaxis \nand we used an incidence of 10% for single dose therapy based on the \npreviously cited Nigerian study which was 9.1%.17\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      512.6,
+      553.3,
+      535.3
+     ],
+     "text": "The Blackwelder formula used is: (Z 0.95 + Z 0.80)2 [Ps(1-Ps) + Pn(1-\nPn)] / (Ps-Pn-D)2\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      540.2,
+      555.5,
+      562.9
+     ],
+     "text": "Ps: 6,4% Ps: Estimated Response among women receiving the \nstandard treatment (Multiple doses)\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      567.8,
+      555.5,
+      590.5
+     ],
+     "text": "Pn: 10 %; Pn: Estimated Response rate among women receiving \nthe new treatment (Single dose)\n"
+    },
+    {
+     "bbox": [
+      315.6,
+      595.4,
+      489.7,
+      607.3
+     ],
+     "text": "D: 5%: Hypothesized difference for equivalence\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      612.2,
+      555.5,
+      764.5
+     ],
+     "text": "Using the above prevalence, the sample size is 125 for each group \nand 250 for both groups. We assumed that 10% of patients may be \nlost to follow up or have incomplete documentation therefore the total \nsample size was calculated at 275 patients. All the calculation assume \nalpha is =0,05 and beta is =0,2(power 80%). A statistician who was \nnot involved in enrolling patients used computer-generated random \nnumbers with block randomization. The size of the blocks was only \nknown by the statistician and blinded to those who enroll participants. \nAll the random numbers were sealed in opaque envelopes and kept \nin a sized box. Each participant picked the next envelope before \ncesarean section and the envelope was opened at the end of surgery. \nEach envelope contained a random number corresponding to either \na single dose or multiple doses depending on what the computer had \ngenerated.\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery\n53\nCopyright:\n©2021 Nitrushwa et al. \nCitation: Nitrushwa D, Ghebre R, Unyuzimana MA, et al. Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery. Int J \nPregn & Chi Birth. 2021;7(2):51‒56. DOI: 10.15406/ipcb.2021.07.00228\nThree hundred one women have been recruited, enrolled and \nanalyzed in the study from 1st July 2015 to June 2016.With a 1:1 \nallocation ratio, 147 women received a single dose of antibiotics; 2 \ngms of Ampicillin 15-60 minutes before skin incision and 154 women \nreceived 2 gms 15-60 minutes prior to skin incision and continued 1 \ngm every 8 hours for 3 days. Our study was conducted in Ruhengeri \nHospital, a large rural hospital in Rwanda. It has a maternity \ndepartment where approximately 5000 women deliver annually with \naround 1500 deliveries being cesarean sections. \nEligibility criteria included all women admitted in maternity at \nRuhengeri Hospital during the study period and had agreed to be \nenrolled in the study after a written informed consent was obtained. \nWomen who had signs of ongoing infections such as chorioamnionitis, \nfever during labor, premature rupture of membranes for more than \n18 hours and those who have had failed instrumental delivery at \ncomplete dilatation were excluded. All study participants received \n2 grams of Ampicillin in labor ward before entering the operating \nroom to meet the required 15-60 minutes before skin incision. While \nthe participants were in the operating room, the provider was given \nthe sealed opaque envelope containing a number that designated \nwhether the patients were in the category of single dose which was \nalready given in labor ward or whether the patient was a candidate for \nextended use of antibiotics for 3 days more. The envelope was opened \nonly once the cesarean section is over to ensure that the surgeon is \nblinded to the regimen during the surgery. \nAll participants were educated about the signs of surgical site \ninfections which were defined as fever, tenderness and swelling of \nthe wound or loss of continuity with pus discharge. Participants were \nevaluated for any sign of SSI on the day of discharge (day 3), then \nfollowed by phone interviews on day 7, 15 and day 30. All patients \nwere requested to come back to the same hospital if any problem \nduring the follow up was to occur. Secondary outcomes included \nendometritis and any other type of postpartum infection. Participants \nwere also educated about signs of endometritis, which were defined as \nfever, tender abdomen and full smelling discharge. Participants were \nrequested to consult if any of the above symptoms were observed \nduring the follow up period.\nStatistical analysis\nA questionnaire containing the social demographic and clinical \ncharacteristics was used at the time of enrollment and during follow \nup. Data on social demographic and clinical characteristics were \nextracted in the file at the time of enrollment and discharge on day 3. \nThe source of data during follow up on Day 7,15 and 30 was obtained \nthrough an interview on phone and all patients were requested to \ncome back to Ruhengeri Hospital whenever they have any concerns; \nPatients were also allowed and given the contact of the PI whom \nthey can call whenever they have any issue. Note that patients were \neducated about signs of SSI and other infections and were interviewed \nabout those signs during the follow-up. The follow up was made \npossible by using the phone call directly to the patient or the husband \nin case of the participants had no phone or community health worker \nin charge of the patient.\nData were entered through epi data and then extracted into Stata \n13 for analysis. Descriptive statistics were used to test whether the \npopulation in both groups were similar and the incidence of SSI in \nboth groups was calculated on day 3 at discharge, on day 7, day 15 \nand day 30. The overall incidence of SSI in each group was used to \ncalculate the difference and P value considered for the significance \nof the observed difference. The equivalence margin above 5% was \ninitially set as the required difference to confirm the difference in both \ngroups within the 95% confidence interval.\nResults \nBaseline characteristics in our study population\nA total of 618 patients were assessed for eligibility. Among them, \n20 participants declined to participate in the study and 50 were \nexcluded because they were not meeting the inclusion criteria or \ndid not receive timely antibiotics. The rest of excluded participants \n(247) were secondary to the provider not willing to participate in the \nstudy blaming lack of time for enrolment and randomization due to \nwork overload . A total of 301 women were enrolled, randomized and \nanalyzed; 154 in the group of multiple- dose and 147 in the group of \na single-dose, basic social demographic and clinical characteristics \nwere similar in both groups as shown in Table 1.\nTable 1 Social demographic and clinical characteristics in the two groups\n \n \n SD\nM D\nP value \nAge\nCategories\n0.144\nLess than 20\n6(4.5%)\n6(4.2%)\n20-35yra \n119(90.2%)\n120(84.5%)\n36 and above \n7(5.3%)\n16(11.3%)\nLevel of education\n0.028\nNo formal education \n32(22.4%)\n24(15.8%)\nPrimary \n83(58%)\n82(53.9%)\nSecondary \n22(15.4%)\n36(23.7%)\nUniversity \n6(4.2%)\n10(6.6%)\nHistory of SSI\n0.749\nYes\n1(.89%)\n1(.89%)\nNo\n111(99.10%)\n111(99.10%)\n",
+   "n_chars": 5462,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      42.0,
+      44.7,
+      552.8,
+      61.5
+     ],
+     "text": "Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery\n53\nCopyright:\n©2021 Nitrushwa et al. \n"
+    },
+    {
+     "bbox": [
+      40.0,
+      777.5,
+      550.4,
+      797.1
+     ],
+     "text": "Citation: Nitrushwa D, Ghebre R, Unyuzimana MA, et al. Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery. Int J \nPregn & Chi Birth. 2021;7(2):51‒56. DOI: 10.15406/ipcb.2021.07.00228\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      85.0,
+      293.9,
+      183.3
+     ],
+     "text": "Three hundred one women have been recruited, enrolled and \nanalyzed in the study from 1st July 2015 to June 2016.With a 1:1 \nallocation ratio, 147 women received a single dose of antibiotics; 2 \ngms of Ampicillin 15-60 minutes before skin incision and 154 women \nreceived 2 gms 15-60 minutes prior to skin incision and continued 1 \ngm every 8 hours for 3 days. Our study was conducted in Ruhengeri \nHospital, a large rural hospital in Rwanda. It has a maternity \ndepartment where approximately 5000 women deliver annually with \naround 1500 deliveries being cesarean sections. \n"
+    },
+    {
+     "bbox": [
+      42.0,
+      188.2,
+      293.9,
+      362.1
+     ],
+     "text": "Eligibility criteria included all women admitted in maternity at \nRuhengeri Hospital during the study period and had agreed to be \nenrolled in the study after a written informed consent was obtained. \nWomen who had signs of ongoing infections such as chorioamnionitis, \nfever during labor, premature rupture of membranes for more than \n18 hours and those who have had failed instrumental delivery at \ncomplete dilatation were excluded. All study participants received \n2 grams of Ampicillin in labor ward before entering the operating \nroom to meet the required 15-60 minutes before skin incision. While \nthe participants were in the operating room, the provider was given \nthe sealed opaque envelope containing a number that designated \nwhether the patients were in the category of single dose which was \nalready given in labor ward or whether the patient was a candidate for \nextended use of antibiotics for 3 days more. The envelope was opened \nonly once the cesarean section is over to ensure that the surgeon is \nblinded to the regimen during the surgery. \n"
+    },
+    {
+     "bbox": [
+      42.0,
+      367.0,
+      293.9,
+      497.7
+     ],
+     "text": "All participants were educated about the signs of surgical site \ninfections which were defined as fever, tenderness and swelling of \nthe wound or loss of continuity with pus discharge. Participants were \nevaluated for any sign of SSI on the day of discharge (day 3), then \nfollowed by phone interviews on day 7, 15 and day 30. All patients \nwere requested to come back to the same hospital if any problem \nduring the follow up was to occur. Secondary outcomes included \nendometritis and any other type of postpartum infection. Participants \nwere also educated about signs of endometritis, which were defined as \nfever, tender abdomen and full smelling discharge. Participants were \nrequested to consult if any of the above symptoms were observed \nduring the follow up period.\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      85.4,
+      388.0,
+      98.0
+     ],
+     "text": "Statistical analysis\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      102.5,
+      555.5,
+      254.7
+     ],
+     "text": "A questionnaire containing the social demographic and clinical \ncharacteristics was used at the time of enrollment and during follow \nup. Data on social demographic and clinical characteristics were \nextracted in the file at the time of enrollment and discharge on day 3. \nThe source of data during follow up on Day 7,15 and 30 was obtained \nthrough an interview on phone and all patients were requested to \ncome back to Ruhengeri Hospital whenever they have any concerns; \nPatients were also allowed and given the contact of the PI whom \nthey can call whenever they have any issue. Note that patients were \neducated about signs of SSI and other infections and were interviewed \nabout those signs during the follow-up. The follow up was made \npossible by using the phone call directly to the patient or the husband \nin case of the participants had no phone or community health worker \nin charge of the patient.\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      259.7,
+      555.5,
+      357.9
+     ],
+     "text": "Data were entered through epi data and then extracted into Stata \n13 for analysis. Descriptive statistics were used to test whether the \npopulation in both groups were similar and the incidence of SSI in \nboth groups was calculated on day 3 at discharge, on day 7, day 15 \nand day 30. The overall incidence of SSI in each group was used to \ncalculate the difference and P value considered for the significance \nof the observed difference. The equivalence margin above 5% was \ninitially set as the required difference to confirm the difference in both \ngroups within the 95% confidence interval.\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      363.9,
+      346.0,
+      379.0
+     ],
+     "text": "Results \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      383.8,
+      524.3,
+      396.4
+     ],
+     "text": "Baseline characteristics in our study population\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      400.9,
+      555.5,
+      509.9
+     ],
+     "text": "A total of 618 patients were assessed for eligibility. Among them, \n20 participants declined to participate in the study and 50 were \nexcluded because they were not meeting the inclusion criteria or \ndid not receive timely antibiotics. The rest of excluded participants \n(247) were secondary to the provider not willing to participate in the \nstudy blaming lack of time for enrolment and randomization due to \nwork overload . A total of 301 women were enrolled, randomized and \nanalyzed; 154 in the group of multiple- dose and 147 in the group of \na single-dose, basic social demographic and clinical characteristics \nwere similar in both groups as shown in Table 1.\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      517.1,
+      279.1,
+      527.1
+     ],
+     "text": "Table 1 Social demographic and clinical characteristics in the two groups\n"
+    },
+    {
+     "bbox": [
+      137.2,
+      538.4,
+      450.2,
+      548.4
+     ],
+     "text": " \n \n SD\nM D\nP value \n"
+    },
+    {
+     "bbox": [
+      137.2,
+      555.5,
+      438.6,
+      565.1
+     ],
+     "text": "Age\nCategories\n0.144\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      572.5,
+      381.9,
+      582.1
+     ],
+     "text": "Less than 20\n6(4.5%)\n6(4.2%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      589.5,
+      393.9,
+      599.1
+     ],
+     "text": "20-35yra \n119(90.2%)\n120(84.5%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      606.5,
+      389.9,
+      616.1
+     ],
+     "text": "36 and above \n7(5.3%)\n16(11.3%)\n"
+    },
+    {
+     "bbox": [
+      137.2,
+      623.5,
+      438.6,
+      633.1
+     ],
+     "text": "Level of education\n0.028\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      640.5,
+      389.9,
+      650.1
+     ],
+     "text": "No formal education \n32(22.4%)\n24(15.8%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      657.5,
+      389.9,
+      667.1
+     ],
+     "text": "Primary \n83(58%)\n82(53.9%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      674.5,
+      389.9,
+      684.1
+     ],
+     "text": "Secondary \n22(15.4%)\n36(23.7%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      691.5,
+      385.9,
+      701.1
+     ],
+     "text": "University \n6(4.2%)\n10(6.6%)\n"
+    },
+    {
+     "bbox": [
+      137.2,
+      708.5,
+      438.6,
+      718.1
+     ],
+     "text": "History of SSI\n0.749\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      725.5,
+      381.9,
+      735.1
+     ],
+     "text": "Yes\n1(.89%)\n1(.89%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      742.5,
+      397.9,
+      752.1
+     ],
+     "text": "No\n111(99.10%)\n111(99.10%)\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery\n54\nCopyright:\n©2021 Nitrushwa et al. \nCitation: Nitrushwa D, Ghebre R, Unyuzimana MA, et al. Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery. Int J \nPregn & Chi Birth. 2021;7(2):51‒56. DOI: 10.15406/ipcb.2021.07.00228\n \n \n SD\nM D\nP value \nHIV status\n0.088\nNegative \n66(45.5%)\n83(54.5%)\nUnknown \n-49.10%\n50(44.64%)\nDiabetes\n0.728\nNegative \n18(12.4%)\n17(11.1%)\nPositive\n0(0%)\n0(1.3%)\nUnknown \n127(87.6%)\n136(88.9%)\nIndication for CS\n0.166\nFailure to progress\n27(19.0%)\n23(23.2%)\nFetal distress \n33(23.2%)\n31(20.4%)\nBreech \n14(9.9%)\n12(7.9%)\nOthers \n68(47.9%)\n86(56.6%)\nCS intervention duration \n0.446\n0-2 hours \n107(95.53%)\n110(98.21%)\nMore than 2 hours \n5(4.46%)\n2(1.78%)\nTime spent in labor before CS\n0.77\n0-1 hours \n62(43.4%)\n74(49.0%)\n1-5 hours \n56(39.2%)\n46(30.5%)\n \nMore than 5 hours \n25(17.5%)\n31(20.5%)\n \nBelow is the flow diagram indicating the recruitment, enrolment and follow up process \nTable Continued...\n",
+   "n_chars": 1064,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      42.0,
+      45.7,
+      552.8,
+      62.5
+     ],
+     "text": "Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery\n54\nCopyright:\n©2021 Nitrushwa et al. \n"
+    },
+    {
+     "bbox": [
+      40.0,
+      777.5,
+      550.4,
+      797.1
+     ],
+     "text": "Citation: Nitrushwa D, Ghebre R, Unyuzimana MA, et al. Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery. Int J \nPregn & Chi Birth. 2021;7(2):51‒56. DOI: 10.15406/ipcb.2021.07.00228\n"
+    },
+    {
+     "bbox": [
+      137.2,
+      99.5,
+      450.2,
+      109.6
+     ],
+     "text": " \n \n SD\nM D\nP value \n"
+    },
+    {
+     "bbox": [
+      137.2,
+      116.7,
+      438.6,
+      126.3
+     ],
+     "text": "HIV status\n0.088\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      133.7,
+      389.9,
+      143.3
+     ],
+     "text": "Negative \n66(45.5%)\n83(54.5%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      150.7,
+      393.9,
+      160.3
+     ],
+     "text": "Unknown \n-49.10%\n50(44.64%)\n"
+    },
+    {
+     "bbox": [
+      137.2,
+      167.7,
+      438.6,
+      177.3
+     ],
+     "text": "Diabetes\n0.728\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      184.7,
+      389.9,
+      194.3
+     ],
+     "text": "Negative \n18(12.4%)\n17(11.1%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      201.7,
+      381.9,
+      211.3
+     ],
+     "text": "Positive\n0(0%)\n0(1.3%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      218.7,
+      393.9,
+      228.3
+     ],
+     "text": "Unknown \n127(87.6%)\n136(88.9%)\n"
+    },
+    {
+     "bbox": [
+      137.2,
+      235.7,
+      438.6,
+      245.3
+     ],
+     "text": "Indication for CS\n0.166\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      252.7,
+      389.9,
+      262.3
+     ],
+     "text": "Failure to progress\n27(19.0%)\n23(23.2%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      269.7,
+      389.9,
+      279.3
+     ],
+     "text": "Fetal distress \n33(23.2%)\n31(20.4%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      286.7,
+      385.9,
+      296.3
+     ],
+     "text": "Breech \n14(9.9%)\n12(7.9%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      303.7,
+      389.9,
+      313.3
+     ],
+     "text": "Others \n68(47.9%)\n86(56.6%)\n"
+    },
+    {
+     "bbox": [
+      137.2,
+      320.7,
+      438.6,
+      330.3
+     ],
+     "text": "CS intervention duration \n0.446\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      337.7,
+      397.9,
+      347.3
+     ],
+     "text": "0-2 hours \n107(95.53%)\n110(98.21%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      354.7,
+      385.9,
+      364.3
+     ],
+     "text": "More than 2 hours \n5(4.46%)\n2(1.78%)\n"
+    },
+    {
+     "bbox": [
+      137.2,
+      371.7,
+      434.6,
+      381.3
+     ],
+     "text": "Time spent in labor before CS\n0.77\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      388.7,
+      389.9,
+      398.3
+     ],
+     "text": "0-1 hours \n62(43.4%)\n74(49.0%)\n"
+    },
+    {
+     "bbox": [
+      208.2,
+      405.7,
+      389.9,
+      415.3
+     ],
+     "text": "1-5 hours \n56(39.2%)\n46(30.5%)\n"
+    },
+    {
+     "bbox": [
+      137.2,
+      422.7,
+      423.1,
+      432.3
+     ],
+     "text": " \nMore than 5 hours \n25(17.5%)\n31(20.5%)\n \n"
+    },
+    {
+     "bbox": [
+      42.0,
+      440.4,
+      446.4,
+      453.0
+     ],
+     "text": "Below is the flow diagram indicating the recruitment, enrolment and follow up process \n"
+    },
+    {
+     "bbox": [
+      130.7,
+      86.3,
+      189.3,
+      95.9
+     ],
+     "text": "Table Continued...\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery\n55\nCopyright:\n©2021 Nitrushwa et al. \nCitation: Nitrushwa D, Ghebre R, Unyuzimana MA, et al. Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery. Int J \nPregn & Chi Birth. 2021;7(2):51‒56. DOI: 10.15406/ipcb.2021.07.00228\nIncidence of surgical site infection in both groups\nAmong women who received a single dose of ampicillin, 8 women \n(5.5 %) developed SSI during the 30 days of follow-up, whereas 4 \nwomen (2.6%) developed SSI among those who received multiple \ndoses of antibiotics. The overall prevalence of SSI in our population \nwas 4.00%, which was surprisingly low compared to the baseline \nassumptions, which were calculated based on the literature available \nfrom other African countries. Most of the new cases of SSI were \ndiagnosed on day 7. Only 2 cases of SSI were diagnosed at the time \nof discharge while no cases were newly diagnosed on day 30 (Tables \n2&3).\nTable 2 Incidence of SSI in single versus multiple dose users within a period on 30 days\n \nRegimen \n \n \n \n \nSingle dose \nMultiple dose \nTotal \nP value\nNone Surgical site wound infection \n138(94.5%)\n150(97.4%)\n288(96%)\n0.204\nSurgical site wound infection\n8(5.5%)\n4(2.6%)\n12(4.0%) Overall incidence\nTable 3 Incidence of SSI on day 3, 7, 15 and 30 in both groups\nStatus of the \npatient\n Regimen\n \nSingle dose \nMultiple dose \nP Value\nDay 3 \n0.224\n144 (97.9%)\n154(100%)\n3 (2.04 %)\n0(0.0%)\n Day7\n0.2\n140 (97.22)\n150 (97.38%)\n4 (2.77%)\n4(2.6%)\n Day 15\n \n \n0.083\nOthers factors thought to have an impact on the risk \nof post cesarean surgical site infections \nLogistic regression was performed to analyze other cofactors that \nmight have an impact on our primary outcome. Among others, we \nconsidered the age categories of the patients, education level, parity, \nprevious cesarean sections, indications of cesarean section, level \nof the surgeon who did the c/s however no statistically significant \ntendency was noticed among the infected women. The absence of any \ntendency might be due to the low incidence of cases during our study. \nTable 4 demonstrates a few of the analyzed covariates which showed a \nsmall tendency to have an impact but lacking statistical value.\nTable 4 Multiple logistic regression on predictors of SSI\nRegimen \nOR\n95% CI\nP-Value \nEducation \n1.574\n[.554-4.471]\n0.395\nWealth index \n5.031\n[.983-25.751]\n0.052\nIndication \n0.444\n[.247 - .798]\n0.007\nDay or night \n0.361\n[.082- 1.591]\n0.178\nSurgeon \n0.01\n[.272-7.233]\n0.066\nDiscussion\nOur study demonstrates that there is not statistically significant \ndifference in the incidence of SSI between single dose and multiple \ndose of antibiotic regimens. In this study, the sample size was \ncalculated based on the literature with a prevalence of SSI in African \ncountries ranging between 6% to 10%;;13,17,18\nThe total number of analyzed participants was 301 women, 154 \nin the multiple dose group and 147 in the single dose group. Basic \ncharacteristics which could have an impact on the outcome were \nsimilar in both groups and they included age category, parity, HIV \nstatus, previous history of SSI, indication of Cesarean section, \nprevious history of cesarean, duration of cesarean section and part of \nthe day when the cesarean section was performed (day or night). The \ntotal rate of SSI for a period of 30 days of follow-up in our study was \nsurprisingly small than expected as it was found to be 4.00%. This \nlow rate of SSI in our population corresponds to the findings in other \nstudies but mainly done in middle-income countries or developed \ncountries and not in low resource settings.19–22 The low incidence \nfound in our study might be due to the adoption of rigorous protocols \nfor antibiotic prophylaxis as well as hospital asepsis. A study done by \nRiley MMS et al on reduction of surgical site infection revealed that \nimplementation of interventions aiming at reducing the rate of SSI \nreduced the cases by 63.5% in their population.23\nWhile the overall incidence of SSI was 4.00%, the rate of SSI at \ndischarge, which was day 3 in our study, was only 25 % of all cases of \nSSI while the majority of new cases were seen on day 7 with a total of \n8 cases corresponding to 66.6% of all cases of SSI. Only one case was \ndiscovered on day 15 and no new cases of SSI were discovered on day \n30 of follow-up. This finding show that most of the cases of SSI post-\ncesarean section develop when women are already discharged and a \nsurveillance system or education about the signs and symptoms of \nSSI should be systematically done at the time of discharging women. \nThe low rate of SSI at discharge was similarly found in a study done \nby Opøien HK et al , by which a tatal rate of SSI was 8,9 % during an \nobservation of 30 days post cesarean sections compared to only 1,8% \nobserved at the time of discharge.24\nAmong the 147 women who received a single dose of Antibiotics, \nonly 8 of them; 5.5% developed SSI and this incidence corresponds to \nthe rate of SSI in other studies including one study done by Lyimo FM \net al in Tanzania and a multicenter center study done in SubSharan \nby Chu K et al.13,25 Interestingly, the rate of SSI among women who \nreceived multiple-dose of antibiotics for 3 days was only 4 cases; \n2.6%. Despite the observed difference in numbers of cases, the P \nvalue was 0.204 though not statistically significant. Based on the low \noccurrence of SSI in our population with an overall SSI rate of 4 %, \na sample size of approximately 500 women would be necessary to \ndetermine the difference in both groups with a bigger strength. With \nthe few numbers of cases of surgical site infections found in our \nstudy; both interventions are equivalent in outcome as the difference \nin the number of cases observed in both groups still remain in the \nequivalence margins and does not show any statistically significant \ndifference to conclude otherwise.\n",
+   "n_chars": 5966,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      42.0,
+      44.7,
+      552.8,
+      61.5
+     ],
+     "text": "Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery\n55\nCopyright:\n©2021 Nitrushwa et al. \n"
+    },
+    {
+     "bbox": [
+      40.0,
+      777.5,
+      550.4,
+      797.1
+     ],
+     "text": "Citation: Nitrushwa D, Ghebre R, Unyuzimana MA, et al. Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery. Int J \nPregn & Chi Birth. 2021;7(2):51‒56. DOI: 10.15406/ipcb.2021.07.00228\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      85.9,
+      269.5,
+      98.5
+     ],
+     "text": "Incidence of surgical site infection in both groups\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      103.0,
+      293.9,
+      147.2
+     ],
+     "text": "Among women who received a single dose of ampicillin, 8 women \n(5.5 %) developed SSI during the 30 days of follow-up, whereas 4 \nwomen (2.6%) developed SSI among those who received multiple \ndoses of antibiotics. The overall prevalence of SSI in our population \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      85.5,
+      555.5,
+      151.4
+     ],
+     "text": "was 4.00%, which was surprisingly low compared to the baseline \nassumptions, which were calculated based on the literature available \nfrom other African countries. Most of the new cases of SSI were \ndiagnosed on day 7. Only 2 cases of SSI were diagnosed at the time \nof discharge while no cases were newly diagnosed on day 30 (Tables \n2&3).\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      160.0,
+      325.5,
+      170.1
+     ],
+     "text": "Table 2 Incidence of SSI in single versus multiple dose users within a period on 30 days\n"
+    },
+    {
+     "bbox": [
+      120.6,
+      180.8,
+      435.9,
+      190.9
+     ],
+     "text": " \nRegimen \n \n \n \n"
+    },
+    {
+     "bbox": [
+      120.6,
+      196.8,
+      460.7,
+      206.9
+     ],
+     "text": " \nSingle dose \nMultiple dose \nTotal \nP value\n"
+    },
+    {
+     "bbox": [
+      120.6,
+      213.0,
+      451.4,
+      222.6
+     ],
+     "text": "None Surgical site wound infection \n138(94.5%)\n150(97.4%)\n288(96%)\n0.204\n"
+    },
+    {
+     "bbox": [
+      120.6,
+      229.0,
+      460.3,
+      238.6
+     ],
+     "text": "Surgical site wound infection\n8(5.5%)\n4(2.6%)\n12(4.0%) Overall incidence\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      250.8,
+      243.0,
+      260.8
+     ],
+     "text": "Table 3 Incidence of SSI on day 3, 7, 15 and 30 in both groups\n"
+    },
+    {
+     "bbox": [
+      58.6,
+      272.1,
+      155.0,
+      291.8
+     ],
+     "text": "Status of the \npatient\n Regimen\n"
+    },
+    {
+     "bbox": [
+      58.6,
+      299.2,
+      264.6,
+      309.3
+     ],
+     "text": " \nSingle dose \nMultiple dose \nP Value\n"
+    },
+    {
+     "bbox": [
+      58.6,
+      316.4,
+      255.3,
+      326.0
+     ],
+     "text": "Day 3 \n0.224\n"
+    },
+    {
+     "bbox": [
+      119.7,
+      332.4,
+      209.0,
+      342.0
+     ],
+     "text": "144 (97.9%)\n154(100%)\n"
+    },
+    {
+     "bbox": [
+      119.7,
+      348.4,
+      198.8,
+      358.0
+     ],
+     "text": "3 (2.04 %)\n0(0.0%)\n"
+    },
+    {
+     "bbox": [
+      58.6,
+      364.4,
+      247.3,
+      374.0
+     ],
+     "text": " Day7\n0.2\n"
+    },
+    {
+     "bbox": [
+      119.7,
+      380.4,
+      217.0,
+      390.0
+     ],
+     "text": "140 (97.22)\n150 (97.38%)\n"
+    },
+    {
+     "bbox": [
+      119.7,
+      396.4,
+      198.8,
+      406.0
+     ],
+     "text": "4 (2.77%)\n4(2.6%)\n"
+    },
+    {
+     "bbox": [
+      58.6,
+      412.4,
+      255.3,
+      422.0
+     ],
+     "text": " Day 15\n \n \n0.083\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      429.6,
+      294.4,
+      454.2
+     ],
+     "text": "Others factors thought to have an impact on the risk \nof post cesarean surgical site infections \n"
+    },
+    {
+     "bbox": [
+      42.0,
+      458.8,
+      293.9,
+      557.0
+     ],
+     "text": "Logistic regression was performed to analyze other cofactors that \nmight have an impact on our primary outcome. Among others, we \nconsidered the age categories of the patients, education level, parity, \nprevious cesarean sections, indications of cesarean section, level \nof the surgeon who did the c/s however no statistically significant \ntendency was noticed among the infected women. The absence of any \ntendency might be due to the low incidence of cases during our study. \nTable 4 demonstrates a few of the analyzed covariates which showed a \nsmall tendency to have an impact but lacking statistical value.\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      562.3,
+      223.7,
+      572.4
+     ],
+     "text": "Table 4 Multiple logistic regression on predictors of SSI\n"
+    },
+    {
+     "bbox": [
+      62.3,
+      584.1,
+      265.0,
+      594.2
+     ],
+     "text": "Regimen \nOR\n95% CI\nP-Value \n"
+    },
+    {
+     "bbox": [
+      62.3,
+      601.3,
+      251.9,
+      610.9
+     ],
+     "text": "Education \n1.574\n[.554-4.471]\n0.395\n"
+    },
+    {
+     "bbox": [
+      62.3,
+      617.3,
+      251.9,
+      626.9
+     ],
+     "text": "Wealth index \n5.031\n[.983-25.751]\n0.052\n"
+    },
+    {
+     "bbox": [
+      62.3,
+      633.3,
+      251.9,
+      642.9
+     ],
+     "text": "Indication \n0.444\n[.247 - .798]\n0.007\n"
+    },
+    {
+     "bbox": [
+      62.3,
+      649.3,
+      251.9,
+      658.9
+     ],
+     "text": "Day or night \n0.361\n[.082- 1.591]\n0.178\n"
+    },
+    {
+     "bbox": [
+      62.3,
+      665.3,
+      251.9,
+      674.9
+     ],
+     "text": "Surgeon \n0.01\n[.272-7.233]\n0.066\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      682.6,
+      100.6,
+      697.7
+     ],
+     "text": "Discussion\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      701.6,
+      293.9,
+      756.6
+     ],
+     "text": "Our study demonstrates that there is not statistically significant \ndifference in the incidence of SSI between single dose and multiple \ndose of antibiotic regimens. In this study, the sample size was \ncalculated based on the literature with a prevalence of SSI in African \ncountries ranging between 6% to 10%;;13,17,18\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      249.9,
+      555.5,
+      434.6
+     ],
+     "text": "The total number of analyzed participants was 301 women, 154 \nin the multiple dose group and 147 in the single dose group. Basic \ncharacteristics which could have an impact on the outcome were \nsimilar in both groups and they included age category, parity, HIV \nstatus, previous history of SSI, indication of Cesarean section, \nprevious history of cesarean, duration of cesarean section and part of \nthe day when the cesarean section was performed (day or night). The \ntotal rate of SSI for a period of 30 days of follow-up in our study was \nsurprisingly small than expected as it was found to be 4.00%. This \nlow rate of SSI in our population corresponds to the findings in other \nstudies but mainly done in middle-income countries or developed \ncountries and not in low resource settings.19–22 The low incidence \nfound in our study might be due to the adoption of rigorous protocols \nfor antibiotic prophylaxis as well as hospital asepsis. A study done by \nRiley MMS et al on reduction of surgical site infection revealed that \nimplementation of interventions aiming at reducing the rate of SSI \nreduced the cases by 63.5% in their population.23\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      439.5,
+      555.5,
+      581.0
+     ],
+     "text": "While the overall incidence of SSI was 4.00%, the rate of SSI at \ndischarge, which was day 3 in our study, was only 25 % of all cases of \nSSI while the majority of new cases were seen on day 7 with a total of \n8 cases corresponding to 66.6% of all cases of SSI. Only one case was \ndiscovered on day 15 and no new cases of SSI were discovered on day \n30 of follow-up. This finding show that most of the cases of SSI post-\ncesarean section develop when women are already discharged and a \nsurveillance system or education about the signs and symptoms of \nSSI should be systematically done at the time of discharging women. \nThe low rate of SSI at discharge was similarly found in a study done \nby Opøien HK et al , by which a tatal rate of SSI was 8,9 % during an \nobservation of 30 days post cesarean sections compared to only 1,8% \nobserved at the time of discharge.24\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      585.9,
+      555.5,
+      759.8
+     ],
+     "text": "Among the 147 women who received a single dose of Antibiotics, \nonly 8 of them; 5.5% developed SSI and this incidence corresponds to \nthe rate of SSI in other studies including one study done by Lyimo FM \net al in Tanzania and a multicenter center study done in SubSharan \nby Chu K et al.13,25 Interestingly, the rate of SSI among women who \nreceived multiple-dose of antibiotics for 3 days was only 4 cases; \n2.6%. Despite the observed difference in numbers of cases, the P \nvalue was 0.204 though not statistically significant. Based on the low \noccurrence of SSI in our population with an overall SSI rate of 4 %, \na sample size of approximately 500 women would be necessary to \ndetermine the difference in both groups with a bigger strength. With \nthe few numbers of cases of surgical site infections found in our \nstudy; both interventions are equivalent in outcome as the difference \nin the number of cases observed in both groups still remain in the \nequivalence margins and does not show any statistically significant \ndifference to conclude otherwise.\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery\n56\nCopyright:\n©2021 Nitrushwa et al. \nCitation: Nitrushwa D, Ghebre R, Unyuzimana MA, et al. Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery. Int J \nPregn & Chi Birth. 2021;7(2):51‒56. DOI: 10.15406/ipcb.2021.07.00228\nSome of the challenges which contributed to the limitation of \nour study included providers related factors; some of the healthcare \nproviders preferred to stick on their routine practice of using extended \ndose of antibiotics or a packed workload prevented them from \nenrolling many women who were eligible to participate in the study. \nAnother challenge in our study was related to the unexpected low \nprevalence of SSI, which was found in our study and leaving suspense \nfrom our conclusion. The surveillance of participants after discharge \nwas done using phone call and this practice which is efficient for SSI \nmay not be sensitive enough to recognize other types of infectious \nmorbidity which may arise after C/S though we were not able to report \non secondary outcome mainly endometritis.\nOur study provided information about the rate of surgical site \ninfection in a Hospital where the timing of prophylactic antibiotics \nbefore skin incision and regular weekly operating room sterilization \nis respected. The overall rate of 4.00% is low compared to the general \nprevalence of SSI in developing countries but similar rates have been \nbacked by other studies done in well-equipped Hospitals.\nThe overall observed low rate SSI in our Study might have been a \nresult of some good practices in infections prevention practices which \nwere systematic in Ruhengeri Hospital. These included adequate \ntiming of prophylactic antibiotics as all women were given the first \ndoses before they enter the operating room ensuring antibiotics are \ngiven before skin incision as recommended. The type of antibiotics \nwas Ampicillin 2g and this regimen is backed by \nAcknowledgments\nNone.\nConflicts of interest\nThe authors have no conflict of interest to disclose.\nFunding\nThis study was partially sponsored by THRiVE: The “Training \nHealth Researchers into Vocation Excellence in East Africa”.\nReferences\n1.\t World Health Organization. WHO Statement on Caesarean Section Rates \nCaesarean section rates at the hospital level and the need for a universal \nclassification system. World Heal Organ. 2019;66(9). \n2.\t Zejnullahu VA, Zejnullahu VA, Isjanovska R, et al. Surgical site infections \nafter cesarean sections at the University Clinical Center of Kosovo: Rates, \nmicrobiological profile and risk factors. BMC Infect Dis. 2019;19(1):1–9. \n3.\t Purba AKR, Setiawan D, Bathoorn E, et al. Prevention of surgical site \ninfections: A systematic review of cost analyses in the use of prophylactic \nantibiotics. Frontiers in Pharmacology. 2018;9. \n4.\t Zuarez-Easton S, Zafran N, Garmi G, et al. Postcesarean wound infection: \nprevalence, impact, prevention, and management challenges.\n5.\t World Health Organization. WHO recommendations for Prevention and \ntreatment of pre-eclampsia and eclampsia. 2011;8–27. \n6.\t Brown J, Thompson M, Sinnya S, et al. Pre-incision antibiotic prophylaxis \nreduces the incidence of post-caesarean surgical site infection. J Hosp \nInfect. 2013;83:68–70. \n7.\t Carlet J. General principles of choice of antibiotics for antibiotic \nprophylaxis in surgery. Ann Fr Anesth Reanim. 1994;13(5Suppl):S10–3. \n8.\t Ahmed ETS, Mirghani OA, Gerais AS, et al. Ceftriaxone versus ampicillin/\ncloxacillin as antibiotic prophylaxis in elective caesarean section. East \nMediterr Heal J. 2004;10:277–282. \n9.\t Dahlke JD, Mendez-Figueroa H, et al. Evidence-based surgery for \ncesarean delivery: An updated systematic review. Am J Obstet Gynecol. \n2013;209(4):294–306. \n10.\t Lamont RF, Sobel JD, Kusanovic JP, et al. Current debate on the use \nof antibiotic prophylaxis for caesarean section. Vol. 118, BJOG: An \nInternational Journal of Obstetrics and Gynaecology. 2011;193–201. \n11.\t Galask RP, Benigno BB, Cunningham FG, et al. Results of a multicenter \ncomparative study of single-dose cefotetan and multiple-dose cefoxitin as \nprophylaxis in patients undergoing cesarean section. American journal of \nsurgery. 1988;155. \n12.\t Liabsuetrakul T, Islam M. Evidence on antibiotic prophylaxis for cesarean \nsection alone is not sufficient to change the practices of doctors in a \nteaching hospital. J Obstet Gynaecol Res. 2005;31:202–209. \n13.\t Lyimo FM, Massinde AN, Kidenya BR, et al. Single dose of gentamicin \nin combination with metronidazole versus multiple doses for prevention \nof post-caesarean infection at Bugando Medical Centre in Mwanza, \nTanzania: a randomized, equivalence, controlled trial. BMC Pregnancy \nChildbirth. 201;13(1):123. \n14.\t Alp E, Elmali F, Ersoy S, et al. Incidence and risk factors of surgical \nsite infection in general surgery in a developing country. Surg Today. \n2014;44:685–689. \n15.\t Ntirenganya C, Manzi O, Muvunyi CM, et al. High prevalence of \nantimicrobial resistance among common bacterial isolates in a tertiary \nhealthcare facility in rwanda. Am J Trop Med Hyg. 2015;92(4):865–870. \n16.\t Muvunyi CM, Masaisa F, Bayingana C, et al. Decreased susceptibility to \ncommonly used antimicrobial agents in bacterial pathogens isolated from \nurinary tract infections in Rwanda: need for new antimicrobial guidelines. \nAm J Trop Med Hyg. 2011;84(6):923–928. \n17.\t Jido T, Garba I. Surgical-site infection following cesarean section in Kano, \nNigeria. Annals of Medical and Health Sciences Research. 2012;2:33. \n18.\t Ezechi OC, Edet A, Akinlade H, et al. Incidence and risk factors for \ncaesarean wound infection in Lagos Nigeria. BMC Res Notes. 2009;2:186. \n19.\t Charrier L, Serafini P, Ribatti A, et al. Post-partum surgical wound \ninfections: Incidence after caesarean section in an Italian hospital. J Prev \nMed Hyg. 2009;50(3):159–163. \n20.\t Ghuman M, Rohlandt D, Joshy G, et al. Post-caesarean section surgical \nsite infection: rate and risk factors. N Z Med J. 2011;124:32–36. \n21.\t Habib FA. Incidence of post cesarean section wound infection in a tertiary \nhospital, Riyadh, Saudi Arabia. Saudi Med J. 2002;23(9):1059–1063. \n22.\t Fan Y, Wei Z, Wang W, et al. The Incidence and Distribution of Surgical \nSite Infection in Mainland China: A Meta-Analysis of 84 Prospective \nObservational Studies. Sci Rep. 2014;4:6783. \n23.\t Riley MMS, Suda D, Tabsh K, et al. Reduction of surgical site infections \nin low transverse cesarean section at a university hospital. Am J Infect \nControl. 2012;40(9):820–825. \n24.\t Opøien HK, Valbø A, Grinde-et al. Post-cesarean surgical site infections \naccording to CDC standards: rates and risk factors. A prospective cohort \nstudy. Acta Obstet Gynecol Scand. 2007;86(9):1097–1102. \n25.\t Chu K, Maine R, Trelles M. Cesarean Section Surgical Site Infections \nin Sub-Saharan Africa : A Multi-Country Study from Medecins. Sans \nFrontieres. 2015;350–355. \nView publication stats\n",
+   "n_chars": 7008,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      42.0,
+      45.7,
+      552.8,
+      62.5
+     ],
+     "text": "Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery\n56\nCopyright:\n©2021 Nitrushwa et al. \n"
+    },
+    {
+     "bbox": [
+      40.0,
+      777.5,
+      550.4,
+      797.1
+     ],
+     "text": "Citation: Nitrushwa D, Ghebre R, Unyuzimana MA, et al. Single vs. extended antibiotic for prevention of surgical infection in emergent cesarean delivery. Int J \nPregn & Chi Birth. 2021;7(2):51‒56. DOI: 10.15406/ipcb.2021.07.00228\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      84.9,
+      293.9,
+      215.5
+     ],
+     "text": "Some of the challenges which contributed to the limitation of \nour study included providers related factors; some of the healthcare \nproviders preferred to stick on their routine practice of using extended \ndose of antibiotics or a packed workload prevented them from \nenrolling many women who were eligible to participate in the study. \nAnother challenge in our study was related to the unexpected low \nprevalence of SSI, which was found in our study and leaving suspense \nfrom our conclusion. The surveillance of participants after discharge \nwas done using phone call and this practice which is efficient for SSI \nmay not be sensitive enough to recognize other types of infectious \nmorbidity which may arise after C/S though we were not able to report \non secondary outcome mainly endometritis.\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      220.5,
+      293.9,
+      286.3
+     ],
+     "text": "Our study provided information about the rate of surgical site \ninfection in a Hospital where the timing of prophylactic antibiotics \nbefore skin incision and regular weekly operating room sterilization \nis respected. The overall rate of 4.00% is low compared to the general \nprevalence of SSI in developing countries but similar rates have been \nbacked by other studies done in well-equipped Hospitals.\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      291.3,
+      293.9,
+      367.9
+     ],
+     "text": "The overall observed low rate SSI in our Study might have been a \nresult of some good practices in infections prevention practices which \nwere systematic in Ruhengeri Hospital. These included adequate \ntiming of prophylactic antibiotics as all women were given the first \ndoses before they enter the operating room ensuring antibiotics are \ngiven before skin incision as recommended. The type of antibiotics \nwas Ampicillin 2g and this regimen is backed by \n"
+    },
+    {
+     "bbox": [
+      42.0,
+      373.8,
+      145.6,
+      388.9
+     ],
+     "text": "Acknowledgments\n"
+    },
+    {
+     "bbox": [
+      54.0,
+      392.9,
+      75.7,
+      404.7
+     ],
+     "text": "None.\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      410.6,
+      152.7,
+      425.7
+     ],
+     "text": "Conflicts of interest\n"
+    },
+    {
+     "bbox": [
+      54.0,
+      429.7,
+      237.7,
+      441.5
+     ],
+     "text": "The authors have no conflict of interest to disclose.\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      447.4,
+      87.0,
+      462.5
+     ],
+     "text": "Funding\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      466.5,
+      293.9,
+      489.1
+     ],
+     "text": "This study was partially sponsored by THRiVE: The “Training \nHealth Researchers into Vocation Excellence in East Africa”.\n"
+    },
+    {
+     "bbox": [
+      42.0,
+      495.0,
+      103.4,
+      510.1
+     ],
+     "text": "References\n"
+    },
+    {
+     "bbox": [
+      44.0,
+      513.9,
+      293.7,
+      543.6
+     ],
+     "text": "1.\t World Health Organization. WHO Statement on Caesarean Section Rates \nCaesarean section rates at the hospital level and the need for a universal \nclassification system. World Heal Organ. 2019;66(9). \n"
+    },
+    {
+     "bbox": [
+      44.0,
+      548.7,
+      293.6,
+      578.4
+     ],
+     "text": "2.\t Zejnullahu VA, Zejnullahu VA, Isjanovska R, et al. Surgical site infections \nafter cesarean sections at the University Clinical Center of Kosovo: Rates, \nmicrobiological profile and risk factors. BMC Infect Dis. 2019;19(1):1–9. \n"
+    },
+    {
+     "bbox": [
+      44.0,
+      583.5,
+      293.6,
+      613.2
+     ],
+     "text": "3.\t Purba AKR, Setiawan D, Bathoorn E, et al. Prevention of surgical site \ninfections: A systematic review of cost analyses in the use of prophylactic \nantibiotics. Frontiers in Pharmacology. 2018;9. \n"
+    },
+    {
+     "bbox": [
+      44.0,
+      618.3,
+      293.6,
+      638.4
+     ],
+     "text": "4.\t Zuarez-Easton S, Zafran N, Garmi G, et al. Postcesarean wound infection: \nprevalence, impact, prevention, and management challenges.\n"
+    },
+    {
+     "bbox": [
+      44.0,
+      643.5,
+      293.6,
+      663.6
+     ],
+     "text": "5.\t World Health Organization. WHO recommendations for Prevention and \ntreatment of pre-eclampsia and eclampsia. 2011;8–27. \n"
+    },
+    {
+     "bbox": [
+      44.0,
+      668.7,
+      293.6,
+      698.4
+     ],
+     "text": "6.\t Brown J, Thompson M, Sinnya S, et al. Pre-incision antibiotic prophylaxis \nreduces the incidence of post-caesarean surgical site infection. J Hosp \nInfect. 2013;83:68–70. \n"
+    },
+    {
+     "bbox": [
+      44.0,
+      703.5,
+      293.6,
+      723.6
+     ],
+     "text": "7.\t Carlet J. General principles of choice of antibiotics for antibiotic \nprophylaxis in surgery. Ann Fr Anesth Reanim. 1994;13(5Suppl):S10–3. \n"
+    },
+    {
+     "bbox": [
+      305.6,
+      85.2,
+      555.3,
+      114.9
+     ],
+     "text": "8.\t Ahmed ETS, Mirghani OA, Gerais AS, et al. Ceftriaxone versus ampicillin/\ncloxacillin as antibiotic prophylaxis in elective caesarean section. East \nMediterr Heal J. 2004;10:277–282. \n"
+    },
+    {
+     "bbox": [
+      305.6,
+      120.0,
+      555.3,
+      149.7
+     ],
+     "text": "9.\t Dahlke JD, Mendez-Figueroa H, et al. Evidence-based surgery for \ncesarean delivery: An updated systematic review. Am J Obstet Gynecol. \n2013;209(4):294–306. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      154.8,
+      555.3,
+      184.5
+     ],
+     "text": "10.\t Lamont RF, Sobel JD, Kusanovic JP, et al. Current debate on the use \nof antibiotic prophylaxis for caesarean section. Vol. 118, BJOG: An \nInternational Journal of Obstetrics and Gynaecology. 2011;193–201. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      189.6,
+      555.3,
+      228.9
+     ],
+     "text": "11.\t Galask RP, Benigno BB, Cunningham FG, et al. Results of a multicenter \ncomparative study of single-dose cefotetan and multiple-dose cefoxitin as \nprophylaxis in patients undergoing cesarean section. American journal of \nsurgery. 1988;155. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      234.0,
+      555.3,
+      263.7
+     ],
+     "text": "12.\t Liabsuetrakul T, Islam M. Evidence on antibiotic prophylaxis for cesarean \nsection alone is not sufficient to change the practices of doctors in a \nteaching hospital. J Obstet Gynaecol Res. 2005;31:202–209. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      268.8,
+      555.3,
+      317.7
+     ],
+     "text": "13.\t Lyimo FM, Massinde AN, Kidenya BR, et al. Single dose of gentamicin \nin combination with metronidazole versus multiple doses for prevention \nof post-caesarean infection at Bugando Medical Centre in Mwanza, \nTanzania: a randomized, equivalence, controlled trial. BMC Pregnancy \nChildbirth. 201;13(1):123. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      322.8,
+      555.3,
+      352.5
+     ],
+     "text": "14.\t Alp E, Elmali F, Ersoy S, et al. Incidence and risk factors of surgical \nsite infection in general surgery in a developing country. Surg Today. \n2014;44:685–689. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      357.6,
+      555.3,
+      387.3
+     ],
+     "text": "15.\t Ntirenganya C, Manzi O, Muvunyi CM, et al. High prevalence of \nantimicrobial resistance among common bacterial isolates in a tertiary \nhealthcare facility in rwanda. Am J Trop Med Hyg. 2015;92(4):865–870. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      392.4,
+      555.3,
+      431.7
+     ],
+     "text": "16.\t Muvunyi CM, Masaisa F, Bayingana C, et al. Decreased susceptibility to \ncommonly used antimicrobial agents in bacterial pathogens isolated from \nurinary tract infections in Rwanda: need for new antimicrobial guidelines. \nAm J Trop Med Hyg. 2011;84(6):923–928. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      436.8,
+      555.3,
+      456.9
+     ],
+     "text": "17.\t Jido T, Garba I. Surgical-site infection following cesarean section in Kano, \nNigeria. Annals of Medical and Health Sciences Research. 2012;2:33. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      462.0,
+      555.3,
+      482.1
+     ],
+     "text": "18.\t Ezechi OC, Edet A, Akinlade H, et al. Incidence and risk factors for \ncaesarean wound infection in Lagos Nigeria. BMC Res Notes. 2009;2:186. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      487.2,
+      555.3,
+      516.9
+     ],
+     "text": "19.\t Charrier L, Serafini P, Ribatti A, et al. Post-partum surgical wound \ninfections: Incidence after caesarean section in an Italian hospital. J Prev \nMed Hyg. 2009;50(3):159–163. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      522.0,
+      555.3,
+      542.1
+     ],
+     "text": "20.\t Ghuman M, Rohlandt D, Joshy G, et al. Post-caesarean section surgical \nsite infection: rate and risk factors. N Z Med J. 2011;124:32–36. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      547.2,
+      555.3,
+      567.3
+     ],
+     "text": "21.\t Habib FA. Incidence of post cesarean section wound infection in a tertiary \nhospital, Riyadh, Saudi Arabia. Saudi Med J. 2002;23(9):1059–1063. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      572.4,
+      555.3,
+      602.1
+     ],
+     "text": "22.\t Fan Y, Wei Z, Wang W, et al. The Incidence and Distribution of Surgical \nSite Infection in Mainland China: A Meta-Analysis of 84 Prospective \nObservational Studies. Sci Rep. 2014;4:6783. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      607.2,
+      555.3,
+      636.9
+     ],
+     "text": "23.\t Riley MMS, Suda D, Tabsh K, et al. Reduction of surgical site infections \nin low transverse cesarean section at a university hospital. Am J Infect \nControl. 2012;40(9):820–825. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      642.0,
+      555.3,
+      671.7
+     ],
+     "text": "24.\t Opøien HK, Valbø A, Grinde-et al. Post-cesarean surgical site infections \naccording to CDC standards: rates and risk factors. A prospective cohort \nstudy. Acta Obstet Gynecol Scand. 2007;86(9):1097–1102. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      676.8,
+      555.3,
+      706.5
+     ],
+     "text": "25.\t Chu K, Maine R, Trelles M. Cesarean Section Surgical Site Infections \nin Sub-Saharan Africa : A Multi-Country Study from Medecins. Sans \nFrontieres. 2015;350–355. \n"
+    },
+    {
+     "bbox": [
+      50.0,
+      832.6,
+      88.5,
+      838.1
+     ],
+     "text": "View publication stats\n"
+    }
+   ]
+  }
+ ]
+}

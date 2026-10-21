@@ -1,0 +1,31 @@
+{
+ "doc_id": "surgical-site-infection-among-patients-undergone-orthopaedic-surgery-at-muhimbil",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Surgical site infection among patients undergone orthopaedic surgery at Muhimbili Orthopaedic Institute, Dar es Salaam, Tanzania _ Published in East and Central African Journal of Surgery.docx",
+ "sha256": "f36c8fc25937ee6de4c5385931a2206ad83e7fb2377d3b3f449ac23875a6016a",
+ "document_type": "docx",
+ "n_pages": null,
+ "extracted_at_utc": "2026-10-20T18:17:56+00:00",
+ "extraction_method": "python-docx paragraphs + tables",
+ "pages": [
+  {
+   "page": 1,
+   "text": "",
+   "n_chars": 1,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": null,
+     "text": ""
+    }
+   ]
+  }
+ ],
+ "paragraphs": [
+  {
+   "para": 1,
+   "style": "normal",
+   "text": ""
+  }
+ ],
+ "tables": []
+}

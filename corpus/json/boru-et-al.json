@@ -1,0 +1,2221 @@
+{
+ "doc_id": "boru-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Boru et al.pdf",
+ "sha256": "0364d5d78445f03d82c11b9e6b7557ac43bdeb33c0927bfe757ff86bdc1fe343",
+ "document_type": "pdf",
+ "n_pages": 8,
+ "pdf_metadata": {
+  "format": "PDF 1.7",
+  "title": "Bacterial surgical site infections: prevalence, antimicrobial susceptibility patterns, and associated risk factors among patients at Bule Hora University Teaching Hospital, Southern Ethiopia",
+  "author": "Kalicha Boru",
+  "subject": "IJID Regions, 14 (2025) 100565. doi:10.1016/j.ijregi.2024.100565",
+  "keywords": "\"Surgical site\"; \"Antimicrobial susceptibility\"; \"Bule Hora University\"; \"Teaching hospital\"",
+  "creator": "Elsevier",
+  "producer": "Acrobat Distiller 10.0.0 (Windows)",
+  "creationDate": "D:20250124012312+05'30'",
+  "modDate": "D:20250124012344+05'30'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:53+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "IJID Regions 14 (2025) 100565 \nContents lists available at ScienceDirect \nIJID Regions \njournal homepage: www.elsevier.com/locate/ijregi \nBacterial surgical site infections: prevalence, antimicrobial susceptibility \npatterns, and associated risk factors among patients at Bule Hora \nUniversity Teaching Hospital, Southern Ethiopia \nKalicha Boru 1 , Alqeer Aliyo 1 , ∗ , Derese Daka 2 , Tibeso Gamachu 1 , Oliyad Husen 1 , \nZekarias Solomon 1 \n1 Department of Medical Laboratory Science, Institute of Health, Bule Hora University, Bule Hora, Ethiopia. \n2 Department of Medical Laboratory Science, College of Medicine and Health Sciences, Hawassa University, Hawassa, Ethiopia \na r t i c l e \ni n f o \nKeywords: \nSurgical site \nAntimicrobial susceptibility \nBule Hora University \nTeaching hospital \na b s t r a c t \nObjectives: Surgical site infections occur within 30 days of an invasive surgical procedure in the parts of the \nbody where the surgery is performed. Therefore, this study aimed to determine the prevalence, antimicrobial \nsusceptibility patterns, and associated risk factors of surgical site infections at Bule Hora University Teaching \nHospital, Southern Ethiopia. \nMethods: An institution-based cross-sectional study was conducted with 183 consecutively enrolled participants \nbetween 1 January and 30 June 2023. Microbiological identiﬁcation and antimicrobial susceptibility testing of the \norganisms isolated from clinical samples were performed aseptically. Data were collected using a questionnaire \nand analysed using SPSS version 26. \nResults: The overall prevalence of surgical site infections was 15.8% (95% CI, 10.9-22). The predominant isolate \nwas Staphylococcus aureus (n = 14; 34.1%). There were 18 (43.9%) multidrug-resistant isolates. Age group > 54 \n(adjusted odds ratio [AOR] = 4.76, 95% CI, 1.10-20.560), hospital stay ≥ 10 days (AOR = 2.66, 95% CI, 1.06- \n6.66],), operation duration ≥ 2 hours (AOR = 2.64, 95% CI, 1.01-6.90), clean-contaminated wound (AOR = 3.17, \n95% CI, 1.21-8.30), open surgical site (AOR = 2.64, 95% CI, 1.02-6.86), and malnutrition (AOR = 4.3, 95% CI, \n1.42-12.97) were signiﬁcantly associated with surgical site infections. \nConclusions: The prevalence of surgical site infections and multidrug-resistant isolates is higher compared with \nWorld Health Organisation reports or previous studies. This ﬁnding emphasises the need for routine screening \nand antimicrobial susceptibility testing to prevent and control site infections. \nBackground \nSurgical site infection (SSI) is an infection that occurs after an inva- \nsive surgical procedure in parts of the body where surgery is performed. \nIt occurs within 30 days after surgery and aﬀects the incision or deep \ntissue at the surgical site [ 1 , 2 ]. SSI is responsible for over one-third \nof postoperative deaths [ 3 ]. These infections prolong the duration of \na patient’s hospital stay and, therefore, increase the cost of healthcare \n[ 3–5 ]. \nThe occurrence of SSIs is determined by the contamination level \nof the surgical site and the pathogenicity of microorganisms, balanced \nagainst the host’s immune response [ 5 ]. The level of surgical site con- \ntamination at the time of surgery inﬂuences the probability of SSIs. Sur- \ngical wounds are categorised as clean, clean-contaminated, or contami- \n∗ Corresponding author: (A. Aliyo); Tel: + 251968467458. \nE-mail address: alker438@gmail.com (A. Aliyo) . \nnated [ 6 , 7 ]. The predominant organisms isolated from SSIs are Staphy- \nlococcus aureus, Escherichia coli, Klebsiella, and Pseudomonas species [ 8–\n11 ]. An organism causing SSIs is usually derived from the host’s internal \nenvironment, surgical materials, or the theatre environment during the \noperation, leading to exogenous causes of infection. Therefore, infection \nprevention and control practices can minimise the risk of SSIs [ 12 ]. \nThe resistance patterns of bacteria vary globally. An increase in an- \ntimicrobial resistance in hospitals and communities, such as Methicillin- \nresistant S. aureus and Vancomycin-resistant S. aureus , is associated with \nthe use of antibiotics [ 13 , 14 ]. Although the development of antibiotic \nresistance presents a challenge to the eﬃcient management of bacte- \nrial infections, the introduction of antimicrobial therapy in SSI man- \nagement reduces treatment costs, prolonged hospital stays, and signiﬁ- \ncant morbidity and mortality caused by these infections [ 15 ]. Risk fac- \nhttps://doi.org/10.1016/j.ijregi.2024.100565 \nReceived 23 December 2024; Received in revised form 29 December 2024; Accepted 30 December 2024 \n2772-7076/© 2025 The Author(s). Published by Elsevier Ltd on behalf of International Society for Infectious Diseases. This is an open access article under the CC \nBY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ) \n",
+   "n_chars": 4833,
+   "n_images": 3,
+   "blocks": [
+    {
+     "bbox": [
+      247.7,
+      36.8,
+      351.6,
+      44.0
+     ],
+     "text": "IJID Regions 14 (2025) 100565 \n"
+    },
+    {
+     "bbox": [
+      213.6,
+      64.9,
+      357.4,
+      72.9
+     ],
+     "text": "Contents lists available at ScienceDirect \n"
+    },
+    {
+     "bbox": [
+      244.6,
+      90.5,
+      326.3,
+      104.5
+     ],
+     "text": "IJID Regions \n"
+    },
+    {
+     "bbox": [
+      189.3,
+      120.1,
+      381.6,
+      127.5
+     ],
+     "text": "journal homepage: www.elsevier.com/locate/ijregi \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      168.7,
+      473.1,
+      216.7
+     ],
+     "text": "Bacterial surgical site infections: prevalence, antimicrobial susceptibility \npatterns, and associated risk factors among patients at Bule Hora \nUniversity Teaching Hospital, Southern Ethiopia \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      226.9,
+      416.4,
+      251.7
+     ],
+     "text": "Kalicha Boru 1 , Alqeer Aliyo 1 , ∗ , Derese Daka 2 , Tibeso Gamachu 1 , Oliyad Husen 1 , \nZekarias Solomon 1 \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      257.2,
+      378.7,
+      274.6
+     ],
+     "text": "1 Department of Medical Laboratory Science, Institute of Health, Bule Hora University, Bule Hora, Ethiopia. \n2 Department of Medical Laboratory Science, College of Medicine and Health Sciences, Hawassa University, Hawassa, Ethiopia \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      300.1,
+      140.1,
+      309.1
+     ],
+     "text": "a r t i c l e \ni n f o \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      320.4,
+      119.4,
+      361.3
+     ],
+     "text": "Keywords: \nSurgical site \nAntimicrobial susceptibility \nBule Hora University \nTeaching hospital \n"
+    },
+    {
+     "bbox": [
+      202.3,
+      300.1,
+      274.6,
+      309.1
+     ],
+     "text": "a b s t r a c t \n"
+    },
+    {
+     "bbox": [
+      202.3,
+      320.6,
+      561.9,
+      356.5
+     ],
+     "text": "Objectives: Surgical site infections occur within 30 days of an invasive surgical procedure in the parts of the \nbody where the surgery is performed. Therefore, this study aimed to determine the prevalence, antimicrobial \nsusceptibility patterns, and associated risk factors of surgical site infections at Bule Hora University Teaching \nHospital, Southern Ethiopia. \n"
+    },
+    {
+     "bbox": [
+      202.3,
+      362.9,
+      561.8,
+      398.8
+     ],
+     "text": "Methods: An institution-based cross-sectional study was conducted with 183 consecutively enrolled participants \nbetween 1 January and 30 June 2023. Microbiological identiﬁcation and antimicrobial susceptibility testing of the \norganisms isolated from clinical samples were performed aseptically. Data were collected using a questionnaire \nand analysed using SPSS version 26. \n"
+    },
+    {
+     "bbox": [
+      202.3,
+      405.1,
+      562.0,
+      460.1
+     ],
+     "text": "Results: The overall prevalence of surgical site infections was 15.8% (95% CI, 10.9-22). The predominant isolate \nwas Staphylococcus aureus (n = 14; 34.1%). There were 18 (43.9%) multidrug-resistant isolates. Age group > 54 \n(adjusted odds ratio [AOR] = 4.76, 95% CI, 1.10-20.560), hospital stay ≥ 10 days (AOR = 2.66, 95% CI, 1.06- \n6.66],), operation duration ≥ 2 hours (AOR = 2.64, 95% CI, 1.01-6.90), clean-contaminated wound (AOR = 3.17, \n95% CI, 1.21-8.30), open surgical site (AOR = 2.64, 95% CI, 1.02-6.86), and malnutrition (AOR = 4.3, 95% CI, \n1.42-12.97) were signiﬁcantly associated with surgical site infections. \n"
+    },
+    {
+     "bbox": [
+      202.3,
+      466.5,
+      561.8,
+      492.8
+     ],
+     "text": "Conclusions: The prevalence of surgical site infections and multidrug-resistant isolates is higher compared with \nWorld Health Organisation reports or previous studies. This ﬁnding emphasises the need for routine screening \nand antimicrobial susceptibility testing to prevent and control site infections. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      519.2,
+      86.8,
+      527.3
+     ],
+     "text": "Background \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      540.2,
+      292.7,
+      610.9
+     ],
+     "text": "Surgical site infection (SSI) is an infection that occurs after an inva- \nsive surgical procedure in parts of the body where surgery is performed. \nIt occurs within 30 days after surgery and aﬀects the incision or deep \ntissue at the surgical site [ 1 , 2 ]. SSI is responsible for over one-third \nof postoperative deaths [ 3 ]. These infections prolong the duration of \na patient’s hospital stay and, therefore, increase the cost of healthcare \n[ 3–5 ]. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      613.4,
+      292.7,
+      663.3
+     ],
+     "text": "The occurrence of SSIs is determined by the contamination level \nof the surgical site and the pathogenicity of microorganisms, balanced \nagainst the host’s immune response [ 5 ]. The level of surgical site con- \ntamination at the time of surgery inﬂuences the probability of SSIs. Sur- \ngical wounds are categorised as clean, clean-contaminated, or contami- \n"
+    },
+    {
+     "bbox": [
+      43.8,
+      684.9,
+      237.8,
+      694.2
+     ],
+     "text": "∗ Corresponding author: (A. Aliyo); Tel: + 251968467458. \n"
+    },
+    {
+     "bbox": [
+      49.9,
+      696.5,
+      204.6,
+      703.7
+     ],
+     "text": "E-mail address: alker438@gmail.com (A. Aliyo) . \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      519.3,
+      561.7,
+      579.6
+     ],
+     "text": "nated [ 6 , 7 ]. The predominant organisms isolated from SSIs are Staphy- \nlococcus aureus, Escherichia coli, Klebsiella, and Pseudomonas species [ 8–\n11 ]. An organism causing SSIs is usually derived from the host’s internal \nenvironment, surgical materials, or the theatre environment during the \noperation, leading to exogenous causes of infection. Therefore, infection \nprevention and control practices can minimise the risk of SSIs [ 12 ]. \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      582.0,
+      561.7,
+      663.3
+     ],
+     "text": "The resistance patterns of bacteria vary globally. An increase in an- \ntimicrobial resistance in hospitals and communities, such as Methicillin- \nresistant S. aureus and Vancomycin-resistant S. aureus , is associated with \nthe use of antibiotics [ 13 , 14 ]. Although the development of antibiotic \nresistance presents a challenge to the eﬃcient management of bacte- \nrial infections, the introduction of antimicrobial therapy in SSI man- \nagement reduces treatment costs, prolonged hospital stays, and signiﬁ- \ncant morbidity and mortality caused by these infections [ 15 ]. Risk fac- \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      713.8,
+      556.6,
+      749.7
+     ],
+     "text": "https://doi.org/10.1016/j.ijregi.2024.100565 \nReceived 23 December 2024; Received in revised form 29 December 2024; Accepted 30 December 2024 \n2772-7076/© 2025 The Author(s). Published by Elsevier Ltd on behalf of International Society for Infectious Diseases. This is an open access article under the CC \nBY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ) \n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\ntors for developing SSIs include patient age, duration of surgery, pro- \nlonged hospital stay, comorbidities, malnutrition, and the surgical site \n[ 16 , 17 ]. \nSSIs are among the most common postoperative complications and \nrepresent the most common type of health-care-associated infection \n(HAI) in both developed and developing countries [ 6 , 9 , 18 ]. They are \nresponsible for approximately 20% of readmissions [ 19 ]. SSIs lead to in- \ncreased mortality, morbidity, reoperation, prolonged hospital stays, loss \nof daily wages, and increased healthcare costs, all of which are consid- \nerably higher in cases involving antimicrobial-resistant organisms [ 20 ]. \nThe global proportion of SSIs ranges from 2.5-41.9%, with a high risk \nof HAI in patients undergoing surgery, and 77% of hospital-acquired in- \nfections are related to SSIs [ 21 ]. In the USA, the proportion of SSIs is \n2-5%, accounting for 3% of postoperative mortality [ 8 ]. In Latin Amer- \nica, Asia, and China, SSI prevalence has been reported at 7%, 4%, and \n4%, respectively [ 22 ]. \nIn developing countries, the prevalence of SSIs is higher than in the \ndeveloped world, with varied reports [ 23 ]. In African hospitals, SSIs \nare the primary infections [ 24 ], with a cumulative incidence ranging \nfrom 2.5-30.9% [ 3 , 25 ]. In Ethiopia, the incidence rate of SSIs ranges \nfrom 10.9-75% [ 26 , 27 ]. The antimicrobial resistance patterns of bac- \nteria related to SSIs vary globally, depending on local epidemiology \nreports, region, and susceptibility testing methodology. Bacterial resis- \ntance presents a signiﬁcant challenge and requires complex treatment. \nMost antimicrobial resistance data have been obtained from advanced \ncountries [ 28 ]. Limited reports exist on the prevalence and incidence of \nresistant bacteria causing SSIs, especially in developing countries [ 29 ]. \nMethods and materials \nStudy area, period and design \nThe study was conducted at Bule Hora University Teaching Hospital, \nwhich is located in Bule Hora town, from 1 January to 30 June 2023. The \ntown is situated 470 km from Addis Ababa, the capital of Ethiopia. Bule \nHora University Teaching Hospital was established in 1990 E.C. and \ncurrently provides healthcare services to more than 1.3 million people \nin Bule Hora and neighbouring regions, including the Southern Nations, \nNationalities, and Peoples’ Region. This was an institution-based, cross- \nsectional study. \nStudy population \nThe study population comprised all individuals who underwent sur- \ngical treatment at Bule Hora University Teaching Hospital during the \nstudy period and exhibited signs of SSIs. \nInclusion and exclusion criteria \nAll patients with signs of SSI, based on the criteria stated by the \nWorld Health Organisation (WHO) and the Centers for Disease Control \nand Prevention (CDC) during the data collection period, were included. \nPatients with incomplete charts, those who underwent surgery at an- \nother institution, and those with nonoperative wounds or abscesses were \nexcluded. \nSample size determination \nThe sample size was calculated using a single population proportion \nformula, considering a 95% conﬁdence level (CI), a 5% margin of error, \nand a 13% estimated proportion of SSIs among patients who underwent \nsurgery in Ethiopia [ 31 ]. \nn =\nZ2 \n𝛼∕2 P ( 1 − p ) \nd2 \n= n = (1 . 96 2 )( 0 . 13 ) ( 1 − 0 . 13 ) \n0 . 05 2 \n= 174 + 5% = 183 \nSampling technique and data collection procedure \nSamples were collected consecutively from all participants who ful- \nﬁlled the inclusion criteria until the required sample size was obtained. \nTwo trained nurses collected data and samples under the supervision of \nthe principal investigator. Training was provided to the data collectors \nfor two days (one day theoretical and one day practical) by a principal \ninvestigator prior to data and sample collection. Sociodemographic and \nclinical data were collected using a predesigned semi-structured ques- \ntionnaire through face-to-face interviews and medical record reviews. \nThis study followed the CDC SSI surveillance methods [ 31 ]. \nThe clinical diagnosis of SSIs was performed by the attending physi- \ncian. Clinical features of the surgical site, such as pain, redness, swelling, \nwarm skin around the wound, yellow or green discharge, unpleasant \nodour, fever, and chills, were considered indicative of SSI. Participants \nwere asked to sign an informed consent form before participating in \nthe study. Wound swabs were collected aseptically using sterile cotton \nswabs, and deep wound aspirates were collected aseptically by trained \nnurses. Specimens were coded using a speciﬁc identiﬁcation number. \nThe sample was transported to the Medical Laboratory Sciences Depart- \nment microbiology skill laboratory of Bule Hora University within 2- \n4 hours using Amies transport medium, maintaining a temperature of \n37°C. \nMicrobiological analysis \nCulture and identiﬁcation \nClinical samples collected were seeded on blood agar, nutritional \nagar, MacConkey agar, and mannitol salt agar, then incubated for 24-48 \nhours at 37°C to observe bacterial growth. The organisms were identi- \nﬁed based on colony characteristics, haemolytic appearance, diﬀerential \nproperties of the culture media, and Gram reaction [ 32 , 33 ]. Identiﬁca- \ntion by biochemical tests, including catalase and coagulase for Gram- \npositive cocci, as well as catalase, oxidase, urease, indole, and citrate \nutilisation, lysine decarboxylation, glucose and lactose fermentation, \ngas and H2 S production, and motility tests, was performed [ 34 ]. \nAntimicrobial susceptibility test \nThe antimicrobial susceptibility patterns of the isolated organisms \nagainst locally available antimicrobials were determined using the \nKirby-Bauer agar diﬀusion method on Mueller-Hinton agar. Three to ﬁve \ncolonies from the overnight growth strains were inoculated into a tube \ncontaining peptone broth and incubated overnight at 37°C. Standard- \nisation of the inoculum was performed by diluting the broth cultures \nuntil turbidity matched the 0.5 McFarland standard, according to the \nrecommendations of the Clinical Laboratory Standards Institute (CLSI) \n[ 36 , 37 ]. Antibiotic discs were placed using sterile forceps, and the plates \nwere incubated for 24 hours at 37°C. The diameter of the zone of inhi- \nbition around the discs was measured and recorded to the nearest mil- \nlimetre using a ruler, and the isolates were classiﬁed as sensitive, inter- \nmediate, or resistant based on the CLSI standard table [ 38 ]. Antimicro- \nbial susceptibility tests were carried out using the following antibiotics \n(Oxoid, UK): Amoxicillin (AMC, 20/10 μg), Ceftriaxone (CRO, 30 μg), \nAmpicillin (AMP, 25 μg), Cloxacillin (COX, 5 μg), Ceftazidime (CAZ, \n30 μg), Cefoxitin (FOX, 30 μg), Gentamicin (GN, 10 μg), Clindamycin \n(DA, 2 μg), Penicillin (P, 10 μg), Tetracycline (TE, 30 μg), and Chloram- \nphenicol (CAP, 30 μg). The selection of antimicrobials was based on the \navailability of drugs in the study area and recent CLSI recommendations \n[ 35 ]. \nQuality assurance \nThe questionnaire was initially developed in English and translated \ninto Afaan Oromoo by consulting experts from related ﬁelds. Pretest- \ning of the questionnaire and processing of all activities were performed \nusing the principal investigator. For all microbiological investigations, \n2\n",
+   "n_chars": 7430,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      37.9,
+      37.0,
+      558.0,
+      43.4
+     ],
+     "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\n"
+    },
+    {
+     "bbox": [
+      37.9,
+      57.8,
+      292.6,
+      86.7
+     ],
+     "text": "tors for developing SSIs include patient age, duration of surgery, pro- \nlonged hospital stay, comorbidities, malnutrition, and the surgical site \n[ 16 , 17 ]. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      89.2,
+      292.7,
+      337.8
+     ],
+     "text": "SSIs are among the most common postoperative complications and \nrepresent the most common type of health-care-associated infection \n(HAI) in both developed and developing countries [ 6 , 9 , 18 ]. They are \nresponsible for approximately 20% of readmissions [ 19 ]. SSIs lead to in- \ncreased mortality, morbidity, reoperation, prolonged hospital stays, loss \nof daily wages, and increased healthcare costs, all of which are consid- \nerably higher in cases involving antimicrobial-resistant organisms [ 20 ]. \nThe global proportion of SSIs ranges from 2.5-41.9%, with a high risk \nof HAI in patients undergoing surgery, and 77% of hospital-acquired in- \nfections are related to SSIs [ 21 ]. In the USA, the proportion of SSIs is \n2-5%, accounting for 3% of postoperative mortality [ 8 ]. In Latin Amer- \nica, Asia, and China, SSI prevalence has been reported at 7%, 4%, and \n4%, respectively [ 22 ]. \nIn developing countries, the prevalence of SSIs is higher than in the \ndeveloped world, with varied reports [ 23 ]. In African hospitals, SSIs \nare the primary infections [ 24 ], with a cumulative incidence ranging \nfrom 2.5-30.9% [ 3 , 25 ]. In Ethiopia, the incidence rate of SSIs ranges \nfrom 10.9-75% [ 26 , 27 ]. The antimicrobial resistance patterns of bac- \nteria related to SSIs vary globally, depending on local epidemiology \nreports, region, and susceptibility testing methodology. Bacterial resis- \ntance presents a signiﬁcant challenge and requires complex treatment. \nMost antimicrobial resistance data have been obtained from advanced \ncountries [ 28 ]. Limited reports exist on the prevalence and incidence of \nresistant bacteria causing SSIs, especially in developing countries [ 29 ]. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      353.2,
+      128.2,
+      361.3
+     ],
+     "text": "Methods and materials \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      374.2,
+      140.3,
+      382.2
+     ],
+     "text": "Study area, period and design \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      395.1,
+      292.7,
+      476.4
+     ],
+     "text": "The study was conducted at Bule Hora University Teaching Hospital, \nwhich is located in Bule Hora town, from 1 January to 30 June 2023. The \ntown is situated 470 km from Addis Ababa, the capital of Ethiopia. Bule \nHora University Teaching Hospital was established in 1990 E.C. and \ncurrently provides healthcare services to more than 1.3 million people \nin Bule Hora and neighbouring regions, including the Southern Nations, \nNationalities, and Peoples’ Region. This was an institution-based, cross- \nsectional study. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      491.9,
+      97.7,
+      499.9
+     ],
+     "text": "Study population \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      512.8,
+      292.6,
+      541.7
+     ],
+     "text": "The study population comprised all individuals who underwent sur- \ngical treatment at Bule Hora University Teaching Hospital during the \nstudy period and exhibited signs of SSIs. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      557.2,
+      145.2,
+      565.3
+     ],
+     "text": "Inclusion and exclusion criteria \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      578.2,
+      292.6,
+      638.5
+     ],
+     "text": "All patients with signs of SSI, based on the criteria stated by the \nWorld Health Organisation (WHO) and the Centers for Disease Control \nand Prevention (CDC) during the data collection period, were included. \nPatients with incomplete charts, those who underwent surgery at an- \nother institution, and those with nonoperative wounds or abscesses were \nexcluded. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      654.0,
+      128.0,
+      662.0
+     ],
+     "text": "Sample size determination \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      674.9,
+      292.6,
+      714.3
+     ],
+     "text": "The sample size was calculated using a single population proportion \nformula, considering a 95% conﬁdence level (CI), a 5% margin of error, \nand a 13% estimated proportion of SSIs among patients who underwent \nsurgery in Ethiopia [ 31 ]. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      731.3,
+      49.6,
+      738.6
+     ],
+     "text": "n =\n"
+    },
+    {
+     "bbox": [
+      53.0,
+      720.4,
+      64.2,
+      730.1
+     ],
+     "text": "Z2 \n"
+    },
+    {
+     "bbox": [
+      57.9,
+      722.8,
+      100.3,
+      733.0
+     ],
+     "text": "𝛼∕2 P ( 1 − p ) \n"
+    },
+    {
+     "bbox": [
+      71.2,
+      723.2,
+      205.4,
+      744.8
+     ],
+     "text": "d2 \n= n = (1 . 96 2 )( 0 . 13 ) ( 1 − 0 . 13 ) \n"
+    },
+    {
+     "bbox": [
+      155.0,
+      731.3,
+      271.7,
+      745.9
+     ],
+     "text": "0 . 05 2 \n= 174 + 5% = 183 \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      57.8,
+      475.7,
+      65.8
+     ],
+     "text": "Sampling technique and data collection procedure \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      78.7,
+      561.7,
+      170.4
+     ],
+     "text": "Samples were collected consecutively from all participants who ful- \nﬁlled the inclusion criteria until the required sample size was obtained. \nTwo trained nurses collected data and samples under the supervision of \nthe principal investigator. Training was provided to the data collectors \nfor two days (one day theoretical and one day practical) by a principal \ninvestigator prior to data and sample collection. Sociodemographic and \nclinical data were collected using a predesigned semi-structured ques- \ntionnaire through face-to-face interviews and medical record reviews. \nThis study followed the CDC SSI surveillance methods [ 31 ]. \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      172.8,
+      561.6,
+      295.9
+     ],
+     "text": "The clinical diagnosis of SSIs was performed by the attending physi- \ncian. Clinical features of the surgical site, such as pain, redness, swelling, \nwarm skin around the wound, yellow or green discharge, unpleasant \nodour, fever, and chills, were considered indicative of SSI. Participants \nwere asked to sign an informed consent form before participating in \nthe study. Wound swabs were collected aseptically using sterile cotton \nswabs, and deep wound aspirates were collected aseptically by trained \nnurses. Specimens were coded using a speciﬁc identiﬁcation number. \nThe sample was transported to the Medical Laboratory Sciences Depart- \nment microbiology skill laboratory of Bule Hora University within 2- \n4 hours using Amies transport medium, maintaining a temperature of \n37°C. \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      309.0,
+      390.3,
+      317.0
+     ],
+     "text": "Microbiological analysis \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      329.9,
+      395.5,
+      337.9
+     ],
+     "text": "Culture and identiﬁcation \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      340.4,
+      561.7,
+      433.6
+     ],
+     "text": "Clinical samples collected were seeded on blood agar, nutritional \nagar, MacConkey agar, and mannitol salt agar, then incubated for 24-48 \nhours at 37°C to observe bacterial growth. The organisms were identi- \nﬁed based on colony characteristics, haemolytic appearance, diﬀerential \nproperties of the culture media, and Gram reaction [ 32 , 33 ]. Identiﬁca- \ntion by biochemical tests, including catalase and coagulase for Gram- \npositive cocci, as well as catalase, oxidase, urease, indole, and citrate \nutilisation, lysine decarboxylation, glucose and lactose fermentation, \ngas and H2 S production, and motility tests, was performed [ 34 ]. \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      445.2,
+      413.5,
+      453.2
+     ],
+     "text": "Antimicrobial susceptibility test \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      455.6,
+      561.7,
+      672.8
+     ],
+     "text": "The antimicrobial susceptibility patterns of the isolated organisms \nagainst locally available antimicrobials were determined using the \nKirby-Bauer agar diﬀusion method on Mueller-Hinton agar. Three to ﬁve \ncolonies from the overnight growth strains were inoculated into a tube \ncontaining peptone broth and incubated overnight at 37°C. Standard- \nisation of the inoculum was performed by diluting the broth cultures \nuntil turbidity matched the 0.5 McFarland standard, according to the \nrecommendations of the Clinical Laboratory Standards Institute (CLSI) \n[ 36 , 37 ]. Antibiotic discs were placed using sterile forceps, and the plates \nwere incubated for 24 hours at 37°C. The diameter of the zone of inhi- \nbition around the discs was measured and recorded to the nearest mil- \nlimetre using a ruler, and the isolates were classiﬁed as sensitive, inter- \nmediate, or resistant based on the CLSI standard table [ 38 ]. Antimicro- \nbial susceptibility tests were carried out using the following antibiotics \n(Oxoid, UK): Amoxicillin (AMC, 20/10 μg), Ceftriaxone (CRO, 30 μg), \nAmpicillin (AMP, 25 μg), Cloxacillin (COX, 5 μg), Ceftazidime (CAZ, \n30 μg), Cefoxitin (FOX, 30 μg), Gentamicin (GN, 10 μg), Clindamycin \n(DA, 2 μg), Penicillin (P, 10 μg), Tetracycline (TE, 30 μg), and Chloram- \nphenicol (CAP, 30 μg). The selection of antimicrobials was based on the \navailability of drugs in the study area and recent CLSI recommendations \n[ 35 ]. \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      685.9,
+      369.7,
+      693.9
+     ],
+     "text": "Quality assurance \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      706.8,
+      561.6,
+      746.2
+     ],
+     "text": "The questionnaire was initially developed in English and translated \ninto Afaan Oromoo by consulting experts from related ﬁelds. Pretest- \ning of the questionnaire and processing of all activities were performed \nusing the principal investigator. For all microbiological investigations, \n"
+    },
+    {
+     "bbox": [
+      296.1,
+      760.4,
+      299.7,
+      766.8
+     ],
+     "text": "2\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\nswabs were collected using an aseptic technique. All laboratory pro- \ncesses were quality assured using standard operative procedures and \nquality control. All swabs and isolation procedures were performed \naseptically. Media were prepared according to the manufacturer’s in- \nstructions, and sterility was tested. E. coli ( ATCC 25922 ), S. aureus \n(ATCC 25923), and P. aeruginosa (ATCC 27853) strains were used to \ncheck the quality of the prepared media and the antimicrobial suscep- \ntibility testing procedure. All laboratory microbiological results were \nchecked, recorded, and documented. \nData analysis \nThe collected data were coded, entered by EpiData version 4.6, then \nexported to the Statistical Package for the Social Sciences (SPSS) version \n26 software program for analysis. Data were organised, summarised, \nand presented using descriptive statistics. Bivariate and multivariate lo- \ngistic regression analyses were performed to assess associations between \nvariables. The strength of the association between SSIs and risk factors \nwas expressed using the adjusted odds ratio. Variables with a P -value \n< 0.25 in the bivariate analysis were further analysed using multivari- \nate logistic regression. A multivariate logistic regression analysis model \nwas ﬁtted to control for confounders and obtain independent predictors \nof the prevalence of SSI. A backward stepwise regression was used. A \nP -value < 0.05, with 95% CI, was considered statistically signiﬁcant. \nResults \nSociodemographic characteristics of the study participants \nIn total, 183 participants were enrolled in this study. The age of re- \nspondents ranged from 1-95 years, with a mean age of 31.65 ( ± 19.357). \nMost study participants (40.5%) were in the age range of 19-36 years. \nAmong the participants, males accounted for 55.2%, and more than half \nof the participants were rural residents (57.4%). A total of 50.3% of the \nparticipants had no formal education, and most (72.7%) were unem- \nployed ( Table 1 ). \nDistribution of clinical factors \nConcerning clinical factors, 130 (71.0%) participants had no his- \ntory of hospitalisation, and 167 (91.3%) were admitted to the public \nwing ward. Among all respondents, 100 (54.6%) had a hospital stay of \nless than 10 days. Emergency surgery was performed in approximately \n139 (76.0%) participants, and for 146 (79.8%) participants, the pro- \ncedure took less than two hours. Local anaesthesia was administered \n117 (63.9%) participants; 38 (20.8 %) had a clean-contaminated wound, \n45(24.6%) had an open surgical site, and 23(12.6%) showed signs and \nsymptoms of malnutrition. Antibiotic prophylaxis was administered to \nTable 1 \nSociodemographic characteristics of study participants in Bule Hora University \nTeaching Hospital, Bule Hora, 2023 (n = 183). \nVariables \nCategory \nFrequency \nNumber (N) \nPercent (%) \nSex \nMale \n101 \n55.2 \nFemale \n82 \n44.8 \nAge group \n1-18 \n46 \n25.1 \n19-36 \n74 \n40.5 \n37-54 \n35 \n19.1 \n> 54 \n28 \n15.3 \nResidence \nUrban \n78 \n42.6 \nRural \n105 \n57.4 \nHave a formal education \nYes \n91 \n49.7 \nNo \n92 \n50.3 \nOccupation \nEmployed \n50 \n27.3 \nUnemployed \n133 \n72.7 \nTable 2 \nDistribution of clinical factors associated with SSIs at Bule Hora University \nTeaching Hospital, Bule Hora, 2023. \nVariables \nCategory \nFrequency \nNumber (N) \nPercent (%) \nHistory of previous \nhospitalisations \nYes \n53 \n29.0 \nNo \n130 \n71.0 \nWard condition \nPrivate \n16 \n8.7 \nPublic \n167 \n91.3 \nTotal duration of \nhospital stays \n< 10 days \n100 \n54.6 \n≥ 10 days \n83 \n45.4 \nDuration of operation \n< 2 hours \n146 \n79.8 \n≥ 2 hours \n37 \n20.2 \nType of surgery \nElective \n44 \n24.0 \nEmergency \n139 \n76.0 \nType of anaesthesia \nLocal \n117 \n63.9 \nGeneral \n66 \n36.1 \nType of wound \nClean \n145 \n79.2 \nClean-contaminated \n38 \n20.8 \nCondition of surgical \nsite \nOpened \n45 \n24.6 \nClosed \n138 \n75.4 \nImplant inserted at \nsurgical site \nYes \n34 \n18.6 \nNo \n149 \n81.4 \nAntibiotic prophylaxis \ngiven \nYes \n97 \n53.0 \nNo \n86 \n47.0 \nHistory of alcohol use \nYes \n41 \n22.4 \nNo \n142 \n77.6 \nSymptom of \nmalnutrition \nYes \n23 \n12.6 \nNo \n160 \n87.4 \n97 (53.0%) participants, and 34(18.6%) had an implant inserted at the \nsite of surgery ( Table 2 ). \nPrevalence of surgical site infections \nIn this study, the general prevalence of culture-conﬁrmed SSIs was \n15.8% (29/183) (95% CI, 10.9-22) . A total of 41 bacteria were iso- \nlated, and about 21(51.2%) of them were Gram-positive cocci, whereas \nthe remaining 20 (48.8%) were Gram-negative rods. Approximately 12 \n(44.4%) swabs showed mixed bacterial growth, and the remaining were \nsingle bacterial isolates. S. aureus (14, 34.1%) was the predominant iso- \nlate, followed by coagulase-negative staphylococci (7, 17.1%), E. coli (6, \n14.6%), P. aerogenosa (6, 14.6%), Klebsiella spp. (5, 12.2%), and Proteus \nspp. (3, 7.3%) . \nAntimicrobial susceptibility patterns \nAntimicrobial susceptibility patterns for Gram-positive isolates \nOf the 14 (34.1%) S. aureus isolates, the highest sensitivity was ob- \nserved for CAP (13, 92.9%), followed by DA (12, 85.7%), ciproﬂoxacin \n(10, 71.4%), cloxacillin (10, 71.4%), COX (9, 64.3%), AMC (8, 57.1%) \nand FOX (6, 42.9%). The highest resistance rates were observed for CAZ \n(11, 78.6%) and P (11, 78.6%). Additionally, 8 (57.1%) of S. aureus \nisolates were resistant to FOX, indicating the presence of Methicillin- \nresistant S. aureus . \nThe antimicrobial susceptibility patterns of coagulase-negative \nstaphylococci showed the highest sensitivity for COX (7, 100%), AMC \n(7, 100%) and CAP (7, 100%), followed by CRO, ciproﬂoxacin, and DA \n(6, 85.7%) each, and FOX (4, 57.1%), whereas the highest resistance \nwas observed for P (5, 71.4%), followed by CAZ (4, 57.1%) ( Table 3 ). \nAntimicrobial susceptibility patterns for Gram-negative isolates \nIn this study, Gram-negative Enterobacteriaceae, such as E. coli, \nP. aerogenosa, Klebsiella spp. and Proteus spp. were isolated. Of the \nsix (14.6%) E. coli isolates, the highest sensitivity was observed for \nciproﬂoxacin (5, 83.3%), followed by TE (4, 66.7%), CRO (3, 50%), \nand GN (3, 50%). The highest resistance was observed against CAZ (5, \n83.3%) and AMP (5, 83.3%), followed by P (4, 66.7%) and AMC (4, \n67.7%). \n3\n",
+   "n_chars": 6234,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      37.9,
+      37.0,
+      558.0,
+      43.4
+     ],
+     "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\n"
+    },
+    {
+     "bbox": [
+      37.9,
+      57.8,
+      292.6,
+      149.5
+     ],
+     "text": "swabs were collected using an aseptic technique. All laboratory pro- \ncesses were quality assured using standard operative procedures and \nquality control. All swabs and isolation procedures were performed \naseptically. Media were prepared according to the manufacturer’s in- \nstructions, and sterility was tested. E. coli ( ATCC 25922 ), S. aureus \n(ATCC 25923), and P. aeruginosa (ATCC 27853) strains were used to \ncheck the quality of the prepared media and the antimicrobial suscep- \ntibility testing procedure. All laboratory microbiological results were \nchecked, recorded, and documented. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      162.1,
+      86.3,
+      170.1
+     ],
+     "text": "Data analysis \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      183.0,
+      292.6,
+      306.1
+     ],
+     "text": "The collected data were coded, entered by EpiData version 4.6, then \nexported to the Statistical Package for the Social Sciences (SPSS) version \n26 software program for analysis. Data were organised, summarised, \nand presented using descriptive statistics. Bivariate and multivariate lo- \ngistic regression analyses were performed to assess associations between \nvariables. The strength of the association between SSIs and risk factors \nwas expressed using the adjusted odds ratio. Variables with a P -value \n< 0.25 in the bivariate analysis were further analysed using multivari- \nate logistic regression. A multivariate logistic regression analysis model \nwas ﬁtted to control for confounders and obtain independent predictors \nof the prevalence of SSI. A backward stepwise regression was used. A \nP -value < 0.05, with 95% CI, was considered statistically signiﬁcant. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      318.7,
+      68.8,
+      326.8
+     ],
+     "text": "Results \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      339.7,
+      233.4,
+      347.7
+     ],
+     "text": "Sociodemographic characteristics of the study participants \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      360.6,
+      292.7,
+      431.4
+     ],
+     "text": "In total, 183 participants were enrolled in this study. The age of re- \nspondents ranged from 1-95 years, with a mean age of 31.65 ( ± 19.357). \nMost study participants (40.5%) were in the age range of 19-36 years. \nAmong the participants, males accounted for 55.2%, and more than half \nof the participants were rural residents (57.4%). A total of 50.3% of the \nparticipants had no formal education, and most (72.7%) were unem- \nployed ( Table 1 ). \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      444.0,
+      140.0,
+      452.0
+     ],
+     "text": "Distribution of clinical factors \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      464.9,
+      292.6,
+      556.6
+     ],
+     "text": "Concerning clinical factors, 130 (71.0%) participants had no his- \ntory of hospitalisation, and 167 (91.3%) were admitted to the public \nwing ward. Among all respondents, 100 (54.6%) had a hospital stay of \nless than 10 days. Emergency surgery was performed in approximately \n139 (76.0%) participants, and for 146 (79.8%) participants, the pro- \ncedure took less than two hours. Local anaesthesia was administered \n117 (63.9%) participants; 38 (20.8 %) had a clean-contaminated wound, \n45(24.6%) had an open surgical site, and 23(12.6%) showed signs and \nsymptoms of malnutrition. Antibiotic prophylaxis was administered to \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      575.9,
+      292.6,
+      602.3
+     ],
+     "text": "Table 1 \nSociodemographic characteristics of study participants in Bule Hora University \nTeaching Hospital, Bule Hora, 2023 (n = 183). \n"
+    },
+    {
+     "bbox": [
+      43.9,
+      619.5,
+      166.9,
+      626.1
+     ],
+     "text": "Variables \nCategory \n"
+    },
+    {
+     "bbox": [
+      195.7,
+      610.9,
+      228.3,
+      617.5
+     ],
+     "text": "Frequency \n"
+    },
+    {
+     "bbox": [
+      195.7,
+      624.6,
+      283.8,
+      631.3
+     ],
+     "text": "Number (N) \nPercent (%) \n"
+    },
+    {
+     "bbox": [
+      43.9,
+      638.4,
+      263.0,
+      739.3
+     ],
+     "text": "Sex \nMale \n101 \n55.2 \nFemale \n82 \n44.8 \nAge group \n1-18 \n46 \n25.1 \n19-36 \n74 \n40.5 \n37-54 \n35 \n19.1 \n> 54 \n28 \n15.3 \nResidence \nUrban \n78 \n42.6 \nRural \n105 \n57.4 \nHave a formal education \nYes \n91 \n49.7 \nNo \n92 \n50.3 \nOccupation \nEmployed \n50 \n27.3 \nUnemployed \n133 \n72.7 \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      57.0,
+      561.6,
+      83.4
+     ],
+     "text": "Table 2 \nDistribution of clinical factors associated with SSIs at Bule Hora University \nTeaching Hospital, Bule Hora, 2023. \n"
+    },
+    {
+     "bbox": [
+      312.9,
+      100.6,
+      415.6,
+      107.2
+     ],
+     "text": "Variables \nCategory \n"
+    },
+    {
+     "bbox": [
+      458.7,
+      92.0,
+      491.4,
+      98.6
+     ],
+     "text": "Frequency \n"
+    },
+    {
+     "bbox": [
+      458.7,
+      105.7,
+      554.0,
+      112.3
+     ],
+     "text": "Number (N) \nPercent (%) \n"
+    },
+    {
+     "bbox": [
+      312.9,
+      119.5,
+      370.4,
+      134.7
+     ],
+     "text": "History of previous \nhospitalisations \n"
+    },
+    {
+     "bbox": [
+      312.9,
+      119.5,
+      533.2,
+      169.0
+     ],
+     "text": "Yes \n53 \n29.0 \nNo \n130 \n71.0 \nWard condition \nPrivate \n16 \n8.7 \nPublic \n167 \n91.3 \nTotal duration of \nhospital stays \n"
+    },
+    {
+     "bbox": [
+      312.9,
+      153.8,
+      533.2,
+      254.7
+     ],
+     "text": "< 10 days \n100 \n54.6 \n≥ 10 days \n83 \n45.4 \nDuration of operation \n< 2 hours \n146 \n79.8 \n≥ 2 hours \n37 \n20.2 \nType of surgery \nElective \n44 \n24.0 \nEmergency \n139 \n76.0 \nType of anaesthesia \nLocal \n117 \n63.9 \nGeneral \n66 \n36.1 \nType of wound \nClean \n145 \n79.2 \nClean-contaminated \n38 \n20.8 \nCondition of surgical \nsite \n"
+    },
+    {
+     "bbox": [
+      312.9,
+      239.5,
+      533.2,
+      271.8
+     ],
+     "text": "Opened \n45 \n24.6 \nClosed \n138 \n75.4 \nImplant inserted at \nsurgical site \n"
+    },
+    {
+     "bbox": [
+      312.9,
+      256.6,
+      533.2,
+      288.9
+     ],
+     "text": "Yes \n34 \n18.6 \nNo \n149 \n81.4 \nAntibiotic prophylaxis \ngiven \n"
+    },
+    {
+     "bbox": [
+      312.9,
+      273.7,
+      533.2,
+      323.2
+     ],
+     "text": "Yes \n97 \n53.0 \nNo \n86 \n47.0 \nHistory of alcohol use \nYes \n41 \n22.4 \nNo \n142 \n77.6 \nSymptom of \nmalnutrition \n"
+    },
+    {
+     "bbox": [
+      387.0,
+      308.0,
+      533.2,
+      323.2
+     ],
+     "text": "Yes \n23 \n12.6 \nNo \n160 \n87.4 \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      342.1,
+      561.6,
+      360.6
+     ],
+     "text": "97 (53.0%) participants, and 34(18.6%) had an implant inserted at the \nsite of surgery ( Table 2 ). \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      373.0,
+      429.8,
+      381.0
+     ],
+     "text": "Prevalence of surgical site infections \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      394.0,
+      561.6,
+      485.6
+     ],
+     "text": "In this study, the general prevalence of culture-conﬁrmed SSIs was \n15.8% (29/183) (95% CI, 10.9-22) . A total of 41 bacteria were iso- \nlated, and about 21(51.2%) of them were Gram-positive cocci, whereas \nthe remaining 20 (48.8%) were Gram-negative rods. Approximately 12 \n(44.4%) swabs showed mixed bacterial growth, and the remaining were \nsingle bacterial isolates. S. aureus (14, 34.1%) was the predominant iso- \nlate, followed by coagulase-negative staphylococci (7, 17.1%), E. coli (6, \n14.6%), P. aerogenosa (6, 14.6%), Klebsiella spp. (5, 12.2%), and Proteus \nspp. (3, 7.3%) . \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      498.1,
+      428.7,
+      506.1
+     ],
+     "text": "Antimicrobial susceptibility patterns \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      519.0,
+      515.6,
+      527.0
+     ],
+     "text": "Antimicrobial susceptibility patterns for Gram-positive isolates \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      529.5,
+      561.6,
+      600.3
+     ],
+     "text": "Of the 14 (34.1%) S. aureus isolates, the highest sensitivity was ob- \nserved for CAP (13, 92.9%), followed by DA (12, 85.7%), ciproﬂoxacin \n(10, 71.4%), cloxacillin (10, 71.4%), COX (9, 64.3%), AMC (8, 57.1%) \nand FOX (6, 42.9%). The highest resistance rates were observed for CAZ \n(11, 78.6%) and P (11, 78.6%). Additionally, 8 (57.1%) of S. aureus \nisolates were resistant to FOX, indicating the presence of Methicillin- \nresistant S. aureus . \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      602.7,
+      561.6,
+      652.6
+     ],
+     "text": "The antimicrobial susceptibility patterns of coagulase-negative \nstaphylococci showed the highest sensitivity for COX (7, 100%), AMC \n(7, 100%) and CAP (7, 100%), followed by CRO, ciproﬂoxacin, and DA \n(6, 85.7%) each, and FOX (4, 57.1%), whereas the highest resistance \nwas observed for P (5, 71.4%), followed by CAZ (4, 57.1%) ( Table 3 ). \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      665.0,
+      517.9,
+      673.0
+     ],
+     "text": "Antimicrobial susceptibility patterns for Gram-negative isolates \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      675.5,
+      561.7,
+      746.2
+     ],
+     "text": "In this study, Gram-negative Enterobacteriaceae, such as E. coli, \nP. aerogenosa, Klebsiella spp. and Proteus spp. were isolated. Of the \nsix (14.6%) E. coli isolates, the highest sensitivity was observed for \nciproﬂoxacin (5, 83.3%), followed by TE (4, 66.7%), CRO (3, 50%), \nand GN (3, 50%). The highest resistance was observed against CAZ (5, \n83.3%) and AMP (5, 83.3%), followed by P (4, 66.7%) and AMC (4, \n67.7%). \n"
+    },
+    {
+     "bbox": [
+      296.1,
+      760.4,
+      299.7,
+      766.8
+     ],
+     "text": "3\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\nTable 3 \nAntimicrobial susceptibility patterns of Gram-positive bacteria isolated from SSIs in Bule Hora University Teaching Hospital, 2023 (N = 21). \nAntimicrobials \nBacterial species \nP \nCefoxitin \nPenicillin \nCeftriaxone \nCiproﬂoxacin \nCloxacillin \nAmoxicillin \nClindamycin \nChloramphenicol \nCeftazidime \nS. aureus (n = 14) \nS \n6 (42.9%) \n3 (21.4%) \n9 (64.3%) \n10 (71.4%) \n10 (71.4%) \n8 (57.1%) \n12 (85.7%) \n13 (92.9%) \n3 (21.4%) \nI \n0 (0%) \n1 (7.1%) \n3 (21.4%) \n1 (7.1%) \n2 (14.3%) \n1 (7.1%) \n0 (0%) \n0 (0%) \n1 (7.1%) \nR \n8 (57.1%) \n10 (71.4%) \n2 (14.3%) \n3 (21.4%) \n2 (14.3%) \n5 (35.7%) \n2 (14.3%) \n1 (7.1%) \n10 (71.4%) \nCONS (n = 7) \nS \n4 (57.1%) \n2 (28.6%) \n6 (85.7%) \n6 (85.7%) \n7 (100.0%) \n7 (100.0%) \n6 (85.7%) \n7 (100.0%) \n3 (42.9%) \nI \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n1 (14.3%) \nR \n3 (42.9%) \n5 (71.4%) \n1 (14.3%) \n1 (14.3%) \n0 (0.0%) \n0 (0.0%) \n1 (14.3%) \n0 (0.0%) \n3 (42.9%) \nTotal (n = 21) \nS \n10 (47.6%) \n5 (23.8%) \n15 (71.4%) \n16 (76.2%) \n17 (81.0%) \n15 (71.4%) \n18 (85.7%) \n20 (95.2%) \n6 (28.6%) \nR \n11 (52.4%) \n16 (76.2%) \n6 (28.6%) \n5 (23.8%) \n4 (19.0%) \n6 (28.6%) \n3 (14.3%) \n1 (4.8%) \n15 (71.4%) \nCONS, Coagulase-negative staphylococci ; I, intermediate; P, pattern; R, resistance; S, sensitive; SSIs, Surgical site infections. \nTable 4 \nAntimicrobial susceptibility proﬁles of Gram-negative bacteria isolated from Bule Hora University Teaching Hospital, 2023 (N = 20). \nAntimicrobials \nBacterial species \nP \nPenicillin \nCeftriaxone \nCiproﬂoxacin \nAmoxicillin \nTetracycline \nAmpicillin \nCeftazidime \nGentamycin \nE. coli (n = 6). \nS \n2 (33.3%) \n3 (50.0%) \n545 (83.3%) \n2 (33.3%) \n4 (66.7%) \n1 (16.7%) \n1 (16.7%) \n3 (50.0%) \nI \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n1 (16.7%) \n0 (0%) \n0 (0%) \n0 (0%) \nR \n4 (66.7%) \n3 (50.0%) \n1 (16.7%) \n4 (66.7%) \n1 (16.7%) \n5 (83.3%) \n5 (83.3%) \n3 (50.0%) \nP. aerogenosa (n = 6) \nS \n3 (50.0%) \n3 (50.0%) \n6 (100.0%) \n4 (66.7%) \n3 (50.0%) \n2 (33.3%) \n2 (33.3%) \n4 (66.7%) \nI \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n2 (33.3%) \n0 (0%) \n1 (16.7%) \n0 (0%) \nR \n3 (50.0%) \n3 (50.0%) \n0 (0.0%) \n2 (33.3%) \n1 (16.7%) \n4 (66.7%) \n3 (50.0%) \n2 (33.3%) \nKlebsiella spp. (n = 5) \nS \n4 (80.0%) \n3 (60.0%) \n5 (100.0%) \n4 (80.0%) \n3 (60.0%) \n4 (80.0%) \n4 (80.0%) \n4 (80.0%) \nI \n1 (20.0%) \n1 (20.0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \nR \n0 (0%) \n1 (20.0%) \n0 (0.0%) \n1 (20.0%) \n2 (40.0%) \n1 (20.0%) \n1 (20.0%) \n1 (20.0%) \nProteus spp . (n = 3) \nS \n2 (66.7%) \n3 (100.0%) \n2 (66.7%) \n3 (100.0%) \n1 (33.3%) \n3 (100.0%) \n2 (66.7%) \n1 (33.3%) \nI \n0 (0%) \n0 (0%) \n1 (33.3%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \nR \n1 (33.3%) \n0 (0.0%) \n0 (0.0%) \n0 (0.0%) \n2 (66.7%) \n0 (0.0%) \n1 (33.3%) \n2 (66.7%) \nI, intermediate; P, pattern; R, resistance; S, sensitive. \nTable 5 \nMultidrug resistance pattern of bacteria isolated from Bule Hora University Teaching Hospital, 2023. \nBacterial isolates \nRo \nR1 \nR2 \nR3 \n≥ R4 \nMDR \nS. aureus (N = 14) \n0 (0%) \n2 (14.2%) \n4 (28.6%) \n4 (28.6%) \n4 (28.6%) \n8 (57.1%) \nCoNS (N = 7) \n0 (0%) \n2 (28.6%) \n2 (28.6%) \n2 (28.6%) \n1 (14.2% \n3 (42.8%) \nE. coli (N = 6) \n0 (0%) \n0 (0%) \n3 (50%) \n1 (16.7%) \n2 (33.3%) \n3 (50%) \nP. aerogenosa (N = 6) \n0 (0%) \n1 (16.7%) \n2 (33.3%) \n1 (16.7%) \n2 (33.3%) \n3 (50%) \nKlebsiella spp. (N = 5) \n1 (20%) \n2 (40%) \n2 (40%) \n0 (0%) \n0 (0%) \n0 (0%) \nProteus spp. (N = 3) \n0 (0%) \n1 (33.3%) \n1 (33.3%) \n0 (0%) \n1 (33.3%) \n1 (33.3%) \nTotal (N = 41) \n1 (2.4%) \n8 (19.5%) \n14 (30.4%) \n8 (19.5%) \n10 (24.4%) \n18 (43.9%) \nRo, resistance for no antimicrobials; R1, resistance for one class of antimicrobials; R2, resistance for two class of antimicrobials; R3, resistance for three class of \nantimicrobials; R4, resistance for four class of antimicrobials and above. \nThe antimicrobial susceptibility proﬁle of P. aerogenosa showed the \nhighest sensitivity to ciproﬂoxacin (6, 100%), AMC (4, 66.7%), GN (4, \n66.7%), CRO (3, 50%), TE (3, 50%), and P (3, 50%). The highest resis- \ntance was observed for AMC (4, 66.7%) and CAZ (4, 66.7%). \nThe antimicrobial susceptibility proﬁle of Klebsiella spp . showed good \nsensitivity to all antimicrobials tested. Among the total of 5 (12.2%) iso- \nlates, the highest sensitivity was observed for ciproﬂoxacin (5, 100%), \nfollowed by CAZ (4, 80%), GN (4, 80%), AMP (4, 80%), AMC (4, 80%), \nP (4, 80%), as well as CRO (3, 60%) and TE (3, 60%). Of the three \n(7.3%) Proteus isolates, the highest sensitivity was observed for CRO (3, \n100%), AMC (3, 100%), and AMP (3, 100%); followed by ciproﬂoxacin \n(2, 66.7%), CAZ (2, 66.7%) and P (2, 66.7%), whereas the highest re- \nsistance was observed for tetracycline (2, 66.7%) and GN (2, 66.7%) \n( Table 4 ). \nMulti-drug resistance pattern of bacteria isolated from Bule Hora University \nTeaching Hospital \nMultidrug resistance is considered a signiﬁcant health problem with \na high rate of increase. In this study, among the 41 isolates, 18 (43.9%) \n(95% CI, 43-45) were multidrug-resistant ( Table 5 ). \nFactors associated with SSIs \nAge groups above 54, duration of hospital stay more than 10 days, \nduration of surgery exceeding two hours, clean-contaminated wound \ntype, open surgical site, and the presence of symptoms of malnutrition \nshowed statistically signiﬁcant associations with SSIs in both univari- \nate and multivariate analyses. This study demonstrated that SSIs were \nhigher in older age groups compared to other age groups. Participants \naged above 54 were 4.76 times more likely to develop SSIs when all \nother factors remained constant (AOR = 4.76, 95% CI, 1.10-20.56). Ac- \ncording to this study, patients with a prolonged hospital stay ( > 10 days) \ndeveloped SSIs almost twice as often (22.9%) as those who stayed for \nless than 10 days (10%). They were 2.66 times more likely to develop \nSSIs when all other factors remained constant (AOR = 2.66, 95% CI, \n1.06-6.66). \nThis study also identiﬁed that SSIs were higher in patients under- \ngoing prolonged operations ( > 2 hours) (70.3%) compared to those \nwith shorter procedures ( < 2 hours) (12.3%), and they were 2.64 times \nmore likely to develop SSIs when all other factors remained constant \n(AOR = 2.64, 95% CI, 1.009-6.901). In this study, SSIs were found to \nbe higher in patients with clean-contaminated wounds (31.6%) than \n4\n",
+   "n_chars": 6273,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      37.9,
+      37.0,
+      558.0,
+      43.4
+     ],
+     "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\n"
+    },
+    {
+     "bbox": [
+      37.9,
+      57.0,
+      488.0,
+      73.8
+     ],
+     "text": "Table 3 \nAntimicrobial susceptibility patterns of Gram-positive bacteria isolated from SSIs in Bule Hora University Teaching Hospital, 2023 (N = 21). \n"
+    },
+    {
+     "bbox": [
+      111.2,
+      82.4,
+      156.0,
+      89.0
+     ],
+     "text": "Antimicrobials \n"
+    },
+    {
+     "bbox": [
+      43.9,
+      96.2,
+      547.1,
+      102.8
+     ],
+     "text": "Bacterial species \nP \nCefoxitin \nPenicillin \nCeftriaxone \nCiproﬂoxacin \nCloxacillin \nAmoxicillin \nClindamycin \nChloramphenicol \nCeftazidime \n"
+    },
+    {
+     "bbox": [
+      43.9,
+      110.0,
+      545.4,
+      176.6
+     ],
+     "text": "S. aureus (n = 14) \nS \n6 (42.9%) \n3 (21.4%) \n9 (64.3%) \n10 (71.4%) \n10 (71.4%) \n8 (57.1%) \n12 (85.7%) \n13 (92.9%) \n3 (21.4%) \nI \n0 (0%) \n1 (7.1%) \n3 (21.4%) \n1 (7.1%) \n2 (14.3%) \n1 (7.1%) \n0 (0%) \n0 (0%) \n1 (7.1%) \nR \n8 (57.1%) \n10 (71.4%) \n2 (14.3%) \n3 (21.4%) \n2 (14.3%) \n5 (35.7%) \n2 (14.3%) \n1 (7.1%) \n10 (71.4%) \nCONS (n = 7) \nS \n4 (57.1%) \n2 (28.6%) \n6 (85.7%) \n6 (85.7%) \n7 (100.0%) \n7 (100.0%) \n6 (85.7%) \n7 (100.0%) \n3 (42.9%) \nI \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n1 (14.3%) \nR \n3 (42.9%) \n5 (71.4%) \n1 (14.3%) \n1 (14.3%) \n0 (0.0%) \n0 (0.0%) \n1 (14.3%) \n0 (0.0%) \n3 (42.9%) \nTotal (n = 21) \nS \n10 (47.6%) \n5 (23.8%) \n15 (71.4%) \n16 (76.2%) \n17 (81.0%) \n15 (71.4%) \n18 (85.7%) \n20 (95.2%) \n6 (28.6%) \nR \n11 (52.4%) \n16 (76.2%) \n6 (28.6%) \n5 (23.8%) \n4 (19.0%) \n6 (28.6%) \n3 (14.3%) \n1 (4.8%) \n15 (71.4%) \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      184.7,
+      432.1,
+      191.9
+     ],
+     "text": "CONS, Coagulase-negative staphylococci ; I, intermediate; P, pattern; R, resistance; S, sensitive; SSIs, Surgical site infections. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      205.5,
+      464.8,
+      222.3
+     ],
+     "text": "Table 4 \nAntimicrobial susceptibility proﬁles of Gram-negative bacteria isolated from Bule Hora University Teaching Hospital, 2023 (N = 20). \n"
+    },
+    {
+     "bbox": [
+      120.4,
+      231.0,
+      165.2,
+      237.6
+     ],
+     "text": "Antimicrobials \n"
+    },
+    {
+     "bbox": [
+      43.9,
+      244.7,
+      534.5,
+      251.3
+     ],
+     "text": "Bacterial species \nP \nPenicillin \nCeftriaxone \nCiproﬂoxacin \nAmoxicillin \nTetracycline \nAmpicillin \nCeftazidime \nGentamycin \n"
+    },
+    {
+     "bbox": [
+      43.9,
+      258.5,
+      531.0,
+      359.4
+     ],
+     "text": "E. coli (n = 6). \nS \n2 (33.3%) \n3 (50.0%) \n545 (83.3%) \n2 (33.3%) \n4 (66.7%) \n1 (16.7%) \n1 (16.7%) \n3 (50.0%) \nI \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n1 (16.7%) \n0 (0%) \n0 (0%) \n0 (0%) \nR \n4 (66.7%) \n3 (50.0%) \n1 (16.7%) \n4 (66.7%) \n1 (16.7%) \n5 (83.3%) \n5 (83.3%) \n3 (50.0%) \nP. aerogenosa (n = 6) \nS \n3 (50.0%) \n3 (50.0%) \n6 (100.0%) \n4 (66.7%) \n3 (50.0%) \n2 (33.3%) \n2 (33.3%) \n4 (66.7%) \nI \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n2 (33.3%) \n0 (0%) \n1 (16.7%) \n0 (0%) \nR \n3 (50.0%) \n3 (50.0%) \n0 (0.0%) \n2 (33.3%) \n1 (16.7%) \n4 (66.7%) \n3 (50.0%) \n2 (33.3%) \nKlebsiella spp. (n = 5) \nS \n4 (80.0%) \n3 (60.0%) \n5 (100.0%) \n4 (80.0%) \n3 (60.0%) \n4 (80.0%) \n4 (80.0%) \n4 (80.0%) \nI \n1 (20.0%) \n1 (20.0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \nR \n0 (0%) \n1 (20.0%) \n0 (0.0%) \n1 (20.0%) \n2 (40.0%) \n1 (20.0%) \n1 (20.0%) \n1 (20.0%) \nProteus spp . (n = 3) \nS \n2 (66.7%) \n3 (100.0%) \n2 (66.7%) \n3 (100.0%) \n1 (33.3%) \n3 (100.0%) \n2 (66.7%) \n1 (33.3%) \nI \n0 (0%) \n0 (0%) \n1 (33.3%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \n0 (0%) \nR \n1 (33.3%) \n0 (0.0%) \n0 (0.0%) \n0 (0.0%) \n2 (66.7%) \n0 (0.0%) \n1 (33.3%) \n2 (66.7%) \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      367.5,
+      209.1,
+      374.7
+     ],
+     "text": "I, intermediate; P, pattern; R, resistance; S, sensitive. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      386.3,
+      362.5,
+      403.1
+     ],
+     "text": "Table 5 \nMultidrug resistance pattern of bacteria isolated from Bule Hora University Teaching Hospital, 2023. \n"
+    },
+    {
+     "bbox": [
+      43.9,
+      411.7,
+      533.6,
+      418.3
+     ],
+     "text": "Bacterial isolates \nRo \nR1 \nR2 \nR3 \n≥ R4 \nMDR \n"
+    },
+    {
+     "bbox": [
+      43.9,
+      425.5,
+      551.4,
+      483.5
+     ],
+     "text": "S. aureus (N = 14) \n0 (0%) \n2 (14.2%) \n4 (28.6%) \n4 (28.6%) \n4 (28.6%) \n8 (57.1%) \nCoNS (N = 7) \n0 (0%) \n2 (28.6%) \n2 (28.6%) \n2 (28.6%) \n1 (14.2% \n3 (42.8%) \nE. coli (N = 6) \n0 (0%) \n0 (0%) \n3 (50%) \n1 (16.7%) \n2 (33.3%) \n3 (50%) \nP. aerogenosa (N = 6) \n0 (0%) \n1 (16.7%) \n2 (33.3%) \n1 (16.7%) \n2 (33.3%) \n3 (50%) \nKlebsiella spp. (N = 5) \n1 (20%) \n2 (40%) \n2 (40%) \n0 (0%) \n0 (0%) \n0 (0%) \nProteus spp. (N = 3) \n0 (0%) \n1 (33.3%) \n1 (33.3%) \n0 (0%) \n1 (33.3%) \n1 (33.3%) \nTotal (N = 41) \n1 (2.4%) \n8 (19.5%) \n14 (30.4%) \n8 (19.5%) \n10 (24.4%) \n18 (43.9%) \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      491.6,
+      562.0,
+      508.4
+     ],
+     "text": "Ro, resistance for no antimicrobials; R1, resistance for one class of antimicrobials; R2, resistance for two class of antimicrobials; R3, resistance for three class of \nantimicrobials; R4, resistance for four class of antimicrobials and above. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      528.4,
+      292.7,
+      567.8
+     ],
+     "text": "The antimicrobial susceptibility proﬁle of P. aerogenosa showed the \nhighest sensitivity to ciproﬂoxacin (6, 100%), AMC (4, 66.7%), GN (4, \n66.7%), CRO (3, 50%), TE (3, 50%), and P (3, 50%). The highest resis- \ntance was observed for AMC (4, 66.7%) and CAZ (4, 66.7%). \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      570.2,
+      292.7,
+      672.4
+     ],
+     "text": "The antimicrobial susceptibility proﬁle of Klebsiella spp . showed good \nsensitivity to all antimicrobials tested. Among the total of 5 (12.2%) iso- \nlates, the highest sensitivity was observed for ciproﬂoxacin (5, 100%), \nfollowed by CAZ (4, 80%), GN (4, 80%), AMP (4, 80%), AMC (4, 80%), \nP (4, 80%), as well as CRO (3, 60%) and TE (3, 60%). Of the three \n(7.3%) Proteus isolates, the highest sensitivity was observed for CRO (3, \n100%), AMC (3, 100%), and AMP (3, 100%); followed by ciproﬂoxacin \n(2, 66.7%), CAZ (2, 66.7%) and P (2, 66.7%), whereas the highest re- \nsistance was observed for tetracycline (2, 66.7%) and GN (2, 66.7%) \n( Table 4 ). \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      696.4,
+      292.6,
+      714.9
+     ],
+     "text": "Multi-drug resistance pattern of bacteria isolated from Bule Hora University \nTeaching Hospital \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      717.3,
+      292.7,
+      746.2
+     ],
+     "text": "Multidrug resistance is considered a signiﬁcant health problem with \na high rate of increase. In this study, among the 41 isolates, 18 (43.9%) \n(95% CI, 43-45) were multidrug-resistant ( Table 5 ). \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      528.4,
+      403.3,
+      536.4
+     ],
+     "text": "Factors associated with SSIs \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      549.3,
+      561.7,
+      745.6
+     ],
+     "text": "Age groups above 54, duration of hospital stay more than 10 days, \nduration of surgery exceeding two hours, clean-contaminated wound \ntype, open surgical site, and the presence of symptoms of malnutrition \nshowed statistically signiﬁcant associations with SSIs in both univari- \nate and multivariate analyses. This study demonstrated that SSIs were \nhigher in older age groups compared to other age groups. Participants \naged above 54 were 4.76 times more likely to develop SSIs when all \nother factors remained constant (AOR = 4.76, 95% CI, 1.10-20.56). Ac- \ncording to this study, patients with a prolonged hospital stay ( > 10 days) \ndeveloped SSIs almost twice as often (22.9%) as those who stayed for \nless than 10 days (10%). They were 2.66 times more likely to develop \nSSIs when all other factors remained constant (AOR = 2.66, 95% CI, \n1.06-6.66). \nThis study also identiﬁed that SSIs were higher in patients under- \ngoing prolonged operations ( > 2 hours) (70.3%) compared to those \nwith shorter procedures ( < 2 hours) (12.3%), and they were 2.64 times \nmore likely to develop SSIs when all other factors remained constant \n(AOR = 2.64, 95% CI, 1.009-6.901). In this study, SSIs were found to \nbe higher in patients with clean-contaminated wounds (31.6%) than \n"
+    },
+    {
+     "bbox": [
+      296.1,
+      760.4,
+      299.7,
+      766.8
+     ],
+     "text": "4\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\nin those with clean wounds (11.7%). Patients with clean-contaminated \nwounds were 3.17 times more likely to develop SSIs when all other fac- \ntors remained constant (AOR = 3.17, 95% CI, 1.21-8.30). \nThis study shows that patients with an open surgical site are more \nsusceptible to SSIs than those with a closed surgical site, and were 2.64 \ntimes more likely to develop SSIs when all other factors remained con- \nstant (AOR = 2.64, 95% CI, 1.02-6.86). According to this study, SSIs \nwere higher in patients with symptoms of malnutrition (34.8%) com- \npared to those without (13.1%), and malnourished patients were 4.3 \ntimes more likely to develop SSIs when all other factors remained con- \nstant. This indicates that the presence of symptoms of malnutrition has \na statistically signiﬁcant association with SSIs (AOR = 4.30, 95% CI, \n1.42-12.97) ( Table 6 ). \nDiscussion \nIn the present study, the overall prevalence of SSI was 15.8%. A to- \ntal of 41 diﬀerent bacteria were isolated. This result is consistent with \nstudies conducted in Addis Ababa (11.1%) [ 38 ], Harari (11.8%) [ 39 ], \nMizan-Tepi (12.6%) [ 40 ], Wolaita Sodo (13%) [ 30 ], Hawassa (19.1%) \n[ 41 ], western Ethiopia (19.6%) [ 42 ], and Jimma (21.1%) [ 43 ]. Simi- \nlar ﬁndings have been reported in other countries, such as Sierra Leone \n(11.5%) [ 44 ] and India (20.8%) [ 45 ]. However, the results of this study \nare lower than those of other studies conducted in Dessie (23.4%) [ 46 ], \nArba-Minch (29.4%) [ 47 ], and Egypt (67.6%) [ 48 ]. Conversely, the re- \nsults were slightly higher than those of similar studies conducted in Ad- \ndis Ababa (9.8%) [ 49 ], Gonder (9.9%) [ 50 ], the USA (7.8%) [ 51 ], and \nMexico (7.9%) [ 52 ]. This variation may be attributed to diﬀerences in \nstudy populations, study periods, and sample sizes, as well as the fact \nthat those studies involved a larger and more diverse group of partic- \nipants and beneﬁted from advanced facilities with superior infection \ncontrol practices, such as modern surgical procedures, improved venti- \nlation in operating rooms, advanced sterilisation methods, and proper \npatient care. Additionally, variations could result from inadequate pre- \noperative wound care, insuﬃcient infection control techniques due to \npoor hygiene, and a lack of water. Poor-quality equipment and infras- \ntructure, a shortage of advanced supplies and trained personnel, sub- \nstandard infection control techniques, and severe ﬁnancial constraints \nin developing countries frequently contribute to the incidence of SSIs \nand compromised patient care [ 53 ]. \nIn this study, among the 41 bacteria isolated from 29 patients with \nSSIs, approximately 21 (51.2%) were Gram-positive bacteria. This pre- \ndominance of Gram-positive organisms aligns with previous studies \nconducted in Arbaminch [ 46 ] and Yekatit 12 hospitals [ 54 ]. The pre- \ndominant organism in this study was S. aureus (14, 34.1%), followed \nby coagulase-negative staphylococci (7, 17.1%), E. coli (6, 14.6%), P. \naerogenosa (6, 14.6%), Klebsiella spp. (5, 12.2%), and Proteus spp. (3, \n7.3%). This predominance of S. aureus agrees with ﬁndings from previ- \nous studies in Addis Ababa (37%) [ 54 ], Arbaminch (76%) [ 46 ], Harari \n(30.3%) [ 39 ], Ethiopia (36%) [ 55 ], as well as studies from other coun- \ntries, including India (34%), [ 56 ], and India (45.3%) [ 48 ], and Egypt \n(27.4%) [ 47 ]. This supports the observation that most organisms iso- \nlated from SSIs are derived from the patient’s ﬂora and the theatre en- \nvironment, where S. aureus is a common isolate [ 12 ]. \nAccording to this study, E. coli was the third most predominant \nisolate, accounting for approximately 6 (14.65) of cases, following \ncoagulase-negative staphylococci . However, other studies conducted in \nAddis Ababa (23.1%) [ 49 ], Mizan-Tepi, Ethiopia (29.3%) [401], and \nMexico (27.5%) [ 52 ], reported E. coli as the most predominant isolate. \nThis variation in predominance may be attributed to diﬀerences in study \npopulations and the variety of surgical procedures performed. It is well \nestablished that the bacterial ethology of SSIs varies with geographi- \ncal location, between countries, and even between hospitals [ 50 ]. The \ndiversity of organisms isolated in this study is consistent with similar \nﬁndings from studies conducted in Addis Ababa, Ethiopia [ 54 ], Nige- \nria [ 57 ], and India [ 56 ]. Furthermore, the results of this study support \nCDC reports, which indicate that S. aureus, coagulase-negative staphylo- \ncocci, and E. coli are the most predominant bacteria associated with SSIs. \nThis may be because these organisms are common causative agents of \nhospital-acquired infections and are frequently isolated from inanimate \nsurfaces and medical equipment. \nAmong Gram-positive isolates, S. aureus was found to be highly re- \nsistant to P (11, 78.6%) and CAZ (11, 78.6%). The highest sensitivity \nof S. aureus was observed against CAP (13, 92.9%), followed by DA \n(12, 85.7%), ciproﬂoxacin (10, 71.4%), COX (10, 71.4%), and others, \nrespectively. This high resistance to P and CAZ is in agreement with sim- \nilar studies conducted in Harari (100%) [ 39 ], Addis Ababa (89%) [ 54 ], \nand India (100%) [ 47 ]. Unlike S. aureus, coagulase-negative staphylo- \ncocci showed little variation in the degree of sensitivity , as they were \nalmost 100% sensitive to COX, AMP, and CAP, and 85.7% sensitive to \nCRO, ciproﬂoxacin, and DA. They also showed high resistance to peni- \ncillin (5, 71.4%) and ceftazidime (4, 57.1%). This result supports that \nof a previous study in India [ 47 ]. This high resistance may be due to \nself-medication practices and the frequent and inappropriate use of an- \ntimicrobial agents. \nThis study indicated that Gram-negative isolates exhibited high resis- \ntance to commonly used antibiotics. All Gram-negative isolates showed \ndiﬀerent degrees of sensitivity to commonly used antimicrobial agents, \nincluding ciproﬂoxacin, TE, CRO, and GN, whereas most E. coli and P. \naerogenosa isolates exhibited high resistance to AMP and CAZ, followed \nby P and AMC. This result is in agreement with similar studies from \nAddis Ababa [49,54] , Arbaminch [ 46 ], Mizan-Tepi [ 40 ], and Tanzania \n[ 58 ]. This may be attributed to the fact that these antibiotics are easily \nobtained and are frequently taken without a prescription [ 6 ]. \nAmong Enterobacteriaceae, P. species showed the highest resistance \nto TE (2, 66.7%) and GN (2, 66.7%). This result agrees with those re- \nported from Mizan-Tepi [ 40 ], Arbaminch [ 46 ], and Addis Ababa [ 49 ]. \nAccording to the results of this study, the age group ( > 54 years) was \nsigniﬁcantly associated with SSIs ( P = 0.036). This result agrees with \nsimilar studies conducted in Mizan-Tepi [ 40 ], Wolaita Sodo [ 30 ], Ar- \nbaminch [ 46 ], Hawaii [ 41 ], and Harar [ 39 ]. This result shows that as \nthe age of patients increases, the risk of developing SSIs also increases. \nThis conﬁrms the ﬁndings of other authors, which reveal that as the age \nof the patients increases, the immune defence of the host decreases, the \noccurrence of chronic disease increases, and both predispose to the oc- \ncurrence of SSIs [ 41 ]. In this study, a hospital stay duration of 10 days or \nmore was found to be signiﬁcantly associated with SSI risk. These signif- \nicant associations support similar studies conducted in Mizan-Tepi [ 40 ], \nWolaita Sodo [ 30 ], Hawaii [ 41 ], Shire, Ethiopia [ 27 ], and India [ 56 ]. \nThis may be due to the fact that hospital wards are visited by a large \npopulation with poor infection prevention practices, and prolonged hos- \npital stays increase the risks of nosocomial infections, as postoperative \npatients are more susceptible to HAIs [ 8 ]. \nThis study indicate that longer durations of operations ( ≥ 2 hours) \nincrease the rate of SSIs ( P = 0.048). This result is in agreement with \nthose of previous studies conducted in Hawaii [ 41 ], Ethiopian hospitals \n[ 50 ], Dassie [ 45 ], Jimma [ 44 ], and India [ 56 ]. This increased risk may \nbe because prolonged operation times expose the surgical site to en- \nvironmental contamination. In addition, prolonged surgical procedures \nincrease the extent of tissue damage, the possibility of blood loss, and \nstress due to prolonged anaesthesia, all of which predispose patients \nto the development of SSIs [ 41 ]. In this study, contaminated wounds \nwere signiﬁcantly associated with SSIs ( P = 0.019). This result sup- \nports other similar studies performed in Dassie [ 45 ], Ethiopian hospi- \ntals [ 50 ], Jimma [ 44 ], Wolaita Sodo [ 30 ], Western Ethiopia [ 42 ], and \nHarari [ 39 ]. This indicates that contaminated wounds have a higher risk \nof infection than clean wounds. In this study, open surgical sites were \n2.64 times more likely to develop SSIs compared to closed surgical sites \n( P = 0.046). This agrees with similar studies conducted in India [ 56 ]. It \nmight be due to the fact that open sites have more exposure to external \nenvironmental contaminants, and hospital environments are known to \nharbour various nosocomial pathogens. According to the present study, \n5\n",
+   "n_chars": 9193,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      37.9,
+      37.0,
+      558.0,
+      43.4
+     ],
+     "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\n"
+    },
+    {
+     "bbox": [
+      37.9,
+      57.8,
+      292.6,
+      86.7
+     ],
+     "text": "in those with clean wounds (11.7%). Patients with clean-contaminated \nwounds were 3.17 times more likely to develop SSIs when all other fac- \ntors remained constant (AOR = 3.17, 95% CI, 1.21-8.30). \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      89.2,
+      292.7,
+      191.3
+     ],
+     "text": "This study shows that patients with an open surgical site are more \nsusceptible to SSIs than those with a closed surgical site, and were 2.64 \ntimes more likely to develop SSIs when all other factors remained con- \nstant (AOR = 2.64, 95% CI, 1.02-6.86). According to this study, SSIs \nwere higher in patients with symptoms of malnutrition (34.8%) com- \npared to those without (13.1%), and malnourished patients were 4.3 \ntimes more likely to develop SSIs when all other factors remained con- \nstant. This indicates that the presence of symptoms of malnutrition has \na statistically signiﬁcant association with SSIs (AOR = 4.30, 95% CI, \n1.42-12.97) ( Table 6 ). \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      204.7,
+      81.6,
+      212.7
+     ],
+     "text": "Discussion \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      225.6,
+      292.8,
+      474.3
+     ],
+     "text": "In the present study, the overall prevalence of SSI was 15.8%. A to- \ntal of 41 diﬀerent bacteria were isolated. This result is consistent with \nstudies conducted in Addis Ababa (11.1%) [ 38 ], Harari (11.8%) [ 39 ], \nMizan-Tepi (12.6%) [ 40 ], Wolaita Sodo (13%) [ 30 ], Hawassa (19.1%) \n[ 41 ], western Ethiopia (19.6%) [ 42 ], and Jimma (21.1%) [ 43 ]. Simi- \nlar ﬁndings have been reported in other countries, such as Sierra Leone \n(11.5%) [ 44 ] and India (20.8%) [ 45 ]. However, the results of this study \nare lower than those of other studies conducted in Dessie (23.4%) [ 46 ], \nArba-Minch (29.4%) [ 47 ], and Egypt (67.6%) [ 48 ]. Conversely, the re- \nsults were slightly higher than those of similar studies conducted in Ad- \ndis Ababa (9.8%) [ 49 ], Gonder (9.9%) [ 50 ], the USA (7.8%) [ 51 ], and \nMexico (7.9%) [ 52 ]. This variation may be attributed to diﬀerences in \nstudy populations, study periods, and sample sizes, as well as the fact \nthat those studies involved a larger and more diverse group of partic- \nipants and beneﬁted from advanced facilities with superior infection \ncontrol practices, such as modern surgical procedures, improved venti- \nlation in operating rooms, advanced sterilisation methods, and proper \npatient care. Additionally, variations could result from inadequate pre- \noperative wound care, insuﬃcient infection control techniques due to \npoor hygiene, and a lack of water. Poor-quality equipment and infras- \ntructure, a shortage of advanced supplies and trained personnel, sub- \nstandard infection control techniques, and severe ﬁnancial constraints \nin developing countries frequently contribute to the incidence of SSIs \nand compromised patient care [ 53 ]. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      476.7,
+      292.7,
+      620.7
+     ],
+     "text": "In this study, among the 41 bacteria isolated from 29 patients with \nSSIs, approximately 21 (51.2%) were Gram-positive bacteria. This pre- \ndominance of Gram-positive organisms aligns with previous studies \nconducted in Arbaminch [ 46 ] and Yekatit 12 hospitals [ 54 ]. The pre- \ndominant organism in this study was S. aureus (14, 34.1%), followed \nby coagulase-negative staphylococci (7, 17.1%), E. coli (6, 14.6%), P. \naerogenosa (6, 14.6%), Klebsiella spp. (5, 12.2%), and Proteus spp. (3, \n7.3%). This predominance of S. aureus agrees with ﬁndings from previ- \nous studies in Addis Ababa (37%) [ 54 ], Arbaminch (76%) [ 46 ], Harari \n(30.3%) [ 39 ], Ethiopia (36%) [ 55 ], as well as studies from other coun- \ntries, including India (34%), [ 56 ], and India (45.3%) [ 48 ], and Egypt \n(27.4%) [ 47 ]. This supports the observation that most organisms iso- \nlated from SSIs are derived from the patient’s ﬂora and the theatre en- \nvironment, where S. aureus is a common isolate [ 12 ]. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      623.2,
+      292.7,
+      746.2
+     ],
+     "text": "According to this study, E. coli was the third most predominant \nisolate, accounting for approximately 6 (14.65) of cases, following \ncoagulase-negative staphylococci . However, other studies conducted in \nAddis Ababa (23.1%) [ 49 ], Mizan-Tepi, Ethiopia (29.3%) [401], and \nMexico (27.5%) [ 52 ], reported E. coli as the most predominant isolate. \nThis variation in predominance may be attributed to diﬀerences in study \npopulations and the variety of surgical procedures performed. It is well \nestablished that the bacterial ethology of SSIs varies with geographi- \ncal location, between countries, and even between hospitals [ 50 ]. The \ndiversity of organisms isolated in this study is consistent with similar \nﬁndings from studies conducted in Addis Ababa, Ethiopia [ 54 ], Nige- \nria [ 57 ], and India [ 56 ]. Furthermore, the results of this study support \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      57.8,
+      561.6,
+      107.6
+     ],
+     "text": "CDC reports, which indicate that S. aureus, coagulase-negative staphylo- \ncocci, and E. coli are the most predominant bacteria associated with SSIs. \nThis may be because these organisms are common causative agents of \nhospital-acquired infections and are frequently isolated from inanimate \nsurfaces and medical equipment. \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      110.1,
+      561.7,
+      254.1
+     ],
+     "text": "Among Gram-positive isolates, S. aureus was found to be highly re- \nsistant to P (11, 78.6%) and CAZ (11, 78.6%). The highest sensitivity \nof S. aureus was observed against CAP (13, 92.9%), followed by DA \n(12, 85.7%), ciproﬂoxacin (10, 71.4%), COX (10, 71.4%), and others, \nrespectively. This high resistance to P and CAZ is in agreement with sim- \nilar studies conducted in Harari (100%) [ 39 ], Addis Ababa (89%) [ 54 ], \nand India (100%) [ 47 ]. Unlike S. aureus, coagulase-negative staphylo- \ncocci showed little variation in the degree of sensitivity , as they were \nalmost 100% sensitive to COX, AMP, and CAP, and 85.7% sensitive to \nCRO, ciproﬂoxacin, and DA. They also showed high resistance to peni- \ncillin (5, 71.4%) and ceftazidime (4, 57.1%). This result supports that \nof a previous study in India [ 47 ]. This high resistance may be due to \nself-medication practices and the frequent and inappropriate use of an- \ntimicrobial agents. \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      256.5,
+      561.7,
+      348.2
+     ],
+     "text": "This study indicated that Gram-negative isolates exhibited high resis- \ntance to commonly used antibiotics. All Gram-negative isolates showed \ndiﬀerent degrees of sensitivity to commonly used antimicrobial agents, \nincluding ciproﬂoxacin, TE, CRO, and GN, whereas most E. coli and P. \naerogenosa isolates exhibited high resistance to AMP and CAZ, followed \nby P and AMC. This result is in agreement with similar studies from \nAddis Ababa [49,54] , Arbaminch [ 46 ], Mizan-Tepi [ 40 ], and Tanzania \n[ 58 ]. This may be attributed to the fact that these antibiotics are easily \nobtained and are frequently taken without a prescription [ 6 ]. \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      350.7,
+      561.8,
+      547.0
+     ],
+     "text": "Among Enterobacteriaceae, P. species showed the highest resistance \nto TE (2, 66.7%) and GN (2, 66.7%). This result agrees with those re- \nported from Mizan-Tepi [ 40 ], Arbaminch [ 46 ], and Addis Ababa [ 49 ]. \nAccording to the results of this study, the age group ( > 54 years) was \nsigniﬁcantly associated with SSIs ( P = 0.036). This result agrees with \nsimilar studies conducted in Mizan-Tepi [ 40 ], Wolaita Sodo [ 30 ], Ar- \nbaminch [ 46 ], Hawaii [ 41 ], and Harar [ 39 ]. This result shows that as \nthe age of patients increases, the risk of developing SSIs also increases. \nThis conﬁrms the ﬁndings of other authors, which reveal that as the age \nof the patients increases, the immune defence of the host decreases, the \noccurrence of chronic disease increases, and both predispose to the oc- \ncurrence of SSIs [ 41 ]. In this study, a hospital stay duration of 10 days or \nmore was found to be signiﬁcantly associated with SSI risk. These signif- \nicant associations support similar studies conducted in Mizan-Tepi [ 40 ], \nWolaita Sodo [ 30 ], Hawaii [ 41 ], Shire, Ethiopia [ 27 ], and India [ 56 ]. \nThis may be due to the fact that hospital wards are visited by a large \npopulation with poor infection prevention practices, and prolonged hos- \npital stays increase the risks of nosocomial infections, as postoperative \npatients are more susceptible to HAIs [ 8 ]. \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      549.2,
+      561.8,
+      745.7
+     ],
+     "text": "This study indicate that longer durations of operations ( ≥ 2 hours) \nincrease the rate of SSIs ( P = 0.048). This result is in agreement with \nthose of previous studies conducted in Hawaii [ 41 ], Ethiopian hospitals \n[ 50 ], Dassie [ 45 ], Jimma [ 44 ], and India [ 56 ]. This increased risk may \nbe because prolonged operation times expose the surgical site to en- \nvironmental contamination. In addition, prolonged surgical procedures \nincrease the extent of tissue damage, the possibility of blood loss, and \nstress due to prolonged anaesthesia, all of which predispose patients \nto the development of SSIs [ 41 ]. In this study, contaminated wounds \nwere signiﬁcantly associated with SSIs ( P = 0.019). This result sup- \nports other similar studies performed in Dassie [ 45 ], Ethiopian hospi- \ntals [ 50 ], Jimma [ 44 ], Wolaita Sodo [ 30 ], Western Ethiopia [ 42 ], and \nHarari [ 39 ]. This indicates that contaminated wounds have a higher risk \nof infection than clean wounds. In this study, open surgical sites were \n2.64 times more likely to develop SSIs compared to closed surgical sites \n( P = 0.046). This agrees with similar studies conducted in India [ 56 ]. It \nmight be due to the fact that open sites have more exposure to external \nenvironmental contaminants, and hospital environments are known to \nharbour various nosocomial pathogens. According to the present study, \n"
+    },
+    {
+     "bbox": [
+      296.1,
+      760.4,
+      299.7,
+      766.8
+     ],
+     "text": "5\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\nTable 6 \nUnivariate and multivariate analysis of factors associated with SSIs at the Bule Hora University Teaching Hospital, Bule Hora, 2023 (N = 183). \nVariables \nCategory \nFrequency \nN (%) \nSSI \nCOR (CI 95%) \nP -value \nAdjusted OR (95% CI) \nP -value \nYes \nNo \nSex \nMale \n101 (55.2) \n16 (15.8%) \n85 (84.2%) \n1 \nFemale \n82 (44.8) \n13 (15.9%) \n69 (84.1%) \n1.001 (0.451-2.223) \n.998 \nAge group \n1-18 \n46 (25.1) \n5 (10.9%) \n41 (89.1%) \n1 \n1 \n19-36 \n74 (40.5) \n11 (14.9%) \n63 (85.1%) \n1.432 (0.463-4.423) \n.533 \n1.89 (0.519-6.862) \n.335 \n37-54 \n35 (19.1) \n4 (11.4%) \n31 (88.6%) \n1.058 (0.262-4.270) \n.937 \n1.62 (0.332-7.852) \n.552 \n> 54 \n28 (15.3) \n9 (32.1%) \n19 (67.9%) \n3.884 (1.146-13.171) \n.029 a \n4.76 (1.104-20.555) \n.036 a \nResidence \nUrban \n78 (42.6) \n10 (12.8%) \n68 (87.2%) \n1 \nRural \n105 (57.4) \n19 (18.1%) \n86 (81.9%) \n1.502 (0.656-3.442) \n.336 \nHave a formal education \nYes \n91 (49.7) \n13 (14.3%) \n78 (85.7%) \n1 \nNo \n92 (50.3) \n16 (17.4%) \n76 (82.6%) \n1.262 (0.569-2.803) \n.566 \nOccupation \nEmployed \n50 (27.3) \n9 (18.0%) \n41 (82.0%) \n1.240 (0.523-2.943) \n.625 \nUnemployed \n133 (72.7) \n20 (15.0%) \n113 (85.0%) \n1 \nHistory of pre-hospitalisation \nYes \n53 (29.0) \n11 (20.8%) \n42 (79.2%) \n1.630 (0.711-3.736) \n.250 \nNo \n130 (71.0) \n18 (13.8%) \n112 (86.2%) \n1 \nWard condition \nPrivate \n16 (8.7) \n2 (12.5%) \n14 (87.5%) \n1 \nPublic \n167 (91.3) \n27 (16.2%) \n140 (82.8%) \n1.350 (0.290-6.283) \n.702 \nDuration of hospital stay \n< 10 days \n100 (54.6) \n10 (10%) \n90 (90%) \n1 \n1 \n≥ 10 days \n83 (45.4) \n19 (22.9%) \n64 (77.1%) \n2.672 (1.165-6.128) \n.020 a \n2.66 (1.061-6.659) \n.037 a \nDuration of operation \n< 2 hours \n146 (79.8) \n18 (12.3%) \n128 (87.7%) \n1 \n1 \n≥ 2 hours \n37 (20.2) \n11 (70.3%) \n26 (29.7%) \n3.009 (1.273-7.113) \n.012 a \n2.64 (1.009-6.901) \n.048 a \nType of surgery \nElective \n45 (24.6) \n7 (15.6%) \n38 (84.4%) \n1 \nEmergency \n138 (75.4) \n22 (15.9%%) \n116 (84.1%) \n1.030 (0.408-2.599) \n.951 \nType of anaesthesia \nLocal \n117 (63.9) \n20 (17.1%) \n97 (82.9%) \n1.306 (0.557-3.061) \n.539 \nGeneral \n66 (36.1) \n9 (13.6%) \n57 (86.4%) \n1 \nType of wound \nClean \n145 (79.2) \n17 (11.7%) \n128 (88.3%) \n1 \nClean-contaminate \n38 (20.8) \n12 (31.6%) \n26 (68.4%) \n3.475 (1.484-8.137) \n.004 a \n3.17 (1.208-8.303) \n.019 a \nCondition of surgical site \nOpened \n45 (24.6) \n13 (28.9%) \n32 (71.1%) \n2.098 (1.352-7.096) \n.008 a \n2.64 (1.019-6.858) \n.046 a \nClosed \n138 (75.4) \n16 (11.6%) \n122 (88.4%) \n1 \n1 \nImplant inserted at surgical site \nYes \n34 (18.6) \n9 (26.5%) \n25 (73.5%) \n2.322 (0.948-5.687) \n.065 \n2.09 (0.777-5.606) \n.144 \nNo \n149 (81.4) \n20 (13.4%) \n129 (86.6%) \n1 \n1 \nAntibiotic prophylaxis given \nYes \n97 (53.0) \n13 (13.4%) \n84 (86.6%) \n1 \nNo \n86 (47.0) \n16 (18.4%) \n70 (81.4%) \n1.477 (0.665-3.279) \n.338 \nHistory of alcohol use \nYes \n41 (22.4) \n8 (19.5%) \n33 (80.5%) \n1.397 (0.568-3.438) \n.467 \nNo \n142 (77.6) \n21 (14.8%) \n121 (85.2%) \n1 \nMalnutrition \nYes \n23 (12.6) \n8 (34.8%) \n15 (65.2%) \n3.530 (1.334-9.341) \n.011∗ \n4.30 (1.424-12.970) \n.010∗ \nNo \n160 (87.4) \n21 (13.1%) \n139 (86.9%) \n1 \n1 \nBold indicates factors associated with SSIs. \na P < 0.05. \nAOR = Adjusted odd ratio; CI, Conﬁdence interval; COR, Crude odd ratios; SSIs, Surgical site infections. \n6\n",
+   "n_chars": 3219,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      37.9,
+      37.0,
+      558.0,
+      43.4
+     ],
+     "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\n"
+    },
+    {
+     "bbox": [
+      98.9,
+      713.0,
+      106.2,
+      741.5
+     ],
+     "text": "Table 6 \n"
+    },
+    {
+     "bbox": [
+      108.5,
+      283.5,
+      115.7,
+      741.5
+     ],
+     "text": "Univariate and multivariate analysis of factors associated with SSIs at the Bule Hora University Teaching Hospital, Bule Hora, 2023 (N = 183). \n"
+    },
+    {
+     "bbox": [
+      124.3,
+      497.9,
+      139.5,
+      735.5
+     ],
+     "text": "Variables \nCategory \nFrequency \n"
+    },
+    {
+     "bbox": [
+      124.3,
+      77.6,
+      139.5,
+      530.5
+     ],
+     "text": "N (%) \nSSI \nCOR (CI 95%) \nP -value \nAdjusted OR (95% CI) \nP -value \n"
+    },
+    {
+     "bbox": [
+      138.1,
+      388.2,
+      144.7,
+      467.4
+     ],
+     "text": "Yes \nNo \n"
+    },
+    {
+     "bbox": [
+      151.9,
+      228.9,
+      167.1,
+      735.5
+     ],
+     "text": "Sex \nMale \n101 (55.2) \n16 (15.8%) \n85 (84.2%) \n1 \nFemale \n82 (44.8) \n13 (15.9%) \n69 (84.1%) \n1.001 (0.451-2.223) \n.998 \n"
+    },
+    {
+     "bbox": [
+      169.0,
+      86.0,
+      184.2,
+      735.5
+     ],
+     "text": "Age group \n1-18 \n46 (25.1) \n5 (10.9%) \n41 (89.1%) \n1 \n1 \n19-36 \n74 (40.5) \n11 (14.9%) \n63 (85.1%) \n1.432 (0.463-4.423) \n.533 \n1.89 (0.519-6.862) \n.335 \n"
+    },
+    {
+     "bbox": [
+      186.2,
+      86.0,
+      192.8,
+      612.7
+     ],
+     "text": "37-54 \n35 (19.1) \n4 (11.4%) \n31 (88.6%) \n1.058 (0.262-4.270) \n.937 \n1.62 (0.332-7.852) \n.552 \n"
+    },
+    {
+     "bbox": [
+      192.5,
+      83.0,
+      201.4,
+      612.7
+     ],
+     "text": "> 54 \n28 (15.3) \n9 (32.1%) \n19 (67.9%) \n3.884 (1.146-13.171) \n.029 a \n4.76 (1.104-20.555) \n.036 a \n"
+    },
+    {
+     "bbox": [
+      203.3,
+      228.9,
+      218.5,
+      735.5
+     ],
+     "text": "Residence \nUrban \n78 (42.6) \n10 (12.8%) \n68 (87.2%) \n1 \nRural \n105 (57.4) \n19 (18.1%) \n86 (81.9%) \n1.502 (0.656-3.442) \n.336 \n"
+    },
+    {
+     "bbox": [
+      220.4,
+      228.9,
+      235.6,
+      735.5
+     ],
+     "text": "Have a formal education \nYes \n91 (49.7) \n13 (14.3%) \n78 (85.7%) \n1 \nNo \n92 (50.3) \n16 (17.4%) \n76 (82.6%) \n1.262 (0.569-2.803) \n.566 \n"
+    },
+    {
+     "bbox": [
+      237.6,
+      228.9,
+      244.2,
+      735.5
+     ],
+     "text": "Occupation \nEmployed \n50 (27.3) \n9 (18.0%) \n41 (82.0%) \n1.240 (0.523-2.943) \n.625 \n"
+    },
+    {
+     "bbox": [
+      246.1,
+      228.9,
+      261.3,
+      735.5
+     ],
+     "text": "Unemployed \n133 (72.7) \n20 (15.0%) \n113 (85.0%) \n1 \nHistory of pre-hospitalisation \nYes \n53 (29.0) \n11 (20.8%) \n42 (79.2%) \n1.630 (0.711-3.736) \n.250 \n"
+    },
+    {
+     "bbox": [
+      263.3,
+      228.9,
+      287.0,
+      735.5
+     ],
+     "text": "No \n130 (71.0) \n18 (13.8%) \n112 (86.2%) \n1 \nWard condition \nPrivate \n16 (8.7) \n2 (12.5%) \n14 (87.5%) \n1 \nPublic \n167 (91.3) \n27 (16.2%) \n140 (82.8%) \n1.350 (0.290-6.283) \n.702 \n"
+    },
+    {
+     "bbox": [
+      289.0,
+      83.0,
+      304.2,
+      735.5
+     ],
+     "text": "Duration of hospital stay \n< 10 days \n100 (54.6) \n10 (10%) \n90 (90%) \n1 \n1 \n≥ 10 days \n83 (45.4) \n19 (22.9%) \n64 (77.1%) \n2.672 (1.165-6.128) \n.020 a \n2.66 (1.061-6.659) \n.037 a \n"
+    },
+    {
+     "bbox": [
+      306.1,
+      83.0,
+      321.3,
+      735.5
+     ],
+     "text": "Duration of operation \n< 2 hours \n146 (79.8) \n18 (12.3%) \n128 (87.7%) \n1 \n1 \n≥ 2 hours \n37 (20.2) \n11 (70.3%) \n26 (29.7%) \n3.009 (1.273-7.113) \n.012 a \n2.64 (1.009-6.901) \n.048 a \n"
+    },
+    {
+     "bbox": [
+      323.2,
+      228.9,
+      338.4,
+      735.5
+     ],
+     "text": "Type of surgery \nElective \n45 (24.6) \n7 (15.6%) \n38 (84.4%) \n1 \nEmergency \n138 (75.4) \n22 (15.9%%) \n116 (84.1%) \n1.030 (0.408-2.599) \n.951 \n"
+    },
+    {
+     "bbox": [
+      340.4,
+      228.9,
+      347.0,
+      735.5
+     ],
+     "text": "Type of anaesthesia \nLocal \n117 (63.9) \n20 (17.1%) \n97 (82.9%) \n1.306 (0.557-3.061) \n.539 \n"
+    },
+    {
+     "bbox": [
+      348.9,
+      83.0,
+      372.7,
+      735.5
+     ],
+     "text": "General \n66 (36.1) \n9 (13.6%) \n57 (86.4%) \n1 \nType of wound \nClean \n145 (79.2) \n17 (11.7%) \n128 (88.3%) \n1 \nClean-contaminate \n38 (20.8) \n12 (31.6%) \n26 (68.4%) \n3.475 (1.484-8.137) \n.004 a \n3.17 (1.208-8.303) \n.019 a \n"
+    },
+    {
+     "bbox": [
+      372.4,
+      83.0,
+      381.3,
+      735.5
+     ],
+     "text": "Condition of surgical site \nOpened \n45 (24.6) \n13 (28.9%) \n32 (71.1%) \n2.098 (1.352-7.096) \n.008 a \n2.64 (1.019-6.858) \n.046 a \n"
+    },
+    {
+     "bbox": [
+      383.2,
+      86.0,
+      398.4,
+      735.5
+     ],
+     "text": "Closed \n138 (75.4) \n16 (11.6%) \n122 (88.4%) \n1 \n1 \nImplant inserted at surgical site \nYes \n34 (18.6) \n9 (26.5%) \n25 (73.5%) \n2.322 (0.948-5.687) \n.065 \n2.09 (0.777-5.606) \n.144 \n"
+    },
+    {
+     "bbox": [
+      400.4,
+      186.7,
+      424.1,
+      735.5
+     ],
+     "text": "No \n149 (81.4) \n20 (13.4%) \n129 (86.6%) \n1 \n1 \nAntibiotic prophylaxis given \nYes \n97 (53.0) \n13 (13.4%) \n84 (86.6%) \n1 \nNo \n86 (47.0) \n16 (18.4%) \n70 (81.4%) \n1.477 (0.665-3.279) \n.338 \n"
+    },
+    {
+     "bbox": [
+      426.1,
+      228.9,
+      432.7,
+      735.5
+     ],
+     "text": "History of alcohol use \nYes \n41 (22.4) \n8 (19.5%) \n33 (80.5%) \n1.397 (0.568-3.438) \n.467 \n"
+    },
+    {
+     "bbox": [
+      434.6,
+      82.7,
+      449.8,
+      735.5
+     ],
+     "text": "No \n142 (77.6) \n21 (14.8%) \n121 (85.2%) \n1 \nMalnutrition \nYes \n23 (12.6) \n8 (34.8%) \n15 (65.2%) \n3.530 (1.334-9.341) \n.011∗ \n4.30 (1.424-12.970) \n.010∗ \n"
+    },
+    {
+     "bbox": [
+      451.8,
+      186.7,
+      458.4,
+      612.7
+     ],
+     "text": "No \n160 (87.4) \n21 (13.1%) \n139 (86.9%) \n1 \n1 \n"
+    },
+    {
+     "bbox": [
+      466.5,
+      602.0,
+      473.7,
+      741.5
+     ],
+     "text": "Bold indicates factors associated with SSIs. \n"
+    },
+    {
+     "bbox": [
+      473.9,
+      698.9,
+      483.3,
+      735.5
+     ],
+     "text": "a P < 0.05. \n"
+    },
+    {
+     "bbox": [
+      485.6,
+      400.4,
+      492.8,
+      734.5
+     ],
+     "text": "AOR = Adjusted odd ratio; CI, Conﬁdence interval; COR, Crude odd ratios; SSIs, Surgical site infections. \n"
+    },
+    {
+     "bbox": [
+      296.1,
+      760.4,
+      299.7,
+      766.8
+     ],
+     "text": "6\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\nsigns of malnutrition were signiﬁcantly associated with the development \nof SSIs ( P = 0.010). This ﬁnding supports the results of similar studies \n[ 59 ]. This could be due to the fact that malnutrition reduces immu- \nnity, and surgical procedures themselves compromise patient immune \ndefences, thereby predisposing patients to the emergence of microbial \nﬂora [ 60 , 61 ]. \nConclusion and recommendation \nThe study found a high prevalence of SSIs (15.8%), with S. aureus be- \ning the most common isolate. Many organisms are resistant to multiple \nantibiotics, which highlights the issue of antimicrobial resistance. Fac- \ntors such as older age, longer hospital stays, extended operative times, \nand malnutrition were signiﬁcantly associated with SSIs. This study rec- \nommends reviewing current infection prevention practices, establishing \na functional microbiology laboratory, and limiting the use of certain \nantibiotics. Future studies should include fungi and anaerobic bacteria, \nand a nationwide survey of SSIs and antimicrobial resistance is recom- \nmended. \nDeclarations of competing interests \nThe authors have no competing interests to declare. \nFunding \nThis research did not receive any speciﬁc grant from funding agen- \ncies in the public, commercial, or not-for-proﬁt sectors. \nEthical approval and consent to participate \nThe Ethical Review Board Committee (IRBC/22) of Bule Hora Uni- \nversity examined and approved the study. Bule Hora University Teach- \ning Hospital received a formal support letter. The institution, parent \nor guardian, and study participants provided informed, voluntary, and \nwritten informed consent. Each participant received information regard- \ning the study, including its objectives, methods, potential risks, and ad- \nvantages. Participants were informed of their right to decline or leave \nthe study at any time. The study participants were unaﬀected by their \ndecision to decline participation. By omitting names and other iden- \ntiﬁers from the questionnaire, the participants’ data were kept conﬁ- \ndential. Surgical site infection-positive participants were given access to \ntheir physicians and received care according to the national standards. \nAcknowledgments \nFirst, we give special thanks to Bule Hora University for giving us \nthe opportunity to prepare this research project. Furthermore, we ac- \nknowledge the medical laboratory science staﬀfor their support and \ngood approach. Finally, we express our deepest appreciation to all par- \nticipants. \nAuthor contributions \nAll authors were involved in conceptualisation, proposal develop- \nment, project management, research and monitoring, data analysis, su- \npervision of the data collection process, document preparation, interpre- \ntation, writing, and manuscript preparation. All the authors have read \nand approved the ﬁnal version of the manuscript. \nAvailability of data and materials \nData used in this study are available and included in this manuscript. \nTherefore, we can communicate with you if future processes are re- \nquired. \nConsent for publication \nNot applicable. \nSupplementary materials \nSupplementary material associated with this article can be found, in \nthe online version, at doi:10.1016/j.ijregi.2024.100565 . \nReferences \n[1] Misha G, Chelkeba L, Melaku T. Bacterial proﬁle and antimicrobial susceptibility \npatterns of isolates among patients diagnosed with surgical site infection at a ter- \ntiary teaching hospital in Ethiopia: a prospective cohort study. Ann Clin Microbiol \nAntimicrob 2021; 20 :33. doi: 10.1186/s12941-021-00440-z . \n[2] Carshon-Marsh R, Squire JS, Kamara KN, Sargsyan A, Delamou A, Camara BS, et al. \nIncidence of surgical site infection and use of antibiotics among patients who un- \nderwent Caesarean section and herniorrhaphy at a regional referral hospital, Sierra \nLeone. Int J Environ Res Public Health 2022; 19 :4048. doi: 10.3390/ijerph19074048 . \n[3] Mukagendaneza MJ, Munyaneza E, Muhawenayo E, Nyirasebura D, Abahuje E, Nyi- \nrigira J, et al. Incidence, root causes, and outcomes of surgical site infections in a \ntertiary care hospital in Rwanda: a prospective observational cohort study. Patient \nSaf Surg 2019; 13 :10. doi: 10.1186/s13037-019-0190-8 . \n[4] Attah O, Ako A, Akinyoola A, Idowu C, Oyinloye O. Risk factors associated with post- \noperative infections among orthopaedic patients with clean wounds in OAUTHC, Ile \nIfe, Nigeria. IOSR J. Dent. Med. Sci. 2019:16–24. doi: 10.9790/0853-1802071624 . \n[5] Pipaliya B, Shah P, Vegad M, Soni S, Agrawal A, Goswami A. Prevalence of SSI in post \noperative patients in tertiary health care hospital. Natl J Integr Res Med 2017; 8 :1–8 . \n[6] Mohamed AH, Mohamud HA, Arslan E. Epidemiological characteristics and predis- \nposing factors for surgical site infections caused by bacterial pathogens exhibiting \nmultidrug-resistant patterns. Antibiotics (Basel) 2021; 10 :622. doi: 10.3390/antibi- \notics10060622 . \n[7] Centers for Disease Control and Prevention Procedure associated module: surgical site \ninfection (SSI) event . Atlanta: Centers for Disease Control and Prevention; 2017 . \n[8] Abdulqader HH, Saadi AT. The distribution of pathogens, risk factors and their \nantimicrobial susceptibility patterns among post-surgical site infection in Rizgari \nTeaching Hospital in Erbil/Kurdistan Region/Iraq. J Duhok Univ 2019; 22 :1–10. \ndoi: 10.26682/sjuod.2019.22.1.1 . \n[9] Regmi SM, Sharma BK, Lamichhane PP, Gautam G, Pradhan S, Kuwar R. Bacterio- \nlogical proﬁle and antimicrobial susceptibility patterns of wound infections among \nadult patients attending Gandaki Medical College Teaching Hospital. Nepal. J Gan- \ndaki Med Coll Nepal 2020; 13 :60–4. doi: 10.3126/jgmcn.v13i1.28973 . \n[10] Abba Ruba Sunanthini C. Prevalence of nosocomial infection in surgical wounds among \npostoperative patients and their antimicrobial susceptibility pattern . Chennai: Madras \nMedical College; 2015 . \n[11] Wenzel RP. Surgical site infections and the microbiome: an updated perspective. \nInfect Control Hosp Epidemiol 2019; 40 :590–6. doi: 10.1017/ice.2018.363 . \n[12] Gallo J, Nieslanikova E. Prevention of prosthetic joint infection: from traditional \napproaches towards quality improvement and data mining. J Clin Med 2020; 9 :2190. \ndoi: 10.3390/jcm9072190 . \n[13] Kodama F, Nace DA, Jump RLP. Respiratory syncytial virus and other nonin- \nﬂuenza respiratory viruses in older adults. Infect Dis Clin North Am 2017; 31 :767–90. \ndoi: 10.1016/j.idc.2017.07.006 . \n[14] Vandenbroucke-Grauls CMJE, Kluytmans JAJW. Tracing the origins of antibiotic \nresistance. Nat Med 2022; 28 :638–40. doi: 10.1038/s41591-022-01752-z . \n[15] Omoyibo EE, Oladele AO, Ibrahim MH, Adekunle OT. Antibiotic susceptibility of \nwound swab isolates in a tertiary hospital in Southwest Nigeria. Ann Afr Med \n2018; 17 :110–16. doi: 10.4103/aam.aam_22_17 . \n[16] Admassie M, Tsige E, Chanie M. Isolation, identiﬁcation and antibiotic susceptibility \npattern of bacteria isolated from wounds of patients attending at arsho advanced \nmedical laboratory. Science 2018; 7 :20–4. doi: 10.11648/j.sjcm.20180702.12 . \n[17] Zhao D, Liang G-H, Pan J-K, Zeng L-F, Luo M-H, Huang H-T, et al. Risk factors \nfor postoperative surgical site infections after anterior cruciate ligament reconstruc- \ntion: a systematic review and meta-analysis. Br J Sports Med 2023; 57 :118–28. \ndoi: 10.1136/bjsports-2022-105448 . \n[18] Olowo-Okere A, YKE Ibrahim, Olayinka BO, Ehinmidu JO. Epidemiology of surgical \nsite infections in Nigeria: a systematic review and meta-analysis. Niger Postgrad Med \nJ 2019; 26 :143–51. doi: 10.4103/npmj.npmj_72_19 . \n[19] Babayan RK. Re: underlying reasons associated with hospital readmission following \nsurgery in the United States. J Urol 2015; 194 :448. doi: 10.1016/j.juro.2015.05.006 . \n[20] Badia JM, Casey AL, Petrosillo N, Hudson PM, Mitchell SA, Crosby C. Impact of surgi- \ncal site infection on healthcare costs and patient outcomes: a systematic review in six \nEuropean countries. J Hosp Infect 2017; 96 :1–15. doi: 10.1016/j.jhin.2017.03.004 . \n[21] Amare B, Abdurrahman Z, Moges B, Ali J, Muluken L, Alemayehu M, et al. Postop- \nerative surgical site bacterial infections and drug susceptibility patterns at Gondar \nUniversity Teaching Hospital, Northwest Ethiopia. J Bacteriol Parasitol 2011; 2 :126. \ndoi: 10.4172/2155-9597.1000126 . \n[22] Curcio D, Cane A, Fernández F, Correa J. Surgical site infection in elective clean and \nclean-contaminated surgeries in developing countries. Int J Infect Dis 2019; 80 :34–\n45. doi: 10.1016/j.ijid.2018.12.013 . \n[23] Khan FU, Khan Z, Ahmed N, Rehman AU. A general overview of incidence, associ- \nated risk factors, and treatment outcomes of surgical site infections. Indian J Surg \n2020; 82 :449–59. doi: 10.1007/s12262-020-02071-8 . \n7\n",
+   "n_chars": 8857,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      37.9,
+      37.0,
+      558.0,
+      43.4
+     ],
+     "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\n"
+    },
+    {
+     "bbox": [
+      37.9,
+      57.8,
+      292.7,
+      118.1
+     ],
+     "text": "signs of malnutrition were signiﬁcantly associated with the development \nof SSIs ( P = 0.010). This ﬁnding supports the results of similar studies \n[ 59 ]. This could be due to the fact that malnutrition reduces immu- \nnity, and surgical procedures themselves compromise patient immune \ndefences, thereby predisposing patients to the emergence of microbial \nﬂora [ 60 , 61 ]. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      132.5,
+      166.9,
+      140.6
+     ],
+     "text": "Conclusion and recommendation \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      153.5,
+      292.6,
+      255.6
+     ],
+     "text": "The study found a high prevalence of SSIs (15.8%), with S. aureus be- \ning the most common isolate. Many organisms are resistant to multiple \nantibiotics, which highlights the issue of antimicrobial resistance. Fac- \ntors such as older age, longer hospital stays, extended operative times, \nand malnutrition were signiﬁcantly associated with SSIs. This study rec- \nommends reviewing current infection prevention practices, establishing \na functional microbiology laboratory, and limiting the use of certain \nantibiotics. Future studies should include fungi and anaerobic bacteria, \nand a nationwide survey of SSIs and antimicrobial resistance is recom- \nmended. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      270.1,
+      176.0,
+      278.2
+     ],
+     "text": "Declarations of competing interests \n"
+    },
+    {
+     "bbox": [
+      49.9,
+      291.0,
+      236.6,
+      299.1
+     ],
+     "text": "The authors have no competing interests to declare. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      313.5,
+      72.5,
+      321.6
+     ],
+     "text": "Funding \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      334.4,
+      292.6,
+      352.9
+     ],
+     "text": "This research did not receive any speciﬁc grant from funding agen- \ncies in the public, commercial, or not-for-proﬁt sectors. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      367.4,
+      205.9,
+      375.4
+     ],
+     "text": "Ethical approval and consent to participate \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      388.3,
+      292.6,
+      511.4
+     ],
+     "text": "The Ethical Review Board Committee (IRBC/22) of Bule Hora Uni- \nversity examined and approved the study. Bule Hora University Teach- \ning Hospital received a formal support letter. The institution, parent \nor guardian, and study participants provided informed, voluntary, and \nwritten informed consent. Each participant received information regard- \ning the study, including its objectives, methods, potential risks, and ad- \nvantages. Participants were informed of their right to decline or leave \nthe study at any time. The study participants were unaﬀected by their \ndecision to decline participation. By omitting names and other iden- \ntiﬁers from the questionnaire, the participants’ data were kept conﬁ- \ndential. Surgical site infection-positive participants were given access to \ntheir physicians and received care according to the national standards. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      525.8,
+      110.9,
+      533.9
+     ],
+     "text": "Acknowledgments \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      546.8,
+      292.6,
+      596.7
+     ],
+     "text": "First, we give special thanks to Bule Hora University for giving us \nthe opportunity to prepare this research project. Furthermore, we ac- \nknowledge the medical laboratory science staﬀfor their support and \ngood approach. Finally, we express our deepest appreciation to all par- \nticipants. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      611.1,
+      121.4,
+      619.2
+     ],
+     "text": "Author contributions \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      632.1,
+      292.6,
+      681.9
+     ],
+     "text": "All authors were involved in conceptualisation, proposal develop- \nment, project management, research and monitoring, data analysis, su- \npervision of the data collection process, document preparation, interpre- \ntation, writing, and manuscript preparation. All the authors have read \nand approved the ﬁnal version of the manuscript. \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      696.4,
+      168.9,
+      704.4
+     ],
+     "text": "Availability of data and materials \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      717.3,
+      292.6,
+      746.2
+     ],
+     "text": "Data used in this study are available and included in this manuscript. \nTherefore, we can communicate with you if future processes are re- \nquired. \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      57.7,
+      399.8,
+      65.8
+     ],
+     "text": "Consent for publication \n"
+    },
+    {
+     "bbox": [
+      318.9,
+      78.7,
+      375.8,
+      86.7
+     ],
+     "text": "Not applicable. \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      101.8,
+      405.6,
+      109.9
+     ],
+     "text": "Supplementary materials \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      122.8,
+      561.6,
+      141.3
+     ],
+     "text": "Supplementary material associated with this article can be found, in \nthe online version, at doi:10.1016/j.ijregi.2024.100565 . \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      153.9,
+      351.5,
+      161.9
+     ],
+     "text": "References \n"
+    },
+    {
+     "bbox": [
+      310.5,
+      173.4,
+      561.6,
+      180.0
+     ],
+     "text": "[1] Misha G, Chelkeba L, Melaku T. Bacterial proﬁle and antimicrobial susceptibility \n"
+    },
+    {
+     "bbox": [
+      310.5,
+      181.3,
+      561.7,
+      211.9
+     ],
+     "text": "patterns of isolates among patients diagnosed with surgical site infection at a ter- \ntiary teaching hospital in Ethiopia: a prospective cohort study. Ann Clin Microbiol \nAntimicrob 2021; 20 :33. doi: 10.1186/s12941-021-00440-z . \n[2] Carshon-Marsh R, Squire JS, Kamara KN, Sargsyan A, Delamou A, Camara BS, et al. \n"
+    },
+    {
+     "bbox": [
+      310.5,
+      213.2,
+      561.7,
+      243.7
+     ],
+     "text": "Incidence of surgical site infection and use of antibiotics among patients who un- \nderwent Caesarean section and herniorrhaphy at a regional referral hospital, Sierra \nLeone. Int J Environ Res Public Health 2022; 19 :4048. doi: 10.3390/ijerph19074048 . \n[3] Mukagendaneza MJ, Munyaneza E, Muhawenayo E, Nyirasebura D, Abahuje E, Nyi- \n"
+    },
+    {
+     "bbox": [
+      310.5,
+      245.1,
+      561.7,
+      275.6
+     ],
+     "text": "rigira J, et al. Incidence, root causes, and outcomes of surgical site infections in a \ntertiary care hospital in Rwanda: a prospective observational cohort study. Patient \nSaf Surg 2019; 13 :10. doi: 10.1186/s13037-019-0190-8 . \n[4] Attah O, Ako A, Akinyoola A, Idowu C, Oyinloye O. Risk factors associated with post- \n"
+    },
+    {
+     "bbox": [
+      310.5,
+      277.0,
+      561.8,
+      299.5
+     ],
+     "text": "operative infections among orthopaedic patients with clean wounds in OAUTHC, Ile \nIfe, Nigeria. IOSR J. Dent. Med. Sci. 2019:16–24. doi: 10.9790/0853-1802071624 . \n[5] Pipaliya B, Shah P, Vegad M, Soni S, Agrawal A, Goswami A. Prevalence of SSI in post \n"
+    },
+    {
+     "bbox": [
+      310.5,
+      300.9,
+      561.7,
+      315.5
+     ],
+     "text": "operative patients in tertiary health care hospital. Natl J Integr Res Med 2017; 8 :1–8 . \n[6] Mohamed AH, Mohamud HA, Arslan E. Epidemiological characteristics and predis- \n"
+    },
+    {
+     "bbox": [
+      310.5,
+      316.8,
+      561.6,
+      347.3
+     ],
+     "text": "posing factors for surgical site infections caused by bacterial pathogens exhibiting \nmultidrug-resistant patterns. Antibiotics (Basel) 2021; 10 :622. doi: 10.3390/antibi- \notics10060622 . \n[7] Centers for Disease Control and Prevention Procedure associated module: surgical site \n"
+    },
+    {
+     "bbox": [
+      310.5,
+      348.7,
+      561.6,
+      363.3
+     ],
+     "text": "infection (SSI) event . Atlanta: Centers for Disease Control and Prevention; 2017 . \n[8] Abdulqader HH, Saadi AT. The distribution of pathogens, risk factors and their \n"
+    },
+    {
+     "bbox": [
+      310.5,
+      364.6,
+      561.7,
+      395.2
+     ],
+     "text": "antimicrobial susceptibility patterns among post-surgical site infection in Rizgari \nTeaching Hospital in Erbil/Kurdistan Region/Iraq. J Duhok Univ 2019; 22 :1–10. \ndoi: 10.26682/sjuod.2019.22.1.1 . \n[9] Regmi SM, Sharma BK, Lamichhane PP, Gautam G, Pradhan S, Kuwar R. Bacterio- \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      396.5,
+      561.6,
+      427.0
+     ],
+     "text": "logical proﬁle and antimicrobial susceptibility patterns of wound infections among \nadult patients attending Gandaki Medical College Teaching Hospital. Nepal. J Gan- \ndaki Med Coll Nepal 2020; 13 :60–4. doi: 10.3126/jgmcn.v13i1.28973 . \n[10] Abba Ruba Sunanthini C. Prevalence of nosocomial infection in surgical wounds among \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      428.4,
+      561.6,
+      451.0
+     ],
+     "text": "postoperative patients and their antimicrobial susceptibility pattern . Chennai: Madras \nMedical College; 2015 . \n[11] Wenzel RP. Surgical site infections and the microbiome: an updated perspective. \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      452.3,
+      561.6,
+      466.9
+     ],
+     "text": "Infect Control Hosp Epidemiol 2019; 40 :590–6. doi: 10.1017/ice.2018.363 . \n[12] Gallo J, Nieslanikova E. Prevention of prosthetic joint infection: from traditional \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      468.3,
+      561.7,
+      490.8
+     ],
+     "text": "approaches towards quality improvement and data mining. J Clin Med 2020; 9 :2190. \ndoi: 10.3390/jcm9072190 . \n[13] Kodama F, Nace DA, Jump RLP. Respiratory syncytial virus and other nonin- \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      492.2,
+      561.7,
+      514.7
+     ],
+     "text": "ﬂuenza respiratory viruses in older adults. Infect Dis Clin North Am 2017; 31 :767–90. \ndoi: 10.1016/j.idc.2017.07.006 . \n[14] Vandenbroucke-Grauls CMJE, Kluytmans JAJW. Tracing the origins of antibiotic \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      516.1,
+      561.6,
+      530.7
+     ],
+     "text": "resistance. Nat Med 2022; 28 :638–40. doi: 10.1038/s41591-022-01752-z . \n[15] Omoyibo EE, Oladele AO, Ibrahim MH, Adekunle OT. Antibiotic susceptibility of \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      532.0,
+      561.7,
+      554.6
+     ],
+     "text": "wound swab isolates in a tertiary hospital in Southwest Nigeria. Ann Afr Med \n2018; 17 :110–16. doi: 10.4103/aam.aam_22_17 . \n[16] Admassie M, Tsige E, Chanie M. Isolation, identiﬁcation and antibiotic susceptibility \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      555.9,
+      561.7,
+      578.5
+     ],
+     "text": "pattern of bacteria isolated from wounds of patients attending at arsho advanced \nmedical laboratory. Science 2018; 7 :20–4. doi: 10.11648/j.sjcm.20180702.12 . \n[17] Zhao D, Liang G-H, Pan J-K, Zeng L-F, Luo M-H, Huang H-T, et al. Risk factors \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      579.8,
+      561.7,
+      610.4
+     ],
+     "text": "for postoperative surgical site infections after anterior cruciate ligament reconstruc- \ntion: a systematic review and meta-analysis. Br J Sports Med 2023; 57 :118–28. \ndoi: 10.1136/bjsports-2022-105448 . \n[18] Olowo-Okere A, YKE Ibrahim, Olayinka BO, Ehinmidu JO. Epidemiology of surgical \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      611.7,
+      561.6,
+      634.3
+     ],
+     "text": "site infections in Nigeria: a systematic review and meta-analysis. Niger Postgrad Med \nJ 2019; 26 :143–51. doi: 10.4103/npmj.npmj_72_19 . \n[19] Babayan RK. Re: underlying reasons associated with hospital readmission following \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      635.6,
+      561.7,
+      650.2
+     ],
+     "text": "surgery in the United States. J Urol 2015; 194 :448. doi: 10.1016/j.juro.2015.05.006 . \n[20] Badia JM, Casey AL, Petrosillo N, Hudson PM, Mitchell SA, Crosby C. Impact of surgi- \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      651.6,
+      561.7,
+      674.1
+     ],
+     "text": "cal site infection on healthcare costs and patient outcomes: a systematic review in six \nEuropean countries. J Hosp Infect 2017; 96 :1–15. doi: 10.1016/j.jhin.2017.03.004 . \n[21] Amare B, Abdurrahman Z, Moges B, Ali J, Muluken L, Alemayehu M, et al. Postop- \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      675.5,
+      561.7,
+      706.0
+     ],
+     "text": "erative surgical site bacterial infections and drug susceptibility patterns at Gondar \nUniversity Teaching Hospital, Northwest Ethiopia. J Bacteriol Parasitol 2011; 2 :126. \ndoi: 10.4172/2155-9597.1000126 . \n[22] Curcio D, Cane A, Fernández F, Correa J. Surgical site infection in elective clean and \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      707.4,
+      561.7,
+      729.9
+     ],
+     "text": "clean-contaminated surgeries in developing countries. Int J Infect Dis 2019; 80 :34–\n45. doi: 10.1016/j.ijid.2018.12.013 . \n[23] Khan FU, Khan Z, Ahmed N, Rehman AU. A general overview of incidence, associ- \n"
+    },
+    {
+     "bbox": [
+      323.0,
+      731.3,
+      561.7,
+      745.9
+     ],
+     "text": "ated risk factors, and treatment outcomes of surgical site infections. Indian J Surg \n2020; 82 :449–59. doi: 10.1007/s12262-020-02071-8 . \n"
+    },
+    {
+     "bbox": [
+      296.1,
+      760.4,
+      299.7,
+      766.8
+     ],
+     "text": "7\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\n[24] Allegranzi B, Bagheri Nejad SB, Combescure C, Graafmans W, Attar H, Don- \naldson L, et al. Burden of endemic health-care-associated infection in develop- \ning countries: systematic review and meta-analysis. Lancet 2011; 377 :228–41. \ndoi: 10.1016/S0140-6736(10)61458-4 . \n[25] Bagheri Nejad SB, Allegranzi B, Syed SB, Ellis B, Pittet D. Health-care-associated \ninfection in Africa: a systematic review. Bull World Health Organ 2011; 89 :757–65. \ndoi: 10.2471/BLT.11.088179 . \n[26] Gedefaw G, Asires A, Shiferaw S, Addisu D. Factors associated with surgical site \ninfection among women undergoing obstetrics surgery at Felegehiwot referral hos- \npital, Bahir Dar, Northwest Ethiopia: a retrospective cross-sectional study. Saf Health \n2018; 4 :1–9 . \n[27] Weldu MG, Berhane H, Berhe N, Haile K, Sibhatu Y, Gidey T, et al. Mag- \nnitude and determinant factors of surgical site infection in Suhul hospital \nTigrai, northern Ethiopia: a cross-sectional study. Surg Infect 2018; 19 :684–90. \ndoi: 10.1089/sur.2017.312 . \n[28] National Collaborating Center for Women’s and Children’s Health (UK) Surgical site \ninfection: prevention and treatment of surgical site infection . London: RCOG Press; 2008 . \n[29] Iskandar K, Sartelli M, Tabbal M, Ansaloni L, Baiocchi GL, Catena F, et al. High- \nlighting the gaps in quantifying the economic burden of surgical site infections \nassociated with antimicrobial-resistant bacteria. World J Emerg Surg 2019; 14 :50. \ndoi: 10.1186/s13017-019-0266-x . \n[30] Awoke N, Arba A, Girma A. Magnitude of surgical site infection and its associated \nfactors among patients who underwent a surgical procedure at Wolaita Sodo Univer- \nsity Teaching and Referral Hospital, South Ethiopia. PLoS One 2019; 14 :e0226140. \ndoi: 10.1371/journal.pone.0226140 . \n[31] Horan TC, Andrus M, Dudeck MA. CDC/NHSN surveillance deﬁnition of health care–\nassociated infection and criteria for speciﬁc types of infections in the acute care \nsetting. Am J Infect Control 2008; 36 :309–32. doi: 10.1016/j.ajic.2008.03.002 . \n[32] Murray PR, Rosenthal KS, Pfaller MA. Medical microbiology e-book . Amsterdam: El- \nsevier Health Sciences; 2020 . \n[33] Gillespie S, Hawkey PM. Principles and practice of clinical bacteriology . Chichester: \nJohn Wiley & Sons; 2006 . \n[34] Murray PR. Medical microbiology: Mosby . St. Louis, Missouri; 1998 . \n[35] Humphries R, Bobenchik AM, Hindler JA, Schuetz AN. Overview of changes to \nthe clinical and laboratory standards institute performance standards for antimicro- \nbial susceptibility testing, M100, 31st Edition. J Clin Microbiol 2021; 59 :e0021321. \ndoi: 10.1128/JCM.00213-21 . \n[36] Hemmati H, Hasannejad-Bibalan M, Khoshdoz S, Khoshdoz P, Yaghubi Kalurazi T, \nSedigh Ebrahim-Saraie H, et al. Two years study of prevalence and antibiotic resis- \ntance pattern of Gram-negative bacteria isolated from surgical site infections in the \nNorth of Iran. BMC Res Notes 2020; 13 :383. doi: 10.1186/s13104-020-05223-x . \n[37] Hudzicki J. Kirby-Bauer disk diﬀusion susceptibility test protocol . Washington: Ameri- \ncan society for microbiology; 2009 . \n[38] Alamrew K, Tadesse TA, Abiye AA, Shibeshi W. Surgical antimicrobial pro- \nphylaxis and incidence of surgical site infections at Ethiopian Tertiary- \nCare Teaching Hospital. Infect Dis (Auckl) \n2019; 12 1178633719892267. \ndoi: 10.1177/1178633719892267 . \n[39] Shakir A, Abate D, Tebeje F, Weledegebreal F. Magnitude of surgical site infections, \nbacterial etiologies, associated factors and antimicrobial susceptibility patterns of \nisolates among post-operative patients in Harari region public hospitals, Harar, East- \nern Ethiopia. Infect Drug Resist 2021; 14 :4629–39. doi: 10.2147/IDR.S329721 . \n[40] Abayneh M, Asnake M, Muleta D, Simieneh A. Assessment of bacterial proﬁles and \nantimicrobial susceptibility pattern of isolates among patients diagnosed with surgi- \ncal site infections at Mizan-Tepi University Teaching Hospital, Southwest Ethiopia: \na prospective observational cohort study. Infect Drug Resist 2022; 15 :1807–19. \ndoi: 10.2147/IDR.S357704 . \n[41] Legesse Laloto T, Hiko Gemeda D, Abdella SH. Incidence and predictors of sur- \ngical site infection in Ethiopia: prospective cohort. BMC Infect Dis 2017; 17 :119. \ndoi: 10.1186/s12879-016-2167-x . \n[42] Kefale B, Tegegne GT, Degu A, Molla M, Kefale Y. Surgical site infections and pro- \nphylaxis antibiotic use in the surgical ward of public hospital in Western Ethiopia: a \nhospital-based retrospective cross-sectional study. Infect Drug Resist 2020; 13 :3627–\n35. doi: 10.2147/IDR.S281097 . \n[43] Misha G, Chelkeba L, Melaku T. Incidence, risk factors and outcomes of sur- \ngical site infections among patients admitted to Jimma Medical Center, South \nWest Ethiopia: prospective cohort study. Ann Med Surg (Lond) 2021; 65 :102247. \ndoi: 10.1016/j.amsu.2021.102247 . \n[44] Lakoh S, Yi L, Sevalie S, Guo X, Adekanmbi O, Smalle IO, et al. Incidence and \nrisk factors of surgical site infections and related antibiotic resistance in Freetown, \nSierra Leone: a prospective cohort study. Antimicrob Resist Infect Control 2022; 11 :39. \ndoi: 10.1186/s13756-022-01078-y . \n[45] Pal S, Sayana A, Joshi A, Juyal D. Staphylococcus aureus: a predominant cause of \nsurgical site infections in a rural healthcare setup of Uttarakhand. J Fam Med Prim \nCare 2019; 8 :3600–6. doi: 10.4103/jfmpc.jfmpc_521_19 . \n[46] Misganaw D, Linger B, Abesha A. Surgical antibiotic prophylaxis use and surgical site \ninfection pattern in Dessie Referral Hospital, Dessie, Northeast of Ethiopia. BioMed \nRes Int 2020; 2020 :1695683. doi: 10.1155/2020/1695683 . \n[47] Alelign D, Tena T, Tadesse D, Tessema M, Seid M, Oumer Y, et al. Bacteriologi- \ncal proﬁles, antimicrobial susceptibility patterns, and associated factors in patients \nundergoing orthopedic surgery with suspicion of surgical site infection at Arba \nMinch general hospital in Southern Ethiopia. Infect Drug Resist 2022; 15 :2427–43. \ndoi: 10.2147/IDR.S367510 . \n[48] Zahran WA, Zein-Eldeen AA, Hamam SS. Elsayed Sabal MSE. Surgical site infec- \ntions: problem of multidrug-resistant bacteria. Menouﬁa Med J 2017; 30 :1005. \ndoi: 10.4103/mmj.mmj_119_17 . \n[49] Dessie W, Mulugeta G, Fentaw S, Mihret A, Hassen M, Abebe E. Pattern of bac- \nterial pathogens and their susceptibility isolated from surgical site infections at se- \nlected referral hospitals, Addis Ababa, Ethiopia. Int J Microbiol 2016; 2016 :2418902. \ndoi: 10.1155/2016/2418902 . \n[50] Fisha K, Azage M, Mulat G, Tamirat KS. The prevalence and root causes of sur- \ngical site infections in public versus private hospitals in Ethiopia: a retrospective \nobservational cohort study. Patient Saf Surg 2019; 13 :26. doi: 10.1186/s13037-019- \n0206-4 . \n[51] Dégbey C, Kpozehouen A, Coulibaly D, Chigblo P, Avakoudjo J, Ouendo E-M, \net al. Prevalence and factors associated with surgical site infections in the uni- \nversity Clinics of Traumatology and Urology of the National University Hospital \nCentre Hubert Koutoukou Maga in Cotonou. Front Public Health 2021; 9 :629351. \ndoi: 10.3389/fpubh.2021.629351 . \n[52] Hernaiz-Leonardo JC, Golzarri MF, Cornejo-Juárez P, Volkow P, Velázquez C, \nOstrosky-Frid M, et al. Microbiology of surgical site infections in pa- \ntients with cancer: a 7-year review. Am J Infect Control \n2017; 45 :761–6. \ndoi: 10.1016/j.ajic.2017.02.023 . \n[53] World Health Organization World Alliance for Patient Safety. WHO guidelines for safe \nsurgery . Geneva: World Health Organization; 2008 . \n[54] Kalayu AA, Diriba K, Girma C, Abdella E. Incidence and bacterial etiologies of sur- \ngical site infections in a Public Hospital, Addis Ababa, Ethiopia. Open Microbiol J \n2019; 13 :301–7. doi: 10.2174/1874285801913010301 . \n[55] Sisay M, Worku T, Edessa D. Microbial epidemiology and antimicrobial \nresistance patterns of wound infection in Ethiopia: a meta-analysis of \nlaboratory-based cross-sectional studies. BMC Pharmacol Toxicol 2019; 20 :35. \ndoi: 10.1186/s40360-019-0315-9 . \n[56] Pathak A, Saliba EA, Sharma S, Mahadik VK, Shah H, Lundborg CS. Incidence and \nfactors associated with surgical site infections in a teaching hospital in Ujjain, India. \nAm J Infect Control 2014; 42 :e11–15. doi: 10.1016/j.ajic.2013.06.013 . \n[57] Abdu A, Egbagba DJ, Fente B. Identiﬁcation and antimicrobial susceptibility pro- \nﬁle of bacterial pathogens isolated from wound infections in a tertiary hospi- \ntal, Bayelsa, South southern, Nigeria. Trop J Pathol Microbiol 2019; 5 :966–75. \ndoi: 10.17511/jopm.2019.i12.01 . \n[58] Kabanangi F, Joachim A, Nkuwi EJ, Manyahi J, Moyo S, Majigo M. High level of \nmultidrug-resistant gram-negative pathogens causing burn wound infections in hos- \npitalized children in Dar es salaam, Tanzania. Int J Microbiol 2021; 2021 :6644185. \ndoi: 10.1155/2021/6644185 . \n[59] Pruzansky JS, Bronson MJ, Grelsamer RP, Strauss E, Moucha CS. Prevalence \nof modiﬁable surgical site infection risk factors in hip and knee joint arthro- \nplasty patients at an urban academic hospital. J Arthroplasty 2014; 29 :272–6. \ndoi: 10.1016/j.arth.2013.06.019 . \n[60] Tsantes AG, Papadopoulos DV, Lytras T, Tsantes AE, Mavrogenis AF, Koulou- \nvaris P, et al. Association of malnutrition with surgical site infection following \nspinal surgery: systematic review and meta-analysis. J Hosp Infect 2020; 104 :111–19. \ndoi: 10.1016/j.jhin.2019.09.015 . \n[61] Tsantes AG, Papadopoulos DV, Lytras T, Tsantes AE, Mavrogenis AF, Korompil- \nias AV, et al. Association of malnutrition with periprosthetic joint and surgical site \ninfections after total joint arthroplasty: a systematic review and meta-analysis. J \nHosp Infect 2019; 103 :69–77. doi: 10.1016/j.jhin.2019.04.020 . \n8\n",
+   "n_chars": 9728,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      37.9,
+      37.0,
+      558.0,
+      43.4
+     ],
+     "text": "K. Boru, A. Aliyo, D. Daka et al.\nIJID Regions 14 (2025) 100565\n"
+    },
+    {
+     "bbox": [
+      37.9,
+      58.8,
+      292.6,
+      65.4
+     ],
+     "text": "[24] Allegranzi B, Bagheri Nejad SB, Combescure C, Graafmans W, Attar H, Don- \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      66.8,
+      292.6,
+      97.3
+     ],
+     "text": "aldson L, et al. Burden of endemic health-care-associated infection in develop- \ning countries: systematic review and meta-analysis. Lancet 2011; 377 :228–41. \ndoi: 10.1016/S0140-6736(10)61458-4 . \n[25] Bagheri Nejad SB, Allegranzi B, Syed SB, Ellis B, Pittet D. Health-care-associated \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      98.6,
+      292.7,
+      121.2
+     ],
+     "text": "infection in Africa: a systematic review. Bull World Health Organ 2011; 89 :757–65. \ndoi: 10.2471/BLT.11.088179 . \n[26] Gedefaw G, Asires A, Shiferaw S, Addisu D. Factors associated with surgical site \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      122.5,
+      292.7,
+      153.1
+     ],
+     "text": "infection among women undergoing obstetrics surgery at Felegehiwot referral hos- \npital, Bahir Dar, Northwest Ethiopia: a retrospective cross-sectional study. Saf Health \n2018; 4 :1–9 . \n[27] Weldu MG, Berhane H, Berhe N, Haile K, Sibhatu Y, Gidey T, et al. Mag- \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      154.4,
+      292.6,
+      185.0
+     ],
+     "text": "nitude and determinant factors of surgical site infection in Suhul hospital \nTigrai, northern Ethiopia: a cross-sectional study. Surg Infect 2018; 19 :684–90. \ndoi: 10.1089/sur.2017.312 . \n[28] National Collaborating Center for Women’s and Children’s Health (UK) Surgical site \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      186.3,
+      292.7,
+      200.9
+     ],
+     "text": "infection: prevention and treatment of surgical site infection . London: RCOG Press; 2008 . \n[29] Iskandar K, Sartelli M, Tabbal M, Ansaloni L, Baiocchi GL, Catena F, et al. High- \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      202.3,
+      292.7,
+      232.8
+     ],
+     "text": "lighting the gaps in quantifying the economic burden of surgical site infections \nassociated with antimicrobial-resistant bacteria. World J Emerg Surg 2019; 14 :50. \ndoi: 10.1186/s13017-019-0266-x . \n[30] Awoke N, Arba A, Girma A. Magnitude of surgical site infection and its associated \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      234.1,
+      292.6,
+      264.7
+     ],
+     "text": "factors among patients who underwent a surgical procedure at Wolaita Sodo Univer- \nsity Teaching and Referral Hospital, South Ethiopia. PLoS One 2019; 14 :e0226140. \ndoi: 10.1371/journal.pone.0226140 . \n[31] Horan TC, Andrus M, Dudeck MA. CDC/NHSN surveillance deﬁnition of health care–\n"
+    },
+    {
+     "bbox": [
+      37.9,
+      266.0,
+      292.7,
+      288.6
+     ],
+     "text": "associated infection and criteria for speciﬁc types of infections in the acute care \nsetting. Am J Infect Control 2008; 36 :309–32. doi: 10.1016/j.ajic.2008.03.002 . \n[32] Murray PR, Rosenthal KS, Pfaller MA. Medical microbiology e-book . Amsterdam: El- \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      289.9,
+      292.6,
+      304.5
+     ],
+     "text": "sevier Health Sciences; 2020 . \n[33] Gillespie S, Hawkey PM. Principles and practice of clinical bacteriology . Chichester: \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      305.9,
+      292.6,
+      328.4
+     ],
+     "text": "John Wiley & Sons; 2006 . \n[34] Murray PR. Medical microbiology: Mosby . St. Louis, Missouri; 1998 . \n[35] Humphries R, Bobenchik AM, Hindler JA, Schuetz AN. Overview of changes to \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      329.8,
+      292.6,
+      360.3
+     ],
+     "text": "the clinical and laboratory standards institute performance standards for antimicro- \nbial susceptibility testing, M100, 31st Edition. J Clin Microbiol 2021; 59 :e0021321. \ndoi: 10.1128/JCM.00213-21 . \n[36] Hemmati H, Hasannejad-Bibalan M, Khoshdoz S, Khoshdoz P, Yaghubi Kalurazi T, \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      361.7,
+      292.7,
+      392.2
+     ],
+     "text": "Sedigh Ebrahim-Saraie H, et al. Two years study of prevalence and antibiotic resis- \ntance pattern of Gram-negative bacteria isolated from surgical site infections in the \nNorth of Iran. BMC Res Notes 2020; 13 :383. doi: 10.1186/s13104-020-05223-x . \n[37] Hudzicki J. Kirby-Bauer disk diﬀusion susceptibility test protocol . Washington: Ameri- \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      393.5,
+      292.6,
+      408.1
+     ],
+     "text": "can society for microbiology; 2009 . \n[38] Alamrew K, Tadesse TA, Abiye AA, Shibeshi W. Surgical antimicrobial pro- \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      409.5,
+      292.7,
+      440.0
+     ],
+     "text": "phylaxis and incidence of surgical site infections at Ethiopian Tertiary- \nCare Teaching Hospital. Infect Dis (Auckl) \n2019; 12 1178633719892267. \ndoi: 10.1177/1178633719892267 . \n[39] Shakir A, Abate D, Tebeje F, Weledegebreal F. Magnitude of surgical site infections, \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      441.4,
+      292.7,
+      471.9
+     ],
+     "text": "bacterial etiologies, associated factors and antimicrobial susceptibility patterns of \nisolates among post-operative patients in Harari region public hospitals, Harar, East- \nern Ethiopia. Infect Drug Resist 2021; 14 :4629–39. doi: 10.2147/IDR.S329721 . \n[40] Abayneh M, Asnake M, Muleta D, Simieneh A. Assessment of bacterial proﬁles and \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      473.2,
+      292.7,
+      511.7
+     ],
+     "text": "antimicrobial susceptibility pattern of isolates among patients diagnosed with surgi- \ncal site infections at Mizan-Tepi University Teaching Hospital, Southwest Ethiopia: \na prospective observational cohort study. Infect Drug Resist 2022; 15 :1807–19. \ndoi: 10.2147/IDR.S357704 . \n[41] Legesse Laloto T, Hiko Gemeda D, Abdella SH. Incidence and predictors of sur- \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      513.1,
+      292.7,
+      535.6
+     ],
+     "text": "gical site infection in Ethiopia: prospective cohort. BMC Infect Dis 2017; 17 :119. \ndoi: 10.1186/s12879-016-2167-x . \n[42] Kefale B, Tegegne GT, Degu A, Molla M, Kefale Y. Surgical site infections and pro- \n"
+    },
+    {
+     "bbox": [
+      37.9,
+      537.0,
+      292.7,
+      567.5
+     ],
+     "text": "phylaxis antibiotic use in the surgical ward of public hospital in Western Ethiopia: a \nhospital-based retrospective cross-sectional study. Infect Drug Resist 2020; 13 :3627–\n35. doi: 10.2147/IDR.S281097 . \n[43] Misha G, Chelkeba L, Melaku T. Incidence, risk factors and outcomes of sur- \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      568.9,
+      292.7,
+      591.4
+     ],
+     "text": "gical site infections among patients admitted to Jimma Medical Center, South \nWest Ethiopia: prospective cohort study. Ann Med Surg (Lond) 2021; 65 :102247. \ndoi: 10.1016/j.amsu.2021.102247 . \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      58.8,
+      561.7,
+      65.4
+     ],
+     "text": "[44] Lakoh S, Yi L, Sevalie S, Guo X, Adekanmbi O, Smalle IO, et al. Incidence and \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      66.8,
+      561.7,
+      97.3
+     ],
+     "text": "risk factors of surgical site infections and related antibiotic resistance in Freetown, \nSierra Leone: a prospective cohort study. Antimicrob Resist Infect Control 2022; 11 :39. \ndoi: 10.1186/s13756-022-01078-y . \n[45] Pal S, Sayana A, Joshi A, Juyal D. Staphylococcus aureus: a predominant cause of \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      98.6,
+      561.7,
+      121.2
+     ],
+     "text": "surgical site infections in a rural healthcare setup of Uttarakhand. J Fam Med Prim \nCare 2019; 8 :3600–6. doi: 10.4103/jfmpc.jfmpc_521_19 . \n[46] Misganaw D, Linger B, Abesha A. Surgical antibiotic prophylaxis use and surgical site \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      122.5,
+      561.7,
+      145.1
+     ],
+     "text": "infection pattern in Dessie Referral Hospital, Dessie, Northeast of Ethiopia. BioMed \nRes Int 2020; 2020 :1695683. doi: 10.1155/2020/1695683 . \n[47] Alelign D, Tena T, Tadesse D, Tessema M, Seid M, Oumer Y, et al. Bacteriologi- \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      146.5,
+      561.6,
+      185.0
+     ],
+     "text": "cal proﬁles, antimicrobial susceptibility patterns, and associated factors in patients \nundergoing orthopedic surgery with suspicion of surgical site infection at Arba \nMinch general hospital in Southern Ethiopia. Infect Drug Resist 2022; 15 :2427–43. \ndoi: 10.2147/IDR.S367510 . \n[48] Zahran WA, Zein-Eldeen AA, Hamam SS. Elsayed Sabal MSE. Surgical site infec- \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      186.3,
+      561.7,
+      208.9
+     ],
+     "text": "tions: problem of multidrug-resistant bacteria. Menouﬁa Med J 2017; 30 :1005. \ndoi: 10.4103/mmj.mmj_119_17 . \n[49] Dessie W, Mulugeta G, Fentaw S, Mihret A, Hassen M, Abebe E. Pattern of bac- \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      210.2,
+      561.7,
+      240.7
+     ],
+     "text": "terial pathogens and their susceptibility isolated from surgical site infections at se- \nlected referral hospitals, Addis Ababa, Ethiopia. Int J Microbiol 2016; 2016 :2418902. \ndoi: 10.1155/2016/2418902 . \n[50] Fisha K, Azage M, Mulat G, Tamirat KS. The prevalence and root causes of sur- \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      242.1,
+      561.6,
+      272.6
+     ],
+     "text": "gical site infections in public versus private hospitals in Ethiopia: a retrospective \nobservational cohort study. Patient Saf Surg 2019; 13 :26. doi: 10.1186/s13037-019- \n0206-4 . \n[51] Dégbey C, Kpozehouen A, Coulibaly D, Chigblo P, Avakoudjo J, Ouendo E-M, \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      274.0,
+      561.7,
+      312.5
+     ],
+     "text": "et al. Prevalence and factors associated with surgical site infections in the uni- \nversity Clinics of Traumatology and Urology of the National University Hospital \nCentre Hubert Koutoukou Maga in Cotonou. Front Public Health 2021; 9 :629351. \ndoi: 10.3389/fpubh.2021.629351 . \n[52] Hernaiz-Leonardo JC, Golzarri MF, Cornejo-Juárez P, Volkow P, Velázquez C, \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      313.8,
+      561.7,
+      344.4
+     ],
+     "text": "Ostrosky-Frid M, et al. Microbiology of surgical site infections in pa- \ntients with cancer: a 7-year review. Am J Infect Control \n2017; 45 :761–6. \ndoi: 10.1016/j.ajic.2017.02.023 . \n[53] World Health Organization World Alliance for Patient Safety. WHO guidelines for safe \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      345.7,
+      561.7,
+      360.3
+     ],
+     "text": "surgery . Geneva: World Health Organization; 2008 . \n[54] Kalayu AA, Diriba K, Girma C, Abdella E. Incidence and bacterial etiologies of sur- \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      361.7,
+      561.7,
+      384.2
+     ],
+     "text": "gical site infections in a Public Hospital, Addis Ababa, Ethiopia. Open Microbiol J \n2019; 13 :301–7. doi: 10.2174/1874285801913010301 . \n[55] Sisay M, Worku T, Edessa D. Microbial epidemiology and antimicrobial \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      385.6,
+      561.7,
+      416.1
+     ],
+     "text": "resistance patterns of wound infection in Ethiopia: a meta-analysis of \nlaboratory-based cross-sectional studies. BMC Pharmacol Toxicol 2019; 20 :35. \ndoi: 10.1186/s40360-019-0315-9 . \n[56] Pathak A, Saliba EA, Sharma S, Mahadik VK, Shah H, Lundborg CS. Incidence and \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      417.4,
+      561.7,
+      440.0
+     ],
+     "text": "factors associated with surgical site infections in a teaching hospital in Ujjain, India. \nAm J Infect Control 2014; 42 :e11–15. doi: 10.1016/j.ajic.2013.06.013 . \n[57] Abdu A, Egbagba DJ, Fente B. Identiﬁcation and antimicrobial susceptibility pro- \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      441.4,
+      561.7,
+      471.9
+     ],
+     "text": "ﬁle of bacterial pathogens isolated from wound infections in a tertiary hospi- \ntal, Bayelsa, South southern, Nigeria. Trop J Pathol Microbiol 2019; 5 :966–75. \ndoi: 10.17511/jopm.2019.i12.01 . \n[58] Kabanangi F, Joachim A, Nkuwi EJ, Manyahi J, Moyo S, Majigo M. High level of \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      473.2,
+      561.7,
+      503.8
+     ],
+     "text": "multidrug-resistant gram-negative pathogens causing burn wound infections in hos- \npitalized children in Dar es salaam, Tanzania. Int J Microbiol 2021; 2021 :6644185. \ndoi: 10.1155/2021/6644185 . \n[59] Pruzansky JS, Bronson MJ, Grelsamer RP, Strauss E, Moucha CS. Prevalence \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      505.1,
+      561.7,
+      535.6
+     ],
+     "text": "of modiﬁable surgical site infection risk factors in hip and knee joint arthro- \nplasty patients at an urban academic hospital. J Arthroplasty 2014; 29 :272–6. \ndoi: 10.1016/j.arth.2013.06.019 . \n[60] Tsantes AG, Papadopoulos DV, Lytras T, Tsantes AE, Mavrogenis AF, Koulou- \n"
+    },
+    {
+     "bbox": [
+      306.9,
+      537.0,
+      561.6,
+      567.5
+     ],
+     "text": "varis P, et al. Association of malnutrition with surgical site infection following \nspinal surgery: systematic review and meta-analysis. J Hosp Infect 2020; 104 :111–19. \ndoi: 10.1016/j.jhin.2019.09.015 . \n[61] Tsantes AG, Papadopoulos DV, Lytras T, Tsantes AE, Mavrogenis AF, Korompil- \n"
+    },
+    {
+     "bbox": [
+      323.0,
+      568.9,
+      561.7,
+      591.4
+     ],
+     "text": "ias AV, et al. Association of malnutrition with periprosthetic joint and surgical site \ninfections after total joint arthroplasty: a systematic review and meta-analysis. J \nHosp Infect 2019; 103 :69–77. doi: 10.1016/j.jhin.2019.04.020 . \n"
+    },
+    {
+     "bbox": [
+      296.1,
+      760.4,
+      299.7,
+      766.8
+     ],
+     "text": "8\n"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,692 @@
+
+
+===== PAGE 1 =====
+
+Original Research 
+Prevalence and Risk Factors for Surgical Site Infections at 
+Three Tertiary Hospitals in the Copperbelt Province, 
+Zambia 
+Seke M. E. Kazuma, FCS
+1a, Mumba Chalwe, FCS
+1 , Bright Chirengendure, FCS
+1, Chitalu Chanda, MMed
+2,
+Joshua Chisanga, FZCMS
+3, Stanley Zulu, FZCMS
+4, Webster Mulenga, FZCMS
+5, Simba Kaja, FCS
+1,
+Nachor Bunda, MMed
+5, Emmanuel Makasa, FCS
+6, Gershom Chongwe, PhD
+7 , Muleya N. Inambao, MMed
+8 
+1 Surgery, Ndola Teaching Hospital, 2 Internal Medicine , Ndola Teaching Hospita, 3 Surgery , Ndola Teaching Hospital, 4 Surgery, Kitwe Teaching 
+Hospital, 5 Surgery, Kitwe Teaching Teaching Hospital, 6 Surgery, University Teaching Hospital-Adult, Lusaka, Zambia, 7 Epidemiology, Tropical 
+Diseases Research Centre, 8 Pediatrics, Author Davison Children’s Hospital, Ndola, Zambia 
+Keywords: : surgical site infection, SSI, antimicrobial resistance patterns of SSI, risk factors for SSI development 
+https://doi.org/10.4314/ecajs.v30i3.2 
+East and Central African Journal of Surgery 
+Vol. 30, Issue 3, 2025 
+Abstract 
+Background 
+Surgical site infections (SSI) occur following an operative procedure in a defined postoperative period as an adverse event, 
+and result in high morbidity and mortality. The World Health Organisation (WHO) has defined diagnostic criteria for SSI, 
+including classifying SSI into Superficial SSI. This study aimed at determining the prevalence, risk factors for developing SSI, 
+and antimicrobial resistance patterns in the Copperbelt Province of Zambia. 
+Methods 
+This was a prospective observational cross-section study conducted at three tertiary hospitals in the Copperbelt Province of 
+Zambia to assess the prevalence and risk factors for surgical site infections. 
+Results 
+A total of 1122 participants were included. Of these, 468 were females and 654 were males. A total of 19.4% of participants 
+developed SSI. A total of 42.4% of participants had infection present at time of surgery. Most bacterial isolates were resistant 
+to ciprofloxacin, metronidazole, and gentamycin. Highest sensitivity was with ceftriaxone and chloramphenicol, followed by 
+metronidazole. Serratia marcescens, Yersinia pestis, Corynebacterium species, and Enterobacter agglomerans have been 
+identified as multidrug resistant organisms. 
+Conclusion 
+The prevalence of SSI at the three tertiary hospitals in the Copperbelt Province of Zambia was 19.4%. A total of 42.4% of 
+patients who presented to the hospitals requiring surgery had infection already present at time of surgery. 
+Introduction 
+Surgical site infections (SSI) occur in a defined postop­
+erative period following an operative procedure as an ad­
+verse event in surgical patient management, and result in 
+high morbidity and mortality.1 The World Health Organi­
+zation (WHO) has defined diagnostic criteria for SSI, clas­
+sifying these infections as superficial SSI (infection devel­
+ops within 30 days), deep SSI (infection develops within 90 
+days), and organ-specific or implant-associated SSI (infec­
+tion develops within 1 year).2 WHO estimates that SSI are 
+at 7.2% in the African region and that SSI are high in low- 
+and middle-income countries like Zambia.3 
+SSI arise from hospital-acquired infections that reduce 
+patient safety due to poor infection-prevention institutional 
+practices.4 Reduction of patient safety is caused by the de­
+This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International License 
+(CCBY-4.0). View this license’s legal deed at http://creativecommons.org/licenses/by/4.0 and legal code at http://creativecom­
+mons.org/licenses/by/4.0/legalcode for more information. 
+Corresponding Author: sekekazuma@gmail.com 
+a 
+Kazuma SME, Chalwe M, Chirengendure B, et al. Prevalence and Risk Factors for
+Surgical Site Infections at Three Tertiary Hospitals in the Copperbelt Province, Zambia.
+East Cent Afr J Surg. 2025;30(3):5-12. doi:10.4314/ecajs.v30i3.2
+
+
+===== PAGE 2 =====
+
+velopment of antimicrobial resistance microorganisms that 
+add to the high cost of managing SSI and lead to increased 
+hospital stays.5 In the perioperative period, adherence to 
+guidelines can minimize the development of SSI, even 
+though elimination of SSI is an immense challenge.3 
+SSI cause discomfort, increase patient hospital stays, 
+raise the cost of management, and can result in catastrophic 
+outcomes.6,7 The prevention of SSI requires a clean hos­
+pital environment, sterile operating room (OR), and the 
+implementation of evidence-based SSI management proto­
+cols.3,8 Understanding SSI risk factors responsible for the 
+development of SSI and formulating prevention strategies 
+require institutional studies that elucidate data on prevail­
+ing microorganisms and their antimicrobial resistance pat­
+terns.8 
+This study aimed at determining the prevalence, risk fac­
+tors for developing SSI, and antimicrobial resistance pat­
+terns at Ndola Teaching Hospital, Kitwe Teaching Hospital, 
+and Arthur Davison Children’s Hospital, in the Copperbelt 
+Province of Zambia. 
+Methodology 
+This was a prospective observational cross-sectional study 
+conducted from January 2020 to December 2021. Conve­
+nient sampling of patients who were available for admis­
+sion and fulfilled the inclusion criteria was used to recruit 
+study participants. This study was conducted in the Copper­
+belt Province of Zambia at 3 tertiary hospitals. The Copper­
+belt Province has 3 tertiary public hospitals, namely Ndola 
+Teaching Hospital, Kitwe Teaching Hospital, and Arthur 
+Davison Children’s Hospital. 
+A total of 1122 participants were included in the study. 
+This study primarily focused on superficial SSI, defined by 
+WHO as postoperative infections occurring in the opera­
+tive wound 30 days following a procedure. We followed the 
+WHO Surgical Unit-based Safety Program, which advises 
+that surveillance of SSI can be done with any number of pa­
+tients. The study used data collection sheets that were mod­
+ified from the WHO Surgical Unit-based Safety Program 
+surveillance form, and data were entered into Microsoft Ex­
+cel for cleaning and analysis. 
+Procedure 
+After confirmation of diagnosis, for surgical patients pre­
+senting to admission wards, by evaluation of clinical de­
+tails, physical examination, and appropriate investigations, 
+patients who underwent an operative surgical procedure 
+that was superficial to deep fascia were enrolled per the 
+inclusion and exclusion criteria. The presence of SSI was 
+based on symptoms and signs of SSI, identification of the 
+microorganism and its antimicrobial sensitivity, and resis­
+tance patterns. Symptoms included pain and pus draining 
+from the wound site, while signs included redness, 
+swelling, pus drainage, and wound dehiscence. Pus swabs 
+Figure 1. Gender of participants. 
+collected were subjected to microscopy, culture, and sensi­
+tivity. Phone follow-up was also used with patient wound-
+site pictures. Informed consent was obtained from patients 
+or guardians. Information was collected according to pe­
+rioperative and postoperative forms and phone follow-up 
+forms. Wound surveillance was conducted for 30 days from 
+the time of the procedure. 
+Ethics 
+Ethics approval was obtained from the Tropical Diseases 
+Research Centre Ethics Review Committee, with IRB reg­
+istration number 00002911, and the National Health Re­
+search Authority. 
+Statistical Analysis 
+Using IBM SSPS Statistics, descriptive analysis was per­
+formed using proportions and frequencies for categorical 
+variables, means with standard deviations, and medians 
+with interquartile ranges for skewed data. Associations of 
+variables were analyzed using the chi-square test for cate­
+gorical variables. Further analysis of the outcome was con­
+ducted using logistical regression. 
+Results 
+A total of 1122 participants were included. Of these, 468 
+were females and 654 were males. Figure 1 presents the 
+baseline characteristics of patients enrolled in the study. 
+Figure 1 also shows that more males than females devel­
+oped SSI. However, gender was not a risk factor for SSI, 
+with a P value of 0.319. 
+The results in Figure 2 show that the majority (25.7%) 
+of the participants were aged between 21–30 years, fol­
+lowed by those between 31–40 years (24%), with the small­
+est number being those aged 10 years and below (0.1%). 
+However, age was not significant for development of SSI, 
+with a P value of 0.319. 
+Figure 3 shows that most (40.8%) participants had clean 
+wounds, followed by those with dirty wounds (33%). Con­
+taminated and dirty wound categories consisted of patients 
+Prevalence and Risk Factors for Surgical Site Infections in Zambia
+East and Central African Journal of Surgery
+6
+
+
+===== PAGE 3 =====
+
+Figure 2. Age of participants. 
+Figure 3. Surgical Wound Classification. 
+Figure 4. Surgical operations based on urgency. 
+who had infections present at time of surgery, representing 
+476 participants (42.4%). Wound class and development of 
+SSI was not significant, with a P value of 0.921. 
+Figure 4 shows that the majority of participants had 
+emergency surgery; however, the difference between the 
+groups is minimal and not significantly related to develop­
+ment of SSI, with a P value of 0.235. 
+Table 1 shows the assessment of risk factors present in 
+the OR environment, which were independently assessed 
+for risk of developing SSI. The P values of less than 0.05 
+are significant for development of SSI, and these include 
+the following risk factors for SSI: American Society of 
+Anesthesiologists (ASA) score 3 and 4, long duration of 
+surgery, not having a perioperative bath/shower, inappro­
+priate skin preparation, not administering prophylactic an­
+tibiotics, presence of a drain, and presence of more than 15 
+people in addition to the operating team. 
+Figure 5 shows that a total of 218 participants (19.4%) 
+whose pus swab samples were submitted developed SSI for 
+analysis. A total of 904 participants (80.5) had no infection 
+after initial surgical and antimicrobial treatment, of a total 
+of 1122 participants. 
+Figure 6 shows that a total of 482 participants (42.4%) 
+presented with infection at the time of surgery, but after 
+broad spectrum antimicrobial and surgical treatment, 264 
+of them (23%) responded well to treatment and did not de­
+velop SSI. Figure 6 represents susceptibility results of those 
+who developed SSI and those who presented with infection 
+at time of surgery. Ciprofloxacin had the highest resistance, 
+followed by azithromycin and penicillin. The highest sensi­
+tivity was to ceftriaxone and chloramphenicol, followed by 
+metronidazole. 
+Table 2 shows the resistance patterns of microorganisms 
+that were cultured. Most bacteria were resistant to 
+ciprofloxacin, metronidazole, and gentamycin. 
+Table 3 shows 3 multidrug resistant (MDR) species, 
+namely 
+Serratia 
+marcescens, 
+Yersinia 
+pestis, 
+and 
+Corynebacterium species. This may also be a limitation of 
+the antibiogram used to check sensitivities. More studies 
+are required to evaluate these organisms. 
+Discussion 
+This study shows that the prevalence of SSI at the 3 tertiary 
+hospitals in the Copperbelt Province of Zambia is 19.4%, 
+as shown in in Figure 5. The patient population assessed 
+included patients with infection already present at time of 
+surgery (42.4%) and those who did not have infection and 
+therefore had clean wounds (40.8%). The study population 
+represents surgical referrals from first-level and second-
+level hospitals from all the districts of the Copperbelt 
+Province in Zambia, including 5 other provinces in the 
+northwestern half of Zambia. Hakayuwa et al9 found an 
+SSI rate of 18% at Ndola Teaching Hospital Department 
+of Surgery, Ndola, in the Copperbelt Province of Zambia. 
+Bayardorj et al10 in Tanzania found an SSI rate of 10.9%. 
+Gillespie et al,11 in their meta-analysis, found a global SSI 
+rate of 11%. WHO estimates the African SSI rate to be 
+7.2%, which is high.3 Our study has shown the highest SSI 
+in the sub-Saharan African region, from the available stud­
+ies reviewed. 
+In this study, there were more males than females, with 
+a P value of 0.319. The gender and age of participants in 
+Figures 1 and 2 were also not significant for development 
+of SSI. Other studies have reported similar findings.9,12 In 
+this study, Figure 3 shows that all patients were recruited 
+before medical or surgical treatment, such that 40.8% had 
+clean wounds, and 42.4% had a wound infection already 
+Prevalence and Risk Factors for Surgical Site Infections in Zambia
+East and Central African Journal of Surgery
+7
+
+
+===== PAGE 4 =====
+
+Table 1. Other risk factors associated with development of SSI 
+Variable 
+P Value 
+Age 
+0.319 
+Gender 
+0.273 
+Surgeon grade 
+0.050 
+High American Society of Anaesthesiologists class (3 and 4) of the patient 
+0.000 
+BMI 
+0.677 
+Surgical wound class 
+0.921 
+Duration of operation 
+0.000 
+Urgency of operation 
+0.235 
+Not having a preoperative bath/shower 
+0.034 
+Period of hair removal 
+0.530 
+Not using appropriate skin preparation technique 
+0.011 
+Spending less than standard time spent on surgical hand preparation 
+0.011 
+Not administering antibiotic prophylaxis 
+0.000 
+Overcrowding in the operating room (15 people or more during the procedure) 
+0.030 
+Postoperative antibiotics 
+0.214 
+Drain or implant used 
+0.000 
+Figure 5. Pus swab samples submitted for analysis. 
+present at time of surgery. Surgical wound class in Figure 
+3, however, was not statistically related to development of 
+SSI, with a P value of 0.921. Wand et al13 report an SSI 
+rate of 7% for clean and clean contaminated wounds; how­
+ever, Prada et al14 report that this rate can be significantly 
+reduced to 4% with preoperative bath and hair removal, ap­
+propriate skin preparation, and preoperative antibiotic ad­
+ministration for clean and clean contaminated wounds. In 
+this study, wound class in Figure 3 was not a risk for de­
+velopment of SSI, while having a preoperative bath, appro­
+priate skin preparation before surgery, and administering 
+antibiotic prophylaxis were significant in avoiding develop­
+ment of SSI, with P values shown in Table 1 for these and 
+other risk factors.8 
+Table 1 shows that high ASA patient class of 3 and 4, 
+longer duration of operation, prescribed duration of time 
+spent by surgeon on surgical hand preparation, and appro­
+priate technique for handwashing were all significantly re­
+lated to patients developing SSI. Other studies have re­
+ported similar findings.15 
+In this study population, both emergency and elective 
+surgical procedures were performed (Figure 4); however, 
+this was not significantly related to development of SSI, 
+with a P value of 0.235, contrary to what others have re­
+ported.16 Malnutrition and overcrowding in the OR have 
+been reported to be risk factors for development of SSI,17 
+as shown in Table 1. However, in this study, BMI was not a 
+risk, with a P value of 0.677, while overcrowding, defined 
+by having more than 15 people in an operating room, was a 
+significant risk, with a P value of 0.030 (Table 1).18,19 
+In this study, administering preoperative antibiotics was 
+significant in preventing SSI, but postoperative antibiotic 
+treatment was not significant. The majority (57.6%) of par­
+ticipants had no infection at time of surgery, and those who 
+had an infection received preoperative antibiotics and sur­
+gical debridement. The evidence suggests that preoperative 
+antibiotics and surgical debridement can reduce or elim­
+inate postoperative antibiotic care.20,21 More studies are 
+needed to validate our findings. 
+Table 2 and Figure 6 show the microorganisms cultured 
+and their antimicrobial resistance in this study. The top 3 
+microorganisms were Staphylococcus aureus, Escherichia 
+coli, and Klebsiella pneumoniae, as reported in other stud­
+ies in Africa.22,23 Other studies indicate that the growth 
+of S aureus and E coli suggest contamination by handling, 
+if samples were collected in the OR.23,24 In this study, a 
+few samples were collected in the OR for those who had 
+an infection present at time of surgery. The majority, how­
+ever, were collected during the 30-day follow-up, suggest­
+ing fewer chances of contamination. 
+Prevalence and Risk Factors for Surgical Site Infections in Zambia
+East and Central African Journal of Surgery
+8
+
+
+===== PAGE 5 =====
+
+Figure 6. Susceptibility test results. 
+Table 2. Top 10 microorganisms and their resistance patterns 
+No. 
+Microbial organism 
+Highest resistance 
+Second highest resistance 
+Third highest resistance 
+1 
+Staphylococcus aureus 
+Ciprofloxacin 
+Septrin 
+Chloramphenicol 
+2 
+Escherichia coli 
+Metronidazole 
+Ciprofloxacin 
+Levofloxacin 
+3 
+Klebsiella pneumoniae 
+Ciprofloxacin 
+Penicillin 
+Piperacillin tazobactam 
+4 
+Proteus mirabilis 
+Metronidazole 
+Ciprofloxacin 
+Gentamycin 
+Penicillin 
+5 
+Pseudomonas aeruginosa 
+Ciprofloxacin 
+Piperacillin tazobactam 
+Azithromycin 
+6 
+Enterobacter cloaca 
+Penicillin 
+Ciprofloxacin 
+Metronidazole 
+7 
+Serratia marcescens 
+Levofloxacin 
+Ciprofloxacin 
+Meropenem 
+8 
+Yersinia pestis 
+Gentamicin 
+Meropenem 
+Ciprofloxacin 
+9 
+Corynebacterium species 
+Gentamycin 
+Meropenem 
+Septrin 
+Piperacillin tazobactam 
+10 
+Enterobacter agglomerans 
+Ciprofloxacin 
+Septrin 
+None 
+Table 3 shows that ciprofloxacin, azithromycin, and 
+penicillin were the top 3 antibiotics with highest resistance, 
+while highest sensitivity was to ceftriaxone and chloram­
+phenicol, as reported in other studies. These antibiotics are 
+the most commonly prescribed by clinicians, and this find­
+ing is not surprising.25 We could not find a study for com­
+parison in Zambia that has published SSI culture results. 
+We believe this is the first study in Zambia to tabulate the 
+culture of microorganisms and assess the susceptibility re­
+sults of SSI in Zambia. Lubega et al26 reported similar sen­
+sitivities and resistance profiles of SSI in their study. The 
+antibiotics showing most sensitivity were ciprofloxacin and 
+ceftriaxone, while the most resistant were penicillin and 
+Septrin. 
+Our study discovered MDR organisms that include S 
+marcescens, Y pestis, Corynebacterium species, and Enter­
+obacter agglomerans. These organisms require more stud­
+ies to validate this finding. 
+Conclusion 
+The prevalence of SSI at the 3 tertiary hospitals in the Cop­
+perbelt Province of Zambia was 19.4%. Patients who pre­
+sented to the hospitals requiring surgery with infection al­
+ready present comprised 42.4% of the patient population 
+assessed. The most common microorganisms were S au­
+reus, E coli, and K pneumoniae. Most microorganisms were 
+resistant to ciprofloxacin, azithromycin, and penicillin, 
+Prevalence and Risk Factors for Surgical Site Infections in Zambia
+East and Central African Journal of Surgery
+9
+
+
+===== PAGE 6 =====
+
+Table 3. Top 10 microorganisms and their sensitivity patterns 
+No. 
+Microbial organism 
+First choice 
+Second choice 
+Third choice 
+1 
+Staphylococcus aureus 
+Ceftriaxone 
+Penicillin 
+Levofloxacin 
+2 
+Escherichia coli 
+Chloramphenicol 
+Gentamycin 
+Levofloxacin 
+3 
+Klebsiella pneumoniae 
+Gentamycin 
+Chloramphenicol 
+4 
+Proteus mirabilis 
+Chloramphenicol only 
+None 
+None 
+5 
+Pseudomonas aeruginosa 
+Chloramphenicol only 
+None 
+None 
+6 
+Enterobacter cloaca 
+Chloramphenicol 
+Ceftriaxone 
+None 
+7 
+Serratia marcescens 
+None (antibiogram limitation or MDR) 
+None 
+None 
+8 
+Yersinia pestis 
+None (antibiogram limitation or MDR) 
+None 
+None 
+9 
+Corynebacterium species 
+None (antibiogram limitation or MDR) 
+None 
+None 
+10 
+Enterobacter agglomerans 
+Meropenem 
+Chloramphenicol 
+Metronidazole 
+Abbreviations: MDR, multidrug resistant. 
+while the highest sensitivity was to ceftriaxone and chlo­
+ramphenicol. This study has discovered MDR organisms 
+and suggests that this should be verified by further studies. 
+The risk factors for superficial SSI identified by this study 
+include ASA score, duration of surgery, perioperative bath/
+shower, skin preparation technique, prophylactic antibi­
+otics, presence of a drain, and presence of more than 15 
+people in addition to the operating team. 
+Recommendations 
+Based on the evidence from this study, we recommend the 
+following: 
+Limitations 
+The evidence presented in this study is that of a prospective 
+cross-sectional study. We recommend a randomized cohort 
+study to validate our findings. 
+Acknowledgments 
+We thank the management of Ndola Teaching and Kitwe 
+Teaching Hospitals for their support. 
+Ethical Approval 
+Ethics approval was obtained from the Tropical Diseases 
+Research Centre Ethics Review Committee, with IRB reg­
+istration number 00002911, and the National Health Re­
+search Authority. 
+Conflict of Interest 
+None 
+Funding 
+None 
+1. Ceftriaxone and chloramphenicol should be used for 
+antibiotic prophylaxis and treatment of SSI at the ter­
+tiary hospitals in the Copperbelt Province, 
+2. Ciprofloxacin, penicillin, and azithromycin should be 
+removed and the first line for treatment of SSI be pre­
+scribed based on susceptibility studies on SSI isolates 
+at the tertiary hospitals in the Copperbelt Province, 
+3. S marcescens, Y pestis, Corynebacterium species, and 
+E agglomerans have been identified as MDR organ­
+isms; more studies are required to validate this find­
+ing. 
+Submitted: April 15, 2025 EAT. Accepted: July 10, 2025 
+EAT. Published: October 01, 2025 EAT. 
+Prevalence and Risk Factors for Surgical Site Infections in Zambia
+East and Central African Journal of Surgery
+10
+
+
+===== PAGE 7 =====
+
+References 
+1. World Health Organization. Report on the Burden of 
+Endemic Health Care-Associated Infection Worldwide. 
+World Health Organization; 2011. Accessed 
+September 12, 2025. https://iris.who.int/handle/
+10665/80135 
+2. Berríos-Torres SI, Umscheid CA, Bratzler DW, et al. 
+Centers for Disease Control and Prevention guideline 
+for the prevention of surgical site infection, 2017. 
+JAMA Surg. 2017;152(8):784-791. doi:10.1001/
+jamasurg.2017.0904 
+3. Mengistu DA, Alemu A, Abdukadir AA, et al. Global 
+incidence of surgical site infection among patients: 
+systematic review and meta-analysis. Inq J Health 
+Care Organ Provis Financ. 
+2023;60:00469580231162549. doi:10.1177/
+00469580231162549 
+4. Parienti JJ, Thibon P, Heller R, et al. Hand-rubbing 
+with an aqueous alcoholic solution vs traditional 
+surgical hand-scrubbing and 30-day surgical site 
+infection rates: a randomized equivalence study. 
+JAMA. 2002;288(6):722-727. doi:10.1001/
+jama.288.6.722 
+5. Allegranzi B, Bischoff P, De Jonge S, et al. New 
+WHO recommendations on preoperative measures for 
+surgical site infection prevention: an evidence-based 
+global perspective. Lancet Infect Dis. 
+2016;16(12):e276-e287. doi:10.1016/
+S1473-3099(16)30398-X 
+6. Zimlichman E, Henderson D, Tamir O, et al. Health 
+care–associated infections: a meta-analysis of costs 
+and financial impact on the US health care system. 
+JAMA Intern Med. 2013;173(22):2039-2046. 
+doi:10.1001/jamainternmed.2013.9763 
+7. Jenks PJ, Laurent M, McQuarry S, Watkins R. 
+Clinical and economic burden of surgical site 
+infection (SSI) and predicted financial consequences 
+of elimination of SSI from an English hospital. J Hosp 
+Infect. 2014;86(1):24-33. doi:10.1016/
+j.jhin.2013.09.012 
+8. World Health Organization. Global Guidelines for 
+the Prevention of Surgical Site Infection. World Health 
+Organization; 2016. Accessed September 12, 2025. 
+https://iris.who.int/handle/10665/250680 
+9. Hakayuwa CM. Burden and associated risk factors 
+for surgical site infections in General Surgery 
+Department of Ndola Teaching Hospital (NTH) from 
+January to December 2021: a hospital-based 
+retrospective study. Int J Sci Res Arch. 
+2023;4(1):293-302. doi:10.53771/ijstra.2023.4.1.0036 
+10. Bayardorj D, Promsatit P, Chirangi BM, Mahmoud 
+E. Surgical site infections at Shirati KMT Hospital in 
+northeastern Tanzania. Cureus. 2023;15(2):e34573. 
+doi:10.7759/cureus.34573 
+11. Gillespie BM, Harbeck E, Rattray M, et al. 
+Worldwide incidence of surgical site infections in 
+general surgical patients: a systematic review and 
+meta-analysis of 488,594 patients. Int J Surg. 
+2021;95:106136. doi:10.1016/j.ijsu.2021.106136 
+12. Bhangu A, Ademuyiwa AO, Aguilera ML, et al. 
+Surgical site infection after gastrointestinal surgery 
+in high-income, middle-income, and low-income 
+countries: a prospective, international, multicentre 
+cohort study. Lancet Infect Dis. 2018;18(5):516-525. 
+doi:10.1016/S1473-3099(18)30101-4 
+13. Wang Z, Chen J, Wang P, et al. Surgical site 
+infection after gastrointestinal surgery in China: a 
+multicenter prospective study. J Surg Res. 
+2019;240:206-218. doi:10.1016/j.jss.2019.03.017 
+14. Prada C, Marcano-Fernández FA, Schemitsch EH, 
+et al. Timing and management of surgical site 
+infections in patients with open fracture wounds: a 
+fluid lavage of open wounds cohort secondary 
+analysis. J Orthop Trauma. 2021;35(3):128-135. 
+doi:10.1097/BOT.0000000000001912 
+15. Taherpour N, Mehrabi Y, Seifi A, Hashemi Nazari 
+SS. A clinical prediction model for predicting the 
+surgical site infection after an open reduction and 
+internal fixation procedure considering the NHSN/
+SIR risk model: a multicenter case–control study. 
+Front Surg. 2023;10:1189220. doi:10.3389/
+fsurg.2023.1189220 
+16. Reji RG, Vijayakumar C, Sreenath GS. Surgical site 
+infections in elective and emergency general surgery 
+cases in a tertiary public hospital of South India: a 
+retrospective study. Int Surg J. 2024;11(7):1091-1096. 
+doi:10.18203/2349-2902.isj20241613 
+17. Melariri H, Freercks R, van der Merwe E, et al. The 
+burden of hospital-acquired infections (HAI) in sub-
+Saharan Africa: a systematic review and meta-
+analysis. eClinicalMedicine. 2024;71:102571. 
+doi:10.1016/j.eclinm.2024.102571 
+18. Cho M, Kang J, Kim IK, Lee KY, Sohn SK. 
+Underweight body mass index as a predictive factor 
+for surgical site infections after laparoscopic 
+appendectomy. Yonsei Med J. 2014;55(6):1611-1616. 
+doi:10.3349/ymj.2014.55.6.1611 
+Prevalence and Risk Factors for Surgical Site Infections in Zambia
+East and Central African Journal of Surgery
+11
+
+
+===== PAGE 8 =====
+
+19. Abdallah DY, Jadaan MM, McCabe JP. Body mass 
+index and risk of surgical site infection following 
+spine surgery: a meta-analysis. Eur Spine J. 
+2013;22(12):2800-2809. doi:10.1007/
+s00586-013-2890-6 
+20. Nowak M, Mehrholz D, Barańska-Rybak W, 
+Nowicki RJ. Wound debridement products and 
+techniques: clinical examples and literature review. 
+Adv Dermatol Allergol. 2022;39(3):479-490. 
+doi:10.5114/ada.2022.117572 
+21. Dhole S, Mahakalkar C, Kshirsagar S, Bhargava A. 
+Antibiotic prophylaxis in surgery: current insights 
+and future directions for surgical site infection 
+prevention. Cureus. 2023;15(10):e47858. doi:10.7759/
+cureus.47858 
+22. Mohammed A, Seid ME, Gebrecherkos T, Tiruneh 
+M, Moges F. Bacterial isolates and their antimicrobial 
+susceptibility patterns of wound infections among 
+inpatients and outpatients attending the University 
+of Gondar Referral Hospital, Northwest Ethiopia. Int J 
+Microbiol. 2017;2017:8953829. doi:10.1155/2017/
+8953829 
+23. Mukagendaneza MJ, Munyaneza E, Muhawenayo 
+E, et al. Incidence, root causes, and outcomes of 
+surgical site infections in a tertiary care hospital in 
+Rwanda: a prospective observational cohort study. 
+Patient Saf Surg. 2019;13(1):10. doi:10.1186/
+s13037-019-0190-8 
+24. Musonda W, Yamba K, Munthali JC. Surgical site 
+infection and antibiogram within 90 days of elective 
+intramedullary nail fixation of femoral and tibial 
+diaphyseal fractures: a prospective case series of 
+adult patients at a tertiary hospital in Lusaka, 
+Zambia. East Cent Afr J Surg. 2024;27(1):18-24. 
+doi:10.4314/ecajs.v27i1.3 
+25. Mohammed A, Adeshina G, Ibrahim Y. Incidence 
+and antibiotic susceptibility pattern of bacterial 
+isolates from wound infections in a tertiary hospital 
+in Nigeria. Trop J Pharm Res. 2013;12(4):617-621. 
+doi:10.4314/tjpr.v12i4.26 
+26. Lubega A, Joel B, Justina Lucy N. Incidence and 
+etiology of surgical site infections among emergency 
+postoperative patients in Mbarara Regional Referral 
+Hospital, South Western Uganda. Surg Res Pract. 
+2017;2017:6365172. doi:10.1155/2017/6365172 
+Prevalence and Risk Factors for Surgical Site Infections in Zambia
+East and Central African Journal of Surgery
+12

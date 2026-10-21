@@ -1,0 +1,242 @@
+
+
+===== PAGE 1 =====
+
+1 
+ 
+Dear Dr. Seke M. E. Kazuma, 
+Thank you for submitting your manuscript, “Challenges, Innovations, and Strategies to 
+Combat Antimicrobial Resistance in Surgical Site Infections in East, Central, and 
+Southern Africa: A Systematic Review and Meta-analysis” to the East and Central 
+African Journal of Surgery (ECAJS). 
+We have now received three reviews for your manuscript. The Editorial team has 
+considered your submission and the peer reviews, and agrees that revisions would be 
+necessary for the paper to be accepted. We encourage you to carefully review the 
+reviewer comments and substantially rewrite your paper. If the comments are 
+implemented, this could be an excellent addition to our journal. 
+In order to begin the revision submission process, log into your account and access your 
+author desk to locate the manuscript and begin the revised submission process. 
+When submitting the revision, please complete the author response letter describing 
+how you handled each of the comments in the reviews and in this letter. Please make sure 
+to 
+resubmit 
+as 
+a 
+response 
+to 
+this 
+discussion: 
+A 
+Revised 
+version 
+of 
+your 
+manuscript 
+with 
+tracked 
+changes 
+A Revised Clean version of your revised manuscript without tracked changes 
+A Point-by-point response to the editors’ and reviewers’ comments. 
+Thanks again for your interest in the East and Central African Journal of Surgery. 
+Best 
+Regards 
+ECAJS Editorial Team 
+ 
+ 
+Reviewer 1 
+Open response questions 
+The article is very well written, thoughtfully laid out and represents a very important topic 
+for which literature is scarce.  
+Response: Thank you so much. 
+ 
+I do think that it should be mentioned that this is a meta-analysis of largely Western 
+databases. Was there similar searching to capture articles from non-Western databases 
+(African Journals Online, WHO Global Index Medicus etc) that would include journals that 
+are not represented in the more typical databases such as MEDLINE, Scopus, CENTRAL, 
+Embase used in this meta-analysis? 
+
+
+===== PAGE 2 =====
+
+2 
+ 
+Response: This was done. Majority of the references are both in COSECSA region and 
+Sub-Saharan Africa.  
+ 
+Reviewer 2 
+This manuscript addresses an important and timely issue in surgical care in East, Central, 
+and Southern Africa, namely the relationship between surgical site infections (SSI) and 
+antimicrobial resistance (AMR).  
+Response: Thank you. 
+ 
+The topic is highly relevant for the region given the growing burden of antimicrobial 
+resistance in low- and middle-income country surgical systems. The review has clear 
+conceptual value; however, several methodological issues require clarification. 
+First, SSI rates are pooled across procedures without accounting for surgical wound 
+contamination class (clean, clean-contaminated, contaminated, and dirty) as defined by 
+the Centers for Disease Control and Prevention. Combining these categories may 
+introduce substantial confounding and limits interpretation of pooled estimates. 
+Subgroup analyses by surgical specialty, contamination class, or hospital level would 
+strengthen the findings. 
+Response: Thank you for the submission. However, we pooled the rate of SSI cutting 
+across all wound classes and hospital levels. There is enough evidence to support this 
+approach to documenting pooled rate of SSI across all wound classes. We have 
+documented such evidence in this our manuscript. 
+ 
+Second, the comparator defined as “inappropriate antibiotic use or alternative 
+antimicrobial regimens” may be difficult to interpret because definitions of inappropriate 
+use vary widely across studies. 
+Response: Thank you for this observation. We have defined what is meant by 
+inappropriate antibiotic use. We understand the complexity of the matter, if considered 
+in general. We have attempted to define what we mean, we evidence from other studies 
+that have documented this finding. 
+ 
+Finally, the assertion that prophylaxis administered 1–2 hours pre-incision increases SSI 
+risk warrants reconsideration, as current WHO guidance supports administration within 
+60 minutes and up to 120 minutes for certain antibiotics. In addition, AMR prevalence 
+
+
+===== PAGE 3 =====
+
+3 
+ 
+reported in cross-sectional studies reflects existing resistance patterns rather than the 
+emergence of resistance over time. 
+Response: Our focus was to point out how antibiotic prophylaxis timing is associated 
+with SSI. We have shown that if prophylaxis was administered up to 2 hours to incision, 
+the rates of SSI increase.  
+ 
+Are the limitations and strengths of the study identified 
+Response: Strengths and limitations have been included in this study 
+ 
+Reviewer 3 
+This is an important manuscript on a clinically significant problem, and the topic is highly 
+relevant for surgeons, microbiologists, and health systems leaders in the region. 
+Response: Thank you 
+ 
+ However, the paper currently asks readers to take away a much stronger and broader 
+message than the evidence can support. As written, the abstract and conclusion imply 
+that roughly one quarter of operations across East, Central, and Southern Africa result in 
+SSI and that first-line antibiotics are broadly failing across the region. That is too sweeping 
+for the available data. The underlying studies are highly diverse in specialty, wound class, 
+hospital type, surveillance method, follow-up duration, and microbiological practice, 
+and the pooled SSI estimate sits on extreme heterogeneity with I² of 98.4% and a 
+prediction interval from 1.0% to 63.0%. In that setting, the pooled average is at best a 
+coarse descriptive summary, not a stable regional estimate, and it should not be 
+presented as though it meaningfully represents “all operations” in the region. 
+Response: 
+ 
+The manuscript’s central problem is therefore conceptual as much as statistical. The title 
+promises a review of “challenges, innovations, and strategies,” but the evidence base is 
+dominated by heterogeneous descriptive studies of SSI burden and pathogen resistance, 
+with only limited interventional evidence. The paper would be stronger if the authors 
+decided more clearly what kind of review this is. If the main aim is to describe burden and 
+resistance patterns, the title, objectives, and conclusions should be narrowed 
+accordingly. If the aim is truly to review strategies and innovations, then the intervention 
+literature is too incomplete to support that framing in its current form. 
+
+
+===== PAGE 4 =====
+
+4 
+ 
+I do not see several important Ethiopian intervention papers cited, including the five-
+hospital Clean Cut pilot in the British Journal of Surgery, the seven-hospital Clean Cut 
+scale-up study in JAMA Surgery, and the later stepped-wedge cluster randomized trial of 
+Clean Cut for cesarean delivery in Ethiopia. Importantly, these studies do not all point in 
+the same direction: the pilot and scale-up studies were associated with reduced SSI, 
+whereas the cesarean-delivery trial did not show a reduction in SSI. The problem, 
+therefore, is not simply omission of positive studies, but incomplete synthesis of the 
+intervention literature as a whole. The authors do include the 2024 Aboderin post hoc 
+microbiology analysis from FALCON, but that is not the same as engaging adequately 
+with the original FALCON randomized trial as intervention evidence. With the FALCON 
+paper, do the authors separate out the non-African countries? 
+Response: Thank you for the comments. The study has included a number of papers from 
+COSECSA training Countries, including Ethiopian papers, may be not to the satisfaction 
+of the reviewer.  
+ 
+The search strategy also appears insufficient for a review intended to speak for the region. 
+The stated information sources exclude AJOL, African Index Medicus, and any explicit 
+hand-search of ECAJS. That omission likely matters. Based on the authors’ own eligibility 
+criteria, which allow studies reporting SSI incidence and/or AMR prevalence, at least one 
+relevant ECAJS paper appears potentially eligible and does not appear in the reference 
+list: the 2017 Tanzanian orthopaedic study by Kisibo et al. from Muhimbili Orthopaedic 
+Institute, which reported a 25.0% SSI prevalence in 300 postoperative patients. I suspect 
+there are many others that report SSIs - even if not in the title or abstract. I would therefore 
+encourage the authors either to expand the search to include regional databases and 
+journals or to state explicitly that this is a review limited to studies captured in major 
+international databases rather than a comprehensive regional synthesis. 
+The authors do not include this similar paper (PMID: 38626068) which could help to 
+strengthen their evidence base and perhaps find other relevant papers. 
+A further concern is that the review is not fully reproducible in its present form. The main 
+text reports an SSI meta-analysis based on 16 studies and 9,672 patients with a pooled 
+incidence of 23%, whereas the appendix GRADE table reports 20 studies, 10,294 
+participants, and a pooled incidence of 30.0%. Those are not trivial discrepancies. They 
+suggest that the included-study set, the analytic dataset, and the appendices are not 
+synchronized. Several citation and study-accounting inconsistencies add to this 
+concern. Before any interpretive claims can be trusted, the authors need to perform a 
+complete audit of the included studies, figures, tables, appendix counts, and pooled 
+analyses and then present one internally consistent dataset throughout. 
+
+
+===== PAGE 5 =====
+
+5 
+ 
+Response: Thank you for the comments. The study has included several papers from 
+COSECSA training Countries and has drawn the analysis from these. We understand that 
+this is not to the satisfaction of the reviewer. 
+ 
+The discussion would also benefit from a more balanced use of comparator literature. 
+The manuscript cites the GlobalSurg gastrointestinal study in the introduction, and that 
+paper is indeed an important benchmark because it found a 30-day SSI rate of 23% in 
+low-HDI settings using standardized prospective surveillance. However, that should be 
+used as context, not as indirect validation of the present pooled estimate. The present 
+review combines studies that are far less standardized than GlobalSurg and extends 
+beyond gastrointestinal surgery, so the similarity of percentages should not reassure 
+readers that the pooled regional estimate is robust. If the authors wish to discuss 
+strategies as well as burden, then other major pragmatic SSI-prevention trials in 
+overlapping LMIC and African settings, including the primary FALCON trial and the 
+ChEETAh trial, should also be considered in the discussion. 
+Response:  
+ 
+The microbiology and AMR synthesis is clinically interesting, but here too the language 
+should be moderated. The very high pooled ceftriaxone resistance estimate in E. coli is 
+concerning, but it comes from a relatively small isolate base and should not be translated 
+directly into claims of regional “failure” of prophylaxis or empiric therapy without much 
+more careful qualification. Resistance among cultured organisms from established SSI 
+cases is not the same as direct evidence that prophylactic regimens have failed across 
+multiple surgical contexts. Similar caution applies to terms such as “silent pandemic,” 
+“collapse,” and “near-obsolescence.” These phrases overstate what can be concluded 
+from 
+a 
+geographically 
+concentrated, 
+largely 
+observational, 
+methodologically 
+heterogeneous evidence base. 
+This is a worthwhile manuscript on an important topic, but the current version overstates 
+the 
+certainty, 
+representativeness, 
+and 
+completeness 
+of 
+the 
+evidence. 
+My 
+recommendation would be major revision. The most important task is not cosmetic 
+revision but conceptual sharpening. The authors need to decide what they want readers 
+to conclude, and then ensure that the search, synthesis, and tone of the paper actually 
+support that conclusion. 
+Response: 
+ 
+ 
+
+
+===== PAGE 6 =====
+
+6 
+ 
+ 

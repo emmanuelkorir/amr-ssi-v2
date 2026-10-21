@@ -1,0 +1,56 @@
+
+
+===== PAGE 1 =====
+
+PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0004608  May 9, 2025
+1 / 1
+ 
+ OPEN ACCESS
+Citation: Monk EJM, Jones TPW, Bongomin 
+F, Kibone W, Nsubuga Y, Ssewante N, et al. 
+(2025) Correction: Antimicrobial resistance in 
+bacterial wound, skin, soft tissue and surgical 
+site infections in Central, Eastern, Southern 
+and Western Africa: A systematic review and 
+meta-analysis. PLOS Glob Public Health 5(5): 
+e0004608. https://doi.org/10.1371/journal.
+pgph.0004608
+Published: May 9, 2025
+Copyright: © 2025 Monk et al. This is an open 
+access article distributed under the terms of 
+the Creative Commons Attribution License, 
+which permits unrestricted use, distribution, 
+and reproduction in any medium, provided the 
+original author and source are credited.
+CORRECTION
+Correction: Antimicrobial resistance in bacterial 
+wound, skin, soft tissue and surgical site 
+infections in Central, Eastern, Southern and 
+Western Africa: A systematic review and meta-
+analysis
+Edward J. M. Monk, Timothy P. W. Jones, Felix Bongomin, Winnie Kibone, 
+Yakobo Nsubuga, Nelson Ssewante, Innocent Muleya, Lauryn Nsenga, V. Bhargavi Rao, 
+Kevin van Zandvoort 
+There is an error in affiliation 6 for authors Innocent Muleya and V. Bhargavi Rao. 
+The correct affiliation 6 is: MSF UK, London, United Kingdom.
+There is an error in the third subheading of Antimicrobial resistance estimates in 
+the Results. The correct subheading is: Pseudomonadales.
+There are multiple errors in the hierarchy of the sections and subsections intro­
+duced during copyediting.
+In the Materials and methods, the Screening assessment, Data extraction and 
+handling, Risk of bias assessment, Determination of resistance within antibiotic 
+classes, and Meta-analysis subsections should be subsections of the Materials and 
+methods.
+In the Results, the Included studies subsection should be a subsection of the 
+Results.
+In the Results, the Types of study, Time period and geographical location, Pop­
+ulation and sampling site, Outcome measures reported, and Funding subsections 
+should be subsections of the Included Studies.
+In the Results, the Staphylococcus aureus, Enterobacteriaceae, and Pseudomo­
+nadales subsections should be subsections of the Antimicrobial resistance estimates 
+and their subheadings should be italicized.
+Reference
+	1.	 Monk EJM, Jones TPW, Bongomin F, Kibone W, Nsubuga Y, Ssewante N, et al. Antimicrobial 
+resistance in bacterial wound, skin, soft tissue and surgical site infections in Central, Eastern, 
+Southern and Western Africa: a systematic review and meta-analysis. PLOS Glob Public Health. 
+2024;4(4):e0003077. https://doi.org/10.1371/journal.pgph.0003077 PMID: 38626068

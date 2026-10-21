@@ -1,0 +1,4616 @@
+{
+ "doc_id": "iyamba-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Iyamba et al..pdf",
+ "sha256": "7a22fcbe751428c08c6331391c748f51636ccfe28278ec96bade625351cc53fa",
+ "document_type": "pdf",
+ "n_pages": 7,
+ "pdf_metadata": {
+  "format": "PDF 1.5",
+  "title": "",
+  "author": "abp",
+  "subject": "",
+  "keywords": "",
+  "creator": "Microsoft® Office Word 2007",
+  "producer": "Microsoft® Office Word 2007",
+  "creationDate": "D:20140919123024",
+  "modDate": "D:20140919123024",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:55+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "Page number not for citation purposes \n1 \n \n \n \nHigh prevalence of methicillin resistant staphylococci strains isolated from surgical \nsite infections in Kinshasa \n \nJean-Marie Liesse Iyamba1,&, José Mulwahali Wambale1, Cyprien Mbundu Lukukula1, Ntondo za Balega Takaisi-Kikuni1 \n \n1Laboratory of Experimental and Pharmaceutical Microbiology, Faculty of Pharmaceutical Sciences, University of Kinshasa, Democratic Republic of \nCongo \n \n&Corresponding author: Jean-Marie Liesse Iyamba, Laboratory of Experimental and Pharmaceutical Microbiology, Faculty of Pharmaceutical \nSciences, University of Kinshasa, Democratic Republic of Congo \n \nKey words: Methicillin resistant staphylococci, antibiotic sensitivity, surgical site infections, Kinshasa \n \nReceived: 23/04/2014 - Accepted: 25/06/2014 - Published: 21/08/2014 \n \nAbstract  \nIntroduction: Surgical site infections (SSIs) after surgery are usually caused by Staphylococcus aureus and coagulase-negative staphylococci \n(CNS). In low income countries, methicillin resistant Staphylococcus aureus (MRSA) and methicillin resistant coagulase-negative staphylococci (MR-\nCNS) surgical site infections are particularly associated with high treatment cost and remain a source of mortality and morbidity. This study aimed \nto determine the prevalence and the sensitivity to antibiotics of MRSA and MR-CNS isolated from SSIs. Methods: Wound swabs were collected \nfrom 130 hospitalized surgical patients in two major hospitals of Kinshasa. S. aureus and CNS strains were identified by standard microbiological \nmethods and latex agglutination test (Pastorex Staph-Plus). The antibiotic susceptibility of all staphylococcal strains was carried out using disk-\ndiffusion method. Results: Eighty nine staphylococcal strains were isolated. Out of 74 S. aureus and 15 CNS isolated, 47 (63.5%) and 9 (60%) \nwere identified as MRSA and MR-CNS respectively. Among the MRSA strains, 47 strains (100%) were sensitive to imipenem, 39 strains (89%) to \namoxycillin-clavulanic acid and 38 strains (81%) to vancomycin. All MR-CNS were sensitive to imipenem, amoxycillin-clavulanic acid and \nvancomycin. The isolated MRSA and MR-CNS strains showed multidrug resistance. They were both resistant to ampicillin, cotrimoxazole, \nerythromycin, clindamycin, ciprofloxacin, cefotaxime and ceftazidime. Conclusion: The results of the present study showed a high prevalence of \nMRSA and MR-CNS. Imipenem, amoxycillin-clavulanic acid and vancomycin were the most active antibiotics. This study suggests that antibiotic \nsurveillance policy should become national priority as MRSA and MR-CNS were found to be multidrug resistant. \n \n \nPan African Medical Journal. 2014; 18:322 doi:10.11604/pamj.2014.18.322.4440 \nThis article is available online at: http://www.panafrican-med-journal.com/content/article/18/322/full/ \n \n© Jean-Marie Liesse Iyamba et al. The Pan African Medical Journal - ISSN 1937-8688. This is an Open Access article distributed under the terms of the Creative \nCommons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the \noriginal work is properly cited. \n \n \n \n \nPan African Medical Journal – ISSN: 1937- 8688   (www.panafrican-med-journal.com) \nPublished in partnership with the African Field Epidemiology Network (AFENET). (www.afenet.net) \n \nResearch \nOpen Access \n  \n",
+   "n_chars": 3409,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      429.9,
+      747.6,
+      569.1,
+      757.3
+     ],
+     "text": "Page number not for citation purposes \n1 \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      71.9,
+      49.1,
+      115.4
+     ],
+     "text": " \n \n \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      122.7,
+      569.9,
+      137.1
+     ],
+     "text": "High prevalence of methicillin resistant staphylococci strains isolated from surgical \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      144.5,
+      206.0,
+      159.0
+     ],
+     "text": "site infections in Kinshasa \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      166.1,
+      47.7,
+      175.8
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      180.0,
+      520.7,
+      190.2
+     ],
+     "text": "Jean-Marie Liesse Iyamba1,&, José Mulwahali Wambale1, Cyprien Mbundu Lukukula1, Ntondo za Balega Takaisi-Kikuni1 \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      195.0,
+      47.9,
+      204.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      209.1,
+      568.9,
+      219.2
+     ],
+     "text": "1Laboratory of Experimental and Pharmaceutical Microbiology, Faculty of Pharmaceutical Sciences, University of Kinshasa, Democratic Republic of \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      223.9,
+      70.2,
+      233.6
+     ],
+     "text": "Congo \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      238.5,
+      47.9,
+      248.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      252.5,
+      538.6,
+      262.7
+     ],
+     "text": "&Corresponding author: Jean-Marie Liesse Iyamba, Laboratory of Experimental and Pharmaceutical Microbiology, Faculty of Pharmaceutical \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      267.4,
+      271.7,
+      277.1
+     ],
+     "text": "Sciences, University of Kinshasa, Democratic Republic of Congo \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      281.9,
+      47.9,
+      291.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      296.4,
+      399.1,
+      306.2
+     ],
+     "text": "Key words: Methicillin resistant staphylococci, antibiotic sensitivity, surgical site infections, Kinshasa \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      311.0,
+      47.9,
+      320.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      325.4,
+      300.2,
+      335.1
+     ],
+     "text": "Received: 23/04/2014 - Accepted: 25/06/2014 - Published: 21/08/2014 \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      339.9,
+      47.9,
+      349.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      354.4,
+      84.1,
+      364.1
+     ],
+     "text": "Abstract  \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      368.8,
+      569.2,
+      378.5
+     ],
+     "text": "Introduction: Surgical site infections (SSIs) after surgery are usually caused by Staphylococcus aureus and coagulase-negative staphylococci \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      383.3,
+      566.9,
+      393.0
+     ],
+     "text": "(CNS). In low income countries, methicillin resistant Staphylococcus aureus (MRSA) and methicillin resistant coagulase-negative staphylococci (MR-\n"
+    },
+    {
+     "bbox": [
+      45.4,
+      397.9,
+      569.2,
+      407.6
+     ],
+     "text": "CNS) surgical site infections are particularly associated with high treatment cost and remain a source of mortality and morbidity. This study aimed \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      412.4,
+      569.2,
+      422.1
+     ],
+     "text": "to determine the prevalence and the sensitivity to antibiotics of MRSA and MR-CNS isolated from SSIs. Methods: Wound swabs were collected \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      426.8,
+      569.1,
+      436.5
+     ],
+     "text": "from 130 hospitalized surgical patients in two major hospitals of Kinshasa. S. aureus and CNS strains were identified by standard microbiological \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      441.3,
+      566.9,
+      451.0
+     ],
+     "text": "methods and latex agglutination test (Pastorex Staph-Plus). The antibiotic susceptibility of all staphylococcal strains was carried out using disk-\n"
+    },
+    {
+     "bbox": [
+      45.4,
+      455.8,
+      569.1,
+      465.5
+     ],
+     "text": "diffusion method. Results: Eighty nine staphylococcal strains were isolated. Out of 74 S. aureus and 15 CNS isolated, 47 (63.5%) and 9 (60%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      470.2,
+      568.8,
+      479.9
+     ],
+     "text": "were identified as MRSA and MR-CNS respectively. Among the MRSA strains, 47 strains (100%) were sensitive to imipenem, 39 strains (89%) to \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      484.8,
+      569.2,
+      494.5
+     ],
+     "text": "amoxycillin-clavulanic acid and 38 strains (81%) to vancomycin. All MR-CNS were sensitive to imipenem, amoxycillin-clavulanic acid and \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      499.3,
+      569.1,
+      509.0
+     ],
+     "text": "vancomycin. The isolated MRSA and MR-CNS strains showed multidrug resistance. They were both resistant to ampicillin, cotrimoxazole, \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      513.7,
+      569.2,
+      523.4
+     ],
+     "text": "erythromycin, clindamycin, ciprofloxacin, cefotaxime and ceftazidime. Conclusion: The results of the present study showed a high prevalence of \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      528.2,
+      569.0,
+      537.9
+     ],
+     "text": "MRSA and MR-CNS. Imipenem, amoxycillin-clavulanic acid and vancomycin were the most active antibiotics. This study suggests that antibiotic \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      542.7,
+      439.4,
+      552.4
+     ],
+     "text": "surveillance policy should become national priority as MRSA and MR-CNS were found to be multidrug resistant. \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      557.2,
+      47.9,
+      566.9
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      571.6,
+      47.9,
+      581.3
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      591.0,
+      375.0,
+      600.7
+     ],
+     "text": "Pan African Medical Journal. 2014; 18:322 doi:10.11604/pamj.2014.18.322.4440 \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      610.4,
+      568.9,
+      665.2
+     ],
+     "text": "This article is available online at: http://www.panafrican-med-journal.com/content/article/18/322/full/ \n \n© Jean-Marie Liesse Iyamba et al. The Pan African Medical Journal - ISSN 1937-8688. This is an Open Access article distributed under the terms of the Creative \nCommons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the \noriginal work is properly cited. \n \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      670.1,
+      47.7,
+      679.8
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      684.6,
+      47.7,
+      694.3
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      699.0,
+      47.7,
+      708.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.6,
+      723.2,
+      351.7,
+      739.9
+     ],
+     "text": "Pan African Medical Journal – ISSN: 1937- 8688   (www.panafrican-med-journal.com) \nPublished in partnership with the African Field Epidemiology Network (AFENET). (www.afenet.net) \n"
+    },
+    {
+     "bbox": [
+      146.8,
+      60.7,
+      149.8,
+      74.0
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.6,
+      86.7,
+      141.1,
+      110.8
+     ],
+     "text": "Research \n"
+    },
+    {
+     "bbox": [
+      447.3,
+      69.7,
+      519.7,
+      83.0
+     ],
+     "text": "Open Access \n"
+    },
+    {
+     "bbox": [
+      566.2,
+      733.6,
+      576.8,
+      747.4
+     ],
+     "text": "  \n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "Page number not for citation purposes \n2 \nIntroduction \n \nPatients that are undergoing surgery or surgical procedures are at \nrisk of acquiring infections at the site of incision. Surgical site \ninfections (SSIs) are defined as infections occurring up to 30 days \nafter surgery (or up to one year after surgery in patients receiving \nimplants) and affecting either the incision or deep tissue at the \noperation site [1]. Despite improvements in prevention, SSIs remain \na significant clinical problem as they are associated with substantial \nmortality and morbidity and impose severe demands on healthcare \nresources [2]. Microbiology studies on SSIs have shown that most \nof them are caused by skin-derived bacteria such as Staphylococcus \naureus and coagulase-negative staphylococci [2, 3]. These bacteria, \nparticularly methicillin resistant Staphylococcus aureus (MRSA) and \nmethicillin resistant-coagulase negative staphylococci (MR-CNS) are \nknown for they ability to develop resistance to multiple antibiotics \n[4, 5]. Studies on antimicrobial resistance of staphylococci and other \nbacteria isolated from hospitalized surgical patients were conducted \nin some African countries [6-9]. But in the Democratic Republic of \nCongo (DRC), the resistance pattern of Staphylococcus, especially \nMRSA and MR-CNS from SSIs to antibiotics remains unknown due to \nlack of antibiotic surveillance policies. The objective of the present \nstudy was to determine the prevalence and antibiotic susceptibility \npatterns of MRSA and MR-CNS isolated from SSIs in two major \nhospitals of Kinshasa. \n  \n  \nMethods \n \nOrigin of staphylococci strains and laboratory procedure \n \nThis study was conducted between January to October 2013 in the \nProvincial General Reference Hospital of Kinshasa (HGPRK) and in \nClinic of University of Kinshasa (CUK), a tertiary hospital structure. \nThe clinical samples were collected for diagnostic purposes by the \nbacteriology laboratories of these hospitals and were from purulent \nlesions of infected sites of 130 hospitalized surgical patients. \nInfected sites were aseptically cleaned using normal saline and \nsterile gauzes. Then a wound swab from each patient was collected \nusing sterile cotton swabs in Stuart transport media (Difco, BD \nFranklin Lakes, NJ, USA) and was processed in the microbiology \nlaboratory of the Faculty of Pharmaceutical Sciences, University of \nKinshasa. \n \nIsolation and Identification of staphylococci \n \nWound swabs were inoculated into mannitol-salt agar (Liofilchen, \nRoseto degli Abbruzzi, Italy) and incubated at 37°C for 24 hours. \nThe genera Staphylococcus was confirmed using Gram staining and \ncatalase reaction. The identification ofStaphylococcus aureus strains \nwas performed with latex agglutination test (Pastorex Staph-Plus, \nBioRad, \nMarnes-la-Coquette, \nFrance) \nand \nDNase \ntest. \nAll \nstaphylococcal strains, negative for latex agglutination and DNase \ntests, were considered as coagulase negative staphylococci. \n \nAntibiotic susceptibility tests \n \nAntibiograms of each isolated strains using the diffusion method on \nMueller Hinton Agar were realized with the following antibiotic disks \n(Liofilchen, Roseto degli Abruzzi, Italy): amoxicillin-clavulanic acid \n(30 µg), ampicillin (10 µg), ciprofloxacin (5 µg), cefotaxime (30 µg), \nceftazidime (30 µg), clindamycin (2 µg), erythromycin (15 µg), \nimipenem (10 µg), cotrimoxazole (25 µg), and vancomycin (30 µg). \nTest for methicillin resistance was performed with diffusion method \nusing oxacillin (1 µg) on Mueller Hinton agar with 4 % NaCl. \nEvaluation of the results was done according to the criteria of \nClinical Laboratory Standards Institute (CLSI) [10]. S. aureus ATCC \n25923 and Staphylococcus epidermidis ATCC 12228 were used for \nquality control. \n  \n  \nResults \n \nEighty-nine staphylococci were isolated during the period of the \nstudy. Seventy-four strains were S. aureus and 15 strains were CNS. \nThe S. aureus and CNS strains demonstrated good sensitivity \npatterns to imipenem, amoxicillin-clavulanic acid, and vancomycin. \nHowever, most S. aureus and CNS strains were resistant to \nampicillin, cotrimoxazole, ciprofloxacin, erytromycin, clindamycin \nand ceftazidime (Table 1, Table 2). Out of the 74 S. aureus strains \nisolated, 47 (63.5%) were MRSA (Table 3). All these strains were \nsensitive to imipenem, 39 strains (89%) to amoxicillin-clavulanic \nacid and 38 strains (81%) to vancomycin. Nine (60%) of 15 CNS \nstrains were MR-CNS (Table 4). All MR-CNS strains were fully \nsensitive to amoxicillin-clavulanic acid, imipenem, and vancomycin. \nThe MRSA and MR-CNS strains demonstrated a high level of \nresistance to ampicillin, cotrimoxazole, erythromycin, clindamycin, \n",
+   "n_chars": 4715,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      429.9,
+      747.6,
+      569.1,
+      757.3
+     ],
+     "text": "Page number not for citation purposes \n2 \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      72.0,
+      118.6,
+      85.3
+     ],
+     "text": "Introduction \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      93.3,
+      47.7,
+      103.0
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      107.8,
+      290.4,
+      117.5
+     ],
+     "text": "Patients that are undergoing surgery or surgical procedures are at \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      122.3,
+      290.4,
+      132.0
+     ],
+     "text": "risk of acquiring infections at the site of incision. Surgical site \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      136.8,
+      290.5,
+      146.5
+     ],
+     "text": "infections (SSIs) are defined as infections occurring up to 30 days \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      151.2,
+      290.4,
+      160.9
+     ],
+     "text": "after surgery (or up to one year after surgery in patients receiving \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      165.7,
+      290.3,
+      175.4
+     ],
+     "text": "implants) and affecting either the incision or deep tissue at the \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      180.3,
+      290.5,
+      190.0
+     ],
+     "text": "operation site [1]. Despite improvements in prevention, SSIs remain \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      194.7,
+      290.4,
+      204.4
+     ],
+     "text": "a significant clinical problem as they are associated with substantial \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      209.2,
+      290.5,
+      218.9
+     ],
+     "text": "mortality and morbidity and impose severe demands on healthcare \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      223.7,
+      290.4,
+      233.4
+     ],
+     "text": "resources [2]. Microbiology studies on SSIs have shown that most \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      238.1,
+      293.2,
+      247.8
+     ],
+     "text": "of them are caused by skin-derived bacteria such as Staphylococcus \n"
+    },
+    {
+     "bbox": [
+      44.8,
+      252.7,
+      290.5,
+      262.4
+     ],
+     "text": "aureus and coagulase-negative staphylococci [2, 3]. These bacteria, \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      267.2,
+      290.5,
+      276.9
+     ],
+     "text": "particularly methicillin resistant Staphylococcus aureus (MRSA) and \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      281.7,
+      290.5,
+      291.4
+     ],
+     "text": "methicillin resistant-coagulase negative staphylococci (MR-CNS) are \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      296.1,
+      290.5,
+      305.8
+     ],
+     "text": "known for they ability to develop resistance to multiple antibiotics \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      310.6,
+      290.5,
+      320.3
+     ],
+     "text": "[4, 5]. Studies on antimicrobial resistance of staphylococci and other \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      325.1,
+      290.4,
+      334.8
+     ],
+     "text": "bacteria isolated from hospitalized surgical patients were conducted \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      339.5,
+      290.5,
+      349.2
+     ],
+     "text": "in some African countries [6-9]. But in the Democratic Republic of \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      354.0,
+      290.6,
+      363.8
+     ],
+     "text": "Congo (DRC), the resistance pattern of Staphylococcus, especially \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      368.6,
+      290.4,
+      378.3
+     ],
+     "text": "MRSA and MR-CNS from SSIs to antibiotics remains unknown due to \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      383.1,
+      290.4,
+      392.8
+     ],
+     "text": "lack of antibiotic surveillance policies. The objective of the present \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      397.5,
+      290.4,
+      407.2
+     ],
+     "text": "study was to determine the prevalence and antibiotic susceptibility \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      412.0,
+      290.5,
+      421.7
+     ],
+     "text": "patterns of MRSA and MR-CNS isolated from SSIs in two major \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      426.5,
+      124.1,
+      436.3
+     ],
+     "text": "hospitals of Kinshasa. \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      440.9,
+      50.4,
+      450.7
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      455.5,
+      50.4,
+      465.2
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      470.1,
+      96.0,
+      483.4
+     ],
+     "text": "Methods \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      491.4,
+      47.7,
+      501.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      505.9,
+      273.6,
+      515.6
+     ],
+     "text": "Origin of staphylococci strains and laboratory procedure \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      520.4,
+      47.9,
+      530.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      534.8,
+      290.3,
+      544.5
+     ],
+     "text": "This study was conducted between January to October 2013 in the \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      549.3,
+      290.4,
+      559.0
+     ],
+     "text": "Provincial General Reference Hospital of Kinshasa (HGPRK) and in \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      563.8,
+      290.5,
+      573.5
+     ],
+     "text": "Clinic of University of Kinshasa (CUK), a tertiary hospital structure. \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      578.2,
+      290.4,
+      587.9
+     ],
+     "text": "The clinical samples were collected for diagnostic purposes by the \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      592.8,
+      290.4,
+      602.5
+     ],
+     "text": "bacteriology laboratories of these hospitals and were from purulent \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      607.3,
+      290.3,
+      617.0
+     ],
+     "text": "lesions of infected sites of 130 hospitalized surgical patients. \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      621.8,
+      290.5,
+      631.5
+     ],
+     "text": "Infected sites were aseptically cleaned using normal saline and \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      636.2,
+      290.4,
+      645.9
+     ],
+     "text": "sterile gauzes. Then a wound swab from each patient was collected \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      650.7,
+      290.4,
+      660.4
+     ],
+     "text": "using sterile cotton swabs in Stuart transport media (Difco, BD \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      665.3,
+      290.4,
+      675.0
+     ],
+     "text": "Franklin Lakes, NJ, USA) and was processed in the microbiology \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      679.7,
+      290.5,
+      689.4
+     ],
+     "text": "laboratory of the Faculty of Pharmaceutical Sciences, University of \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      694.2,
+      81.3,
+      703.9
+     ],
+     "text": "Kinshasa. \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      708.7,
+      47.9,
+      718.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      71.9,
+      503.8,
+      81.6
+     ],
+     "text": "Isolation and Identification of staphylococci \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      86.4,
+      326.6,
+      96.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      100.8,
+      569.2,
+      110.5
+     ],
+     "text": "Wound swabs were inoculated into mannitol-salt agar (Liofilchen, \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      115.3,
+      569.1,
+      125.0
+     ],
+     "text": "Roseto degli Abbruzzi, Italy) and incubated at 37°C for 24 hours. \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      129.9,
+      569.2,
+      139.6
+     ],
+     "text": "The genera Staphylococcus was confirmed using Gram staining and \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      144.4,
+      569.3,
+      154.1
+     ],
+     "text": "catalase reaction. The identification ofStaphylococcus aureus strains \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      158.8,
+      569.3,
+      168.5
+     ],
+     "text": "was performed with latex agglutination test (Pastorex Staph-Plus, \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      173.3,
+      569.1,
+      183.0
+     ],
+     "text": "BioRad, \nMarnes-la-Coquette, \nFrance) \nand \nDNase \ntest. \nAll \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      187.8,
+      569.2,
+      197.5
+     ],
+     "text": "staphylococcal strains, negative for latex agglutination and DNase \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      202.2,
+      537.8,
+      211.9
+     ],
+     "text": "tests, were considered as coagulase negative staphylococci. \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      216.7,
+      326.6,
+      226.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      231.3,
+      442.8,
+      241.0
+     ],
+     "text": "Antibiotic susceptibility tests \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      245.7,
+      326.6,
+      255.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      260.2,
+      569.0,
+      269.9
+     ],
+     "text": "Antibiograms of each isolated strains using the diffusion method on \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      274.7,
+      569.0,
+      284.4
+     ],
+     "text": "Mueller Hinton Agar were realized with the following antibiotic disks \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      289.2,
+      569.2,
+      299.0
+     ],
+     "text": "(Liofilchen, Roseto degli Abruzzi, Italy): amoxicillin-clavulanic acid \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      303.6,
+      569.2,
+      313.4
+     ],
+     "text": "(30 µg), ampicillin (10 µg), ciprofloxacin (5 µg), cefotaxime (30 µg), \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      318.2,
+      569.1,
+      327.9
+     ],
+     "text": "ceftazidime (30 µg), clindamycin (2 µg), erythromycin (15 µg), \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      332.7,
+      569.0,
+      342.4
+     ],
+     "text": "imipenem (10 µg), cotrimoxazole (25 µg), and vancomycin (30 µg). \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      347.1,
+      569.1,
+      356.8
+     ],
+     "text": "Test for methicillin resistance was performed with diffusion method \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      361.6,
+      569.2,
+      371.3
+     ],
+     "text": "using oxacillin (1 µg) on Mueller Hinton agar with 4 % NaCl. \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      376.1,
+      569.1,
+      385.8
+     ],
+     "text": "Evaluation of the results was done according to the criteria of \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      390.5,
+      569.3,
+      400.2
+     ],
+     "text": "Clinical Laboratory Standards Institute (CLSI) [10]. S. aureus ATCC \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      405.0,
+      569.2,
+      414.8
+     ],
+     "text": "25923 and Staphylococcus epidermidis ATCC 12228 were used for \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      419.6,
+      379.1,
+      429.3
+     ],
+     "text": "quality control. \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      434.1,
+      329.1,
+      443.8
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      448.5,
+      329.1,
+      458.2
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      463.1,
+      368.1,
+      476.5
+     ],
+     "text": "Results \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      484.4,
+      326.4,
+      494.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      498.9,
+      569.1,
+      508.6
+     ],
+     "text": "Eighty-nine staphylococci were isolated during the period of the \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      513.4,
+      569.2,
+      523.1
+     ],
+     "text": "study. Seventy-four strains were S. aureus and 15 strains were CNS. \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      528.0,
+      569.2,
+      537.7
+     ],
+     "text": "The S. aureus and CNS strains demonstrated good sensitivity \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      542.4,
+      569.2,
+      552.1
+     ],
+     "text": "patterns to imipenem, amoxicillin-clavulanic acid, and vancomycin. \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      556.9,
+      569.2,
+      566.6
+     ],
+     "text": "However, most S. aureus and CNS strains were resistant to \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      571.4,
+      569.2,
+      581.1
+     ],
+     "text": "ampicillin, cotrimoxazole, ciprofloxacin, erytromycin, clindamycin \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      585.8,
+      569.2,
+      595.5
+     ],
+     "text": "and ceftazidime (Table 1, Table 2). Out of the 74 S. aureus strains \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      600.3,
+      569.2,
+      610.0
+     ],
+     "text": "isolated, 47 (63.5%) were MRSA (Table 3). All these strains were \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      614.9,
+      569.2,
+      624.6
+     ],
+     "text": "sensitive to imipenem, 39 strains (89%) to amoxicillin-clavulanic \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      629.3,
+      569.0,
+      639.0
+     ],
+     "text": "acid and 38 strains (81%) to vancomycin. Nine (60%) of 15 CNS \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      643.8,
+      569.2,
+      653.5
+     ],
+     "text": "strains were MR-CNS (Table 4). All MR-CNS strains were fully \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      658.3,
+      569.2,
+      668.0
+     ],
+     "text": "sensitive to amoxicillin-clavulanic acid, imipenem, and vancomycin. \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      672.8,
+      569.1,
+      682.5
+     ],
+     "text": "The MRSA and MR-CNS strains demonstrated a high level of \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      687.2,
+      569.1,
+      696.9
+     ],
+     "text": "resistance to ampicillin, cotrimoxazole, erythromycin, clindamycin, \n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "Page number not for citation purposes \n3 \nciprofloxacin, cefotaxime and ceftazidime. Multidrug resistance was \nobserved in MRSA and MR-CNS strains (Table 5). \n  \n  \nDiscussion \n \nThe results obtained in the present study demonstrated high \nprevalence of MRSA (63.5%) and MR-CNS (60%). This prevalence is \nhigher in comparison with other studies conducted in some African \ncountries. Report from Uganda demonstrated that the proportion of \nMRSA among S. aureus strains isolated from SSIs was 37.5% [6]. A \nsurvey conducted in Mulago National Referral Hospital (Uganda) on \nthe surgical inpatients showed also an MRSA prevalence of 42% \n[11]. However, our results are not consistent with those obtained in \nBobo Dioulasso and Nairobi where very low MRSA prevalence was \nobserved [7, 12]. Screening of MR-CNS isolates showed a high \nprevalence rate. Very few African studies have been focused on the \nprevalence of CNS SSIs [13]. However, the current results are \nconsistent with report from Switzerland in which the MR-CNS rate \nincreased from 20% at the admission to 47% after surgery [14]. \nThe highest MRSA and MR-CNS prevalence observed in our study \ncan be attributed to the high pressure use of broad spectrum \nantibiotics or to the long stay hospital [15, 16]. In general, MRSA is \nknown to be transmitted mostly by health-care contacts [17, 18]. A \nCongolese study among nasal staphylococcal carriers reported an \nMRSA prevalence of 63.1%, 66.7% and 23.3% in hospitalized \npatients, hospital staff team and outpatients, respectively [19]. \nGenomic characterization studies should be conducted in order to \ndetermine different genotypes of Staphylococus aureus strains \ncirculating among SSIs patients and hospital staff. The MRSA and \nMR-CNS strains were generally multidrug resistant with an \nincreasing resistance to ampicillin, cotrimoxazole, erythromycin, \nclindamycin, ciprofloxacin, ceftazidime and cefotaxime. This \nobservation is in line with previous studies [20, 21]. The multidrug \nresistance observed is probably due to the ability of MRSA and MR-\nCNS strains to produce biofilms. Staphylococci are known as \nespecially good biofilm formers, which is due primarily to the \nproduction of a series of surface molecules that promote \nextracellular matrix formation [22]. Colonization of a biotic surface \nsuch as wound by S. aureus has been demonstrated in vivo in pigs \nand the biofilms formed were less susceptible to antimicrobials than \nthe planktonic counterparts [23]. \n \nA report from Italy also showed that S. aureus strains isolated from \nSSIs and producing a biofilm were highly resistant to antibiotic \ntreatment [24]. This observation suggests that bacteria within the \nwound or the surgical lesion are encased in an extracellular \npolymeric matrix, change their phenotype and become recalcitrant \nto antibiotics and to host defenses [22]. None MR-CNS strain was \nresistant to amoxicillin-clavulanic acid, imipenem and vancomycine. \nWe observed in the present study rates of Vancomycin Resistant S. \naureus (VRSA) of 15 % in all S. aureus strains and 19% in MRSA \nstrains. Our findings were consistent with a previous report from \nLibya in which MRSA collected from different clinical specimens \nshowed a VRSA prevalence of 17%, using disc-diffusion method \n[25]. The increase of VRSA prevalence could be explained not only \nby the long use of vancomycin, but also by an infection or \nconcurrent colonization with vancomycin resistant enterococci [26]. \n  \n  \nConclusion \n \nThe results of the present study indicate that amoxicillin-clavulanic \nacid, imipenem and vancomycine should be recommended in the \ntreatment of SSIs involving MRSA and MR-CNS. But, considering the \nemergence of multidrug resistant MRSA and MR-CNS strains, \nantibiotic susceptibility testing should be done prior to treatment \nin S. aureus and CNS surgical site infections. \n  \n  \nCompeting interests \n \nThe authors declare no competing interest. \n  \n  \nAuthors’ contributions \n \nJean-Marie Liesse Iyamba contributed to the conception of the \nstudy, the analysis of the results and the preparation of the \nmanuscript. Ntondo za Balega Takaisi-Kikuni contributed to the \nconception of the study and the preparation of manuscript. José \nMulwahali Wambale contributed to the preparation of the \nmanuscript. Cyprien Mbundu Lukukula contributed to the processing \nof samples. All the authors have read and approved the final version \nof the manuscript. \n  \n",
+   "n_chars": 4448,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      429.9,
+      747.6,
+      569.1,
+      757.3
+     ],
+     "text": "Page number not for citation purposes \n3 \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      71.9,
+      290.4,
+      81.6
+     ],
+     "text": "ciprofloxacin, cefotaxime and ceftazidime. Multidrug resistance was \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      86.4,
+      224.4,
+      96.1
+     ],
+     "text": "observed in MRSA and MR-CNS strains (Table 5). \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      100.8,
+      50.4,
+      110.5
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      115.3,
+      50.4,
+      125.0
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      130.0,
+      107.3,
+      143.3
+     ],
+     "text": "Discussion \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      151.2,
+      47.7,
+      160.9
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      165.7,
+      290.4,
+      175.4
+     ],
+     "text": "The results obtained in the present study demonstrated high \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      180.3,
+      290.5,
+      190.0
+     ],
+     "text": "prevalence of MRSA (63.5%) and MR-CNS (60%). This prevalence is \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      194.7,
+      290.3,
+      204.4
+     ],
+     "text": "higher in comparison with other studies conducted in some African \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      209.2,
+      290.4,
+      218.9
+     ],
+     "text": "countries. Report from Uganda demonstrated that the proportion of \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      223.7,
+      290.6,
+      233.4
+     ],
+     "text": "MRSA among S. aureus strains isolated from SSIs was 37.5% [6]. A \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      238.1,
+      290.4,
+      247.8
+     ],
+     "text": "survey conducted in Mulago National Referral Hospital (Uganda) on \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      252.7,
+      290.4,
+      262.4
+     ],
+     "text": "the surgical inpatients showed also an MRSA prevalence of 42% \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      267.2,
+      290.3,
+      276.9
+     ],
+     "text": "[11]. However, our results are not consistent with those obtained in \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      281.7,
+      290.4,
+      291.4
+     ],
+     "text": "Bobo Dioulasso and Nairobi where very low MRSA prevalence was \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      296.1,
+      290.5,
+      305.8
+     ],
+     "text": "observed [7, 12]. Screening of MR-CNS isolates showed a high \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      310.6,
+      290.4,
+      320.3
+     ],
+     "text": "prevalence rate. Very few African studies have been focused on the \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      325.1,
+      290.6,
+      334.8
+     ],
+     "text": "prevalence of CNS SSIs [13]. However, the current results are \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      339.5,
+      290.6,
+      349.2
+     ],
+     "text": "consistent with report from Switzerland in which the MR-CNS rate \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      354.0,
+      290.6,
+      363.8
+     ],
+     "text": "increased from 20% at the admission to 47% after surgery [14]. \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      368.6,
+      290.5,
+      378.3
+     ],
+     "text": "The highest MRSA and MR-CNS prevalence observed in our study \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      383.1,
+      290.4,
+      392.8
+     ],
+     "text": "can be attributed to the high pressure use of broad spectrum \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      397.5,
+      290.5,
+      407.2
+     ],
+     "text": "antibiotics or to the long stay hospital [15, 16]. In general, MRSA is \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      412.0,
+      290.6,
+      421.7
+     ],
+     "text": "known to be transmitted mostly by health-care contacts [17, 18]. A \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      426.5,
+      290.4,
+      436.3
+     ],
+     "text": "Congolese study among nasal staphylococcal carriers reported an \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      440.9,
+      290.4,
+      450.7
+     ],
+     "text": "MRSA prevalence of 63.1%, 66.7% and 23.3% in hospitalized \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      455.5,
+      290.6,
+      465.2
+     ],
+     "text": "patients, hospital staff team and outpatients, respectively [19]. \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      470.0,
+      290.4,
+      479.7
+     ],
+     "text": "Genomic characterization studies should be conducted in order to \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      484.4,
+      290.6,
+      494.1
+     ],
+     "text": "determine different genotypes of Staphylococus aureus strains \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      498.9,
+      290.4,
+      508.6
+     ],
+     "text": "circulating among SSIs patients and hospital staff. The MRSA and \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      513.4,
+      290.4,
+      523.1
+     ],
+     "text": "MR-CNS strains were generally multidrug resistant with an \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      528.0,
+      290.4,
+      537.7
+     ],
+     "text": "increasing resistance to ampicillin, cotrimoxazole, erythromycin, \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      542.4,
+      290.6,
+      552.1
+     ],
+     "text": "clindamycin, ciprofloxacin, ceftazidime and cefotaxime. This \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      556.9,
+      290.5,
+      566.6
+     ],
+     "text": "observation is in line with previous studies [20, 21]. The multidrug \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      571.4,
+      288.1,
+      581.1
+     ],
+     "text": "resistance observed is probably due to the ability of MRSA and MR-\n"
+    },
+    {
+     "bbox": [
+      45.4,
+      585.8,
+      290.4,
+      595.5
+     ],
+     "text": "CNS strains to produce biofilms. Staphylococci are known as \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      600.3,
+      290.4,
+      610.0
+     ],
+     "text": "especially good biofilm formers, which is due primarily to the \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      614.9,
+      290.3,
+      624.6
+     ],
+     "text": "production of a series of surface molecules that promote \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      629.3,
+      290.4,
+      639.0
+     ],
+     "text": "extracellular matrix formation [22]. Colonization of a biotic surface \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      643.8,
+      290.5,
+      653.5
+     ],
+     "text": "such as wound by S. aureus has been demonstrated in vivo in pigs \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      658.3,
+      290.4,
+      668.0
+     ],
+     "text": "and the biofilms formed were less susceptible to antimicrobials than \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      672.8,
+      164.4,
+      682.5
+     ],
+     "text": "the planktonic counterparts [23]. \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      687.2,
+      47.9,
+      696.9
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      71.9,
+      569.2,
+      81.6
+     ],
+     "text": "A report from Italy also showed that S. aureus strains isolated from \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      86.4,
+      569.1,
+      96.1
+     ],
+     "text": "SSIs and producing a biofilm were highly resistant to antibiotic \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      100.8,
+      569.1,
+      110.5
+     ],
+     "text": "treatment [24]. This observation suggests that bacteria within the \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      115.3,
+      569.0,
+      125.0
+     ],
+     "text": "wound or the surgical lesion are encased in an extracellular \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      129.9,
+      569.1,
+      139.6
+     ],
+     "text": "polymeric matrix, change their phenotype and become recalcitrant \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      144.4,
+      569.2,
+      154.1
+     ],
+     "text": "to antibiotics and to host defenses [22]. None MR-CNS strain was \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      158.8,
+      569.2,
+      168.5
+     ],
+     "text": "resistant to amoxicillin-clavulanic acid, imipenem and vancomycine. \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      173.3,
+      571.9,
+      183.0
+     ],
+     "text": "We observed in the present study rates of Vancomycin Resistant S. \n"
+    },
+    {
+     "bbox": [
+      323.5,
+      187.8,
+      569.2,
+      197.5
+     ],
+     "text": "aureus (VRSA) of 15 % in all S. aureus strains and 19% in MRSA \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      202.2,
+      569.2,
+      211.9
+     ],
+     "text": "strains. Our findings were consistent with a previous report from \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      216.7,
+      569.1,
+      226.4
+     ],
+     "text": "Libya in which MRSA collected from different clinical specimens \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      231.3,
+      569.2,
+      241.0
+     ],
+     "text": "showed a VRSA prevalence of 17%, using disc-diffusion method \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      245.7,
+      569.1,
+      255.4
+     ],
+     "text": "[25]. The increase of VRSA prevalence could be explained not only \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      260.2,
+      569.0,
+      269.9
+     ],
+     "text": "by the long use of vancomycin, but also by an infection or \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      274.7,
+      564.6,
+      284.4
+     ],
+     "text": "concurrent colonization with vancomycin resistant enterococci [26]. \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      289.2,
+      329.1,
+      299.0
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      303.6,
+      329.1,
+      313.4
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      318.3,
+      387.4,
+      331.6
+     ],
+     "text": "Conclusion \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      339.5,
+      326.4,
+      349.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      354.0,
+      569.2,
+      363.8
+     ],
+     "text": "The results of the present study indicate that amoxicillin-clavulanic \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      368.6,
+      569.1,
+      378.3
+     ],
+     "text": "acid, imipenem and vancomycine should be recommended in the \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      383.1,
+      569.2,
+      392.8
+     ],
+     "text": "treatment of SSIs involving MRSA and MR-CNS. But, considering the \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      397.5,
+      569.3,
+      407.2
+     ],
+     "text": "emergence of multidrug resistant MRSA and MR-CNS strains, \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      412.0,
+      569.1,
+      421.7
+     ],
+     "text": "antibiotic susceptibility testing should be done prior to treatment \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      426.5,
+      483.9,
+      436.3
+     ],
+     "text": "in S. aureus and CNS surgical site infections. \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      440.9,
+      329.1,
+      450.7
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      455.5,
+      329.1,
+      465.2
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      470.1,
+      439.1,
+      483.4
+     ],
+     "text": "Competing interests \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      491.4,
+      326.4,
+      501.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      505.9,
+      479.0,
+      515.6
+     ],
+     "text": "The authors declare no competing interest. \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      520.4,
+      329.1,
+      530.1
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      534.8,
+      329.1,
+      544.5
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      549.4,
+      450.7,
+      562.8
+     ],
+     "text": "Authors’ contributions \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      570.7,
+      326.4,
+      580.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      585.2,
+      569.1,
+      594.9
+     ],
+     "text": "Jean-Marie Liesse Iyamba contributed to the conception of the \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      599.7,
+      569.0,
+      609.4
+     ],
+     "text": "study, the analysis of the results and the preparation of the \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      614.3,
+      569.2,
+      624.0
+     ],
+     "text": "manuscript. Ntondo za Balega Takaisi-Kikuni contributed to the \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      628.7,
+      569.1,
+      638.4
+     ],
+     "text": "conception of the study and the preparation of manuscript. José \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      643.2,
+      569.1,
+      652.9
+     ],
+     "text": "Mulwahali Wambale contributed to the preparation of the \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      657.7,
+      569.1,
+      667.4
+     ],
+     "text": "manuscript. Cyprien Mbundu Lukukula contributed to the processing \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      672.1,
+      569.3,
+      681.8
+     ],
+     "text": "of samples. All the authors have read and approved the final version \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      686.6,
+      391.1,
+      696.3
+     ],
+     "text": "of the manuscript. \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      701.1,
+      329.1,
+      710.8
+     ],
+     "text": "  \n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Page number not for citation purposes \n4 \nAcknowledgments \n \nWe thank members of hospital staff teams of the General Reference \nHospital of Kinshasa (HGPRK) and the Clinic of University of \nKinshasa (CUK), Kinshasa, DRC for their precious help during the \nperiod of study. \n  \n  \nTables \n \nTable 1: Antibiotic susceptibility patterns of all S. aureus strains \nTable 2: Antibiotic susceptibility patterns of all coagulase negative \nstaphylococci strains \nTable 3: Antibiotic susceptibility patterns of MRSA strains \nTable 4: Antibiotic susceptibility patterns of MR-CNS strains \nTable 5: Different resistance patterns of MRSA and MR-CNS strains \n  \n  \nReferences \n \n1. \nHoran TC, Gaynes RP, Martone WJ, Jarvis WR, Emori TG. CDC \ndefinitions of nosocomial surgical site infections, 1992: a \nmodification of CDC definitions of surgical wound infections. \nInfect \nControl \nHosp \nEpidemiol. \n1992; \n13(10): \n606-\n608.PubMed | Google Scholar \n \n2. \nOwens CD, Stoessel K. Surgical site infections: epidemiology, \nmicrobiology and prevention. J Hosp Infect. 2008; 70(S2):3-\n10. PubMed | Google Scholar \n \n3. \nDohmen PM. Antibiotic resistance in common pathogens \nreinforces the need to minimise surgical site infections. J Hosp \nInfect. 2008; 70(S2):15-20. PubMed | Google Scholar \n \n4. \nBreurec S, Fall C, Pouillot R, Boisier P, Brisse S, Diene-Sarr F, \nDjibo \nS, \net \nal. \nEpidemiology \nof \nmethicillin-resistant \nStaphylococcus aureus lineages in five major African towns: \nemergence and spread of atypical clones. Clin Microbiol Infect. \n2011; 17(4): 160-165. PubMed | Google Scholar \n \n \n \n5. \nRahman A, Hossain MA, Paul SK, Sultana S, Haque N, Kabir \nMR, \nHoque \nSM. \nMethicillin-resistant \ncoagulase-negative \nstaphylococci (MRCoNS) by disk diffusion method. Mymensingh \nMed J. 2013; 22(2):229-31. PubMed | Google Scholar \n \n6. \nSeni J, Bwanga F, Najjuka CF, Makobore P, Okee M, et al. \nMolecular \ncharacterization \nof Staphylococcus \naureus from \npatients with surgical site infections at Mulago Hospital in \nKampala, \nUganda. \nPLoS \nOne. \n2013; \n8(6):e66153. PubMed |Google Scholar \n \n7. \nDinda V, Gunturu R, Kariuki S, Hakeem A, Raja A, Kimang'a A. \nPattern of pathogens and their sensitivity isolated from surgical \nsite infections at the Aga Khan University Hospital, Nairobi, \nKenya. \nEthiop \nJ \nHealth \nSci. \n2013; \n23(2):141-\n9.PubMed | Google Scholar \n \n8. \nJido T, Garba I. Surgical-site Infection Following Cesarean \nSection in Kano, Nigeria. Ann Med Health Sci Res. 2012; \n2(1):33-6. PubMed | Google Scholar \n \n9. \nEriksen HM, Chungulu S, Kondo S, Lingaas E. Surgical-site \ninfections at Kilimanjaro Christian Medical Center. J Hosp \nInfect. 2003; 55(1):14-20. PubMed | Google Scholar \n \n10. CLSI. Perfomance standars for antimicrobial susceptibility \ntesting; twenty first information supplement- CLSI document \nM100-S21. Wayne, PA: Clinical and Laboratory Standards \nInstitute. 2011. PubMed | Google Scholar \n \n11. Kitara LD, Anywar AD, Acullu D, Odongo-Aginya E, Aloyo J, \nFendu M. Antibiotic susceptibility of Staphylococcus aureusin \nsuppurative lesions in Lacor Hospital, Uganda. Afr Health Sci. \n2011; 11 (S1):S34-9. PubMed | Google Scholar \n \n12. Ouédraogo AS, Somé DA, Dakouré PW, Sanon BG, Birba E, et \nal Bacterial profile of surgical site infections at Souro Sanou \nNational Hospital Center in Bobo Dioulasso, Burkina Faso. Med \nTrop. 2011; 71(1):49-52. PubMed | Google Scholar \n \n13. Melaku S, Gebre-Selassie S, Damtie M, Alamrew K. Hospital \nacquired infections among surgical, gynaecology and obstetrics \npatients in Felege-Hiwot referral hospital, Bahir Dar, northwest \nEthiopia. Ethiop Med J. 2012; 50(2):135-44.PubMed | Google \nScholar \n",
+   "n_chars": 3664,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      429.9,
+      747.6,
+      569.1,
+      757.3
+     ],
+     "text": "Page number not for citation purposes \n4 \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      72.0,
+      150.1,
+      85.3
+     ],
+     "text": "Acknowledgments \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      93.3,
+      47.7,
+      103.0
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      107.8,
+      290.3,
+      117.5
+     ],
+     "text": "We thank members of hospital staff teams of the General Reference \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      122.3,
+      290.4,
+      132.0
+     ],
+     "text": "Hospital of Kinshasa (HGPRK) and the Clinic of University of \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      136.8,
+      290.4,
+      146.5
+     ],
+     "text": "Kinshasa (CUK), Kinshasa, DRC for their precious help during the \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      151.2,
+      103.5,
+      160.9
+     ],
+     "text": "period of study. \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      165.7,
+      50.4,
+      175.4
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      180.3,
+      50.4,
+      190.0
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      194.8,
+      84.4,
+      208.1
+     ],
+     "text": "Tables \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      216.1,
+      47.7,
+      225.8
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      230.7,
+      275.4,
+      240.4
+     ],
+     "text": "Table 1: Antibiotic susceptibility patterns of all S. aureus strains \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      245.1,
+      290.4,
+      254.8
+     ],
+     "text": "Table 2: Antibiotic susceptibility patterns of all coagulase negative \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      259.6,
+      120.4,
+      269.3
+     ],
+     "text": "staphylococci strains \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      274.1,
+      252.3,
+      283.8
+     ],
+     "text": "Table 3: Antibiotic susceptibility patterns of MRSA strains \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      288.5,
+      260.4,
+      298.2
+     ],
+     "text": "Table 4: Antibiotic susceptibility patterns of MR-CNS strains \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      303.0,
+      287.4,
+      312.8
+     ],
+     "text": "Table 5: Different resistance patterns of MRSA and MR-CNS strains \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      317.6,
+      50.4,
+      327.3
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      332.0,
+      50.4,
+      341.7
+     ],
+     "text": "  \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      346.6,
+      110.2,
+      359.9
+     ],
+     "text": "References \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      368.0,
+      47.7,
+      377.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      382.4,
+      290.4,
+      392.1
+     ],
+     "text": "1. \nHoran TC, Gaynes RP, Martone WJ, Jarvis WR, Emori TG. CDC \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      396.9,
+      290.4,
+      406.6
+     ],
+     "text": "definitions of nosocomial surgical site infections, 1992: a \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      411.4,
+      290.4,
+      421.1
+     ],
+     "text": "modification of CDC definitions of surgical wound infections. \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      425.8,
+      288.2,
+      435.5
+     ],
+     "text": "Infect \nControl \nHosp \nEpidemiol. \n1992; \n13(10): \n606-\n"
+    },
+    {
+     "bbox": [
+      63.4,
+      440.4,
+      182.3,
+      450.1
+     ],
+     "text": "608.PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      454.9,
+      47.9,
+      464.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      469.4,
+      290.4,
+      479.1
+     ],
+     "text": "2. \nOwens CD, Stoessel K. Surgical site infections: epidemiology, \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      483.8,
+      288.2,
+      493.5
+     ],
+     "text": "microbiology and prevention. J Hosp Infect. 2008; 70(S2):3-\n"
+    },
+    {
+     "bbox": [
+      63.4,
+      498.3,
+      180.4,
+      508.0
+     ],
+     "text": "10. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      512.8,
+      47.9,
+      522.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      527.2,
+      290.4,
+      537.0
+     ],
+     "text": "3. \nDohmen PM. Antibiotic resistance in common pathogens \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      541.8,
+      290.4,
+      551.5
+     ],
+     "text": "reinforces the need to minimise surgical site infections. J Hosp \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      556.3,
+      266.8,
+      566.0
+     ],
+     "text": "Infect. 2008; 70(S2):15-20. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      570.7,
+      47.9,
+      580.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      585.2,
+      290.6,
+      594.9
+     ],
+     "text": "4. \nBreurec S, Fall C, Pouillot R, Boisier P, Brisse S, Diene-Sarr F, \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      599.7,
+      290.6,
+      609.4
+     ],
+     "text": "Djibo \nS, \net \nal. \nEpidemiology \nof \nmethicillin-resistant \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      614.3,
+      290.5,
+      624.0
+     ],
+     "text": "Staphylococcus aureus lineages in five major African towns: \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      628.7,
+      290.4,
+      638.4
+     ],
+     "text": "emergence and spread of atypical clones. Clin Microbiol Infect. \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      643.2,
+      248.1,
+      652.9
+     ],
+     "text": "2011; 17(4): 160-165. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      657.7,
+      47.9,
+      667.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      672.1,
+      47.9,
+      681.8
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      686.6,
+      47.9,
+      696.3
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      71.9,
+      569.2,
+      81.6
+     ],
+     "text": "5. \nRahman A, Hossain MA, Paul SK, Sultana S, Haque N, Kabir \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      86.4,
+      569.2,
+      96.1
+     ],
+     "text": "MR, \nHoque \nSM. \nMethicillin-resistant \ncoagulase-negative \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      100.8,
+      569.1,
+      110.5
+     ],
+     "text": "staphylococci (MRCoNS) by disk diffusion method. Mymensingh \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      115.3,
+      545.5,
+      125.0
+     ],
+     "text": "Med J. 2013; 22(2):229-31. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      129.9,
+      326.6,
+      139.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      144.4,
+      569.2,
+      154.1
+     ],
+     "text": "6. \nSeni J, Bwanga F, Najjuka CF, Makobore P, Okee M, et al. \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      158.8,
+      569.3,
+      168.5
+     ],
+     "text": "Molecular \ncharacterization \nof Staphylococcus \naureus from \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      173.3,
+      569.1,
+      183.0
+     ],
+     "text": "patients with surgical site infections at Mulago Hospital in \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      187.8,
+      569.2,
+      197.5
+     ],
+     "text": "Kampala, \nUganda. \nPLoS \nOne. \n2013; \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      202.2,
+      491.6,
+      211.9
+     ],
+     "text": "8(6):e66153. PubMed |Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      216.7,
+      326.6,
+      226.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      231.3,
+      569.1,
+      241.0
+     ],
+     "text": "7. \nDinda V, Gunturu R, Kariuki S, Hakeem A, Raja A, Kimang'a A. \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      245.7,
+      569.1,
+      255.4
+     ],
+     "text": "Pattern of pathogens and their sensitivity isolated from surgical \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      260.2,
+      569.1,
+      269.9
+     ],
+     "text": "site infections at the Aga Khan University Hospital, Nairobi, \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      274.7,
+      566.9,
+      284.4
+     ],
+     "text": "Kenya. \nEthiop \nJ \nHealth \nSci. \n2013; \n23(2):141-\n"
+    },
+    {
+     "bbox": [
+      342.1,
+      289.2,
+      452.2,
+      299.0
+     ],
+     "text": "9.PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      303.6,
+      326.6,
+      313.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      318.2,
+      569.2,
+      327.9
+     ],
+     "text": "8. \nJido T, Garba I. Surgical-site Infection Following Cesarean \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      332.7,
+      569.1,
+      342.4
+     ],
+     "text": "Section in Kano, Nigeria. Ann Med Health Sci Res. 2012; \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      347.1,
+      484.1,
+      356.8
+     ],
+     "text": "2(1):33-6. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      361.6,
+      326.6,
+      371.3
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      376.1,
+      569.2,
+      385.9
+     ],
+     "text": "9. \nEriksen HM, Chungulu S, Kondo S, Lingaas E. Surgical-site \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      390.5,
+      569.1,
+      400.2
+     ],
+     "text": "infections at Kilimanjaro Christian Medical Center. J Hosp \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      405.0,
+      541.1,
+      414.8
+     ],
+     "text": "Infect. 2003; 55(1):14-20. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      419.6,
+      326.6,
+      429.3
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      434.1,
+      569.2,
+      443.8
+     ],
+     "text": "10. CLSI. Perfomance standars for antimicrobial susceptibility \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      448.5,
+      569.2,
+      458.2
+     ],
+     "text": "testing; twenty first information supplement- CLSI document \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      463.0,
+      569.2,
+      472.7
+     ],
+     "text": "M100-S21. Wayne, PA: Clinical and Laboratory Standards \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      477.5,
+      502.3,
+      487.3
+     ],
+     "text": "Institute. 2011. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      491.9,
+      326.6,
+      501.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      506.5,
+      569.2,
+      516.2
+     ],
+     "text": "11. Kitara LD, Anywar AD, Acullu D, Odongo-Aginya E, Aloyo J, \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      521.0,
+      569.2,
+      530.7
+     ],
+     "text": "Fendu M. Antibiotic susceptibility of Staphylococcus aureusin \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      535.5,
+      569.1,
+      545.2
+     ],
+     "text": "suppurative lesions in Lacor Hospital, Uganda. Afr Health Sci. \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      549.9,
+      522.6,
+      559.6
+     ],
+     "text": "2011; 11 (S1):S34-9. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      564.4,
+      326.6,
+      574.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      579.0,
+      569.1,
+      588.7
+     ],
+     "text": "12. Ouédraogo AS, Somé DA, Dakouré PW, Sanon BG, Birba E, et \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      593.4,
+      569.1,
+      603.1
+     ],
+     "text": "al Bacterial profile of surgical site infections at Souro Sanou \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      607.9,
+      569.2,
+      617.6
+     ],
+     "text": "National Hospital Center in Bobo Dioulasso, Burkina Faso. Med \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      622.4,
+      536.7,
+      632.1
+     ],
+     "text": "Trop. 2011; 71(1):49-52. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      636.8,
+      326.6,
+      646.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      651.3,
+      569.1,
+      661.1
+     ],
+     "text": "13. Melaku S, Gebre-Selassie S, Damtie M, Alamrew K. Hospital \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      665.9,
+      569.1,
+      675.6
+     ],
+     "text": "acquired infections among surgical, gynaecology and obstetrics \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      680.4,
+      569.2,
+      690.1
+     ],
+     "text": "patients in Felege-Hiwot referral hospital, Bahir Dar, northwest \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      694.8,
+      569.1,
+      704.5
+     ],
+     "text": "Ethiopia. Ethiop Med J. 2012; 50(2):135-44.PubMed | Google \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      709.3,
+      374.6,
+      719.0
+     ],
+     "text": "Scholar \n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "Page number not for citation purposes \n5 \n \n14. Zingg W, Demartines N, Imhof A, Senn G, Ruef C. Rapid \ncolonization \nwith \nmethicillin-resistant \ncoagulase-negative \nstaphylococci after surgery. World J Surg. 2009; 33(10):2058-\n62. PubMed | Google Scholar \n \n15. Taconnelli E, De Angelis G, Cataldo MA, Pozzi E, Cauda R. Does \nantibiotic \nincrease \nthe \nrisk \nof \nmethicillin-\nresistantStaphylococcus aureus ? A systematic revieuw and \nmeta-analysis. J Antimicrob Chemother. 2008; 61(1): 26-\n38.PubMed | Google Scholar \n \n16. Catry B, Latour K, Jans B, Vandendriessche S, Preal R, Mertens \nK, Denis O. Risk factors for methicillin resistantStaphylococcus \naureus: \nA \nmulti-laboratory \nstudy. \nPLoS \nOne. \n2014; \n9(2):e89579. PubMed | Google Scholar \n \n17. Grundmann H, Hori S, Winter B, Tami A, Austin DJ. Risk factors \nfor the transmission of methicillin-resistantStaphylococcus \naureus in an adult intensive care unit: fitting a model to the \ndata. J Infect Dis. 2002; 185:481?8.PubMed | Google \nScholar \n \n18. Thompson RL, Cabezudo I, Wenzel RP. Epidemiology of \nnosocomial \ninfections \ncaused \nby \nmethicillin-\nresistantStaphylococcus aureus. Ann Intern Med. 1982; \n97:309-17. PubMed | Google Scholar \n \n19. Vlieghe E, Phoba MF, Muyembe Tamfun JJ, Jacobs J. Antibiotic \nresistance among bacterial pathogens in Central Africa: a \nreview of the published literature between 1955 and 2008. Int \nJ Antimicrob Agents. 2009; 34(4):295-303. PubMed |Google \nScholar \n \n \n20. Ojulong J, Mwambu TP, Joloba M, Bwanga F, Kaddu-Mulindwa \nDH. Relative prevalence of methicilline resistantStaphylococcus \naureus and its susceptibility pattern in Mulago Hospital, \nKampala, Uganda. Tanzan J Health Res. 2009; 11(3):149-\n53. PubMed | Google Scholar \n \n21. Seni J, Najjuka CF, Kateete DP, Makobore P, Joloba ML, et al. \nAntimicrobial resistance in hospitalized surgical patients: a \nsilently emerging public health concern in Uganda. BMC Res \nNotes. 2013; 6:298. PubMed | Google Scholar \n \n22. Otto M. Staphylococcal biofilms. Curr Top Microbiol Immunol. \n2008; 322: 207-228. PubMed | Google Scholar \n \n23. Davis SC, Ricotti C, Cazzaniga A, Welsh E, Eaglstein WH, Mertz \nPM. Microscopic and physiologic evidence for biofilm-associated \nwound colonization in vivo. Wound Repair Regen. 2008; \n16(1):23 - 29. PubMed | Google Scholar \n \n24. Pulcrano G, Vollara A, Rossano F, Catania MR. Molecular and \nphenotypic \ncharacterization \nof \nmethicillin-\nresistantStaphylococcus aureus from surgical site infections. \nSurg \nInfect. \n2013; \n14(2): \n196-202. PubMed | Google \nScholar \n \n25. Buzaid N, Elzouki AN, Taher I, Ghenghesh KS. Methicillin-\nresistant Staphylococcus aureus (MRSA) in a tertiary surgical \nand trauma hospital in Benghazi, Libya. J Infect Dev Ctries. \n2011; 5(10): 723-726. PubMed | Google Scholar \n \n26. Cosgrove SE, Carroll KC, Perl TM. Staphylococcus aureus with \nreduced \nsusceptibility \nto \nvancomycin. \nClin \nInfect \nDis. \n2004;39(4):539-45. PubMed | Google Scholar \n \n \n \n \n \n \n \n \n \n \n \n",
+   "n_chars": 2968,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      429.9,
+      747.6,
+      569.1,
+      757.3
+     ],
+     "text": "Page number not for citation purposes \n5 \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      71.9,
+      47.9,
+      81.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      86.4,
+      290.4,
+      96.1
+     ],
+     "text": "14. Zingg W, Demartines N, Imhof A, Senn G, Ruef C. Rapid \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      100.8,
+      290.5,
+      110.5
+     ],
+     "text": "colonization \nwith \nmethicillin-resistant \ncoagulase-negative \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      115.3,
+      288.2,
+      125.0
+     ],
+     "text": "staphylococci after surgery. World J Surg. 2009; 33(10):2058-\n"
+    },
+    {
+     "bbox": [
+      63.4,
+      129.9,
+      180.4,
+      139.6
+     ],
+     "text": "62. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      144.4,
+      47.9,
+      154.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      158.8,
+      290.4,
+      168.5
+     ],
+     "text": "15. Taconnelli E, De Angelis G, Cataldo MA, Pozzi E, Cauda R. Does \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      173.3,
+      288.0,
+      183.0
+     ],
+     "text": "antibiotic \nincrease \nthe \nrisk \nof \nmethicillin-\n"
+    },
+    {
+     "bbox": [
+      63.4,
+      187.8,
+      290.5,
+      197.5
+     ],
+     "text": "resistantStaphylococcus aureus ? A systematic revieuw and \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      202.2,
+      288.2,
+      211.9
+     ],
+     "text": "meta-analysis. J Antimicrob Chemother. 2008; 61(1): 26-\n"
+    },
+    {
+     "bbox": [
+      63.4,
+      216.7,
+      177.9,
+      226.4
+     ],
+     "text": "38.PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      231.3,
+      47.9,
+      241.0
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      245.7,
+      290.5,
+      255.4
+     ],
+     "text": "16. Catry B, Latour K, Jans B, Vandendriessche S, Preal R, Mertens \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      260.2,
+      293.2,
+      269.9
+     ],
+     "text": "K, Denis O. Risk factors for methicillin resistantStaphylococcus \n"
+    },
+    {
+     "bbox": [
+      62.8,
+      274.7,
+      290.5,
+      284.4
+     ],
+     "text": "aureus: \nA \nmulti-laboratory \nstudy. \nPLoS \nOne. \n2014; \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      289.2,
+      215.4,
+      299.0
+     ],
+     "text": "9(2):e89579. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      303.6,
+      47.9,
+      313.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      318.2,
+      290.5,
+      327.9
+     ],
+     "text": "17. Grundmann H, Hori S, Winter B, Tami A, Austin DJ. Risk factors \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      332.7,
+      293.2,
+      342.4
+     ],
+     "text": "for the transmission of methicillin-resistantStaphylococcus \n"
+    },
+    {
+     "bbox": [
+      62.8,
+      347.1,
+      290.4,
+      356.8
+     ],
+     "text": "aureus in an adult intensive care unit: fitting a model to the \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      361.6,
+      290.4,
+      371.3
+     ],
+     "text": "data. J Infect Dis. 2002; 185:481?8.PubMed | Google \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      376.1,
+      95.9,
+      385.8
+     ],
+     "text": "Scholar \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      390.5,
+      47.9,
+      400.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      405.0,
+      290.4,
+      414.8
+     ],
+     "text": "18. Thompson RL, Cabezudo I, Wenzel RP. Epidemiology of \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      419.6,
+      288.0,
+      429.3
+     ],
+     "text": "nosocomial \ninfections \ncaused \nby \nmethicillin-\n"
+    },
+    {
+     "bbox": [
+      63.4,
+      434.1,
+      290.4,
+      443.8
+     ],
+     "text": "resistantStaphylococcus aureus. Ann Intern Med. 1982; \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      448.5,
+      208.0,
+      458.2
+     ],
+     "text": "97:309-17. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      463.0,
+      47.9,
+      472.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      477.5,
+      290.4,
+      487.3
+     ],
+     "text": "19. Vlieghe E, Phoba MF, Muyembe Tamfun JJ, Jacobs J. Antibiotic \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      491.9,
+      290.4,
+      501.7
+     ],
+     "text": "resistance among bacterial pathogens in Central Africa: a \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      506.5,
+      290.3,
+      516.2
+     ],
+     "text": "review of the published literature between 1955 and 2008. Int \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      521.0,
+      290.4,
+      530.7
+     ],
+     "text": "J Antimicrob Agents. 2009; 34(4):295-303. PubMed |Google \n"
+    },
+    {
+     "bbox": [
+      63.4,
+      535.5,
+      95.9,
+      545.2
+     ],
+     "text": "Scholar \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      549.9,
+      47.9,
+      559.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      71.9,
+      326.6,
+      81.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      86.4,
+      569.3,
+      96.1
+     ],
+     "text": "20. Ojulong J, Mwambu TP, Joloba M, Bwanga F, Kaddu-Mulindwa \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      100.8,
+      571.9,
+      110.5
+     ],
+     "text": "DH. Relative prevalence of methicilline resistantStaphylococcus \n"
+    },
+    {
+     "bbox": [
+      341.5,
+      115.3,
+      569.1,
+      125.0
+     ],
+     "text": "aureus and its susceptibility pattern in Mulago Hospital, \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      129.9,
+      566.9,
+      139.6
+     ],
+     "text": "Kampala, Uganda. Tanzan J Health Res. 2009; 11(3):149-\n"
+    },
+    {
+     "bbox": [
+      342.1,
+      144.4,
+      459.1,
+      154.1
+     ],
+     "text": "53. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      158.8,
+      326.6,
+      168.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      173.3,
+      569.1,
+      183.0
+     ],
+     "text": "21. Seni J, Najjuka CF, Kateete DP, Makobore P, Joloba ML, et al. \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      187.8,
+      569.2,
+      197.5
+     ],
+     "text": "Antimicrobial resistance in hospitalized surgical patients: a \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      202.2,
+      569.1,
+      211.9
+     ],
+     "text": "silently emerging public health concern in Uganda. BMC Res \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      216.7,
+      518.6,
+      226.4
+     ],
+     "text": "Notes. 2013; 6:298. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      231.3,
+      326.6,
+      241.0
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      245.7,
+      569.1,
+      255.4
+     ],
+     "text": "22. Otto M. Staphylococcal biofilms. Curr Top Microbiol Immunol. \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      260.2,
+      520.8,
+      269.9
+     ],
+     "text": "2008; 322: 207-228. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      274.7,
+      326.6,
+      284.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      289.2,
+      569.1,
+      299.0
+     ],
+     "text": "23. Davis SC, Ricotti C, Cazzaniga A, Welsh E, Eaglstein WH, Mertz \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      303.6,
+      569.2,
+      313.4
+     ],
+     "text": "PM. Microscopic and physiologic evidence for biofilm-associated \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      318.2,
+      569.1,
+      327.9
+     ],
+     "text": "wound colonization in vivo. Wound Repair Regen. 2008; \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      332.7,
+      497.9,
+      342.4
+     ],
+     "text": "16(1):23 - 29. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      347.1,
+      326.6,
+      356.8
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      361.6,
+      569.1,
+      371.3
+     ],
+     "text": "24. Pulcrano G, Vollara A, Rossano F, Catania MR. Molecular and \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      376.1,
+      566.7,
+      385.8
+     ],
+     "text": "phenotypic \ncharacterization \nof \nmethicillin-\n"
+    },
+    {
+     "bbox": [
+      342.1,
+      390.5,
+      569.1,
+      400.2
+     ],
+     "text": "resistantStaphylococcus aureus from surgical site infections. \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      405.0,
+      569.1,
+      414.8
+     ],
+     "text": "Surg \nInfect. \n2013; \n14(2): \n196-202. PubMed | Google \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      419.6,
+      374.6,
+      429.3
+     ],
+     "text": "Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      434.1,
+      326.6,
+      443.8
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      448.5,
+      566.7,
+      458.2
+     ],
+     "text": "25. Buzaid N, Elzouki AN, Taher I, Ghenghesh KS. Methicillin-\n"
+    },
+    {
+     "bbox": [
+      342.1,
+      463.0,
+      569.2,
+      472.7
+     ],
+     "text": "resistant Staphylococcus aureus (MRSA) in a tertiary surgical \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      477.5,
+      569.1,
+      487.3
+     ],
+     "text": "and trauma hospital in Benghazi, Libya. J Infect Dev Ctries. \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      491.9,
+      526.8,
+      501.7
+     ],
+     "text": "2011; 5(10): 723-726. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      506.5,
+      326.6,
+      516.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      324.0,
+      521.0,
+      569.2,
+      530.7
+     ],
+     "text": "26. Cosgrove SE, Carroll KC, Perl TM. Staphylococcus aureus with \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      535.5,
+      569.2,
+      545.2
+     ],
+     "text": "reduced \nsusceptibility \nto \nvancomycin. \nClin \nInfect \nDis. \n"
+    },
+    {
+     "bbox": [
+      342.1,
+      549.9,
+      517.5,
+      559.6
+     ],
+     "text": "2004;39(4):539-45. PubMed | Google Scholar \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      564.4,
+      47.9,
+      574.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      579.0,
+      47.9,
+      588.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      593.4,
+      47.9,
+      603.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      607.9,
+      47.9,
+      617.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      622.4,
+      47.9,
+      632.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      636.8,
+      47.9,
+      646.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      651.3,
+      47.9,
+      661.0
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      665.9,
+      47.9,
+      675.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      680.4,
+      47.9,
+      690.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      694.8,
+      47.9,
+      704.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      709.3,
+      47.9,
+      719.0
+     ],
+     "text": " \n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "Page number not for citation purposes \n6 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTable 1: Antibiotic susceptibility patterns of all S. aureus  strains \n  \nS. aureus (n= 74) \nAntibiotics \nSensitive (%) \nResistant (%) \nAmpicillin \n16 (21.6%) \n58 (78.4%) \nAmoxicillin/Clav.acid \n65 (88%) \n9 (12%) \nCeftazidime \n37 (50%) \n37 (50%) \nCefotaxime \n44 (59.5%) \n30 (40.5%) \nCiprofloxacin \n24 (32.4%) \n50 (67.6%) \nClindamycin \n22 (29.7%) \n52 (70.3%) \nCotrimoxazole \n20 (27%) \n54 (73%) \nErythromycin \n23 (31%) \n51 (69%) \nImipenem \n74 (100%) \n0 (0%) \nVancomycin \n63 (85%) \n11 (15%) \nTable 2: Antibiotic susceptibility patterns of all CNS strains \n  \nCNS (n = 15) \nAntibiotics \nSensitive \nResistant \nAmpicillin \n6 (40%) \n9 (60%) \nAmoxicillin/Clav.acid \n14(93.3%) \n1 (7.3%) \nCeftazidime \n7 (46.7%) \n8 (53.3%) \nCefotaxime \n6 (40%) \n9 (60%) \nCiprofloxacin \n1 (6.7%) \n14(93.3%) \nClindamycin \n2 (13.3%) \n13 (86.7%) \nCotrimoxazole \n5 (33.3%) \n10 (66.7%) \nErythromycin \n4 (26.7%) \n11 (73.3%) \nImipenem \n15 (100%) \n0 (0%) \nVancomycin \n13 (86.7%) \n2 (13.3%) \n",
+   "n_chars": 1085,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      429.9,
+      747.6,
+      569.1,
+      757.3
+     ],
+     "text": "Page number not for citation purposes \n6 \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      71.9,
+      393.9,
+      81.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      86.4,
+      393.9,
+      96.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      100.8,
+      393.9,
+      110.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      115.3,
+      393.9,
+      125.0
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      129.9,
+      393.9,
+      139.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      144.4,
+      393.9,
+      154.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      158.8,
+      393.9,
+      168.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      173.3,
+      393.9,
+      183.0
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      187.8,
+      393.9,
+      197.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      202.2,
+      393.9,
+      211.9
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      216.7,
+      393.9,
+      226.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      231.3,
+      393.9,
+      241.0
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      245.7,
+      393.9,
+      255.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      260.2,
+      393.9,
+      269.9
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      391.4,
+      274.7,
+      393.9,
+      284.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      289.2,
+      47.9,
+      299.0
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      303.6,
+      47.9,
+      313.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      318.2,
+      47.9,
+      327.9
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      332.7,
+      351.5,
+      342.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      347.1,
+      351.5,
+      356.8
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      361.6,
+      351.5,
+      371.3
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      376.1,
+      351.5,
+      385.8
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      390.5,
+      351.5,
+      400.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      405.0,
+      351.5,
+      414.8
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      419.6,
+      351.5,
+      429.3
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      434.1,
+      351.5,
+      443.8
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      448.5,
+      351.5,
+      458.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      463.0,
+      351.5,
+      472.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      477.5,
+      351.5,
+      487.3
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      491.9,
+      351.5,
+      501.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      506.5,
+      351.5,
+      516.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      521.0,
+      351.5,
+      530.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      349.0,
+      535.5,
+      351.5,
+      545.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      549.9,
+      47.9,
+      559.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      564.4,
+      47.9,
+      574.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      579.0,
+      47.9,
+      588.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      593.4,
+      47.9,
+      603.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      607.9,
+      47.9,
+      617.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      622.4,
+      47.9,
+      632.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      636.8,
+      47.9,
+      646.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      651.3,
+      47.9,
+      661.0
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      665.9,
+      47.9,
+      675.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      680.4,
+      47.9,
+      690.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      694.8,
+      47.9,
+      704.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      709.3,
+      47.9,
+      719.0
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      83.3,
+      277.7,
+      93.0
+     ],
+     "text": "Table 1: Antibiotic susceptibility patterns of all S. aureus  strains \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      98.3,
+      239.4,
+      108.0
+     ],
+     "text": "  \nS. aureus (n= 74) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      113.3,
+      324.6,
+      123.0
+     ],
+     "text": "Antibiotics \nSensitive (%) \nResistant (%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      128.3,
+      308.3,
+      138.0
+     ],
+     "text": "Ampicillin \n16 (21.6%) \n58 (78.4%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      143.2,
+      297.2,
+      152.9
+     ],
+     "text": "Amoxicillin/Clav.acid \n65 (88%) \n9 (12%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      158.2,
+      301.6,
+      167.9
+     ],
+     "text": "Ceftazidime \n37 (50%) \n37 (50%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      173.2,
+      308.3,
+      182.9
+     ],
+     "text": "Cefotaxime \n44 (59.5%) \n30 (40.5%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      188.2,
+      308.3,
+      197.9
+     ],
+     "text": "Ciprofloxacin \n24 (32.4%) \n50 (67.6%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      203.2,
+      308.3,
+      212.9
+     ],
+     "text": "Clindamycin \n22 (29.7%) \n52 (70.3%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      218.2,
+      301.6,
+      227.9
+     ],
+     "text": "Cotrimoxazole \n20 (27%) \n54 (73%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      233.2,
+      301.6,
+      242.9
+     ],
+     "text": "Erythromycin \n23 (31%) \n51 (69%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      248.2,
+      292.8,
+      257.9
+     ],
+     "text": "Imipenem \n74 (100%) \n0 (0%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      263.1,
+      301.6,
+      272.8
+     ],
+     "text": "Vancomycin \n63 (85%) \n11 (15%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      342.2,
+      256.8,
+      351.9
+     ],
+     "text": "Table 2: Antibiotic susceptibility patterns of all CNS strains \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      357.2,
+      214.0,
+      366.9
+     ],
+     "text": "  \nCNS (n = 15) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      372.2,
+      277.4,
+      381.9
+     ],
+     "text": "Antibiotics \nSensitive \nResistant \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      387.0,
+      269.1,
+      396.8
+     ],
+     "text": "Ampicillin \n6 (40%) \n9 (60%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      402.0,
+      271.5,
+      411.8
+     ],
+     "text": "Amoxicillin/Clav.acid \n14(93.3%) \n1 (7.3%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      417.0,
+      275.9,
+      426.8
+     ],
+     "text": "Ceftazidime \n7 (46.7%) \n8 (53.3%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      432.1,
+      269.1,
+      441.8
+     ],
+     "text": "Cefotaxime \n6 (40%) \n9 (60%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      447.1,
+      277.7,
+      456.8
+     ],
+     "text": "Ciprofloxacin \n1 (6.7%) \n14(93.3%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      462.1,
+      280.2,
+      471.8
+     ],
+     "text": "Clindamycin \n2 (13.3%) \n13 (86.7%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      477.1,
+      280.2,
+      486.8
+     ],
+     "text": "Cotrimoxazole \n5 (33.3%) \n10 (66.7%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      492.1,
+      280.2,
+      501.8
+     ],
+     "text": "Erythromycin \n4 (26.7%) \n11 (73.3%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      506.9,
+      264.8,
+      516.7
+     ],
+     "text": "Imipenem \n15 (100%) \n0 (0%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      522.0,
+      275.9,
+      531.7
+     ],
+     "text": "Vancomycin \n13 (86.7%) \n2 (13.3%) \n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "Page number not for citation purposes \n7 \nTable 3: Antibiotic susceptibility patterns of MRSA strains \n  \nMRSA (n = 47) \nAntibiotics \nSensitive \nResistant \nAmpicillin \n5(10.6%) \n42 (89.4%) \nAmoxicillin/Clav.acid \n39 (89%) \n8 (17%) \nCeftazidime \n22 (42%) \n25 (53%) \nCefotaxime \n20 (42.6%) \n27 (57.4%) \nCiprofloxacin \n20 (42.6%) \n27 (57.4%) \nClindamycin \n15 (32%) \n32 (68%) \nCotrimoxazole \n11 (23.4%) \n36 (76.6%) \nErythromycin \n11 (23.4%) \n36 (76.6%) \nImipenem \n47 (100%) \n0 (0%) \nVancomycin \n38(81%) \n9(19%) \n \n \nTable 4:  Antibiotic susceptibility patterns of MR- CNS strains  \n  \n(MR- CNS (n = 9) \nAntibiotics \nSensitive \nResistant \nAmpicillin \n1(11.1%) \n8 (88.9%) \nAmoxicillin/Clav.acid \n9 (100%) \n0 (0%) \nCeftazidime \n5 (55.6%) \n4 (44.6%) \nCefotaxime \n3 (33.3%) \n6 (66.7%) \nCiprofloxacin \n0 (0%) \n9 (100%) \nClindamycin \n3 (33.3%) \n6 (66.7% \nCotrimoxazole \n0 (0%) \n9 (100%) \nErythromycin \n2 (22.2%) \n7 (77.8%) \nImipenem \n9 (100%) \n0 (0%) \nVancomycin \n9(100%) \n0(0%) \n \n \n \n \n \nTable 5: Different resistance patterns of MRSA and MR-CNS strains \nResistance pattern \nMRSA  (n= 47) \nMR-CNS (n= 9) \n1 AB \n0 (0%) \n0 (0%) \n2 AB \n1 (2.1%) \n0 (0%) \n3 AB \n5 (10.6%) \n0 (0%) \n4 AB \n10 (21.2%) \n3 (33.3%) \n5 AB \n10 (21.2%) \n2 (22.2%) \n6 AB \n6 (12.7%) \n1 (11.1%) \n7 AB \n7 (14.9%) \n3(33.3%) \n8 AB \n4 (8.5%) \n0 (0%) \n9 AB \n2 (4.2%) \n0 (0%) \nAB: antibiotic \n",
+   "n_chars": 1342,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      429.9,
+      747.6,
+      569.1,
+      757.3
+     ],
+     "text": "Page number not for citation purposes \n7 \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      72.4,
+      252.3,
+      82.1
+     ],
+     "text": "Table 3: Antibiotic susceptibility patterns of MRSA strains \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      87.4,
+      235.1,
+      97.1
+     ],
+     "text": "  \nMRSA (n = 47) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      102.4,
+      284.2,
+      112.1
+     ],
+     "text": "Antibiotics \nSensitive \nResistant \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      117.4,
+      287.1,
+      127.1
+     ],
+     "text": "Ampicillin \n5(10.6%) \n42 (89.4%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      132.4,
+      275.9,
+      142.1
+     ],
+     "text": "Amoxicillin/Clav.acid \n39 (89%) \n8 (17%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      147.4,
+      280.4,
+      157.1
+     ],
+     "text": "Ceftazidime \n22 (42%) \n25 (53%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      162.3,
+      287.1,
+      172.0
+     ],
+     "text": "Cefotaxime \n20 (42.6%) \n27 (57.4%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      177.3,
+      287.1,
+      187.0
+     ],
+     "text": "Ciprofloxacin \n20 (42.6%) \n27 (57.4%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      192.3,
+      280.4,
+      202.0
+     ],
+     "text": "Clindamycin \n15 (32%) \n32 (68%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      207.3,
+      287.1,
+      217.0
+     ],
+     "text": "Cotrimoxazole \n11 (23.4%) \n36 (76.6%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      222.3,
+      287.1,
+      232.0
+     ],
+     "text": "Erythromycin \n11 (23.4%) \n36 (76.6%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      237.3,
+      271.6,
+      247.0
+     ],
+     "text": "Imipenem \n47 (100%) \n0 (0%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      252.3,
+      273.4,
+      262.0
+     ],
+     "text": "Vancomycin \n38(81%) \n9(19%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      267.2,
+      47.9,
+      276.9
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      281.7,
+      47.9,
+      291.4
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      296.7,
+      268.0,
+      306.4
+     ],
+     "text": "Table 4:  Antibiotic susceptibility patterns of MR- CNS strains  \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      311.7,
+      229.0,
+      321.4
+     ],
+     "text": "  \n(MR- CNS (n = 9) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      326.7,
+      296.0,
+      336.4
+     ],
+     "text": "Antibiotics \nSensitive \nResistant \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      341.7,
+      294.5,
+      351.4
+     ],
+     "text": "Ampicillin \n1(11.1%) \n8 (88.9%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      356.7,
+      283.4,
+      366.4
+     ],
+     "text": "Amoxicillin/Clav.acid \n9 (100%) \n0 (0%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      371.6,
+      294.5,
+      381.3
+     ],
+     "text": "Ceftazidime \n5 (55.6%) \n4 (44.6%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      386.6,
+      294.5,
+      396.3
+     ],
+     "text": "Cefotaxime \n3 (33.3%) \n6 (66.7%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      401.6,
+      292.1,
+      411.3
+     ],
+     "text": "Ciprofloxacin \n0 (0%) \n9 (100%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      416.6,
+      291.4,
+      426.3
+     ],
+     "text": "Clindamycin \n3 (33.3%) \n6 (66.7% \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      431.6,
+      292.1,
+      441.3
+     ],
+     "text": "Cotrimoxazole \n0 (0%) \n9 (100%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      446.6,
+      294.5,
+      456.3
+     ],
+     "text": "Erythromycin \n2 (22.2%) \n7 (77.8%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      461.6,
+      283.4,
+      471.3
+     ],
+     "text": "Imipenem \n9 (100%) \n0 (0%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      476.5,
+      280.8,
+      486.2
+     ],
+     "text": "Vancomycin \n9(100%) \n0(0%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      491.5,
+      47.9,
+      501.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      506.0,
+      47.9,
+      515.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      351.7,
+      520.5,
+      354.2,
+      530.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      351.7,
+      534.9,
+      354.2,
+      544.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      351.7,
+      549.4,
+      354.2,
+      559.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      535.0,
+      287.4,
+      544.7
+     ],
+     "text": "Table 5: Different resistance patterns of MRSA and MR-CNS strains \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      550.0,
+      306.6,
+      559.7
+     ],
+     "text": "Resistance pattern \nMRSA  (n= 47) \nMR-CNS (n= 9) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      565.0,
+      270.2,
+      574.7
+     ],
+     "text": "1 AB \n0 (0%) \n0 (0%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      579.9,
+      270.2,
+      589.6
+     ],
+     "text": "2 AB \n1 (2.1%) \n0 (0%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      594.9,
+      270.2,
+      604.6
+     ],
+     "text": "3 AB \n5 (10.6%) \n0 (0%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      609.9,
+      281.3,
+      619.6
+     ],
+     "text": "4 AB \n10 (21.2%) \n3 (33.3%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      624.9,
+      281.3,
+      634.6
+     ],
+     "text": "5 AB \n10 (21.2%) \n2 (22.2%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      639.9,
+      281.3,
+      649.6
+     ],
+     "text": "6 AB \n6 (12.7%) \n1 (11.1%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      654.9,
+      278.8,
+      664.6
+     ],
+     "text": "7 AB \n7 (14.9%) \n3(33.3%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      669.9,
+      270.2,
+      679.6
+     ],
+     "text": "8 AB \n4 (8.5%) \n0 (0%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      684.9,
+      270.2,
+      694.6
+     ],
+     "text": "9 AB \n2 (4.2%) \n0 (0%) \n"
+    },
+    {
+     "bbox": [
+      45.4,
+      699.8,
+      94.7,
+      709.5
+     ],
+     "text": "AB: antibiotic \n"
+    }
+   ]
+  }
+ ]
+}

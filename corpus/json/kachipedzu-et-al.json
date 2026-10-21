@@ -1,0 +1,1825 @@
+{
+ "doc_id": "kachipedzu-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Kachipedzu et al..pdf",
+ "sha256": "b7c487cc8812e753eb63a06dfe8bee4154ebcf0729a7722b0171d9a236412a98",
+ "document_type": "pdf",
+ "n_pages": 8,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "Surgical site infection and antimicrobial use following caesarean section at QECH in Blantyre, Malawi: a prospective cohort study",
+  "author": "Amos Tumizani Kachipedzu ",
+  "subject": "Antimicrobial Resistance & Infection Control, https://doi.org/10.1186/s13756-024-01483-5",
+  "keywords": "Surgical site infections; Healthcare-associated infections; Antimicrobial resistance; Incidence; Risk factors",
+  "creator": "Springer",
+  "producer": "Acrobat Distiller 10.1.8 (Windows); modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)",
+  "creationDate": "D:20241029091434+05'30'",
+  "modDate": "D:20241029082139+01'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:55+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "Kachipedzu et al. \nAntimicrobial Resistance & Infection Control          (2024) 13:131  \nhttps://doi.org/10.1186/s13756-024-01483-5\nRESEARCH\nSurgical site infection and antimicrobial use \nfollowing caesarean section at QECH in Blantyre, \nMalawi: a prospective cohort study\nAmos Tumizani Kachipedzu1,3*, David King Kulapani1, Samuel James Meja2 and Janelisa Musaya1 \nAbstract \nBackground  Surgical site infections (SSIs) are one of the most common healthcare-associated infections \nand preventable complication of surgical procedure; continue to threaten public health with significant effects \non the patients and health care human and financial resources. Therefore, this study aimed to determine the inci-\ndence of SSIs, risk factors and common microorganisms associated with SSI and assess the practice of antimicrobial \nuse in women following Caesarean Section (CS) at Queen Elizabeth Central Hospital (QECH).\nMethods  This was a hospital-based quantitative prospective study design involving pregnant women who under-\nwent a CS between February, 2023 and July, 2023 at QECH with 30 day-follow-ups. Wound specimens (wound swabs) \nwere collected from all infected CS wounds and processed at QECH main laboratory, and susceptibility testing \nwas conducted using the Kirby-Bauer disk diffusion method with results reported only as susceptible, intermediate, \nor resistant and the collected data was analyzed using Stata.\nResults  The overall cumulative incidence of SSI recorded at QECH during the study period was 9.61% (20 \ncases out of 208). Of these, 19 (95%) of them reported superficial SSI following CS. The mean age was 26.1 years \nwith a standard deviation of 6.2. All pregnant women who underwent for CS received antibiotic prophylaxis. This \nstudy revealed that 138 (66.35%) patients received both preoperative antibiotics (ceftriaxone) and post-CS antibiot-\nics without knowing the specific bacterial organism isolated. This study revealed that ruptured membrane had twice \nthe incidence of SSIs compared to intact membrane (χ2 = 2.0922), though not statistically significant. The majority \nof patients with SSIs (n = 12, 60%) were readmitted and 5 (25%) out of 20 with SSIs had antimicrobial resistance follow-\ning susceptibility testing. Staphylococcus aureus was the most common organism (3, 60%) and other bacterial isolates \nincluded were Enterobacteriaceae and Acinetobacter baumanni.\nConclusion  The incidence of SSIs and inappropriate antimicrobial use following CS remains a challenge at QECH. \nTherefore, due to increased number of SSIs following CS with relative emergence of AMR ensure intensive infection \nprevention and control practices, establishing AMS program and routine surveillance of SSIs at QECH.\nKeywords  Surgical site infections, Healthcare-associated infections, Antimicrobial resistance, Incidence, Risk factors\nOpen Access\n© The Author(s) 2024. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 \nInternational License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long \nas you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if \nyou modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or \nparts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated \notherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not \npermitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To \nview a copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by-​nc-​nd/4.​0/.\nAntimicrobial Resistance\nand Infection Control\n*Correspondence:\nAmos Tumizani Kachipedzu\namoskachipedzu@gmail.com\nFull list of author information is available at the end of the article\n",
+   "n_chars": 4112,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      56.6,
+      31.7,
+      256.9,
+      61.3
+     ],
+     "text": "Kachipedzu et al. \nAntimicrobial Resistance & Infection Control          (2024) 13:131  \nhttps://doi.org/10.1186/s13756-024-01483-5\n"
+    },
+    {
+     "bbox": [
+      61.8,
+      89.1,
+      129.7,
+      105.2
+     ],
+     "text": "RESEARCH\n"
+    },
+    {
+     "bbox": [
+      56.6,
+      115.6,
+      542.5,
+      196.5
+     ],
+     "text": "Surgical site infection and antimicrobial use \nfollowing caesarean section at QECH in Blantyre, \nMalawi: a prospective cohort study\n"
+    },
+    {
+     "bbox": [
+      56.6,
+      203.3,
+      476.5,
+      217.2
+     ],
+     "text": "Amos Tumizani Kachipedzu1,3*, David King Kulapani1, Samuel James Meja2 and Janelisa Musaya1 \n"
+    },
+    {
+     "bbox": [
+      63.1,
+      252.5,
+      531.2,
+      502.2
+     ],
+     "text": "Abstract \nBackground  Surgical site infections (SSIs) are one of the most common healthcare-associated infections \nand preventable complication of surgical procedure; continue to threaten public health with significant effects \non the patients and health care human and financial resources. Therefore, this study aimed to determine the inci-\ndence of SSIs, risk factors and common microorganisms associated with SSI and assess the practice of antimicrobial \nuse in women following Caesarean Section (CS) at Queen Elizabeth Central Hospital (QECH).\nMethods  This was a hospital-based quantitative prospective study design involving pregnant women who under-\nwent a CS between February, 2023 and July, 2023 at QECH with 30 day-follow-ups. Wound specimens (wound swabs) \nwere collected from all infected CS wounds and processed at QECH main laboratory, and susceptibility testing \nwas conducted using the Kirby-Bauer disk diffusion method with results reported only as susceptible, intermediate, \nor resistant and the collected data was analyzed using Stata.\nResults  The overall cumulative incidence of SSI recorded at QECH during the study period was 9.61% (20 \ncases out of 208). Of these, 19 (95%) of them reported superficial SSI following CS. The mean age was 26.1 years \nwith a standard deviation of 6.2. All pregnant women who underwent for CS received antibiotic prophylaxis. This \nstudy revealed that 138 (66.35%) patients received both preoperative antibiotics (ceftriaxone) and post-CS antibiot-\nics without knowing the specific bacterial organism isolated. This study revealed that ruptured membrane had twice \nthe incidence of SSIs compared to intact membrane (χ2 = 2.0922), though not statistically significant. The majority \nof patients with SSIs (n = 12, 60%) were readmitted and 5 (25%) out of 20 with SSIs had antimicrobial resistance follow-\ning susceptibility testing. Staphylococcus aureus was the most common organism (3, 60%) and other bacterial isolates \nincluded were Enterobacteriaceae and Acinetobacter baumanni.\n"
+    },
+    {
+     "bbox": [
+      63.1,
+      505.0,
+      521.9,
+      556.2
+     ],
+     "text": "Conclusion  The incidence of SSIs and inappropriate antimicrobial use following CS remains a challenge at QECH. \nTherefore, due to increased number of SSIs following CS with relative emergence of AMR ensure intensive infection \nprevention and control practices, establishing AMS program and routine surveillance of SSIs at QECH.\nKeywords  Surgical site infections, Healthcare-associated infections, Antimicrobial resistance, Incidence, Risk factors\n"
+    },
+    {
+     "bbox": [
+      463.3,
+      87.5,
+      535.5,
+      103.6
+     ],
+     "text": "Open Access\n"
+    },
+    {
+     "bbox": [
+      180.5,
+      675.3,
+      538.9,
+      739.9
+     ],
+     "text": "© The Author(s) 2024. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 \nInternational License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long \nas you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if \nyou modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or \nparts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated \notherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not \npermitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To \nview a copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by-​nc-​nd/4.​0/.\n"
+    },
+    {
+     "bbox": [
+      410.6,
+      30.7,
+      538.6,
+      45.8
+     ],
+     "text": "Antimicrobial Resistance\n"
+    },
+    {
+     "bbox": [
+      427.9,
+      45.7,
+      538.6,
+      60.8
+     ],
+     "text": "and Infection Control\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      623.1,
+      248.1,
+      658.6
+     ],
+     "text": "*Correspondence:\nAmos Tumizani Kachipedzu\namoskachipedzu@gmail.com\nFull list of author information is available at the end of the article\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "Page 2 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \nBackground\nCaesarean section (CS) is a lifesaving operative technique \nin which a foetus, placenta, and membranes are delivered \nthrough an abdominal and uterine incision. Surgical site \ninfection (SSI) is defined as an infection that occurs at or \nnear the surgical incision within 30 days of the operation \nor after 1 year if an implant is placed [1–3]. Globally, SSI \nis the second most reported health-care associated infec-\ntion (HAI), accounting for 19.6% of HAIs [4]. Numerous \nstudies have reported incidence rates of post-CS SSIs, \nfor example, 2.85% in India [5], 21% in Ethiopia [6] and \n7–9.6% in Nigeria [5, 7]. HAIs and antimicrobial resist-\nance (AMR) are major global health challenges recog-\nnized worldwide. However, the spread of HAIs and AMR \nis particularly alarming in low- and middle-income coun-\ntries [8]. SSI accounts for 20% of all HAIs and is associ-\nated with a 2–11  fold increase in the risk of mortality, \nwith 75% of SSI-associated deaths directly attributable to \nSSI [9, 10].\nThere are limited data on surgical site infections (SSIs) \nin African countries such as Malawi [11]. A prospective \nsurvey conducted by Borgstein at QECH in Blantyre \nshowed an overall infection rate of 25.8% and that for \nclean wounds of 14.8% [12]. In many SSIs, the responsi-\nble pathogens originate from the patient’s endogenous \nflora [13]. The causative pathogens depend on the type \nof surgery; the most commonly isolated organisms are \nStaphylococcus aureus, coagulase-negative staphylococci, \nEnterococcus spp. and Escherichia coli. Other studies have \nshown that Staphylococcus aureus is a commonly isolated \norganism in SSIs, accounting for 20–30% of SSIs occur-\nring in hospitals [5, 13, 14]. A survey revealed that cae-\nsarean section procedures carry a risk of infection 5–20 \ntimes that of normal delivery [6].\nDifferent studies have shown that the rational use of \nantimicrobials in women of childbearing age is impor-\ntant because it affects this population as well as their off-\nspring. The indiscriminate use of antibiotics may result \nin the appearance of drug-resistant organisms [15]. The \nuse of antimicrobial prophylaxis for caesarean section \nhas been shown to be effective in reducing postoperative \nmorbidity, cost and duration of hospitalization. Another \nstudy reported the incidence of infection even after \nantimicrobial prophylaxis due to pre-existing infection, \ndebilitating disease or prolonged rupture of membranes \n[15].\nIn addition, another study reported that once antibi-\notics are intensively misused, they are undoubtedly the \nmain factor associated with the high numbers of antibi-\notic-resistant pathogenic and commensal bacteria world-\nwide [16, 17]. Similarly, a study by Classen et al. revealed \nthat a delay in surgery reduces patient protection and can \nlead to the occurrence of postoperative infections [18]. \nConsequently, with the increasing number of surgical \ncases in LMICs, surgical site infections (SSIs) are becom-\ning more prevalent due to anecdotal evidence of AMR, \ndespite limited data on resistance patterns. The crite-\nria for defining surgical site infection (SSI) were estab-\nlished according to the US Centres for Disease Control \n(CDC) and Prevention [19]. Therefore, this study aimed \nto determine the incidence of SSIs, risk factors and com-\nmon microorganisms associated with SSI and assess the \npractice of antimicrobial use in women following CS at \nQECH in Blantyre, Malawi.\nMethods and materials\nStudy setting, design, period and population\nThis was a hospital–based quantitative prospective \ncohort study among all women who underwent a caesar-\nean section procedure at QECH from 1st February 2023 \nto 31st July 2023, and they were followed up for a 30-day \nperiod to assess wound outcome (SSI). QECH has an \naverage of 300 CS procedures performed per month and \nis found in Blantyre in the southern region of Malawi. \nQECH provides secondary and tertiary levels of care and \nserves as the referral hospital for the health centres in \nBlantyre and district hospitals in the region (primary and \nsecondary health care). Surgical wound sites on discharge \nfrom hospital were inspected and classified according to \nthe CDC [19]. The study excluded all women who under-\nwent CS in other health facilities.\nSample size and sampling technique\nThe study enrolled 208 pregnant women who delivered \nthrough CS at QECH. This sample size was calculated in \nOpenEpi version 3, assuming that 15% of the subjects in \nthe study population developed surgical site infections \nand that they received antimicrobial agents. To deter-\nmine significant differences in the proportions of surgical \nsite infections between the two groups, a power of 80%, \ntwo-sided significance of 95% confidence and a design \neffect of 2 were used [20]. These two groups considered \nthose that developed SSI and those that did not develop \nSSI following CS procedure and antimicrobial use.\nThe assumption on the percentage was based on the \nresults from a prospective survey conducted by Borgstein \nat QECH in Blantyre, which showed an overall infection \nrate of 25.8% and that for clean wounds of 14.8% [12]. \nFurthermore, the assumed percentage was also based on \nthe point prevalence survey by Bunduki, which revealed \nHAI of 11.4%, including surgical site infections [11].\nData collection and procedure\nThe data were collected electronically using Open Data \nKit (ODK) software. The information included sociode-\nmographic characteristics, obstetrics-related factors, and \n",
+   "n_chars": 5624,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      31.7,
+      538.7,
+      41.8
+     ],
+     "text": "Page 2 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \n"
+    },
+    {
+     "bbox": [
+      56.7,
+      86.1,
+      292.9,
+      317.5
+     ],
+     "text": "Background\nCaesarean section (CS) is a lifesaving operative technique \nin which a foetus, placenta, and membranes are delivered \nthrough an abdominal and uterine incision. Surgical site \ninfection (SSI) is defined as an infection that occurs at or \nnear the surgical incision within 30 days of the operation \nor after 1 year if an implant is placed [1–3]. Globally, SSI \nis the second most reported health-care associated infec-\ntion (HAI), accounting for 19.6% of HAIs [4]. Numerous \nstudies have reported incidence rates of post-CS SSIs, \nfor example, 2.85% in India [5], 21% in Ethiopia [6] and \n7–9.6% in Nigeria [5, 7]. HAIs and antimicrobial resist-\nance (AMR) are major global health challenges recog-\nnized worldwide. However, the spread of HAIs and AMR \nis particularly alarming in low- and middle-income coun-\ntries [8]. SSI accounts for 20% of all HAIs and is associ-\nated with a 2–11  fold increase in the risk of mortality, \nwith 75% of SSI-associated deaths directly attributable to \nSSI [9, 10].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      315.0,
+      292.9,
+      497.5
+     ],
+     "text": "There are limited data on surgical site infections (SSIs) \nin African countries such as Malawi [11]. A prospective \nsurvey conducted by Borgstein at QECH in Blantyre \nshowed an overall infection rate of 25.8% and that for \nclean wounds of 14.8% [12]. In many SSIs, the responsi-\nble pathogens originate from the patient’s endogenous \nflora [13]. The causative pathogens depend on the type \nof surgery; the most commonly isolated organisms are \nStaphylococcus aureus, coagulase-negative staphylococci, \nEnterococcus spp. and Escherichia coli. Other studies have \nshown that Staphylococcus aureus is a commonly isolated \norganism in SSIs, accounting for 20–30% of SSIs occur-\nring in hospitals [5, 13, 14]. A survey revealed that cae-\nsarean section procedures carry a risk of infection 5–20 \ntimes that of normal delivery [6].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      495.0,
+      292.9,
+      641.5
+     ],
+     "text": "Different studies have shown that the rational use of \nantimicrobials in women of childbearing age is impor-\ntant because it affects this population as well as their off-\nspring. The indiscriminate use of antibiotics may result \nin the appearance of drug-resistant organisms [15]. The \nuse of antimicrobial prophylaxis for caesarean section \nhas been shown to be effective in reducing postoperative \nmorbidity, cost and duration of hospitalization. Another \nstudy reported the incidence of infection even after \nantimicrobial prophylaxis due to pre-existing infection, \ndebilitating disease or prolonged rupture of membranes \n[15].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      639.0,
+      292.9,
+      725.5
+     ],
+     "text": "In addition, another study reported that once antibi-\notics are intensively misused, they are undoubtedly the \nmain factor associated with the high numbers of antibi-\notic-resistant pathogenic and commensal bacteria world-\nwide [16, 17]. Similarly, a study by Classen et al. revealed \nthat a delay in surgery reduces patient protection and can \nlead to the occurrence of postoperative infections [18]. \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      86.5,
+      540.9,
+      221.0
+     ],
+     "text": "Consequently, with the increasing number of surgical \ncases in LMICs, surgical site infections (SSIs) are becom-\ning more prevalent due to anecdotal evidence of AMR, \ndespite limited data on resistance patterns. The crite-\nria for defining surgical site infection (SSI) were estab-\nlished according to the US Centres for Disease Control \n(CDC) and Prevention [19]. Therefore, this study aimed \nto determine the incidence of SSIs, risk factors and com-\nmon microorganisms associated with SSI and assess the \npractice of antimicrobial use in women following CS at \nQECH in Blantyre, Malawi.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      229.6,
+      540.9,
+      425.0
+     ],
+     "text": "Methods and materials\nStudy setting, design, period and population\nThis was a hospital–based quantitative prospective \ncohort study among all women who underwent a caesar-\nean section procedure at QECH from 1st February 2023 \nto 31st July 2023, and they were followed up for a 30-day \nperiod to assess wound outcome (SSI). QECH has an \naverage of 300 CS procedures performed per month and \nis found in Blantyre in the southern region of Malawi. \nQECH provides secondary and tertiary levels of care and \nserves as the referral hospital for the health centres in \nBlantyre and district hospitals in the region (primary and \nsecondary health care). Surgical wound sites on discharge \nfrom hospital were inspected and classified according to \nthe CDC [19]. The study excluded all women who under-\nwent CS in other health facilities.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      434.8,
+      540.9,
+      581.0
+     ],
+     "text": "Sample size and sampling technique\nThe study enrolled 208 pregnant women who delivered \nthrough CS at QECH. This sample size was calculated in \nOpenEpi version 3, assuming that 15% of the subjects in \nthe study population developed surgical site infections \nand that they received antimicrobial agents. To deter-\nmine significant differences in the proportions of surgical \nsite infections between the two groups, a power of 80%, \ntwo-sided significance of 95% confidence and a design \neffect of 2 were used [20]. These two groups considered \nthose that developed SSI and those that did not develop \nSSI following CS procedure and antimicrobial use.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      578.4,
+      540.9,
+      665.0
+     ],
+     "text": "The assumption on the percentage was based on the \nresults from a prospective survey conducted by Borgstein \nat QECH in Blantyre, which showed an overall infection \nrate of 25.8% and that for clean wounds of 14.8% [12]. \nFurthermore, the assumed percentage was also based on \nthe point prevalence survey by Bunduki, which revealed \nHAI of 11.4%, including surgical site infections [11].\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      674.8,
+      540.9,
+      725.0
+     ],
+     "text": "Data collection and procedure\nThe data were collected electronically using Open Data \nKit (ODK) software. The information included sociode-\nmographic characteristics, obstetrics-related factors, and \n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "Page 3 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \n\t\noperation- and anaesthesia-related factors. The depend-\nent variable of this study was the incidence of SSIs fol-\nlowing CS. The suggested independent variables included \nwere sociodemographic variables such as maternal age, \nmaternal educational status, occupational status, reli-\ngion, and antenatal care visits. Relevant maternal medi-\ncal history, such as HIV status, BMI, previous history of \nCS, and/or hypertensive disorder, was collected. Surgical \nintervention-related variables included type of CS (elec-\ntive or emergency), type of incision (vertical, horizontal), \ntype of skin closure (Interrupted or continuous), prema-\nture rupture of membranes, number of vaginal examina-\ntions, duration of the procedure, anaesthetic technique \n(general, spinal), indication for CS, gestational age, CS \nperformed by a doctor (e.g., international clinical officer, \nclinical officer, medical officer, student or consultant) \nand/or antibiotic use. Wound swab samples were col-\nlected from the infected surgical wounds and processed \nusing the Kirby-Bauer (KB) test via the disc diffusion \nmethod [21].\nAs part of routine clinical care, the samples collected \nfrom the patients were quickly tracked; wound swabs or \npus aspirates were sent to the QECH main laboratory \nfor microbiology culture and sensitivity. Furthermore, \nthe data were collected by the principal investigator and \nresearch assistants, who were qualified nurse midwives \nand microbiologists. The data for cases post CS were \nidentified through the phone interviews by the prin-\ncipal investigator at least three contacts (day 3 / or on \ndischarge, day 7 and day 30 post discharge). Those that \nreported signs and symptoms for SSIs as defined by CDC \nwere asked to visit the hospital and have wound swab \nsample collected for further microbiology analysis. Some \npatients were not admitted as per doctor’s recommen-\ndation after proper assessments and they were followed \nup through the phone interviews. For consistency in the \ndata collection process, the research assistants were ori-\nented to the data collection instrument by the principal \ninvestigator prior to the actual data collection process.\nData management and statistical analysis\nAfter data collection to ensure completeness, consist-\nency and correct methods of data entry, quality control \nwas performed on a daily basis. The data were subse-\nquently transferred to a password-protected computer \nand downloaded to an electronic server for storage. The \nserver was secure, with access only granted to study data \nmanagers.\nThe statistical analyses were performed by means of \nStata version 14, and statistical significance was defined \nby a p value ≤ 0.05 (95% confidence level). Descriptive \nanalysis was also conducted. For the continuous vari-\nables, means (standard deviations) and interquartile \nranges (IQRs) were calculated, and the summarized \nresults are presented in a table.\nDescriptive data analysis was also used for frequencies \nand percentages. These studies were mainly focused on \nsociodemographic characteristics, medical-related and \nobstetric-related factors, and operation and anaesthesia \nfactors. Chi-square (χ2) and Fisher’s exact tests were per-\nformed for observations less than or equal to 4 to deter-\nmine the potential risk factors associated with the SSI at \nthe 95% confidence level. The analyses were performed \nto determine the potential risk factors or crude odds \nratios. Risk factors with a p value < 0.05 in the univariate \nanalysis were selected for inclusion in the multivariable \nlogistic regression model. However, multivariable analy-\nsis was not performed to assess whether the relationship \nbetween C-sections and SSIs was confounded by other \nrisk factors because χ2 showed no direct association \nbetween the variable and the outcome of interest (SSI).\nResults\nSocio‑demographic and clinical characteristics\nA total of 208 pregnant women who underwent CS were \nenrolled, and 30 days of follow-up were used to assess SSI \noutcomes (Fig. 1). The minimum age of the study partici-\npants was 15 years, while the maximum age limit for the \nstudy participants was 42 years.\nThe mean age was 26.1 years, with a standard deviation \nof 6.2 years. Approximately 111 (53.37%) of the women \nresponded with no previous history of CS, and 20 (9.6%) \nof the women were HIV positive in this study (Table 1). \nAmong the enrolled women, 20 patients developed SSI \nfollowing CS either clinically or through microbiological \nculture diagnosis.\nCaesarean section indications\nAmong mothers who underwent caesarean section, \nprevious scarring was the most common indication (63 \n(30.29%)), followed by cephalopelvic disproportion (61 \n(29.33%)) (Table 2).\nMedical‑related and obstetric related characteristics\nAmong the 208 women, 115 (55.5%) had a BMI greater \nthan 25, and 22 (10.58%) had an ASA score equal to \nor greater than two. Furthermore, 93 (44.71%) of the \npatients experienced membrane rupture before CS was \nperformed. In addition, approximately 169 (81.25%) \nof the participants’ gestational age was not less than \n37 weeks (Online supplementary Table 3).\nAnaesthesia and operation‑related characteristics\nThe average duration after the first dose of antibi-\notic prophylaxis to the start of the CS procedure was \n12.85  min, with a standard deviation of 8.44 (IQR = 8, \n",
+   "n_chars": 5440,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      31.7,
+      538.6,
+      41.8
+     ],
+     "text": "Page 3 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \n\t\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      86.5,
+      292.9,
+      329.0
+     ],
+     "text": "operation- and anaesthesia-related factors. The depend-\nent variable of this study was the incidence of SSIs fol-\nlowing CS. The suggested independent variables included \nwere sociodemographic variables such as maternal age, \nmaternal educational status, occupational status, reli-\ngion, and antenatal care visits. Relevant maternal medi-\ncal history, such as HIV status, BMI, previous history of \nCS, and/or hypertensive disorder, was collected. Surgical \nintervention-related variables included type of CS (elec-\ntive or emergency), type of incision (vertical, horizontal), \ntype of skin closure (Interrupted or continuous), prema-\nture rupture of membranes, number of vaginal examina-\ntions, duration of the procedure, anaesthetic technique \n(general, spinal), indication for CS, gestational age, CS \nperformed by a doctor (e.g., international clinical officer, \nclinical officer, medical officer, student or consultant) \nand/or antibiotic use. Wound swab samples were col-\nlected from the infected surgical wounds and processed \nusing the Kirby-Bauer (KB) test via the disc diffusion \nmethod [21].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      326.5,
+      292.9,
+      557.0
+     ],
+     "text": "As part of routine clinical care, the samples collected \nfrom the patients were quickly tracked; wound swabs or \npus aspirates were sent to the QECH main laboratory \nfor microbiology culture and sensitivity. Furthermore, \nthe data were collected by the principal investigator and \nresearch assistants, who were qualified nurse midwives \nand microbiologists. The data for cases post CS were \nidentified through the phone interviews by the prin-\ncipal investigator at least three contacts (day 3 / or on \ndischarge, day 7 and day 30 post discharge). Those that \nreported signs and symptoms for SSIs as defined by CDC \nwere asked to visit the hospital and have wound swab \nsample collected for further microbiology analysis. Some \npatients were not admitted as per doctor’s recommen-\ndation after proper assessments and they were followed \nup through the phone interviews. For consistency in the \ndata collection process, the research assistants were ori-\nented to the data collection instrument by the principal \ninvestigator prior to the actual data collection process.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      566.8,
+      292.9,
+      665.0
+     ],
+     "text": "Data management and statistical analysis\nAfter data collection to ensure completeness, consist-\nency and correct methods of data entry, quality control \nwas performed on a daily basis. The data were subse-\nquently transferred to a password-protected computer \nand downloaded to an electronic server for storage. The \nserver was secure, with access only granted to study data \nmanagers.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      662.5,
+      292.9,
+      725.0
+     ],
+     "text": "The statistical analyses were performed by means of \nStata version 14, and statistical significance was defined \nby a p value ≤ 0.05 (95% confidence level). Descriptive \nanalysis was also conducted. For the continuous vari-\nables, means (standard deviations) and interquartile \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      86.5,
+      540.9,
+      113.0
+     ],
+     "text": "ranges (IQRs) were calculated, and the summarized \nresults are presented in a table.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      110.5,
+      540.9,
+      305.0
+     ],
+     "text": "Descriptive data analysis was also used for frequencies \nand percentages. These studies were mainly focused on \nsociodemographic characteristics, medical-related and \nobstetric-related factors, and operation and anaesthesia \nfactors. Chi-square (χ2) and Fisher’s exact tests were per-\nformed for observations less than or equal to 4 to deter-\nmine the potential risk factors associated with the SSI at \nthe 95% confidence level. The analyses were performed \nto determine the potential risk factors or crude odds \nratios. Risk factors with a p value < 0.05 in the univariate \nanalysis were selected for inclusion in the multivariable \nlogistic regression model. However, multivariable analy-\nsis was not performed to assess whether the relationship \nbetween C-sections and SSIs was confounded by other \nrisk factors because χ2 showed no direct association \nbetween the variable and the outcome of interest (SSI).\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      313.6,
+      540.9,
+      401.0
+     ],
+     "text": "Results\nSocio‑demographic and clinical characteristics\nA total of 208 pregnant women who underwent CS were \nenrolled, and 30 days of follow-up were used to assess SSI \noutcomes (Fig. 1). The minimum age of the study partici-\npants was 15 years, while the maximum age limit for the \nstudy participants was 42 years.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      398.5,
+      540.9,
+      485.0
+     ],
+     "text": "The mean age was 26.1 years, with a standard deviation \nof 6.2 years. Approximately 111 (53.37%) of the women \nresponded with no previous history of CS, and 20 (9.6%) \nof the women were HIV positive in this study (Table 1). \nAmong the enrolled women, 20 patients developed SSI \nfollowing CS either clinically or through microbiological \nculture diagnosis.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      494.8,
+      540.9,
+      557.6
+     ],
+     "text": "Caesarean section indications\nAmong mothers who underwent caesarean section, \nprevious scarring was the most common indication (63 \n(30.29%)), followed by cephalopelvic disproportion (61 \n(29.33%)) (Table 2).\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      566.8,
+      540.9,
+      665.0
+     ],
+     "text": "Medical‑related and obstetric related characteristics\nAmong the 208 women, 115 (55.5%) had a BMI greater \nthan 25, and 22 (10.58%) had an ASA score equal to \nor greater than two. Furthermore, 93 (44.71%) of the \npatients experienced membrane rupture before CS was \nperformed. In addition, approximately 169 (81.25%) \nof the participants’ gestational age was not less than \n37 weeks (Online supplementary Table 3).\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      674.8,
+      540.9,
+      725.0
+     ],
+     "text": "Anaesthesia and operation‑related characteristics\nThe average duration after the first dose of antibi-\notic prophylaxis to the start of the CS procedure was \n12.85  min, with a standard deviation of 8.44 (IQR = 8, \n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Page 4 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \n25th percentile = 7, 75th percentile = 15). Furthermore, \n134 (64.4%) CS procedures were performed by intern \nmedical officers (IMOs), and 206 (99.04%) of the proce-\ndures involved spinal anaesthesia. Approximately 113 \n(54.3%) of the operation procedures were completed in \nmore than 60  min, and 120 (57.7%) and 63 (30.3%) of \nthe 208 patients underwent emergency and urgent CS, \nrespectively. (Online supplementary Table 4).\nIncidence of surgical site infection\nThe overall incidence of SSIs recorded at QECH during \nthe study period was 9.61%. Of these, 19 (95%) reported \nsuperficial SSI, and 1 (5%) reported deep SSI following \nCS (Table 3). The majority of patients with SSIs (n = 12; \n60%) were readmitted, and 5 (25%) out of 20 patients \nwith SSIs had antimicrobial resistance following suscep-\ntibility testing.\nThis study revealed that ruptured membrane had twice \nthe incidence of SSIs compared to intact membrane, \nthough not statistically significant. This might be due to \nthe small sample size included in this study. The tested \nfactors that other studies reported include skin closure \ntechnique, BMI, education level, age range in years, HIV \nstatus, parity, membrane status pre-CS, ANC visits, ges-\ntational age (weeks), duration of CS and SSI [22]. Hence, \nwe did not perform any logistic regression model analysis \nbecause no P value < 0.05% indicated statistical signifi-\ncance (Table 3).\nAntimicrobial use\nThis study also revealed that all the women who under-\nwent the CS procedure received preoperative antibiotic \nprophylaxis. However, 138 (66.35%) patients received \nboth preop antibiotics (ceftriaxone) and post-CS anti-\nbiotics (Online supplementary Table 6). The most com-\nmon post-CS-prescribed antibiotics were metronidazole \nand ceftriaxone combined therapy, even for patients \nwith noncomplicated CS. No patient had a known infec-\ntion or specific bacterial organism isolated in the current \nstudy at the time these antibiotics were prescribed and \nadministered which may increase the risk for antimi-\ncrobial resistance spread. The average duration from the \nfirst dose of antibiotic prophylaxis to the start of the CS \nFig. 1  Flow chart of patient recruitment and case identification process\n",
+   "n_chars": 2328,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      31.7,
+      538.7,
+      41.8
+     ],
+     "text": "Page 4 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \n"
+    },
+    {
+     "bbox": [
+      56.7,
+      460.0,
+      292.9,
+      559.2
+     ],
+     "text": "25th percentile = 7, 75th percentile = 15). Furthermore, \n134 (64.4%) CS procedures were performed by intern \nmedical officers (IMOs), and 206 (99.04%) of the proce-\ndures involved spinal anaesthesia. Approximately 113 \n(54.3%) of the operation procedures were completed in \nmore than 60  min, and 120 (57.7%) and 63 (30.3%) of \nthe 208 patients underwent emergency and urgent CS, \nrespectively. (Online supplementary Table 4).\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      570.8,
+      292.9,
+      669.0
+     ],
+     "text": "Incidence of surgical site infection\nThe overall incidence of SSIs recorded at QECH during \nthe study period was 9.61%. Of these, 19 (95%) reported \nsuperficial SSI, and 1 (5%) reported deep SSI following \nCS (Table 3). The majority of patients with SSIs (n = 12; \n60%) were readmitted, and 5 (25%) out of 20 patients \nwith SSIs had antimicrobial resistance following suscep-\ntibility testing.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      666.4,
+      292.9,
+      729.0
+     ],
+     "text": "This study revealed that ruptured membrane had twice \nthe incidence of SSIs compared to intact membrane, \nthough not statistically significant. This might be due to \nthe small sample size included in this study. The tested \nfactors that other studies reported include skin closure \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      460.6,
+      540.9,
+      535.2
+     ],
+     "text": "technique, BMI, education level, age range in years, HIV \nstatus, parity, membrane status pre-CS, ANC visits, ges-\ntational age (weeks), duration of CS and SSI [22]. Hence, \nwe did not perform any logistic regression model analysis \nbecause no P value < 0.05% indicated statistical signifi-\ncance (Table 3).\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      557.5,
+      540.9,
+      727.7
+     ],
+     "text": "Antimicrobial use\nThis study also revealed that all the women who under-\nwent the CS procedure received preoperative antibiotic \nprophylaxis. However, 138 (66.35%) patients received \nboth preop antibiotics (ceftriaxone) and post-CS anti-\nbiotics (Online supplementary Table 6). The most com-\nmon post-CS-prescribed antibiotics were metronidazole \nand ceftriaxone combined therapy, even for patients \nwith noncomplicated CS. No patient had a known infec-\ntion or specific bacterial organism isolated in the current \nstudy at the time these antibiotics were prescribed and \nadministered which may increase the risk for antimi-\ncrobial resistance spread. The average duration from the \nfirst dose of antibiotic prophylaxis to the start of the CS \n"
+    },
+    {
+     "bbox": [
+      62.7,
+      421.3,
+      291.0,
+      431.2
+     ],
+     "text": "Fig. 1  Flow chart of patient recruitment and case identification process\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "Page 5 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \n\t\nprocedure was 12.85  min, with a standard deviation of \n8.44 (IQR = 8).\nBacterial isolates and susceptibility pattern\nWound swabs from infected CS wounds for culture \nand sensitivity were collected for 11 (55%) of the clini-\ncally suspected postoperative CS infections. Among the \n20 cases recorded, 10 (50.0%) had microbiology culture \nresults, and 1 sample was reportedly missing from the \nlaboratory. Five of the 10 cultures exhibited positive/bac-\nterial growth (Fig. 1). Among the few etiological agents \nisolated, 3 (60%) were gram-positive cocci (clusters). \nStaphylococcus aureus was the most common organism \n(3, 15%). Other isolates included Enterobacteriaceae (1, \n5%) and Acinetobacter baumanni (1, 5%) (Table 3).\nThe Staphylococcus aureus bacteria isolated were \nresistant to most antibiotics, including clindamycin, \nerythromycin, gentamicin, and cefoxitin. However, \nTable 1  Socio-demographic and clinical characteristics of the \nstudy participants\nMarried _Others * (Single, Divorced, Widowed),\nOccupation_ Other * (dwellers, none)\nVariable\nFrequency\nProportion (%)\nMean (SD)Age\n26.05 (± 6.18)\nAge in years\n ≤ 30\n156\n75\n 30\n52\n25\nMarital Status\n Married\n171\n82.21\n ­Others*\n37\n17.79\nPrevious history of CS\n Yes\n97\n46.63\n No\n111\n53.37\nEducation Level\n Primary\n84\n40.38\n Secondary or More\n124\n59.62\nOccupation\n Employed\n15\n7.21\n Business\n78\n37.50\n Housewife\n92\n44.23\n Other*\n23\n11.06\nHIV Status\n Positive\n20\n9.62\n Negative\n188\n90.38\nTable 2  Indications for caesarean section\nCPD*1 Cephalopelvic disproportion\nOther*2 (placenta previa, twin gestation, IUGR, PROM, polyphromnious and \npostdates)\nIndication\nFrequency\n%\nCPD*1\n61\n29.33\nPrevious scar\n63\n30.29\nCord prolapse\n4\n1.92\nEclampsia\n14\n6.73\nAntepartum haemorrhage\n7\n3.37\nBreech presentation\n12\n5.77\nFetal Distress\n12\n5.77\nProlonged labour\n17\n8.17\nOther*2\n18\n8.65\nTable 3  Univariate analysis of possible risk factors for SSIs in \nwomen who underwent CS\n* p value according to Fisher’s exact test, ANC Antenatal care\nVariable/factor\nSSI\nChi-square P value\nYes (n = 20) No (n = 188)\nSkin closure tech-\nnique\n0.3675\n0.544\n Interrupted\n7 (35.00)\n13 (65.00)\n Continuous\n79 (42.02)\n109 (57.98)\nBMI\n ≤ 25\n11 (55.00)\n9 (45.00)\n0.9475\n0.330\n > 25\n82 (43.62)\n106 (56.38)\nHIV status*\n Positive\n4 (20.00)\n16 (80.00)\n0.109\n Negative\n16 (8.51)\n168 (89.36)\nAge range*\n  ≤ 30\n16 (80.00)\n4 (20.00)\n0.787\n > 30\n140 (74.47)\n48 (25.53)\nEducation level\n Primary\n8 (40.00)\n12 (60.00)\n0.0014\n0.971\n Secondary \nor More\n76 (40.43)\n112 (59.57)\nDuration of CS (min)\n ≤ 60\n11 (55.00)\n9 (45.00)\n0.0916\n0.762\n > 60\n110 (58.51)\n78 (41.49)\nMembrane status \npre-CS\n Ruptured\n12 (60.00)\n8 (40.00)\n2.0922\n0.148\n Intact\n81 (43.09)\n107 (56.91)\nParity\n ≤ 2\n10 (50.00)\n10 (50.00)\n1.1379\n0.286\n  > 2\n71 (37.77)\n117 (62.23)\nANC visits\n ≤ 4\n11 (55.00)\n9 (45.00)\n0.1218\n0.727\n > 4\n111 (59.04)\n77 (40.96)\nGestation age \n(weeks)*\n < 37\n3 (15.00)\n17 (85.00)\n1.000\n ≥ 37\n36 (19.15)\n152 (80.85)\n",
+   "n_chars": 3016,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      31.7,
+      538.6,
+      41.8
+     ],
+     "text": "Page 5 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \n\t\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      635.8,
+      292.9,
+      662.4
+     ],
+     "text": "procedure was 12.85  min, with a standard deviation of \n8.44 (IQR = 8).\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      678.8,
+      292.9,
+      729.0
+     ],
+     "text": "Bacterial isolates and susceptibility pattern\nWound swabs from infected CS wounds for culture \nand sensitivity were collected for 11 (55%) of the clini-\ncally suspected postoperative CS infections. Among the \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      585.6,
+      540.9,
+      720.1
+     ],
+     "text": "20 cases recorded, 10 (50.0%) had microbiology culture \nresults, and 1 sample was reportedly missing from the \nlaboratory. Five of the 10 cultures exhibited positive/bac-\nterial growth (Fig. 1). Among the few etiological agents \nisolated, 3 (60%) were gram-positive cocci (clusters). \nStaphylococcus aureus was the most common organism \n(3, 15%). Other isolates included Enterobacteriaceae (1, \n5%) and Acinetobacter baumanni (1, 5%) (Table 3).\nThe Staphylococcus aureus bacteria isolated were \nresistant to most antibiotics, including clindamycin, \nerythromycin, gentamicin, and cefoxitin. However, \n"
+    },
+    {
+     "bbox": [
+      56.7,
+      86.4,
+      281.2,
+      108.6
+     ],
+     "text": "Table 1  Socio-demographic and clinical characteristics of the \nstudy participants\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      389.3,
+      192.0,
+      398.6
+     ],
+     "text": "Married _Others * (Single, Divorced, Widowed),\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      401.5,
+      164.8,
+      409.9
+     ],
+     "text": "Occupation_ Other * (dwellers, none)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      114.8,
+      290.0,
+      124.5
+     ],
+     "text": "Variable\nFrequency\nProportion (%)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      133.3,
+      203.5,
+      142.4
+     ],
+     "text": "Mean (SD)Age\n26.05 (± 6.18)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      145.4,
+      95.3,
+      154.5
+     ],
+     "text": "Age in years\n"
+    },
+    {
+     "bbox": [
+      63.7,
+      157.5,
+      246.8,
+      166.6
+     ],
+     "text": " ≤ 30\n156\n75\n"
+    },
+    {
+     "bbox": [
+      63.7,
+      169.6,
+      246.8,
+      178.7
+     ],
+     "text": " 30\n52\n25\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      181.7,
+      99.7,
+      190.8
+     ],
+     "text": "Marital Status\n"
+    },
+    {
+     "bbox": [
+      63.7,
+      193.8,
+      256.0,
+      202.9
+     ],
+     "text": " Married\n171\n82.21\n"
+    },
+    {
+     "bbox": [
+      63.7,
+      204.8,
+      256.0,
+      215.0
+     ],
+     "text": " ­Others*\n37\n17.79\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      218.0,
+      125.1,
+      227.1
+     ],
+     "text": "Previous history of CS\n"
+    },
+    {
+     "bbox": [
+      63.7,
+      230.1,
+      256.0,
+      239.2
+     ],
+     "text": " Yes\n97\n46.63\n"
+    },
+    {
+     "bbox": [
+      63.7,
+      242.2,
+      256.0,
+      251.3
+     ],
+     "text": " No\n111\n53.37\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      254.3,
+      107.1,
+      263.4
+     ],
+     "text": "Education Level\n"
+    },
+    {
+     "bbox": [
+      63.7,
+      266.4,
+      256.0,
+      275.5
+     ],
+     "text": " Primary\n84\n40.38\n"
+    },
+    {
+     "bbox": [
+      63.7,
+      278.5,
+      256.0,
+      287.6
+     ],
+     "text": " Secondary or More\n124\n59.62\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      290.6,
+      94.2,
+      299.7
+     ],
+     "text": "Occupation\n"
+    },
+    {
+     "bbox": [
+      63.7,
+      302.7,
+      252.1,
+      311.8
+     ],
+     "text": " Employed\n15\n7.21\n"
+    },
+    {
+     "bbox": [
+      63.6,
+      314.8,
+      256.0,
+      323.9
+     ],
+     "text": " Business\n78\n37.50\n"
+    },
+    {
+     "bbox": [
+      63.6,
+      326.9,
+      256.0,
+      336.0
+     ],
+     "text": " Housewife\n92\n44.23\n"
+    },
+    {
+     "bbox": [
+      63.6,
+      339.0,
+      256.0,
+      348.0
+     ],
+     "text": " Other*\n23\n11.06\n"
+    },
+    {
+     "bbox": [
+      56.6,
+      351.1,
+      88.7,
+      360.1
+     ],
+     "text": "HIV Status\n"
+    },
+    {
+     "bbox": [
+      63.6,
+      363.2,
+      252.1,
+      372.2
+     ],
+     "text": " Positive\n20\n9.62\n"
+    },
+    {
+     "bbox": [
+      63.6,
+      375.3,
+      256.0,
+      384.4
+     ],
+     "text": " Negative\n188\n90.38\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      436.6,
+      206.5,
+      447.8
+     ],
+     "text": "Table 2  Indications for caesarean section\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      584.4,
+      160.5,
+      592.8
+     ],
+     "text": "CPD*1 Cephalopelvic disproportion\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      595.7,
+      277.3,
+      612.6
+     ],
+     "text": "Other*2 (placenta previa, twin gestation, IUGR, PROM, polyphromnious and \npostdates)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      454.0,
+      276.0,
+      463.7
+     ],
+     "text": "Indication\nFrequency\n%\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      472.6,
+      286.3,
+      481.7
+     ],
+     "text": "CPD*1\n61\n29.33\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      484.7,
+      286.3,
+      493.8
+     ],
+     "text": "Previous scar\n63\n30.29\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      496.8,
+      286.3,
+      505.9
+     ],
+     "text": "Cord prolapse\n4\n1.92\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      508.9,
+      286.3,
+      518.0
+     ],
+     "text": "Eclampsia\n14\n6.73\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      521.0,
+      286.3,
+      530.1
+     ],
+     "text": "Antepartum haemorrhage\n7\n3.37\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      533.1,
+      286.3,
+      542.2
+     ],
+     "text": "Breech presentation\n12\n5.77\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      545.2,
+      286.3,
+      554.3
+     ],
+     "text": "Fetal Distress\n12\n5.77\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      557.3,
+      286.3,
+      566.3
+     ],
+     "text": "Prolonged labour\n17\n8.17\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      569.4,
+      286.3,
+      578.5
+     ],
+     "text": "Other*2\n18\n8.65\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      86.4,
+      521.8,
+      108.6
+     ],
+     "text": "Table 3  Univariate analysis of possible risk factors for SSIs in \nwomen who underwent CS\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      550.2,
+      478.5,
+      559.6
+     ],
+     "text": "* p value according to Fisher’s exact test, ANC Antenatal care\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      114.8,
+      538.1,
+      124.5
+     ],
+     "text": "Variable/factor\nSSI\nChi-square P value\n"
+    },
+    {
+     "bbox": [
+      377.2,
+      130.3,
+      463.3,
+      142.3
+     ],
+     "text": "Yes (n = 20) No (n = 188)\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      149.3,
+      360.9,
+      167.4
+     ],
+     "text": "Skin closure tech-\nnique\n"
+    },
+    {
+     "bbox": [
+      469.7,
+      149.3,
+      530.3,
+      158.4
+     ],
+     "text": "0.3675\n0.544\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      170.4,
+      452.8,
+      179.5
+     ],
+     "text": " Interrupted\n7 (35.00)\n13 (65.00)\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      182.5,
+      456.7,
+      191.6
+     ],
+     "text": " Continuous\n79 (42.02)\n109 (57.98)\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      194.6,
+      316.7,
+      203.7
+     ],
+     "text": "BMI\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      206.7,
+      530.3,
+      215.8
+     ],
+     "text": " ≤ 25\n11 (55.00)\n9 (45.00)\n0.9475\n0.330\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      218.8,
+      456.7,
+      227.9
+     ],
+     "text": " > 25\n82 (43.62)\n106 (56.38)\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      230.9,
+      339.2,
+      239.9
+     ],
+     "text": "HIV status*\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      243.0,
+      530.3,
+      252.1
+     ],
+     "text": " Positive\n4 (20.00)\n16 (80.00)\n0.109\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      255.1,
+      456.7,
+      264.1
+     ],
+     "text": " Negative\n16 (8.51)\n168 (89.36)\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      267.2,
+      340.9,
+      276.2
+     ],
+     "text": "Age range*\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      279.3,
+      530.3,
+      288.3
+     ],
+     "text": "  ≤ 30\n16 (80.00)\n4 (20.00)\n0.787\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      291.4,
+      452.8,
+      300.4
+     ],
+     "text": " > 30\n140 (74.47)\n48 (25.53)\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      303.5,
+      353.4,
+      312.5
+     ],
+     "text": "Education level\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      315.6,
+      530.3,
+      324.6
+     ],
+     "text": " Primary\n8 (40.00)\n12 (60.00)\n0.0014\n0.971\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      327.7,
+      349.1,
+      336.7
+     ],
+     "text": " Secondary \n"
+    },
+    {
+     "bbox": [
+      313.7,
+      336.7,
+      338.8,
+      345.7
+     ],
+     "text": "or More\n"
+    },
+    {
+     "bbox": [
+      377.2,
+      327.7,
+      456.7,
+      336.7
+     ],
+     "text": "76 (40.43)\n112 (59.57)\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      348.8,
+      369.5,
+      357.8
+     ],
+     "text": "Duration of CS (min)\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      360.9,
+      530.3,
+      369.9
+     ],
+     "text": " ≤ 60\n11 (55.00)\n9 (45.00)\n0.0916\n0.762\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      373.0,
+      452.8,
+      382.0
+     ],
+     "text": " > 60\n110 (58.51)\n78 (41.49)\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      385.1,
+      362.3,
+      403.1
+     ],
+     "text": "Membrane status \npre-CS\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      406.1,
+      530.3,
+      415.2
+     ],
+     "text": " Ruptured\n12 (60.00)\n8 (40.00)\n2.0922\n0.148\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      418.2,
+      456.7,
+      427.3
+     ],
+     "text": " Intact\n81 (43.09)\n107 (56.91)\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      430.3,
+      322.3,
+      439.4
+     ],
+     "text": "Parity\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      442.4,
+      530.3,
+      451.5
+     ],
+     "text": " ≤ 2\n10 (50.00)\n10 (50.00)\n1.1379\n0.286\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      454.5,
+      456.7,
+      463.6
+     ],
+     "text": "  > 2\n71 (37.77)\n117 (62.23)\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      466.6,
+      336.2,
+      475.7
+     ],
+     "text": "ANC visits\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      478.7,
+      530.3,
+      487.8
+     ],
+     "text": " ≤ 4\n11 (55.00)\n9 (45.00)\n0.1218\n0.727\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      490.8,
+      452.8,
+      499.9
+     ],
+     "text": " > 4\n111 (59.04)\n77 (40.96)\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      502.9,
+      350.8,
+      521.0
+     ],
+     "text": "Gestation age \n(weeks)*\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      524.0,
+      530.3,
+      533.1
+     ],
+     "text": " < 37\n3 (15.00)\n17 (85.00)\n1.000\n"
+    },
+    {
+     "bbox": [
+      311.7,
+      536.2,
+      456.7,
+      545.2
+     ],
+     "text": " ≥ 37\n36 (19.15)\n152 (80.85)\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "Page 6 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \nEnterobacteriaceae were sensitive to ciprofloxacin, mero-\npenem, amikacin and tigecycline and resistant to chlo-\nramphenicol and Trimethoprim / sulfamethoxazole. \nOnly Acinetobacter baumannii Baumanni was sensitive \nto gentamicin and resistant to ceftriaxone, ciprofloxacin, \ncefotaxime and tigecycline (Table 4).\nDiscussions\nThis is the first study in Malawi to determine the extent \nof surgical site infections (SSIs) and antimicrobial use fol-\nlowing cesarean section at QECH in Blantyre. The overall \nincidence of SSI during the study period was 9.61% (20 of \n208 patients). Most patients were given antibiotics either \nprophylactically or post-CS without performing culture \nto ascertain AMR. Similarly, this finding is consistent \nwith findings in Vietnam (10.9%) [23]. Of course, Borg-\nstein’s prospective survey findings at QECH in Blantyre \nrevealed a 25.8% overall infection rate in general surger-\nies [12]. Similarly, other studies reported incidences of \n21% in Ethiopia [6] and 7–9.6% in Nigeria [5, 7]. The inci-\ndence of SSIs in this study was greater than that in devel-\noped nations [24, 25].\nIn the present study, among the extremely few iso-\nlated etiological agents, 3 (60%) were gram-positive \ncocci (clusters). However, Staphylococcus aureus was \nthe most common organism. This finding is in line with \nprevious findings that Staphylococcus aureus is the \nmost common cause of SSIs following post-CS [26, 27]. \nSimilarly, other studies have shown that Staphylococcus \naureus is a commonly isolated cause of SSI, accounting \nfor 20–30% of SSIs occurring in hospitals [6, 14, 28]. \nFurthermore, other isolates identified in our study \nincluded Enterobacteriaceae and Acinetobacter bau-\nmannii. In the present study, the Staphylococcus aureus \nisolates were resistant to most antibiotics, such as \nclindamycin, erythromycin, gentamicin and cefoxitin, \nsimilar to the findings of Fantahamu et al. [29]. Further-\nmore, Enterobacteriaceae were sensitive to ciprofloxa-\ncin, meropenem, amikacin and tigecycline, and the \nsame bacteria were resistant to chloramphenicol and \ntrimethoprim-sulfamethoxazole. However, Acinebacter \nBaumanni was sensitive to gentamicin and resistant to \nceftriaxone, ciprofloxacin, cefotaxime and Tigecycline, \nas also reported in other studies [29, 30].\nThis study also revealed that 138 (66.35%) patients \nreceived both preop antibiotics (ceftriaxone) and post-\nCS antibiotics. The most common post-CS-prescribed \nantibiotics were metronidazole and ceftriaxone com-\nbined therapy, even for patients with noncomplicated \nCS. However, the WHO panel recommends against the \nprolongation of surgical antibiotic prophylaxis (SAP) \nadministration after completion of the operation for \nthe purpose of preventing SSIs [31]. A study by Lamont \net al. indicated that a single dose of antibiotics could be \nas effective as multiple doses given preoperatively [32]. \nNo patient had a known infection or specific bacterial \norganism isolated in the current study at the time these \nantibiotics were prescribed and administered; hence, this \nmay also promote antimicrobial resistance spread due to \nunnecessary use of antibiotics in our hospitals.\nTable 4  Antibiotic susceptibility tests against the identified organisms\n* Three patients with staphylococcus aureus and no antibiotic was indicated as to be sensitive\nAntibiotic given after \nsurgery\nType of organism identified\nMedications\nInterpretation\nR-Resistant\nI-Intermediate\nS-Sensitive\nYes\nAcinetobacter baumanni\nCeftriaxone\nR\n–\n–\nCiprofloxacin\nR\n–\n–\nGentamicin\n–\n–\nS\nCefotaxim\nR\n–\n–\nTigecycline\nR\n–\n–\nYes\nEnterobacteriaceae\nChloramphenicol\nR\n–\n–\nCiprofloxacin\n–\n–\nS\nTrimethoprim\n/Sulfamethoxazole\nR\n–\n–\nGentamicin\n–\nI\n–\nMeropenem, Amikacin \nand Tigecycline\n–\n–\nS\nYes\nStaphylococcus aureus*\nClindamycin,\nR\n–\n–\nErythromycin,\nR\n–\n–\nGentamicin\nR\n–\n–\nCefoxitin\nR\n–\n–\n",
+   "n_chars": 3951,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      31.7,
+      538.7,
+      41.8
+     ],
+     "text": "Page 6 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \n"
+    },
+    {
+     "bbox": [
+      56.7,
+      85.7,
+      292.9,
+      160.2
+     ],
+     "text": "Enterobacteriaceae were sensitive to ciprofloxacin, mero-\npenem, amikacin and tigecycline and resistant to chlo-\nramphenicol and Trimethoprim / sulfamethoxazole. \nOnly Acinetobacter baumannii Baumanni was sensitive \nto gentamicin and resistant to ceftriaxone, ciprofloxacin, \ncefotaxime and tigecycline (Table 4).\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      168.9,
+      292.9,
+      352.3
+     ],
+     "text": "Discussions\nThis is the first study in Malawi to determine the extent \nof surgical site infections (SSIs) and antimicrobial use fol-\nlowing cesarean section at QECH in Blantyre. The overall \nincidence of SSI during the study period was 9.61% (20 of \n208 patients). Most patients were given antibiotics either \nprophylactically or post-CS without performing culture \nto ascertain AMR. Similarly, this finding is consistent \nwith findings in Vietnam (10.9%) [23]. Of course, Borg-\nstein’s prospective survey findings at QECH in Blantyre \nrevealed a 25.8% overall infection rate in general surger-\nies [12]. Similarly, other studies reported incidences of \n21% in Ethiopia [6] and 7–9.6% in Nigeria [5, 7]. The inci-\ndence of SSIs in this study was greater than that in devel-\noped nations [24, 25].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      349.7,
+      292.9,
+      448.2
+     ],
+     "text": "In the present study, among the extremely few iso-\nlated etiological agents, 3 (60%) were gram-positive \ncocci (clusters). However, Staphylococcus aureus was \nthe most common organism. This finding is in line with \nprevious findings that Staphylococcus aureus is the \nmost common cause of SSIs following post-CS [26, 27]. \nSimilarly, other studies have shown that Staphylococcus \naureus is a commonly isolated cause of SSI, accounting \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      85.7,
+      540.9,
+      256.2
+     ],
+     "text": "for 20–30% of SSIs occurring in hospitals [6, 14, 28]. \nFurthermore, other isolates identified in our study \nincluded Enterobacteriaceae and Acinetobacter bau-\nmannii. In the present study, the Staphylococcus aureus \nisolates were resistant to most antibiotics, such as \nclindamycin, erythromycin, gentamicin and cefoxitin, \nsimilar to the findings of Fantahamu et al. [29]. Further-\nmore, Enterobacteriaceae were sensitive to ciprofloxa-\ncin, meropenem, amikacin and tigecycline, and the \nsame bacteria were resistant to chloramphenicol and \ntrimethoprim-sulfamethoxazole. However, Acinebacter \nBaumanni was sensitive to gentamicin and resistant to \nceftriaxone, ciprofloxacin, cefotaxime and Tigecycline, \nas also reported in other studies [29, 30].\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      253.7,
+      540.9,
+      448.2
+     ],
+     "text": "This study also revealed that 138 (66.35%) patients \nreceived both preop antibiotics (ceftriaxone) and post-\nCS antibiotics. The most common post-CS-prescribed \nantibiotics were metronidazole and ceftriaxone com-\nbined therapy, even for patients with noncomplicated \nCS. However, the WHO panel recommends against the \nprolongation of surgical antibiotic prophylaxis (SAP) \nadministration after completion of the operation for \nthe purpose of preventing SSIs [31]. A study by Lamont \net al. indicated that a single dose of antibiotics could be \nas effective as multiple doses given preoperatively [32]. \nNo patient had a known infection or specific bacterial \norganism isolated in the current study at the time these \nantibiotics were prescribed and administered; hence, this \nmay also promote antimicrobial resistance spread due to \nunnecessary use of antibiotics in our hospitals.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      475.6,
+      309.4,
+      486.7
+     ],
+     "text": "Table 4  Antibiotic susceptibility tests against the identified organisms\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      716.3,
+      327.4,
+      725.7
+     ],
+     "text": "* Three patients with staphylococcus aureus and no antibiotic was indicated as to be sensitive\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      492.9,
+      131.5,
+      511.7
+     ],
+     "text": "Antibiotic given after \nsurgery\n"
+    },
+    {
+     "bbox": [
+      136.8,
+      492.9,
+      401.4,
+      502.7
+     ],
+     "text": "Type of organism identified\nMedications\nInterpretation\n"
+    },
+    {
+     "bbox": [
+      352.6,
+      508.8,
+      538.1,
+      518.6
+     ],
+     "text": "R-Resistant\nI-Intermediate\nS-Sensitive\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      527.4,
+      504.1,
+      536.5
+     ],
+     "text": "Yes\nAcinetobacter baumanni\nCeftriaxone\nR\n–\n–\n"
+    },
+    {
+     "bbox": [
+      261.2,
+      539.5,
+      504.1,
+      548.6
+     ],
+     "text": "Ciprofloxacin\nR\n–\n–\n"
+    },
+    {
+     "bbox": [
+      261.2,
+      551.6,
+      503.8,
+      560.7
+     ],
+     "text": "Gentamicin\n–\n–\nS\n"
+    },
+    {
+     "bbox": [
+      261.2,
+      563.7,
+      504.1,
+      572.8
+     ],
+     "text": "Cefotaxim\nR\n–\n–\n"
+    },
+    {
+     "bbox": [
+      261.2,
+      575.8,
+      504.1,
+      584.9
+     ],
+     "text": "Tigecycline\nR\n–\n–\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      587.9,
+      504.1,
+      597.0
+     ],
+     "text": "Yes\nEnterobacteriaceae\nChloramphenicol\nR\n–\n–\n"
+    },
+    {
+     "bbox": [
+      261.2,
+      600.0,
+      503.8,
+      609.1
+     ],
+     "text": "Ciprofloxacin\n–\n–\nS\n"
+    },
+    {
+     "bbox": [
+      261.2,
+      612.1,
+      320.8,
+      630.2
+     ],
+     "text": "Trimethoprim\n/Sulfamethoxazole\n"
+    },
+    {
+     "bbox": [
+      352.6,
+      612.1,
+      504.1,
+      621.2
+     ],
+     "text": "R\n–\n–\n"
+    },
+    {
+     "bbox": [
+      261.2,
+      633.2,
+      504.1,
+      642.3
+     ],
+     "text": "Gentamicin\n–\nI\n–\n"
+    },
+    {
+     "bbox": [
+      261.2,
+      645.3,
+      335.4,
+      663.4
+     ],
+     "text": "Meropenem, Amikacin \nand Tigecycline\n"
+    },
+    {
+     "bbox": [
+      352.6,
+      645.3,
+      503.8,
+      654.4
+     ],
+     "text": "–\n–\nS\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      666.4,
+      504.1,
+      675.5
+     ],
+     "text": "Yes\nStaphylococcus aureus*\nClindamycin,\nR\n–\n–\n"
+    },
+    {
+     "bbox": [
+      261.2,
+      678.5,
+      504.1,
+      687.6
+     ],
+     "text": "Erythromycin,\nR\n–\n–\n"
+    },
+    {
+     "bbox": [
+      261.2,
+      690.6,
+      504.1,
+      699.7
+     ],
+     "text": "Gentamicin\nR\n–\n–\n"
+    },
+    {
+     "bbox": [
+      261.2,
+      702.8,
+      504.1,
+      711.8
+     ],
+     "text": "Cefoxitin\nR\n–\n–\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "Page 7 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \n\t\nThis study revealed that ruptured membrane had twice \nthe incidence of SSIs compared to intact membrane \n(χ2 = 2.0922), though not statistically significant. Further, \nother potential factors like skin closure, BMI, HIV status, \neducation level, age, duration of CS, parity, ANC visits \nand gestational age were not significant risk factors in our \nstudy sample in contrast to the previous studies [25, 29, \n33, 34]. Additionally, Kaye et al. reported that age was a \npowerful predictor of SSI [35]. However, other studies \nhave also reported contamination or dirt operation as a \nrisk factor [25] and wound classification as clean contam-\nination for the CS procedure [19].\nThe present study revealed that all the women who \nunderwent CS were given antibiotic prophylaxis with \nceftriaxone. The average duration from the first dose \nof antibiotic prophylaxis to the start of the CS proce-\ndure was 12.85  min, with a standard deviation of 8.44 \n(IQR = 8). The prevalence of SSI and the timing of anti-\nbiotic prophylaxis in clinical practice have not been \nthoroughly investigated, but some clinical trials have \nindicated a relationship [18]. In the same study by Clas-\nsen et al. [18], few patients developed SSI among those \nwho received antibiotic prophylaxis early before the start \nof surgery compared to those who received antibiotics \nlater after surgery. Furthermore, in the present study, \nthree patients who received post-CS antibiotic prophy-\nlaxis and two patients who did not receive antibiotics \nafter surgery had antimicrobial resistance. Of course, \nthese patients without any confirmed infection diagnosis \nreceived antimicrobial treatment after caesarean section; \nhence, this therapy cannot be applied as an indicator of \nSSI. The inappropriate use of antimicrobial agents need-\nlessly exposes patients to potential toxicity and risks \nthat promote the development and spread of antimicro-\nbial resistance, leading to increased medical care costs \nin healthcare facilities [25]. However, the rational use of \nantimicrobials in women of child-bearing age is impor-\ntant because it affects this population as well as their off-\nspring. [15].\nThe strengths and limitations of the study\nThe strengths of the study include that the study revealed \nthe emergence of AMR in the Malawian setting and that \nthe study used primary data for SSIs following CS. How-\never, the study was limited to SSIs following CS, and \nthe number of HAIs occurring in other settings, such \nas surgical departments or wards for various hospitals \nfor general surgery, cannot be estimated. Some patients \nwho developed SSIs did not return to the hospital again \nfor review, which could lead to a lack of microbiological \ndata related to SSIs. Last, the small sample size or small \nnumber of isolates could have affected the outcomes of \ninterest.\nConclusion\nThis study concludes that the incidence of 9.61% SSI \nfollowing the CS procedure was relatively greater than \nthat in other developing countries. Most patients were \ncontinued on antibiotics post CS procedure without \nperforming culture to ascertain AMR. The inappro-\npriate use of antibiotics may result in antimicrobial \nresistance. Therefore, due to the increased number of \nSSIs following CS and the relative emergence of antimi-\ncrobial resistance to some microorganisms, including \nAcinetobacter baumanni and Staphylococcus aureus, \nintensive infection control practices are needed and \nestablish AMS programs and routine surveillance of \nSSIs at QECH. In addition, there is a need to conduct \nfurther studies on bacterial isolates and antimicro-\nbial resistance patterns and how to best address AMR \nthrough one health approach.\nAbbreviations\nAMR\t\n\u0007Antimicrobial resistance\nAMS\t\n\u0007Antimicrobial stewardship\nASA\t\n\u0007American Society Anaesthesiologists\nAbx\t\n\u0007Antibiotics\nCDC\t\n\u0007Centres for Diseases Control and Prevention\nCOMREC\t\n\u0007College of Medicine Research Ethics Committee\nCS\t\n\u0007Caesarean section\nESBLs\t\n\u0007Extended-spectrum β-lactamases\nHAIs\t\n\u0007Healthcare-associated infections\nIQR\t\n\u0007Interquartile range\nIPC\t\n\u0007Infection prevention and control\nKUHeS\t\n\u0007Kamuzu University of Health Sciences\nLMIC\t\n\u0007Low- and middle-income countries\nQECH\t\n\u0007Queen Elizabeth Central Hospital\nSSIs\t\n\u0007Surgical site infections\nUS CDC\t\n\u0007United States Centre for Diseases Control\nWHO\t\n\u0007World Health Organization\nSupplementary Information\nThe online version contains supplementary material available at https://​doi.​\norg/​10.​1186/​s13756-​024-​01483-5.\nAdditional file 1.\nAcknowledgements\nWe would like to acknowledge B. Braun-Stiftung for partial financial support \nand everyone who took part in this study.\nAuthor contributions\nATK originated the research idea and analyzed the data. DKK, SJM and JM con-\ntributed to supervision, data analysis and writing the manuscript. All authors \nreviewed the manuscript.\nFunding\nPartial support from B. BRAUN FOUNDATION Nicole Jacob M.A. Founda-\ntion Manager (DSA) Speaker B. Braun Foundation Stadtwaldpark 2 D-34212 \nMelsungen Phone: 49 (0) 5661 71–1647 Mobile: 49 (0) 151 67. The funder had \nno role in the study design, data collection and analysis, decision to publish or \nmanuscript preparation.\nAvailability of data and materials\nData is provided within the manuscript and the datasets used and/or analyzed \nduring the current study are available from the corresponding author on \nreasonable request.\n",
+   "n_chars": 5472,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      31.7,
+      538.6,
+      41.8
+     ],
+     "text": "Page 7 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \n\t\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      85.7,
+      292.9,
+      232.3
+     ],
+     "text": "This study revealed that ruptured membrane had twice \nthe incidence of SSIs compared to intact membrane \n(χ2 = 2.0922), though not statistically significant. Further, \nother potential factors like skin closure, BMI, HIV status, \neducation level, age, duration of CS, parity, ANC visits \nand gestational age were not significant risk factors in our \nstudy sample in contrast to the previous studies [25, 29, \n33, 34]. Additionally, Kaye et al. reported that age was a \npowerful predictor of SSI [35]. However, other studies \nhave also reported contamination or dirt operation as a \nrisk factor [25] and wound classification as clean contam-\nination for the CS procedure [19].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      229.7,
+      292.9,
+      556.9
+     ],
+     "text": "The present study revealed that all the women who \nunderwent CS were given antibiotic prophylaxis with \nceftriaxone. The average duration from the first dose \nof antibiotic prophylaxis to the start of the CS proce-\ndure was 12.85  min, with a standard deviation of 8.44 \n(IQR = 8). The prevalence of SSI and the timing of anti-\nbiotic prophylaxis in clinical practice have not been \nthoroughly investigated, but some clinical trials have \nindicated a relationship [18]. In the same study by Clas-\nsen et al. [18], few patients developed SSI among those \nwho received antibiotic prophylaxis early before the start \nof surgery compared to those who received antibiotics \nlater after surgery. Furthermore, in the present study, \nthree patients who received post-CS antibiotic prophy-\nlaxis and two patients who did not receive antibiotics \nafter surgery had antimicrobial resistance. Of course, \nthese patients without any confirmed infection diagnosis \nreceived antimicrobial treatment after caesarean section; \nhence, this therapy cannot be applied as an indicator of \nSSI. The inappropriate use of antimicrobial agents need-\nlessly exposes patients to potential toxicity and risks \nthat promote the development and spread of antimicro-\nbial resistance, leading to increased medical care costs \nin healthcare facilities [25]. However, the rational use of \nantimicrobials in women of child-bearing age is impor-\ntant because it affects this population as well as their off-\nspring. [15].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      570.8,
+      292.9,
+      728.9
+     ],
+     "text": "The strengths and limitations of the study\nThe strengths of the study include that the study revealed \nthe emergence of AMR in the Malawian setting and that \nthe study used primary data for SSIs following CS. How-\never, the study was limited to SSIs following CS, and \nthe number of HAIs occurring in other settings, such \nas surgical departments or wards for various hospitals \nfor general surgery, cannot be estimated. Some patients \nwho developed SSIs did not return to the hospital again \nfor review, which could lead to a lack of microbiological \ndata related to SSIs. Last, the small sample size or small \nnumber of isolates could have affected the outcomes of \ninterest.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      85.3,
+      540.9,
+      292.7
+     ],
+     "text": "Conclusion\nThis study concludes that the incidence of 9.61% SSI \nfollowing the CS procedure was relatively greater than \nthat in other developing countries. Most patients were \ncontinued on antibiotics post CS procedure without \nperforming culture to ascertain AMR. The inappro-\npriate use of antibiotics may result in antimicrobial \nresistance. Therefore, due to the increased number of \nSSIs following CS and the relative emergence of antimi-\ncrobial resistance to some microorganisms, including \nAcinetobacter baumanni and Staphylococcus aureus, \nintensive infection control practices are needed and \nestablish AMS programs and routine surveillance of \nSSIs at QECH. In addition, there is a need to conduct \nfurther studies on bacterial isolates and antimicro-\nbial resistance patterns and how to best address AMR \nthrough one health approach.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      298.2,
+      484.8,
+      460.4
+     ],
+     "text": "Abbreviations\nAMR\t\n\u0007Antimicrobial resistance\nAMS\t\n\u0007Antimicrobial stewardship\nASA\t\n\u0007American Society Anaesthesiologists\nAbx\t\n\u0007Antibiotics\nCDC\t\n\u0007Centres for Diseases Control and Prevention\nCOMREC\t\n\u0007College of Medicine Research Ethics Committee\nCS\t\n\u0007Caesarean section\nESBLs\t\n\u0007Extended-spectrum β-lactamases\nHAIs\t\n\u0007Healthcare-associated infections\nIQR\t\n\u0007Interquartile range\nIPC\t\n\u0007Infection prevention and control\nKUHeS\t\n\u0007Kamuzu University of Health Sciences\nLMIC\t\n\u0007Low- and middle-income countries\nQECH\t\n\u0007Queen Elizabeth Central Hospital\nSSIs\t\n\u0007Surgical site infections\nUS CDC\t\n\u0007United States Centre for Diseases Control\nWHO\t\n\u0007World Health Organization\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      472.3,
+      433.0,
+      485.1
+     ],
+     "text": "Supplementary Information\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      487.9,
+      531.2,
+      505.4
+     ],
+     "text": "The online version contains supplementary material available at https://​doi.​\norg/​10.​1186/​s13756-​024-​01483-5.\n"
+    },
+    {
+     "bbox": [
+      310.7,
+      517.9,
+      358.8,
+      526.4
+     ],
+     "text": "Additional file 1.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      543.2,
+      532.3,
+      570.4
+     ],
+     "text": "Acknowledgements\nWe would like to acknowledge B. Braun-Stiftung for partial financial support \nand everyone who took part in this study.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      579.2,
+      537.3,
+      615.4
+     ],
+     "text": "Author contributions\nATK originated the research idea and analyzed the data. DKK, SJM and JM con-\ntributed to supervision, data analysis and writing the manuscript. All authors \nreviewed the manuscript.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      624.2,
+      538.5,
+      678.4
+     ],
+     "text": "Funding\nPartial support from B. BRAUN FOUNDATION Nicole Jacob M.A. Founda-\ntion Manager (DSA) Speaker B. Braun Foundation Stadtwaldpark 2 D-34212 \nMelsungen Phone: 49 (0) 5661 71–1647 Mobile: 49 (0) 151 67. The funder had \nno role in the study design, data collection and analysis, decision to publish or \nmanuscript preparation.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      687.2,
+      540.1,
+      723.4
+     ],
+     "text": "Availability of data and materials\nData is provided within the manuscript and the datasets used and/or analyzed \nduring the current study are available from the corresponding author on \nreasonable request.\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "Page 8 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \nDeclarations\nCompeting Interests\nThe authors declare no competing interests.\nAuthor details\n1 School of Medicine and Oral Health, Department of Pathology, Kamuzu \nUniversity of Health Sciences, Private Bag 360, Chichiri, Blantyre, Malawi. \n2 School of Medicine and Oral Health, Department of Obstetrics and Gynaecol-\nogy, Kamuzu University of Health Sciences, Private Bag 360, Chichiri, Blantyre, \nMalawi. 3 Bwaila Hospital, P.O. Box 1274, Lilongwe, Malawi. \nReceived: 16 April 2024   Accepted: 10 October 2024\nReferences\n\t1.\t\nSolomkin J, Gastmeier P, Bischoff P, Latif A, Berenholtz S, Egger M, et al. \nWHO guidelines to prevent surgical site infections. Lancet Infect Dis. \n2017;17(3):262–4.\n\t2.\t\nGibbons L, Belizán JM, Lauer JA, Betrán AP, Merialdi M, Althabe F. The \nglobal numbers and costs of additionally, needed and unnecessary \ncaesarean sections performed per year: overuse as a barrier to universal \ncoverage. Working Paper-World Health Report 2010. 2010. Available from \nhttp://​www.​who.​int/​healt​hsyst​ems/​topics/​finan​cing/​healt​hrepo​rt/​30C-​\nsecti​oncos​ts.​pdf\n\t3.\t\nEuropean Centre for Disease Prevention and Control. Surveillance of \nsurgical site infections in Europe 2010–2011. Stockholm: ECDC; 2013.\n\t4.\t\nAllegranzi B, Pittet D. Preventing infections acquired during healthcare \ndelivery. Lancet. 2008;372(9651):1719–20.\n\t5.\t\nNjoku CO, Njoku AN. Microbiological pattern of surgical site infection fol-\nlowing caesarean section at the University of Calabar Teaching Hospital. \nMaced J Med Sci. 2019;7(9):1430.\n\t6.\t\nAzeze GG, Bizuneh AD. Surgical site infection and its associated factors \nfollowing caesarean section in Ethiopia: a cross-sectional study. BMC Res \nNotes. 2019;12(1):1–6.\n\t7.\t\nJido T, Garba I. Surgical site infection following caesarean section in Kano, \nNigeria. Ann Med Health Sci Res. 2012;2(1):33.\n\t8.\t\nAllegranzi B, Aiken AM, Zeynep Kubilay N, Nthumba P, Barasa J, Okumu \nG, et al. A multimodal infection control and patient safety intervention to \nreduce surgical site infections in Africa: a multicentre, before–after, cohort \nstudy. Lancet Infect Dis. 2018;18(5):507–15.\n\t9.\t\nBan KA, Minei JP, Laronga C, Harbrecht BG, Jensen EH, Fry DE, et al. \nAmerican College of Surgeons and Surgical Infection Society: surgical site \ninfection guidelines, 2016 update. J Am Coll Surg. 2017;224(1):59–74.\n\t10.\t Awad SS. Adherence to surgical care improvement project meas-\nures and postoperative surgical site infections. Surg Infect (Larchmt). \n2012;13(4):234–7.\n\t11.\t Bunduki GK, Feasey N, Henrion MYR, Noah P, Musaya J. Healthcare-asso-\nciated infections and antimicrobial use in surgical wards of a large urban \ncentral hospital in Blantyre, Malawi: a point prevalence survey. Infect Prev \nPract. 2021. https://​doi.​org/​10.​1016/j.​infpip.​2021.​100163.\n\t12.\t Borgstein P. Postoperative wound infection in developing country - a \nprospective survey at the Q.E.C.H., Blantyre, Malawi. Malawi Med J. \n1986;3(2):33–9.\n\t13.\t Owens CD, Stoessel K. Surgical site infections: epidemiology, microbiol-\nogy and prevention. J Hosp Infect. 2008;70(Suppl 2):3–10.\n\t14.\t Anderson DJ, Kaye KS. Staphylococcal surgical site infections. Infect Dis \nClin N Am. 2009;23(1):53–72.\n\t15.\t Liu R, Lin L, Wang D. Antimicrobial prophylaxis in caesarean section \ndelivery. Exp Ther Med. 2016;12(2):961.\n\t16.\t Barbosa TM, Levy SB. The impact of antibiotic use on resistance develop-\nment and persistence. Drug Resist Update. 2000;3(5):303–11.\n\t17.\t Björkman J, Andersson DI. The cost of antibiotic resistance from a bacte-\nrial perspective. Drug Resist Update. 2000;3(4):237–45.\n\t18.\t Classen DC, Evans RS, Pestotnik SL, Horn SD, Menlove RL, Burke JP. The \ntiming of prophylactic administration of antibiotics and the risk of \nsurgical-wound infection. N Engl J Med. 1992;326(5):281–6.\n\t19.\t Opøien HK, Valbø A, Grinde-Andersen A, Walberg M. Post-caesarean \nsurgical site infections according to CDC standards: rates and risk \nfactors. A prospective cohort study. Acta Obstet Gynecol Scand. \n2007;86(9):1097–102.\n\t20.\t Sullivan KM, Dean A, Soe MM. OpenEpi version 2. Epidemiol Monit. \n2007;28(1):9–10.\n\t21.\t Koneman EW, Allen SD, Janda, W.M. Schreckenberger PC. Color atlas and \ntextbook of diagnostic microbiology. Lippicott Williams & Wilkins. 1997, \npp. 1065–124.\n\t22.\t Sway A, Nthumba P, Solomkin J, Tarchini G, Gibbs R, Ren Y, et al. Burden of \nsurgical site infection following caesarean section in sub-Saharan Africa: a \nnarrative review. Int J Womens Health. 2019;11:309.\n\t23.\t Várkonyi I, Makai I, Papdiné Nyíri G, Bacskó G, Kardos L. A császármetszés \nposztoperatív sebfertőzés surveillance tapasztalatai a debreceni \nKenézy Kórházban [Postoperative surveillance of wound infection after \ncaesarean section at Kenézy Hospital, Debrecen, Hungary]. Orv Hetil. \n2011;152(1):14–22.\n\t24.\t Fehr J, Hatz C, Soka I, Kibatala P, Urassa H, Smith T, et al. Risk factors for \nsurgical site infection in a Tanzanian District Hospital: a challenge for the \ntraditional national nosocomial infections surveillance system index. \nInfect Control Hosp Epidemiol. 2006;27(12):1401–4.\n\t25.\t Mitt P, Lang K, Peri A, Maimets M. Surgical-site infections following \ncaesarean section in an Estonian university hospital: post discharge \nsurveillance and analysis of risk factors. Infect Control Hosp Epidemiol. \n2005;26(5):449–54.\n\t26.\t Mawalla B, Mshana SE, Chalya PL, Imirzalioglu C, Mahalu W. Predictors \nof surgical site infections among patients undergoing major surgery \nat Bugando Medical Centre in Northwestern Tanzania. BMC Surg. 2011. \nhttps://​doi.​org/​10.​1186/​1471-​2482-​11-​21.\n\t27.\t McGarry SA, Engemann JJ, Schmader K, Sexton DJ, Kaye KS. Surgical site \ninfection due to Staphylococcus aureus among elderly patients: mortality, \nduration of hospitalization, and cost. Infect Control Hosp Epidemiol. \n2004;25(6):461–7.\n\t28.\t Bradford PA. Extended-spectrum beta-lactamases in the 21st century: \ncharacterization, epidemiology, and detection of this important resist-\nance threat. Clin Microbiol Rev. 2001;14(4):933–51.\n\t29.\t Mpogoro FJ, Mshana SE, Mirambo MM, Kidenya BR, Gumodoka B, Imirzali-\noglu C. Incidence and predictors of surgical site infections following cae-\nsarean sections at Bugando Medical Centre, Mwanza, Tanzania. Antimi-\ncrob Resist Infect Control. 2014. https://​doi.​org/​10.​1186/​2047-​2994-3-​25.\n\t30.\t Mohammed A, Seid ME, Gebrecherkos T, Tiruneh M, Moges F. Bacte-\nrial isolates and their antimicrobial susceptibility patterns of wound \ninfections among inpatients and outpatients attending the University \nof Gondar Referral Hospital, Northwest Ethiopia. Int J Microbiol. 2017. \nhttps://​doi.​org/​10.​1155/​2017/​89538​29.\n\t31.\t World Health Organization. WHO global guidelines for the prevention \nof surgical site infection. 2018 Dec. Available from https://​www.​who.​int/​\npubli​catio​ns/i/​item/​97892​41550​475\n\t32.\t Lamont RF, Sobel JD, Kusanovic JP, Vaisbuch E, Mazaki-Tovi S, Kim SK, et al. \nCurrent debate on the use of antibiotic prophylaxis for caesarean section. \nBJOG. 2011;118(2):193–201.\n\t33.\t Amenu D, Belachew T, Araya F. Surgical site infection rate and risk factors \namong obstetric cases of Jimma University Specialized Hospital, South-\nwest Ethiopia. Ethiop J Health Sci. 2011. https://​doi.​org/​10.​4314/​ejhs.​\nv21i2.​69049.\n\t34.\t Gomaa K, Abdelraheim AR, El Gelany S, Khalifa EM, Yousef AM, Hassan H. \nIncidence, risk factors and management of post cesarean section surgical \nsite infection (SSI) in a tertiary hospital in Egypt: a five-year retrospec-\ntive study. BMC Pregnancy Childbirth. 2021. https://​doi.​org/​10.​1186/​\ns12884-​021-​04054-3.\n\t35.\t Kaye KS, Schmit K, Pieper C, Sloane R, Caughlan KF, Sexton DJ, et al. The \neffect of increasing age on the risk of surgical site infection. J Infect Dis. \n2005;191(7):1056–62.\nPublisher’s Note\nSpringer Nature remains neutral with regard to jurisdictional claims in pub-\nlished maps and institutional affiliations.\n",
+   "n_chars": 8039,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      31.7,
+      538.7,
+      41.8
+     ],
+     "text": "Page 8 of 8\nKachipedzu et al. Antimicrobial Resistance & Infection Control          (2024) 13:131 \n"
+    },
+    {
+     "bbox": [
+      56.7,
+      85.8,
+      106.6,
+      97.1
+     ],
+     "text": "Declarations\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      105.5,
+      188.2,
+      123.7
+     ],
+     "text": "Competing Interests\nThe authors declare no competing interests.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      132.5,
+      289.7,
+      186.7
+     ],
+     "text": "Author details\n1 School of Medicine and Oral Health, Department of Pathology, Kamuzu \nUniversity of Health Sciences, Private Bag 360, Chichiri, Blantyre, Malawi. \n2 School of Medicine and Oral Health, Department of Obstetrics and Gynaecol-\nogy, Kamuzu University of Health Sciences, Private Bag 360, Chichiri, Blantyre, \nMalawi. 3 Bwaila Hospital, P.O. Box 1274, Lilongwe, Malawi. \n"
+    },
+    {
+     "bbox": [
+      56.7,
+      195.6,
+      218.6,
+      204.7
+     ],
+     "text": "Received: 16 April 2024   Accepted: 10 October 2024\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      241.5,
+      292.2,
+      511.7
+     ],
+     "text": "References\n\t1.\t\nSolomkin J, Gastmeier P, Bischoff P, Latif A, Berenholtz S, Egger M, et al. \nWHO guidelines to prevent surgical site infections. Lancet Infect Dis. \n2017;17(3):262–4.\n\t2.\t\nGibbons L, Belizán JM, Lauer JA, Betrán AP, Merialdi M, Althabe F. The \nglobal numbers and costs of additionally, needed and unnecessary \ncaesarean sections performed per year: overuse as a barrier to universal \ncoverage. Working Paper-World Health Report 2010. 2010. Available from \nhttp://​www.​who.​int/​healt​hsyst​ems/​topics/​finan​cing/​healt​hrepo​rt/​30C-​\nsecti​oncos​ts.​pdf\n\t3.\t\nEuropean Centre for Disease Prevention and Control. Surveillance of \nsurgical site infections in Europe 2010–2011. Stockholm: ECDC; 2013.\n\t4.\t\nAllegranzi B, Pittet D. Preventing infections acquired during healthcare \ndelivery. Lancet. 2008;372(9651):1719–20.\n\t5.\t\nNjoku CO, Njoku AN. Microbiological pattern of surgical site infection fol-\nlowing caesarean section at the University of Calabar Teaching Hospital. \nMaced J Med Sci. 2019;7(9):1430.\n\t6.\t\nAzeze GG, Bizuneh AD. Surgical site infection and its associated factors \nfollowing caesarean section in Ethiopia: a cross-sectional study. BMC Res \nNotes. 2019;12(1):1–6.\n\t7.\t\nJido T, Garba I. Surgical site infection following caesarean section in Kano, \nNigeria. Ann Med Health Sci Res. 2012;2(1):33.\n\t8.\t\nAllegranzi B, Aiken AM, Zeynep Kubilay N, Nthumba P, Barasa J, Okumu \nG, et al. A multimodal infection control and patient safety intervention to \nreduce surgical site infections in Africa: a multicentre, before–after, cohort \nstudy. Lancet Infect Dis. 2018;18(5):507–15.\n\t9.\t\nBan KA, Minei JP, Laronga C, Harbrecht BG, Jensen EH, Fry DE, et al. \nAmerican College of Surgeons and Surgical Infection Society: surgical site \ninfection guidelines, 2016 update. J Am Coll Surg. 2017;224(1):59–74.\n\t10.\t Awad SS. Adherence to surgical care improvement project meas-\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      512.2,
+      284.5,
+      538.7
+     ],
+     "text": "ures and postoperative surgical site infections. Surg Infect (Larchmt). \n2012;13(4):234–7.\n\t11.\t Bunduki GK, Feasey N, Henrion MYR, Noah P, Musaya J. Healthcare-asso-\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      539.2,
+      290.5,
+      574.7
+     ],
+     "text": "ciated infections and antimicrobial use in surgical wards of a large urban \ncentral hospital in Blantyre, Malawi: a point prevalence survey. Infect Prev \nPract. 2021. https://​doi.​org/​10.​1016/j.​infpip.​2021.​100163.\n\t12.\t Borgstein P. Postoperative wound infection in developing country - a \n"
+    },
+    {
+     "bbox": [
+      56.7,
+      575.2,
+      283.2,
+      601.7
+     ],
+     "text": "prospective survey at the Q.E.C.H., Blantyre, Malawi. Malawi Med J. \n1986;3(2):33–9.\n\t13.\t Owens CD, Stoessel K. Surgical site infections: epidemiology, microbiol-\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      602.2,
+      283.5,
+      619.7
+     ],
+     "text": "ogy and prevention. J Hosp Infect. 2008;70(Suppl 2):3–10.\n\t14.\t Anderson DJ, Kaye KS. Staphylococcal surgical site infections. Infect Dis \n"
+    },
+    {
+     "bbox": [
+      56.7,
+      620.2,
+      272.0,
+      637.7
+     ],
+     "text": "Clin N Am. 2009;23(1):53–72.\n\t15.\t Liu R, Lin L, Wang D. Antimicrobial prophylaxis in caesarean section \n"
+    },
+    {
+     "bbox": [
+      56.7,
+      638.2,
+      286.9,
+      655.7
+     ],
+     "text": "delivery. Exp Ther Med. 2016;12(2):961.\n\t16.\t Barbosa TM, Levy SB. The impact of antibiotic use on resistance develop-\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      656.2,
+      285.8,
+      673.7
+     ],
+     "text": "ment and persistence. Drug Resist Update. 2000;3(5):303–11.\n\t17.\t Björkman J, Andersson DI. The cost of antibiotic resistance from a bacte-\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      674.2,
+      280.4,
+      691.7
+     ],
+     "text": "rial perspective. Drug Resist Update. 2000;3(4):237–45.\n\t18.\t Classen DC, Evans RS, Pestotnik SL, Horn SD, Menlove RL, Burke JP. The \n"
+    },
+    {
+     "bbox": [
+      71.7,
+      692.2,
+      268.7,
+      709.7
+     ],
+     "text": "timing of prophylactic administration of antibiotics and the risk of \nsurgical-wound infection. N Engl J Med. 1992;326(5):281–6.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      87.0,
+      522.7,
+      95.5
+     ],
+     "text": "\t19.\t Opøien HK, Valbø A, Grinde-Andersen A, Walberg M. Post-caesarean \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      96.0,
+      519.3,
+      131.5
+     ],
+     "text": "surgical site infections according to CDC standards: rates and risk \nfactors. A prospective cohort study. Acta Obstet Gynecol Scand. \n2007;86(9):1097–102.\n\t20.\t Sullivan KM, Dean A, Soe MM. OpenEpi version 2. Epidemiol Monit. \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      132.0,
+      536.1,
+      149.5
+     ],
+     "text": "2007;28(1):9–10.\n\t21.\t Koneman EW, Allen SD, Janda, W.M. Schreckenberger PC. Color atlas and \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      150.0,
+      538.7,
+      176.5
+     ],
+     "text": "textbook of diagnostic microbiology. Lippicott Williams & Wilkins. 1997, \npp. 1065–124.\n\t22.\t Sway A, Nthumba P, Solomkin J, Tarchini G, Gibbs R, Ren Y, et al. Burden of \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      177.0,
+      539.7,
+      203.5
+     ],
+     "text": "surgical site infection following caesarean section in sub-Saharan Africa: a \nnarrative review. Int J Womens Health. 2019;11:309.\n\t23.\t Várkonyi I, Makai I, Papdiné Nyíri G, Bacskó G, Kardos L. A császármetszés \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      204.0,
+      532.2,
+      248.5
+     ],
+     "text": "posztoperatív sebfertőzés surveillance tapasztalatai a debreceni \nKenézy Kórházban [Postoperative surveillance of wound infection after \ncaesarean section at Kenézy Hospital, Debrecen, Hungary]. Orv Hetil. \n2011;152(1):14–22.\n\t24.\t Fehr J, Hatz C, Soka I, Kibatala P, Urassa H, Smith T, et al. Risk factors for \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      249.0,
+      535.2,
+      284.5
+     ],
+     "text": "surgical site infection in a Tanzanian District Hospital: a challenge for the \ntraditional national nosocomial infections surveillance system index. \nInfect Control Hosp Epidemiol. 2006;27(12):1401–4.\n\t25.\t Mitt P, Lang K, Peri A, Maimets M. Surgical-site infections following \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      285.0,
+      529.2,
+      320.5
+     ],
+     "text": "caesarean section in an Estonian university hospital: post discharge \nsurveillance and analysis of risk factors. Infect Control Hosp Epidemiol. \n2005;26(5):449–54.\n\t26.\t Mawalla B, Mshana SE, Chalya PL, Imirzalioglu C, Mahalu W. Predictors \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      321.0,
+      534.6,
+      356.5
+     ],
+     "text": "of surgical site infections among patients undergoing major surgery \nat Bugando Medical Centre in Northwestern Tanzania. BMC Surg. 2011. \nhttps://​doi.​org/​10.​1186/​1471-​2482-​11-​21.\n\t27.\t McGarry SA, Engemann JJ, Schmader K, Sexton DJ, Kaye KS. Surgical site \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      357.0,
+      537.8,
+      392.5
+     ],
+     "text": "infection due to Staphylococcus aureus among elderly patients: mortality, \nduration of hospitalization, and cost. Infect Control Hosp Epidemiol. \n2004;25(6):461–7.\n\t28.\t Bradford PA. Extended-spectrum beta-lactamases in the 21st century: \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      393.0,
+      537.9,
+      419.5
+     ],
+     "text": "characterization, epidemiology, and detection of this important resist-\nance threat. Clin Microbiol Rev. 2001;14(4):933–51.\n\t29.\t Mpogoro FJ, Mshana SE, Mirambo MM, Kidenya BR, Gumodoka B, Imirzali-\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      420.0,
+      535.6,
+      455.5
+     ],
+     "text": "oglu C. Incidence and predictors of surgical site infections following cae-\nsarean sections at Bugando Medical Centre, Mwanza, Tanzania. Antimi-\ncrob Resist Infect Control. 2014. https://​doi.​org/​10.​1186/​2047-​2994-3-​25.\n\t30.\t Mohammed A, Seid ME, Gebrecherkos T, Tiruneh M, Moges F. Bacte-\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      456.0,
+      528.4,
+      500.5
+     ],
+     "text": "rial isolates and their antimicrobial susceptibility patterns of wound \ninfections among inpatients and outpatients attending the University \nof Gondar Referral Hospital, Northwest Ethiopia. Int J Microbiol. 2017. \nhttps://​doi.​org/​10.​1155/​2017/​89538​29.\n\t31.\t World Health Organization. WHO global guidelines for the prevention \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      501.0,
+      539.0,
+      527.5
+     ],
+     "text": "of surgical site infection. 2018 Dec. Available from https://​www.​who.​int/​\npubli​catio​ns/i/​item/​97892​41550​475\n\t32.\t Lamont RF, Sobel JD, Kusanovic JP, Vaisbuch E, Mazaki-Tovi S, Kim SK, et al. \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      528.0,
+      539.3,
+      554.5
+     ],
+     "text": "Current debate on the use of antibiotic prophylaxis for caesarean section. \nBJOG. 2011;118(2):193–201.\n\t33.\t Amenu D, Belachew T, Araya F. Surgical site infection rate and risk factors \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      555.0,
+      535.2,
+      590.5
+     ],
+     "text": "among obstetric cases of Jimma University Specialized Hospital, South-\nwest Ethiopia. Ethiop J Health Sci. 2011. https://​doi.​org/​10.​4314/​ejhs.​\nv21i2.​69049.\n\t34.\t Gomaa K, Abdelraheim AR, El Gelany S, Khalifa EM, Yousef AM, Hassan H. \n"
+    },
+    {
+     "bbox": [
+      304.7,
+      591.0,
+      539.1,
+      635.5
+     ],
+     "text": "Incidence, risk factors and management of post cesarean section surgical \nsite infection (SSI) in a tertiary hospital in Egypt: a five-year retrospec-\ntive study. BMC Pregnancy Childbirth. 2021. https://​doi.​org/​10.​1186/​\ns12884-​021-​04054-3.\n\t35.\t Kaye KS, Schmit K, Pieper C, Sloane R, Caughlan KF, Sexton DJ, et al. The \n"
+    },
+    {
+     "bbox": [
+      319.7,
+      636.0,
+      531.9,
+      653.5
+     ],
+     "text": "effect of increasing age on the risk of surgical site infection. J Infect Dis. \n2005;191(7):1056–62.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      665.5,
+      527.9,
+      695.5
+     ],
+     "text": "Publisher’s Note\nSpringer Nature remains neutral with regard to jurisdictional claims in pub-\nlished maps and institutional affiliations.\n"
+    }
+   ]
+  }
+ ]
+}

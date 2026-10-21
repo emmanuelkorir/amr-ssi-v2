@@ -1,0 +1,734 @@
+
+
+===== PAGE 1 =====
+
+Page number not for citation purposes 
+1 
+ 
+ 
+ 
+High prevalence of methicillin resistant staphylococci strains isolated from surgical 
+site infections in Kinshasa 
+ 
+Jean-Marie Liesse Iyamba1,&, José Mulwahali Wambale1, Cyprien Mbundu Lukukula1, Ntondo za Balega Takaisi-Kikuni1 
+ 
+1Laboratory of Experimental and Pharmaceutical Microbiology, Faculty of Pharmaceutical Sciences, University of Kinshasa, Democratic Republic of 
+Congo 
+ 
+&Corresponding author: Jean-Marie Liesse Iyamba, Laboratory of Experimental and Pharmaceutical Microbiology, Faculty of Pharmaceutical 
+Sciences, University of Kinshasa, Democratic Republic of Congo 
+ 
+Key words: Methicillin resistant staphylococci, antibiotic sensitivity, surgical site infections, Kinshasa 
+ 
+Received: 23/04/2014 - Accepted: 25/06/2014 - Published: 21/08/2014 
+ 
+Abstract  
+Introduction: Surgical site infections (SSIs) after surgery are usually caused by Staphylococcus aureus and coagulase-negative staphylococci 
+(CNS). In low income countries, methicillin resistant Staphylococcus aureus (MRSA) and methicillin resistant coagulase-negative staphylococci (MR-
+CNS) surgical site infections are particularly associated with high treatment cost and remain a source of mortality and morbidity. This study aimed 
+to determine the prevalence and the sensitivity to antibiotics of MRSA and MR-CNS isolated from SSIs. Methods: Wound swabs were collected 
+from 130 hospitalized surgical patients in two major hospitals of Kinshasa. S. aureus and CNS strains were identified by standard microbiological 
+methods and latex agglutination test (Pastorex Staph-Plus). The antibiotic susceptibility of all staphylococcal strains was carried out using disk-
+diffusion method. Results: Eighty nine staphylococcal strains were isolated. Out of 74 S. aureus and 15 CNS isolated, 47 (63.5%) and 9 (60%) 
+were identified as MRSA and MR-CNS respectively. Among the MRSA strains, 47 strains (100%) were sensitive to imipenem, 39 strains (89%) to 
+amoxycillin-clavulanic acid and 38 strains (81%) to vancomycin. All MR-CNS were sensitive to imipenem, amoxycillin-clavulanic acid and 
+vancomycin. The isolated MRSA and MR-CNS strains showed multidrug resistance. They were both resistant to ampicillin, cotrimoxazole, 
+erythromycin, clindamycin, ciprofloxacin, cefotaxime and ceftazidime. Conclusion: The results of the present study showed a high prevalence of 
+MRSA and MR-CNS. Imipenem, amoxycillin-clavulanic acid and vancomycin were the most active antibiotics. This study suggests that antibiotic 
+surveillance policy should become national priority as MRSA and MR-CNS were found to be multidrug resistant. 
+ 
+ 
+Pan African Medical Journal. 2014; 18:322 doi:10.11604/pamj.2014.18.322.4440 
+This article is available online at: http://www.panafrican-med-journal.com/content/article/18/322/full/ 
+ 
+© Jean-Marie Liesse Iyamba et al. The Pan African Medical Journal - ISSN 1937-8688. This is an Open Access article distributed under the terms of the Creative 
+Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the 
+original work is properly cited. 
+ 
+ 
+ 
+ 
+Pan African Medical Journal – ISSN: 1937- 8688   (www.panafrican-med-journal.com) 
+Published in partnership with the African Field Epidemiology Network (AFENET). (www.afenet.net) 
+ 
+Research 
+Open Access 
+  
+
+
+===== PAGE 2 =====
+
+Page number not for citation purposes 
+2 
+Introduction 
+ 
+Patients that are undergoing surgery or surgical procedures are at 
+risk of acquiring infections at the site of incision. Surgical site 
+infections (SSIs) are defined as infections occurring up to 30 days 
+after surgery (or up to one year after surgery in patients receiving 
+implants) and affecting either the incision or deep tissue at the 
+operation site [1]. Despite improvements in prevention, SSIs remain 
+a significant clinical problem as they are associated with substantial 
+mortality and morbidity and impose severe demands on healthcare 
+resources [2]. Microbiology studies on SSIs have shown that most 
+of them are caused by skin-derived bacteria such as Staphylococcus 
+aureus and coagulase-negative staphylococci [2, 3]. These bacteria, 
+particularly methicillin resistant Staphylococcus aureus (MRSA) and 
+methicillin resistant-coagulase negative staphylococci (MR-CNS) are 
+known for they ability to develop resistance to multiple antibiotics 
+[4, 5]. Studies on antimicrobial resistance of staphylococci and other 
+bacteria isolated from hospitalized surgical patients were conducted 
+in some African countries [6-9]. But in the Democratic Republic of 
+Congo (DRC), the resistance pattern of Staphylococcus, especially 
+MRSA and MR-CNS from SSIs to antibiotics remains unknown due to 
+lack of antibiotic surveillance policies. The objective of the present 
+study was to determine the prevalence and antibiotic susceptibility 
+patterns of MRSA and MR-CNS isolated from SSIs in two major 
+hospitals of Kinshasa. 
+  
+  
+Methods 
+ 
+Origin of staphylococci strains and laboratory procedure 
+ 
+This study was conducted between January to October 2013 in the 
+Provincial General Reference Hospital of Kinshasa (HGPRK) and in 
+Clinic of University of Kinshasa (CUK), a tertiary hospital structure. 
+The clinical samples were collected for diagnostic purposes by the 
+bacteriology laboratories of these hospitals and were from purulent 
+lesions of infected sites of 130 hospitalized surgical patients. 
+Infected sites were aseptically cleaned using normal saline and 
+sterile gauzes. Then a wound swab from each patient was collected 
+using sterile cotton swabs in Stuart transport media (Difco, BD 
+Franklin Lakes, NJ, USA) and was processed in the microbiology 
+laboratory of the Faculty of Pharmaceutical Sciences, University of 
+Kinshasa. 
+ 
+Isolation and Identification of staphylococci 
+ 
+Wound swabs were inoculated into mannitol-salt agar (Liofilchen, 
+Roseto degli Abbruzzi, Italy) and incubated at 37°C for 24 hours. 
+The genera Staphylococcus was confirmed using Gram staining and 
+catalase reaction. The identification ofStaphylococcus aureus strains 
+was performed with latex agglutination test (Pastorex Staph-Plus, 
+BioRad, 
+Marnes-la-Coquette, 
+France) 
+and 
+DNase 
+test. 
+All 
+staphylococcal strains, negative for latex agglutination and DNase 
+tests, were considered as coagulase negative staphylococci. 
+ 
+Antibiotic susceptibility tests 
+ 
+Antibiograms of each isolated strains using the diffusion method on 
+Mueller Hinton Agar were realized with the following antibiotic disks 
+(Liofilchen, Roseto degli Abruzzi, Italy): amoxicillin-clavulanic acid 
+(30 µg), ampicillin (10 µg), ciprofloxacin (5 µg), cefotaxime (30 µg), 
+ceftazidime (30 µg), clindamycin (2 µg), erythromycin (15 µg), 
+imipenem (10 µg), cotrimoxazole (25 µg), and vancomycin (30 µg). 
+Test for methicillin resistance was performed with diffusion method 
+using oxacillin (1 µg) on Mueller Hinton agar with 4 % NaCl. 
+Evaluation of the results was done according to the criteria of 
+Clinical Laboratory Standards Institute (CLSI) [10]. S. aureus ATCC 
+25923 and Staphylococcus epidermidis ATCC 12228 were used for 
+quality control. 
+  
+  
+Results 
+ 
+Eighty-nine staphylococci were isolated during the period of the 
+study. Seventy-four strains were S. aureus and 15 strains were CNS. 
+The S. aureus and CNS strains demonstrated good sensitivity 
+patterns to imipenem, amoxicillin-clavulanic acid, and vancomycin. 
+However, most S. aureus and CNS strains were resistant to 
+ampicillin, cotrimoxazole, ciprofloxacin, erytromycin, clindamycin 
+and ceftazidime (Table 1, Table 2). Out of the 74 S. aureus strains 
+isolated, 47 (63.5%) were MRSA (Table 3). All these strains were 
+sensitive to imipenem, 39 strains (89%) to amoxicillin-clavulanic 
+acid and 38 strains (81%) to vancomycin. Nine (60%) of 15 CNS 
+strains were MR-CNS (Table 4). All MR-CNS strains were fully 
+sensitive to amoxicillin-clavulanic acid, imipenem, and vancomycin. 
+The MRSA and MR-CNS strains demonstrated a high level of 
+resistance to ampicillin, cotrimoxazole, erythromycin, clindamycin, 
+
+
+===== PAGE 3 =====
+
+Page number not for citation purposes 
+3 
+ciprofloxacin, cefotaxime and ceftazidime. Multidrug resistance was 
+observed in MRSA and MR-CNS strains (Table 5). 
+  
+  
+Discussion 
+ 
+The results obtained in the present study demonstrated high 
+prevalence of MRSA (63.5%) and MR-CNS (60%). This prevalence is 
+higher in comparison with other studies conducted in some African 
+countries. Report from Uganda demonstrated that the proportion of 
+MRSA among S. aureus strains isolated from SSIs was 37.5% [6]. A 
+survey conducted in Mulago National Referral Hospital (Uganda) on 
+the surgical inpatients showed also an MRSA prevalence of 42% 
+[11]. However, our results are not consistent with those obtained in 
+Bobo Dioulasso and Nairobi where very low MRSA prevalence was 
+observed [7, 12]. Screening of MR-CNS isolates showed a high 
+prevalence rate. Very few African studies have been focused on the 
+prevalence of CNS SSIs [13]. However, the current results are 
+consistent with report from Switzerland in which the MR-CNS rate 
+increased from 20% at the admission to 47% after surgery [14]. 
+The highest MRSA and MR-CNS prevalence observed in our study 
+can be attributed to the high pressure use of broad spectrum 
+antibiotics or to the long stay hospital [15, 16]. In general, MRSA is 
+known to be transmitted mostly by health-care contacts [17, 18]. A 
+Congolese study among nasal staphylococcal carriers reported an 
+MRSA prevalence of 63.1%, 66.7% and 23.3% in hospitalized 
+patients, hospital staff team and outpatients, respectively [19]. 
+Genomic characterization studies should be conducted in order to 
+determine different genotypes of Staphylococus aureus strains 
+circulating among SSIs patients and hospital staff. The MRSA and 
+MR-CNS strains were generally multidrug resistant with an 
+increasing resistance to ampicillin, cotrimoxazole, erythromycin, 
+clindamycin, ciprofloxacin, ceftazidime and cefotaxime. This 
+observation is in line with previous studies [20, 21]. The multidrug 
+resistance observed is probably due to the ability of MRSA and MR-
+CNS strains to produce biofilms. Staphylococci are known as 
+especially good biofilm formers, which is due primarily to the 
+production of a series of surface molecules that promote 
+extracellular matrix formation [22]. Colonization of a biotic surface 
+such as wound by S. aureus has been demonstrated in vivo in pigs 
+and the biofilms formed were less susceptible to antimicrobials than 
+the planktonic counterparts [23]. 
+ 
+A report from Italy also showed that S. aureus strains isolated from 
+SSIs and producing a biofilm were highly resistant to antibiotic 
+treatment [24]. This observation suggests that bacteria within the 
+wound or the surgical lesion are encased in an extracellular 
+polymeric matrix, change their phenotype and become recalcitrant 
+to antibiotics and to host defenses [22]. None MR-CNS strain was 
+resistant to amoxicillin-clavulanic acid, imipenem and vancomycine. 
+We observed in the present study rates of Vancomycin Resistant S. 
+aureus (VRSA) of 15 % in all S. aureus strains and 19% in MRSA 
+strains. Our findings were consistent with a previous report from 
+Libya in which MRSA collected from different clinical specimens 
+showed a VRSA prevalence of 17%, using disc-diffusion method 
+[25]. The increase of VRSA prevalence could be explained not only 
+by the long use of vancomycin, but also by an infection or 
+concurrent colonization with vancomycin resistant enterococci [26]. 
+  
+  
+Conclusion 
+ 
+The results of the present study indicate that amoxicillin-clavulanic 
+acid, imipenem and vancomycine should be recommended in the 
+treatment of SSIs involving MRSA and MR-CNS. But, considering the 
+emergence of multidrug resistant MRSA and MR-CNS strains, 
+antibiotic susceptibility testing should be done prior to treatment 
+in S. aureus and CNS surgical site infections. 
+  
+  
+Competing interests 
+ 
+The authors declare no competing interest. 
+  
+  
+Authors’ contributions 
+ 
+Jean-Marie Liesse Iyamba contributed to the conception of the 
+study, the analysis of the results and the preparation of the 
+manuscript. Ntondo za Balega Takaisi-Kikuni contributed to the 
+conception of the study and the preparation of manuscript. José 
+Mulwahali Wambale contributed to the preparation of the 
+manuscript. Cyprien Mbundu Lukukula contributed to the processing 
+of samples. All the authors have read and approved the final version 
+of the manuscript. 
+  
+
+
+===== PAGE 4 =====
+
+Page number not for citation purposes 
+4 
+Acknowledgments 
+ 
+We thank members of hospital staff teams of the General Reference 
+Hospital of Kinshasa (HGPRK) and the Clinic of University of 
+Kinshasa (CUK), Kinshasa, DRC for their precious help during the 
+period of study. 
+  
+  
+Tables 
+ 
+Table 1: Antibiotic susceptibility patterns of all S. aureus strains 
+Table 2: Antibiotic susceptibility patterns of all coagulase negative 
+staphylococci strains 
+Table 3: Antibiotic susceptibility patterns of MRSA strains 
+Table 4: Antibiotic susceptibility patterns of MR-CNS strains 
+Table 5: Different resistance patterns of MRSA and MR-CNS strains 
+  
+  
+References 
+ 
+1. 
+Horan TC, Gaynes RP, Martone WJ, Jarvis WR, Emori TG. CDC 
+definitions of nosocomial surgical site infections, 1992: a 
+modification of CDC definitions of surgical wound infections. 
+Infect 
+Control 
+Hosp 
+Epidemiol. 
+1992; 
+13(10): 
+606-
+608.PubMed | Google Scholar 
+ 
+2. 
+Owens CD, Stoessel K. Surgical site infections: epidemiology, 
+microbiology and prevention. J Hosp Infect. 2008; 70(S2):3-
+10. PubMed | Google Scholar 
+ 
+3. 
+Dohmen PM. Antibiotic resistance in common pathogens 
+reinforces the need to minimise surgical site infections. J Hosp 
+Infect. 2008; 70(S2):15-20. PubMed | Google Scholar 
+ 
+4. 
+Breurec S, Fall C, Pouillot R, Boisier P, Brisse S, Diene-Sarr F, 
+Djibo 
+S, 
+et 
+al. 
+Epidemiology 
+of 
+methicillin-resistant 
+Staphylococcus aureus lineages in five major African towns: 
+emergence and spread of atypical clones. Clin Microbiol Infect. 
+2011; 17(4): 160-165. PubMed | Google Scholar 
+ 
+ 
+ 
+5. 
+Rahman A, Hossain MA, Paul SK, Sultana S, Haque N, Kabir 
+MR, 
+Hoque 
+SM. 
+Methicillin-resistant 
+coagulase-negative 
+staphylococci (MRCoNS) by disk diffusion method. Mymensingh 
+Med J. 2013; 22(2):229-31. PubMed | Google Scholar 
+ 
+6. 
+Seni J, Bwanga F, Najjuka CF, Makobore P, Okee M, et al. 
+Molecular 
+characterization 
+of Staphylococcus 
+aureus from 
+patients with surgical site infections at Mulago Hospital in 
+Kampala, 
+Uganda. 
+PLoS 
+One. 
+2013; 
+8(6):e66153. PubMed |Google Scholar 
+ 
+7. 
+Dinda V, Gunturu R, Kariuki S, Hakeem A, Raja A, Kimang'a A. 
+Pattern of pathogens and their sensitivity isolated from surgical 
+site infections at the Aga Khan University Hospital, Nairobi, 
+Kenya. 
+Ethiop 
+J 
+Health 
+Sci. 
+2013; 
+23(2):141-
+9.PubMed | Google Scholar 
+ 
+8. 
+Jido T, Garba I. Surgical-site Infection Following Cesarean 
+Section in Kano, Nigeria. Ann Med Health Sci Res. 2012; 
+2(1):33-6. PubMed | Google Scholar 
+ 
+9. 
+Eriksen HM, Chungulu S, Kondo S, Lingaas E. Surgical-site 
+infections at Kilimanjaro Christian Medical Center. J Hosp 
+Infect. 2003; 55(1):14-20. PubMed | Google Scholar 
+ 
+10. CLSI. Perfomance standars for antimicrobial susceptibility 
+testing; twenty first information supplement- CLSI document 
+M100-S21. Wayne, PA: Clinical and Laboratory Standards 
+Institute. 2011. PubMed | Google Scholar 
+ 
+11. Kitara LD, Anywar AD, Acullu D, Odongo-Aginya E, Aloyo J, 
+Fendu M. Antibiotic susceptibility of Staphylococcus aureusin 
+suppurative lesions in Lacor Hospital, Uganda. Afr Health Sci. 
+2011; 11 (S1):S34-9. PubMed | Google Scholar 
+ 
+12. Ouédraogo AS, Somé DA, Dakouré PW, Sanon BG, Birba E, et 
+al Bacterial profile of surgical site infections at Souro Sanou 
+National Hospital Center in Bobo Dioulasso, Burkina Faso. Med 
+Trop. 2011; 71(1):49-52. PubMed | Google Scholar 
+ 
+13. Melaku S, Gebre-Selassie S, Damtie M, Alamrew K. Hospital 
+acquired infections among surgical, gynaecology and obstetrics 
+patients in Felege-Hiwot referral hospital, Bahir Dar, northwest 
+Ethiopia. Ethiop Med J. 2012; 50(2):135-44.PubMed | Google 
+Scholar 
+
+
+===== PAGE 5 =====
+
+Page number not for citation purposes 
+5 
+ 
+14. Zingg W, Demartines N, Imhof A, Senn G, Ruef C. Rapid 
+colonization 
+with 
+methicillin-resistant 
+coagulase-negative 
+staphylococci after surgery. World J Surg. 2009; 33(10):2058-
+62. PubMed | Google Scholar 
+ 
+15. Taconnelli E, De Angelis G, Cataldo MA, Pozzi E, Cauda R. Does 
+antibiotic 
+increase 
+the 
+risk 
+of 
+methicillin-
+resistantStaphylococcus aureus ? A systematic revieuw and 
+meta-analysis. J Antimicrob Chemother. 2008; 61(1): 26-
+38.PubMed | Google Scholar 
+ 
+16. Catry B, Latour K, Jans B, Vandendriessche S, Preal R, Mertens 
+K, Denis O. Risk factors for methicillin resistantStaphylococcus 
+aureus: 
+A 
+multi-laboratory 
+study. 
+PLoS 
+One. 
+2014; 
+9(2):e89579. PubMed | Google Scholar 
+ 
+17. Grundmann H, Hori S, Winter B, Tami A, Austin DJ. Risk factors 
+for the transmission of methicillin-resistantStaphylococcus 
+aureus in an adult intensive care unit: fitting a model to the 
+data. J Infect Dis. 2002; 185:481?8.PubMed | Google 
+Scholar 
+ 
+18. Thompson RL, Cabezudo I, Wenzel RP. Epidemiology of 
+nosocomial 
+infections 
+caused 
+by 
+methicillin-
+resistantStaphylococcus aureus. Ann Intern Med. 1982; 
+97:309-17. PubMed | Google Scholar 
+ 
+19. Vlieghe E, Phoba MF, Muyembe Tamfun JJ, Jacobs J. Antibiotic 
+resistance among bacterial pathogens in Central Africa: a 
+review of the published literature between 1955 and 2008. Int 
+J Antimicrob Agents. 2009; 34(4):295-303. PubMed |Google 
+Scholar 
+ 
+ 
+20. Ojulong J, Mwambu TP, Joloba M, Bwanga F, Kaddu-Mulindwa 
+DH. Relative prevalence of methicilline resistantStaphylococcus 
+aureus and its susceptibility pattern in Mulago Hospital, 
+Kampala, Uganda. Tanzan J Health Res. 2009; 11(3):149-
+53. PubMed | Google Scholar 
+ 
+21. Seni J, Najjuka CF, Kateete DP, Makobore P, Joloba ML, et al. 
+Antimicrobial resistance in hospitalized surgical patients: a 
+silently emerging public health concern in Uganda. BMC Res 
+Notes. 2013; 6:298. PubMed | Google Scholar 
+ 
+22. Otto M. Staphylococcal biofilms. Curr Top Microbiol Immunol. 
+2008; 322: 207-228. PubMed | Google Scholar 
+ 
+23. Davis SC, Ricotti C, Cazzaniga A, Welsh E, Eaglstein WH, Mertz 
+PM. Microscopic and physiologic evidence for biofilm-associated 
+wound colonization in vivo. Wound Repair Regen. 2008; 
+16(1):23 - 29. PubMed | Google Scholar 
+ 
+24. Pulcrano G, Vollara A, Rossano F, Catania MR. Molecular and 
+phenotypic 
+characterization 
+of 
+methicillin-
+resistantStaphylococcus aureus from surgical site infections. 
+Surg 
+Infect. 
+2013; 
+14(2): 
+196-202. PubMed | Google 
+Scholar 
+ 
+25. Buzaid N, Elzouki AN, Taher I, Ghenghesh KS. Methicillin-
+resistant Staphylococcus aureus (MRSA) in a tertiary surgical 
+and trauma hospital in Benghazi, Libya. J Infect Dev Ctries. 
+2011; 5(10): 723-726. PubMed | Google Scholar 
+ 
+26. Cosgrove SE, Carroll KC, Perl TM. Staphylococcus aureus with 
+reduced 
+susceptibility 
+to 
+vancomycin. 
+Clin 
+Infect 
+Dis. 
+2004;39(4):539-45. PubMed | Google Scholar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 6 =====
+
+Page number not for citation purposes 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 1: Antibiotic susceptibility patterns of all S. aureus  strains 
+  
+S. aureus (n= 74) 
+Antibiotics 
+Sensitive (%) 
+Resistant (%) 
+Ampicillin 
+16 (21.6%) 
+58 (78.4%) 
+Amoxicillin/Clav.acid 
+65 (88%) 
+9 (12%) 
+Ceftazidime 
+37 (50%) 
+37 (50%) 
+Cefotaxime 
+44 (59.5%) 
+30 (40.5%) 
+Ciprofloxacin 
+24 (32.4%) 
+50 (67.6%) 
+Clindamycin 
+22 (29.7%) 
+52 (70.3%) 
+Cotrimoxazole 
+20 (27%) 
+54 (73%) 
+Erythromycin 
+23 (31%) 
+51 (69%) 
+Imipenem 
+74 (100%) 
+0 (0%) 
+Vancomycin 
+63 (85%) 
+11 (15%) 
+Table 2: Antibiotic susceptibility patterns of all CNS strains 
+  
+CNS (n = 15) 
+Antibiotics 
+Sensitive 
+Resistant 
+Ampicillin 
+6 (40%) 
+9 (60%) 
+Amoxicillin/Clav.acid 
+14(93.3%) 
+1 (7.3%) 
+Ceftazidime 
+7 (46.7%) 
+8 (53.3%) 
+Cefotaxime 
+6 (40%) 
+9 (60%) 
+Ciprofloxacin 
+1 (6.7%) 
+14(93.3%) 
+Clindamycin 
+2 (13.3%) 
+13 (86.7%) 
+Cotrimoxazole 
+5 (33.3%) 
+10 (66.7%) 
+Erythromycin 
+4 (26.7%) 
+11 (73.3%) 
+Imipenem 
+15 (100%) 
+0 (0%) 
+Vancomycin 
+13 (86.7%) 
+2 (13.3%) 
+
+
+===== PAGE 7 =====
+
+Page number not for citation purposes 
+7 
+Table 3: Antibiotic susceptibility patterns of MRSA strains 
+  
+MRSA (n = 47) 
+Antibiotics 
+Sensitive 
+Resistant 
+Ampicillin 
+5(10.6%) 
+42 (89.4%) 
+Amoxicillin/Clav.acid 
+39 (89%) 
+8 (17%) 
+Ceftazidime 
+22 (42%) 
+25 (53%) 
+Cefotaxime 
+20 (42.6%) 
+27 (57.4%) 
+Ciprofloxacin 
+20 (42.6%) 
+27 (57.4%) 
+Clindamycin 
+15 (32%) 
+32 (68%) 
+Cotrimoxazole 
+11 (23.4%) 
+36 (76.6%) 
+Erythromycin 
+11 (23.4%) 
+36 (76.6%) 
+Imipenem 
+47 (100%) 
+0 (0%) 
+Vancomycin 
+38(81%) 
+9(19%) 
+ 
+ 
+Table 4:  Antibiotic susceptibility patterns of MR- CNS strains  
+  
+(MR- CNS (n = 9) 
+Antibiotics 
+Sensitive 
+Resistant 
+Ampicillin 
+1(11.1%) 
+8 (88.9%) 
+Amoxicillin/Clav.acid 
+9 (100%) 
+0 (0%) 
+Ceftazidime 
+5 (55.6%) 
+4 (44.6%) 
+Cefotaxime 
+3 (33.3%) 
+6 (66.7%) 
+Ciprofloxacin 
+0 (0%) 
+9 (100%) 
+Clindamycin 
+3 (33.3%) 
+6 (66.7% 
+Cotrimoxazole 
+0 (0%) 
+9 (100%) 
+Erythromycin 
+2 (22.2%) 
+7 (77.8%) 
+Imipenem 
+9 (100%) 
+0 (0%) 
+Vancomycin 
+9(100%) 
+0(0%) 
+ 
+ 
+ 
+ 
+ 
+Table 5: Different resistance patterns of MRSA and MR-CNS strains 
+Resistance pattern 
+MRSA  (n= 47) 
+MR-CNS (n= 9) 
+1 AB 
+0 (0%) 
+0 (0%) 
+2 AB 
+1 (2.1%) 
+0 (0%) 
+3 AB 
+5 (10.6%) 
+0 (0%) 
+4 AB 
+10 (21.2%) 
+3 (33.3%) 
+5 AB 
+10 (21.2%) 
+2 (22.2%) 
+6 AB 
+6 (12.7%) 
+1 (11.1%) 
+7 AB 
+7 (14.9%) 
+3(33.3%) 
+8 AB 
+4 (8.5%) 
+0 (0%) 
+9 AB 
+2 (4.2%) 
+0 (0%) 
+AB: antibiotic 

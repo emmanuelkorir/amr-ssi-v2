@@ -1,0 +1,1903 @@
+
+
+===== PAGE 1 =====
+
+TYPE Original Research
+PUBLISHED 11 November 2024
+DOI 10.3389/fmicb.2024.1417425
+OPEN ACCESS
+EDITED BY
+João Pedro Rueda Furlan,
+Federal University of São Paulo, Brazil
+REVIEWED BY
+Gamal Mohamed El-Said El-Sherbiny,
+Al-Azhar University, Egypt
+Helia Magaly Bello-Toledo,
+University of Concepcion, Chile
+*CORRESPONDENCE
+Abera Kumalo
+aberak2000@gmail.com
+RECEIVED 14 April 2024
+ACCEPTED 14 October 2024
+PUBLISHED 11 November 2024
+CITATION
+Odoko D, Kumalo A, Alemu G, Demisse T,
+Mulugeta T and Temesgen M (2024)
+Extended-spectrum β-lactamase and
+carbapenemase producing
+Enterobacteriaceae among patients
+suspected with surgical site infection at
+Hospitals in Southern Ethiopia.
+Front. Microbiol. 15:1417425.
+doi: 10.3389/fmicb.2024.1417425
+COPYRIGHT
+© 2024 Odoko, Kumalo, Alemu, Demisse,
+Mulugeta and Temesgen. This is an
+open-access article distributed under the
+terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or
+reproduction in other forums is permitted,
+provided the original author(s) and the
+copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with these
+terms.
+Extended-spectrum β-lactamase
+and carbapenemase producing
+Enterobacteriaceae among
+patients suspected with surgical
+site infection at Hospitals in
+Southern Ethiopia
+Desta Odoko1, Abera Kumalo2*, Getachew Alemu2,
+Tigistu Demisse2, Teshale Mulugeta1 and Muluneh Temesgen3
+1Medical Laboratory Science Department, Sodo Christian General Hospital, Sodo, Ethiopia, 2School of
+Medical Laboratory Sciences, College of Health Sciences and Medicine, Wolaita Sodo University, Sodo,
+Ethiopia, 3Department of Medical Laboratory Science, Hosanna Health Science College, Hosanna,
+Ethiopia
+Background: Extended-spectrum β-lactamase and carbapenemase-producing
+Enterobacteriaceae are an increasing problem for patients today. Data on
+clinical samples for ESBL and carbapenemase-producing Enterobacteriaceae
+for surgical site infection patients in developing countries are limited, including
+Ethiopia, mainly due to resource constraints. Hence, this study aimed
+to determine the prevalence of extended-spectrum beta-lactamase- and
+carbapenemase-producing Enterobacteriaceae among patients suspected to
+have surgical site infection at Hospital in Southern Ethiopia.
+Materials and methods: A hospital-based cross-sectional study was conducted
+on 422 suspected surgical site infections from June 1, 2022 to August 30,
+2022 at Hospitals in Southern Ethiopia. Sociodemographic and clinical data
+were obtained by using a structured questionnaire. Clinical samples (pus, pus
+aspirates, and wound swabs) were collected aseptically and processed within
+30 min by placing the swabs in sterile test tubes containing sterile normal
+saline (0.5 mL). Samples were cultured on blood and MacConkey agar plates.
+All positive cultures were characterized by colony morphology, Gram staining,
+and standard biochemical tests. Antimicrobial sensitivity tests were performed
+using Kirby Baur disk diﬀusion on Mueller–Hinton agar. ESBL production was
+conﬁrmed using a double-disc synergy test (DDST) method. Carbapenemase
+production was assessed using the modiﬁed Hodge test. Logistic regression
+analysis was used to determine associated factors. A P-value < 0.05 were
+considered statistically signiﬁcant.
+Result:
+Bacteria belonging to the order Enterobacterales were cultured in
+23.7% out of 422 patients with suspected surgical wound infection. Of all
+the isolates, Enterobacteriaceae (69 isolates) were the most frequent, with
+E. coli (29/69) followed by K. pneumoniae (14/69). Of 69 Enterobacteriaceae
+isolates, 66.6 % (46/69) were positive for ESBL production, and 21.7 (15/69) were
+positive for carbapenemase-producing Enterobacteriaceae. The majority of
+Enterobacteriaceae isolates showed sensitivity to meropenem (72.1%); however
+revealed 63.9% and 70.5% were resistant to gentamicin and ciproﬂoxacin,
+respectively. Similarly, a higher resistance rate to cefepime (91.8%), amoxicillin-
+clavulanic acid (98.4%), ceftriaxone (95.1%), and ceftazidime (91.8%). MDR rate
+Frontiers in Microbiology
+01
+frontiersin.org
+
+
+===== PAGE 2 =====
+
+Odoko et al.
+10.3389/fmicb.2024.1417425
+of Enterobacteriaceae isolates was 25/61 (41%) among patients suspected
+for surgical site infection. The Multivariable analysis revealed that length
+of hospital stay in hospital [AOR = 3.81 (95% CI 2.08–6.95)] remained
+statistically signiﬁcant factor associated with surgical site infection due to ESBL
+producing Enterobacteriaceae.
+Conclusion:
+Study
+results
+showed
+the
+severity
+of
+ESBL-producing
+Enterobacteriaceae is critical and CPE is alarming. Meropenem is the most
+eﬀective antibiotic against the ESBL-producing Enterobacteriaceae. MDR rate of
+Enterobacteriaceae isolates was 61 (61%) among patients suspected for surgical
+site infection. Therefore, antibiotic selection should be based on the results of
+the culture and sensitivity tests.
+KEYWORDS
+ESBL, carbapenemase, Enterobacteriaceae, SSI, southern Ethiopia
+Introduction
+A surgical site infection (SSI) is an infection that develops in the
+part of the body where the surgery is performed (Jolivet et al., 2018).
+Surgical site infections are among the most frequent hospital-
+acquired infections among surgical patients, increasing morbidity,
+mortality, and expense. Infections from the surgical site may be
+superﬁcial infections conﬁned to the skin. More serious infections
+that arise from the surgical site can aﬀect tissues beneath the skin,
+organs, or implanted materials (CDC et al., 2022).
+Members of the Enterobacteriaceae family of gram-negative
+bacteria produce a class of enzymes known as Extended-spectrum
+β-lactamases, they are complex, varied and are located on
+plasmids that facilitated their dissemination (Jolivet et al., 2018;
+CDC et al., 2022). Conversely, all Enterobacteriaceae that are
+resistant to carbapenem antibiotics (apart from those with
+intermediate resistance) are referred to as carbapenemase-
+producing Enterobacteriaceae (CPE). These bacteria can acquire
+resistance genes to tetracycline, aminoglycosides, trimethoprim,
+sulfonamides,
+and
+chloramphenicol
+through
+plasmids
+and
+transposons, which are essential for the development of multidrug
+resistance (MDR) in these bacteria (Tilahun, 2022; Ghafourian
+et al., 2014; Cantón et al., 2008).
+According to the Health Care-Associated Infection (HAI)
+prevalence survey conducted by the Centers for Disease Control
+(CDC), there were an estimated 110,800 surgical site infections
+(SSIs) in 2015 that were linked to inpatient surgeries. In 2020, all
+National Healthcare Safety Network (NHSN) categories for surgical
+procedures reported a 5% decrease in the surgical site infection
+standardized infection ratio (SIR) compared to the year before,
+according to the results of the 2020 HAI data presented in the
+National Healthcare Safety Networks progress report (Batchelor
+et al., 2008).
+While there have been advancements in infection prevention
+and control practices, such as better ventilation of surgical sites,
+surgical techniques, barriers, and the availability of antimicrobials
+or antibiotics used for prophylaxis, surgical site infections (SSIs)
+still account for a major cause of prolonged hospital stays,
+morbidity, and mortality; a study report indicates that 20% of all
+HAIs are caused by SSI and are associated with a 2- to 11-fold
+increased risk of mortality, with 75% of SSI-associated deaths being
+directly related to SSI (Van Duin and Doi, 2017).
+On the other hand, Enterobacteriaceae that produce ESBL
+have been recognized as major bacteria that led to multidrug
+resistant can causing serious community-acquired and hospital-
+acquired infections worldwide (Ban et al., 2017). Advanced drug
+resistance studies recently have publicized that the emergence
+of ESBL-producing Enterobacteriaceae has increased over time.
+As β-lactamase-producing Enterobacteriaceae are not always
+detected in routine antimicrobial susceptibility testing, they
+typically demonstrate multidrug resistance. Members of the
+Enterobacteriaceae family, such as Escherichia coli, Klebsiella
+pneumoniae and other lactose non-fermenting gram-negative rods,
+such as Pseudomonas species and Acinetobacter spp. are important
+pathogens that can cause surgical site infections (Van Duin, 2017).
+Global studies indicate that between 2009 and 2010, K.
+pneumoniae and E. coli that produce ESBL in Europe was 38.9
+and 17.6%, respectively (Moges et al., 2019). In North America, the
+similar frequency has been estimated at 8.8 and 8.5%, respectively
+(Sangare et al., 2015), whereas, the prevalence in China ranged
+from 61 to 67% respectively. The prevalence of ESBLs in Africa,
+varies widely: Sudan, 30.2% (Hoban et al., 2012), Tanzania 77.1%
+(Saravanan et al., 2018), Algeria 47.6% (Nelson et al., 2014), Nigeria
+10.3–27.5% (Nedjai et al., 2013), and from South Africa 8.8–13.1%
+(Hello et al., 2010), and 37.4% of isolates were ESBL positive
+in various samples collected from hospitals and communities in
+Kenya (Storberg, 2014).
+Several studies in Ethiopia, have documented the range
+of ESBL patterns of bacteria causing site infection, there are
+substantial changes in the resistance proﬁles and etiology of
+bacterial pathogens across geographical areas and time (Kumalo
+et al., 2023). A recent report from Addis Ababa, Ethiopia: (84.1%;
+Beyene et al., 2019), Gondar, northwestern Ethiopia: (83.9%;
+Dessie et al., 2016), and Jimma southwest Ethiopia: (87.3%; Mama
+et al., 2014) conﬁrmed that there is a high prevalence of ESBL
+producing Enterobacteriaceae.
+However, the extensive use of antibiotics, together with the
+length of time over which the drugs are available in the market, has
+Frontiers in Microbiology
+02
+frontiersin.org
+
+
+===== PAGE 3 =====
+
+Odoko et al.
+10.3389/fmicb.2024.1417425
+led to major problems with the emergence of resistant organisms
+(Mohammed et al., 2017; Temesgen et al., 2023). The issue of ESBL
+in developing countries has been made severe by the overuse of
+antibiotics, overdosing, self-medication, prescribing medications
+without conducting the proper susceptibility testing, and extended
+hospital stays. Yet, research on ESBL and CPE for SSI is lacking
+in developing nations like Ethiopia, and no study has previously
+examined the prevalence of ESBL and CPE with SSI in the
+southern Ethiopian region of Wolaita. Therefore, this study was
+aimed to determine the prevalence of extended-spectrum beta-
+lactamase-
+and
+Carbapenemase-producing
+Enterobacteriaceae
+among patients suspected to have surgical site infection at Hospital
+in Southern Ethiopia.
+Methods and materials
+Study design, period, and area
+A hospital-based cross-sectional study was conducted from
+June 1, 2022 to August 30, 2022. The study was conducted at
+Wolaita Sodo Comprehensive Specialized Hospital (WSUCSH)
+and Sodo Christian General Hospital (SCGH) of the Sodo Town,
+Southern Ethiopia. Sodo Town is found in Wolaita zone and it is the
+regional cities of the Southern Ethiopia Region. The town is 329 km
+from Addis Ababa, the capital city of Ethiopia, and 154 km from
+Hawassa which is the former capital city of the region South Nation
+Nationalities and People Region. The WSCSH is the one of the
+largest hospitals in the area, which was established in 1928. It grew
+from District Hospital to Zonal Hospital in Wolaita Zone, town
+of Sodo, formerly named Wolaita Sodo Zone Hospital, until June
+30, 2004, and then incorporated Wolaita Sodo University, currently
+serving more than 5 million people per year around the area, and
+also it is taught under graduating and post-graduating students.
+Also Sodo Christian General Hospital was established in 1997 as
+a primary hospital and it serves more than 4.2 million people per
+year including the surrounding zones and regions. Generally both
+hospitals have its own main mission, including quality service and
+providing teaching, preventive, curative care and other services in
+in diﬀerent outpatient and inpatient departments.
+Study population
+Patients who were clinically suspected of having surgical
+site infection.
+Sample size determination and sampling
+technique
+Sample size determination
+The sample size was calculated by using single population
+proportion formula so, considering 95% conﬁdence interval (CI),
+5% margin of error, and 50% proportion, and observed for
+evidence of infection on a daily basis. The clinical criteria for
+surgical site infection development (deep incisional surgical site
+infection, organ/space any surgical site infection, and superﬁcial
+incisional surgical site infection) from any surgical site infection
+categorization system from the CDC guidelines were used (Khan
+and Khalil, 2011).
+n = Zα2 ∗P(1 −P)
+d2
+By Using a 95% conﬁdence level, the Z value was 1.96, 5%
+margin of error (d).
+(1.96)2 (0.5 [1 −0.5])
+(0.05)2
+= 384
+Therefore, by considering a 10% contingency the ﬁnal sample
+size was: n = 422.
+Sampling technique
+The study participants were enrolled using a systematic
+sampling technique until a sample size of 422 was achieved. The
+ﬁrst participant was selected using the lottery method and the
+formula K = N/n. Thus, the Kth value for the total sample size
+of 422 was 1,398/422= 3. The ﬁnal 422 study participants were
+allocated proportionally to the size of each health facility based
+on patient ﬂow, as shown below. The patient ﬂow rates for both
+hospitals during the previous year, 2021, were presented below.
+• nWSCSH = number of sample required from Wolaita Sodo
+Comprehensive Specialized Hospital.
+• NWSCSH = is number of SSI Patient who came to WSUCH
+from June 1, 2021 to August 30, 2021 GC were 728.
+◦nSCGH = number of sample required from Sodo Christian
+General hospital.
+◦NSCGH = is number of SSI Patient who came to Sodo Christian
+General hospital from June1, 2021 to August 30, 2021GC
+were 670.
+
+n = is the total sample size of the study was 422.
+NTotal = the sum of SSI patients who came for service from both
+hospitals from June 1, 2021, to August 30, 2021, which was 1,398.
+Therefore,
+• nWSCSH (from Wolaita Sodo Comprehensive Specialized
+Hospital) = (n/NTotal) ∗N WSCSH.
+◦nWSCSH = (422/1,398)∗728 = 220, sample size were
+allocated to WSUCH.
+Whereas
+• nSCGH (from Sodo Christian General Hospital) = (n/NTotal) ∗
+N SCGH.
+◦nSCGH= (422/1,398) × 670 = 202 was allocated to SCGH.
+Methods and tools of data collection
+The participants provided with written consent, and their socio
+demographic and clinical data were collected using a pre-tested
+structured questionnaire. To ensure consistency, the questionnaire
+was ﬁrst created in English, translated into Amharic, and then back
+into English. The patients’ socio demographic information (age,
+Frontiers in Microbiology
+03
+frontiersin.org
+
+
+===== PAGE 4 =====
+
+Odoko et al.
+10.3389/fmicb.2024.1417425
+sex, marital status, educational attainment, and employment status)
+and clinical information (such as antibiotic use, history of chronic
+illnesses, and duration of hospital stay, steroid treatment, and
+surgical history) were gathered via a questionnaire. Additionally,
+wound swabs and aspirates were obtained for laboratory analysis.
+Nurses and laboratory technologists from WSCSH and SCGH
+trained the data collectors. An extensive review of the literature was
+carried out (Beyene et al., 2019; Dessie et al., 2016; Mama et al.,
+2014).
+Specimen collection procedure and
+transportation
+Swabs and aspirates were collected from study participants
+suspected of having SSI by nurses (for swabs) and clinicians (for
+aspirates if suspected to be related to SSI). Sterile cotton swabs
+were rotated on a 1 cm2 area of clean granulation tissue for
+a period of 5 s using gentle pressure to release tissue exudate
+(Miller et al., 2018; National and Pillars, 2010). The ﬂuid aspirates
+were collected using a 5 ml syringe. The collected specimens were
+transported to the Sodo Christian General Hospital Microbiology
+Laboratory for processing in sterile test tubes within 30 min. During
+the delay, Ameis transport medium was used. For carbapenemase-
+producing organisms, the stored organisms were transported to the
+Ethiopia Public Health Institute using a triple packaging system for
+conﬁrmation after preserving the organisms for long-term storage
+(Farzana et al., 2013).
+Identiﬁcation of bacterial isolates
+All collected specimens were inoculated onto primary isolation
+culture media like blood agar (Oxoid Ltd, UK) and MacConkey
+agar (Oxoid Ltd, UK) found in Figure 1. Both blood agar (Oxoid
+Ltd, UK) and MacConkey agar (Oxoid Ltd, UK) were incubated
+at 37◦C for 24–48 h. Positive cultures were inspected for growth
+characteristics and Gram staining was performed. Biochemical
+tests, such as the oxidase test, lysine and ornithine decarboxylase
+test, hydrogen sulﬁde, indole production, Vogues Proskauer
+(VP), urease, phenylalanine deaminase, citrate utilization, sugar
+fermentation from glucose and gas production, adonitol, lactose,
+arabinose, sorbitol, and dulcitol fermentation, were performed
+on colonies from primary cultures for the ﬁnal identiﬁcation of
+the isolates.
+Antimicrobial susceptibility of the isolated
+bacteria
+Antimicrobial susceptibility testing was performed on Muller-
+Hinton agar (Oxoid Ltd, UK) using Modiﬁed Kirby-Bauer
+disc diﬀusion. Pure bacterial colonies were resuspended in 3–
+4 ml of saline solution until reaching a turbidity equivalent
+to 0.5 McFarland. This bacterial suspension was inoculated
+onto Mueller-Hinton agar plates using cotton swabs (Weinstein,
+2021). The following antibacterial agents were selected based
+on local prescription habits and CLSI recommendations. The
+standard antibiotic disks (Thermo Fisher Scientiﬁc, USA) and
+their concentrations were as follows: Gentamicin GEN 10
+µg, Chloramphenicol CHO 30 µg, Ciproﬂoxacin CIP 5 µg,
+FIGURE 1
+Flow chart for identiﬁcation, AST, ESBL detection, and
+carbapenemase formation test for isolated bacterial at Hospitals in
+Southern Ethiopia, from Jun 1, 2022 to August 30, 2022.
+Amoxicillin-clavulanic acid AUG (25+30) µg), Meropenem MER
+10 µg, Cefepime CEF 30 µg, Ceftazidime CAZ 30 µg, ceftriaxone
+CRO 30 µg, and Ceﬁxime CFM 5 µg. The diameter of the
+inhibition zone around the disc was measured with a ruler in
+millimeters and interpreted as sensitive, intermediate and resistant
+according to Clinical Laboratory Standards Institute (Weinstein,
+2021; Carvalhaes et al., 2009).
+Detection of ESBL-producing
+Enterobacteriaceae
+Double-disc synergy test method
+Disks containing ceftazidime were applied next to those
+containing clavulanic acid and amoxicillin. Positive results
+were obtained when the inhibition zones around any of the
+cephalosporin disks was enlarged in the direction of the disc
+containing the clavulanic acid. The distance between the disks is
+critical and a 20 mm center-to-center has been found to be optimal
+for cephalosporin 30 µg disks (Weinstein, 2021).
+Methods for conﬁrmation of
+carbapenemase-producing
+Enterobacteriaceae
+Modiﬁed Hodge test
+The Modiﬁed Hodge Test (MHT) is a simple phenotypic
+test and has been suggested as a method used for screening
+Frontiers in Microbiology
+04
+frontiersin.org
+
+
+===== PAGE 5 =====
+
+Odoko et al.
+10.3389/fmicb.2024.1417425
+carbapenemases in bacteria. It is based on the inactivation of
+carbapenem by carbapenemase-producing strains, that is, test
+isolates that enable a carbapenem-susceptible indicator strain E. coli
+ATCC 25922 to extend growth toward a carbapenem-containing
+disc along with the streak of the inoculum of the test strain. A
+positive test result indicated a clover leaf-like indentation (Cury
+et al., 2012; Date, 2018; Pierce et al., 2017; Reumert et al., 2003;
+Giske and Cantón, 2013).
+Enterobacteriaceae suspected to be producers of carbapenemase
+were conﬁrmed 10 µg meropenem disc (MRP) and by evaluating
+the synergistic eﬀects when combined with the following inhibitors:
+phenylboronic acid, DPA/EDTA and Cloxacilline (Giske et al.,
+2011; Tsakris et al., 2010). The inhibition zone around the
+meropenem disc combined with the inhibitor was compared with
+the zone around the disc (Alebel et al., 2021).
+Laboratory quality assurance
+The sample quality was examined and handled in accordance
+with each hospital’s quality control protocols. Using sterile cotton,
+skilled staﬀnurses aseptically removed pus swabs representative
+of the infected tissue from the aﬀected area. The pus swabs were
+then cleaned with an antiseptic solution. As soon as possible,
+the gathered specimens were moved to the Sodo Christian
+General Hospital Microbiology Laboratory, and the specimens
+that were delayed were put in the Amies transport medium.
+Standard operating procedures were followed when performing
+laboratory analyses (SOPs). In order to conﬁrm the sterility of
+the culture media, 5% of the prepared media were incubated
+overnight before being inoculated with the standard reference
+strains of E. coli (ATCC 700682) used to check of ESBLs (ATCC
+25922), used as negative control of ESBLs, K. pneumoniae (ATCC
+13883 and Klebsiella quasipneumoniae formerly known as K.
+pneumoniae (ATCC 700603) were used for the positive and
+negative control, respectively.
+Data processing, analysis, and
+interpretation
+Data were entered, checked, cleaned, coded for completeness
+in Epi 4.6.0.2, and imported into the Statistical Package for
+Social Sciences (SPSS) software version 25 for analysis. Descriptive
+statistics were computed, summarized, and presented using graphs
+and tables. Binary logistic regression was used to examine
+the relationship between dependent and independent variables.
+Statistical signiﬁcance was set at P < 0.05.
+Results
+The study participants’ socio-demographic
+characteristics
+With a 100% response rate, 422 patients across all age groups
+who had a suspicion of SSI were included in this study found in
+TABLE 1 Socio-demographic characteristics of patients with suspicion of
+SSI at Hospitals in Southern Ethiopia, from Jun 1, 2022 to August 30, 2022
+(n = 422).
+Variables
+Frequency
+Percent
+(%)
+Sex
+Male
+187
+44.3
+Female
+235
+55.7
+Age group
+<18
+7
+1.7
+18–30
+55
+13.0
+31–44
+224
+53.1
+45–59
+96
+22.7
+60–75
+29
+6.9
+>75
+11
+2.6
+Residence
+Rural
+119
+28.2
+Urban
+303
+71.8
+Marital status
+Single
+133
+31.5
+Married
+289
+68.5
+Educational
+status
+Illiterate
+59
+14.0
+Read and write
+82
+19.4
+Primary education
+66
+15.6
+High school
+131
+31.1
+Diploma and above
+84
+19.9
+Occupational
+Farmer
+39
+9.2
+Governmental
+employee
+69
+16.4
+Student
+123
+52.1
+Daily labor
+56
+13.2
+House wife
+104
+91.0
+Merchant
+31
+98.3
+Table 1. Two-hundred and thirty-ﬁve (55.7%) of the study groups’
+members were female. With an age range of 5–96 years, the
+participants with the highest number, 224 (53.1%), were between
+the ages of 31 and 44. The majority of participants, or 303
+(71.8%), were from urban areas; 123 (52.1%) were students, 69
+(16.4%) were government workers, 31 (98.3%) were merchants,
+84 (19.9%) were college graduates or above, and 277 (67.1%)
+were married.
+Clinical and medical status of the study
+participants
+A total of 422 participants were admitted to the study. Of
+these, 221 (52.4%) were from the orthopedics ward, 112 (26.5%)
+from the surgery ward, and 89 (21.1%) from the Obstetrics and
+Gynecology Unit. A signiﬁcant percentage of the participants
+(44.3%) had clean wounds. The largest number of days spent in the
+Frontiers in Microbiology
+05
+frontiersin.org
+
+
+===== PAGE 6 =====
+
+Odoko et al.
+10.3389/fmicb.2024.1417425
+TABLE 2 Clinical and medical status among patients with suspicion of SSI
+at Hospitals in Southern Ethiopia, from Jun 1, 2022 to August 30, 2022 (n
+= 422).
+Variables
+Frequency
+Percent
+(%)
+Surgical site wards
+Orthopedic
+221
+52.4%
+Surgical
+112
+26.5%
+Gynecology
+and obstetrics
+89
+21.1%
+Wound types
+Non-contaminated
+187
+44.3%
+Clean-
+contaminated
+123
+29.1%
+Contaminated
+54
+12.8%
+Infected
+58
+13.7%
+Chronic liver
+disease
+Yes
+2
+0.5%
+No
+420
+99.5%
+Heart failure
+Yes
+5
+1.2%
+No
+417
+98.8%
+Diabetes
+Yes
+27
+6.4%
+No
+395
+93.6%
+HIV/AIDS
+Yes
+11
+2.6%
+No
+411
+97.4%
+Immunosuppressive
+(long term steroid)
+Yes
+28
+6.6%
+No
+394
+93.4%
+Travel history to
+abroad
+Yes
+14
+3.3%
+No
+408
+96.7%
+Length of medical
+stay in hospital
+1–7 days
+137
+32.5
+8–14 days
+147
+34.8
+>15 days
+138
+32.7
+hospital was 8–14 days (34.8%), and there were 27 (6.4%) diabetics
+overall (Table 2).
+Distribution of Enterobacterales isolates
+among patients suspected for surgical site
+infection
+Four hundred and twenty-two wound swabs in total were
+used to cultivate Enterobacterales (family Enterobacteriaceae and
+Morganellaceae). One hundred out of the suspects exhibited
+both Enterobacteriaceae and Morganellaceae growth. Signiﬁcant
+Enterobacterales infections were present in 23.7% (100/422) of
+patients suspected of having surgical site infections. From the total
+isolates, 69 (69%) strains belong to the family Enterobacteriaceae
+includes E. coli 29 (29%), followed by K. pneumoniae 14 (14%), was
+the most common isolate. And also, 31(31%) strains considered to
+be the family Morganellaceae (M. morganii, Providence spp., and P.
+mirabilis) were isolated (Table 3).
+TABLE 3 Identiﬁed Enterobacterales isolates among patients suspected
+for surgical site infection at Hospitals in Southern Ethiopia, from Jun 1,
+2022 to August 30, 2022 (n = 100).
+Bacterial isolates
+Percent (%)
+E. coli
+29
+K. pneumonia
+14
+K. oxytoca
+8
+E. clocae
+6
+C. freundii
+4
+M. morganii
+10
+P. mirabilis
+10
+Providencia spp.
+11
+E. aerogenes
+8
+Total
+100
+Antimicrobial susceptibility pattern of
+extended-spectrum β-lactamase and
+carbapenemase producing
+Enterobacterales
+In present study (Table 4), the higher resistance rate to
+cefepime
+reported
+by
+the
+majority
+of
+Enterobacteriaceae
+isolates (91.8%), ceftriaxone (95.1%), ceftazidime (91.8%), and
+amoxicillin-clavulanic acid (98.4%). However, Enterobacteriaceae
+isolates showed relatively high sensitivity to Meropenem 44
+(72.1%). On the other hand, high percentages of resistance
+were obtained, gentamicin: 39 (63.9%) and ciproﬂoxacin: 43
+(70.5%), respectively. The isolates of K. pneumoniae is resistant
+to cefepime, Ceftriaxone, Ceftazidime, Amoxicillin-clavulanic
+acid, Gentamicin, ciproﬂoxacin and meropenem; 14 (100%), 14
+(100%), 14 (100%), 14 (100%), 12 (85.7%), 11 (78.6%), and 9
+(64.3%), respectively. And also, isolates of C. freundii resistant
+to cefepime, ceftriaxone, ceftazidime, amoxicillin-clavulanic acid
+was 4 (100%) by each, and gentamicin and chloramphenicol
+was 3 (75%) by each, similarly, the resistance of E.coli species to
+cefepime, Ceftriaxone, Ceftazidime, Amoxicillin-clavulanic acid
+and ciproﬂoxacin, 26 (90%), 27 (93.2%), 26 (90%), 28 (96.6%),
+and 22 (75.9%), respectively. On the other hand, sensitivity
+rates for chloramphenicol 7(87.5%) and meropenem 6(75%)
+were highest for K.oxytoca. The susceptibility patterns of K.
+pneumoniae to gentamicin was 2(14.4%), ciproﬂoxacin 3 (21.4%),
+chloramphenicol 6 (42.8%), and meropenem 5 (35.7%) that
+was <50%.
+Prevalence of extended-spectrum
+β-lactamase and carbapenemase
+producing Enterobacterales
+From wound swabs, 100 and 61 diﬀerent Enterobacterales and
+Enterobacteriaceae were identiﬁed, respectively. Forty-six (66.6%),
+out of the 69 Enterobacteriaceae isolates had their ESBL production
+Frontiers in Microbiology
+06
+frontiersin.org
+
+
+===== PAGE 7 =====
+
+Odoko et al.
+10.3389/fmicb.2024.1417425
+TABLE 4 Antimicrobial susceptibility pattern of extended-spectrum β-lactamase and carbapenemase producing Enterobacterales isolates (n = 100)
+among surgical site infection at Hospitals in Southern Ethiopia, from Jun 1, 2022 to August 30, 2022 (n = 100).
+Enterobacterales
+isolated
+Antimicrobials tested for Enterobacteriaceae isolates
+CEP
+CRO
+CAZ
+AMC
+CIP
+GEN
+CHL
+MEM
+K. pneumoniae (n = 14)
+S
+0 (0%)
+0 (0%)
+0 (0%)
+0 (0%)
+3 (21.4%)
+2 (14.3%)
+6 (42.8%)
+5 (35.7%)
+R
+14 (100%)
+14 (100%)
+14 (100%)
+14 (100%)
+11 (78.6%)
+12 (85.7%)
+8 (57.2%)
+9 (64.3%)
+E. coli (n = 29)
+S
+3 (10%)
+2 (6.8%)
+3 (10.3%)
+1 (3.4%)
+7 (24.1%)
+16 (55.2%)
+21 (72.4%)
+25 (86.2%)
+R
+26 (90%)
+27 (93.2%)
+26 (89.7%)
+28 (96.6%)
+22 (75.9%)
+13 (44.8%)
+8 (27.6%)
+4 (13.8%)
+K. oxytoca (n = 8)
+S
+1 (12.5%)
+1 (12.5%)
+1 (12.5%)
+0 (0%)
+3 (37.5%)
+1 (12.5%)
+7 (87.5%)
+6 (75%)
+R
+7 (87.5%)
+7 (87.5%)
+7 (87.5%)
+8 (100%)
+5 (62.5%)
+7 (87.5%)
+1 (12.5%)
+2 (25%)
+E. clocae (n = 6)
+S
+1 (16.7%)
+0 (0%)
+1 (16.7%)
+0 (0%)
+3 (50%)
+2 (33.3%)
+3 (50%)
+6 (100%)
+R
+5 (83.3%)
+6 (100%)
+5 (83.3%)
+6 (100%)
+3 (50%)
+4 (66.7%)
+3 (50%)
+0 (0%)
+C. freundii (n = 4)
+S
+0 (0%)
+0 (0%)
+0 (0%)
+0 (0%)
+2 (50%)
+1 (25%)
+1 (25%)
+2 (50%)
+R
+4 (100%)
+4 (100%)
+4 (100%)
+4 (100%)
+2 (50%)
+3 (75%)
+3 (75%)
+2 (50%)
+M. morganii (n=10)
+S
+_
+_
+_
+_
+_
+_
+_
+_
+R
+_
+_
+_
+_
+_
+_
+_
+_
+P. mirabilis (n = 10)
+S
+_
+_
+_
+_
+_
+_
+_
+_
+R
+_
+_
+_
+_
+_
+_
+_
+_
+Providencia spp. (n =
+11)
+S
+_
+_
+_
+_
+_
+_
+_
+_
+R
+_
+_
+_
+_
+_
+_
+_
+_
+E. aerogenes (n = 8)
+S
+_
+_
+_
+_
+_
+_
+_
+_
+R
+_
+_
+_
+_
+_
+_
+_
+_
+Total (100)
+S
+5 (8.2%)
+3 (4.9%)
+5 (8.2%)
+1 (1.6%)
+18 (29.5%)
+22 (36.1%)
+38 (62.3%)
+44 (72.1%)
+R
+56 (91.8%)
+58 (95.1%)
+56 (91.8%)
+60 (98.4%)
+43 (70.5%)
+39 (63.9%)
+23 (37.7%)
+17 (27.9%)
+R, Resistant; S, Sensitive, CEP, Cefepime, CRO, Ceftriaxone, CAZ, Ceftazidime, AMC, Amoxicillin-clavulanic acid; CIP, Ciproﬂoxacin; GEN, Gentamicin; MEM, Meropenem; CHL,
+Chloramphenicol; (_), not tested.
+conﬁrmed phenotypically. From all isolates of Enterobacteriaceae
+that were suspected producing ESBLs, three Enterobacteriaceae
+isolates were ESBLs tested positive: E. coli (54.35%, n = 25/46),
+K. pneumoniae (15.2%, n = 7/46), K. oxytoca (13.04%, n = 6/46),
+C. freundii (4.35%, n = 2/46), E.clocae (13.04%, n = 6/46), and E.
+aerogenes (0%, n = 0/46). The proportion of ESBL Enterobacterales
+isolates overall was 46% (46/100; Figure 2).
+Carbapenemase
+production
+was
+tested
+against
+all
+Enterobacterales, regardless of the ESBL results, and 21.7 %
+(15/69) isolates had carbapenemase production conﬁrmed. Among
+tested isolates resistant to carbapenem, K. pneumoniae; 7/15
+(46.7%), E. coli; 4/15 (26.7%), K. oxytoca; 2/15 (13.3%), and C.
+freundii; 2/15 (13.3%) were the most common Enterobacteriaceae.
+The overall proportion of Enterobacterales isolates that producing
+carbapenemase were 15% (15/100) (Figure 3).
+Class carbapenemase producing
+Enterobacterales
+Out of ﬁfteen distinct Enterobacterales isolates that were
+thoroughly examined and were thought to be non-repeats, seven
+(K. pneumoniae), four (E. coli), two (C. freundii), and two (K.
+oxytoca) tested positive for carbapenemase production. Speciﬁcally,
+carbapenemases were not detected in 80% of the carbapenem-
+resistant strains. In this group, AmpC plus porin loss was detected.
+Only in 3 strains were these enzymes detected (2 NDM and 1 KPC).
+AmpC plus porin loss 12 (80%), KPC plus MBL 1 (6.7%), and MBL
+2 (13.3%) were the results of the isolates.
+Multidrug-resistant pattern of
+extended-spectrum β-lactamase and
+carbapenemase producing
+Enterobacterales
+The total Enterobacterales isolated from patients suspected
+for surgical site infections, MDR rate were 25/61 (41%) found
+in Table 5. Approximately 41.0% of Enterobacterales isolates
+were MDR, 47.5% XDR, and 4.9% PDR isolates. Among the
+Enterobacterales isolates, E. coli (48.3% MDR, 37.9% XDR, and
+3.4% PDR), K. pneumoniae (21.4% MDR, 71.4% XDR, and 7.1%
+of PDR), K.oxytoca (37.5% MDR, 50% XDR, and 12.5% PDR), E.
+clocae (66.7% MDR, 16.7% XDR), and C. freundii (25% MDR, 75%
+XDR) were developed multidrug resistant.
+Frontiers in Microbiology
+07
+frontiersin.org
+
+
+===== PAGE 8 =====
+
+Odoko et al.
+10.3389/fmicb.2024.1417425
+FIGURE 2
+Enterobacteriaceae bacterial isolates producing extended-spectrum β-lactamase among patients suspected for surgical site infection at Hospitals in
+Southern Ethiopia, from Jun 1, 2022 to August 30, 2022 (N = 422).
+FIGURE 3
+Enterobacteriaceae bacterial isolates producing carbapenemase among patients suspected for surgical site infection at Hospitals in Southern
+Ethiopia, from Jun 1, 2022 to August 30, 2022 (N = 422).
+Factors association with extended-spectrum
+β-lactamase and carbapenemase producing
+Enterobacteriaceae among patients suspected for
+surgical site infection
+Four variables with p-values < 0.25 in univariate analysis
+suggested using the multivariate model. Age ranges of 31–44 and
+45–96 years, respectively, had AORs of 1.51 and 2.88 and 0.92
+and 0.45–1.85, 95% conﬁdence intervals. Individuals admitted
+to the orthopedic and surgical wards had AORs of 1.15 and
+0.64–2.05 and 1.94 and 95% CI: 1.04–3.65, respectively, and
+their length of hospital stay were 8.14 days for the former
+and >15 days for the latter (AOR = 3.81 and 95% CI: 2.08–
+6.95). Candidates for multivariate logistic regression analysis were
+patients with diabetes and those without (AOR = 1.91 and 95%
+Frontiers in Microbiology
+08
+frontiersin.org
+
+
+===== PAGE 9 =====
+
+Odoko et al.
+10.3389/fmicb.2024.1417425
+TABLE 5 Multidrug-resistant pattern of extended-spectrum β-lactamase and carbapenemase producing Enterobacteriaceae isolates among surgical site
+infection at Hospitals in Southern Ethiopia, from Jun 1, 2022 to August 30, 2022 (n = 61).
+Enterobacterales isolates
+MultiS
+MoDR
+MDR
+XDR
+PDR
+K. pneumoniae (n = 14)
+0 (0.0%)
+0 (0.0%)
+3 (21.4%)
+10 (71.4%)
+1 (7.1%)
+E. coli (n = 29)
+0 (0.0%)
+0 (0.0%)
+14 (48.3%)
+11 (37.9%)
+1 (3.4%)
+K. oxytoca (n = 6)
+0 (0.0%)
+0 (0.0%)
+3 (37.5%)
+4 (50.0%)
+1 (12.5%)
+E. clocae (n = 6)
+0 (0.0%)
+0 (0.0%)
+4 (66.7%)
+1 (16.7%)
+0 (0.0%)
+C. freundii (n = 4)
+0 (0.0%)
+0 (0.0%)
+1 (25.0%)
+3 (75.0%)
+0 (0.0%)
+Total (61)
+0 (0.0%)
+0 (0.0%)
+25 (41.0%)
+29 (47.5%)
+3 (4.9%)
+MultiS, susceptible to all antibiotic classes; MoDR, resistant to a single antibiotic class; MDR, resistant to at least one agent in three or more antimicrobial categories; XDR, resistant to at least
+one agent in all but two or fewer antimicrobial categories (i.e., bacterial isolates remain susceptible to only one or two categories); PDR, resistant to all antibiotic classes.
+CI: 0.77–4.76), respectively. A similar independent association
+between the candidate variables and surgical site infection caused
+by Enterobacteriaceae that produce ESBLs and CPEs was further
+evaluated at a cutoﬀpoint of P-value < 0.05 in multivariable logistic
+regression analysis. Out of all of them, the multivariate logistic
+regression analysis revealed a signiﬁcant association with only the
+length of hospital stay being independently associated. Length of
+medical stay in hospital AOR = 3.81 (95% CI 2.08–6.95) was
+found to be a statistically signiﬁcant factor in surgical site infection
+caused by Enterobacteriaceae that produce CPE and ESBL in the
+multivariable analysis. Due to Enterobacteriaceae that produce CPE
+and ESBL, patients hospitalized for 8–14 days had a 6-fold higher
+risk of surgical site infection than patients who stayed for >15 days;
+the other variables were not signiﬁcantly associated with this risk.
+Discussion
+The main aim of this study was to address three key
+objectives.
+All
+these
+objectives
+determined
+the
+prevalence,
+antibiotic susceptibility patterns, and factors associated with
+Extended-spectrum β-lactamase and carbapenemase-producing
+Enterobacteriaceae
+among
+patients
+suspected
+with
+surgical
+site infection.
+In the present study, the total prevalence of Enterobacteriaceae
+growth among surgical site infections was 23.7%. This ﬁnding
+is consistent with the previous reports in Addis Ababa, Ethiopia
+(25.13%) (Beyene et al., 2019), Bahir Dar, Ethiopia (24.8%) (Alebel
+et al., 2021), France (25%) (Baron et al., 2013), Nepal (28.2%)
+(Kayastha et al., 2020), Qatar (26%) (Sid Ahmed et al., 2016), and
+India (21.4%) (Gupta et al., 2016). However, this was lower than the
+research conducted in Debra Markos, Ethiopia (72.6%) (Shimekaw
+et al., 2022), Gondar (83.9%) (Mohammed et al., 2017), Jimma
+(87.3%) (Mama et al., 2014), Addis Ababa (84.1%) (Beyene et al.,
+2019), Nigeria (64.8%) (Egbe et al., 2011), India (68 %) (Vasundhara
+et al., 2017), and Nepal (65%) (Rijal et al., 2017) and higher than the
+study done in Mexico (19%) (Uc-Cachón et al., 2019), India (19.5%)
+(Singh et al., 2016), and Nepal (12.6%) (Kayastha et al., 2020). These
+variations among diﬀerent studies could be due to variations in the
+study population, bad or good antibiotic stewardship policies, level
+of wound care, and specimen type.
+In the present study, the prevalence of ESBL-producing
+Enterobacterales
+was
+46%,
+which
+is
+in
+line
+with
+the
+institution-based
+based
+cross-sectional
+study
+conducted
+in
+Algeria (47.6%) (Nedjai et al., 2013), and Philippines (43%) (Bell
+et al., 2003). However, it was higher than that reported in Bahir
+Dar Ethiopia 24.8% (Alebel et al., 2021), India 35.2%(Oberoi
+et al., 2013), France (25%) (Baron et al., 2013), Nepal (28.2%)
+(Kayastha et al., 2020), Qatar (26%) (Sid Ahmed et al., 2016), and
+India (21.4%) (Gupta et al., 2016). In some of this study since
+compared to the aforementioned studies or for ESBL-producing
+Enterobacteriaceae, colistin was an alternative treatment only in
+the study area, however carbapenemase are not used as treatment
+(Katip et al., 2021).
+In this study among Enterobacteriaceae, E. coli 29/100 (29.0%)
+was the predominant isolate associated with surgical site infection,
+followed by K. pneumoniae 14/100 (14%), K. oxytoca 8/100(8%),
+E. clocae 6/100 (6%) and C. freundii 4/100 (4%). This is supported
+by various ﬁndings in Africa, Uganda, Algeria, Brazil (Iabadene
+et al., 2008; Andrew et al., 2017; Ibrahim et al., 2013; Pollack
+and Srinivasan, 2014) and Mexico (Uc-Cachón et al., 2019). These
+ﬁndings revealed that Enterobacteriaceae isolates were the most
+common hospital-acquired infections.
+In our study, the prevalence of carbapenemase producing
+Enterobacteriaceae isolates was 15%, which agreed with the
+research conducted in Taiwan, (15.4%) (Chang et al., 2015)
+Indonesia (13.7%) (Saharman and Lestari, 2013). This ﬁnding is
+higher than that study conducted in Bahir Dar, Ethiopia (5.2%)
+(Alebel et al., 2021), Addis Ababa Ethiopia (2%) (Beyene et al.,
+2019), and CDC reports from (2001) (1.2%) and 2011 (4.2%)
+(Ramana et al., 2013); however, our ﬁndings were lower than those
+reported in Nigeria (36%) (Pollack and Srinivasan, 2014), India
+(34.5%) (Oberoi et al., 2013), and 44.1% (Makharita et al., 2020).
+This may be attributed to the rapid expansion of CPE-producing
+organisms or misuse of antibiotics.
+The
+most
+common
+carbapenemase
+producing
+Enterobacteriaceae isolates in our study were K. pneumoniae
+(46.7 %), followed by E. coli (26.7%) and K. oxytoca (13.3%).
+A similar ﬁnding in Nigeria E. coli 15.4% and K. pneumoniae
+40.9% (Pollack and Srinivasan, 2014), and Tanzania E. coli
+(14%), followed by K. pneumoniae (10.57%) are carbapenemase-
+producing Enterobacteriaceae (Mushi et al., 2014). In this study,
+the most common carbapenemases were MBL 2 (13.3%), KPC
+plus MBL 1 (6.7%) and on the other side, AmpC plus porin loss
+12 (80%). These ﬁndings are in line those study conducted on
+USA isolates produced KPC 36 (28%), MBL 31 (24.2%), KPC
+plus MBL 4 (3.1%), ESBL 19 (14.8), AmpC 10 (7.8%) (van Dijk
+et al., 2014). A similar study in India showed MBL producers
+Frontiers in Microbiology
+09
+frontiersin.org
+
+
+===== PAGE 10 =====
+
+Odoko et al.
+10.3389/fmicb.2024.1417425
+were 10.98% similar to this study (Kumar et al., 2012), while
+AmpC production was observed in 5.4% (Oberoi et al., 2013),
+which is much less than our ﬁndings. This shows that in our
+study, plasmid and transposon-mediated gene transfer was more
+common in our isolates than in the Indian study. This is may
+be due to variation of geographical location and use of sample
+size amount. The coexistence of diﬀerent classes of β-lactamases
+in a single bacterial isolate may pose diagnostic and treatment
+challenges, although high-level expression of AmpC β-lactamases
+may mask the recognition of ESBLs, which may result in more
+diﬃcult antimicrobial therapy (Oberoi et al., 2013).
+The current study showed that Enterobacteriaceae had higher
+antibiotic resistance rates of for cefepime (91.8%), ceftriaxone
+(95.1%), ceftazidime (91.8%), and amoxicillin-clavulanic acid
+(98.4%). However, Enterobacteriaceae isolates showed relatively
+high sensitivity to Meropenem 44 (72.1%). On the other hand,
+high percentages of resistance were obtained, gentamicin: 39
+(63.9%) and ciproﬂoxacin: 43 (70.5%), respectively. This ﬁnding is
+consistent with that study conducted in Nepal on cefepime (86.2%),
+ceftriaxone (100%), and ceftazidime (100%) were resistance
+(Beyene et al., 2019). Similarly to studies conducted in Ethiopia,
+amoxicillin/clavulanic acid 75% and cefotaxime (73.7%) were
+found to be resistant to Enterobacteriaceae isolates (Dessie et al.,
+2016).
+In the current study, MDR rate of Enterobacteriaceae isolates
+was 41% (showing resistance to at least one agent in ≥3
+antimicrobial categories) among patients suspected of surgical site
+infection, 47.5% (showing resistance at least to one agent in all but
+two or fewer antimicrobial categories) XDR, and 4.9% (showing
+resistance to all agents in all antimicrobial categories) PDR were
+resistant, respectively. Among the Enterobacteriaceae isolates, E.
+coli, 48.3% MDR, 37.9% XDR, 3.4% PDR, K. pneumoniae 21.4%
+MDR, 71.4% XDR, 7.1% of PDR, K. oxytoca 37.5% MDR, 50%
+XDR, 12.5% PDR, E. clocae 66.7% MDR, 16.7% XDR, C. freundii
+25% MDR, 75% XDR were developed resistance, while the study
+in Jimma, Ethiopia showed MDR 30.16%, XDR 41.27%, and
+PDR 19.0% were found (Mama et al., 2014; Gashaw et al.,
+2018), there are few previous reports from Ethiopia on XDR and
+PDR Enterobacteriaceae to compare with this ﬁnding, which has
+been associated with lack of AMR surveillance and stewardship
+programs at WSUCSH and SCGH and also in southern Ethiopia.
+Factors associated with surgical site infection with ESBL
+and CPE-producing Enterobacteriaceae included indicators of
+contact with the health care system (length of hospital stay,
+immunosuppressive drug (long-term steroid; Livermore et al.,
+2011), patient admitted wards, educational level, and the presence
+of comorbidities). Four variables of associated factors were
+independently predictive of ESBL positivity as showed P-value
+of < 0.25 by univariate analysis: age in group 31–45 years,
+immunosuppressive drug use (long-term steroid), length of
+hospital stay, and diabetes. Among them, only the length of hospital
+stay was independently associated with the multivariate logistic
+regression analysis, which showed a signiﬁcant association. This
+study was supported by a previous study conducted in Israel
+(Mendelson et al., 2005). The increased odds of our ﬁnding was
+that the presence of predisposing conditions such as surgical
+intervention was signiﬁcantly associated with ESBL producers (P <
+0.05) compared with a short length of hospital stay, which is similar
+to a study conducted in Debra Markos, Ethiopia (Alebel et al.,
+2021). In this study, the remaining variables were not signiﬁcantly
+associated with surgical site infections caused by ESBL-producing
+Enterobacteriaceae (P >0.05; Table 6).
+Strength and limitation of the study
+This
+study
+has
+several
+advantages.
+It
+provides
+useful
+information about the prevalence and antimicrobial susceptibility
+trends of potentially pathogenic Enterobacteriaceae in hospital
+settings, especially in SSI cases. This study also found the
+presence of multidrug-resistant bacteria, including ESBLs and
+carbapenemase-producing strains, which are extremely dangerous
+in healthcare settings. Drug susceptibility testing for nine
+antibiotics including extended-spectrum cephalosporins; 3rd and
+4th generation cephalosporins, carbapenemase plus combination
+disks like Meropenem 10 µg, Meropenem+Phenolboroic acid,
+Meropenem+Dipicolonic acid, Meropenem +Cloxacillin, and
+Temocillin 30 µg was tested. This study had a drawback, although
+it was conducted in a two hospital, which might not be an
+accurate representation of other hospitals in the country level.
+Anaerobic and slow-growing bacteria were not considered
+in this study. Ultimately, the results of the study were a low
+number of Enterobacteriaceae isolates, which resulted in a low
+number of ESBL and CPE that might have aﬀected the ﬁndings
+of the risk factors. Additionally, the study was limited by the
+available resources and time frame for research that makes
+identiﬁcation of ESBL- and carbapenemase-producing strains
+by phenotypically only even if it is recommended to perform
+detection by molecular biology techniques for identiﬁcation of
+ESBL- and carbapenemase-producing strains.
+Conclusion and recommendation
+Enterobacteriaceae were present in all SSIs at a rate of 23.7%
+(100/422). E. coli predominated, followed by K. pneumoniae,
+with a total prevalence of 46% for ESBL and 15% for CPE. It
+was concerning to see the high rates of MDR and XDR ESBL
+and carbapenem resistance. According to the study’s ﬁndings,
+a hospital stay’s duration signiﬁcantly aﬀects the risk of site
+infection. When making decisions about the high prevalence of
+MDR Enterobacteriaceae in relation to antibiotics like cefepime,
+ceftriaxone, ceftazidime, and amoxicillin-clavulanic acid, empirical
+treatment should be taken into account. On the other hand,
+thorough instruction, referral, and standard hospital procedures
+help avoid or manage surgical site infections. When choosing
+the optimal antimicrobial agents for patients with infections
+caused by ESBL Enterobacteriaceae and CRE in southern Ethiopia,
+physicians can make informed decisions about public health thanks
+to the documented data presented in this study. Therefore, in
+order to address this public health issue, stakeholders involved
+in Ethiopia’s health system must work cooperatively. And also,
+appropriate antibiotic prescribing practices and avoidance of
+broad spectrum antibiotics can prevent long-term emergence of
+resistance. Additionally, more investigation is required to fully
+understand the implications of Enterobacteriaceae that produce
+Frontiers in Microbiology
+10
+frontiersin.org
+
+
+===== PAGE 11 =====
+
+Odoko et al.
+10.3389/fmicb.2024.1417425
+TABLE 6 Bivariate and multivariate logistic regression analysis on socio demographic and clinical condition of the patients suspected for surgical site
+infection at Hospitals in Southern Ethiopia, from Jun 1, 2022 to August 30, 2022 (n = 422).
+Variables
+Categories
+Conﬁrmed surgical site
+infection due to ESB
+producing Enterobacteriaceae
+Bivariate
+Multivariate logistic
+regression
+Yes N (%)
+No N (%)
+COR
+(95% CI)
+P-value
+AOR
+(95% CI)
+P-value
+Age in years
+5–30
+16 (25.8)
+46 (74.2)
+1.00
+1.00
+1.00
+1.00
+31–44
+72 (32.1)
+152 (67.9)
+1.36
+(0.72,2.57)
+0.120
+1.51
+(0.79,2.88)
+0.34
+45–96
+31 (22.8)
+105 (77.2)
+0.85
+(0.42,1.70)
+0.061
+0.92
+(0.45,1.85)
+0.050
+Wards
+Orthopedic
+56 (25.3)
+165 (74.7)
+1.03
+(0.59,1.82)
+0.048
+1.15
+(0.64,2.05)
+0.070
+Surgical
+41 (36.6)
+71 (63.4)
+1.76
+(0.95,3.26)
+0.095
+1.94
+(1.04,3.65)
+0.105
+Obis/Gyn
+22 (24.7)
+67 (75.3)
+1.00
+1.00
+1.00
+1.00
+Length of medical
+stay in hospital
+1–7 days
+24 (17.5)
+113 (82.5)
+1.00
+1.00
+1.00
+1.00
+8–14 day
+57 (38.8)
+90 (61.2)
+1.67
+(1.01,2.75)
+0.001
+3.81
+(2.08,6.95)∗
+0.010
+>15 days
+38 (27.5)
+100 (72.5)
+1.79
+(1.01,3.19)
+0.045
+1.83
+(1.01,3.34)
+0.047
+Diabetics
+Yes
+13 (48.1)
+14 (51.9)
+2.53
+(1.15,5.56)
+0.020
+1.91
+(0.77,4.76)
+0.163
+No
+106 (26.8)
+289 (73.2)
+1.00
+1.00
+1.00
+1.00
+1.00, Reference, COR, crude odds ratio; AOR, adjusted odds ratio; CI, Conﬁdence Interval; Oby/Gyn, Obstetrics and Gynecology.
+∗Statistical signiﬁcance was set at P-value < 0.05.
+CPE and ESBL and their eﬀects on patients who may be at risk for
+surgical site infections in diﬀerent hospital with diﬀerent level.
+Data availability statement
+The datasets presented in this study can be found in
+online repositories. The names of the repository/repositories
+and
+accession
+number(s)
+can
+be
+found
+in
+the
+article/supplementary material.
+Ethics statement
+The studies involving humans were approved by Ethical
+Review Committee (ERC) of the College of Health Science
+and Medicine, Wolaita Sodo University. The studies were
+conducted in accordance with the local legislation and institutional
+requirements. Written informed consent for participation in this
+study was provided by the participants’ legal guardians/next of kin.
+Author contributions
+DO:
+Conceptualization,
+Data
+curation,
+Formal
+analysis,
+Funding
+acquisition,
+Investigation,
+Methodology,
+Project
+administration, Resources, Software, Supervision, Validation,
+Visualization, Writing – original draft, Writing – review & editing.
+AK: Conceptualization, Data curation, Formal analysis, Funding
+acquisition, Investigation, Methodology, Project administration,
+Resources,
+Software,
+Supervision,
+Validation,
+Visualization,
+Writing – original draft, Writing – review & editing. GA:
+Conceptualization, Data curation, Formal analysis, Funding
+acquisition, Investigation, Methodology, Project administration,
+Resources,
+Software,
+Supervision,
+Validation,
+Visualization,
+Writing – review & editing. TD: Conceptualization, Data
+curation, Formal analysis, Funding acquisition, Investigation,
+Methodology,
+Project
+administration,
+Resources,
+Software,
+Supervision, Validation, Visualization, Writing – review & editing.
+TM: Conceptualization, Data curation, Formal analysis, Funding
+acquisition, Investigation, Methodology, Project administration,
+Resources,
+Software,
+Supervision,
+Validation,
+Visualization,
+Writing – review & editing. MT: Conceptualization, Data curation,
+Formal analysis, Funding acquisition, Investigation, Methodology,
+Project
+administration,
+Resources,
+Software,
+Supervision,
+Validation, Visualization, Writing – review & editing.
+Funding
+The author(s) declare that no ﬁnancial support was received for
+the research, authorship, and/or publication of this article.
+Acknowledgments
+We thank Wolaita Sodo University Specialized Hospital and
+Sodo Christian General Hospital for providing permission to
+conduct the study. We would also like to thanks Ethiopian
+Public Health Institutes for providing control organisms, culture
+Frontiers in Microbiology
+11
+frontiersin.org
+
+
+===== PAGE 12 =====
+
+Odoko et al.
+10.3389/fmicb.2024.1417425
+media, reagents, and antimicrobial disks. The authors especially
+thank to Tilahun (2022), doi: 10.20944/preprints202305.2212.v1
+and Temesgen et al. (2023) due to we followed their methods
+in order to receiving some necessary information for our study.
+Finally, all study participants, data collectors, and supervisors
+were acknowledged.
+Conﬂict of interest
+The
+authors
+declare
+that
+the
+research
+was
+conducted
+in the absence of any commercial or ﬁnancial relationships
+that
+could
+be
+construed
+as
+a
+potential
+conﬂict
+of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their aﬃliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+References
+Alebel, M., Mekonnen, F., and Mulu, W. (2021). Extended-spectrum β-lactamase
+and carbapenemase producing gram-negative bacilli infections among patients in
+intensive care units of felegehiwot referral hospital: a prospective cross-sectional study.
+Infect. Drug Resist. 14, 391–405. doi: 10.2147/IDR.S292246
+Andrew, B., Kagirita, A., and Bazira, J. (2017). Prevalence of extended-
+spectrum beta-lactamases-producing microorganisms in patients admitted at KRRH,
+Southwestern Uganda. Int. J. Microbiol. 2017:3183076. doi: 10.1155/2017/3183076
+Ban, K. A., Minei, J. P., Laronga, C., Harbrecht, B. G., Jensen, E. H., Fry,
+D. E., et al. (2017). American college of surgeons and surgical infection society:
+surgical site infection guidelines, 2016 update. J. Am. Coll. Surg. 224, 59–74.
+doi: 10.1016/j.jamcollsurg.2016.10.029
+Baron, E. J., Miller, J. M., Weinstein, M. P., Richter, S. S., Gilligan, P. H., Thomson,
+R. B., et al. (2013). A guide to utilization of the microbiology laboratory for diagnosis
+of infectious diseases: 2013 recommendations by the infectious diseases society of
+America (IDSA) and the American Society for Microbiology (ASM). Clin. Infect. Dis.
+57:cit441. doi: 10.1093/cid/cit441
+Batchelor, M., Hopkins, K. L., Liebana, E., Slickers, P., Ehricht, R., Mafura, M.,
+et al. (2008). Development of a miniaturised microarray-based assay for the rapid
+identiﬁcation of antimicrobial resistance genes in Gram-negative bacteria. Int. J.
+Antimicrob. Agents 31, 440–451. doi: 10.1016/j.ijantimicag.2007.11.017
+Bell, J. M., Turnidge, J. D., and Jones, R. N. (2003). Prevalence of extended-spectrum
+β-lactamase-producing enterobacter cloacae in the Asia-Paciﬁc Region: results from
+the SENTRY Antimicrobial Surveillance Program, 1998 to 2001. Antimicrob. Agents
+Chemother. 47, 3989–3993. doi: 10.1128/AAC.47.12.3989-3993.2003
+Beyene, D., Bitew, A., Fantew, S., Mihret, A., and Evans, M. (2019). Multidrug-
+resistant proﬁle and prevalence of extended spectrum β-lactamase and carbapenemase
+production in fermentative Gram-negative bacilli recovered from patients and
+specimens referred to National Reference Laboratory, Addis Ababa, Ethiopia. PLoS
+ONE 14:e0222911. doi: 10.1371/journal.pone.0222911
+Cantón, R., Novais, A., Valverde, A., Machado, E., Peixe, L., Baquero,
+F., et al. (2008). Prevalence and spread of extended-spectrum β-lactamase-
+producing Enterobacteriaceae in Europe. Clin. Microbiol. Infect. 14(Suppl.1), 144–153.
+doi: 10.1111/j.1469-0691.2007.01850.x
+Carvalhaes, C. G., Picão, R. C., Nicoletti, A. G., Xavier, D. E., and Gales, A. C.
+(2009). Cloverleaf test (modiﬁed Hodge test) for detecting carbapenemase production
+in Klebsiella pneumoniae: be aware of false positive results. J Antimicrob Chemother. 65,
+249–251. doi: 10.1093/jac/dkp431
+CDC, T., Report, H. A. I. P., Care, S., and Project, I. (2022). Surgical Site Infection
+Event (SSI) Introduction: Settings: Requirements. National center for emergency and
+zoonotic infectious diseases. 1–39.
+Chang, Y. Y., Chuang, Y. C., Siu, L. K., Wu, T. L., Lin, J. C., Lu, P. L.,
+et al. (2015). Clinical features of patients with carbapenem nonsusceptible Klebsiella
+pneumoniae and Escherichia coli in intensive care units: a nationwide multicenter
+study in Taiwan. J. Microbiol. Immunol. Infect. 48, 219–225. doi: 10.1016/j.jmii.2014.
+05.010
+Cury, A. P., Andreazzi, D., Maﬀucci, M., Caiaﬀa-Junior, H. H., and Rossi, F.
+(2012). The modiﬁed Hodge test is a useful tool for ruling out Klebsiella pneumoniae
+carbapenemase. Clinics 67, 1427–1431. doi: 10.6061/clinics/2012(12)13
+Date, A. (2018). Modiﬁed Hodge Test for Suspected Carbapenemase Production in
+Enterobacterales. Clinical and Laboratory Standards Institute Archived Methods, 2–4.
+Dessie, W., Mulugeta, G., Fentaw, S., Mihret, A., Hassen, M., Abebe, E., et al.
+(2016). Pattern of bacterial pathogens and their susceptibility isolated from surgical
+site infections at selected referral hospitals-Ethiopia. Int. J. Microbiol. 2016:2418902.
+doi: 10.1155/2016/2418902
+Egbe, C. A., Omoregie, R., Igbarumah, I. O., and Onemu, S. (2011). Microbiology of
+wound infections and its associated risk factors among patients of a Tertiary hospital
+in Benin City, Nigeria. JRHS 11, 109–113.
+Farzana, R., Shamsuzzaman, S. M., Mamun, K. Z., and Shears, P. (2013).
+Antimicrobial susceptibility pattern of extended spectrum β-lactamase producing
+gram-negative bacteria isolated from wound and urine in a tertiary care hospital, Dhaka
+City, Bangladesh. Southeast Asian J. Trop. Med. Publ. Health 44, 96–103.
+Gashaw, M., Berhane, M., Bekele, S., Kibru, G., Teshager, L., Yilma, Y., et al.
+(2018). Emergence of high drug resistant bacterial isolates from patients with
+health care associated infections at Jimma University medical center: a cross
+sectional study. Antimicrob. Resist. Infect. Control 18, 1–8. doi: 10.1186/s13756-018
+-0431-0
+Ghafourian, S., Sadeghifard, N., Soheili, S., and Sekawi, Z. (2014). Extended
+spectrum beta-lactamases: deﬁnition, classiﬁcation and epidemiology. Curr. Iss. Mol.
+Biol. 17, 11–22.
+Giske, C. G., and Cantón, R. (2013). European Committee on Antimicrobial
+Susceptibility Testing Guidelines for Detection of Resistance Mechanisms and Speciﬁc
+Resistances of Clinical and/or Epidemiological Importance, Version 1. 1–40.
+Giske, C. G., Gezelius, L., Samuelsen, A., Warner, M., Sundsfjord, A., and
+Woodford, N. (2011). A sensitive and speciﬁc phenotypic assay for detection of
+metallo-β-lactamases and KPC in Klebsiella pneumoniae with the use of meropenem
+disks supplemented with aminophenylboronic acid, dipicolinic acid and cloxacillin.
+Clin. Microbiol. Infect. 17, 552–556. doi: 10.1111/j.1469-0691.2010.03294.x
+Gupta, R., Malik, A., Rizvi, M., and Ahmed, M. (2016). Presence of metallo-
+beta-lactamases (MBL), extended-spectrum beta-lactamase (ESBL) & AmpC positive
+non-fermenting gram-negative bacilli among intensive care unit patients with special
+reference to molecular detection of blaCTX-M & blaAmpC genes. Indian J. Med. Res.
+144, 271–275. doi: 10.4103/0971-5916.195043
+Hello, M., Caroﬀ, N., Jacqueline, C., Caillon, J., Potel, G., Batard, E., et al.
+(2010). Inﬂuence of the AtlE autolysin on the activity of cell wall-active
+agents against Staphylococcus epidermidis. Int. J. Antimicrob. Agents 35, 204–206.
+doi: 10.1016/j.ijantimicag.2009.09.026
+Hoban, D. J., Lascols, C., Nicolle, L. E., Badal, R., Bouchillon, S., Hackel,
+M., et al. (2012). Antimicrobial susceptibility of Enterobacteriaceae, including
+molecular characterization of extended-spectrum beta-lactamase-producing species,
+in urinary tract isolates from hospitalized patients in North America and
+Europe: results from the SMART study. Diagn. Microbiol. Infect. Dis. 74:627.
+doi: 10.1016/j.diagmicrobio.2012.05.024
+Iabadene, H., Messai, Y., Ammari, H., Ramdani-Bouguessa, N., Lounes, S., Bakour,
+R., et al. (2008). Dissemination of ESBL and Qnr determinants in Enterobacter cloacae
+in Algeria. J. Antimicrob. Chemother. 62, 133–136. doi: 10.1093/jac/dkn145
+Ibrahim, M. E., Bilal, N. E., Magzoub, M. A., and Hamid, M. E. (2013). Prevalence
+of extended-spectrum β-lactamases-producing Escherichia coli from hospitals in
+Khartoum State, Sudan. Oman. Med. J. 28, 116–120. doi: 10.5001/omj.2013.30
+Jolivet, S., Lescure, F. X., Armand-Lefevre, L., Raﬀoul, R., Dilly, M. P., Ghodbane,
+W., et al. (2018). Surgical site infection with extended-spectrum β-lactamase-producing
+Enterobacteriaceae after cardiac surgery: incidence and risk factors. Clin. Microbiol.
+Infect. 24, 283–288. doi: 10.1016/j.cmi.2017.07.004
+Katip, W., Yoodee, J., Uitrakul, S., and Oberdorfer, P. (2021). Eﬃcacy of loading
+dose colistin versus carbapenems for treatment of extended spectrum beta lactamase
+producing Enterobacteriaceae. Sci. Rep. 11, 1–8. doi: 10.1038/s41598-020-78098-4
+Kayastha, K., Dhungel, B., Karki, S., Adhikari, B., Banjara, M. R., Rijal,
+K. R., et al. (2020). Extended-spectrum β-lactamase-producing Escherichia coli
+and Klebsiella species in pediatric patients visiting International Friendship
+Frontiers in Microbiology
+12
+frontiersin.org
+
+
+===== PAGE 13 =====
+
+Odoko et al.
+10.3389/fmicb.2024.1417425
+Children’s Hospital, Kathmandu, Nepal. Infect. Dis. Res. Treat. 13:117863372090979.
+doi: 10.1177/1178633720909798
+Khan, M., and Khalil, J. (2011). Rooh-ul-Muqim, Zarin M, Touseef Ul Hassan,
+Ahmed N, et al. Rate and risk factors for surgical site infection at a tertiary care facility
+in Peshawar, Pakistan. J. Ayub. Med. Coll. Abbottabad. 23, 15–18.
+Kumalo, A., Gebre, B., Shiferaw, S., Wolde, W., and Shonde, T. (2023).
+Group
+B
+Streptococci
+recto-vaginal
+colonization,
+antimicrobial
+susceptibility
+pattern,
+and
+associated
+factors
+among
+pregnant
+women
+at
+selected
+health
+facilities of Wolaita Sodo Town, Southern Ethiopia. Front. Microbiol. 14:1277928.
+doi: 10.3389/fmicb.2023.1277928
+Kumar, S. H., De, A. S., Baveja, S. M., and Gore, M. A. (2012). Prevalence and risk
+factors of metallo β-lactamase producing Pseudomonas aeruginosa and Acinetobacter
+species in burns and surgical wards in a Tertiary Care Hospital. J. Lab. Physicians 4,
+039–42. doi: 10.4103/0974-2727.98670
+Livermore, D. M., Warner, M., Mushtaq, S., Doumith, M., Zhang, J., Woodford,
+N., et al. (2011). What remains against carbapenem-resistant Enterobacteriaceae?
+evaluation of chloramphenicol, ciproﬂoxacin, colistin, fosfomycin, minocycline,
+nitrofurantoin, temocillin and tigecycline. Int. J. Antimicrob. Agents 37, 415–419.
+doi: 10.1016/j.ijantimicag.2011.01.012
+Makharita, R. R., El-Kholy, I., Hetta, H. F., Abdelaziz, M. H., Hagagy, F. I., Ahmed,
+A. A., et al. (2020). Antibiogram and genetic characterization of carbapenem-resistant
+gram-negative pathogens incriminated in healthcare-associated infections. Infect. Drug
+Resist. 13, 3991–4002. doi: 10.2147/IDR.S276975
+Mama, M., Abdissa, A., and Sewunet, T. (2014). Antimicrobial susceptibility pattern
+of bacterial isolates from wound infection and their sensitivity to alternative topical
+agents at Jimma University Specialized Hospital, South-West Ethiopia. Ann. Clin.
+Microbiol. Antimicrob. 13, 1–10. doi: 10.1186/1476-0711-13-14
+Mendelson, G., Hait, V., Ben-Israel, J., Gronich, D., Granot, E., Raz, R., et al.
+(2005). Prevalence and risk factors of extended-spectrum beta-lactamase-producing
+Escherichia coli and Klebsiella pneumoniae in an Israeli long-term care facility. Eur.
+J. Clin. Microbiol. Infect. Dis. 24, 17–22. doi: 10.1007/s10096-004-1264-8
+Miller, J. M., Binnicker, M. J., Campbell, S., Carroll, K. C., Chapin, K. C., Gilligan, P.
+H., et al. (2018). A guide to utilization of the microbiology laboratory for diagnosis of
+infectious diseases: 2018 update by the Infectious Diseases Society of America and the
+American Society for Microbiology. Clin. Infect. Dis. 67, e1–94. doi: 10.1093/cid/ciy584
+Moges, F., Eshetie, S., Abebe, W., Mekonnen, F., Dagnew, M., Endale,
+A.,
+et
+al.
+(2019).
+High
+prevalence
+of
+extended-spectrum
+beta-lactamase-
+producing
+Gram-negative
+pathogens
+from
+patients
+attending
+Felege
+Hiwot
+Comprehensive Specialized Hospital, Bahir Dar, Amhara region. PLoS ONE 14,
+1–13. doi: 10.1371/journal.pone.0215177
+Mohammed, A., Seid, M. E., Gebrecherkos, T., Tiruneh, M., and Moges,
+F. (2017). Bacterial isolates and their antimicrobial susceptibility patterns of
+wound infections among inpatients and outpatients attending the University of
+Gondar Referral Hospital, Northwest Ethiopia. Int. J. Microbiol. 2017:8953829.
+doi: 10.1155/2017/8953829
+Mushi, M. F., Mshana, S. E., Imirzalioglu, C., and Bwanga, F. (2014).
+Carbapenemase genes among multidrug resistant gram negative clinical isolates
+from a tertiary hospital in Mwanza, Tanzania. Biomed. Res. Int. 2014, 3–8.
+doi: 10.1155/2014/303104
+National, G., and Pillars, H. (2010). Cheesbrough Monica: District Laboratory
+Practice in Tropical Countries Volume II: Microbiology. Cambridge: Cambridge
+University Press, 51, 82–25, 38–39.
+Nedjai, S., Barguigua, A., Djahmi, N., Jamali, L., Zerouali, K., Dekhil, M.,
+et al. (2013). Prevalence and characterization of extended spectrum beta-lactamase-
+producing Enterobacter cloacae strains in Algeria. J. Infect. Dev. Ctries 7, 804–811.
+doi: 10.3855/jidc.3127
+Nelson, E., Kayega, J., Seni, J., Mushi, M. F., Kidenya, B. R., Hokororo, A., et al.
+(2014). Evaluation of existence and transmission of extended spectrum beta lactamase
+producing bacteria from post-delivery women to neonates at Bugando Medical Center,
+Mwanza-Tanzania. BMC Res. Not. 7, 1–6. doi: 10.1186/1756-0500-7-279
+Oberoi, L., Singh, N., Sharma, P., and Aggarwal, A. (2013). ESBL, MBL and Ampc β
+lactamases producing superbugs—Havoc in the intensive care units of Punjab India. J.
+Clin. Diagnost. Res. 7, 70–73. doi: 10.7860/JCDR/2012/5016.2673
+Pierce, V. M., Simner, P. J., Lonsway, D. R., Roe-Carpenter, D. E., Johnson, J. K.,
+Brasso, W. B., et al. (2017). Modiﬁed carbapenem inactivation method for phenotypic
+detection of carbapenemase production among Enterobacteriaceae. J. Clin. Microbiol.
+55, 2321–2333. doi: 10.1128/JCM.00193-17
+Pollack, L. A., and Srinivasan, A. (2014). Core elements of hospital antibiotic
+stewardship programs from the Centers for Disease Control and Prevention. Clin.
+Infect. Dis. 59, S97–S100. doi: 10.1093/cid/ciu542
+Ramana, K. V., Rao, R., Sharada, C. V., Kareem, M. A., Rajashekar Reddy, L., Ratna
+Mani, M. S., et al. (2013). Modiﬁed Hodge test: a useful and the low-cost phenotypic
+method for detection of carbapenemase producers in Enterobacteriaceae members. J.
+Nat. Sci. Biol. Med. 4, 346–348. doi: 10.4103/0976-9668.117009
+Reumert, P., Nielsen, S., Diagnostica, M. R., Diatabs, G., Diatabs, I., Diatabs, K., et
+al. (2003). Rosco Diagnostica Rosco Diagnostica. Stensmosevej, 1–9.
+Rijal, B. P., Satyal, D., and Parajuli, N. P. (2017). High burden of antimicrobial
+resistance among bacteria causing pyogenic wound infections at a Tertiary Care
+Hospital in Kathmandu, Nepal. J. Pathog. 2017, 1–7. doi: 10.1155/2017/9458218
+Saharman, Y. R., and Lestari, D. C. (2013). Phenotype characterization of beta-
+lactamase producing Enterobacteriaceae in the intensive care unit (ICU) of Cipto
+Mangunkusumo Hospital in 2011. Acta Med. Indones 45, 11–16.
+Sangare, S. A., Maiga, A. I., Guindo, I., Maiga, A., Camara, N., Savadogo,
+S.,
+et
+al.
+(2015).
+Prevalence
+of
+extended-spectrum
+beta-lactamase-producing
+Enterobacteriaceae isolated from blood cultures in Africa. Med. Mal. Infect. 45,
+374–382. doi: 10.1016/j.medmal.2015.08.003
+Saravanan,
+M.,
+Ramachandran,
+B.,
+and
+Barabadi,
+H.
+(2018).
+The
+prevalence
+and
+drug
+resistance
+pattern
+of
+extended
+spectrum
+β-lactamases
+(ESBLs)
+producing
+Enterobacteriaceae
+in
+Africa.
+Microb.
+Pathog.
+114:18092.
+doi: 10.1016/j.micpath.2017.11.061
+Shimekaw, M., Tigabu, A., and Tessema, B. (2022). Bacterial proﬁle, antimicrobial
+susceptibility pattern, and associated risk factors among patients with wound infections
+at Debre Markos Referral Hospital, Northwest, Ethiopia. Int. J. Low Extrem. Wounds
+21, 182–192. doi: 10.1177/1534734620933731
+Sid Ahmed, M. A., Bansal, D., Acharya, A., Elmi, A. A., Hamid, J. M., Sid Ahmed,
+A. M., et al. (2016). Antimicrobial susceptibility and molecular epidemiology of
+extended-spectrum beta-lactamase-producing Enterobacteriaceae from intensive care
+units at Hamad medical corporation, Qatar. Antimicrob. Resist. Infect. Control 5, 1–6.
+doi: 10.1186/s13756-016-0103-x
+Singh, N., Pattnaik, D., Neogi, D. K., Jena, J., and Mallick, B. (2016). Prevalence of
+ESBL in Escherichia coli isolates among ICU patients in a tertiary care hospital. J. Clin.
+Diagnost. Res. 10, DC19–DC22. doi: 10.7860/JCDR/2016/21260.8544
+Storberg, V. (2014). ESBL-producing Enterobacteriaceae in Africa - a non-
+systematic literature review of research published 2008-2012. Infect. Ecol. Epidemiol.
+4:20342. doi: 10.3402/iee.v4.20342
+Temesgen, M., Kumalo, A., Teklu, T., Alemu, G., and Odoko, D. (2023). Bacterial
+proﬁle and their antimicrobial susceptibility pattern of isolates recovered from
+intensive care unit environments at Wachemo University Nigist Ellen Mohammed
+Memorial Comprehensive Specialized Hospital, Southern Ethiopia. Can. J. Infect. Dis.
+Med. Microbiol. 2023:1216553. doi: 10.1155/2023/1216553
+Tilahun, M. (2022). Multi-drug resistance proﬁle, prevalence of extended-spectrum
+beta-lactamase and carbapenemase-producing gram negative bacilli among admitted
+patients after surgery with suspected of surgical site nosocomial infection North East
+Ethiopia. Infect. Drug Resist. 2022, 3949–3965. doi: 10.2147/IDR.S376622
+Tsakris, A., Poulou, A., Pournaras, S., Voulgari, E., Vrioni, G., Themeli-
+Digalaki, K., et al. (2010). A simple phenotypic method for the diﬀerentiation
+of metallo-β-lactamases and class A KPC carbapenemases in Enterobacteriaceae
+clinical isolates. J.
+Antimicrob. Chemother. 65, 1664–1671. doi: 10.1093/jac/
+dkq210
+Uc-Cachón, A. H., Gracida-Osorno, C., Luna-Chi, I. G., Jiménez-Guillermo, J. G.,
+and Molina-Salinas, G. M. (2019). High prevalence of antimicrobial resistance among
+gram-negative isolated bacilli in intensive care units at a tertiary-care hospital in
+Yucatán Mexico. Med. 55:588. doi: 10.3390/medicina55090588
+van Dijk, K., Scharringa, J., Voets, G., Voskuil, S., Fluit, A., Rottier, W., et al. (2014).
+A disc diﬀusion assay for detection of class A, B and OXA-48 carbapenemases in
+Enterobacteriaceae using phenyl boronic acid, dipicolinic acid and temocillin. Clin.
+Microbiol. Infect. 20, 345–349. doi: 10.1111/1469-0691.12322
+Van Duin, D. (2017). Carbapenem-resistant Enterobacteriaceae: what we know and
+what we need to know. Virulence 8, 379–382. doi: 10.1080/21505594.2017.1306621
+Van
+Duin,
+D.,
+and
+Doi,
+Y.
+(2017).
+The
+global
+epidemiology
+of
+carbapenemase-producing
+Enterobacteriaceae.
+Virulence
+8,
+460–469.
+doi: 10.1080/21505594.2016.1222343
+Vasundhara,
+P.,
+Sreenivasuslu,
+P.,
+and
+Shabnaum,
+M.
+(2017).
+Microbial
+proﬁle and antibiotic susceptibility pattern of orthopedic infections in a tertiary
+care hospital: a study from South India. Int. J. Med. Sci. Publ. Heal. 6:1.
+doi: 10.5455/ijmsph.2017.1165105122016
+Weinstein, M. P. (2021). Performance Standards for Antimicrobial Susceptibility
+Testing: 31st Edition CLSI Supplement M100. Wayne, PA: Clinical and Laboratory
+Standards Institute.
+Frontiers in Microbiology
+13
+frontiersin.org

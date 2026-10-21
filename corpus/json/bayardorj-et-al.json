@@ -1,0 +1,1618 @@
+{
+ "doc_id": "bayardorj-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Bayardorj et al.pdf",
+ "sha256": "f70e1d08051b846ed5dc00534fe208bb641652712e6b364a3b340af61ec37f2d",
+ "document_type": "pdf",
+ "n_pages": 8,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "",
+  "author": "",
+  "subject": "",
+  "keywords": "",
+  "creator": "wkhtmltopdf 0.12.4",
+  "producer": "Qt 4.8.7",
+  "creationDate": "D:20240724125103Z",
+  "modDate": "",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:53+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "Review began 01/12/2023 \nReview ended 01/26/2023 \nPublished 02/02/2023\n© Copyright 2023\nBayardorj et al. This is an open access\narticle distributed under the terms of the\nCreative Commons Attribution License CC-\nBY 4.0., which permits unrestricted use,\ndistribution, and reproduction in any\nmedium, provided the original author and\nsource are credited.\nDOI: 10.7759/cureus.34573\nSurgical Site Infections at Shirati KMT Hospital\nin Northeastern Tanzania\nDulguun Bayardorj , Pichaya Promsatit , Bwire M. Chirangi , Eiman Mahmoud \n1. Department of Global Health, College of Osteopathic Medicine, Touro University California, Vallejo, USA 2. Hospital\nAdministration, Shirati KMT Hospital, Shirati, TZA\nCorresponding author: Dulguun Bayardorj, dukebayar@gmail.com\nAbstract\nDespite improved guidelines for surgical practices and better surgical methods and tools, surgical site\ninfection (SSI) is still a common cause of morbidity and mortality with increased rates in resource-limited\nnations. In Tanzania, there is limited data on SSI and associated risk factors for developing an effective\nsurveillance system for SSI. In this study, we aimed to establish for the first time the baseline SSI rate and its\nassociated factors at the Shirati KMT Hospital in Northeastern Tanzania. We collected hospital records of\n423 patients who had undergone major and minor surgeries between January 1 and June 9, 2019, at the\nhospital. After accounting for incomplete records and missing information, we analyzed a total of 128\npatients and found an SSI rate of 10.9% and performed univariate and multivariate logistic regression\nanalyses for elucidating the relationship between risk factors and SSI. All patients with SSI had undergone\nmajor operations. Moreover, we observed trends of increased association of SSI with patients who are 40 or\nyounger, female, and had received antimicrobial prophylaxis or more than one type of antibiotics. In\naddition, patients who had received an American Society of Anesthesiologists (ASA) score of II or III, as one\ncategory, or undergone elective operations or operations lasting longer than 30 minutes were prone to\ndevelop SSI. Although these findings were not statistically significant, both univariate and multivariate\nlogistic regression analyses showed a significant correlation between clean contaminated wound class and\nSSI, consistent with previous reports. The study is the first to elucidate the rate of SSI and its correlated risk\nfactors at the Shirati KMT Hospital. We conclude that, based on the obtained data, clean contaminated\nwound class is a significant predictor of SSI at the hospital and that an effective surveillance system for SSI\nshould begin with adequate record keeping of all patients’ hospitalization and an efficient follow-up system.\nMoreover, a future study should aim to explore more widespread SSI predictors such as premorbid illness,\nHIV status, duration of hospitalization prior to operation, and type of surgery.\nCategories: Public Health, Epidemiology/Public Health, General Surgery\nKeywords: global surgery, wound infection, post surgery complication, global health, hospital acquired infection,\nsurgical site infection\nIntroduction\nSurgical site infection (SSI) is defined as a wound infection occurring within 30 days of operation and is one\nof the most common types of healthcare-associated infection worldwide, accounting for 10 to 25% of all\nhospital-acquired infections [1,2]. SSI is associated with an increased financial burden, longer\nhospitalizations, and higher morbidity and mortality [1,3,4]. In the United States, it is estimated that 2-4%\nof all inpatient surgeries result in SSIs and that each SSI can cost about $90,000 [5,6]. Low- and middle-\nincome countries have been reported to have similar costs but higher financial burdens due to their\neconomic status [7]. Despite the employment of improved guidelines for pre- and post-operation practices,\nbetter sterilization methods, and upgraded surgical tools, SSI-associated morbidity and mortality are widely\nobserved even in basic life-saving operations including cesarean sections and appendectomies in low-\nincome countries [8]. The rate of SSI has been reported to be at the higher end of the global range of 2.5 to\n30.9% in regions such as sub-Saharan Africa [9-13]. In Tanzania, SSI remains to be one of the main causes of\nmorbidity and mortality, with the rate ranging from 10% to 26% [14-16]. Previous studies at tertiary and\ndistrict hospitals in Tanzania reported SSI rates of 19.4% and 24%, respectively [14,15]. The most recent\nstudy on SSI in Tanzania was at Buganda Medical Centre in Northwestern Tanzania which reported an SSI\nrate of 26% [16]. However, the current data on SSI and risk factors of SSI across hospitals in Tanzania is\nsignificantly limited and outdated. Surveillance of SSI along with feedback of evidence-based information to\nsurgeons has been reported to be an important part of strategies to reduce SSI risk [17]. Therefore, it is\nimportant to elucidate the SSI rate and generate sufficient data on risk factors associated with SSI to design\nan effective surveillance system for SSI. Our study is the first to establish the baseline SSI rate and explore\npredictive factors at Shirati KMT Hospital in Northeastern Tanzania.\nMaterials And Methods\nThis cross-sectional retrospective study involved the collection of handwritten patients’ records and clinical\nnotes of both major and minor surgeries at Shirati KMT Hospital, Tanzania between January 1 and June 9,\n2019. The study was approved with an exempt status by the Touro University California Institutional Review\n1\n1\n2\n1\n \nOpen Access Original Article\nPublished via ACOS General Surgery\nHow to cite this article\nBayardorj D, Promsatit P, Chirangi B M, et al. (February 02, 2023) Surgical Site Infections at Shirati KMT Hospital in Northeastern Tanzania.\nCureus 15(2): e34573. DOI 10.7759/cureus.34573\n",
+   "n_chars": 5920,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      63.9,
+      106.1,
+      129.9,
+      112.2
+     ],
+     "text": "Review began 01/12/2023 \n"
+    },
+    {
+     "bbox": [
+      63.9,
+      114.5,
+      129.9,
+      120.6
+     ],
+     "text": "Review ended 01/26/2023 \n"
+    },
+    {
+     "bbox": [
+      63.9,
+      122.9,
+      118.2,
+      129.0
+     ],
+     "text": "Published 02/02/2023\n"
+    },
+    {
+     "bbox": [
+      63.9,
+      136.7,
+      108.9,
+      142.8
+     ],
+     "text": "© Copyright 2023\n"
+    },
+    {
+     "bbox": [
+      63.9,
+      145.1,
+      156.5,
+      151.2
+     ],
+     "text": "Bayardorj et al. This is an open access\n"
+    },
+    {
+     "bbox": [
+      63.9,
+      153.5,
+      158.9,
+      159.6
+     ],
+     "text": "article distributed under the terms of the\n"
+    },
+    {
+     "bbox": [
+      63.9,
+      161.9,
+      167.0,
+      168.0
+     ],
+     "text": "Creative Commons Attribution License CC-\n"
+    },
+    {
+     "bbox": [
+      63.9,
+      170.3,
+      159.0,
+      176.4
+     ],
+     "text": "BY 4.0., which permits unrestricted use,\n"
+    },
+    {
+     "bbox": [
+      63.9,
+      178.7,
+      149.3,
+      184.8
+     ],
+     "text": "distribution, and reproduction in any\n"
+    },
+    {
+     "bbox": [
+      63.9,
+      187.1,
+      161.9,
+      193.2
+     ],
+     "text": "medium, provided the original author and\n"
+    },
+    {
+     "bbox": [
+      63.9,
+      195.6,
+      111.6,
+      201.6
+     ],
+     "text": "source are credited.\n"
+    },
+    {
+     "bbox": [
+      63.9,
+      212.4,
+      130.5,
+      218.4
+     ],
+     "text": "DOI: 10.7759/cureus.34573\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      56.7,
+      510.2,
+      93.4
+     ],
+     "text": "Surgical Site Infections at Shirati KMT Hospital\nin Northeastern Tanzania\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      100.7,
+      440.7,
+      110.0
+     ],
+     "text": "Dulguun Bayardorj , Pichaya Promsatit , Bwire M. Chirangi , Eiman Mahmoud \n"
+    },
+    {
+     "bbox": [
+      183.3,
+      123.5,
+      533.2,
+      141.6
+     ],
+     "text": "1. Department of Global Health, College of Osteopathic Medicine, Touro University California, Vallejo, USA 2. Hospital\nAdministration, Shirati KMT Hospital, Shirati, TZA\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      154.7,
+      383.9,
+      163.3
+     ],
+     "text": "Corresponding author: Dulguun Bayardorj, dukebayar@gmail.com\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      189.6,
+      234.4,
+      203.7
+     ],
+     "text": "Abstract\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      206.9,
+      530.2,
+      420.3
+     ],
+     "text": "Despite improved guidelines for surgical practices and better surgical methods and tools, surgical site\ninfection (SSI) is still a common cause of morbidity and mortality with increased rates in resource-limited\nnations. In Tanzania, there is limited data on SSI and associated risk factors for developing an effective\nsurveillance system for SSI. In this study, we aimed to establish for the first time the baseline SSI rate and its\nassociated factors at the Shirati KMT Hospital in Northeastern Tanzania. We collected hospital records of\n423 patients who had undergone major and minor surgeries between January 1 and June 9, 2019, at the\nhospital. After accounting for incomplete records and missing information, we analyzed a total of 128\npatients and found an SSI rate of 10.9% and performed univariate and multivariate logistic regression\nanalyses for elucidating the relationship between risk factors and SSI. All patients with SSI had undergone\nmajor operations. Moreover, we observed trends of increased association of SSI with patients who are 40 or\nyounger, female, and had received antimicrobial prophylaxis or more than one type of antibiotics. In\naddition, patients who had received an American Society of Anesthesiologists (ASA) score of II or III, as one\ncategory, or undergone elective operations or operations lasting longer than 30 minutes were prone to\ndevelop SSI. Although these findings were not statistically significant, both univariate and multivariate\nlogistic regression analyses showed a significant correlation between clean contaminated wound class and\nSSI, consistent with previous reports. The study is the first to elucidate the rate of SSI and its correlated risk\nfactors at the Shirati KMT Hospital. We conclude that, based on the obtained data, clean contaminated\nwound class is a significant predictor of SSI at the hospital and that an effective surveillance system for SSI\nshould begin with adequate record keeping of all patients’ hospitalization and an efficient follow-up system.\nMoreover, a future study should aim to explore more widespread SSI predictors such as premorbid illness,\nHIV status, duration of hospitalization prior to operation, and type of surgery.\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      446.4,
+      516.6,
+      474.1
+     ],
+     "text": "Categories: Public Health, Epidemiology/Public Health, General Surgery\nKeywords: global surgery, wound infection, post surgery complication, global health, hospital acquired infection,\nsurgical site infection\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      487.3,
+      256.7,
+      501.4
+     ],
+     "text": "Introduction\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      504.6,
+      529.1,
+      707.8
+     ],
+     "text": "Surgical site infection (SSI) is defined as a wound infection occurring within 30 days of operation and is one\nof the most common types of healthcare-associated infection worldwide, accounting for 10 to 25% of all\nhospital-acquired infections [1,2]. SSI is associated with an increased financial burden, longer\nhospitalizations, and higher morbidity and mortality [1,3,4]. In the United States, it is estimated that 2-4%\nof all inpatient surgeries result in SSIs and that each SSI can cost about $90,000 [5,6]. Low- and middle-\nincome countries have been reported to have similar costs but higher financial burdens due to their\neconomic status [7]. Despite the employment of improved guidelines for pre- and post-operation practices,\nbetter sterilization methods, and upgraded surgical tools, SSI-associated morbidity and mortality are widely\nobserved even in basic life-saving operations including cesarean sections and appendectomies in low-\nincome countries [8]. The rate of SSI has been reported to be at the higher end of the global range of 2.5 to\n30.9% in regions such as sub-Saharan Africa [9-13]. In Tanzania, SSI remains to be one of the main causes of\nmorbidity and mortality, with the rate ranging from 10% to 26% [14-16]. Previous studies at tertiary and\ndistrict hospitals in Tanzania reported SSI rates of 19.4% and 24%, respectively [14,15]. The most recent\nstudy on SSI in Tanzania was at Buganda Medical Centre in Northwestern Tanzania which reported an SSI\nrate of 26% [16]. However, the current data on SSI and risk factors of SSI across hospitals in Tanzania is\nsignificantly limited and outdated. Surveillance of SSI along with feedback of evidence-based information to\nsurgeons has been reported to be an important part of strategies to reduce SSI risk [17]. Therefore, it is\nimportant to elucidate the SSI rate and generate sufficient data on risk factors associated with SSI to design\nan effective surveillance system for SSI. Our study is the first to establish the baseline SSI rate and explore\npredictive factors at Shirati KMT Hospital in Northeastern Tanzania.\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      720.8,
+      320.5,
+      734.9
+     ],
+     "text": "Materials And Methods\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      738.1,
+      528.8,
+      767.8
+     ],
+     "text": "This cross-sectional retrospective study involved the collection of handwritten patients’ records and clinical\nnotes of both major and minor surgeries at Shirati KMT Hospital, Tanzania between January 1 and June 9,\n2019. The study was approved with an exempt status by the Touro University California Institutional Review\n"
+    },
+    {
+     "bbox": [
+      245.2,
+      99.5,
+      444.0,
+      107.3
+     ],
+     "text": "1\n1\n2\n1\n"
+    },
+    {
+     "bbox": [
+      99.9,
+      32.8,
+      530.9,
+      42.4
+     ],
+     "text": " \nOpen Access Original Article\nPublished via ACOS General Surgery\n"
+    },
+    {
+     "bbox": [
+      137.1,
+      789.8,
+      545.2,
+      814.0
+     ],
+     "text": "How to cite this article\nBayardorj D, Promsatit P, Chirangi B M, et al. (February 02, 2023) Surgical Site Infections at Shirati KMT Hospital in Northeastern Tanzania.\nCureus 15(2): e34573. DOI 10.7759/cureus.34573\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "Board (IRB) M-1391. The handwritten data, which did not contain patients’ names, was transcribed into an\nExcel sheet for further statistical analysis. A total of 423 patients’ demographic and clinical information was\nobtained. After patients with missing records were excluded from analysis, a total of 128 patients’ data was\nused to determine the relationship between SSI and each of the following predictors: demographic (age and\ngender) and pre- and intra-operative factors (antimicrobial prophylaxis, American Society of\nAnesthesiologists (ASA) scoring, operation types and length, wound class, and anesthesia types). SSI rate\nwas defined as the percentage of patients with SSI that were exposed to a predictor. The data was further\nanalyzed using 2x2 contingency tables, and the Chi-square test was used for determining the significance of\nthe correlation between SSI and each predictor. Additionally, multivariate logistic regression analysis was\nperformed to determine SSI prediction based on antimicrobial prophylaxis, major and elective operations,\nand clean contaminated wound class. Statistical significance was defined as a p-value of less than 0.05.\nResults\nDemographic characteristics associated with SSI\nOverall, there were more females in the study than males: 99 vs 29 (Table 1). SSI was found in 14 patients\nout of the total 128, giving an overall SSI rate of 10.9%. The SSI rate in females was 11.1% while males had\nan SSI rate of 10.3% (Table 2). The mean age associated with SSI was 28.6 years, which was younger\ncompared to the group that did not develop SSI; 30.7 years. This, however, was not statistically significant at\np-value=0.34 (Table 1). SSI rates for those older than 40 and those 40 or younger were 7.7% and 11.8%,\nrespectively (Table 2). SSI was not significantly associated with either gender or the two different age\ngroups.\n \nPublished via ACOS General Surgery\n2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n2 of 8\n",
+   "n_chars": 1974,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      183.3,
+      57.5,
+      528.3,
+      168.8
+     ],
+     "text": "Board (IRB) M-1391. The handwritten data, which did not contain patients’ names, was transcribed into an\nExcel sheet for further statistical analysis. A total of 423 patients’ demographic and clinical information was\nobtained. After patients with missing records were excluded from analysis, a total of 128 patients’ data was\nused to determine the relationship between SSI and each of the following predictors: demographic (age and\ngender) and pre- and intra-operative factors (antimicrobial prophylaxis, American Society of\nAnesthesiologists (ASA) scoring, operation types and length, wound class, and anesthesia types). SSI rate\nwas defined as the percentage of patients with SSI that were exposed to a predictor. The data was further\nanalyzed using 2x2 contingency tables, and the Chi-square test was used for determining the significance of\nthe correlation between SSI and each predictor. Additionally, multivariate logistic regression analysis was\nperformed to determine SSI prediction based on antimicrobial prophylaxis, major and elective operations,\nand clean contaminated wound class. Statistical significance was defined as a p-value of less than 0.05.\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      181.8,
+      228.8,
+      195.9
+     ],
+     "text": "Results\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      200.2,
+      421.3,
+      211.6
+     ],
+     "text": "Demographic characteristics associated with SSI\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      216.5,
+      530.1,
+      287.1
+     ],
+     "text": "Overall, there were more females in the study than males: 99 vs 29 (Table 1). SSI was found in 14 patients\nout of the total 128, giving an overall SSI rate of 10.9%. The SSI rate in females was 11.1% while males had\nan SSI rate of 10.3% (Table 2). The mean age associated with SSI was 28.6 years, which was younger\ncompared to the group that did not develop SSI; 30.7 years. This, however, was not statistically significant at\np-value=0.34 (Table 1). SSI rates for those older than 40 and those 40 or younger were 7.7% and 11.8%,\nrespectively (Table 2). SSI was not significantly associated with either gender or the two different age\ngroups.\n"
+    },
+    {
+     "bbox": [
+      99.9,
+      32.8,
+      530.9,
+      42.4
+     ],
+     "text": " \nPublished via ACOS General Surgery\n"
+    },
+    {
+     "bbox": [
+      28.5,
+      789.8,
+      566.3,
+      797.2
+     ],
+     "text": "2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n2 of 8\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "Independent Factor\nYes SSI (N=14)\nNo SSI (N=114)\nFemale\n11\n88\n \n%\n78.6\n77.2\nAge (yr)*\n28.6\n30.7\n \nstd\n17.4\n17.3\nMajor Operation\n14\n99\n \n%\n100\n86.8\nEmergency\n6\n64\n \n%\n42.9\n56.1\nSurgery Duration+\n42.1\n38.9\n \nstd\n20.3\n17.4\nASA Score I\n4\n39\n \n%\n28.6\n34.2\nASA Score II\n10\n74\n \n%\n71.4\n64.9\nASA Score III\n0\n1\n \n%\n0.0\n0.9\nClean wound\n12\n111\n \n%\n85.7\n97.4\nSpinal Anesthesia\n7\n64\n \n%\n50\n56.1\nGeneral Anesthesia\n6\n44\n \n%\n42.9\n38.6\nAbx use\n13\n99\n \n%\n92.9\n86.8\n2 > Abx\n8\n49\n \n%\n57.1\n43.0\nTABLE 1: Baseline characteristics between patients with and without Surgical Site Infection\nN: number of patients; std: standard deviation; yr: year; * p-value=0.34; ASA: American Society of Anesthesiologists; Abx: antibiotic prophylaxis; + p-\nvalue=0.26\n \nPublished via ACOS General Surgery\n2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n3 of 8\n",
+   "n_chars": 842,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      77.1,
+      71.2,
+      417.3,
+      75.9
+     ],
+     "text": "Independent Factor\nYes SSI (N=14)\nNo SSI (N=114)\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      89.2,
+      392.1,
+      93.9
+     ],
+     "text": "Female\n11\n88\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      107.2,
+      395.6,
+      111.9
+     ],
+     "text": " \n%\n78.6\n77.2\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      125.2,
+      395.6,
+      129.9
+     ],
+     "text": "Age (yr)*\n28.6\n30.7\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      143.2,
+      395.6,
+      147.9
+     ],
+     "text": " \nstd\n17.4\n17.3\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      161.2,
+      392.1,
+      165.9
+     ],
+     "text": "Major Operation\n14\n99\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      179.2,
+      395.6,
+      183.9
+     ],
+     "text": " \n%\n100\n86.8\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      197.2,
+      392.1,
+      201.9
+     ],
+     "text": "Emergency\n6\n64\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      215.2,
+      395.6,
+      219.9
+     ],
+     "text": " \n%\n42.9\n56.1\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      233.2,
+      395.6,
+      237.9
+     ],
+     "text": "Surgery Duration+\n42.1\n38.9\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      251.3,
+      395.6,
+      255.9
+     ],
+     "text": " \nstd\n20.3\n17.4\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      269.3,
+      392.1,
+      274.0
+     ],
+     "text": "ASA Score I\n4\n39\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      287.3,
+      395.6,
+      292.0
+     ],
+     "text": " \n%\n28.6\n34.2\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      305.3,
+      392.1,
+      310.0
+     ],
+     "text": "ASA Score II\n10\n74\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      323.3,
+      395.6,
+      328.0
+     ],
+     "text": " \n%\n71.4\n64.9\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      341.3,
+      389.7,
+      346.0
+     ],
+     "text": "ASA Score III\n0\n1\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      359.3,
+      393.2,
+      364.0
+     ],
+     "text": " \n%\n0.0\n0.9\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      377.3,
+      394.4,
+      382.0
+     ],
+     "text": "Clean wound\n12\n111\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      395.3,
+      395.6,
+      400.0
+     ],
+     "text": " \n%\n85.7\n97.4\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      413.3,
+      392.1,
+      418.0
+     ],
+     "text": "Spinal Anesthesia\n7\n64\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      431.3,
+      395.6,
+      436.0
+     ],
+     "text": " \n%\n50\n56.1\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      449.3,
+      392.1,
+      454.0
+     ],
+     "text": "General Anesthesia\n6\n44\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      467.3,
+      395.6,
+      472.0
+     ],
+     "text": " \n%\n42.9\n38.6\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      485.3,
+      392.1,
+      490.0
+     ],
+     "text": "Abx use\n13\n99\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      503.3,
+      395.6,
+      508.0
+     ],
+     "text": " \n%\n92.9\n86.8\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      521.3,
+      392.1,
+      526.0
+     ],
+     "text": "2 > Abx\n8\n49\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      539.3,
+      395.6,
+      544.0
+     ],
+     "text": " \n%\n57.1\n43.0\n"
+    },
+    {
+     "bbox": [
+      72.9,
+      570.5,
+      490.1,
+      581.2
+     ],
+     "text": "TABLE 1: Baseline characteristics between patients with and without Surgical Site Infection\n"
+    },
+    {
+     "bbox": [
+      72.9,
+      588.2,
+      502.9,
+      604.0
+     ],
+     "text": "N: number of patients; std: standard deviation; yr: year; * p-value=0.34; ASA: American Society of Anesthesiologists; Abx: antibiotic prophylaxis; + p-\nvalue=0.26\n"
+    },
+    {
+     "bbox": [
+      99.9,
+      32.8,
+      530.9,
+      42.4
+     ],
+     "text": " \nPublished via ACOS General Surgery\n"
+    },
+    {
+     "bbox": [
+      28.5,
+      789.8,
+      566.3,
+      797.2
+     ],
+     "text": "2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n3 of 8\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Independent Factor\nSSI\n \n \n \n \nYes n (%)\nNo n (%)\nP value\nOdds Ratio\n95% CI\n \nN=14\nN=114\nAge\n \n \n \n \n \n>40\n2 (14.3%)\n24 (21.1%)\n0.553\n \n \n40 or less\n12 (85.7%)\n90 (78.9%)\n1.6\n0.34-7.64\nGender\n \n \n \n \n \nM\n3 (21.4%)\n26 (22.8%)\n0.907\n \n \nF\n11 (78.6%)\n88 (77.2%)\n1.08\n0.28-4.18\nTABLE 2: Association of demographic factors with Surgical Site Infection at Shirati KMT Hospital\nn: number of patients in percentage; N: number of patients with or without SSI; M: male; F: female; CI: confidence interval\nPre-operative predictors of SSI\nAntibiotic prophylaxis was used in 112 patients out of a total of 128. The SSI rate for the absence of\nprophylaxis was 6.2% while the SSI rate for two or more antibiotics use was 14% (Table 3). Despite no\nstatistical significance, there were increased odds of developing SSI from antibiotic prophylaxis or the use of\nmore than one type of antibiotics: odds ratios of 1.97 and 1.77, respectively. In addition, SSI rates for the\nASA score of I and II were 9.3% and 12%, respectively. There was only one patient with an ASA score of III in\nthe entire study population, who then didn’t develop SSI (Table 3).\nVariable\nSSI\nP value\nOdds Ratio\n95% CI\nYes n (%)\nNo n (%)\nN=14\nN=114\nAbx\n \n \n \n \n \nYes\n13 (92.9%)\n99 (86.8%)\n0.521\n1.97\n0.24-16.2\nNo\n1 (7.1%)\n15 (13.2%)\n \n \n# of Abx\n \n \n \n \n \n2 or more\n8 (57.1%)\n49 (43.0%)\n0.314\n1.77\n0.58-5.43\n<2\n6 (42.9%)\n65 (57.0%)\n \n \nASA score\n \n \n \n \n \nI\n4 (28.6%)\n39 (34.2%)\n0.673\n \n \n>II*\n10 (71.4%)\n75 (65.8%)\n1.30\n0.38-4.31\nTABLE 3: Association of pre-operative factors with Surgical Site Infection at Shirati KMT Hospital\nn: number of patients in percentage; N: number of patients with or without SSI; Abx: antibiotic prophylaxis; #, number; ASA: American Society of\nAnesthesiologists score; *, ASA score of II or III; CI: confidence interval\nIntra-operative predictors of SSI\nIn contrast to emergency and shorter surgeries of less than 30 minutes, there were increased odds of\ndeveloping SSI with elective cases (odds ratio of 1.71) or surgeries lasting longer than 30 minutes (odds ratio\nof 1.24), with SSI rates of 13.8% and 12%, respectively (Table 4). While the general anesthesia (GA) SSI rate\nwas 12%, surgeries requiring spinal (SA) and or local anesthesia (LA) had an SSI rate of 10.3. Compared to\npatients with clean wound classification, patients with clean contaminated wounds were 6.17 times more\n \nPublished via ACOS General Surgery\n2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n4 of 8\n",
+   "n_chars": 2482,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      77.1,
+      71.2,
+      463.0,
+      75.9
+     ],
+     "text": "Independent Factor\nSSI\n \n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      89.2,
+      281.5,
+      93.9
+     ],
+     "text": " \nYes n (%)\nNo n (%)\n"
+    },
+    {
+     "bbox": [
+      335.2,
+      98.2,
+      475.6,
+      102.9
+     ],
+     "text": "P value\nOdds Ratio\n95% CI\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      107.2,
+      277.4,
+      111.9
+     ],
+     "text": " \nN=14\nN=114\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      125.2,
+      463.0,
+      129.9
+     ],
+     "text": "Age\n \n \n \n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      143.2,
+      285.5,
+      147.9
+     ],
+     "text": ">40\n2 (14.3%)\n24 (21.1%)\n"
+    },
+    {
+     "bbox": [
+      335.2,
+      152.2,
+      345.7,
+      156.9
+     ],
+     "text": "0.553\n"
+    },
+    {
+     "bbox": [
+      389.8,
+      143.2,
+      463.0,
+      147.9
+     ],
+     "text": " \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      161.2,
+      479.5,
+      165.9
+     ],
+     "text": "40 or less\n12 (85.7%)\n90 (78.9%)\n1.6\n0.34-7.64\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      179.2,
+      463.0,
+      183.9
+     ],
+     "text": "Gender\n \n \n \n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      197.2,
+      285.5,
+      201.9
+     ],
+     "text": "M\n3 (21.4%)\n26 (22.8%)\n"
+    },
+    {
+     "bbox": [
+      335.2,
+      206.2,
+      345.7,
+      210.9
+     ],
+     "text": "0.907\n"
+    },
+    {
+     "bbox": [
+      389.8,
+      197.2,
+      463.0,
+      201.9
+     ],
+     "text": " \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      215.2,
+      479.5,
+      219.9
+     ],
+     "text": "F\n11 (78.6%)\n88 (77.2%)\n1.08\n0.28-4.18\n"
+    },
+    {
+     "bbox": [
+      72.9,
+      246.4,
+      514.0,
+      257.1
+     ],
+     "text": "TABLE 2: Association of demographic factors with Surgical Site Infection at Shirati KMT Hospital\n"
+    },
+    {
+     "bbox": [
+      72.9,
+      264.1,
+      426.8,
+      271.5
+     ],
+     "text": "n: number of patients in percentage; N: number of patients with or without SSI; M: male; F: female; CI: confidence interval\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      305.2,
+      332.9,
+      316.6
+     ],
+     "text": "Pre-operative predictors of SSI\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      321.5,
+      529.5,
+      381.9
+     ],
+     "text": "Antibiotic prophylaxis was used in 112 patients out of a total of 128. The SSI rate for the absence of\nprophylaxis was 6.2% while the SSI rate for two or more antibiotics use was 14% (Table 3). Despite no\nstatistical significance, there were increased odds of developing SSI from antibiotic prophylaxis or the use of\nmore than one type of antibiotics: odds ratios of 1.97 and 1.77, respectively. In addition, SSI rates for the\nASA score of I and II were 9.3% and 12%, respectively. There was only one patient with an ASA score of III in\nthe entire study population, who then didn’t develop SSI (Table 3).\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      426.5,
+      93.4,
+      431.2
+     ],
+     "text": "Variable\n"
+    },
+    {
+     "bbox": [
+      153.3,
+      408.5,
+      160.1,
+      413.2
+     ],
+     "text": "SSI\n"
+    },
+    {
+     "bbox": [
+      153.3,
+      426.5,
+      468.4,
+      431.2
+     ],
+     "text": "P value\nOdds Ratio\n95% CI\nYes n (%)\nNo n (%)\n"
+    },
+    {
+     "bbox": [
+      153.3,
+      444.5,
+      243.8,
+      449.2
+     ],
+     "text": "N=14\nN=114\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      462.5,
+      455.8,
+      467.2
+     ],
+     "text": "Abx\n \n \n \n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      480.5,
+      251.9,
+      485.2
+     ],
+     "text": "Yes\n13 (92.9%)\n99 (86.8%)\n"
+    },
+    {
+     "bbox": [
+      309.4,
+      489.5,
+      319.9,
+      494.2
+     ],
+     "text": "0.521\n"
+    },
+    {
+     "bbox": [
+      371.2,
+      480.5,
+      472.3,
+      485.2
+     ],
+     "text": "1.97\n0.24-16.2\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      498.5,
+      455.8,
+      503.2
+     ],
+     "text": "No\n1 (7.1%)\n15 (13.2%)\n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      516.5,
+      455.8,
+      521.2
+     ],
+     "text": "# of Abx\n \n \n \n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      534.5,
+      251.9,
+      539.2
+     ],
+     "text": "2 or more\n8 (57.1%)\n49 (43.0%)\n"
+    },
+    {
+     "bbox": [
+      309.4,
+      543.5,
+      319.9,
+      548.2
+     ],
+     "text": "0.314\n"
+    },
+    {
+     "bbox": [
+      371.2,
+      534.5,
+      472.3,
+      539.2
+     ],
+     "text": "1.77\n0.58-5.43\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      552.5,
+      455.8,
+      557.2
+     ],
+     "text": "<2\n6 (42.9%)\n65 (57.0%)\n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      570.5,
+      455.8,
+      575.2
+     ],
+     "text": "ASA score\n \n \n \n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      588.5,
+      251.9,
+      593.2
+     ],
+     "text": "I\n4 (28.6%)\n39 (34.2%)\n"
+    },
+    {
+     "bbox": [
+      309.4,
+      597.5,
+      319.9,
+      602.2
+     ],
+     "text": "0.673\n"
+    },
+    {
+     "bbox": [
+      371.2,
+      588.5,
+      455.8,
+      593.2
+     ],
+     "text": " \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      606.6,
+      472.3,
+      611.2
+     ],
+     "text": ">II*\n10 (71.4%)\n75 (65.8%)\n1.30\n0.38-4.31\n"
+    },
+    {
+     "bbox": [
+      72.9,
+      637.7,
+      514.5,
+      648.4
+     ],
+     "text": "TABLE 3: Association of pre-operative factors with Surgical Site Infection at Shirati KMT Hospital\n"
+    },
+    {
+     "bbox": [
+      72.9,
+      655.4,
+      490.2,
+      671.2
+     ],
+     "text": "n: number of patients in percentage; N: number of patients with or without SSI; Abx: antibiotic prophylaxis; #, number; ASA: American Society of\nAnesthesiologists score; *, ASA score of II or III; CI: confidence interval\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      704.9,
+      338.6,
+      716.3
+     ],
+     "text": "Intra-operative predictors of SSI\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      721.3,
+      529.2,
+      771.4
+     ],
+     "text": "In contrast to emergency and shorter surgeries of less than 30 minutes, there were increased odds of\ndeveloping SSI with elective cases (odds ratio of 1.71) or surgeries lasting longer than 30 minutes (odds ratio\nof 1.24), with SSI rates of 13.8% and 12%, respectively (Table 4). While the general anesthesia (GA) SSI rate\nwas 12%, surgeries requiring spinal (SA) and or local anesthesia (LA) had an SSI rate of 10.3. Compared to\npatients with clean wound classification, patients with clean contaminated wounds were 6.17 times more\n"
+    },
+    {
+     "bbox": [
+      99.9,
+      32.8,
+      530.9,
+      42.4
+     ],
+     "text": " \nPublished via ACOS General Surgery\n"
+    },
+    {
+     "bbox": [
+      28.5,
+      789.8,
+      566.3,
+      797.2
+     ],
+     "text": "2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n4 of 8\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "likely to develop SSI (p=0.034). SSI rates for clean and clean-contaminated wounds were 9.8% and 40%,\nrespectively.\nVariable\nSSI\nP value\nOdds Ratio\n95% CI\nYes n (%)\nNo n (%)\nN=14\nN=114\nOperation Type\n \n \n \n \n \nEmergency\n6 (42.9%)\n64 (56.1%)\n0.346\n \n \nElective\n8 (57.1%)\n50 (43.9%)\n1.71\n0.56-5.24\nSurgery Duration\n \n \n \n \n \n>30\n8 (57.1%)\n59 (51.8%)\n0.703\n1.24\n0.41-3.81\n<30\n6 (42.9%)\n55 (48.2%)\n \n \nWound Class\n \n \n \n \n \nClean\n12 (85.7%)\n111 (97.4%)\n0.034\n \n \nClean Contaminated\n2 (14.3%)\n3 (2.6%)\n6.17\n0.94-40.6\nAnesthesia Type\n \n \n \n \n \nGA\n6 (42.9%)\n44 (38.6%)\n0.758\n1.19\n0.38-3.79\nSA & LA\n8 (57.1%)\n70 ( 61.4%)\n \n \nTABLE 4: Association of intra-operative factors with Surgical Site Infection at Shirati KMT\nHospital\nn: number of patients in percentage; N: number of patients with or without SSI; CI: confidence interval; GA: general anesthesia; SA: spinal anesthesia; LA:\nlocal anesthesia\nMultivariate logistic regression\nOn multivariate logistic regression, antimicrobial prophylaxis, major surgeries, and elective cases were 1.05,\n1.16, and 1.07 times more likely to result in SSI (Table 5). Clean contaminated wound class is a significant\npredictor of SSI, with an odds ratio of 1.35 and p-value of 0.037.\nPredictor variable\np-value\nOdds Ratio\n95% CI\nLower 95%\nUpper 95%\nAntibiotic prophylaxis\n0.545\n1.05\n0.89\n1.25\nMajor operation\n0.093\n1.16\n0.98\n1.37\nElective operation\n0.236\n1.07\n0.96\n1.20\nClean contaminated wound\n0.037\n1.35\n1.02\n1.78\nTABLE 5: Multivariate logistic regression analysis of factors associated with Surgical Site\nInfection at Shirati KMT Hospital\nCI: confidence interval\nDiscussion\nDespite major improvements in clinical settings, SSI is one of the leading causes of nosocomial infections\nacross the globe [18]. SSI has been reported to be higher and increasingly associated with morbidity and\n \nPublished via ACOS General Surgery\n2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n5 of 8\n",
+   "n_chars": 1928,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      183.3,
+      57.5,
+      512.7,
+      77.0
+     ],
+     "text": "likely to develop SSI (p=0.034). SSI rates for clean and clean-contaminated wounds were 9.8% and 40%,\nrespectively.\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      121.6,
+      93.4,
+      126.3
+     ],
+     "text": "Variable\n"
+    },
+    {
+     "bbox": [
+      191.7,
+      103.6,
+      198.5,
+      108.3
+     ],
+     "text": "SSI\n"
+    },
+    {
+     "bbox": [
+      191.7,
+      121.6,
+      476.8,
+      126.3
+     ],
+     "text": "P value\nOdds Ratio\n95% CI\nYes n (%)\nNo n (%)\n"
+    },
+    {
+     "bbox": [
+      191.7,
+      139.6,
+      272.6,
+      144.3
+     ],
+     "text": "N=14\nN=114\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      157.6,
+      464.2,
+      162.3
+     ],
+     "text": "Operation Type\n \n \n \n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      175.6,
+      280.7,
+      180.3
+     ],
+     "text": "Emergency\n6 (42.9%)\n64 (56.1%)\n"
+    },
+    {
+     "bbox": [
+      334.6,
+      184.6,
+      345.1,
+      189.3
+     ],
+     "text": "0.346\n"
+    },
+    {
+     "bbox": [
+      389.2,
+      175.6,
+      464.2,
+      180.3
+     ],
+     "text": " \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      193.6,
+      480.7,
+      198.3
+     ],
+     "text": "Elective\n8 (57.1%)\n50 (43.9%)\n1.71\n0.56-5.24\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      211.6,
+      464.2,
+      216.3
+     ],
+     "text": "Surgery Duration\n \n \n \n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      229.6,
+      280.7,
+      234.3
+     ],
+     "text": ">30\n8 (57.1%)\n59 (51.8%)\n"
+    },
+    {
+     "bbox": [
+      334.6,
+      238.6,
+      345.1,
+      243.3
+     ],
+     "text": "0.703\n"
+    },
+    {
+     "bbox": [
+      389.2,
+      229.6,
+      480.7,
+      234.3
+     ],
+     "text": "1.24\n0.41-3.81\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      247.7,
+      464.2,
+      252.3
+     ],
+     "text": "<30\n6 (42.9%)\n55 (48.2%)\n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      265.7,
+      464.2,
+      270.3
+     ],
+     "text": "Wound Class\n \n \n \n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      283.7,
+      283.0,
+      288.4
+     ],
+     "text": "Clean\n12 (85.7%)\n111 (97.4%)\n"
+    },
+    {
+     "bbox": [
+      334.6,
+      292.7,
+      345.1,
+      297.4
+     ],
+     "text": "0.034\n"
+    },
+    {
+     "bbox": [
+      389.2,
+      283.7,
+      464.2,
+      288.4
+     ],
+     "text": " \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      301.7,
+      480.7,
+      306.4
+     ],
+     "text": "Clean Contaminated\n2 (14.3%)\n3 (2.6%)\n6.17\n0.94-40.6\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      319.7,
+      464.2,
+      324.4
+     ],
+     "text": "Anesthesia Type\n \n \n \n \n \n"
+    },
+    {
+     "bbox": [
+      77.1,
+      337.7,
+      280.7,
+      342.4
+     ],
+     "text": "GA\n6 (42.9%)\n44 (38.6%)\n"
+    },
+    {
+     "bbox": [
+      334.6,
+      346.7,
+      345.1,
+      351.4
+     ],
+     "text": "0.758\n"
+    },
+    {
+     "bbox": [
+      389.2,
+      337.7,
+      480.7,
+      342.4
+     ],
+     "text": "1.19\n0.38-3.79\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      355.7,
+      464.2,
+      360.4
+     ],
+     "text": "SA & LA\n8 (57.1%)\n70 ( 61.4%)\n \n \n"
+    },
+    {
+     "bbox": [
+      72.9,
+      386.8,
+      479.9,
+      397.5
+     ],
+     "text": "TABLE 4: Association of intra-operative factors with Surgical Site Infection at Shirati KMT\n"
+    },
+    {
+     "bbox": [
+      72.9,
+      401.2,
+      110.7,
+      411.9
+     ],
+     "text": "Hospital\n"
+    },
+    {
+     "bbox": [
+      72.9,
+      418.9,
+      521.7,
+      434.7
+     ],
+     "text": "n: number of patients in percentage; N: number of patients with or without SSI; CI: confidence interval; GA: general anesthesia; SA: spinal anesthesia; LA:\nlocal anesthesia\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      468.5,
+      333.5,
+      479.9
+     ],
+     "text": "Multivariate logistic regression\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      484.8,
+      528.6,
+      514.5
+     ],
+     "text": "On multivariate logistic regression, antimicrobial prophylaxis, major surgeries, and elective cases were 1.05,\n1.16, and 1.07 times more likely to result in SSI (Table 5). Clean contaminated wound class is a significant\npredictor of SSI, with an odds ratio of 1.35 and p-value of 0.037.\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      550.1,
+      316.7,
+      554.8
+     ],
+     "text": "Predictor variable\np-value\nOdds Ratio\n"
+    },
+    {
+     "bbox": [
+      373.6,
+      541.1,
+      387.3,
+      545.8
+     ],
+     "text": "95% CI\n"
+    },
+    {
+     "bbox": [
+      373.6,
+      559.1,
+      470.8,
+      563.8
+     ],
+     "text": "Lower 95%\nUpper 95%\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      577.1,
+      458.0,
+      581.8
+     ],
+     "text": "Antibiotic prophylaxis\n0.545\n1.05\n0.89\n1.25\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      595.1,
+      458.0,
+      599.8
+     ],
+     "text": "Major operation\n0.093\n1.16\n0.98\n1.37\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      613.2,
+      458.0,
+      617.8
+     ],
+     "text": "Elective operation\n0.236\n1.07\n0.96\n1.20\n"
+    },
+    {
+     "bbox": [
+      77.1,
+      631.2,
+      458.0,
+      635.9
+     ],
+     "text": "Clean contaminated wound\n0.037\n1.35\n1.02\n1.78\n"
+    },
+    {
+     "bbox": [
+      72.9,
+      662.3,
+      481.0,
+      673.0
+     ],
+     "text": "TABLE 5: Multivariate logistic regression analysis of factors associated with Surgical Site\n"
+    },
+    {
+     "bbox": [
+      72.9,
+      676.7,
+      220.6,
+      687.4
+     ],
+     "text": "Infection at Shirati KMT Hospital\n"
+    },
+    {
+     "bbox": [
+      72.9,
+      694.4,
+      138.1,
+      701.8
+     ],
+     "text": "CI: confidence interval\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      734.6,
+      250.5,
+      748.7
+     ],
+     "text": "Discussion\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      751.9,
+      520.2,
+      771.4
+     ],
+     "text": "Despite major improvements in clinical settings, SSI is one of the leading causes of nosocomial infections\nacross the globe [18]. SSI has been reported to be higher and increasingly associated with morbidity and\n"
+    },
+    {
+     "bbox": [
+      99.9,
+      32.8,
+      530.9,
+      42.4
+     ],
+     "text": " \nPublished via ACOS General Surgery\n"
+    },
+    {
+     "bbox": [
+      28.5,
+      789.8,
+      566.3,
+      797.2
+     ],
+     "text": "2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n5 of 8\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "mortality in developing nations. Several studies in Tanzania previously reported SSI rates of 19.4%, 24%\n[14,15], and most recently 26% [16]. The purpose of this study was to establish a baseline SSI rate and to\nreport on predictor variables associated with SSI among patients undergoing both major and minor surgeries\nat Shirati KMT Hospital in Northeastern Tanzania.\nThere was a total of 428 surgeries that occurred between January 1 and June 9, 2019, at Shirati KMT\nHospital. After transcribing the handwritten hospital records into an Excel sheet and excluding missing\ninformation, we had a total of 128 patients (Table 1). SSI was documented in 14 of them, giving the SSI rate\nof 10.9%, which is the lowest when compared to previously reported SSI rates in the sub-Saharan region:\n15.6-26% [14-16,19-21]. Although there was no statistically significant correlation between SSI and age or\ngender, the results showed that most of the SSI population was female (78.6%) with an SSI rate of 11.1%. The\nmean age of the SSI population was 28.6 with a standard deviation of 17.4 (Table 1). A recent study at\nBugando Medical Centre in Northwestern Tanzania showed that their SSI group had a mean age of 38 and\ncomprised 60% males [16] while another study from Ethiopia reported mean age of 30.85 and 61% males in\ntheir SSI population [21]. These contradictory findings can be due to the great abundance of certain types of\nsurgeries, some of which are only appropriate for certain age or gender groups. For example, the majority\n(30.8%) of the patients with SSI had undergone prostatectomy at the Bugando Medical Centre in\nNorthwestern Tanzania [16]. Whereas, in the current study, most of the SSI population are females of child-\nbearing ages and thus could have undergone cesarean section since such an operation has been reported to\nbe associated with an increased risk of SSI [8].\nPatients receiving antibiotic prophylaxis were at an increased odds of developing SSI (odds ratio of 1.97),\nconsistent with previous studies in developing nations such as Tanzania, Ethiopia, and Nepal [12,15,20]. We\nalso report an increased correlation between SSI and the use of two or more types of antibiotics. A higher\nrate of SSI among those with prophylaxis and the use of multiple antibiotics is possibly due to antibiotic\nresistance and multidrug-resistant bacteria, as previously reported [16,22]. There was a positive association\nbetween an ASA score above I and SSI, as shown by an odds ratio of 1.3 (Table 3), consistent with previous\nfindings in both developed and developing nations that showed an increased risk of developing SSI in\npatients with pre-existing conditions such as obesity, diabetes mellitus, hypertension, and acquired\nimmunodeficiency syndrome (AIDS) [16,23,24].\nAs previously shown in other studies that increased length of operation was associated with increased risk\nof SSI [16,21,25], we also found that patients undergoing operations of 30 minutes or longer were more\nprone to develop SSI (odds ratio of 1.24). This can be explained by major cases requiring extensive work in\nthe operation room. In addition, patients who had undergone elective operations or received general\nanesthesia were at more risk of developing SSI compared to those undergoing spinal or local anesthesia. This\ncontradicts the abovementioned assumption that elective operations such as cesarean section requiring\nspinal anesthesia can play a major role in the current findings. Although it is unclear whether general\nanesthesia can increase the risk of SSI, studies have shown that certain general anesthetics can alter\nneutrophil functions and phagocytosis, attenuating immunity [26]. Based on previous studies and our\ncurrent findings that show an increased correlation between SSI and antibiotic prophylaxis, major\noperation, elective cases, or clean contaminated wound status, we carried out a multivariate logistic\nregression analysis. Among the possible predictors of SSI, clean contaminated wound class was significantly\nassociated with SSI, as shown by both univariate and multivariate logistic regression analyses (Tables 4, 5).\nThis finding was consistent across many reports in both developed and developing countries and is proven\nto be a major predictor for postoperative infection [15,16,27].\nThe present study was limited in that there was missing information on many patients undergoing surgeries\nat the Shirati KMT Hospital in the given period. We speculate that handwritten charts and notes play a major\nrole in such limitations. As a result, misinterpretation of such data was highly possible and could have\nhindered our findings. To avoid such errors, we only included patients with complete information pertaining\nto the predictive factors. In addition, the misplacement of files was common. Files of deceased patients were\ndumped in one huge box without any organization so were not located due to time constraints. This could\nhave been an important factor since mortality was found to be associated with SSI. Another crucial factor\nthat added to the limitation of the current study was the absence of post-operation follow-ups and record-\nkeeping of such information. SSI typically occurs within 30 days after surgery [1]. Most patients at the Shirati\nKMT Hospital did not stay in the post-op ward for this long, possibly due to a lack of hospital resources and\nfinancial limitations of the patients. The patients could have developed SSI and did not address it with the\nhospital or might have gone to a different hospital for treatment. Therefore, this study did not include\nanalysis of previously reported and widely known SSI factors such as pre-morbid illnesses, cigarette\nsmoking, prevalent of AIDS, pre-operative hospitalization details, number of people in the operation room,\nand use of povidone or surgical drain [16,24,28-30].\nConclusions\nAlthough there have been significant efforts in improving surgical practices around the world, SSI remains a\nmajor burden in resource-limited regions, particularly in Sub-Saharan countries such as Tanzania. In this\nretrospective analysis of surgeries occurring between January 1 and June 9, 2019, at Shirati KMT Hospital in\nNortheastern Tanzania, we conclude that clean contaminated wound class was a significant risk factor for\n \nPublished via ACOS General Surgery\n2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n6 of 8\n",
+   "n_chars": 6404,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      183.3,
+      57.5,
+      530.2,
+      97.4
+     ],
+     "text": "mortality in developing nations. Several studies in Tanzania previously reported SSI rates of 19.4%, 24%\n[14,15], and most recently 26% [16]. The purpose of this study was to establish a baseline SSI rate and to\nreport on predictor variables associated with SSI among patients undergoing both major and minor surgeries\nat Shirati KMT Hospital in Northeastern Tanzania.\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      110.3,
+      531.3,
+      262.4
+     ],
+     "text": "There was a total of 428 surgeries that occurred between January 1 and June 9, 2019, at Shirati KMT\nHospital. After transcribing the handwritten hospital records into an Excel sheet and excluding missing\ninformation, we had a total of 128 patients (Table 1). SSI was documented in 14 of them, giving the SSI rate\nof 10.9%, which is the lowest when compared to previously reported SSI rates in the sub-Saharan region:\n15.6-26% [14-16,19-21]. Although there was no statistically significant correlation between SSI and age or\ngender, the results showed that most of the SSI population was female (78.6%) with an SSI rate of 11.1%. The\nmean age of the SSI population was 28.6 with a standard deviation of 17.4 (Table 1). A recent study at\nBugando Medical Centre in Northwestern Tanzania showed that their SSI group had a mean age of 38 and\ncomprised 60% males [16] while another study from Ethiopia reported mean age of 30.85 and 61% males in\ntheir SSI population [21]. These contradictory findings can be due to the great abundance of certain types of\nsurgeries, some of which are only appropriate for certain age or gender groups. For example, the majority\n(30.8%) of the patients with SSI had undergone prostatectomy at the Bugando Medical Centre in\nNorthwestern Tanzania [16]. Whereas, in the current study, most of the SSI population are females of child-\nbearing ages and thus could have undergone cesarean section since such an operation has been reported to\nbe associated with an increased risk of SSI [8].\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      275.3,
+      527.5,
+      366.3
+     ],
+     "text": "Patients receiving antibiotic prophylaxis were at an increased odds of developing SSI (odds ratio of 1.97),\nconsistent with previous studies in developing nations such as Tanzania, Ethiopia, and Nepal [12,15,20]. We\nalso report an increased correlation between SSI and the use of two or more types of antibiotics. A higher\nrate of SSI among those with prophylaxis and the use of multiple antibiotics is possibly due to antibiotic\nresistance and multidrug-resistant bacteria, as previously reported [16,22]. There was a positive association\nbetween an ASA score above I and SSI, as shown by an odds ratio of 1.3 (Table 3), consistent with previous\nfindings in both developed and developing nations that showed an increased risk of developing SSI in\npatients with pre-existing conditions such as obesity, diabetes mellitus, hypertension, and acquired\nimmunodeficiency syndrome (AIDS) [16,23,24].\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      379.2,
+      531.2,
+      531.3
+     ],
+     "text": "As previously shown in other studies that increased length of operation was associated with increased risk\nof SSI [16,21,25], we also found that patients undergoing operations of 30 minutes or longer were more\nprone to develop SSI (odds ratio of 1.24). This can be explained by major cases requiring extensive work in\nthe operation room. In addition, patients who had undergone elective operations or received general\nanesthesia were at more risk of developing SSI compared to those undergoing spinal or local anesthesia. This\ncontradicts the abovementioned assumption that elective operations such as cesarean section requiring\nspinal anesthesia can play a major role in the current findings. Although it is unclear whether general\nanesthesia can increase the risk of SSI, studies have shown that certain general anesthetics can alter\nneutrophil functions and phagocytosis, attenuating immunity [26]. Based on previous studies and our\ncurrent findings that show an increased correlation between SSI and antibiotic prophylaxis, major\noperation, elective cases, or clean contaminated wound status, we carried out a multivariate logistic\nregression analysis. Among the possible predictors of SSI, clean contaminated wound class was significantly\nassociated with SSI, as shown by both univariate and multivariate logistic regression analyses (Tables 4, 5).\nThis finding was consistent across many reports in both developed and developing countries and is proven\nto be a major predictor for postoperative infection [15,16,27].\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      544.2,
+      530.8,
+      696.4
+     ],
+     "text": "The present study was limited in that there was missing information on many patients undergoing surgeries\nat the Shirati KMT Hospital in the given period. We speculate that handwritten charts and notes play a major\nrole in such limitations. As a result, misinterpretation of such data was highly possible and could have\nhindered our findings. To avoid such errors, we only included patients with complete information pertaining\nto the predictive factors. In addition, the misplacement of files was common. Files of deceased patients were\ndumped in one huge box without any organization so were not located due to time constraints. This could\nhave been an important factor since mortality was found to be associated with SSI. Another crucial factor\nthat added to the limitation of the current study was the absence of post-operation follow-ups and record-\nkeeping of such information. SSI typically occurs within 30 days after surgery [1]. Most patients at the Shirati\nKMT Hospital did not stay in the post-op ward for this long, possibly due to a lack of hospital resources and\nfinancial limitations of the patients. The patients could have developed SSI and did not address it with the\nhospital or might have gone to a different hospital for treatment. Therefore, this study did not include\nanalysis of previously reported and widely known SSI factors such as pre-morbid illnesses, cigarette\nsmoking, prevalent of AIDS, pre-operative hospitalization details, number of people in the operation room,\nand use of povidone or surgical drain [16,24,28-30].\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      709.4,
+      258.9,
+      723.5
+     ],
+     "text": "Conclusions\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      726.7,
+      528.4,
+      766.6
+     ],
+     "text": "Although there have been significant efforts in improving surgical practices around the world, SSI remains a\nmajor burden in resource-limited regions, particularly in Sub-Saharan countries such as Tanzania. In this\nretrospective analysis of surgeries occurring between January 1 and June 9, 2019, at Shirati KMT Hospital in\nNortheastern Tanzania, we conclude that clean contaminated wound class was a significant risk factor for\n"
+    },
+    {
+     "bbox": [
+      99.9,
+      32.8,
+      530.9,
+      42.4
+     ],
+     "text": " \nPublished via ACOS General Surgery\n"
+    },
+    {
+     "bbox": [
+      28.5,
+      789.8,
+      566.3,
+      797.2
+     ],
+     "text": "2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n6 of 8\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "SSI. Other factors that showed trends toward SSI were an age of 40 or younger, elective operations,\noperations lasting longer than 30 minutes, and use of antibiotic prophylaxis. This study is the first to\ndetermine the SSI rate and risk factors associated with SSI at the Shirati KMT Hospital and can be a crucial\nstep for the hospital to improve its record-keeping and surveillance system for SSI. As such, an additional\nstudy exploring more widespread risk factors and patients' past medical history, social history including\nsmoking and illicit drug use, and detailed hospitalization records is needed for developing and/or improving\nthe surveillance system for SSI at the Shirati KMT Hospital.\nAdditional Information\nDisclosures\nHuman subjects: Consent was obtained or waived by all participants in this study. Touro University\nCalifornia Institutional Review Board: Ted Wong, Ph.D. issued approval M-1319. This study was originally\napproved by the Touro University California Institutional Review Board (TUC IRB FWA00009823: exp\n10/01/2019; IRB 00004515; IORG0003813: exp 09/26/2020). Animal subjects: All authors have confirmed\nthat this study did not involve animal subjects or tissue. Conflicts of interest: In compliance with the\nICMJE uniform disclosure form, all authors declare the following: Payment/services info: All authors have\ndeclared that no financial support was received from any organization for the submitted work. Financial\nrelationships: All authors have declared that they have no financial relationships at present or within the\nprevious three years with any organizations that might have an interest in the submitted work. Other\nrelationships: All authors have declared that there are no other relationships or activities that could appear\nto have influenced the submitted work.\nReferences\n1. \nSalkind AR, Rao KC: Antiobiotic prophylaxis to prevent surgical site infections. Am Fam Physician. 2011,\n83:585-90.\n2. \nAga E, Keinan-Boker L, Eithan A, Mais T, Rabinovich A, Nassar F: Surgical site infections after abdominal\nsurgery: incidence and risk factors. A prospective cohort study. Infect Dis (Lond). 2015, 47:761-7.\n10.3109/23744235.2015.1055587\n3. \nIskandar K, Sartelli M, Tabbal M, et al.: Highlighting the gaps in quantifying the economic burden of surgical\nsite infections associated with antimicrobial-resistant bacteria. World J Emerg Surg. 2019, 14:50.\n10.1186/s13017-019-0266-x\n4. \nAnderson DJ, Kaye KS, Chen LF, Schmader KE, Choi Y, Sloane R, Sexton DJ: Clinical and financial outcomes\ndue to methicillin resistant Staphylococcus aureus surgical site infection: a multi-center matched outcomes\nstudy. PLoS One. 2009, 4:e8305. 10.1371/journal.pone.0008305\n5. \nMagill SS, O'Leary E, Janelle SJ, et al.: Changes in prevalence of health care-associated infections in U.S.\nhospitals. N Engl J Med. 2018, 379:1732-44. 10.1056/NEJMoa1801550\n6. \nBerríos-Torres SI, Umscheid CA, Bratzler DW, et al.: Centers for Disease Control and Prevention guideline\nfor the prevention of surgical site infection, 2017. JAMA Surg. 2017, 152:784-91.\n10.1001/jamasurg.2017.0904\n7. \nMonahan M, Jowett S, Pinkney T, Brocklehurst P, Morton DG, Abdali Z, Roberts TE: Surgical site infection\nand costs in low- and middle-income countries: a systematic review of the economic burden. PLoS One.\n2020, 15:e0232960. 10.1371/journal.pone.0232960\n8. \nGaynes RP, Culver DH, Horan TC, Edwards JR, Richards C, Tolson JS: Surgical site infection (SSI) rates in the\nUnited States, 1992-1998: the National Nosocomial Infections Surveillance System basic SSI risk index. Clin\nInfect Dis. 2001, 33 Suppl 2:S69-77. 10.1086/321860\n9. \nBagheri Nejad S, Allegranzi B, Syed SB, Ellis B, Pittet D: Health-care-associated infection in Africa: a\nsystematic review. Bull World Health Organ. 2011, 89:757-65. 10.2471/BLT.11.088179\n10. \nAtif ML, Bezzaoucha A, Mesbah S, Djellato S, Boubechou N, Bellouni R: Evolution of nosocomial infection\nprevalence in an Algeria university hospital (2001 to 2005) [Article in French]. Med Mal Infect. 2006, 36:423-\n8. 10.1016/j.medmal.2006.05.002\n11. \nPinkney TD, Calvert M, Bartlett DC, et al.: Impact of wound edge protection devices on surgical site\ninfection after laparotomy: multicentre randomised controlled trial (ROSSINI Trial). BMJ. 2013, 347:f4305.\n10.1136/bmj.f4305\n12. \nGiri BR, Pant HP, Shankar PR, Sreeramareddy CT, Sen PK: Surgical site infection and antibiotics use pattern\nin a tertiary care hospital in Nepal. J Pak Med Assoc. 2008, 58:148-51.\n13. \nBrown S, Kurtsikashvili G, Alonso-Echanove J, et al.: Prevalence and predictors of surgical site infection in\nTbilisi, Republic of Georgia. J Hosp Infect. 2007, 66:160-6. 10.1016/j.jhin.2007.03.007\n14. \nFehr J, Hatz C, Soka I, et al.: Risk factors for surgical site infection in a Tanzanian district hospital: a\nchallenge for the traditional National Nosocomial Infections Surveillance system index. Infect Control Hosp\nEpidemiol. 2006, 27:1401-4. 10.1086/509855\n15. \nEriksen HM, Chugulu S, Kondo S, Lingaas E: Surgical-site infections at Kilimanjaro Christian Medical\nCenter. J Hosp Infect. 2003, 55:14-20. 10.1016/s0195-6701(03)00225-1\n16. \nMawalla B, Mshana SE, Chalya PL, Imirzalioglu C, Mahalu W: Predictors of surgical site infections among\npatients undergoing major surgery at Bugando Medical Centre in Northwestern Tanzania. BMC Surg. 2011,\n11:21. 10.1186/1471-2482-11-21\n17. \nHaley RW, Culver DH, White JW, Morgan WM, Emori TG, Munn VP, Hooton TM: The efficacy of infection\nsurveillance and control programs in preventing nosocomial infections in US hospitals. Am J Epidemiol.\n1985, 121:182-205. 10.1093/oxfordjournals.aje.a113990\n18. \nMartone WJ, Nichols RL: Recognition, prevention, surveillance, and management of surgical site infections:\nintroduction to the problem and symposium overview. Clin Infect Dis. 2001, 33 Suppl 2:S67-8.\n \nPublished via ACOS General Surgery\n2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n7 of 8\n",
+   "n_chars": 5949,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      183.3,
+      57.5,
+      528.0,
+      128.0
+     ],
+     "text": "SSI. Other factors that showed trends toward SSI were an age of 40 or younger, elective operations,\noperations lasting longer than 30 minutes, and use of antibiotic prophylaxis. This study is the first to\ndetermine the SSI rate and risk factors associated with SSI at the Shirati KMT Hospital and can be a crucial\nstep for the hospital to improve its record-keeping and surveillance system for SSI. As such, an additional\nstudy exploring more widespread risk factors and patients' past medical history, social history including\nsmoking and illicit drug use, and detailed hospitalization records is needed for developing and/or improving\nthe surveillance system for SSI at the Shirati KMT Hospital.\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      141.0,
+      317.6,
+      155.1
+     ],
+     "text": "Additional Information\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      159.4,
+      241.1,
+      170.8
+     ],
+     "text": "Disclosures\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      175.7,
+      529.4,
+      287.1
+     ],
+     "text": "Human subjects: Consent was obtained or waived by all participants in this study. Touro University\nCalifornia Institutional Review Board: Ted Wong, Ph.D. issued approval M-1319. This study was originally\napproved by the Touro University California Institutional Review Board (TUC IRB FWA00009823: exp\n10/01/2019; IRB 00004515; IORG0003813: exp 09/26/2020). Animal subjects: All authors have confirmed\nthat this study did not involve animal subjects or tissue. Conflicts of interest: In compliance with the\nICMJE uniform disclosure form, all authors declare the following: Payment/services info: All authors have\ndeclared that no financial support was received from any organization for the submitted work. Financial\nrelationships: All authors have declared that they have no financial relationships at present or within the\nprevious three years with any organizations that might have an interest in the submitted work. Other\nrelationships: All authors have declared that there are no other relationships or activities that could appear\nto have influenced the submitted work.\n"
+    },
+    {
+     "bbox": [
+      183.3,
+      300.1,
+      251.2,
+      314.1
+     ],
+     "text": "References\n"
+    },
+    {
+     "bbox": [
+      194.1,
+      317.4,
+      532.1,
+      767.6
+     ],
+     "text": "1. \nSalkind AR, Rao KC: Antiobiotic prophylaxis to prevent surgical site infections. Am Fam Physician. 2011,\n83:585-90.\n2. \nAga E, Keinan-Boker L, Eithan A, Mais T, Rabinovich A, Nassar F: Surgical site infections after abdominal\nsurgery: incidence and risk factors. A prospective cohort study. Infect Dis (Lond). 2015, 47:761-7.\n10.3109/23744235.2015.1055587\n3. \nIskandar K, Sartelli M, Tabbal M, et al.: Highlighting the gaps in quantifying the economic burden of surgical\nsite infections associated with antimicrobial-resistant bacteria. World J Emerg Surg. 2019, 14:50.\n10.1186/s13017-019-0266-x\n4. \nAnderson DJ, Kaye KS, Chen LF, Schmader KE, Choi Y, Sloane R, Sexton DJ: Clinical and financial outcomes\ndue to methicillin resistant Staphylococcus aureus surgical site infection: a multi-center matched outcomes\nstudy. PLoS One. 2009, 4:e8305. 10.1371/journal.pone.0008305\n5. \nMagill SS, O'Leary E, Janelle SJ, et al.: Changes in prevalence of health care-associated infections in U.S.\nhospitals. N Engl J Med. 2018, 379:1732-44. 10.1056/NEJMoa1801550\n6. \nBerríos-Torres SI, Umscheid CA, Bratzler DW, et al.: Centers for Disease Control and Prevention guideline\nfor the prevention of surgical site infection, 2017. JAMA Surg. 2017, 152:784-91.\n10.1001/jamasurg.2017.0904\n7. \nMonahan M, Jowett S, Pinkney T, Brocklehurst P, Morton DG, Abdali Z, Roberts TE: Surgical site infection\nand costs in low- and middle-income countries: a systematic review of the economic burden. PLoS One.\n2020, 15:e0232960. 10.1371/journal.pone.0232960\n8. \nGaynes RP, Culver DH, Horan TC, Edwards JR, Richards C, Tolson JS: Surgical site infection (SSI) rates in the\nUnited States, 1992-1998: the National Nosocomial Infections Surveillance System basic SSI risk index. Clin\nInfect Dis. 2001, 33 Suppl 2:S69-77. 10.1086/321860\n9. \nBagheri Nejad S, Allegranzi B, Syed SB, Ellis B, Pittet D: Health-care-associated infection in Africa: a\nsystematic review. Bull World Health Organ. 2011, 89:757-65. 10.2471/BLT.11.088179\n10. \nAtif ML, Bezzaoucha A, Mesbah S, Djellato S, Boubechou N, Bellouni R: Evolution of nosocomial infection\nprevalence in an Algeria university hospital (2001 to 2005) [Article in French]. Med Mal Infect. 2006, 36:423-\n8. 10.1016/j.medmal.2006.05.002\n11. \nPinkney TD, Calvert M, Bartlett DC, et al.: Impact of wound edge protection devices on surgical site\ninfection after laparotomy: multicentre randomised controlled trial (ROSSINI Trial). BMJ. 2013, 347:f4305.\n10.1136/bmj.f4305\n12. \nGiri BR, Pant HP, Shankar PR, Sreeramareddy CT, Sen PK: Surgical site infection and antibiotics use pattern\nin a tertiary care hospital in Nepal. J Pak Med Assoc. 2008, 58:148-51.\n13. \nBrown S, Kurtsikashvili G, Alonso-Echanove J, et al.: Prevalence and predictors of surgical site infection in\nTbilisi, Republic of Georgia. J Hosp Infect. 2007, 66:160-6. 10.1016/j.jhin.2007.03.007\n14. \nFehr J, Hatz C, Soka I, et al.: Risk factors for surgical site infection in a Tanzanian district hospital: a\nchallenge for the traditional National Nosocomial Infections Surveillance system index. Infect Control Hosp\nEpidemiol. 2006, 27:1401-4. 10.1086/509855\n15. \nEriksen HM, Chugulu S, Kondo S, Lingaas E: Surgical-site infections at Kilimanjaro Christian Medical\nCenter. J Hosp Infect. 2003, 55:14-20. 10.1016/s0195-6701(03)00225-1\n16. \nMawalla B, Mshana SE, Chalya PL, Imirzalioglu C, Mahalu W: Predictors of surgical site infections among\npatients undergoing major surgery at Bugando Medical Centre in Northwestern Tanzania. BMC Surg. 2011,\n11:21. 10.1186/1471-2482-11-21\n17. \nHaley RW, Culver DH, White JW, Morgan WM, Emori TG, Munn VP, Hooton TM: The efficacy of infection\nsurveillance and control programs in preventing nosocomial infections in US hospitals. Am J Epidemiol.\n1985, 121:182-205. 10.1093/oxfordjournals.aje.a113990\n18. \nMartone WJ, Nichols RL: Recognition, prevention, surveillance, and management of surgical site infections:\nintroduction to the problem and symposium overview. Clin Infect Dis. 2001, 33 Suppl 2:S67-8.\n"
+    },
+    {
+     "bbox": [
+      99.9,
+      32.8,
+      530.9,
+      42.4
+     ],
+     "text": " \nPublished via ACOS General Surgery\n"
+    },
+    {
+     "bbox": [
+      28.5,
+      789.8,
+      566.3,
+      797.2
+     ],
+     "text": "2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n7 of 8\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "10.1086/321859\n19. \nAiken AM, Karuri DM, Wanyoro AK, Macleod J: Interventional studies for preventing surgical site infections\nin sub-Saharan Africa - a systematic review. Int J Surg. 2012, 10:242-9. 10.1016/j.ijsu.2012.04.004\n20. \nSway A, Nthumba P, Solomkin J, Tarchini G, Gibbs R, Ren Y, Wanyoro A: Burden of surgical site infection\nfollowing cesarean section in sub-Saharan Africa: a narrative review. Int J Womens Health. 2019, 11:309-18.\n10.2147/IJWH.S182362\n21. \nLegesse Laloto T, Hiko Gemeda D, Abdella SH: Incidence and predictors of surgical site infection in\nEthiopia: prospective cohort. BMC Infect Dis. 2017, 17:119. 10.1186/s12879-016-2167-x\n22. \nGetahun GM, Woldemedhin Y, Demissie M, Mamo K, Geyid A: Common causes of nosocomial infections and\ntheir susceptibility patterns in two hospitals in Addis Ababa. Ethiop J Health Biomed Sci. 2009, 2:\n23. \nHaynes SR, Lawler PG: An assessment of the consistency of ASA physical status classification allocation .\nAnaesthesia. 1995, 50:195-9. 10.1111/j.1365-2044.1995.tb04554.x\n24. \nKaye KS, Sands K, Donahue JG, Chan KA, Fishman P, Platt R: Preoperative drug dispensing as predictor of\nsurgical site infection. Emerg Infect Dis. 2001, 7:57-65. 10.3201/eid0701.010110\n25. \nMazziotti A, Cavallari A, Gozzetti G, Possati L: The problem of hepatic hemodynamic changes following\nportacaval anastomosis (PCA). Ann Surg. 1983, 198:797-8.\n26. \nKoutsogiannaki S, Bernier R, Tazawa K, Yuki K: Volatile anesthetic attenuates phagocyte function and\nworsens bacterial loads in wounds. J Surg Res. 2019, 233:323-30. 10.1016/j.jss.2018.07.075\n27. \nOlson MM, Lee JT Jr: Continuous, 10-year wound infection surveillance. Results, advantages, and\nunanswered questions. Arch Surg. 1990, 125:794-803. 10.1001/archsurg.1990.01410180120020\n28. \nNagachinta T, Stephens M, Reitz B, Polk BF: Risk factors for surgical-wound infection following cardiac\nsurgery. J Infect Dis. 1987, 156:967-73. 10.1093/infdis/156.6.967\n29. \nKalmeijer MD, van Nieuwland-Bollen E, Bogaers-Hofman D, de Baere GA: Nasal carriage of Staphylococcus\naureus is a major risk factor for surgical-site infections in orthopedic surgery. Infect Control Hosp\nEpidemiol. 2000, 21:319-23. 10.1086/501763\n30. \nByrne DJ, Phillips G, Napier A, Cuschieri A: The effect of whole body disinfection on intraoperative wound\ncontamination. J Hosp Infect. 1991, 18:145-8. 10.1016/0195-6701(91)90159-6\n \nPublished via ACOS General Surgery\n2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n8 of 8\n",
+   "n_chars": 2502,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      194.1,
+      57.5,
+      531.0,
+      315.7
+     ],
+     "text": "10.1086/321859\n19. \nAiken AM, Karuri DM, Wanyoro AK, Macleod J: Interventional studies for preventing surgical site infections\nin sub-Saharan Africa - a systematic review. Int J Surg. 2012, 10:242-9. 10.1016/j.ijsu.2012.04.004\n20. \nSway A, Nthumba P, Solomkin J, Tarchini G, Gibbs R, Ren Y, Wanyoro A: Burden of surgical site infection\nfollowing cesarean section in sub-Saharan Africa: a narrative review. Int J Womens Health. 2019, 11:309-18.\n10.2147/IJWH.S182362\n21. \nLegesse Laloto T, Hiko Gemeda D, Abdella SH: Incidence and predictors of surgical site infection in\nEthiopia: prospective cohort. BMC Infect Dis. 2017, 17:119. 10.1186/s12879-016-2167-x\n22. \nGetahun GM, Woldemedhin Y, Demissie M, Mamo K, Geyid A: Common causes of nosocomial infections and\ntheir susceptibility patterns in two hospitals in Addis Ababa. Ethiop J Health Biomed Sci. 2009, 2:\n23. \nHaynes SR, Lawler PG: An assessment of the consistency of ASA physical status classification allocation .\nAnaesthesia. 1995, 50:195-9. 10.1111/j.1365-2044.1995.tb04554.x\n24. \nKaye KS, Sands K, Donahue JG, Chan KA, Fishman P, Platt R: Preoperative drug dispensing as predictor of\nsurgical site infection. Emerg Infect Dis. 2001, 7:57-65. 10.3201/eid0701.010110\n25. \nMazziotti A, Cavallari A, Gozzetti G, Possati L: The problem of hepatic hemodynamic changes following\nportacaval anastomosis (PCA). Ann Surg. 1983, 198:797-8.\n26. \nKoutsogiannaki S, Bernier R, Tazawa K, Yuki K: Volatile anesthetic attenuates phagocyte function and\nworsens bacterial loads in wounds. J Surg Res. 2019, 233:323-30. 10.1016/j.jss.2018.07.075\n27. \nOlson MM, Lee JT Jr: Continuous, 10-year wound infection surveillance. Results, advantages, and\nunanswered questions. Arch Surg. 1990, 125:794-803. 10.1001/archsurg.1990.01410180120020\n28. \nNagachinta T, Stephens M, Reitz B, Polk BF: Risk factors for surgical-wound infection following cardiac\nsurgery. J Infect Dis. 1987, 156:967-73. 10.1093/infdis/156.6.967\n29. \nKalmeijer MD, van Nieuwland-Bollen E, Bogaers-Hofman D, de Baere GA: Nasal carriage of Staphylococcus\naureus is a major risk factor for surgical-site infections in orthopedic surgery. Infect Control Hosp\nEpidemiol. 2000, 21:319-23. 10.1086/501763\n30. \nByrne DJ, Phillips G, Napier A, Cuschieri A: The effect of whole body disinfection on intraoperative wound\ncontamination. J Hosp Infect. 1991, 18:145-8. 10.1016/0195-6701(91)90159-6\n"
+    },
+    {
+     "bbox": [
+      99.9,
+      32.8,
+      530.9,
+      42.4
+     ],
+     "text": " \nPublished via ACOS General Surgery\n"
+    },
+    {
+     "bbox": [
+      28.5,
+      789.8,
+      566.3,
+      797.2
+     ],
+     "text": "2023 Bayardorj et al. Cureus 15(2): e34573. DOI 10.7759/cureus.34573\n8 of 8\n"
+    }
+   ]
+  }
+ ]
+}

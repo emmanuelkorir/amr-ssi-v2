@@ -1,0 +1,1276 @@
+{
+ "doc_id": "scherbaum-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Scherbaum et al..pdf",
+ "sha256": "b8a2dd2ff3817d0098d9a1ba732ce3aef63e91e533a09d7014abcd3ec5af2b02",
+ "document_type": "pdf",
+ "n_pages": 8,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "",
+  "author": "",
+  "subject": "",
+  "keywords": "Nosocomial infections,Antibiotic resistance,Gabon",
+  "creator": "Arbortext Advanced Print Publisher 9.1.440/W Unicode",
+  "producer": "Acrobat Distiller 9.0.0 (Windows)",
+  "creationDate": "D:20160429205709+05'30'",
+  "modDate": "D:20160430183717+05'30'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:56+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "RESEARCH ARTICLE\nOpen Access\nIncidence, pathogens and resistance patterns of\nnosocomial infections at a rural hospital in Gabon\nMicha Scherbaum1,2, Katrin Kösters1,3, Raymund Egid Mürbeth1,4, Ulysse Ateba Ngoa1,2, Peter Gottfried Kremsner1,2,\nBertrand Lell1,2* and Abraham Alabi1,2\nAbstract\nBackground: Nosocomial infections pose substantial risk to patients receiving care in hospitals. In Africa, this\nproblem is aggravated by inadequate infection control due to poor hygiene, resource and structural constraints,\ndeficient surveillance data and lack of awareness regarding nosocomial infections. We carried out this study to\ndetermine the incidence and spectrum of nosocomial infections, pathogens and antibiotic resistance patterns in a\ntertiary regional hospital in Lambaréné, Gabon.\nMethods: This prospective case study was carried out over a period of six months at the Albert Schweitzer\nHospital, Lambaréné, Gabon. All patients admitted to the departments of surgery, gynecology/obstetrics and\ninternal medicine were screened daily for signs and symptoms of hospital-acquired infections.\nResults: A total of 2925 patients were screened out of which 46 nosocomial infections (1.6%) were diagnosed.\nThese comprised 20 (44%) surgical-site infections, 12 (26%) urinary-tract infections, 9 (20%) bacteraemias and 5\n(11%) other infections. High rates of nosocomial infections were found after hysterectomies (12%) and Caesarean\nsections (6%). Most frequent pathogens were Staphylococcus aureus and Escherichia coli. Eight (40%) of 20 identified\nE. coli and Klebsiella spp. strains were ESBL-producing organisms.\nConclusion: The cumulative incidence of nosocomial infections in this study was low; however, the high rates\nof surgical site infections and multi-resistant pathogens necessitate urgent comprehensive interventions of\ninfection control.\nKeywords: Nosocomial infections, Antibiotic resistance, Gabon\nBackground\nHealth-care-associated infection (HAI), otherwise known\nas nosocomial infection, is a major global safety concern\nfor both patients and health-care professionals [1-3].\nExcess morbidity, mortality and costs of illnesses caused\nby nosocomial infections have been demonstrated by\nseveral studies [1-7]. In the developed countries, it has\nbeen reported to affect from 5% to 15% of hospitalized\npatients in regular wards and as many as 50% or more of\npatients in intensive care units (ICUs), while in developing\ncountries the magnitude of the problem remains largely\nunderestimated [3,8]. Only few studies have focused on\nnosocomial infections in developing countries, especially\nin Sub-Saharan Africa [9,10]. As shown in a recent meta-\nanalysis of 220 studies from developing countries (of\nwhich only 14 studies were from Africa) high rates of\nnosocomial infections with an incidence of 7.4 infections\nper 100 patients were found [10].\nUrinary-tract infections represent the most frequent\nform of nosocomial infections in industrialized nations,\nwhile in developing countries invasive medical procedures\nplay a major role [1,11,12]. Surgical interventions are one\nof the biggest sources of nosocomial infections with an\nincidence ranging from 1.2% to 23.6% of all surgical\ninterventions and Staphylococcus aureus (20%), Escherichia\ncoli (18%) and other Enterobacteria constituting the most\nfrequent causative pathogens in developing countries\n[10,13-15]. Apart from patient-related factors (e.g. co-\ninfection of other local sites, malnutrition and/or immune-\n* Correspondence: bertrand.lell@uni-tuebingen.de\n1Centre de Recherches Medicales de Lambarene, Albert Schweitzer Hospital,\nPB 118 Lambaréné, Gabon\n2Department for Tropical Medicine, Eberhard-Karls-University Tübingen,\nWilhelmstraße 27, D-72074 Tübingen, Germany\nFull list of author information is available at the end of the article\n© 2014 Scherbaum et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the\nCreative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use,\ndistribution, and reproduction in any medium, provided the original work is properly credited.\nScherbaum et al. BMC Infectious Diseases 2014, 14:124\nhttp://www.biomedcentral.com/1471-2334/14/124\n",
+   "n_chars": 4242,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      60.7,
+      93.8,
+      534.5,
+      105.7
+     ],
+     "text": "RESEARCH ARTICLE\nOpen Access\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      124.0,
+      535.5,
+      172.0
+     ],
+     "text": "Incidence, pathogens and resistance patterns of\nnosocomial infections at a rural hospital in Gabon\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      180.9,
+      536.9,
+      207.3
+     ],
+     "text": "Micha Scherbaum1,2, Katrin Kösters1,3, Raymund Egid Mürbeth1,4, Ulysse Ateba Ngoa1,2, Peter Gottfried Kremsner1,2,\nBertrand Lell1,2* and Abraham Alabi1,2\n"
+    },
+    {
+     "bbox": [
+      63.2,
+      236.2,
+      101.7,
+      245.6
+     ],
+     "text": "Abstract\n"
+    },
+    {
+     "bbox": [
+      63.2,
+      254.4,
+      524.0,
+      311.6
+     ],
+     "text": "Background: Nosocomial infections pose substantial risk to patients receiving care in hospitals. In Africa, this\nproblem is aggravated by inadequate infection control due to poor hygiene, resource and structural constraints,\ndeficient surveillance data and lack of awareness regarding nosocomial infections. We carried out this study to\ndetermine the incidence and spectrum of nosocomial infections, pathogens and antibiotic resistance patterns in a\ntertiary regional hospital in Lambaréné, Gabon.\n"
+    },
+    {
+     "bbox": [
+      63.2,
+      317.4,
+      501.3,
+      350.6
+     ],
+     "text": "Methods: This prospective case study was carried out over a period of six months at the Albert Schweitzer\nHospital, Lambaréné, Gabon. All patients admitted to the departments of surgery, gynecology/obstetrics and\ninternal medicine were screened daily for signs and symptoms of hospital-acquired infections.\n"
+    },
+    {
+     "bbox": [
+      63.2,
+      356.4,
+      529.8,
+      413.6
+     ],
+     "text": "Results: A total of 2925 patients were screened out of which 46 nosocomial infections (1.6%) were diagnosed.\nThese comprised 20 (44%) surgical-site infections, 12 (26%) urinary-tract infections, 9 (20%) bacteraemias and 5\n(11%) other infections. High rates of nosocomial infections were found after hysterectomies (12%) and Caesarean\nsections (6%). Most frequent pathogens were Staphylococcus aureus and Escherichia coli. Eight (40%) of 20 identified\nE. coli and Klebsiella spp. strains were ESBL-producing organisms.\n"
+    },
+    {
+     "bbox": [
+      63.2,
+      419.4,
+      517.4,
+      452.6
+     ],
+     "text": "Conclusion: The cumulative incidence of nosocomial infections in this study was low; however, the high rates\nof surgical site infections and multi-resistant pathogens necessitate urgent comprehensive interventions of\ninfection control.\n"
+    },
+    {
+     "bbox": [
+      63.2,
+      460.4,
+      321.8,
+      469.6
+     ],
+     "text": "Keywords: Nosocomial infections, Antibiotic resistance, Gabon\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      490.6,
+      290.6,
+      632.3
+     ],
+     "text": "Background\nHealth-care-associated infection (HAI), otherwise known\nas nosocomial infection, is a major global safety concern\nfor both patients and health-care professionals [1-3].\nExcess morbidity, mortality and costs of illnesses caused\nby nosocomial infections have been demonstrated by\nseveral studies [1-7]. In the developed countries, it has\nbeen reported to affect from 5% to 15% of hospitalized\npatients in regular wards and as many as 50% or more of\npatients in intensive care units (ICUs), while in developing\ncountries the magnitude of the problem remains largely\nunderestimated [3,8]. Only few studies have focused on\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      491.0,
+      538.6,
+      560.3
+     ],
+     "text": "nosocomial infections in developing countries, especially\nin Sub-Saharan Africa [9,10]. As shown in a recent meta-\nanalysis of 220 studies from developing countries (of\nwhich only 14 studies were from Africa) high rates of\nnosocomial infections with an incidence of 7.4 infections\nper 100 patients were found [10].\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      563.0,
+      538.6,
+      692.3
+     ],
+     "text": "Urinary-tract infections represent the most frequent\nform of nosocomial infections in industrialized nations,\nwhile in developing countries invasive medical procedures\nplay a major role [1,11,12]. Surgical interventions are one\nof the biggest sources of nosocomial infections with an\nincidence ranging from 1.2% to 23.6% of all surgical\ninterventions and Staphylococcus aureus (20%), Escherichia\ncoli (18%) and other Enterobacteria constituting the most\nfrequent causative pathogens in developing countries\n[10,13-15]. Apart from patient-related factors (e.g. co-\ninfection of other local sites, malnutrition and/or immune-\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      649.4,
+      286.9,
+      701.3
+     ],
+     "text": "* Correspondence: bertrand.lell@uni-tuebingen.de\n1Centre de Recherches Medicales de Lambarene, Albert Schweitzer Hospital,\nPB 118 Lambaréné, Gabon\n2Department for Tropical Medicine, Eberhard-Karls-University Tübingen,\nWilhelmstraße 27, D-72074 Tübingen, Germany\nFull list of author information is available at the end of the article\n"
+    },
+    {
+     "bbox": [
+      180.5,
+      711.7,
+      500.4,
+      734.2
+     ],
+     "text": "© 2014 Scherbaum et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the\nCreative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use,\ndistribution, and reproduction in any medium, provided the original work is properly credited.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      34.7,
+      237.5,
+      52.1
+     ],
+     "text": "Scherbaum et al. BMC Infectious Diseases 2014, 14:124\nhttp://www.biomedcentral.com/1471-2334/14/124\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "deficiency), the quality of equipment, financial resources\nas well as the competence of the surgical team seem to be\nimportant determinants [13].\nIn developing countries a growing proportion of noso-\ncomial infections can be assigned to methicillin-resistant\nS. aureus (MRSA) and multi-resistant Gram-negative bac-\nteria [12,14]. In a recent study in Tanzania [15], surgical\nsite infection (SSI) was detected in 65 (26.0%) patients, of\nwhom 56 (86.2%) and 9 (13.8%) had superficial and deep\nSSI respectively. Among 65 patients with clinical SSI,\n56(86.2%) had positive aerobic culture. S. aureus was\nthe predominant organism 16/56 (28.6%); of which 3/\n16 (18.8%) were MRSA. This was followed by Escherichia\ncoli 14/56 (25%) and Klebsiella pneumoniae 10/56 (17.9%).\nAmong the E. coli and K. pneumoniae isolates 9(64.3%)\nand 8(80%) were ESBL producers respectively. In Niger,\na study reported up to 31% ESBL colonization rates on\nhospital admission [16].\nThe rapid spread of antibiotic-resistance poses an im-\nmense threat to health systems of these countries where\nadequate antibiotic treatment of infectious diseases is often\nhampered by financial constraints [17-19]. For Gabon and\nmost of Central Africa, data on nosocomial infections are\nlacking; hence this study was carried out to estimate the\nincidence of hospital-acquired infections and characterise\nthe pathogens responsible at a rural hospital in Central\nAfrica as a first step to reduce nosocomial infections.\nMethods\nStudy area\nLambaréné has approximately 24000 inhabitants and lies\non the Ogooué River, in a region predominantly covered\nby dense tropical rain forest in Central Africa. The Albert\nSchweitzer Hospital, a 150 bed health facility, has a catch-\nment population of about 50000 persons and provides\nsurgical, internal medical, obstetrics/gynecological and\npediatric services.\nStudy procedures\nWe undertook a prospective surveillance study in order\nto determine the incidence of nosocomial infections at\nthe Albert Schweitzer Hospital. The study was carried\nout in the departments of aseptic surgery (clean and\nclean contaminated surgery), septic surgery (contaminated\nsurgery), gynecology/obstetrics and internal medicine with\na total of 114 beds. The study lasted six months from\nJanuary to July 2009. On daily rounds all patients were\nscreened daily for signs and symptoms of nosocomial\ninfections. Patients with a new occurrence of fever (> 38°C)\nat least 48 hours after admission or a repeated episode\nof fever after a non-febrile interval of 72 hours, signs of\ninfection at the site of surgical operations, or a reopening\nof the operation site due to infection qualified for fur-\nther evaluation. Further evaluation consisted of a clinical\nexamination, and personal data, reason for hospitalization,\noperations, current signs and symptoms, and inserted\nvenous or urinary catheters were recorded. Days from\nadmission to occurrence of fever or other signs and\nsymptoms of nosocomial infections were noted.\nBased on clinical signs and symptoms, specific labora-\ntory tests were performed. For every patient with fever\n(> 38°C), blood and urine cultures as well as parasito-\nlogical examination of thick blood smear for exclusion of\nmalaria were carried out. In case of a suspected surgical\nsite infection a wound swab was obtained and processed\nin the microbiology laboratory. Specific symptoms like\ndiarrhoea or abnormal breathing sounds led to stool\nexaminations or chest x-ray, respectively. To ensure that\nan additional nosocomial infection of the same patient\nhad originated independently from a previous one, the\npatient had to be symptom free for at least 72 hours or\nthe infection had to affect a different localisation or\ngrow a different pathogen. Classification of cases occurred\naccording to the definitions of nosocomial infections of\nthe Robert Koch Institute (RKI) in Berlin which were\nbased on the current CDC guidelines [20]. These criteria\ngive an epidemiological definition of nosocomial infections\nto be able to compare surveillance data from different\nstudies. The time for occurrence of nosocomial infection\nwas noted and analysed; and patients who had no nosoco-\nmial infection at the time of initial screening were\nfollowed up daily for symptoms of nosocomial infections\nuntil they were discharged. Patients with nosocomial\ninfections were also followed up until discharge.\nLaboratory procedures\nMicrobiological specimens were processed according to\ngood laboratory practice and standard methods for iden-\ntification. Briefly, blood cultures were collected in Bactec\nblood culture bottles (BD Blood Culture System, Becton,\nDickinson and Company) and incubated at 37°C in Bactec\n9050. Positive bottles were subcultured on blood, choc-\nolate and MacConkey agar. Swabs and urine were plated\non blood and MacConkey agar. Bacteria were identified\nby tube coagulase and latex tests for staphylococci, latex\ntest for streptococci, pyrase testing for enterococci and\nAPI-20E and API-20NE (Biomeriux) for enterobacteriaceae\nand non-fermenting Gram-negative rods respectively. Sus-\nceptibility to antibiotics was tested using the microdilution\nmethod according to CLSI guidelines [21] Inducible clinda-\nmycin resistance is not routinely tested in our laboratory\nand therefore not reported. Antibiotics tested were chosen\naccording to local availability and included penicillin,\noxacillin, ampicillin, amoxicillin/clavulanic acid, ceftriaxon,\ngentamicin, ciprofloxacin, co-trimoxazole, clindamycin,\nchloramphenicol and erythromycin. Extended Spectrum\nβ-Lactamase (ESBL) production was confirmed by disc\ndiffusion test. The production of extended-spectrum\nScherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 2 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n",
+   "n_chars": 5755,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      89.8,
+      290.5,
+      123.1
+     ],
+     "text": "deficiency), the quality of equipment, financial resources\nas well as the competence of the surgical team seem to be\nimportant determinants [13].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      125.8,
+      290.6,
+      303.1
+     ],
+     "text": "In developing countries a growing proportion of noso-\ncomial infections can be assigned to methicillin-resistant\nS. aureus (MRSA) and multi-resistant Gram-negative bac-\nteria [12,14]. In a recent study in Tanzania [15], surgical\nsite infection (SSI) was detected in 65 (26.0%) patients, of\nwhom 56 (86.2%) and 9 (13.8%) had superficial and deep\nSSI respectively. Among 65 patients with clinical SSI,\n56(86.2%) had positive aerobic culture. S. aureus was\nthe predominant organism 16/56 (28.6%); of which 3/\n16 (18.8%) were MRSA. This was followed by Escherichia\ncoli 14/56 (25%) and Klebsiella pneumoniae 10/56 (17.9%).\nAmong the E. coli and K. pneumoniae isolates 9(64.3%)\nand 8(80%) were ESBL producers respectively. In Niger,\na study reported up to 31% ESBL colonization rates on\nhospital admission [16].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      305.8,
+      290.6,
+      411.1
+     ],
+     "text": "The rapid spread of antibiotic-resistance poses an im-\nmense threat to health systems of these countries where\nadequate antibiotic treatment of infectious diseases is often\nhampered by financial constraints [17-19]. For Gabon and\nmost of Central Africa, data on nosocomial infections are\nlacking; hence this study was carried out to estimate the\nincidence of hospital-acquired infections and characterise\nthe pathogens responsible at a rural hospital in Central\nAfrica as a first step to reduce nosocomial infections.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      425.4,
+      290.6,
+      531.2
+     ],
+     "text": "Methods\nStudy area\nLambaréné has approximately 24000 inhabitants and lies\non the Ogooué River, in a region predominantly covered\nby dense tropical rain forest in Central Africa. The Albert\nSchweitzer Hospital, a 150 bed health facility, has a catch-\nment population of about 50000 persons and provides\nsurgical, internal medical, obstetrics/gynecological and\npediatric services.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      546.2,
+      290.6,
+      735.1
+     ],
+     "text": "Study procedures\nWe undertook a prospective surveillance study in order\nto determine the incidence of nosocomial infections at\nthe Albert Schweitzer Hospital. The study was carried\nout in the departments of aseptic surgery (clean and\nclean contaminated surgery), septic surgery (contaminated\nsurgery), gynecology/obstetrics and internal medicine with\na total of 114 beds. The study lasted six months from\nJanuary to July 2009. On daily rounds all patients were\nscreened daily for signs and symptoms of nosocomial\ninfections. Patients with a new occurrence of fever (> 38°C)\nat least 48 hours after admission or a repeated episode\nof fever after a non-febrile interval of 72 hours, signs of\ninfection at the site of surgical operations, or a reopening\nof the operation site due to infection qualified for fur-\nther evaluation. Further evaluation consisted of a clinical\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      89.8,
+      538.6,
+      147.1
+     ],
+     "text": "examination, and personal data, reason for hospitalization,\noperations, current signs and symptoms, and inserted\nvenous or urinary catheters were recorded. Days from\nadmission to occurrence of fever or other signs and\nsymptoms of nosocomial infections were noted.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      149.8,
+      538.6,
+      447.1
+     ],
+     "text": "Based on clinical signs and symptoms, specific labora-\ntory tests were performed. For every patient with fever\n(> 38°C), blood and urine cultures as well as parasito-\nlogical examination of thick blood smear for exclusion of\nmalaria were carried out. In case of a suspected surgical\nsite infection a wound swab was obtained and processed\nin the microbiology laboratory. Specific symptoms like\ndiarrhoea or abnormal breathing sounds led to stool\nexaminations or chest x-ray, respectively. To ensure that\nan additional nosocomial infection of the same patient\nhad originated independently from a previous one, the\npatient had to be symptom free for at least 72 hours or\nthe infection had to affect a different localisation or\ngrow a different pathogen. Classification of cases occurred\naccording to the definitions of nosocomial infections of\nthe Robert Koch Institute (RKI) in Berlin which were\nbased on the current CDC guidelines [20]. These criteria\ngive an epidemiological definition of nosocomial infections\nto be able to compare surveillance data from different\nstudies. The time for occurrence of nosocomial infection\nwas noted and analysed; and patients who had no nosoco-\nmial infection at the time of initial screening were\nfollowed up daily for symptoms of nosocomial infections\nuntil they were discharged. Patients with nosocomial\ninfections were also followed up until discharge.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      462.2,
+      538.6,
+      735.1
+     ],
+     "text": "Laboratory procedures\nMicrobiological specimens were processed according to\ngood laboratory practice and standard methods for iden-\ntification. Briefly, blood cultures were collected in Bactec\nblood culture bottles (BD Blood Culture System, Becton,\nDickinson and Company) and incubated at 37°C in Bactec\n9050. Positive bottles were subcultured on blood, choc-\nolate and MacConkey agar. Swabs and urine were plated\non blood and MacConkey agar. Bacteria were identified\nby tube coagulase and latex tests for staphylococci, latex\ntest for streptococci, pyrase testing for enterococci and\nAPI-20E and API-20NE (Biomeriux) for enterobacteriaceae\nand non-fermenting Gram-negative rods respectively. Sus-\nceptibility to antibiotics was tested using the microdilution\nmethod according to CLSI guidelines [21] Inducible clinda-\nmycin resistance is not routinely tested in our laboratory\nand therefore not reported. Antibiotics tested were chosen\naccording to local availability and included penicillin,\noxacillin, ampicillin, amoxicillin/clavulanic acid, ceftriaxon,\ngentamicin, ciprofloxacin, co-trimoxazole, clindamycin,\nchloramphenicol and erythromycin. Extended Spectrum\nβ-Lactamase (ESBL) production was confirmed by disc\ndiffusion test. The production of extended-spectrum\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      34.7,
+      538.6,
+      52.1
+     ],
+     "text": "Scherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 2 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "beta-lactamase was confirmed in all ceftriaxone resistant\nEnterobacteriaceae using the double-disks method accord-\ning to the manufacturer’s instruction (Mast discs, Mast\ndiagnostics, Merseyside, UK). This test applies discs of\nthree different beta-lactam antibiotics (ceftazidim 30 μg,\ncefotaxime 30 μg, cefpodoxime 10 μg) with and without\nclavulanic acid. Methicillin-resistance was confirmed\nfor all cefoxitin-resistant Staphylococcus aureus using a\nPBP2a-agglutination test (PBP2’ Test Kit, Oxoid, Japan).\nData analysis\nData collected from patients with signs and symptoms\nof nosocomial infections (age, sex, length of hospital stay,\ntype of nosocomial infection, days to first clinical sign\nor symptom of nosocomial infection, type of operation\nif applicable) were entered in a Microsoft® Access 2002\ndata bank. Data on all hospitalised patients was available\nfor either individual patients (sex, age) or aggregated over\na month (mean duration of stay). For statisical analysis,\nIBM SPSS® Statistics (version 19) was used. The continu-\nous variables were expressed as median (25-75% quantiles)\nand compared between groups using the Mann–Whitney\nU test. Categorical variables were expressed in percentage\n(proportion). Statistical analysis was supervised by a statis-\ntician at the Institute of Medical Biometrics and Medical\nInformatics for Biometrics, Albert’s Ludwig University of\nFreiburg, Germany.\nEthics\nThe study was approved by the Regional Ethical Com-\nmittee, “Comité d’Ethique Régional Independent de\nLambaréné (CERIL)”. Written informed consent was\nobtained from all patients’ prior inclusion into the\nstudy.\nResults\nDuring the six months period of this study, 2925 pa-\ntients were admitted to the participating wards of the\nAlbert Schweitzer Hospital. The mean duration of stay\nwas 4.4 days resulting in 12870 hospital days.\nThe median age was 30 (22–42) years, 65% of all patients\nwere female and 35% were male. In total, 84 patients met\nour criteria for further evaluation for suspected nosocomial\ninfections and 46 nosocomial infections were confirmed\nin 36 patients out of 2925 inpatients. A single nosocomial\ninfection was diagnosed in 30 patients, two infections were\nfound in three patients, three infections in two patients,\nand four infections in one patient. Forty eight patients\nwho were further evaluated did not have a nosocomial\ninfection as defined by the epidemiological criteria of\nthe RKI. Forty (87%) episodes of nosocomial infections\nwere confirmed by microbiological examinations, while\nthe remaining six infections were diagnosed on clinical\ngrounds only. During the study four (11%) of the patients\nwith nosocomial infections died.\nThe cumulative incidence of nosocomial infections was\n1.6 infections per 100 patients in six months (95% CI\n1.1 - 2.0) or 3.6 infections per 1000 in-patient days\n(95% CI 2.6 – 4.6). Details about the incidence of nosoco-\nmial infections at the respective departments are shown in\nTable 1. With a total of 20 cases (44%) surgical-site infec-\ntions were the most frequent type of hospital-acquired\ninfection, followed by twelve (26%) urinary-tract infections\n(of which 4 were catheter related infections), nine (20%)\nbloodstream infections and five (11%) other infections (e.g.\ndiarrhoea, phlebitis, decubitus ulcer infection).\nDuring the study period, a total of 1059 surgical opera-\ntions on 992 patients were performed. The finding of 20\nsurgical-site infections corresponded to an overall infection\nrate of 1.9% (95% CI 1.1 - 2.7%) per operation. In Table 2,\nthe number and incidence of nosocomial infections per\ntype of surgical operation are shown for the most fre-\nquently performed aseptic operations. Abdominal hys-\nterectomies had the highest incidence of nosocomial\ninfections with 11.5% (95% CI 0.0 - 23.8).\nPatients with nosocomial infections had a median age\nof 41 (33–69)years, which is significantly higher than the\nage of patients who did not acquire infections during\nhospitalisation 30 (22–41) years, p <0.001). Regarding\nthe incidence of nosocomial infections, no significant\ndifference in sex was found (p = 0.08). The duration of\nin-patient care of patients with nosocomial infections\nranged from four to 108 days with a median of 22 (13–\n34) days. The first clinical signs of nosocomial infection\nappeared after a median of 6 (4–10) days of patient care.\nApproximately half (24/46) of all nosocomial infections\ndeveloped under antibiotic treatment.\nIn total, 68 blood cultures, 67 urine cultures and 52\nwound swabs were sent for microbiological evaluation.\nAs shown in Table 3, 36 Gram-positive and 34 Gram-\nnegative bacteria were identified in 40 specimens. The\nmost frequent pathogen was S. aureus, in most cases ori-\nginating from surgical-site infections, followed by E. coli\nas a cause of nosocomial urinary-tract infections and\nEnterococcus spp. from surgical-site infections. K. pneu-\nmoniae was identified from urinary-tract and bloodstream\ninfections, while anaerobes were exclusively found in\nspecimen from surgical sites.\nThe antibiotic susceptibility profiles of the nosocomial\npathogens are detailed in Table 3. A total of eight multi-\nresistant strains of Gram-negative bacteria with ESBL-\nproduction were detected, comprising five E. coli and\nthree K. pneumoniae strains. Four of the ESBL-producing\nbacteria were resistant to the whole spectrum of antibi-\notics available at the Albert Schweitzer hospital. Six ESBL-\npositive bacteria caused nosocomial infections while the\npatients were on continued perioperative prophylactic\nScherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 3 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n",
+   "n_chars": 5647,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      89.8,
+      290.6,
+      195.1
+     ],
+     "text": "beta-lactamase was confirmed in all ceftriaxone resistant\nEnterobacteriaceae using the double-disks method accord-\ning to the manufacturer’s instruction (Mast discs, Mast\ndiagnostics, Merseyside, UK). This test applies discs of\nthree different beta-lactam antibiotics (ceftazidim 30 μg,\ncefotaxime 30 μg, cefpodoxime 10 μg) with and without\nclavulanic acid. Methicillin-resistance was confirmed\nfor all cefoxitin-resistant Staphylococcus aureus using a\nPBP2a-agglutination test (PBP2’ Test Kit, Oxoid, Japan).\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      214.2,
+      290.6,
+      415.1
+     ],
+     "text": "Data analysis\nData collected from patients with signs and symptoms\nof nosocomial infections (age, sex, length of hospital stay,\ntype of nosocomial infection, days to first clinical sign\nor symptom of nosocomial infection, type of operation\nif applicable) were entered in a Microsoft® Access 2002\ndata bank. Data on all hospitalised patients was available\nfor either individual patients (sex, age) or aggregated over\na month (mean duration of stay). For statisical analysis,\nIBM SPSS® Statistics (version 19) was used. The continu-\nous variables were expressed as median (25-75% quantiles)\nand compared between groups using the Mann–Whitney\nU test. Categorical variables were expressed in percentage\n(proportion). Statistical analysis was supervised by a statis-\ntician at the Institute of Medical Biometrics and Medical\nInformatics for Biometrics, Albert’s Ludwig University of\nFreiburg, Germany.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      434.2,
+      290.6,
+      503.1
+     ],
+     "text": "Ethics\nThe study was approved by the Regional Ethical Com-\nmittee, “Comité d’Ethique Régional Independent de\nLambaréné (CERIL)”. Written informed consent was\nobtained from all patients’ prior inclusion into the\nstudy.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      521.5,
+      290.5,
+      579.1
+     ],
+     "text": "Results\nDuring the six months period of this study, 2925 pa-\ntients were admitted to the participating wards of the\nAlbert Schweitzer Hospital. The mean duration of stay\nwas 4.4 days resulting in 12870 hospital days.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      580.9,
+      290.7,
+      735.1
+     ],
+     "text": "The median age was 30 (22–42) years, 65% of all patients\nwere female and 35% were male. In total, 84 patients met\nour criteria for further evaluation for suspected nosocomial\ninfections and 46 nosocomial infections were confirmed\nin 36 patients out of 2925 inpatients. A single nosocomial\ninfection was diagnosed in 30 patients, two infections were\nfound in three patients, three infections in two patients,\nand four infections in one patient. Forty eight patients\nwho were further evaluated did not have a nosocomial\ninfection as defined by the epidemiological criteria of\nthe RKI. Forty (87%) episodes of nosocomial infections\nwere confirmed by microbiological examinations, while\nthe remaining six infections were diagnosed on clinical\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      89.8,
+      538.5,
+      111.1
+     ],
+     "text": "grounds only. During the study four (11%) of the patients\nwith nosocomial infections died.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      113.8,
+      538.6,
+      243.1
+     ],
+     "text": "The cumulative incidence of nosocomial infections was\n1.6 infections per 100 patients in six months (95% CI\n1.1 - 2.0) or 3.6 infections per 1000 in-patient days\n(95% CI 2.6 – 4.6). Details about the incidence of nosoco-\nmial infections at the respective departments are shown in\nTable 1. With a total of 20 cases (44%) surgical-site infec-\ntions were the most frequent type of hospital-acquired\ninfection, followed by twelve (26%) urinary-tract infections\n(of which 4 were catheter related infections), nine (20%)\nbloodstream infections and five (11%) other infections (e.g.\ndiarrhoea, phlebitis, decubitus ulcer infection).\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      245.8,
+      538.7,
+      351.1
+     ],
+     "text": "During the study period, a total of 1059 surgical opera-\ntions on 992 patients were performed. The finding of 20\nsurgical-site infections corresponded to an overall infection\nrate of 1.9% (95% CI 1.1 - 2.7%) per operation. In Table 2,\nthe number and incidence of nosocomial infections per\ntype of surgical operation are shown for the most fre-\nquently performed aseptic operations. Abdominal hys-\nterectomies had the highest incidence of nosocomial\ninfections with 11.5% (95% CI 0.0 - 23.8).\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      353.8,
+      538.6,
+      495.1
+     ],
+     "text": "Patients with nosocomial infections had a median age\nof 41 (33–69)years, which is significantly higher than the\nage of patients who did not acquire infections during\nhospitalisation 30 (22–41) years, p <0.001). Regarding\nthe incidence of nosocomial infections, no significant\ndifference in sex was found (p = 0.08). The duration of\nin-patient care of patients with nosocomial infections\nranged from four to 108 days with a median of 22 (13–\n34) days. The first clinical signs of nosocomial infection\nappeared after a median of 6 (4–10) days of patient care.\nApproximately half (24/46) of all nosocomial infections\ndeveloped under antibiotic treatment.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      497.8,
+      538.6,
+      627.1
+     ],
+     "text": "In total, 68 blood cultures, 67 urine cultures and 52\nwound swabs were sent for microbiological evaluation.\nAs shown in Table 3, 36 Gram-positive and 34 Gram-\nnegative bacteria were identified in 40 specimens. The\nmost frequent pathogen was S. aureus, in most cases ori-\nginating from surgical-site infections, followed by E. coli\nas a cause of nosocomial urinary-tract infections and\nEnterococcus spp. from surgical-site infections. K. pneu-\nmoniae was identified from urinary-tract and bloodstream\ninfections, while anaerobes were exclusively found in\nspecimen from surgical sites.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      629.7,
+      538.7,
+      735.1
+     ],
+     "text": "The antibiotic susceptibility profiles of the nosocomial\npathogens are detailed in Table 3. A total of eight multi-\nresistant strains of Gram-negative bacteria with ESBL-\nproduction were detected, comprising five E. coli and\nthree K. pneumoniae strains. Four of the ESBL-producing\nbacteria were resistant to the whole spectrum of antibi-\notics available at the Albert Schweitzer hospital. Six ESBL-\npositive bacteria caused nosocomial infections while the\npatients were on continued perioperative prophylactic\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      34.7,
+      538.6,
+      52.1
+     ],
+     "text": "Scherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 3 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Table 1 Incidence of nosocomial infections at the hospital departments\nDepartment\nNo. nosocomial\ninfections/\nno. patients\nCumulative incidence\n[%, 95% CI]\nIncidence density\nSurgical-site infection\nUrinary-tract infection\nBloodstream infection\n[per 1000 in-patient\ndays, 95% CI]\nIncidence\n[%, 95% CI]\nIncidence density\n[per 1000 in-patient\ndays, 95% CI]\nIncidence\n[%, 95% CI]\nIncidence density\n[per 1000 in-patient\ndays, 95% CI]\nIncidence\n[%, 95% CI]\nIncidence density\n[per 1000 in-patient\ndays, 95% CI]\nSurgery\n31/1022\n3.0% (2.0 – 4.1)\n5.1 (3.3 - 6.9)\n1.4 (0.7 - 2.1)\n2.3 (1.1 – 3.5)\n1.1 (0.5 - 1.7)\n1.8 (0.8 – 2.8)\n0.2 (0.0 - 0.5)\n0.3 (0 – 0.7)\nAseptic1) surgery\n20/689\n2.9% (1.6 – 4.2)\n8.6 (4.9 - 12.3)\n1.9 (0.8 - 2.9)\n5.6 (2.6 – 8.5)\n0.7 (0.1 - 1.4)\n2.1 (0.2 – 4.1)\n0.1 (0–0.4)\n0.4 (0 – 1.2)\nSeptic2) surgery\n11/333\n3.3% (1.4 - 5.2)\n2.9 (1.2 - 4.7)\n0.3 (0–0.9)\n0.3 (0 – 0.8)\n1.8 (0.4 - 3.2)\n1.6 (0.2 – 3.0)\n0.3 (0–1.9)\n0.3 (0 – 0.9)\nGynaecology\n12/1047\n1.1% (0.5 - 1.8)\n4.0 (1.8 - 6.1)\n0.6 (0.1 - 1.0)\n2.0 (0.4 – 3.6)\n0.1 (0.0 - 0.3)\n0.3 (0 – 0.9)\n0.5 (0.1 - 0.9)\n1.7 (0.3 – 3.0)\nInternal medicine\n3/856\n0.4% (0.0 - 0.7)\n0.8 (0–1.8)\n0 (−)\n0 (−)\n0 (−)\n0 (−)\n0.2 (0.0 - 0.5)\n0.5 (0 – 1.3)\nAll departments\n46/2925\n1.6% (1.1 - 2.0)\n3.6 (2.6 - 4.6)\n0.7 (0.4 - 1.0)\n1.6 (1.0 – 2.1)\n0.4 (0.2 - 0.6)\n0.9 (0.4 – 1.5)\n0.3 (0.1 - 0.5)\n0.7 (0.3 – 1.1)\n1)Clean and clean-contaminated surgery.\n2)Contaminated and dirty-infected surgery.\nScherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 4 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n",
+   "n_chars": 1537,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      60.9,
+      219.9,
+      348.7,
+      228.2
+     ],
+     "text": "Table 1 Incidence of nosocomial infections at the hospital departments\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      249.4,
+      102.7,
+      256.7
+     ],
+     "text": "Department\n"
+    },
+    {
+     "bbox": [
+      123.5,
+      240.4,
+      177.0,
+      247.7
+     ],
+     "text": "No. nosocomial\n"
+    },
+    {
+     "bbox": [
+      129.7,
+      249.4,
+      170.9,
+      265.7
+     ],
+     "text": "infections/\nno. patients\n"
+    },
+    {
+     "bbox": [
+      183.7,
+      244.9,
+      258.1,
+      252.3
+     ],
+     "text": "Cumulative incidence\n"
+    },
+    {
+     "bbox": [
+      201.0,
+      253.9,
+      240.8,
+      261.2
+     ],
+     "text": "[%, 95% CI]\n"
+    },
+    {
+     "bbox": [
+      269.1,
+      233.8,
+      683.7,
+      241.1
+     ],
+     "text": "Incidence density\nSurgical-site infection\nUrinary-tract infection\nBloodstream infection\n"
+    },
+    {
+     "bbox": [
+      264.8,
+      246.9,
+      334.0,
+      254.3
+     ],
+     "text": "[per 1000 in-patient\n"
+    },
+    {
+     "bbox": [
+      276.0,
+      256.0,
+      322.7,
+      263.3
+     ],
+     "text": "days, 95% CI]\n"
+    },
+    {
+     "bbox": [
+      341.1,
+      246.9,
+      380.9,
+      263.3
+     ],
+     "text": "Incidence\n[%, 95% CI]\n"
+    },
+    {
+     "bbox": [
+      387.9,
+      246.9,
+      457.3,
+      263.3
+     ],
+     "text": "Incidence density\n[per 1000 in-patient\n"
+    },
+    {
+     "bbox": [
+      399.3,
+      265.0,
+      445.9,
+      272.3
+     ],
+     "text": "days, 95% CI]\n"
+    },
+    {
+     "bbox": [
+      464.3,
+      246.9,
+      504.1,
+      263.3
+     ],
+     "text": "Incidence\n[%, 95% CI]\n"
+    },
+    {
+     "bbox": [
+      511.2,
+      246.9,
+      580.5,
+      263.3
+     ],
+     "text": "Incidence density\n[per 1000 in-patient\n"
+    },
+    {
+     "bbox": [
+      522.5,
+      265.0,
+      569.1,
+      272.3
+     ],
+     "text": "days, 95% CI]\n"
+    },
+    {
+     "bbox": [
+      587.6,
+      246.9,
+      627.4,
+      263.3
+     ],
+     "text": "Incidence\n[%, 95% CI]\n"
+    },
+    {
+     "bbox": [
+      634.4,
+      246.9,
+      703.7,
+      263.3
+     ],
+     "text": "Incidence density\n[per 1000 in-patient\n"
+    },
+    {
+     "bbox": [
+      645.7,
+      265.0,
+      692.4,
+      272.3
+     ],
+     "text": "days, 95% CI]\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      277.4,
+      687.6,
+      285.5
+     ],
+     "text": "Surgery\n31/1022\n3.0% (2.0 – 4.1)\n5.1 (3.3 - 6.9)\n1.4 (0.7 - 2.1)\n2.3 (1.1 – 3.5)\n1.1 (0.5 - 1.7)\n1.8 (0.8 – 2.8)\n0.2 (0.0 - 0.5)\n0.3 (0 – 0.7)\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      288.5,
+      671.5,
+      299.5
+     ],
+     "text": "Aseptic1) surgery\n20/689\n2.9% (1.6 – 4.2)\n8.6 (4.9 - 12.3)\n1.9 (0.8 - 2.9)\n5.6 (2.6 – 8.5)\n0.7 (0.1 - 1.4)\n2.1 (0.2 – 4.1)\n0.1 (0–0.4)\n0.4 (0 – 1.2)\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      302.6,
+      687.6,
+      313.5
+     ],
+     "text": "Septic2) surgery\n11/333\n3.3% (1.4 - 5.2)\n2.9 (1.2 - 4.7)\n0.3 (0–0.9)\n0.3 (0 – 0.8)\n1.8 (0.4 - 3.2)\n1.6 (0.2 – 3.0)\n0.3 (0–1.9)\n0.3 (0 – 0.9)\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      319.4,
+      690.2,
+      327.5
+     ],
+     "text": "Gynaecology\n12/1047\n1.1% (0.5 - 1.8)\n4.0 (1.8 - 6.1)\n0.6 (0.1 - 1.0)\n2.0 (0.4 – 3.6)\n0.1 (0.0 - 0.3)\n0.3 (0 – 0.9)\n0.5 (0.1 - 0.9)\n1.7 (0.3 – 3.0)\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      333.4,
+      687.6,
+      341.4
+     ],
+     "text": "Internal medicine\n3/856\n0.4% (0.0 - 0.7)\n0.8 (0–1.8)\n0 (−)\n0 (−)\n0 (−)\n0 (−)\n0.2 (0.0 - 0.5)\n0.5 (0 – 1.3)\n"
+    },
+    {
+     "bbox": [
+      61.0,
+      347.4,
+      690.2,
+      355.4
+     ],
+     "text": "All departments\n46/2925\n1.6% (1.1 - 2.0)\n3.6 (2.6 - 4.6)\n0.7 (0.4 - 1.0)\n1.6 (1.0 – 2.1)\n0.4 (0.2 - 0.6)\n0.9 (0.4 – 1.5)\n0.3 (0.1 - 0.5)\n0.7 (0.3 – 1.1)\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      360.5,
+      186.7,
+      376.9
+     ],
+     "text": "1)Clean and clean-contaminated surgery.\n2)Contaminated and dirty-infected surgery.\n"
+    },
+    {
+     "bbox": [
+      741.6,
+      56.7,
+      759.0,
+      538.6
+     ],
+     "text": "Scherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 4 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "antibiotic treatment with an aminopenicillin w/o ß-lacta-\nmase inhibitor or ceftriaxon.\nDiscussion and conclusions\nIn many developing countries particularly in sub-Saharan\nAfrica, data about the incidence of hospital-acquired infec-\ntions at rural hospitals are lacking, as modern microbio-\nlogical laboratories are generally restricted to hospitals in\nmajor cities. Between January and July 2009 we performed\ndaily ward rounds in the departments of surgery, internal\nmedicine and obstetrics/gynecology to document all noso-\ncomial infections as defined by the CDC criteria. The over-\nall rate of nosocomial infections at the Albert Schweitzer\nhospital excluding the pediatric department was 46 cases in\n12870 hospital days corresponding to an incidence density\nof 3.6 per 1000 in-patient days. With nearly 44% of all\ncases, surgical-site infections were the most frequently\ndiagnosed nosocomial infections, followed by urinary-tract\ninfections (26%), bloodstream infections (20%) and other\ninfections (11%). This is in agreement with findings in\nother studies from developing countries where surgical-\nsite infections made up the majority of hospital-acquired\ninfections [1,9,14,15]. The missing evidence of nosocomial\nrespiratory tract infections as defined by the CDC criteria\nduring the study period could be explained by the absence\nof an intensive-care unit with invasive ventilation proce-\ndures [22,23] and the restricted availability of the X-ray\nmachine.\nWe found a very low overall nosocomial infection inci-\ndence rate as compared with the average incidence of\nnosocomial infections in developing countries of 7.4%\n[8,14,15]. Possible reasons for this could be the small\nsize of the hospital (114 beds) and the on-average short\nduration of in-patient stay (mean 4.4 days). The absence\nof an intensive care unit, the limited spectrum of opera-\ntions and the fact that certain invasive procedures like\ninsertion of central venous catheters were not performed\ncould also have contributed to a comparatively low in-\ncidence of hospital-acquired infections at the Albert\nSchweitzer hospital. On the other hand it could also be\ndue to a high level of awareness of the need for aseptic\nprocedures among doctors and nurses at our hospital.\nThe finding of 20 surgical-site infections corresponded\nto an infection rate of 1.9 (95% CI 1.1 - 2.7%) per 100\nsurgical procedures. This was also lower than the pooled\ncumulative incidence of 5.6% reported from other devel-\noping countries [10] or 26% reported from Tanzania [15].\nBut the infection rates for specific surgical operations such\nas caesarean sections (6.3%) and hysterectomies (11.5%)\nclearly were above the rates reported from American\nsurveillance studies (1.5% - 3.8% for caesarean sections\nand 1.1% - 4.1% for hysterectomies) [24]. The low overall\nrate was probably due to the fact that most operations\nperformed at the Albert Schweitzer hospital were low\nrisk procedures and surgical procedures with a high\nrisk of nosocomial infection as found in Tanzania (open\nprostatectomy, mastectomy, spina bifida repair) [15]\nwere not done. This emphasizes the fact that for meaning-\nful comparisons of nosocomial infection risks, hospitals\nwith similar patient characteristics and invasive proce-\ndures have to be compared.\nWhile the most frequent pathogens of nosocomial infec-\ntions at the Albert Schweitzer hospital were similar to data\nfrom other countries, the resistance patterns of certain\nstrains of bacteria were alarming. The finding that E. coli, as\nthe second-most isolated pathogen in Lambaréné, was sen-\nsitive to ampicillin in only one of 14 cases (i.e. 7%, 95% CI\n0 – 21%) and that sensitivity to broad spectrum antibiotics\nsuch as ceftriaxone, ciprofloxacin and gentamicin was\nfound in only nine out of 14 cases (95% CI 39 - 89%) is\nof particular concern. Similarly worrisome is the reduced\nsensitivity of K. pneumoniae strains, of which only half were\nsensitive to ceftriaxone, ciprofloxacin and gentamicin.\nThese alarming resistance rates may reflect the high use of\nantibiotics either in hospital or as outpatients in a country\nwhere antibiotics are freely available over the counter.\nOne of our most striking findings was the fact that five\nof 14 E. coli strains (36%) and three of six K. pneumoniae\nstrains (50%) were ESBL-producers. Similar resistance\nrates have been described in screening isolates and clinical\nisolates in Tanzania (15), Ghana [25], Cameroon [26] and\nSudan [27], Four of the ESBL-producing bacteria were\nresistant to the whole spectrum of antibiotics available\nat the Albert Schweitzer hospital. While colonisation\nwith MRSA was identified in two patients, MRSA caus-\ning nosocomial infections was not found. This observed\nhigh rate of antibiotic resistance among our isolates is\nin agreement with a review of published literature on\nbacteria resistance in Central Africa (1955–2008) showing\nthat the Central African region shares the worldwide trend\nof increasing antimicrobial resistance [28,29]. There is an\nurgent need of sound surveillance based on competent\nand affordable microbiology to provide clear and fairly fre-\nquent data on antimicrobial resistance.\nTable 2 Incidence of surgical-site infections per\noperation type\nType of surgical\noperation\nNo. surgical-site infection/\nno. operations\nIncidence\n[%, 95%CI]\nAbdominal hysterectomy\n3/26\n11.5 (0.0 - 23.8)\nCaesarean section\n5/80\n6.3 (0.9 - 11.6)\nAppendectomy\n1/17\n5.9 (0.0 - 17.1)\nMyomectomy\n1/19\n5.3 (0.0 - 15.3)\nSalpingectomy\n(ectopic pregnancy)\n1/22\n4.5 (0.0 - 13.2)\nHerniotomy\n2/124\n1.6 (0.0 - 3.8)\nScherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 5 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n",
+   "n_chars": 5673,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      245.8,
+      290.5,
+      267.1
+     ],
+     "text": "antibiotic treatment with an aminopenicillin w/o ß-lacta-\nmase inhibitor or ceftriaxon.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      292.4,
+      290.6,
+      590.1
+     ],
+     "text": "Discussion and conclusions\nIn many developing countries particularly in sub-Saharan\nAfrica, data about the incidence of hospital-acquired infec-\ntions at rural hospitals are lacking, as modern microbio-\nlogical laboratories are generally restricted to hospitals in\nmajor cities. Between January and July 2009 we performed\ndaily ward rounds in the departments of surgery, internal\nmedicine and obstetrics/gynecology to document all noso-\ncomial infections as defined by the CDC criteria. The over-\nall rate of nosocomial infections at the Albert Schweitzer\nhospital excluding the pediatric department was 46 cases in\n12870 hospital days corresponding to an incidence density\nof 3.6 per 1000 in-patient days. With nearly 44% of all\ncases, surgical-site infections were the most frequently\ndiagnosed nosocomial infections, followed by urinary-tract\ninfections (26%), bloodstream infections (20%) and other\ninfections (11%). This is in agreement with findings in\nother studies from developing countries where surgical-\nsite infections made up the majority of hospital-acquired\ninfections [1,9,14,15]. The missing evidence of nosocomial\nrespiratory tract infections as defined by the CDC criteria\nduring the study period could be explained by the absence\nof an intensive-care unit with invasive ventilation proce-\ndures [22,23] and the restricted availability of the X-ray\nmachine.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      592.8,
+      290.6,
+      734.1
+     ],
+     "text": "We found a very low overall nosocomial infection inci-\ndence rate as compared with the average incidence of\nnosocomial infections in developing countries of 7.4%\n[8,14,15]. Possible reasons for this could be the small\nsize of the hospital (114 beds) and the on-average short\nduration of in-patient stay (mean 4.4 days). The absence\nof an intensive care unit, the limited spectrum of opera-\ntions and the fact that certain invasive procedures like\ninsertion of central venous catheters were not performed\ncould also have contributed to a comparatively low in-\ncidence of hospital-acquired infections at the Albert\nSchweitzer hospital. On the other hand it could also be\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      89.8,
+      538.6,
+      111.1
+     ],
+     "text": "due to a high level of awareness of the need for aseptic\nprocedures among doctors and nurses at our hospital.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      113.8,
+      538.7,
+      339.1
+     ],
+     "text": "The finding of 20 surgical-site infections corresponded\nto an infection rate of 1.9 (95% CI 1.1 - 2.7%) per 100\nsurgical procedures. This was also lower than the pooled\ncumulative incidence of 5.6% reported from other devel-\noping countries [10] or 26% reported from Tanzania [15].\nBut the infection rates for specific surgical operations such\nas caesarean sections (6.3%) and hysterectomies (11.5%)\nclearly were above the rates reported from American\nsurveillance studies (1.5% - 3.8% for caesarean sections\nand 1.1% - 4.1% for hysterectomies) [24]. The low overall\nrate was probably due to the fact that most operations\nperformed at the Albert Schweitzer hospital were low\nrisk procedures and surgical procedures with a high\nrisk of nosocomial infection as found in Tanzania (open\nprostatectomy, mastectomy, spina bifida repair) [15]\nwere not done. This emphasizes the fact that for meaning-\nful comparisons of nosocomial infection risks, hospitals\nwith similar patient characteristics and invasive proce-\ndures have to be compared.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      341.8,
+      538.6,
+      519.1
+     ],
+     "text": "While the most frequent pathogens of nosocomial infec-\ntions at the Albert Schweitzer hospital were similar to data\nfrom other countries, the resistance patterns of certain\nstrains of bacteria were alarming. The finding that E. coli, as\nthe second-most isolated pathogen in Lambaréné, was sen-\nsitive to ampicillin in only one of 14 cases (i.e. 7%, 95% CI\n0 – 21%) and that sensitivity to broad spectrum antibiotics\nsuch as ceftriaxone, ciprofloxacin and gentamicin was\nfound in only nine out of 14 cases (95% CI 39 - 89%) is\nof particular concern. Similarly worrisome is the reduced\nsensitivity of K. pneumoniae strains, of which only half were\nsensitive to ceftriaxone, ciprofloxacin and gentamicin.\nThese alarming resistance rates may reflect the high use of\nantibiotics either in hospital or as outpatients in a country\nwhere antibiotics are freely available over the counter.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      521.8,
+      538.7,
+      735.1
+     ],
+     "text": "One of our most striking findings was the fact that five\nof 14 E. coli strains (36%) and three of six K. pneumoniae\nstrains (50%) were ESBL-producers. Similar resistance\nrates have been described in screening isolates and clinical\nisolates in Tanzania (15), Ghana [25], Cameroon [26] and\nSudan [27], Four of the ESBL-producing bacteria were\nresistant to the whole spectrum of antibiotics available\nat the Albert Schweitzer hospital. While colonisation\nwith MRSA was identified in two patients, MRSA caus-\ning nosocomial infections was not found. This observed\nhigh rate of antibiotic resistance among our isolates is\nin agreement with a review of published literature on\nbacteria resistance in Central Africa (1955–2008) showing\nthat the Central African region shares the worldwide trend\nof increasing antimicrobial resistance [28,29]. There is an\nurgent need of sound surveillance based on competent\nand affordable microbiology to provide clear and fairly fre-\nquent data on antimicrobial resistance.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      90.1,
+      247.2,
+      109.4
+     ],
+     "text": "Table 2 Incidence of surgical-site infections per\noperation type\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      115.0,
+      112.1,
+      131.3
+     ],
+     "text": "Type of surgical\noperation\n"
+    },
+    {
+     "bbox": [
+      144.5,
+      115.0,
+      235.3,
+      122.3
+     ],
+     "text": "No. surgical-site infection/\n"
+    },
+    {
+     "bbox": [
+      164.7,
+      124.0,
+      215.0,
+      131.3
+     ],
+     "text": "no. operations\n"
+    },
+    {
+     "bbox": [
+      247.7,
+      115.0,
+      285.2,
+      131.3
+     ],
+     "text": "Incidence\n[%, 95%CI]\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      137.1,
+      290.6,
+      144.5
+     ],
+     "text": "Abdominal hysterectomy\n3/26\n11.5 (0.0 - 23.8)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      151.1,
+      288.7,
+      158.5
+     ],
+     "text": "Caesarean section\n5/80\n6.3 (0.9 - 11.6)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      165.1,
+      288.7,
+      172.5
+     ],
+     "text": "Appendectomy\n1/17\n5.9 (0.0 - 17.1)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      179.1,
+      288.7,
+      186.5
+     ],
+     "text": "Myomectomy\n1/19\n5.3 (0.0 - 15.3)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      193.1,
+      120.5,
+      209.5
+     ],
+     "text": "Salpingectomy\n(ectopic pregnancy)\n"
+    },
+    {
+     "bbox": [
+      182.7,
+      193.1,
+      288.7,
+      200.5
+     ],
+     "text": "1/22\n4.5 (0.0 - 13.2)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      216.1,
+      286.8,
+      223.5
+     ],
+     "text": "Herniotomy\n2/124\n1.6 (0.0 - 3.8)\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      34.7,
+      538.6,
+      52.1
+     ],
+     "text": "Scherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 5 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "Table 3 Pathogens with antibiotic sensitivity\nPathogen\nNo. of\npathogens\nNo. detected\nin surgical-site\ninfections\nNo. detected\nin urinary-tract\ninfections\nNo. detected\nin bloodstream\ninfections\nAntibiotics (No. of sensitive pathogen/no. of tested pathogens)\nPenicillin\nCloxacillin\nAmpicillin\nAmoxicillin +\nClavulanic acid\nCeftriaxone\nGentamicin\nCiprofloxacin\nCotrimoxazole\nStaphylococcus\naureus\n15 (21.4%)\n9\n0\n5\n*0/14\n14/14\nEscherichia coli\n14 (20.0%)\n3\n8\n1\n-\n-\n1/14\n6/14\n9/14\n9/14\n9/14\n3/12*\nEnterococcus\n9 (12.9%)\n5\n4\n0\n0/9\n-\n9/9\n-\n-\n-\n-\n-\nKlebsiella\npneumoniae\n6 (8.6%)\n0\n3\n3\n-\n-\n0/6\n2/6\n3/6\n3/6\n3/6\n1/5*\nAnaerobes\n6 (8.6%)\n6\n0\n0\n-\n-\n-\n-\n-\n-\n-\n-\nAcinetobacter\nspecies\n4 (5.7%)\n1\n3\n0\n-\n-\n0/4\n1/4\n0/4\n2/4\n3/4\n1/4\nStreptococcus\npyogenes\n3 (4.3%)\n2\n0\n1\n3/3\n-\n3/3\n-\n-\n-\n-\n-\nOther bacteria#\n13 (18.6%)\n11\n2\n0\n-\n-\n-\n-\n-\n-\n-\n-\n*Antibiotic resistance testing was not performed for some pathogens.\n#Bacillus spp, Prevotella spp., Citrobacter koseri, Corynebacterium spp, Proteus mirabilis, Pseudomonas aeruginosa, Serratia spp, coagulase-negative staphylococci.\nScherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 6 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n",
+   "n_chars": 1165,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      60.9,
+      192.4,
+      240.8,
+      200.7
+     ],
+     "text": "Table 3 Pathogens with antibiotic sensitivity\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      212.9,
+      153.0,
+      229.2
+     ],
+     "text": "Pathogen\nNo. of\npathogens\n"
+    },
+    {
+     "bbox": [
+      159.8,
+      208.4,
+      207.1,
+      224.8
+     ],
+     "text": "No. detected\nin surgical-site\n"
+    },
+    {
+     "bbox": [
+      167.5,
+      226.4,
+      199.4,
+      233.7
+     ],
+     "text": "infections\n"
+    },
+    {
+     "bbox": [
+      213.9,
+      208.4,
+      265.7,
+      224.8
+     ],
+     "text": "No. detected\nin urinary-tract\n"
+    },
+    {
+     "bbox": [
+      223.0,
+      226.4,
+      256.6,
+      233.7
+     ],
+     "text": "infections\n"
+    },
+    {
+     "bbox": [
+      272.5,
+      208.4,
+      322.8,
+      224.8
+     ],
+     "text": "No. detected\nin bloodstream\n"
+    },
+    {
+     "bbox": [
+      281.7,
+      226.4,
+      313.6,
+      233.7
+     ],
+     "text": "infections\n"
+    },
+    {
+     "bbox": [
+      406.9,
+      206.3,
+      626.3,
+      213.7
+     ],
+     "text": "Antibiotics (No. of sensitive pathogen/no. of tested pathogens)\n"
+    },
+    {
+     "bbox": [
+      329.6,
+      219.4,
+      502.1,
+      235.8
+     ],
+     "text": "Penicillin\nCloxacillin\nAmpicillin\nAmoxicillin +\nClavulanic acid\n"
+    },
+    {
+     "bbox": [
+      508.9,
+      219.4,
+      703.7,
+      226.8
+     ],
+     "text": "Ceftriaxone\nGentamicin\nCiprofloxacin\nCotrimoxazole\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      241.6,
+      108.0,
+      258.0
+     ],
+     "text": "Staphylococcus\naureus\n"
+    },
+    {
+     "bbox": [
+      118.1,
+      241.6,
+      393.9,
+      249.0
+     ],
+     "text": "15 (21.4%)\n9\n0\n5\n*0/14\n14/14\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      264.6,
+      687.4,
+      272.0
+     ],
+     "text": "Escherichia coli\n14 (20.0%)\n3\n8\n1\n-\n-\n1/14\n6/14\n9/14\n9/14\n9/14\n3/12*\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      278.6,
+      679.9,
+      286.0
+     ],
+     "text": "Enterococcus\n9 (12.9%)\n5\n4\n0\n0/9\n-\n9/9\n-\n-\n-\n-\n-\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      292.6,
+      99.6,
+      309.0
+     ],
+     "text": "Klebsiella\npneumoniae\n"
+    },
+    {
+     "bbox": [
+      122.0,
+      292.6,
+      685.5,
+      299.9
+     ],
+     "text": "6 (8.6%)\n0\n3\n3\n-\n-\n0/6\n2/6\n3/6\n3/6\n3/6\n1/5*\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      315.6,
+      679.9,
+      323.0
+     ],
+     "text": "Anaerobes\n6 (8.6%)\n6\n0\n0\n-\n-\n-\n-\n-\n-\n-\n-\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      329.6,
+      105.4,
+      346.0
+     ],
+     "text": "Acinetobacter\nspecies\n"
+    },
+    {
+     "bbox": [
+      122.0,
+      329.6,
+      683.9,
+      337.0
+     ],
+     "text": "4 (5.7%)\n1\n3\n0\n-\n-\n0/4\n1/4\n0/4\n2/4\n3/4\n1/4\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      352.6,
+      103.1,
+      369.0
+     ],
+     "text": "Streptococcus\npyogenes\n"
+    },
+    {
+     "bbox": [
+      122.0,
+      352.6,
+      679.9,
+      360.0
+     ],
+     "text": "3 (4.3%)\n2\n0\n1\n3/3\n-\n3/3\n-\n-\n-\n-\n-\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      374.0,
+      679.9,
+      382.9
+     ],
+     "text": "Other bacteria#\n13 (18.6%)\n11\n2\n0\n-\n-\n-\n-\n-\n-\n-\n-\n"
+    },
+    {
+     "bbox": [
+      60.9,
+      389.4,
+      532.6,
+      404.4
+     ],
+     "text": "*Antibiotic resistance testing was not performed for some pathogens.\n#Bacillus spp, Prevotella spp., Citrobacter koseri, Corynebacterium spp, Proteus mirabilis, Pseudomonas aeruginosa, Serratia spp, coagulase-negative staphylococci.\n"
+    },
+    {
+     "bbox": [
+      741.6,
+      56.7,
+      759.0,
+      538.6
+     ],
+     "text": "Scherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 6 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "More than half of all nosocomial bacterial infections\nacquired in the Albert Schweitzer hospital were diagnosed\nin patients under antibiotic medication. Similar observa-\ntions have been reported from other African countries,\nlike Ethiopia, where 72% of nosocomial infections devel-\noped under antibiotic prophylaxis [30]. In the present\nstudy six of eight cases of nosocomial infections with\nESBL-producing bacteria occurred while the patients were\non prophylactic or therapeutic antibiotic therapy already.\nThese findings support the view that inappropriate use of\nanti-infectious medications including routine antibiotic\nprophylaxis of long duration is a major factor favouring\ninfection with multi-resistant pathogens [16-19,25-28].\nWith a mean stay of 27 (range: 4–108) days, patients\nwith nosocomial infections stayed in hospital for 23 days\nlonger than the average patient. This may partly be\nexplained by the hypothesis that patients developing\nnosocomial infections have more co-morbidities which\nlead to longer inpatient care per se and therefore exposes\nthem to the risk of hospital-acquired infections for a lon-\nger time period. This hypothesis is supported by the fact\nthat initial clinical manifestations of nosocomial infections\nwere observed on median day 8 of hospitalization which is\ntwice the average duration of stay of all patients. At the\nsame time nosocomial infections also have been reported\nto lead to prolonged hospital stay [31].\nThere are several limitations to this study. Hospital -ac-\nquired infections that arose after discharge were not\ndetected due to lack of follow-up. Because a temp-\nerature >38°C was the main inclusion criterion except\nfor patients with a surgical site infection we might have\nunderestimated the rate of nosocomial infections in\npatients receiving antipyretics.\nThe results of this study revealed that nosocomial in-\nfections represent a substantial threat for patients at the\nAlbert Schweitzer hospital. Although the overall incidence\nrate of nosocomial infections was lower than in hospitals\nfrom other developing countries we found several areas\nfor improvement. At the Albert Schweitzer hospital, a\nparticular high risk of nosocomial infections was found\nafter gynecological operations. Thus, interventions to\ndecrease hospital-acquired infections by e.g. infection\ncontrol or appropriate perioperative prophylaxis should\nstart here. This study also showed that hospital wide\nnosocomial infection rates have to be interpreted care-\nfully because they depend on the services offered at the\nrespective hospital and on patient characteristics.\nMany of the identified pathogens, particularly the\nGram-negative bacteria have developed resistance to\ncommonly prescribed antibiotics. Moreover, against ESBL-\nstrains identified in this study no effective antibiotics were\navailable at the Albert Schweitzer hospital. This means\nantibiotics to deal with infections with multiresistant\nbacteria have to be made available and in the long run\ninterventions to reduce the rate of multiresistant pathogens\nhave to be taken. These could, for example, consist of intro-\nducing antibiotic stewardship measures which includes ap-\npropriate use of antibiotic medications in the hospital\nsetting [28]. These strategies can only be accomplished by\nquality management involving different disciplines, and\ncapacity building of the personnel. We also showed that at\nsmall rural hospitals detailed surveillance of nosocomial in-\nfections is mandatory to be able to reduce hospital-\nacquired infections and improve patient outcome.\nCompeting interests\nAll authors declare that they have no competing interests.\nAuthors’ contributions\nMS made contributions to the study design and lead data acquisition as well as\nanalysis and interpretation of data. He also drafted the manuscript. KK designed\nthe study and made substantial contributions to analysis and interpretation of\ndata. She was involved in drafting and in critical revision of the manuscript. REM\ndesigned the study and contributed to data acquisition as well as revision of\nthe manuscript. UAN took part in data acquisition and revision of the\nmanuscript. PGK took part in study design as well as critical revision of the\nmanuscript. BL contributed study design, analysis and interpretation of the data\nand revision of the manuscript. AA took part in critical revision of the\nmanuscript. All authors read and approved the final manuscript.\nAcknowledgements\nThe authors wish to thank all physicians, nurses and laboratory technicians of\nthe Albert Schweitzer Hospital and especially Birgit Gast for their help in\nmaking the study possible.\nWe acknowledge support by Deutsche Forschungsgemeinschaft and Open\nAccess Publishing Fund of Tuebingen University.\nAuthor details\n1Centre de Recherches Medicales de Lambarene, Albert Schweitzer Hospital,\nPB 118 Lambaréné, Gabon. 2Department for Tropical Medicine,\nEberhard-Karls-University Tübingen, Wilhelmstraße 27, D-72074 Tübingen,\nGermany. 3Department of Internal Medicine II, Helios Clinic Krefeld,\nLutherplatz 40, 47805 Krefeld, Germany. 4Third Medical Clinic, Augsburg\nHospital, Stenglingstr 2, 86156 Augsburg, Germany.\nReceived: 17 February 2013 Accepted: 19 February 2014\nPublished: 4 March 2014\nReferences\n1.\nWenzel RP: Health care-associated infections: major issues in the early\nyears of the 21st century. Clin Infect Dis 2007, 45(Suppl 1):S85–S88.\n2.\nBurke JP: Infection control - a problem for patient safety. N Engl J Med\n2003, 348(7):651–656.\n3.\nNejad SB, Allegranzi B, Syed SB, Ellis B, Pittet D: Health-care-associated\ninfection in Africa: a systematic review. Bull World Health Organ 2011,\n89:757–765.\n4.\nDoshi RK, Patel G, Mackay R, Wallach F: Healthcare-associated infections:\nepidemiology, prevention, and therapy. Mt Sinai J Med 2009, 76(1):84–94.\n5.\nGeffers C, Sohr D, Gastmeier P: Mortality attributable to hospital-acquired\ninfections among surgical patients. Infect Control Hosp Epidemiol 2008,\n29(12):1167–1170.\n6.\nAranaz-Andres JM, Aibar-Remon C, Vitaller-Murillo J, Ruiz-Lopez P,\nLimon-Ramirez R, Terol-Garcia E: Incidence of adverse events related to\nhealth care in Spain: results of the Spanish National Study of Adverse\nEvents. J Epidemiol Community Health 2008, 62(12):1022–1029.\n7.\nPittet D, Tarara D, Wenzel RP: Nosocomial bloodstream infection in\ncritically ill patients. Excess length of stay, extra costs, and attributable\nmortality. JAMA 1994, 271(20):1598–1601.\n8.\nVincent JL, Rello J, Marshall J, Silva E, Anzueto A, Martin CD, Moreno R,\nLipman J, Gomersall C, Sakr Y, Reinhart K, EPIC II Group of Investigators:\nInternational study of the prevalence and outcomes of infection in\nintensive care units. JAMA 2009, 302(21):2323–2329.\nScherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 7 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n",
+   "n_chars": 6820,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      89.8,
+      290.6,
+      243.1
+     ],
+     "text": "More than half of all nosocomial bacterial infections\nacquired in the Albert Schweitzer hospital were diagnosed\nin patients under antibiotic medication. Similar observa-\ntions have been reported from other African countries,\nlike Ethiopia, where 72% of nosocomial infections devel-\noped under antibiotic prophylaxis [30]. In the present\nstudy six of eight cases of nosocomial infections with\nESBL-producing bacteria occurred while the patients were\non prophylactic or therapeutic antibiotic therapy already.\nThese findings support the view that inappropriate use of\nanti-infectious medications including routine antibiotic\nprophylaxis of long duration is a major factor favouring\ninfection with multi-resistant pathogens [16-19,25-28].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      244.9,
+      290.6,
+      399.1
+     ],
+     "text": "With a mean stay of 27 (range: 4–108) days, patients\nwith nosocomial infections stayed in hospital for 23 days\nlonger than the average patient. This may partly be\nexplained by the hypothesis that patients developing\nnosocomial infections have more co-morbidities which\nlead to longer inpatient care per se and therefore exposes\nthem to the risk of hospital-acquired infections for a lon-\nger time period. This hypothesis is supported by the fact\nthat initial clinical manifestations of nosocomial infections\nwere observed on median day 8 of hospitalization which is\ntwice the average duration of stay of all patients. At the\nsame time nosocomial infections also have been reported\nto lead to prolonged hospital stay [31].\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      401.8,
+      290.6,
+      483.1
+     ],
+     "text": "There are several limitations to this study. Hospital -ac-\nquired infections that arose after discharge were not\ndetected due to lack of follow-up. Because a temp-\nerature >38°C was the main inclusion criterion except\nfor patients with a surgical site infection we might have\nunderestimated the rate of nosocomial infections in\npatients receiving antipyretics.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      485.8,
+      290.6,
+      651.1
+     ],
+     "text": "The results of this study revealed that nosocomial in-\nfections represent a substantial threat for patients at the\nAlbert Schweitzer hospital. Although the overall incidence\nrate of nosocomial infections was lower than in hospitals\nfrom other developing countries we found several areas\nfor improvement. At the Albert Schweitzer hospital, a\nparticular high risk of nosocomial infections was found\nafter gynecological operations. Thus, interventions to\ndecrease hospital-acquired infections by e.g. infection\ncontrol or appropriate perioperative prophylaxis should\nstart here. This study also showed that hospital wide\nnosocomial infection rates have to be interpreted care-\nfully because they depend on the services offered at the\nrespective hospital and on patient characteristics.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      653.8,
+      290.6,
+      735.1
+     ],
+     "text": "Many of the identified pathogens, particularly the\nGram-negative bacteria have developed resistance to\ncommonly prescribed antibiotics. Moreover, against ESBL-\nstrains identified in this study no effective antibiotics were\navailable at the Albert Schweitzer hospital. This means\nantibiotics to deal with infections with multiresistant\nbacteria have to be made available and in the long run\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      89.8,
+      538.7,
+      207.1
+     ],
+     "text": "interventions to reduce the rate of multiresistant pathogens\nhave to be taken. These could, for example, consist of intro-\nducing antibiotic stewardship measures which includes ap-\npropriate use of antibiotic medications in the hospital\nsetting [28]. These strategies can only be accomplished by\nquality management involving different disciplines, and\ncapacity building of the personnel. We also showed that at\nsmall rural hospitals detailed surveillance of nosocomial in-\nfections is mandatory to be able to reduce hospital-\nacquired infections and improve patient outcome.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      218.9,
+      480.7,
+      234.8
+     ],
+     "text": "Competing interests\nAll authors declare that they have no competing interests.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      246.7,
+      538.1,
+      344.3
+     ],
+     "text": "Authors’ contributions\nMS made contributions to the study design and lead data acquisition as well as\nanalysis and interpretation of data. He also drafted the manuscript. KK designed\nthe study and made substantial contributions to analysis and interpretation of\ndata. She was involved in drafting and in critical revision of the manuscript. REM\ndesigned the study and contributed to data acquisition as well as revision of\nthe manuscript. UAN took part in data acquisition and revision of the\nmanuscript. PGK took part in study design as well as critical revision of the\nmanuscript. BL contributed study design, analysis and interpretation of the data\nand revision of the manuscript. AA took part in critical revision of the\nmanuscript. All authors read and approved the final manuscript.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      356.9,
+      538.3,
+      408.8
+     ],
+     "text": "Acknowledgements\nThe authors wish to thank all physicians, nurses and laboratory technicians of\nthe Albert Schweitzer Hospital and especially Birgit Gast for their help in\nmaking the study possible.\nWe acknowledge support by Deutsche Forschungsgemeinschaft and Open\nAccess Publishing Fund of Tuebingen University.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      419.9,
+      534.9,
+      480.8
+     ],
+     "text": "Author details\n1Centre de Recherches Medicales de Lambarene, Albert Schweitzer Hospital,\nPB 118 Lambaréné, Gabon. 2Department for Tropical Medicine,\nEberhard-Karls-University Tübingen, Wilhelmstraße 27, D-72074 Tübingen,\nGermany. 3Department of Internal Medicine II, Helios Clinic Krefeld,\nLutherplatz 40, 47805 Krefeld, Germany. 4Third Medical Clinic, Augsburg\nHospital, Stenglingstr 2, 86156 Augsburg, Germany.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      491.9,
+      482.4,
+      507.8
+     ],
+     "text": "Received: 17 February 2013 Accepted: 19 February 2014\nPublished: 4 March 2014\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      520.4,
+      534.7,
+      734.3
+     ],
+     "text": "References\n1.\nWenzel RP: Health care-associated infections: major issues in the early\nyears of the 21st century. Clin Infect Dis 2007, 45(Suppl 1):S85–S88.\n2.\nBurke JP: Infection control - a problem for patient safety. N Engl J Med\n2003, 348(7):651–656.\n3.\nNejad SB, Allegranzi B, Syed SB, Ellis B, Pittet D: Health-care-associated\ninfection in Africa: a systematic review. Bull World Health Organ 2011,\n89:757–765.\n4.\nDoshi RK, Patel G, Mackay R, Wallach F: Healthcare-associated infections:\nepidemiology, prevention, and therapy. Mt Sinai J Med 2009, 76(1):84–94.\n5.\nGeffers C, Sohr D, Gastmeier P: Mortality attributable to hospital-acquired\ninfections among surgical patients. Infect Control Hosp Epidemiol 2008,\n29(12):1167–1170.\n6.\nAranaz-Andres JM, Aibar-Remon C, Vitaller-Murillo J, Ruiz-Lopez P,\nLimon-Ramirez R, Terol-Garcia E: Incidence of adverse events related to\nhealth care in Spain: results of the Spanish National Study of Adverse\nEvents. J Epidemiol Community Health 2008, 62(12):1022–1029.\n7.\nPittet D, Tarara D, Wenzel RP: Nosocomial bloodstream infection in\ncritically ill patients. Excess length of stay, extra costs, and attributable\nmortality. JAMA 1994, 271(20):1598–1601.\n8.\nVincent JL, Rello J, Marshall J, Silva E, Anzueto A, Martin CD, Moreno R,\nLipman J, Gomersall C, Sakr Y, Reinhart K, EPIC II Group of Investigators:\nInternational study of the prevalence and outcomes of infection in\nintensive care units. JAMA 2009, 302(21):2323–2329.\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      34.7,
+      538.6,
+      52.1
+     ],
+     "text": "Scherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 7 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "9.\nSimon F, Demortiere E, Chadli M, Kraemer P, De Pina JJ: Risk of nosocomial\ninfection in intertropical Africa–part 1: background. Med Trop 2006,\n66(1):91–96.\n10.\nAllegranzi B, Bagheri Nejad S, Combescure C, Graafmans W, Attar H,\nDonaldson L, Pittet D: Burden of endemic health-care-associated infection\nin developing countries: systematic review and meta-analysis. Lancet\n2011, 377(9761):228–241.\n11.\nChristenson M, Hitt JA, Abbott G, Septimus EJ, Iversen N: Improving patient\nsafety: resource availability and application for reducing the incidence of\nhealthcare-associated infection. Infect Control Hosp Epidemiol 2006,\n27(3):245–251.\n12.\nRosenthal VD, Maki DG, Salomao R, Moreno CA, Mehta Y, Higuera F, Cuellar LE,\nArikan OA, Abouqal R, Leblebicioglu H, Consortium International Nosocomial\nInfection Control: Device-associated nosocomial infections in 55 intensive\ncare units of 8 developing countries. Ann Intern Med 2006, 145(8):582–591.\n13.\nSafe surgery prevents infection. Lancet Infect Dis 2009, 9(4):203. 10.1016/\nS1473-3099(09)70093-3.\n14.\nFehr J, Hatz C, Soka I, Kibatala P, Urassa H, Smith T, Mshinda H, Frei R, Widmer A:\nRisk factors for surgical site infection in a Tanzanian district hospital: a\nchallenge for the traditional national nosocomial infections surveillance\nsystem index. Infect Control Hosp Epidemiol 2006, 27(12):1401–1404.\n15.\nMawalla B, Mshana SE, Chalya PL, Imirzalioglu C, Mahalu W: Predictors of\nsurgical site infections among patients undergoing major surgery at\nBugando Medical Centre in Northwestern Tanzania. BMC Surg 2011, 11:21.\n16.\nWoerther PL, Angebault C, Jacquier H, Hugede HC, Janssens AC, Sayadi S, El\nMniai A, Armand-Lefèvre L, Ruppé E, Barbier F, Raskine L, Page AL,\nde Rekeneire N, Andremont A: Massive increase, spread, and exchange\nof extended spectrum β- lactamase? encoding genes among intestinal\nEnterobacteriaceae in hospitalized children with severe acute malnutrition\nin Niger. Clin Infect Dis 2011, 53:677–685.\n17.\nApisarnthanarak A, Danchaivijitr S, Khawcharoenporn T, Limsrivilai J,\nWarachan B, Bailey TC, Fraser VJ, Thammasart University Antibiotic\nManagement Team: Effectiveness of education and an antibiotic-control\nprogram in a tertiary care hospital in Thailand. Clin Infect Dis 2006,\n42(6):768–775.\n18.\nOkeke IN, Laxminarayan R, Bhutta ZA, Duse AG, Jenkins P, O'Brien TF,\nPablos-Mendez A, Klugman KP: Antimicrobial resistance in developing\ncountries. Part I: recent trends and current status. Lancet Infect Dis 2005,\n5(8):481–493. 5.\n19.\nAlabi AS, Frielinghaus L, Kaba H, Kösters K, Huson MA, Kahl BC, Peters G,\nGrobusch MP, Issifou S, Kremsner PG, Schaumburg F: Retrospective analysis\nof antimicrobial resistance and bacterial spectrum of infection in Gabon,\nCentral Africa. BMC Infect Dis 2013, 13(1):455.\n20.\nHoran TC, Andrus M, Dudeck MA: CDC/NHSN surveillance definition of\nhealth care-associated infection and criteria for specific types of infections\nin the acute care setting. Am J Infect Control 2008, 36(5):309–332.\n21.\n2007, Clinical and Laboratory Standards Institute: Performance standards for\nantimicrobial susceptibility testing; 17th informational supplement, vol. 27, no.\n1. M100-S17. Wayne, PA: Clinical and Laboratory Standards Institute; 2007.\n22.\nAmerican Thoracic Society; Infectious Diseases Society of America:\nGuidelines for the management of adults with hospital-acquired,\nventilator-associated, and healthcare-associated pneumonia. Am J Respir\nCrit Care Med 2005, 171(4):388–416.\n23.\nChastre J, Fagon JY: Ventilator-associated pneumonia. Am J Respir Crit Care\nMed 2002, 165(7):867–903.\n24.\nEdwards JR, Peterson KD, Mu Y, Banerjee S, Allen-Bridson K, Morrell G,\nDudeck MA, Pollock DA, Horan TC: National Healthcare Safety Network\n(NHSN) report: data summary for 2006 through 2008, issued December\n2009. Am J Infect Control 2009, 37(10):783–805.\n25.\nObeng-Nkrumah N, Twum-Danso K, Krogfelt KA, Newman MJ: High levels\nof extended-spectrum beta-lactamases in a major teaching hospital in\nGhana: the need for regular monitoring and evaluation of antibiotic\nresistance. Am J Trop Med Hyg 2013, 89(5):960–4.\n26.\nLonchel CM, Melin P, Gangoué-Piéboji J, Assoumou MC, Boreux R, De Mol P:\nExtended-spectrum beta-lactamase-producing enterobacteriaceae in\nCameroonian hospitals. Eur J Clin Microbiol Infect Dis 2013, 32(1):79–87.\n27.\nIbrahim ME, Bilal NE, Hamid ME: Increased multi-drug resistant Escherichia coli\nfrom hospitals in Khartoum state, Sudan. Afr Health Sci 2012, 12(3):368–375.\n28.\nVlieghe E, Phoba MF, Tamfun JJ, Jacobs J: Antibiotic resistance among\nbacterial pathogens in Central Africa: a review of the published literature\nbetween 1955 and 2008. Int J Antimicrob Agents 2009, 34(4):295–303.\n29.\nHabte-Gabr E, Gedebou M, Kronvall G: Hospital-acquired infections among\nsurgical patients in Tikur Anbessa Hospital, Addis Ababa, Ethiopia. Am J\nInfect Control 1988, 16(1):7–13.\n30.\nVegas AA, Jodra VM, Garcia ML: Nosocomial infection in surgery wards: a\ncontrolled study of increased duration of hospital stays and direct cost\nof hospitalization. Eur J Epidemiol 1993, 9:504–510.\n31.\nEdmond MB, Wenzel RP: Organization for infection control. In Principles\nand Practice of Infectious Diseases. 6th edition. Edited by Mandell GL,\nBennett JE, Dolin R. Philadelphia, PA: Churchill Livingstone; 2005:3323.\ndoi:10.1186/1471-2334-14-124\nCite this article as: Scherbaum et al.: Incidence, pathogens and\nresistance patterns of nosocomial infections at a rural hospital in\nGabon. BMC Infectious Diseases 2014 14:124.\nSubmit your next manuscript to BioMed Central\nand take full advantage of: \n• Convenient online submission\n• Thorough peer review\n• No space constraints or color ﬁgure charges\n• Immediate publication on acceptance\n• Inclusion in PubMed, CAS, Scopus and Google Scholar\n• Research which is freely available for redistribution\nSubmit your manuscript at \nwww.biomedcentral.com/submit\nScherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 8 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n",
+   "n_chars": 5993,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      56.7,
+      91.4,
+      290.5,
+      734.0
+     ],
+     "text": "9.\nSimon F, Demortiere E, Chadli M, Kraemer P, De Pina JJ: Risk of nosocomial\ninfection in intertropical Africa–part 1: background. Med Trop 2006,\n66(1):91–96.\n10.\nAllegranzi B, Bagheri Nejad S, Combescure C, Graafmans W, Attar H,\nDonaldson L, Pittet D: Burden of endemic health-care-associated infection\nin developing countries: systematic review and meta-analysis. Lancet\n2011, 377(9761):228–241.\n11.\nChristenson M, Hitt JA, Abbott G, Septimus EJ, Iversen N: Improving patient\nsafety: resource availability and application for reducing the incidence of\nhealthcare-associated infection. Infect Control Hosp Epidemiol 2006,\n27(3):245–251.\n12.\nRosenthal VD, Maki DG, Salomao R, Moreno CA, Mehta Y, Higuera F, Cuellar LE,\nArikan OA, Abouqal R, Leblebicioglu H, Consortium International Nosocomial\nInfection Control: Device-associated nosocomial infections in 55 intensive\ncare units of 8 developing countries. Ann Intern Med 2006, 145(8):582–591.\n13.\nSafe surgery prevents infection. Lancet Infect Dis 2009, 9(4):203. 10.1016/\nS1473-3099(09)70093-3.\n14.\nFehr J, Hatz C, Soka I, Kibatala P, Urassa H, Smith T, Mshinda H, Frei R, Widmer A:\nRisk factors for surgical site infection in a Tanzanian district hospital: a\nchallenge for the traditional national nosocomial infections surveillance\nsystem index. Infect Control Hosp Epidemiol 2006, 27(12):1401–1404.\n15.\nMawalla B, Mshana SE, Chalya PL, Imirzalioglu C, Mahalu W: Predictors of\nsurgical site infections among patients undergoing major surgery at\nBugando Medical Centre in Northwestern Tanzania. BMC Surg 2011, 11:21.\n16.\nWoerther PL, Angebault C, Jacquier H, Hugede HC, Janssens AC, Sayadi S, El\nMniai A, Armand-Lefèvre L, Ruppé E, Barbier F, Raskine L, Page AL,\nde Rekeneire N, Andremont A: Massive increase, spread, and exchange\nof extended spectrum β- lactamase? encoding genes among intestinal\nEnterobacteriaceae in hospitalized children with severe acute malnutrition\nin Niger. Clin Infect Dis 2011, 53:677–685.\n17.\nApisarnthanarak A, Danchaivijitr S, Khawcharoenporn T, Limsrivilai J,\nWarachan B, Bailey TC, Fraser VJ, Thammasart University Antibiotic\nManagement Team: Effectiveness of education and an antibiotic-control\nprogram in a tertiary care hospital in Thailand. Clin Infect Dis 2006,\n42(6):768–775.\n18.\nOkeke IN, Laxminarayan R, Bhutta ZA, Duse AG, Jenkins P, O'Brien TF,\nPablos-Mendez A, Klugman KP: Antimicrobial resistance in developing\ncountries. Part I: recent trends and current status. Lancet Infect Dis 2005,\n5(8):481–493. 5.\n19.\nAlabi AS, Frielinghaus L, Kaba H, Kösters K, Huson MA, Kahl BC, Peters G,\nGrobusch MP, Issifou S, Kremsner PG, Schaumburg F: Retrospective analysis\nof antimicrobial resistance and bacterial spectrum of infection in Gabon,\nCentral Africa. BMC Infect Dis 2013, 13(1):455.\n20.\nHoran TC, Andrus M, Dudeck MA: CDC/NHSN surveillance definition of\nhealth care-associated infection and criteria for specific types of infections\nin the acute care setting. Am J Infect Control 2008, 36(5):309–332.\n21.\n2007, Clinical and Laboratory Standards Institute: Performance standards for\nantimicrobial susceptibility testing; 17th informational supplement, vol. 27, no.\n1. M100-S17. Wayne, PA: Clinical and Laboratory Standards Institute; 2007.\n22.\nAmerican Thoracic Society; Infectious Diseases Society of America:\nGuidelines for the management of adults with hospital-acquired,\nventilator-associated, and healthcare-associated pneumonia. Am J Respir\nCrit Care Med 2005, 171(4):388–416.\n23.\nChastre J, Fagon JY: Ventilator-associated pneumonia. Am J Respir Crit Care\nMed 2002, 165(7):867–903.\n24.\nEdwards JR, Peterson KD, Mu Y, Banerjee S, Allen-Bridson K, Morrell G,\nDudeck MA, Pollock DA, Horan TC: National Healthcare Safety Network\n(NHSN) report: data summary for 2006 through 2008, issued December\n2009. Am J Infect Control 2009, 37(10):783–805.\n25.\nObeng-Nkrumah N, Twum-Danso K, Krogfelt KA, Newman MJ: High levels\nof extended-spectrum beta-lactamases in a major teaching hospital in\nGhana: the need for regular monitoring and evaluation of antibiotic\nresistance. Am J Trop Med Hyg 2013, 89(5):960–4.\n26.\nLonchel CM, Melin P, Gangoué-Piéboji J, Assoumou MC, Boreux R, De Mol P:\nExtended-spectrum beta-lactamase-producing enterobacteriaceae in\nCameroonian hospitals. Eur J Clin Microbiol Infect Dis 2013, 32(1):79–87.\n27.\nIbrahim ME, Bilal NE, Hamid ME: Increased multi-drug resistant Escherichia coli\nfrom hospitals in Khartoum state, Sudan. Afr Health Sci 2012, 12(3):368–375.\n28.\nVlieghe E, Phoba MF, Tamfun JJ, Jacobs J: Antibiotic resistance among\nbacterial pathogens in Central Africa: a review of the published literature\nbetween 1955 and 2008. Int J Antimicrob Agents 2009, 34(4):295–303.\n"
+    },
+    {
+     "bbox": [
+      304.7,
+      91.4,
+      537.4,
+      170.3
+     ],
+     "text": "29.\nHabte-Gabr E, Gedebou M, Kronvall G: Hospital-acquired infections among\nsurgical patients in Tikur Anbessa Hospital, Addis Ababa, Ethiopia. Am J\nInfect Control 1988, 16(1):7–13.\n30.\nVegas AA, Jodra VM, Garcia ML: Nosocomial infection in surgery wards: a\ncontrolled study of increased duration of hospital stays and direct cost\nof hospitalization. Eur J Epidemiol 1993, 9:504–510.\n31.\nEdmond MB, Wenzel RP: Organization for infection control. In Principles\nand Practice of Infectious Diseases. 6th edition. Edited by Mandell GL,\nBennett JE, Dolin R. Philadelphia, PA: Churchill Livingstone; 2005:3323.\n"
+    },
+    {
+     "bbox": [
+      310.2,
+      182.9,
+      509.6,
+      215.1
+     ],
+     "text": "doi:10.1186/1471-2334-14-124\nCite this article as: Scherbaum et al.: Incidence, pathogens and\nresistance patterns of nosocomial infections at a rural hospital in\nGabon. BMC Infectious Diseases 2014 14:124.\n"
+    },
+    {
+     "bbox": [
+      322.9,
+      608.6,
+      522.9,
+      627.7
+     ],
+     "text": "Submit your next manuscript to BioMed Central\nand take full advantage of: \n"
+    },
+    {
+     "bbox": [
+      322.1,
+      641.8,
+      423.4,
+      648.2
+     ],
+     "text": "• Convenient online submission\n"
+    },
+    {
+     "bbox": [
+      322.1,
+      654.2,
+      398.6,
+      660.6
+     ],
+     "text": "• Thorough peer review\n"
+    },
+    {
+     "bbox": [
+      322.1,
+      666.6,
+      467.1,
+      673.1
+     ],
+     "text": "• No space constraints or color ﬁgure charges\n"
+    },
+    {
+     "bbox": [
+      322.1,
+      679.0,
+      446.5,
+      685.5
+     ],
+     "text": "• Immediate publication on acceptance\n"
+    },
+    {
+     "bbox": [
+      322.1,
+      691.4,
+      499.0,
+      697.9
+     ],
+     "text": "• Inclusion in PubMed, CAS, Scopus and Google Scholar\n"
+    },
+    {
+     "bbox": [
+      322.1,
+      703.8,
+      491.5,
+      710.3
+     ],
+     "text": "• Research which is freely available for redistribution\n"
+    },
+    {
+     "bbox": [
+      322.9,
+      725.9,
+      418.4,
+      737.6
+     ],
+     "text": "Submit your manuscript at \nwww.biomedcentral.com/submit\n"
+    },
+    {
+     "bbox": [
+      56.7,
+      34.7,
+      538.6,
+      52.1
+     ],
+     "text": "Scherbaum et al. BMC Infectious Diseases 2014, 14:124\nPage 8 of 8\nhttp://www.biomedcentral.com/1471-2334/14/124\n"
+    }
+   ]
+  }
+ ]
+}

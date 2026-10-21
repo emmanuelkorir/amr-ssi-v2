@@ -1,0 +1,1665 @@
+{
+ "doc_id": "copy-of-gashaw-et-al-amr",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Copy of Gashaw et al AMR.pdf",
+ "sha256": "5295a2fcfaf17a3b7ef6e24ad8a39951548cd1602e32945f651ea7ab7b4df5c4",
+ "document_type": "pdf",
+ "n_pages": 15,
+ "pdf_metadata": {
+  "format": "PDF 1.7",
+  "title": "Epidemiology of Surgical Site Infections: Incidence and Risk Factors at Jimma University Specialized and Comprehensive Hospital, Ethiopia",
+  "author": "Mulatu Gashaw, Bikila Alemu, Andreas Wieser, Rahel Tamrat, Assefa Legesse Sisay, Kira Elsbernd, Rebecca Kisch, Gemechu Abera, Gersam Abera, Demisew Amenu Sori, Esayas Kebede Gudina and Arne Kroidl",
+  "subject": "Background: Surgical site infections (SSIs) are healthcare-associated infections that can occur following surgical procedures, either at admission or within 30 days post-discharge. This study aimed to assess the incidence and associated risk factors for superficial SSI at a Tertiary Hospital in Ethiopia. Methods: A longitudinal study was conducted among patients undergoing surgery at Jimma University Specialized and Comprehensive Hospital (JUSCH) from 1 June to 30 September 2022. Pus, wound swab, or abscess samples were inoculated on Blood and MacConkey Agar for culture. Bacterial isolates were identified using MALDI-TOF, antimicrobial susceptibility testing was performed using the Kirby–Bauer disc diffusion method, and the results were interpreted according to EUCAST 2022 breakpoints. Incidence rates, Kaplan–Meier analysis, extended Cox regression, and violin plots were utilized to analyze and present the findings. Results: Among 1205 participants, 629 (52.2%) were male, and the median age was 27 years (IQR: 16–40). The incidence of SSI was 9.2 per 1000 person-days. Most SSIs occurred during hospitalization (81.1%), and the remaining primarily developed within the first week post-discharge. The culture positivity rate was 72.7%, yielding 252 isolates comprising 36 bacterial species. The most frequently identified organisms were E. coli (22.2%), Acinetobacter (20.2%), and Klebsiella (14.7%). Over 67% of Gram-negative bacteria were ESBL producers. Age, gender, residence, hospital ward, surgery area, emergency surgery, longer hospitalization, and the number of staff attending the surgery were identified as important risk factors. Conclusions: This study revealed a high incidence of SSI during hospitalization, with significant proportion identified post-discharge. The high rates of multidrug-resistant Gram-negative pathogens underscore the urgent need for comprehensive infection prevention and control measures.",
+  "keywords": "incidence; prevalence; surgical site infection; multi-drug resistance; extended spectrum beta-lactamase",
+  "creator": "LaTeX with hyperref",
+  "producer": "pdfTeX-1.40.25; modified using OpenPDF 1.4.2",
+  "creationDate": "D:20260212182704+08'00'",
+  "modDate": "D:20260212113243+01'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:54+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "Academic Editors: Andreea-Loredana\nGolli, Ovidiu Zlatian and Alice\nElena Ghenea\nReceived: 22 December 2025\nRevised: 10 February 2026\nAccepted: 10 February 2026\nPublished: 12 February 2026\nCopyright: © 2026 by the authors.\nLicensee MDPI, Basel, Switzerland.\nThis article is an open access article\ndistributed under the terms and\nconditions of the Creative Commons\nAttribution (CC BY) license.\nArticle\nEpidemiology of Surgical Site Infections: Incidence and Risk\nFactors at Jimma University Specialized and Comprehensive\nHospital, Ethiopia\nMulatu Gashaw 1,2,*,†\n, Bikila Alemu 1,†\n, Andreas Wieser 3,4,5,6\n, Rahel Tamrat 1, Assefa Legesse Sisay 7\n,\nKira Elsbernd 3,8\n, Rebecca Kisch 3\n, Gemechu Abera 9, Gersam Abera 9\n, Demisew Amenu Sori 10,\nEsayas Kebede Gudina 11,†\nand Arne Kroidl 2,3,5,†\n1\nSchool of Medical Laboratory Sciences, Jimma University, Jimma P.O. Box 378, Ethiopia;\nbikila.alemu@ju.edu.et (B.A.); rahel.tamrat@ju.edu.et (R.T.)\n2\nCIHLMU Center for International Health, University Hospital, LMU Munich, Leopoldstrasse 5,\n80802 Munich, Germany; akroidl@lrz.uni-muenchen.de\n3\nInstitute of Infectious Disease and Tropical Medicine, LMU University Hospital, 80802 Munich, Germany;\nwieser@mvp.lmu.de (A.W.); elsbernd.kira@med.uni-muenchen.de (K.E.);\nrebecca.kisch@med.uni-muenchen.de (R.K.)\n4\nFraunhofer Institute for Translational Medicine and Pharmacology ITMP, Immunology, Infection and\nPandemic Research IIP, Türkenstraße 87, 80799 Munich, Germany\n5\nGerman Center for Infection Research (DZIF), 80802 Munich, Germany\n6\nMax von Pettenkofer-Institute, Medical Faculty, Ludwig Maximilian University of Munich,\nElisabeth-Winterhalter-Weg 6, 81377 Munich, Germany\n7\nDepartment of Epidemiology, Jimma University, Jimma P.O. Box 378, Ethiopia; assefa.legesse@ju.edu.et\n8\nInstitute for Medical Information Processing, Biometry and Epidemiology (IBE), Faculty of Medicine,\nLMU Munich, 81377 Munich, Germany\n9\nDepartment of Surgery, Jimma University, Jimma P.O. Box 378, Ethiopia; gemechu.negasa@edu.ju.et (G.A.);\ngersam.abera@ju.edu.et (G.A.)\n10\nDepartment of Gynecology and Obstetrics, Jimma University, Jimma P.O. Box 378, Ethiopia;\ndemisew.amenu@ju.edu.et\n11\nDepartment of Internal Medicine, Jimma University, Jimma P.O. Box 378, Ethiopia\n*\nCorrespondence: mulatu.gashaw@ju.edu.et\n†\nThese authors contributed equally to this work.\nAbstract\nBackground: Surgical site infections (SSIs) are healthcare-associated infections that can\noccur following surgical procedures, either at admission or within 30 days post-discharge.\nThis study aimed to assess the incidence and associated risk factors for superficial SSI at\na Tertiary Hospital in Ethiopia. Methods: A longitudinal study was conducted among\npatients undergoing surgery at Jimma University Specialized and Comprehensive Hospital\n(JUSCH) from 1 June to 30 September 2022. Pus, wound swab, or abscess samples were\ninoculated on Blood and MacConkey Agar for culture. Bacterial isolates were identified\nusing MALDI-TOF, antimicrobial susceptibility testing was performed using the Kirby–\nBauer disc diffusion method, and the results were interpreted according to EUCAST 2022\nbreakpoints. Incidence rates, Kaplan–Meier analysis, extended Cox regression, and violin\nplots were utilized to analyze and present the findings. Results: Among 1205 participants,\n629 (52.2%) were male, and the median age was 27 years (IQR: 16–40). The incidence\nof SSI was 9.2 per 1000 person-days. Most SSIs occurred during hospitalization (81.1%),\nand the remaining primarily developed within the first week post-discharge. The culture\npositivity rate was 72.7%, yielding 252 isolates comprising 36 bacterial species. The most\nfrequently identified organisms were E. coli (22.2%), Acinetobacter (20.2%), and Klebsiella\n(14.7%). Over 67% of Gram-negative bacteria were ESBL producers. Age, gender, residence,\nhospital ward, surgery area, emergency surgery, longer hospitalization, and the number\nof staff attending the surgery were identified as important risk factors. Conclusions: This\nAntibiotics 2026, 15, 201\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 4091,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.7,
+      621.1,
+      151.9,
+      628.0
+     ],
+     "text": "Academic Editors: Andreea-Loredana\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      633.0,
+      131.3,
+      639.9
+     ],
+     "text": "Golli, Ovidiu Zlatian and Alice\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      644.9,
+      78.2,
+      651.9
+     ],
+     "text": "Elena Ghenea\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      660.8,
+      123.3,
+      667.8
+     ],
+     "text": "Received: 22 December 2025\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      672.8,
+      116.7,
+      679.7
+     ],
+     "text": "Revised: 10 February 2026\n"
+    },
+    {
+     "bbox": [
+      35.4,
+      684.7,
+      120.9,
+      691.6
+     ],
+     "text": "Accepted: 10 February 2026\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      696.6,
+      123.1,
+      703.6
+     ],
+     "text": "Published: 12 February 2026\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      710.5,
+      141.0,
+      717.5
+     ],
+     "text": "Copyright: © 2026 by the authors.\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      722.4,
+      144.4,
+      729.4
+     ],
+     "text": "Licensee MDPI, Basel, Switzerland.\n"
+    },
+    {
+     "bbox": [
+      35.5,
+      734.4,
+      144.2,
+      741.3
+     ],
+     "text": "This article is an open access article\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      746.3,
+      134.5,
+      753.3
+     ],
+     "text": "distributed under the terms and\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      758.2,
+      150.5,
+      765.2
+     ],
+     "text": "conditions of the Creative Commons\n"
+    },
+    {
+     "bbox": [
+      35.4,
+      770.1,
+      121.7,
+      777.1
+     ],
+     "text": "Attribution (CC BY) license.\n"
+    },
+    {
+     "bbox": [
+      35.4,
+      99.2,
+      535.8,
+      173.8
+     ],
+     "text": "Article\nEpidemiology of Surgical Site Infections: Incidence and Risk\nFactors at Jimma University Specialized and Comprehensive\nHospital, Ethiopia\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      186.0,
+      537.6,
+      225.4
+     ],
+     "text": "Mulatu Gashaw 1,2,*,†\n, Bikila Alemu 1,†\n, Andreas Wieser 3,4,5,6\n, Rahel Tamrat 1, Assefa Legesse Sisay 7\n,\nKira Elsbernd 3,8\n, Rebecca Kisch 3\n, Gemechu Abera 9, Gersam Abera 9\n, Demisew Amenu Sori 10,\nEsayas Kebede Gudina 11,†\nand Arne Kroidl 2,3,5,†\n"
+    },
+    {
+     "bbox": [
+      165.7,
+      246.7,
+      556.4,
+      482.0
+     ],
+     "text": "1\nSchool of Medical Laboratory Sciences, Jimma University, Jimma P.O. Box 378, Ethiopia;\nbikila.alemu@ju.edu.et (B.A.); rahel.tamrat@ju.edu.et (R.T.)\n2\nCIHLMU Center for International Health, University Hospital, LMU Munich, Leopoldstrasse 5,\n80802 Munich, Germany; akroidl@lrz.uni-muenchen.de\n3\nInstitute of Infectious Disease and Tropical Medicine, LMU University Hospital, 80802 Munich, Germany;\nwieser@mvp.lmu.de (A.W.); elsbernd.kira@med.uni-muenchen.de (K.E.);\nrebecca.kisch@med.uni-muenchen.de (R.K.)\n4\nFraunhofer Institute for Translational Medicine and Pharmacology ITMP, Immunology, Infection and\nPandemic Research IIP, Türkenstraße 87, 80799 Munich, Germany\n5\nGerman Center for Infection Research (DZIF), 80802 Munich, Germany\n6\nMax von Pettenkofer-Institute, Medical Faculty, Ludwig Maximilian University of Munich,\nElisabeth-Winterhalter-Weg 6, 81377 Munich, Germany\n7\nDepartment of Epidemiology, Jimma University, Jimma P.O. Box 378, Ethiopia; assefa.legesse@ju.edu.et\n8\nInstitute for Medical Information Processing, Biometry and Epidemiology (IBE), Faculty of Medicine,\nLMU Munich, 81377 Munich, Germany\n9\nDepartment of Surgery, Jimma University, Jimma P.O. Box 378, Ethiopia; gemechu.negasa@edu.ju.et (G.A.);\ngersam.abera@ju.edu.et (G.A.)\n10\nDepartment of Gynecology and Obstetrics, Jimma University, Jimma P.O. Box 378, Ethiopia;\ndemisew.amenu@ju.edu.et\n11\nDepartment of Internal Medicine, Jimma University, Jimma P.O. Box 378, Ethiopia\n*\nCorrespondence: mulatu.gashaw@ju.edu.et\n†\nThese authors contributed equally to this work.\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      497.8,
+      204.2,
+      507.5
+     ],
+     "text": "Abstract\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      517.6,
+      561.0,
+      778.2
+     ],
+     "text": "Background: Surgical site infections (SSIs) are healthcare-associated infections that can\noccur following surgical procedures, either at admission or within 30 days post-discharge.\nThis study aimed to assess the incidence and associated risk factors for superficial SSI at\na Tertiary Hospital in Ethiopia. Methods: A longitudinal study was conducted among\npatients undergoing surgery at Jimma University Specialized and Comprehensive Hospital\n(JUSCH) from 1 June to 30 September 2022. Pus, wound swab, or abscess samples were\ninoculated on Blood and MacConkey Agar for culture. Bacterial isolates were identified\nusing MALDI-TOF, antimicrobial susceptibility testing was performed using the Kirby–\nBauer disc diffusion method, and the results were interpreted according to EUCAST 2022\nbreakpoints. Incidence rates, Kaplan–Meier analysis, extended Cox regression, and violin\nplots were utilized to analyze and present the findings. Results: Among 1205 participants,\n629 (52.2%) were male, and the median age was 27 years (IQR: 16–40). The incidence\nof SSI was 9.2 per 1000 person-days. Most SSIs occurred during hospitalization (81.1%),\nand the remaining primarily developed within the first week post-discharge. The culture\npositivity rate was 72.7%, yielding 252 isolates comprising 36 bacterial species. The most\nfrequently identified organisms were E. coli (22.2%), Acinetobacter (20.2%), and Klebsiella\n(14.7%). Over 67% of Gram-negative bacteria were ESBL producers. Age, gender, residence,\nhospital ward, surgery area, emergency surgery, longer hospitalization, and the number\nof staff attending the surgery were identified as important risk factors. Conclusions: This\n"
+    },
+    {
+     "bbox": [
+      35.4,
+      805.5,
+      559.3,
+      813.5
+     ],
+     "text": "Antibiotics 2026, 15, 201\nhttps://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "Antibiotics 2026, 15, 201\n2 of 15\nstudy revealed a high incidence of SSI during hospitalization, with significant proportion\nidentified post-discharge. The high rates of multidrug-resistant Gram-negative pathogens\nunderscore the urgent need for comprehensive infection prevention and control measures.\nKeywords: incidence; prevalence; surgical site infection; multi-drug resistance; extended\nspectrum beta-lactamase\n1. Introduction\nSurgical site infection (SSI) is a type of healthcare-associated infection (HAI) that\noccurs at or near the surgical incision site and may disseminate to other organs following\na surgical procedure, either during admission or within 30 days post-discharge [1]. SSIs\nare characterized by signs such as redness, swelling, warmth, pain, discharge, or abscess\nformation [2]. They can be categorized as superficial (involving the skin and subcutaneous\ntissue), deep (involving deeper tissues or organs), or organ/space (affecting any part of the\nbody other than the incision site) [3].\nSSIs are caused by various microorganisms, including bacteria, viruses, and fungi, which\nmay originate from the patient’s flora or exogenous sources such as the surgical team, medical\ndevices, or the hospital environment [2,4–6]. The most common bacterial etiologies include\nS. aureus, E. coli, K. pneumoniae, P. aeruginosa, A. baumannii, and Enterococcus species [7,8].\nInadequate infection prevention and control practices, limited access to effective antibiotics,\nand multidrug-resistant (MDR) strains are the major contributing factors to SSI and related\ncomplications [1,5,8]. Methicillin-resistant S. aureus and beta-lactam-resistant Gram-negative\nbacteria are significant causes of SSI and pose substantial challenges in infection manage-\nment [8,9]. In low-income countries, SSI prevalence ranges from 12% to 31% [6,10,11]. In\nEthiopia, reported SSI prevalence varies from 6.8% to 25%, with common isolates being E. coli,\nS. aureus, P. aeruginosa, and Klebsiella species. Over 80% of these isolates are MDR [8,12,13] and\noften fail to respond to commonly used antibiotic treatments.\nHigh SSI rates are linked to numerous patient- and procedure-related risk factors [1,14].\nProcedure-related factors include emergency surgery, delays in surgical intervention, anes-\nthesia type, wound type, anatomical site of surgery, admission diagnosis, and admission\nward [15,16]. Patient-related factors such as gender, compromised immunity, malnutrition,\nand lack of preoperative screening also increase susceptibility to SSIs [2,5,9]. Health system\nand environmental conditions such as limited access to clean water, inadequate sanitation,\npoor infection prevention and control practices, suboptimal sterilization of equipment, and\nlack of adherence to aseptic measures further contribute to SSI risk [13,17]. High rates of\nMDR pathogens, overcrowded healthcare facilities, and broader socioeconomic factors\nsuch as poverty and limited healthcare resources also increase vulnerability to SSI [2,5].\nIn resource-limited settings, inconsistent SSI reporting and characterization make it\ndifficult to capture their true burden [2]. Inadequate healthcare infrastructure, limited\nsurveillance systems, and poor data collection practices contribute to this issue [6,10].\nVariations in diagnostic practices, inconsistent SSI definitions, and a shortage of trained\npersonnel further compromise data quality and comparability across studies [6]. Together,\nthese factors limit the understanding of SSI epidemiology and impede the development of\nevidence-based interventions [18]. Although several studies on SSIs have been conducted\nin Ethiopia, the overall burden is not fully elucidated due to methodological limitations.\nMost of the studies included only certain procedures (e.g., cesarean section) or certain age\ngroups (e.g., adult patients) and did not include post-discharge follow-up [8,19]. This study\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 3954,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n2 of 15\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      74.7,
+      561.0,
+      112.5
+     ],
+     "text": "study revealed a high incidence of SSI during hospitalization, with significant proportion\nidentified post-discharge. The high rates of multidrug-resistant Gram-negative pathogens\nunderscore the urgent need for comprehensive infection prevention and control measures.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      128.4,
+      559.3,
+      152.3
+     ],
+     "text": "Keywords: incidence; prevalence; surgical site infection; multi-drug resistance; extended\nspectrum beta-lactamase\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      193.8,
+      248.1,
+      205.5
+     ],
+     "text": "1. Introduction\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      212.1,
+      559.3,
+      305.6
+     ],
+     "text": "Surgical site infection (SSI) is a type of healthcare-associated infection (HAI) that\noccurs at or near the surgical incision site and may disseminate to other organs following\na surgical procedure, either during admission or within 30 days post-discharge [1]. SSIs\nare characterized by signs such as redness, swelling, warmth, pain, discharge, or abscess\nformation [2]. They can be categorized as superficial (involving the skin and subcutaneous\ntissue), deep (involving deeper tissues or organs), or organ/space (affecting any part of the\nbody other than the incision site) [3].\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      309.6,
+      561.0,
+      472.7
+     ],
+     "text": "SSIs are caused by various microorganisms, including bacteria, viruses, and fungi, which\nmay originate from the patient’s flora or exogenous sources such as the surgical team, medical\ndevices, or the hospital environment [2,4–6]. The most common bacterial etiologies include\nS. aureus, E. coli, K. pneumoniae, P. aeruginosa, A. baumannii, and Enterococcus species [7,8].\nInadequate infection prevention and control practices, limited access to effective antibiotics,\nand multidrug-resistant (MDR) strains are the major contributing factors to SSI and related\ncomplications [1,5,8]. Methicillin-resistant S. aureus and beta-lactam-resistant Gram-negative\nbacteria are significant causes of SSI and pose substantial challenges in infection manage-\nment [8,9]. In low-income countries, SSI prevalence ranges from 12% to 31% [6,10,11]. In\nEthiopia, reported SSI prevalence varies from 6.8% to 25%, with common isolates being E. coli,\nS. aureus, P. aeruginosa, and Klebsiella species. Over 80% of these isolates are MDR [8,12,13] and\noften fail to respond to commonly used antibiotic treatments.\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      476.7,
+      561.0,
+      612.0
+     ],
+     "text": "High SSI rates are linked to numerous patient- and procedure-related risk factors [1,14].\nProcedure-related factors include emergency surgery, delays in surgical intervention, anes-\nthesia type, wound type, anatomical site of surgery, admission diagnosis, and admission\nward [15,16]. Patient-related factors such as gender, compromised immunity, malnutrition,\nand lack of preoperative screening also increase susceptibility to SSIs [2,5,9]. Health system\nand environmental conditions such as limited access to clean water, inadequate sanitation,\npoor infection prevention and control practices, suboptimal sterilization of equipment, and\nlack of adherence to aseptic measures further contribute to SSI risk [13,17]. High rates of\nMDR pathogens, overcrowded healthcare facilities, and broader socioeconomic factors\nsuch as poverty and limited healthcare resources also increase vulnerability to SSI [2,5].\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      616.0,
+      561.0,
+      751.3
+     ],
+     "text": "In resource-limited settings, inconsistent SSI reporting and characterization make it\ndifficult to capture their true burden [2]. Inadequate healthcare infrastructure, limited\nsurveillance systems, and poor data collection practices contribute to this issue [6,10].\nVariations in diagnostic practices, inconsistent SSI definitions, and a shortage of trained\npersonnel further compromise data quality and comparability across studies [6]. Together,\nthese factors limit the understanding of SSI epidemiology and impede the development of\nevidence-based interventions [18]. Although several studies on SSIs have been conducted\nin Ethiopia, the overall burden is not fully elucidated due to methodological limitations.\nMost of the studies included only certain procedures (e.g., cesarean section) or certain age\ngroups (e.g., adult patients) and did not include post-discharge follow-up [8,19]. This study\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "Antibiotics 2026, 15, 201\n3 of 15\naimed to assess the incidence, bacterial profile, and associated risk factors of SSI up to\n28-days post-discharge at JUCSH, a tertiary hospital in Ethiopia.\n2. Results\n2.1. Socio-Demographic and Clinical Patient Characteristics\nA total of 1205 participants, 52% (629) of whom were male, underwent surgical\nprocedures at JMC and were recruited for the study. The median age was 27 years (IQR:\n16–40), with a range of 20 days to 90 years. Over two-thirds of the patients, 68% (n = 822),\nwere rural residents. Approximately 41% of the surgical procedures were emergency\noperations. Of all the procedures, 51% (n = 615) were performed on or near the abdominal\narea. Ceftriaxone was provided as prophylaxis for almost all patients, (98.5%) based on the\nnational guideline and its affordability, with most doses given before the surgical procedure\n(Table 1). The median length of hospital stay post-procedure varied across wards, ranging\nfrom 1 to 86 days. The longest stays were observed in the pediatric ward, with a median\nof 11 days (IQR: 8–15), and in the gynecology and obstetrics ward, also with a median of\n11 days (IQR: 5–20). In contrast, the shortest stays were recorded in the maternity ward,\nwith a median of 4 days (IQR: 3–5) (Supplementary Figure S1).\nTable 1. Sociodemographic characteristics of study participants (n = 1205).\nVariable\nFrequency\nPercent\nSex\nMale\n629\n52.2\nFemale\n576\n47.8\nAge\n<14\n283\n23.5\n15–24\n220\n18.3\n25–64\n627\n52.0\n>65\n75\n6.2\nResidence\nUrban\n383\n31.8\nRural\n822\n68.2\nWards\nPediatric surgery\n168\n13.9\nOMFS\n51\n4.2\nGeneral surgery\n430\n35.7\nGynecology\n136\n11.3\nOrthopedics\n270\n22.4\nMaternity\n150\n12.4\nArea of surgery\nHead and neck\n195\n16.2\nChest and back\n59\n4.9\nUpper limb\n93\n7.7\nAbdomen\n615\n51.0\nPerineum\n65\n5.4\nLower limb\n178\n14.8\nComorbid chronic disease\nYes\n37 *\n3.1\nNo\n1168\n96.9\nIndication for surgery\nEmergency\n492\n40.8\nElective\n713\n59.2\nMechanical bowl preparation\nYes\n326\n27.1\nNo\n879\n72.9\nProphylaxis\nYes\n1187\n98.5\nNo\n18\n1.5\nChlorhexidine cloth wash\nYes\n744\n61.7\nNo\n461\n38.3\nSkin preparation\nYes\n1200\n99.6\nUnknown\n5\n0.4\nChemical for skin\nPovidone Iodine\n1188\n99.0\nAbsolute alcohol\n10\n0.8\n70% Alcohol\n2\n0.2\n* Diabetes mellitus (n = 12), HIV (n = 5), Steroid drug users (n = 1), and Hypertension (n = 9), OMFS—Oral and\nMaxillofacial surgery, Prophylaxis antibiotics: ceftriaxone, ceftazidime, cefalexin, ampicillin, and metronidazole.\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 2443,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n3 of 15\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      74.7,
+      559.3,
+      98.6
+     ],
+     "text": "aimed to assess the incidence, bacterial profile, and associated risk factors of SSI up to\n28-days post-discharge at JUCSH, a tertiary hospital in Ethiopia.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      113.2,
+      219.6,
+      124.8
+     ],
+     "text": "2. Results\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      130.7,
+      408.9,
+      140.5
+     ],
+     "text": "2.1. Socio-Demographic and Clinical Patient Characteristics\n"
+    },
+    {
+     "bbox": [
+      165.9,
+      147.7,
+      560.5,
+      310.9
+     ],
+     "text": "A total of 1205 participants, 52% (629) of whom were male, underwent surgical\nprocedures at JMC and were recruited for the study. The median age was 27 years (IQR:\n16–40), with a range of 20 days to 90 years. Over two-thirds of the patients, 68% (n = 822),\nwere rural residents. Approximately 41% of the surgical procedures were emergency\noperations. Of all the procedures, 51% (n = 615) were performed on or near the abdominal\narea. Ceftriaxone was provided as prophylaxis for almost all patients, (98.5%) based on the\nnational guideline and its affordability, with most doses given before the surgical procedure\n(Table 1). The median length of hospital stay post-procedure varied across wards, ranging\nfrom 1 to 86 days. The longest stays were observed in the pediatric ward, with a median\nof 11 days (IQR: 8–15), and in the gynecology and obstetrics ward, also with a median of\n11 days (IQR: 5–20). In contrast, the shortest stays were recorded in the maternity ward,\nwith a median of 4 days (IQR: 3–5) (Supplementary Figure S1).\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      326.4,
+      460.6,
+      335.3
+     ],
+     "text": "Table 1. Sociodemographic characteristics of study participants (n = 1205).\n"
+    },
+    {
+     "bbox": [
+      172.4,
+      347.5,
+      536.2,
+      356.2
+     ],
+     "text": "Variable\nFrequency\nPercent\n"
+    },
+    {
+     "bbox": [
+      172.4,
+      363.2,
+      528.8,
+      514.6
+     ],
+     "text": "Sex\nMale\n629\n52.2\nFemale\n576\n47.8\nAge\n<14\n283\n23.5\n15–24\n220\n18.3\n25–64\n627\n52.0\n>65\n75\n6.2\nResidence\nUrban\n383\n31.8\nRural\n822\n68.2\nWards\nPediatric surgery\n168\n13.9\nOMFS\n51\n4.2\nGeneral surgery\n430\n35.7\nGynecology\n136\n11.3\nOrthopedics\n270\n22.4\nMaternity\n150\n12.4\n"
+    },
+    {
+     "bbox": [
+      172.0,
+      516.6,
+      528.8,
+      744.8
+     ],
+     "text": "Area of surgery\nHead and neck\n195\n16.2\nChest and back\n59\n4.9\nUpper limb\n93\n7.7\nAbdomen\n615\n51.0\nPerineum\n65\n5.4\nLower limb\n178\n14.8\nComorbid chronic disease\nYes\n37 *\n3.1\nNo\n1168\n96.9\nIndication for surgery\nEmergency\n492\n40.8\nElective\n713\n59.2\nMechanical bowl preparation\nYes\n326\n27.1\nNo\n879\n72.9\nProphylaxis\nYes\n1187\n98.5\nNo\n18\n1.5\nChlorhexidine cloth wash\nYes\n744\n61.7\nNo\n461\n38.3\nSkin preparation\nYes\n1200\n99.6\nUnknown\n5\n0.4\nChemical for skin\nPovidone Iodine\n1188\n99.0\nAbsolute alcohol\n10\n0.8\n70% Alcohol\n2\n0.2\n"
+    },
+    {
+     "bbox": [
+      165.8,
+      749.1,
+      559.3,
+      766.5
+     ],
+     "text": "* Diabetes mellitus (n = 12), HIV (n = 5), Steroid drug users (n = 1), and Hypertension (n = 9), OMFS—Oral and\nMaxillofacial surgery, Prophylaxis antibiotics: ceftriaxone, ceftazidime, cefalexin, ampicillin, and metronidazole.\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Antibiotics 2026, 15, 201\n4 of 15\n2.2. Follow-Up Information\nComplete follow-up information, including during the hospital stay and post-\ndischarge, was available for 86.1% (n = 1038) of participants. Post-discharge follow-up was\nincomplete for the remaining 13.9% (n = 167) of participants. Reasons for loss to follow-up\nincluded insufficient or incorrect contact information (n = 44), repeatedly unsuccessful\ntracing attempts (n = 59), or successful tracing but non-attendance of scheduled follow-up\nappointments (n = 64) for clinical assessments. The study flow of participants is shown\nin Figure 1. By the end of the follow-up period, 312 patients were identified as having\ndeveloped SSI, resulting in a cumulative prevalence of 25.9% (95% CI: 23.5–28.4). Of these,\n81.1% (n = 253) developed SSI during hospitalization, while the remaining 18.9% (n = 59)\ndeveloped the infection post-discharge. Most post-discharge SSIs appeared within the first\nseven days, with additional cases identified up to day 14, and only a few cases up to day 28\n(Figure 1).\nFigure 1. Study flow diagram of study participants. Key: * A total of 167 participants were lost to\nfollow-up for various reasons. Specifically, 44 participants lacked contact phone numbers, 59 could\nnot be reached by the research team, and 64 were not reachable during all scheduled calls for the oral\nclinical assessment. Consequently, total events were 312 and the total number of censored cases 167\n(167 lost to follow-up and 726 who did not experience an event by the end of the follow-up period).\n2.3. Incidence of Surgical Site Infection\nThe study participants were followed for a total of 33,866 person-days. The overall\nincidence rate of SSI was 9.2 per 1000 person-days (95% CI: 8.3–10.3). Incidence rates varied\nacross inpatient units. The orthopedics ward exhibited the highest incidence at 20.8 per\n1000 person-days (95% CI: 17.6–24.5), while the oral and maxillofacial surgery (OMFS)\nward had the lowest incidence at 1.5 per 1000 person-days (95% CI: 0.4–6.2). The overall\nincidence of SSI post-discharge was 2.7 per 1000 person-days. Notably, most of these\ninfections occurred during the first week following discharge, with a particularly high post-\ndischarge incidence observed among maternity and pediatric participants. Additionally,\nthe incidence rate was higher among male patients at 13.4 per 1000 person-days (95% CI:\n11.8–15.3), as well as in patients who underwent surgical procedures near the head or neck\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 2530,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n4 of 15\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      74.6,
+      278.2,
+      84.4
+     ],
+     "text": "2.2. Follow-Up Information\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      91.6,
+      560.9,
+      254.8
+     ],
+     "text": "Complete follow-up information, including during the hospital stay and post-\ndischarge, was available for 86.1% (n = 1038) of participants. Post-discharge follow-up was\nincomplete for the remaining 13.9% (n = 167) of participants. Reasons for loss to follow-up\nincluded insufficient or incorrect contact information (n = 44), repeatedly unsuccessful\ntracing attempts (n = 59), or successful tracing but non-attendance of scheduled follow-up\nappointments (n = 64) for clinical assessments. The study flow of participants is shown\nin Figure 1. By the end of the follow-up period, 312 patients were identified as having\ndeveloped SSI, resulting in a cumulative prevalence of 25.9% (95% CI: 23.5–28.4). Of these,\n81.1% (n = 253) developed SSI during hospitalization, while the remaining 18.9% (n = 59)\ndeveloped the infection post-discharge. Most post-discharge SSIs appeared within the first\nseven days, with additional cases identified up to day 14, and only a few cases up to day 28\n(Figure 1).\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      533.6,
+      559.5,
+      593.8
+     ],
+     "text": "Figure 1. Study flow diagram of study participants. Key: * A total of 167 participants were lost to\nfollow-up for various reasons. Specifically, 44 participants lacked contact phone numbers, 59 could\nnot be reached by the research team, and 64 were not reachable during all scheduled calls for the oral\nclinical assessment. Consequently, total events were 312 and the total number of censored cases 167\n(167 lost to follow-up and 726 who did not experience an event by the end of the follow-up period).\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      605.5,
+      324.5,
+      615.3
+     ],
+     "text": "2.3. Incidence of Surgical Site Infection\n"
+    },
+    {
+     "bbox": [
+      165.9,
+      622.5,
+      560.9,
+      757.8
+     ],
+     "text": "The study participants were followed for a total of 33,866 person-days. The overall\nincidence rate of SSI was 9.2 per 1000 person-days (95% CI: 8.3–10.3). Incidence rates varied\nacross inpatient units. The orthopedics ward exhibited the highest incidence at 20.8 per\n1000 person-days (95% CI: 17.6–24.5), while the oral and maxillofacial surgery (OMFS)\nward had the lowest incidence at 1.5 per 1000 person-days (95% CI: 0.4–6.2). The overall\nincidence of SSI post-discharge was 2.7 per 1000 person-days. Notably, most of these\ninfections occurred during the first week following discharge, with a particularly high post-\ndischarge incidence observed among maternity and pediatric participants. Additionally,\nthe incidence rate was higher among male patients at 13.4 per 1000 person-days (95% CI:\n11.8–15.3), as well as in patients who underwent surgical procedures near the head or neck\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "Antibiotics 2026, 15, 201\n5 of 15\nat 16.9 per 1000 person-days (95% CI: 13.6–20.9), and in those who had surgeries on the\nabdomen at 11.8 per 1000 person-days (95% CI: 10.3–13.6) (Table 2).\nTable 2. Incidence of surgical site infections at various wards of JMC (n = 1205).\nVariables\nIncidence/1000 Person-Days\nTime in\nPerson-\nDays\nOverall Incidence/\n1000 Person-Days\n[95% CI]\nAt\nDischarge\nPost-Discharge\nDay 7\nDay 14\nDay 28\nTotal\nPediatrics (n = 168)\n19.6\n16.6\n1.2\n0\n6.0\n3304\n13.6 [10.2, 18.3]\nOMFS (n = 51)\n1.8\n4.8\n0\n0\n1.3\n1298\n1.5 [0.4, 6.2]\nSurgery (n = 430)\n16.9\n5.4\n0.7\n0.3\n2.1\n13,633\n7.2 [5.9, 8.8]\nWards\nGyn & Obs (n = 136)\n8.0\n2.6\n0\n0\n0.7\n4691\n3.2 [1.9, 5.3]\nOrthopedics (n = 270)\n41.4\n5.0\n5.7\n0\n4.3\n6743\n20.8 [17.6, 24.5]\nMaternity (n = 150)\n0\n11.4\n0.6\n0\n3.4\n4197\n2.9 [1.6, 5.1]\nUpper/lower limbs (n = 271)\n0.7\n1.9\n0.3\n0\n0.6\n9124\n0.6 [0.3–1.5]\nSurgical\nHead/neck (n = 195)\n38.8\n6.2\n3.2\n0.3\n3.6\n4865\n16.9 [13.6–20.9]\narea\nAbdomen (n = 615)\n25.4\n10.3\n1.3\n0.2\n3.7\n16,398\n11.8 [10.3–13.6]\nPerineum/chest/back\n(n = 124)\n17.3\n5.2\n2.7\n0\n2.8\n3427\n8.8 [6.1–12.5]\nSex\nFemale (n = 576)\n12.0\n5.9\n1.3\n0.2\n2.4\n17,684\n5.4 [4.4–6.6]\nMale (n = 629)\n27.5\n8.0\n1.6\n0.1\n3.1\n16,159\n13.4 [11.8–15.3]\nTotal (n = 1205)\n20.6\n6.9\n1.5\n0.1\n2.7\n33,866\n9.2 [8.3–10.3]\nKey: OMFS: oral and maxillofacial surgery; Gyn & Obs: gynecology and obstetrics.\n2.4. Survival Estimate Using Kaplan–Meier Curve\nThe median time to develop SSI was 26 days (IQR: 12–38) (Figure 2A). Notably,\nsignificantly higher infection rates were found among patients admitted to orthopedic\nwards (Figure 2C), those undergoing head and neck surgeries (Figure 2D), and male patients\n(Figure 2B) (p < 0.001). This underscores the impact of both the clinical environment and\nsurgical characteristics on the risk of infection.\nFigure 2. Kaplan–Meier analysis of time to SSI in study participants undergoing surgery at JMC.\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 1910,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n5 of 15\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      74.7,
+      559.3,
+      98.6
+     ],
+     "text": "at 16.9 per 1000 person-days (95% CI: 13.6–20.9), and in those who had surgeries on the\nabdomen at 11.8 per 1000 person-days (95% CI: 10.3–13.6) (Table 2).\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      114.1,
+      480.9,
+      123.0
+     ],
+     "text": "Table 2. Incidence of surgical site infections at various wards of JMC (n = 1205).\n"
+    },
+    {
+     "bbox": [
+      101.1,
+      153.5,
+      139.5,
+      162.2
+     ],
+     "text": "Variables\n"
+    },
+    {
+     "bbox": [
+      256.0,
+      137.2,
+      462.2,
+      150.1
+     ],
+     "text": "Incidence/1000 Person-Days\nTime in\n"
+    },
+    {
+     "bbox": [
+      431.9,
+      152.4,
+      462.8,
+      161.1
+     ],
+     "text": "Person-\n"
+    },
+    {
+     "bbox": [
+      436.1,
+      163.3,
+      457.0,
+      172.1
+     ],
+     "text": "Days\n"
+    },
+    {
+     "bbox": [
+      478.1,
+      142.2,
+      553.7,
+      150.9
+     ],
+     "text": "Overall Incidence/\n"
+    },
+    {
+     "bbox": [
+      213.7,
+      153.1,
+      551.3,
+      175.2
+     ],
+     "text": "1000 Person-Days\n[95% CI]\nAt\nDischarge\n"
+    },
+    {
+     "bbox": [
+      311.4,
+      153.0,
+      373.1,
+      161.7
+     ],
+     "text": "Post-Discharge\n"
+    },
+    {
+     "bbox": [
+      271.3,
+      168.7,
+      411.6,
+      177.5
+     ],
+     "text": "Day 7\nDay 14\nDay 28\nTotal\n"
+    },
+    {
+     "bbox": [
+      41.7,
+      184.4,
+      545.4,
+      303.0
+     ],
+     "text": "Pediatrics (n = 168)\n19.6\n16.6\n1.2\n0\n6.0\n3304\n13.6 [10.2, 18.3]\nOMFS (n = 51)\n1.8\n4.8\n0\n0\n1.3\n1298\n1.5 [0.4, 6.2]\nSurgery (n = 430)\n16.9\n5.4\n0.7\n0.3\n2.1\n13,633\n7.2 [5.9, 8.8]\nWards\nGyn & Obs (n = 136)\n8.0\n2.6\n0\n0\n0.7\n4691\n3.2 [1.9, 5.3]\nOrthopedics (n = 270)\n41.4\n5.0\n5.7\n0\n4.3\n6743\n20.8 [17.6, 24.5]\nMaternity (n = 150)\n0\n11.4\n0.6\n0\n3.4\n4197\n2.9 [1.6, 5.1]\nUpper/lower limbs (n = 271)\n0.7\n1.9\n0.3\n0\n0.6\n9124\n0.6 [0.3–1.5]\nSurgical\nHead/neck (n = 195)\n38.8\n6.2\n3.2\n0.3\n3.6\n4865\n16.9 [13.6–20.9]\narea\nAbdomen (n = 615)\n25.4\n10.3\n1.3\n0.2\n3.7\n16,398\n11.8 [10.3–13.6]\nPerineum/chest/back\n(n = 124)\n17.3\n5.2\n2.7\n0\n2.8\n3427\n8.8 [6.1–12.5]\n"
+    },
+    {
+     "bbox": [
+      41.7,
+      305.0,
+      545.4,
+      335.7
+     ],
+     "text": "Sex\nFemale (n = 576)\n12.0\n5.9\n1.3\n0.2\n2.4\n17,684\n5.4 [4.4–6.6]\nMale (n = 629)\n27.5\n8.0\n1.6\n0.1\n3.1\n16,159\n13.4 [11.8–15.3]\nTotal (n = 1205)\n20.6\n6.9\n1.5\n0.1\n2.7\n33,866\n9.2 [8.3–10.3]\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      342.2,
+      459.0,
+      350.1
+     ],
+     "text": "Key: OMFS: oral and maxillofacial surgery; Gyn & Obs: gynecology and obstetrics.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      366.5,
+      372.1,
+      376.3
+     ],
+     "text": "2.4. Survival Estimate Using Kaplan–Meier Curve\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      383.5,
+      560.5,
+      449.1
+     ],
+     "text": "The median time to develop SSI was 26 days (IQR: 12–38) (Figure 2A). Notably,\nsignificantly higher infection rates were found among patients admitted to orthopedic\nwards (Figure 2C), those undergoing head and neck surgeries (Figure 2D), and male patients\n(Figure 2B) (p < 0.001). This underscores the impact of both the clinical environment and\nsurgical characteristics on the risk of infection.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      746.1,
+      547.8,
+      755.0
+     ],
+     "text": "Figure 2. Kaplan–Meier analysis of time to SSI in study participants undergoing surgery at JMC.\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "Antibiotics 2026, 15, 201\n6 of 15\n2.5. Factors Associated with the Development of SSIs\nBased on the extended Cox regression analysis, several risk factors were identified\nas significantly associated with the development of SSI. Patients aged 25–50 years had\nnearly twice the risk of developing SSI compared to those aged ≤14 years (aHR = 1.8; 95%\nCI: 1.21–2.71; p = 0.004), while patients aged ≥65 years had more than double the risk\n(aHR = 2.3; 95% CI: 1.21–4.24; p = 0.010). Furthermore, males were found to have 1.7 times\ngreater risk of developing SSI compared to females (aHR = 1.7; 95% CI: 1.25–2.18; p < 0.001).\nSurgical patients who came from rural residences were 1.4 times more likely to develop SSI\nthan those from urban residences (aHR = 1.4; 95% CI: 1.00–1.89; p = 0.049).\nHospital ward of admission and anatomical region of the procedure were also asso-\nciated with increased risk of SSI. Patients admitted to Orthopedic wards had a 5.9 times\nhigher risk of SSI compared to those in the Maternity ward (aHR = 5.9; 95% CI: 2.35–14.55;\np < 0.001). Similarly, patients admitted to Surgery wards had 7.3 (aHR = 7.3; 95% CI:\n1.82–29.05; p = 0.005) times higher risk of SSI compared to patients admitted to the Mater-\nnity ward. Surgery involving the head and neck, as well as abdominal procedures, was\nassociated with significantly higher risks of SSI compared to procedures involving the\nlimbs, with aHRs of 23.4 (95% CI: 10.10–54.34; p < 0.001) and 16.2 (95% CI: 7.10–37.08;\np < 0.001), respectively. Procedures involving the perineum, chest, or back also carried\na notably higher risk compared to surgeries involving the limbs (aHR = 11.0; 95% CI:\n4.52–26.79; p < 0.001).\nPatients who underwent emergency surgery had nearly twice the risk of SSI compared\nto those who had elective surgery (aHR = 1.9; 95% CI: 1.43–2.71; p < 0.001). Furthermore,\nthe survival estimate revealed that each additional surgical staff member involved in the\nprocedure was associated with a 2.2-fold increase in the hazard of developing SSI (aHR = 2.2;\n95% CI: 1.29–3.65, p = 0.003). For every one day stay in the hospital, the hazard of SSI\nincreased by 1% (aHR = 1.01; 95% CI: 1.00–1.02; p < 0.001) (Table 3).\nTable 3. Univariate and multivariate extended Cox-regression analysis for risk factors associated\nwith development of SSI up to 28 days post-hospital discharge at JMC (n = 1205).\nVariables\nSSI\ncHR\n(95% CI)\np-Value\naHR\n(95% CI)\np-Value\nYes\nNo\nAge category\n≤14\n81\n202\n1\n1\n(years)\n15–25\n72\n220\n0.8 [0.57–1.07]\n0.128\n1.5 [1.00–2.33]\n0.050 *\n26–50\n112\n356\n0.7 [0.53–0.94]\n0.018\n1.8 [1.21–2.71]\n0.004 *\n51–65\n32\n88\n0.8 [0.52–1.17]\n0.231\n1.5 [0.89–2.41]\n0.132\n>65\n15\n27\n1.1 [0.63–1.89]\n0.762\n2.3 [1.21–4.24]\n0.010 *\nSex\nFemale\n95\n481\n1\n1\nMale\n217\n412\n2.4 [1.90–3.09]\n<0.001\n1.7 [1.25–2.18]\n<0.001 *\nResidence\nUrban\n58\n325\n1\n1\nRural\n254\n568\n2.0 [1.53–2.71]\n<0.001\n1.4 [1.00–1.89]\n0.049 *\nMaternity\n12\n138\n1\n1\nWard\nOMFS\n2\n49\n0.6 [0.12–2.46]\n0.435\n1.9 [0.36–9.92]\n0.451\nGeneral surgery\n98\n332\n2.6 [1.43–4.76]\n0.002\n7.3 [1.82–29.05]\n0.005 *\nPediatric surgery\n45\n123\n4.2 [2.19–7.90]\n<0.001\n2.1 [0.72–6.27]\n0.170\nGynecology\n15\n121\n1.2 [0.55–2.53]\n0.673\n1.3 [0.57–2.97]\n0.540\nOrthopedics\n140\n130\n7.4 [4.10–13.36]\n<0.001\n5.9 [2.35–14.55]\n<0.001 *\nArea of surgery\nUpper and lower limb\n6\n265\n1\n1\nHead and neck\n82\n113\n23.8 [10.39–54.63]\n<0.001\n23.4 [10.10–54.34]\n<0.001 *\nAbdomen\n194\n421\n16.8 [7.47–37.99]\n<0.001\n16.2 [7.10–37.08]\n<0.001 *\nPerineum, Chest, or Back\n30\n94\n12.4 [5.15–29.77]\n<0.001\n11.0 [4.52–26.79]\n<0.001 *\nIndication of\nElective\n205\n508\n1\n1\nsurgery\nEmergency\n107\n385\n0.8 [0.64–1.02]\n0.072\n1.9 [1.43–2.71]\n<0.001 *\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 3656,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n6 of 15\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      74.6,
+      380.7,
+      84.4
+     ],
+     "text": "2.5. Factors Associated with the Development of SSIs\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      91.6,
+      561.0,
+      199.0
+     ],
+     "text": "Based on the extended Cox regression analysis, several risk factors were identified\nas significantly associated with the development of SSI. Patients aged 25–50 years had\nnearly twice the risk of developing SSI compared to those aged ≤14 years (aHR = 1.8; 95%\nCI: 1.21–2.71; p = 0.004), while patients aged ≥65 years had more than double the risk\n(aHR = 2.3; 95% CI: 1.21–4.24; p = 0.010). Furthermore, males were found to have 1.7 times\ngreater risk of developing SSI compared to females (aHR = 1.7; 95% CI: 1.25–2.18; p < 0.001).\nSurgical patients who came from rural residences were 1.4 times more likely to develop SSI\nthan those from urban residences (aHR = 1.4; 95% CI: 1.00–1.89; p = 0.049).\n"
+    },
+    {
+     "bbox": [
+      165.9,
+      203.0,
+      560.9,
+      435.8
+     ],
+     "text": "Hospital ward of admission and anatomical region of the procedure were also asso-\nciated with increased risk of SSI. Patients admitted to Orthopedic wards had a 5.9 times\nhigher risk of SSI compared to those in the Maternity ward (aHR = 5.9; 95% CI: 2.35–14.55;\np < 0.001). Similarly, patients admitted to Surgery wards had 7.3 (aHR = 7.3; 95% CI:\n1.82–29.05; p = 0.005) times higher risk of SSI compared to patients admitted to the Mater-\nnity ward. Surgery involving the head and neck, as well as abdominal procedures, was\nassociated with significantly higher risks of SSI compared to procedures involving the\nlimbs, with aHRs of 23.4 (95% CI: 10.10–54.34; p < 0.001) and 16.2 (95% CI: 7.10–37.08;\np < 0.001), respectively. Procedures involving the perineum, chest, or back also carried\na notably higher risk compared to surgeries involving the limbs (aHR = 11.0; 95% CI:\n4.52–26.79; p < 0.001).\nPatients who underwent emergency surgery had nearly twice the risk of SSI compared\nto those who had elective surgery (aHR = 1.9; 95% CI: 1.43–2.71; p < 0.001). Furthermore,\nthe survival estimate revealed that each additional surgical staff member involved in the\nprocedure was associated with a 2.2-fold increase in the hazard of developing SSI (aHR = 2.2;\n95% CI: 1.29–3.65, p = 0.003). For every one day stay in the hospital, the hazard of SSI\nincreased by 1% (aHR = 1.01; 95% CI: 1.00–1.02; p < 0.001) (Table 3).\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      451.3,
+      559.3,
+      473.1
+     ],
+     "text": "Table 3. Univariate and multivariate extended Cox-regression analysis for risk factors associated\nwith development of SSI up to 28 days post-hospital discharge at JMC (n = 1205).\n"
+    },
+    {
+     "bbox": [
+      123.2,
+      496.5,
+      161.5,
+      505.2
+     ],
+     "text": "Variables\n"
+    },
+    {
+     "bbox": [
+      257.1,
+      487.3,
+      551.0,
+      511.8
+     ],
+     "text": "SSI\ncHR\n(95% CI)\np-Value\naHR\n(95% CI)\np-Value\nYes\nNo\n"
+    },
+    {
+     "bbox": [
+      41.7,
+      518.2,
+      551.0,
+      746.9
+     ],
+     "text": "Age category\n≤14\n81\n202\n1\n1\n(years)\n15–25\n72\n220\n0.8 [0.57–1.07]\n0.128\n1.5 [1.00–2.33]\n0.050 *\n26–50\n112\n356\n0.7 [0.53–0.94]\n0.018\n1.8 [1.21–2.71]\n0.004 *\n51–65\n32\n88\n0.8 [0.52–1.17]\n0.231\n1.5 [0.89–2.41]\n0.132\n>65\n15\n27\n1.1 [0.63–1.89]\n0.762\n2.3 [1.21–4.24]\n0.010 *\nSex\nFemale\n95\n481\n1\n1\nMale\n217\n412\n2.4 [1.90–3.09]\n<0.001\n1.7 [1.25–2.18]\n<0.001 *\nResidence\nUrban\n58\n325\n1\n1\nRural\n254\n568\n2.0 [1.53–2.71]\n<0.001\n1.4 [1.00–1.89]\n0.049 *\nMaternity\n12\n138\n1\n1\nWard\nOMFS\n2\n49\n0.6 [0.12–2.46]\n0.435\n1.9 [0.36–9.92]\n0.451\nGeneral surgery\n98\n332\n2.6 [1.43–4.76]\n0.002\n7.3 [1.82–29.05]\n0.005 *\nPediatric surgery\n45\n123\n4.2 [2.19–7.90]\n<0.001\n2.1 [0.72–6.27]\n0.170\nGynecology\n15\n121\n1.2 [0.55–2.53]\n0.673\n1.3 [0.57–2.97]\n0.540\nOrthopedics\n140\n130\n7.4 [4.10–13.36]\n<0.001\n5.9 [2.35–14.55]\n<0.001 *\nArea of surgery\nUpper and lower limb\n6\n265\n1\n1\nHead and neck\n82\n113\n23.8 [10.39–54.63]\n<0.001\n23.4 [10.10–54.34]\n<0.001 *\nAbdomen\n194\n421\n16.8 [7.47–37.99]\n<0.001\n16.2 [7.10–37.08]\n<0.001 *\nPerineum, Chest, or Back\n30\n94\n12.4 [5.15–29.77]\n<0.001\n11.0 [4.52–26.79]\n<0.001 *\nIndication of\nElective\n205\n508\n1\n1\nsurgery\nEmergency\n107\n385\n0.8 [0.64–1.02]\n0.072\n1.9 [1.43–2.71]\n<0.001 *\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "Antibiotics 2026, 15, 201\n7 of 15\nTable 3. Cont.\nVariables\nSSI\ncHR\n(95% CI)\np-Value\naHR\n(95% CI)\np-Value\nYes\nNo\nChlorhexidine cloth\nYes\n136\n608\n1\n1\nwash\nNo\n176\n285\n2.3 [2.11–3.30]\n<0.001\n1.5 [0.85–2.71]\n0.154\nPre-operative\nYes\n216\n550\n1\n1\nprophylaxis\nNo\n96\n343\n1.5 [1.19–1.92]\n0.001\n2.8 [0.79–9.80]\n0.108\nNumber of staff members involved in the surgery\n-\n1.5 [1.11–2.11]\n0.009\n2.2 [1.29–3.65]\n0.003 *\nHospital stays as time-varying covariate (tvc)\n-\n1.01 [1.00–1.02]\n0.004\n1.01 [1.00–1.02]\n<0.005 *\nKey: * p-value < 0.05.\n2.6. Bacterial Profile of Surgical Site Infections\nAmong the 312 patients who developed SSI, clinical samples such as pus, abscess, or\nwound swabs were obtained from 260 patients. Of these, 248 samples were collected during\nthe primary hospitalization, while the remaining 12 were obtained during readmissions\npost-initial discharge. Of all clinical samples, 72.7% (189/260) were culture positive, with\n4.2% (8/189) obtained from readmitted patients. In total, 252 isolates of 36 different bacteria\nspecies were identified from the culture-positive samples. Polymicrobial growth was\nobserved in 31.2% (59/189) of the samples. The most frequently isolated bacteria were\nE. coli (56; 22.2%), followed by Acinetobacter (51; 20.2%) and Klebsiella species (37; 14.7%)\n(Figure 3).\nFigure 3. The frequency of bacteria isolated from samples collected from patients with suspected\nSSI. Key: Acinetobacter spp.: A. baumannii, A. haemolyticus, A. pittii, and A. ursingii. Klebsiella spp.:\nK. oxytoca, K. pneumoniae, and K. variicola. Pseudomonas spp.: P. aeruginosa, P. mendocina, P. putida,\nand other Pseudomonas species. Proteus spp.: P. hauseri, P. mirabilis, and P. vulgaris. Enterobacter\nspp.: E. asburiae, E. cloacae, and Other Enterobacter species. Other GNB: C. freundii (5), P. rettgeri (3),\nL. adecarboxylata (2), M. morganii (2), Citrobacter species (1), S. marcescens (1), A. hydrophila (1), and\nS. maltophilia (1). Gram-positive bacteria: S. aureus (7), Corynebacterium striatum (3), S. cohnii (2), S.\nepidermidis (2), S. haemolyticus (2), (1), S. hominis (1), S. pasteuri (1), and S. warneri.\n2.7. Phenotypic AST Analysis\nThe analysis of antibiotic resistance patterns among Gram-negative bacterial isolates\nrevealed alarming resistance trends for commonly used antibiotics. For instance, resis-\ntance to third-generation cephalosporins like cefotaxime and ceftazidime was observed\nin 86.7% and 68.7% of the Gram-negative isolates, respectively. Similarly, the resistance\nrates of fluoroquinolones among Gram-negative isolates ranged from 44% to 77%, which\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 2625,
+   "n_images": 8,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n7 of 15\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      74.4,
+      220.4,
+      83.2
+     ],
+     "text": "Table 3. Cont.\n"
+    },
+    {
+     "bbox": [
+      123.2,
+      106.7,
+      161.5,
+      115.5
+     ],
+     "text": "Variables\n"
+    },
+    {
+     "bbox": [
+      257.1,
+      97.6,
+      551.0,
+      122.1
+     ],
+     "text": "SSI\ncHR\n(95% CI)\np-Value\naHR\n(95% CI)\np-Value\nYes\nNo\n"
+    },
+    {
+     "bbox": [
+      41.7,
+      129.0,
+      551.0,
+      192.8
+     ],
+     "text": "Chlorhexidine cloth\nYes\n136\n608\n1\n1\nwash\nNo\n176\n285\n2.3 [2.11–3.30]\n<0.001\n1.5 [0.85–2.71]\n0.154\nPre-operative\nYes\n216\n550\n1\n1\nprophylaxis\nNo\n96\n343\n1.5 [1.19–1.92]\n0.001\n2.8 [0.79–9.80]\n0.108\nNumber of staff members involved in the surgery\n-\n1.5 [1.11–2.11]\n0.009\n2.2 [1.29–3.65]\n0.003 *\nHospital stays as time-varying covariate (tvc)\n-\n1.01 [1.00–1.02]\n0.004\n1.01 [1.00–1.02]\n<0.005 *\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      199.0,
+      241.4,
+      207.0
+     ],
+     "text": "Key: * p-value < 0.05.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      222.2,
+      354.5,
+      232.0
+     ],
+     "text": "2.6. Bacterial Profile of Surgical Site Infections\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      239.2,
+      560.3,
+      360.6
+     ],
+     "text": "Among the 312 patients who developed SSI, clinical samples such as pus, abscess, or\nwound swabs were obtained from 260 patients. Of these, 248 samples were collected during\nthe primary hospitalization, while the remaining 12 were obtained during readmissions\npost-initial discharge. Of all clinical samples, 72.7% (189/260) were culture positive, with\n4.2% (8/189) obtained from readmitted patients. In total, 252 isolates of 36 different bacteria\nspecies were identified from the culture-positive samples. Polymicrobial growth was\nobserved in 31.2% (59/189) of the samples. The most frequently isolated bacteria were\nE. coli (56; 22.2%), followed by Acinetobacter (51; 20.2%) and Klebsiella species (37; 14.7%)\n(Figure 3).\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      586.3,
+      560.4,
+      685.0
+     ],
+     "text": "Figure 3. The frequency of bacteria isolated from samples collected from patients with suspected\nSSI. Key: Acinetobacter spp.: A. baumannii, A. haemolyticus, A. pittii, and A. ursingii. Klebsiella spp.:\nK. oxytoca, K. pneumoniae, and K. variicola. Pseudomonas spp.: P. aeruginosa, P. mendocina, P. putida,\nand other Pseudomonas species. Proteus spp.: P. hauseri, P. mirabilis, and P. vulgaris. Enterobacter\nspp.: E. asburiae, E. cloacae, and Other Enterobacter species. Other GNB: C. freundii (5), P. rettgeri (3),\nL. adecarboxylata (2), M. morganii (2), Citrobacter species (1), S. marcescens (1), A. hydrophila (1), and\nS. maltophilia (1). Gram-positive bacteria: S. aureus (7), Corynebacterium striatum (3), S. cohnii (2), S.\nepidermidis (2), S. haemolyticus (2), (1), S. hominis (1), S. pasteuri (1), and S. warneri.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      695.6,
+      288.7,
+      705.4
+     ],
+     "text": "2.7. Phenotypic AST Analysis\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      712.6,
+      560.9,
+      778.2
+     ],
+     "text": "The analysis of antibiotic resistance patterns among Gram-negative bacterial isolates\nrevealed alarming resistance trends for commonly used antibiotics. For instance, resis-\ntance to third-generation cephalosporins like cefotaxime and ceftazidime was observed\nin 86.7% and 68.7% of the Gram-negative isolates, respectively. Similarly, the resistance\nrates of fluoroquinolones among Gram-negative isolates ranged from 44% to 77%, which\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "Antibiotics 2026, 15, 201\n8 of 15\nlimits the effectiveness of these broad-spectrum antibiotics. Even carbapenems, which are\nconsidered last-resort antibiotics, showed resistance rates ranging from 9% in E. coli to\n51% in Acinetobacter species. Further analysis indicated that more than 67% of all Gram-\nnegative bacterial isolates were identified as ESBL producers. Furthermore, 78.5% were\nclassified as multidrug-resistant according to the criteria defined by Magiorakos et al. in\n2012 (Table 4) [20].\nTable 4. Antibiotic resistance patterns including intrinsic resistances among Gram-negative bacterial\npathogens obtained from patients who developed SSI at Jimma Medical Center, Ethiopia.\nAntibiotics\nE. coli\nn (%)\nAcinetobacter spp.\nn (%)\nKlebsiella spp.\nn (%)\nPseudomonas spp.\nn (%)\nProteus spp.\nn (%)\nEnterobacter spp.\nn (%)\nOther GNB\nn (%)\nTotal\nn (%)\nAMP\n50 (89.3)\n51 (100)\n37 (100)\n33 (100)\n19 (79.2)\n16 (100)\n15 (93.8)\n221 (94.8)\nPIP\n46 (82.1)\nIE\n37 (100)\n33 (100)\n17 (70.8)\n16 (100)\n12 (75)\n161 (88.5)\nAMC\n44 (78.6)\n51 (100)\n33 (89.2)\n33 (100)\n16 (66.7)\n16 (100)\n11 (68.8)\n204 (87.6)\nTZP\n37 (66.1)\nIE\n28 (75.7)\n33 (100)\n12 (50)\n9 (56.3)\n5 (31.3)\n124 (68.1)\nCXM\n49 (87.5)\n51 (100)\n36 (97.3)\n33 (100)\n24 (100)\n-\n16 (100)\n209 (96.3)\nCTX\n43 (76.8)\n51 (100)\n32 (86.5)\n33 (100)\n17 (70.8)\n16 (100)\n10 (62.5)\n202 (86.7)\nCAZ\n39 (69.6)\n-\n30 (81.1)\n24 (72.7)\n8 (33.3)\n15 (93.8)\n9 (56.3)\n125 (68.7)\nFEP\n41 (73.2)\n-\n31 (83.8)\n33 (100)\n16 (66.7)\n14 (87.5)\n7 (43.8)\n142 (78)\nFOX\n24 (42.9)\n-\n7 (18.9)\n-\n1 (4.2)\n16 (100)\n10 (62.5)\n58 (34.9)\nMEM\n5 (8.9)\n26 (51)\n7 (18.9)\n9 (27.3)\n0\n2 (12.5)\n2 (12.5)\n51 (21.9)\nGM\n26 (46.4)\n42 (82.4)\n22 (75.7)\nIE\n17 (70.8)\n11 (68.8)\n5 (31.3)\n129 (64.5)\nTM\n29 (51.8)\n44 (86.3)\n30 (81.1)\n15 (45.5)\n17 (70.8)\n11 (68.8)\n7 (43.8)\n153 (65.7)\nAN\n7 (12.5)\n11 (21.6)\n6 (16.2)\n3 (9.1)\n4 (16.7)\n0\n4 (25)\n35 (15)\nMXF\n49 (87.5)\n-\n29 (78.4)\n-\n16 (66.7)\n11 (68.8)\n7 (43.8)\n103 (69.1)\nCIP\n44 (78.6)\n35 (68.6)\n29 (78.4)\n24 (72.7)\n12 (50)\n8 (50)\n8 (50)\n160 (68.7)\nSXT\n42 (75)\n32 (62.7)\n30 (81.1)\n-\n17 (70.8)\n13 (81.3)\n7 (43.8)\n141 (70.5)\nESBL\n40 (71.4)\n27 (52.9)\n30 (81.1)\n4 (12.1)\n14 (58.3)\n13 (81.3\n7 (43.8)\n135 (67.5)\nMDR\n44 (78.6)\n44 (86.3)\n31 (83.8)\n28 (84.8)\n15 (62.5)\n13 (81.3\n8 (50)\n183 (78.5)\nKey: AMP, ampicillin; PIP, piperacillin; AMC, amoxicillin + clavulanic acid; TZP, piperacillin + tazobactam; CXM,\ncefuroxime; CTX, cefotaxime; CAZ, ceftazidime; FEP, cefepime; FOX, cefoxitin; MEM, meropenem; GM, gentam-\nicin; TM, tobramycin; AN, amikacin; MXF, moxifloxacin; CIP, ciprofloxacin; SXT, sulfamethoxazole + trimethoprim;\nIE: insufficient evidence; and “-” No breakpoints. MDR: resistant to at least one agent in three or more classes of\nantimicrobial agents.\n3. Discussion\nThe findings of this study underscore the substantial burden of SSI, with an overall\nprevalence of 25.9% and a cumulative incidence rate of 9.2 cases per 1000 person-days.\nNotably, we also observed high levels of antibiotic resistance among the bacterial pathogens\nisolated from these infections. Key risk factors identified included older patient age, male\ngender, rural residency, emergency procedures, surgery and orthopedic wards, longer\nhospitalization duration and specific surgical sites such as head, neck, abdomen, and pelvic\narea. These findings emphasize the need for targeted interventions to address the high\nburden of SSI and related poor outcomes. Moreover, the alarming prevalence of multidrug-\nresistant organisms, particularly among Gram-negative bacteria, compared with findings\nfrom studies in Western countries involving similar patient populations, underscores the ur-\ngent need for improved antibiotic stewardship and strengthened infection control practices\nto mitigate the growing threat of SSI in the study area and similar healthcare settings.\nThe incidence rate of SSI in the current study is comparable to previous studies con-\nducted in Ethiopia which reported 11.7 cases per 1000 person-days, as well as a study\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 3980,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n8 of 15\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      74.7,
+      560.9,
+      154.3
+     ],
+     "text": "limits the effectiveness of these broad-spectrum antibiotics. Even carbapenems, which are\nconsidered last-resort antibiotics, showed resistance rates ranging from 9% in E. coli to\n51% in Acinetobacter species. Further analysis indicated that more than 67% of all Gram-\nnegative bacterial isolates were identified as ESBL producers. Furthermore, 78.5% were\nclassified as multidrug-resistant according to the criteria defined by Magiorakos et al. in\n2012 (Table 4) [20].\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      169.1,
+      559.3,
+      190.8
+     ],
+     "text": "Table 4. Antibiotic resistance patterns including intrinsic resistances among Gram-negative bacterial\npathogens obtained from patients who developed SSI at Jimma Medical Center, Ethiopia.\n"
+    },
+    {
+     "bbox": [
+      61.6,
+      224.4,
+      70.4,
+      270.2
+     ],
+     "text": "Antibiotics\n"
+    },
+    {
+     "bbox": [
+      113.1,
+      234.9,
+      121.9,
+      259.8
+     ],
+     "text": "E. coli\n"
+    },
+    {
+     "bbox": [
+      124.3,
+      236.5,
+      133.0,
+      258.1
+     ],
+     "text": "n (%)\n"
+    },
+    {
+     "bbox": [
+      171.3,
+      209.7,
+      180.2,
+      284.9
+     ],
+     "text": "Acinetobacter spp.\n"
+    },
+    {
+     "bbox": [
+      182.4,
+      236.5,
+      191.1,
+      258.1
+     ],
+     "text": "n (%)\n"
+    },
+    {
+     "bbox": [
+      229.4,
+      217.5,
+      238.3,
+      277.1
+     ],
+     "text": "Klebsiella spp.\n"
+    },
+    {
+     "bbox": [
+      240.5,
+      236.5,
+      249.3,
+      258.1
+     ],
+     "text": "n (%)\n"
+    },
+    {
+     "bbox": [
+      287.5,
+      209.9,
+      296.5,
+      284.7
+     ],
+     "text": "Pseudomonas spp.\n"
+    },
+    {
+     "bbox": [
+      298.7,
+      236.5,
+      307.4,
+      258.1
+     ],
+     "text": "n (%)\n"
+    },
+    {
+     "bbox": [
+      345.7,
+      222.2,
+      354.6,
+      272.4
+     ],
+     "text": "Proteus spp.\n"
+    },
+    {
+     "bbox": [
+      356.8,
+      236.5,
+      365.6,
+      258.1
+     ],
+     "text": "n (%)\n"
+    },
+    {
+     "bbox": [
+      403.8,
+      212.0,
+      412.7,
+      282.6
+     ],
+     "text": "Enterobacter spp.\n"
+    },
+    {
+     "bbox": [
+      415.0,
+      236.5,
+      423.7,
+      258.1
+     ],
+     "text": "n (%)\n"
+    },
+    {
+     "bbox": [
+      462.1,
+      223.8,
+      470.9,
+      270.8
+     ],
+     "text": "Other GNB\n"
+    },
+    {
+     "bbox": [
+      473.1,
+      236.5,
+      481.8,
+      258.1
+     ],
+     "text": "n (%)\n"
+    },
+    {
+     "bbox": [
+      520.3,
+      237.1,
+      529.0,
+      257.5
+     ],
+     "text": "Total\n"
+    },
+    {
+     "bbox": [
+      531.2,
+      236.5,
+      540.0,
+      258.1
+     ],
+     "text": "n (%)\n"
+    },
+    {
+     "bbox": [
+      53.1,
+      300.2,
+      548.6,
+      495.5
+     ],
+     "text": "AMP\n50 (89.3)\n51 (100)\n37 (100)\n33 (100)\n19 (79.2)\n16 (100)\n15 (93.8)\n221 (94.8)\nPIP\n46 (82.1)\nIE\n37 (100)\n33 (100)\n17 (70.8)\n16 (100)\n12 (75)\n161 (88.5)\nAMC\n44 (78.6)\n51 (100)\n33 (89.2)\n33 (100)\n16 (66.7)\n16 (100)\n11 (68.8)\n204 (87.6)\nTZP\n37 (66.1)\nIE\n28 (75.7)\n33 (100)\n12 (50)\n9 (56.3)\n5 (31.3)\n124 (68.1)\nCXM\n49 (87.5)\n51 (100)\n36 (97.3)\n33 (100)\n24 (100)\n-\n16 (100)\n209 (96.3)\nCTX\n43 (76.8)\n51 (100)\n32 (86.5)\n33 (100)\n17 (70.8)\n16 (100)\n10 (62.5)\n202 (86.7)\nCAZ\n39 (69.6)\n-\n30 (81.1)\n24 (72.7)\n8 (33.3)\n15 (93.8)\n9 (56.3)\n125 (68.7)\nFEP\n41 (73.2)\n-\n31 (83.8)\n33 (100)\n16 (66.7)\n14 (87.5)\n7 (43.8)\n142 (78)\nFOX\n24 (42.9)\n-\n7 (18.9)\n-\n1 (4.2)\n16 (100)\n10 (62.5)\n58 (34.9)\nMEM\n5 (8.9)\n26 (51)\n7 (18.9)\n9 (27.3)\n0\n2 (12.5)\n2 (12.5)\n51 (21.9)\nGM\n26 (46.4)\n42 (82.4)\n22 (75.7)\nIE\n17 (70.8)\n11 (68.8)\n5 (31.3)\n129 (64.5)\nTM\n29 (51.8)\n44 (86.3)\n30 (81.1)\n15 (45.5)\n17 (70.8)\n11 (68.8)\n7 (43.8)\n153 (65.7)\nAN\n7 (12.5)\n11 (21.6)\n6 (16.2)\n3 (9.1)\n4 (16.7)\n0\n4 (25)\n35 (15)\nMXF\n49 (87.5)\n-\n29 (78.4)\n-\n16 (66.7)\n11 (68.8)\n7 (43.8)\n103 (69.1)\nCIP\n44 (78.6)\n35 (68.6)\n29 (78.4)\n24 (72.7)\n12 (50)\n8 (50)\n8 (50)\n160 (68.7)\nSXT\n42 (75)\n32 (62.7)\n30 (81.1)\n-\n17 (70.8)\n13 (81.3)\n7 (43.8)\n141 (70.5)\nESBL\n40 (71.4)\n27 (52.9)\n30 (81.1)\n4 (12.1)\n14 (58.3)\n13 (81.3\n7 (43.8)\n135 (67.5)\nMDR\n44 (78.6)\n44 (86.3)\n31 (83.8)\n28 (84.8)\n15 (62.5)\n13 (81.3\n8 (50)\n183 (78.5)\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      501.8,
+      560.6,
+      547.6
+     ],
+     "text": "Key: AMP, ampicillin; PIP, piperacillin; AMC, amoxicillin + clavulanic acid; TZP, piperacillin + tazobactam; CXM,\ncefuroxime; CTX, cefotaxime; CAZ, ceftazidime; FEP, cefepime; FOX, cefoxitin; MEM, meropenem; GM, gentam-\nicin; TM, tobramycin; AN, amikacin; MXF, moxifloxacin; CIP, ciprofloxacin; SXT, sulfamethoxazole + trimethoprim;\nIE: insufficient evidence; and “-” No breakpoints. MDR: resistant to at least one agent in three or more classes of\nantimicrobial agents.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      565.0,
+      239.5,
+      576.7
+     ],
+     "text": "3. Discussion\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      583.3,
+      561.0,
+      746.4
+     ],
+     "text": "The findings of this study underscore the substantial burden of SSI, with an overall\nprevalence of 25.9% and a cumulative incidence rate of 9.2 cases per 1000 person-days.\nNotably, we also observed high levels of antibiotic resistance among the bacterial pathogens\nisolated from these infections. Key risk factors identified included older patient age, male\ngender, rural residency, emergency procedures, surgery and orthopedic wards, longer\nhospitalization duration and specific surgical sites such as head, neck, abdomen, and pelvic\narea. These findings emphasize the need for targeted interventions to address the high\nburden of SSI and related poor outcomes. Moreover, the alarming prevalence of multidrug-\nresistant organisms, particularly among Gram-negative bacteria, compared with findings\nfrom studies in Western countries involving similar patient populations, underscores the ur-\ngent need for improved antibiotic stewardship and strengthened infection control practices\nto mitigate the growing threat of SSI in the study area and similar healthcare settings.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      750.4,
+      560.9,
+      774.3
+     ],
+     "text": "The incidence rate of SSI in the current study is comparable to previous studies con-\nducted in Ethiopia which reported 11.7 cases per 1000 person-days, as well as a study\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "text": "Antibiotics 2026, 15, 201\n9 of 15\nin Kenya that reported 7.0 cases per 1000 person-days [12,21]. Moreover, the cumula-\ntive prevalence of SSI in this study is 25.9%. This is higher than previous studies from\nEthiopia which reported 19.1% in Hawassa, 9.4% in Assella, and 6.8% in Lemlem Karl\nhospital [22–24]. Among all SSI cases, over 80% were observed during hospitalization.\nHowever, a substantial proportion of SSI cases occurred post-discharge, the majority of\nwhich manifested within the first one or two weeks. This highlights that focusing solely on\nSSI during the hospital stay provides an incomplete picture. Consequently, the findings\nunderscore the critical importance of comprehensive surveillance and follow-up of patients\nbeyond the initial hospital stay to optimize patient outcomes.\nThe overall culture positivity rate was 72.0% (189/260), which is consistent with\nprevious studies conducted in Jimma (71.7%), Hawassa (71.1%), Mekelle (75%), and Gondar\n(69.7%) [25–28]. Unlike many previous studies in Ethiopia, the present study found that\nGram-negative rods were the predominant pathogens responsible for SSI, accounting for\n92.5% of all culture-confirmed cases. This difference may be attributed to the fact that most\nof the patients in this study underwent surgical procedures involving the abdominal area,\nincreasing the likelihood of contamination from gastrointestinal contents, as demonstrated\nby a study from Tanzania [29]. Furthermore, the infections could have originated from\nthe hospital environment, as the identified pathogens are commonly found in healthcare\nsettings and are also frequently found on inanimate objects [30–32]. These findings highlight\nthe critical need for rigorous environmental cleaning, disinfection protocols, and proper\nhand hygiene to reduce the risk of SSI [33].\nThe resistance profiles of the bacterial pathogens responsible for SSIs in this study\nrevealed the presence of MDR strains. Notably, MDR isolates of A. baumannii, K. pneumo-\nniae, Pseudomonas species, Enterobacter species, and E. coli were identified. These findings\nunderscore the growing threat of AMR, which poses a substantial challenge in managing\nSSIs [9,34]. The results emphasize the urgent need for antimicrobial stewardship programs,\ncareful and judicious use of antibiotics, and robust surveillance to detect and curb the\nspread of resistant bacteria. This is particularly critical in low-income countries, where\naccess to alternative antibiotics for treating SSIs caused by these resistant pathogens is often\nlimited [1,15,34].\nThe Kaplan–Meier and Cox-regression analysis in this study identified several risk\nfactors associated with the development of SSI. These include being older age (>65 years),\nresiding in a rural area, undergoing surgical procedures involving the abdomen, neck, head,\nor pelvis, admission to orthopedic or surgery wards, undergoing emergency surgery, higher\nnumber of surgical staff involved in the procedure, and longer hospital stay. However,\nthese risks may be confounded by several other unmeasured but important factors, such\nas the complexity of the procedure and the time of the surgery. Nonetheless, targeting\nthese physiological, clinical, personal, and environmental risk factors through targeted\ninterventions could play a crucial role in reducing the incidence of SSI [35,36].\nThese findings also provide valuable insights for stakeholders to develop and imple-\nment effective infection prevention and control measures aimed at mitigating the burden\nof SSI [3]. For example, strategies such as preoperative patient screening and optimization,\ntailored perioperative management, meticulous surgical technique, and the appropriate use\nof antimicrobial prophylaxis can significantly contribute to reducing SSI rates. Implement-\ning these measures is essential, especially in high-risk scenarios, to control and prevent the\nspread of infection [1,35].\nStrength and Limitation of the Study\nConducting a longitudinal study enables us to understand the dynamic nature of\nSSI over time, including its temporal trends and patterns, which provide a deeper under-\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 4166,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n9 of 15\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      74.7,
+      561.0,
+      196.1
+     ],
+     "text": "in Kenya that reported 7.0 cases per 1000 person-days [12,21]. Moreover, the cumula-\ntive prevalence of SSI in this study is 25.9%. This is higher than previous studies from\nEthiopia which reported 19.1% in Hawassa, 9.4% in Assella, and 6.8% in Lemlem Karl\nhospital [22–24]. Among all SSI cases, over 80% were observed during hospitalization.\nHowever, a substantial proportion of SSI cases occurred post-discharge, the majority of\nwhich manifested within the first one or two weeks. This highlights that focusing solely on\nSSI during the hospital stay provides an incomplete picture. Consequently, the findings\nunderscore the critical importance of comprehensive surveillance and follow-up of patients\nbeyond the initial hospital stay to optimize patient outcomes.\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      200.0,
+      560.5,
+      363.2
+     ],
+     "text": "The overall culture positivity rate was 72.0% (189/260), which is consistent with\nprevious studies conducted in Jimma (71.7%), Hawassa (71.1%), Mekelle (75%), and Gondar\n(69.7%) [25–28]. Unlike many previous studies in Ethiopia, the present study found that\nGram-negative rods were the predominant pathogens responsible for SSI, accounting for\n92.5% of all culture-confirmed cases. This difference may be attributed to the fact that most\nof the patients in this study underwent surgical procedures involving the abdominal area,\nincreasing the likelihood of contamination from gastrointestinal contents, as demonstrated\nby a study from Tanzania [29]. Furthermore, the infections could have originated from\nthe hospital environment, as the identified pathogens are commonly found in healthcare\nsettings and are also frequently found on inanimate objects [30–32]. These findings highlight\nthe critical need for rigorous environmental cleaning, disinfection protocols, and proper\nhand hygiene to reduce the risk of SSI [33].\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      367.2,
+      560.9,
+      488.5
+     ],
+     "text": "The resistance profiles of the bacterial pathogens responsible for SSIs in this study\nrevealed the presence of MDR strains. Notably, MDR isolates of A. baumannii, K. pneumo-\nniae, Pseudomonas species, Enterobacter species, and E. coli were identified. These findings\nunderscore the growing threat of AMR, which poses a substantial challenge in managing\nSSIs [9,34]. The results emphasize the urgent need for antimicrobial stewardship programs,\ncareful and judicious use of antibiotics, and robust surveillance to detect and curb the\nspread of resistant bacteria. This is particularly critical in low-income countries, where\naccess to alternative antibiotics for treating SSIs caused by these resistant pathogens is often\nlimited [1,15,34].\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      492.5,
+      560.5,
+      613.9
+     ],
+     "text": "The Kaplan–Meier and Cox-regression analysis in this study identified several risk\nfactors associated with the development of SSI. These include being older age (>65 years),\nresiding in a rural area, undergoing surgical procedures involving the abdomen, neck, head,\nor pelvis, admission to orthopedic or surgery wards, undergoing emergency surgery, higher\nnumber of surgical staff involved in the procedure, and longer hospital stay. However,\nthese risks may be confounded by several other unmeasured but important factors, such\nas the complexity of the procedure and the time of the surgery. Nonetheless, targeting\nthese physiological, clinical, personal, and environmental risk factors through targeted\ninterventions could play a crucial role in reducing the incidence of SSI [35,36].\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      617.9,
+      560.9,
+      711.4
+     ],
+     "text": "These findings also provide valuable insights for stakeholders to develop and imple-\nment effective infection prevention and control measures aimed at mitigating the burden\nof SSI [3]. For example, strategies such as preoperative patient screening and optimization,\ntailored perioperative management, meticulous surgical technique, and the appropriate use\nof antimicrobial prophylaxis can significantly contribute to reducing SSI rates. Implement-\ning these measures is essential, especially in high-risk scenarios, to control and prevent the\nspread of infection [1,35].\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      724.9,
+      315.4,
+      734.7
+     ],
+     "text": "Strength and Limitation of the Study\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      741.9,
+      560.9,
+      765.8
+     ],
+     "text": "Conducting a longitudinal study enables us to understand the dynamic nature of\nSSI over time, including its temporal trends and patterns, which provide a deeper under-\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "text": "Antibiotics 2026, 15, 201\n10 of 15\nstanding of how various factors influence SSI development over time. This approach is\nparticularly valuable in identifying modifiable risk factors that can be targeted for inter-\nvention. Additionally, the study offers valuable insights into the epidemiology of SSIs in\nlow-income countries, which can inform strategies to reduce the incidence.\nHowever, several limitations should be considered. First, since this study was con-\nducted at a single tertiary hospital, the findings may not be generalizable to other healthcare\nsettings within the country or globally. Second, anaerobic bacteria were not investigated\ndue to limited laboratory capability, leaving an important gap in understanding the contri-\nbution of these bacteria as etiologies of SSIs. Third, the proportion of post-discharge SSIs\nmay not indicate the actual data, as patients with serious SSI-related symptoms might have\nbeen more likely to participate in post-discharge assessments than those with superficial\nSSIs or without symptoms, potentially leading to selection bias. Lastly, the reliance on clini-\ncal documentation to identify SSIs may have introduced information bias, as inconsistencies\nor omissions in records may have affected the accuracy of the data collected.\n4. Methods\n4.1. Study Design, Area, and Period\nA longitudinal study was conducted between 1 June and 30 September 2022. The\nstudy focused on patients who had undergone surgery at JMC and were subsequently\nadmitted to various wards, including orthopedics, general surgery, pediatric surgery, oral\nand maxillofacial surgery, maternity, and gynecology. JMC is a tertiary hospital which\nserves as a referral hospital to a total population of 20 million in southwest Ethiopia. Based\non data from previous years, the hospital performs 5000 to 10,000 surgeries annually,\nincluding both elective and emergency procedures [18].\n4.2. Study Population and Clinical Data Collection\nA total of 1205 patients who had undergone various surgical procedures during\nthe study period were recruited and included in the study consecutively. These partic-\nipants were admitted to the specified wards at JMC and were then closely monitored\ndaily throughout their hospital stay. Sociodemographic information was collected using\nstructured questionnaires and clinical data was collected with direct observation or follow-\nup using standardized checklists adapted from WHO guidelines (Supplementary Table\nS1). Information about any medications administered to the patients after their surgical\nprocedures, including the duration of administration, was extracted directly from the pa-\ntients’ medication charts. Post-discharge, trained nurses contacted the study participants\nby telephone on days 7, 14, and 28 to conduct oral assessments for any signs of SSI. If an\ninfection was suspected, patients were advised to visit the hospital for confirmation and to\nreceive the necessary healthcare services.\nSurgical site infection was defined as the occurrence of any superficial infection after\nsurgery in the part of the body where the surgery took place, in the tissues under the skin\n(subcutaneous tissues) involved in the procedure during hospital stay or within 30 days\npost-discharge based on the WHO guideline [37]. The primary outcome of interest was\nthe time to development of SSI during the participants’ hospital stay or within the 28-day\nfollow-up period after discharge. The time to SSI was defined as the interval between the\ndate of surgery and the date of SSI diagnosis, irrespective of whether the infection occurred\nduring hospitalization or post-discharge. The duration of hospital stay was calculated as\nthe total number of days the patient remained hospitalized from admission until discharge.\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 3811,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n10 of 15\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      74.7,
+      560.9,
+      126.4
+     ],
+     "text": "standing of how various factors influence SSI development over time. This approach is\nparticularly valuable in identifying modifiable risk factors that can be targeted for inter-\nvention. Additionally, the study offers valuable insights into the epidemiology of SSIs in\nlow-income countries, which can inform strategies to reduce the incidence.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      130.4,
+      560.9,
+      265.7
+     ],
+     "text": "However, several limitations should be considered. First, since this study was con-\nducted at a single tertiary hospital, the findings may not be generalizable to other healthcare\nsettings within the country or globally. Second, anaerobic bacteria were not investigated\ndue to limited laboratory capability, leaving an important gap in understanding the contri-\nbution of these bacteria as etiologies of SSIs. Third, the proportion of post-discharge SSIs\nmay not indicate the actual data, as patients with serious SSI-related symptoms might have\nbeen more likely to participate in post-discharge assessments than those with superficial\nSSIs or without symptoms, potentially leading to selection bias. Lastly, the reliance on clini-\ncal documentation to identify SSIs may have introduced information bias, as inconsistencies\nor omissions in records may have affected the accuracy of the data collected.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      280.3,
+      227.5,
+      292.0
+     ],
+     "text": "4. Methods\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      297.9,
+      312.7,
+      307.7
+     ],
+     "text": "4.1. Study Design, Area, and Period\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      314.8,
+      560.5,
+      408.4
+     ],
+     "text": "A longitudinal study was conducted between 1 June and 30 September 2022. The\nstudy focused on patients who had undergone surgery at JMC and were subsequently\nadmitted to various wards, including orthopedics, general surgery, pediatric surgery, oral\nand maxillofacial surgery, maternity, and gynecology. JMC is a tertiary hospital which\nserves as a referral hospital to a total population of 20 million in southwest Ethiopia. Based\non data from previous years, the hospital performs 5000 to 10,000 surgeries annually,\nincluding both elective and emergency procedures [18].\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      421.9,
+      372.7,
+      431.7
+     ],
+     "text": "4.2. Study Population and Clinical Data Collection\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      438.9,
+      560.9,
+      602.0
+     ],
+     "text": "A total of 1205 patients who had undergone various surgical procedures during\nthe study period were recruited and included in the study consecutively. These partic-\nipants were admitted to the specified wards at JMC and were then closely monitored\ndaily throughout their hospital stay. Sociodemographic information was collected using\nstructured questionnaires and clinical data was collected with direct observation or follow-\nup using standardized checklists adapted from WHO guidelines (Supplementary Table\nS1). Information about any medications administered to the patients after their surgical\nprocedures, including the duration of administration, was extracted directly from the pa-\ntients’ medication charts. Post-discharge, trained nurses contacted the study participants\nby telephone on days 7, 14, and 28 to conduct oral assessments for any signs of SSI. If an\ninfection was suspected, patients were advised to visit the hospital for confirmation and to\nreceive the necessary healthcare services.\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      606.0,
+      560.9,
+      727.4
+     ],
+     "text": "Surgical site infection was defined as the occurrence of any superficial infection after\nsurgery in the part of the body where the surgery took place, in the tissues under the skin\n(subcutaneous tissues) involved in the procedure during hospital stay or within 30 days\npost-discharge based on the WHO guideline [37]. The primary outcome of interest was\nthe time to development of SSI during the participants’ hospital stay or within the 28-day\nfollow-up period after discharge. The time to SSI was defined as the interval between the\ndate of surgery and the date of SSI diagnosis, irrespective of whether the infection occurred\nduring hospitalization or post-discharge. The duration of hospital stay was calculated as\nthe total number of days the patient remained hospitalized from admission until discharge.\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "text": "Antibiotics 2026, 15, 201\n11 of 15\n4.3. Specimen Collection and Bacterial Identification\nPus, abscess, or a pair of wound swab samples were collected aseptically from individ-\nuals with suspected clinical signs and symptoms of SSI. These samples were immediately\ntransported to the microbiology laboratory using Amies transport media. Upon arrival, the\nsamples were streaked onto 5% Colombia Sheep Blood and MacConkey Agars (Oxoid™,\nBasingstoke, Hampshire, UK) and then incubated aerobically at 35–37 ◦C for 24–48 h. If\ngrowth was observed, the isolates were subsequently identified using a battery of bio-\nchemical tests and then saved using storage media at JMC. Later, all the isolates were\ntransported to Max von Pettenkofer Institute, Hospital Hygiene, and Medical Microbiology\nLaboratory in Munich, Germany, and re-identified with MALDI-TOF MS (Bruker, Ettlingen,\nGermany) technology.\n4.4. Antimicrobial Susceptibility Testing\nAntimicrobial susceptibility testing (AST) was conducted using the Kirby–Bauer disc\ndiffusion technique for 25 antibiotics. To prepare the inoculum, a single colony was\npicked with a sterile cotton swab and suspended in sterile normal saline. The density\nof this suspension was then standardized to the 0.5 McFarland turbidity standard using\nDensiCHEK (Menarini Diagnostics, Florence, Italy). A sterile cotton swab was dipped into\nthe standardized bacterial suspension, the excess fluid was removed by pressing the swab\nagainst the side of the tube, and it was then streaked on Muller Hinton Agar (Bio-Rad,\nFeldkirchen, Germany). Paper-impregnated antibiotic discs were then placed on the agar,\nand the plates were incubated at 35–37 ◦C for 16–18 h. The inhibition zone diameters\naround the antibiotic discs were read automatically using the ADAGIO™system (Bio-\nRad, Feldkirchen, Germany). The results were interpreted as susceptible, susceptible with\nincreased exposure, or resistant according to the criteria set by the European Committee on\nAntimicrobial Susceptibility Testing (EUCAST, 2022) [38].\n4.5. ESBL Screening\nThe phenotypic detection of ESBL production was performed for all Gram-negative\nisolates using a double disc synergy test (DDST). Ceftazidime (30 µg) and cefotaxime\n(30 µg) discs, along with an amoxicillin-clavulanic acid (10 µg) disc, were placed on\nMueller–Hinton agar (Bio-Rad, Feldkirchen, Germany). The results were automatically\ninterpreted by the ADAGIO system (Bio-Rad, Feldkirchen, Germany). Furthermore, the\nESBL phenotypes were confirmed using Mast discs (Mast Diagnostica GmbH, Reinfeld,\nGermany) for all resistant isolates. The results were interpreted with the Mast discs combi\nD68C ESBL/AmpC calculator spreadsheet (Mast Diagnostica GmbH, Reinfeld, Germany)\nand reported as either negative or positive for ESBL and/or AmpC phenotypes.\n4.6. Quality Assurance\nTo ensure sterility, 5% of each batch of the prepared media was incubated overnight\nat 35–37 ◦C aerobically, and any batches that showed evidence of bacterial growth were\ndiscarded. The quality of the antibiotic discs used for AST was also monitored weekly using\nthe ATCC control strains including P. aeruginosa (ATCC-27853), S. aureus (ATCC-25923),\nand E. coli (ATCC-25922) (American Tissue Culture Collection, Manassas, VA, USA).\n4.7. Data Processing and Analysis\nData was double-entered into Epi-Data version 4.6 and then exported to STATA version\n17 for analysis. Descriptive statistics, including frequencies, proportions, medians and\ninterquartile ranges, were calculated to present the demographic and clinical characteristics\nof the study participants and the length of hospital stay. Incidence of SSI was calculated\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 3696,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n11 of 15\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      74.6,
+      377.5,
+      84.4
+     ],
+     "text": "4.3. Specimen Collection and Bacterial Identification\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      91.6,
+      560.9,
+      226.9
+     ],
+     "text": "Pus, abscess, or a pair of wound swab samples were collected aseptically from individ-\nuals with suspected clinical signs and symptoms of SSI. These samples were immediately\ntransported to the microbiology laboratory using Amies transport media. Upon arrival, the\nsamples were streaked onto 5% Colombia Sheep Blood and MacConkey Agars (Oxoid™,\nBasingstoke, Hampshire, UK) and then incubated aerobically at 35–37 ◦C for 24–48 h. If\ngrowth was observed, the isolates were subsequently identified using a battery of bio-\nchemical tests and then saved using storage media at JMC. Later, all the isolates were\ntransported to Max von Pettenkofer Institute, Hospital Hygiene, and Medical Microbiology\nLaboratory in Munich, Germany, and re-identified with MALDI-TOF MS (Bruker, Ettlingen,\nGermany) technology.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      240.5,
+      330.0,
+      250.3
+     ],
+     "text": "4.4. Antimicrobial Susceptibility Testing\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      257.4,
+      560.9,
+      434.5
+     ],
+     "text": "Antimicrobial susceptibility testing (AST) was conducted using the Kirby–Bauer disc\ndiffusion technique for 25 antibiotics. To prepare the inoculum, a single colony was\npicked with a sterile cotton swab and suspended in sterile normal saline. The density\nof this suspension was then standardized to the 0.5 McFarland turbidity standard using\nDensiCHEK (Menarini Diagnostics, Florence, Italy). A sterile cotton swab was dipped into\nthe standardized bacterial suspension, the excess fluid was removed by pressing the swab\nagainst the side of the tube, and it was then streaked on Muller Hinton Agar (Bio-Rad,\nFeldkirchen, Germany). Paper-impregnated antibiotic discs were then placed on the agar,\nand the plates were incubated at 35–37 ◦C for 16–18 h. The inhibition zone diameters\naround the antibiotic discs were read automatically using the ADAGIO™system (Bio-\nRad, Feldkirchen, Germany). The results were interpreted as susceptible, susceptible with\nincreased exposure, or resistant according to the criteria set by the European Committee on\nAntimicrobial Susceptibility Testing (EUCAST, 2022) [38].\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      448.1,
+      250.0,
+      457.9
+     ],
+     "text": "4.5. ESBL Screening\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      465.0,
+      560.5,
+      586.4
+     ],
+     "text": "The phenotypic detection of ESBL production was performed for all Gram-negative\nisolates using a double disc synergy test (DDST). Ceftazidime (30 µg) and cefotaxime\n(30 µg) discs, along with an amoxicillin-clavulanic acid (10 µg) disc, were placed on\nMueller–Hinton agar (Bio-Rad, Feldkirchen, Germany). The results were automatically\ninterpreted by the ADAGIO system (Bio-Rad, Feldkirchen, Germany). Furthermore, the\nESBL phenotypes were confirmed using Mast discs (Mast Diagnostica GmbH, Reinfeld,\nGermany) for all resistant isolates. The results were interpreted with the Mast discs combi\nD68C ESBL/AmpC calculator spreadsheet (Mast Diagnostica GmbH, Reinfeld, Germany)\nand reported as either negative or positive for ESBL and/or AmpC phenotypes.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      600.0,
+      260.7,
+      609.8
+     ],
+     "text": "4.6. Quality Assurance\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      616.9,
+      560.5,
+      682.6
+     ],
+     "text": "To ensure sterility, 5% of each batch of the prepared media was incubated overnight\nat 35–37 ◦C aerobically, and any batches that showed evidence of bacterial growth were\ndiscarded. The quality of the antibiotic discs used for AST was also monitored weekly using\nthe ATCC control strains including P. aeruginosa (ATCC-27853), S. aureus (ATCC-25923),\nand E. coli (ATCC-25922) (American Tissue Culture Collection, Manassas, VA, USA).\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      696.2,
+      305.4,
+      706.0
+     ],
+     "text": "4.7. Data Processing and Analysis\n"
+    },
+    {
+     "bbox": [
+      165.9,
+      713.1,
+      559.3,
+      764.9
+     ],
+     "text": "Data was double-entered into Epi-Data version 4.6 and then exported to STATA version\n17 for analysis. Descriptive statistics, including frequencies, proportions, medians and\ninterquartile ranges, were calculated to present the demographic and clinical characteristics\nof the study participants and the length of hospital stay. Incidence of SSI was calculated\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 12,
+   "text": "Antibiotics 2026, 15, 201\n12 of 15\nper 1000 person-days and was reported at discharge, and days 7, 14, and 28 post-discharge\nwith 95% Confidence Intervals (CIs). The Kaplan–Meier method was used to assess the\nmedian time to SSI. Cox-regression methods were used to assess differences associated\nwith the surgical area, ward, and patient’s sex in developing the infection. Participants\nwho were lost to follow-up for various reasons were censored in the analysis. The results of\nthe Schoenfeld residual test indicate significant deviations from the proportional hazards\nassumption for the variable of hospital stay (p < 0.001). Consequently, the global test\nconfirmed a significant violation of the proportional hazard assumption, leading us to\nuse univariate and multivariate extended Cox-regression for time-varying covariates of\nhospital stay to identify risk factors associated with SSI. All relevant socio-demographic,\nclinical, physiological, and environmental variables were included in the multivariable\nextended Cox regression model to identify predictors of SSI. We then refined the final model\nby assessing changes in beta coefficients as variables were added or removed, comparing\nnested models based on the Akaike Information Criterion (AIC), and considering collinear\nrelationships among included variables. The results were reported as crude hazard ratios\n(cHRs) from the univariate analysis and adjusted hazard ratios (aHRs) from the multivariate\nanalysis, along with their corresponding 95% CIs. A p-value of less than 0.05 was considered\nstatistically significant.\n4.8. Ethical Consideration\nEthical clearance was obtained from the Institutional Review Board (IRB) of the In-\nstitute of Health, Jimma University (Reference number: IHRPGO/833). Written informed\nconsent was obtained from each study participant. For child participants, assent was also\nsought in addition to parental/guardian consent. Confidentiality was ensured through\nanonymization of personal information. The culture and AST results were promptly\ncommunicated to the treating clinicians. Patients with culture-confirmed SSIs were then\nmanaged according to the hospital treatment protocol. Furthermore, patients who exhib-\nited signs of SSIs during the post-discharge follow-up period based on the oral clinical\nassessments were advised to visit the medical center to receive appropriate healthcare.\n5. Conclusions\nThis study highlights the substantial burden of SSIs, driven largely by Gram-negative\nbacteria in contrast to Western countries, with many strains exhibiting multidrug resistance.\nKey risk factors identified include older age, rural residence, male gender, emergency surg-\neries, certain anatomical sites, and hospital stay, which point to critical areas for targeted\nintervention. The findings stress the importance of robust infection prevention strategies,\nsuch as effective antimicrobial stewardship, environmental hygiene, and extended post-\ndischarge surveillance. While the study provides valuable insights, its single-site focus\nand certain methodological limitations suggest that further research is needed to fully\ngeneralize the results.\nSupplementary Materials: The following supporting information can be downloaded at: https:\n//www.mdpi.com/article/10.3390/antibiotics15020201/s1, Table S1: Standardized checklists used\nto assess the development of SSIs during follow-up; Figure S1: Median hospital stays of study partici-\npants at JMC. Key: OMFS—Oral and Maxillofacial surgery; Gyn/Obs—Gynecology/Obstetrics.\nAuthor Contributions: Conceptualization, M.G., E.K.G., A.K. and A.W.; methodology, M.G., B.A.,\nE.K.G., G.A. (Gemechu Abera), G.A. (Gersam Abera), D.A.S., R.T. and A.W.; software, M.G., A.L.S.,\nK.E. and R.K.; validation, M.G., A.W., K.E., R.K. and A.L.S.; formal analysis, M.G. and A.L.S.;\ninvestigation, M.G. and B.A.; resources, A.K., E.K.G., A.W. and M.G.; data curation, M.G. and B.A.;\nwriting—original draft preparation, M.G.; writing—review and editing, all the authors; visualization,\nM.G.; supervision, M.G., E.K.G., G.A. (Gemechu Abera), G.A. (Gersam Abera), D.A.S. and R.T.;\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 4152,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n12 of 15\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      74.7,
+      560.5,
+      321.4
+     ],
+     "text": "per 1000 person-days and was reported at discharge, and days 7, 14, and 28 post-discharge\nwith 95% Confidence Intervals (CIs). The Kaplan–Meier method was used to assess the\nmedian time to SSI. Cox-regression methods were used to assess differences associated\nwith the surgical area, ward, and patient’s sex in developing the infection. Participants\nwho were lost to follow-up for various reasons were censored in the analysis. The results of\nthe Schoenfeld residual test indicate significant deviations from the proportional hazards\nassumption for the variable of hospital stay (p < 0.001). Consequently, the global test\nconfirmed a significant violation of the proportional hazard assumption, leading us to\nuse univariate and multivariate extended Cox-regression for time-varying covariates of\nhospital stay to identify risk factors associated with SSI. All relevant socio-demographic,\nclinical, physiological, and environmental variables were included in the multivariable\nextended Cox regression model to identify predictors of SSI. We then refined the final model\nby assessing changes in beta coefficients as variables were added or removed, comparing\nnested models based on the Akaike Information Criterion (AIC), and considering collinear\nrelationships among included variables. The results were reported as crude hazard ratios\n(cHRs) from the univariate analysis and adjusted hazard ratios (aHRs) from the multivariate\nanalysis, along with their corresponding 95% CIs. A p-value of less than 0.05 was considered\nstatistically significant.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      335.0,
+      271.8,
+      344.8
+     ],
+     "text": "4.8. Ethical Consideration\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      351.9,
+      560.9,
+      473.3
+     ],
+     "text": "Ethical clearance was obtained from the Institutional Review Board (IRB) of the In-\nstitute of Health, Jimma University (Reference number: IHRPGO/833). Written informed\nconsent was obtained from each study participant. For child participants, assent was also\nsought in addition to parental/guardian consent. Confidentiality was ensured through\nanonymization of personal information. The culture and AST results were promptly\ncommunicated to the treating clinicians. Patients with culture-confirmed SSIs were then\nmanaged according to the hospital treatment protocol. Furthermore, patients who exhib-\nited signs of SSIs during the post-discharge follow-up period based on the oral clinical\nassessments were advised to visit the medical center to receive appropriate healthcare.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      487.9,
+      246.8,
+      499.6
+     ],
+     "text": "5. Conclusions\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      506.2,
+      561.0,
+      627.5
+     ],
+     "text": "This study highlights the substantial burden of SSIs, driven largely by Gram-negative\nbacteria in contrast to Western countries, with many strains exhibiting multidrug resistance.\nKey risk factors identified include older age, rural residence, male gender, emergency surg-\neries, certain anatomical sites, and hospital stay, which point to critical areas for targeted\nintervention. The findings stress the importance of robust infection prevention strategies,\nsuch as effective antimicrobial stewardship, environmental hygiene, and extended post-\ndischarge surveillance. While the study provides valuable insights, its single-site focus\nand certain methodological limitations suggest that further research is needed to fully\ngeneralize the results.\n"
+    },
+    {
+     "bbox": [
+      165.3,
+      643.6,
+      560.4,
+      665.9
+     ],
+     "text": "Supplementary Materials: The following supporting information can be downloaded at: https:\n//www.mdpi.com/article/10.3390/antibiotics15020201/s1, Table S1: Standardized checklists used\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      670.3,
+      560.8,
+      692.6
+     ],
+     "text": "to assess the development of SSIs during follow-up; Figure S1: Median hospital stays of study partici-\npants at JMC. Key: OMFS—Oral and Maxillofacial surgery; Gyn/Obs—Gynecology/Obstetrics.\n"
+    },
+    {
+     "bbox": [
+      166.0,
+      702.6,
+      560.4,
+      776.6
+     ],
+     "text": "Author Contributions: Conceptualization, M.G., E.K.G., A.K. and A.W.; methodology, M.G., B.A.,\nE.K.G., G.A. (Gemechu Abera), G.A. (Gersam Abera), D.A.S., R.T. and A.W.; software, M.G., A.L.S.,\nK.E. and R.K.; validation, M.G., A.W., K.E., R.K. and A.L.S.; formal analysis, M.G. and A.L.S.;\ninvestigation, M.G. and B.A.; resources, A.K., E.K.G., A.W. and M.G.; data curation, M.G. and B.A.;\nwriting—original draft preparation, M.G.; writing—review and editing, all the authors; visualization,\nM.G.; supervision, M.G., E.K.G., G.A. (Gemechu Abera), G.A. (Gersam Abera), D.A.S. and R.T.;\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 13,
+   "text": "Antibiotics 2026, 15, 201\n13 of 15\nproject administration, M.G. and E.K.G.; funding acquisition, A.K. All authors have read and agreed\nto the published version of the manuscript.\nFunding: This study was funded by the German Academic Exchange Service (DAAD) through its\nExceed program and by the University & Hospital Partnerships in Africa initiative of the German\nGesellschaft für International Zusammenarbeit (GIZ) (grant number 81248133) in cooperation with\nthe German Ministry of Economic Cooperation and Development (BMZ) and the German Federal\nMinistry of Education and Research (BMBF) (grant number 01KA1921B).\nInstitutional Review Board Statement: The study was conducted in accordance with the Declaration\nof Helsinki and received approval from the Institutional Review Board of Jimma University, Institute\nof Health (protocol code IHRPGO/833, approved on 27 May 2022).\nInformed Consent Statement: Written informed consent was obtained from all subjects involved in\nthe study.\nData Availability Statement: Access to the data will be granted in accordance with the policies of\nJimma University, Health Institute and applicable ethical guidelines. Specific datasets may include\nclinical data, etiologies, and antimicrobial resistance patterns. Any additional conditions for accessing\nthe data will be outlined in response to requests.\nConflicts of Interest: The authors have no conflicts of interest or financial disclosures to declare.\nReferences\n1.\nOwens, C.D.; Stoessel, K. Surgical site infections: Epidemiology, microbiology and prevention. J. Hosp. Infect. 2008, 70, 3–10.\n[CrossRef]\n2.\nFarid Mojtahedi, M.; Sepidarkish, M.; Almukhtar, M.; Eslami, Y.; Mohammadianamiri, F.; Behzad Moghadam, K.; Rouholamin,\nS.; Razavi, M.; Jafari Tadi, M.; Fazlollahpour-Naghibi, A.; et al. Global incidence of surgical site infections following caesarean\nsection: A systematic review and meta-analysis. J. Hosp. Infect. 2023, 139, 82–92. [CrossRef] [PubMed]\n3.\nKolasi´nski, W. Surgical site infections—Review of current knowledge, methods of prevention. Pol. Przegl. Chir. 2018, 91, 41–47.\n[CrossRef]\n4.\nPeisl, S.; Guillen-Ramirez, H.; Sánchez-Taltavull, D.; Widmer, A.; Sommerstein, R.; Beldi, G. Influence of patient characteristics\non microbial composition in surgical-site infections: Insights from national surveillance study. Br. J. Surg. 2024, 111, znae138.\n[CrossRef] [PubMed]\n5.\nCheadle, W.G. Risk factors for surgical site infection. Surg. Infect. 2006, 7, S7–S11. [CrossRef]\n6.\nRickard, J. Treating Surgical Infections in Low- and Middle-Income Countries: Source Control, Then What? Surg. Infect. 2019, 20,\n192–196. [CrossRef]\n7.\nSeidelman, J.; Anderson, D.J. Surgical Site Infections. Infect. Dis. Clin. N. Am. 2021, 35, 901–929. [CrossRef]\n8.\nWorku, S.; Abebe, T.; Alemu, A.; Seyoum, B.; Swedberg, G.; Abdissa, A.; Mihret, A.; Beyene, G.T. Bacterial profile of surgical site\ninfection and antimicrobial resistance patterns in Ethiopia: A multicentre prospective cross-sectional study. Ann. Clin. Microbiol.\nAntimicrob. 2023, 22, 96. [CrossRef]\n9.\nGehlen, H.; Klein, K.S.; Merle, R.; Lübke-Becker, A.; Stoeckle, S.D. Does colonization with MRSA, ESBL—Producing Enterobacte-\nriaceae, and/or Acinetobacter baumannii—Increase the risk for postoperative surgical site infection? Vet. Med. Sci. 2023, 9, 729–737.\n[CrossRef]\n10.\nBoisson, M.; Abbas, M.; Rouaux, J.; Guenezan, J.; Mimoz, O. Prevention of surgical site infections in low-income and middle-\nincome countries: When more is not better. Anaesth. Crit. Care Pain Med. 2022, 41, 101046. [CrossRef]\n11.\nSandberg, C.E.J.; Knight, S.R.; Qureshi, A.U.; Pathak, S. Using Telemedicine to Diagnose Surgical Site Infections in Low- and\nMiddle-Income Countries: Systematic Review. JMIR mHealth uHealth 2019, 7, e13309. [CrossRef]\n12.\nKetema, D.B.; Wagnew, F.; Assemie, M.A.; Ferede, A.; Alamneh, A.A.; Leshargie, C.T.; Kibret, G.D.; Petrucka, P.; Telayneh, A.T.;\nAlebel, A. Incidence and predictors of surgical site infection following cesarean section in North-west Ethiopia: A prospective\ncohort study. BMC Infect. Dis. 2020, 20, 902. [CrossRef] [PubMed]\n13.\nAdane, A.; Gedefa, L.; Eyeberu, A.; Tesfa, T.; Arkew, M.; Tsegaye, S.; Getachew, T.; Debella, A.; Yadeta, E.; Abdisa, L.; et al.\nPredictors of surgical site infection among women following cesarean delivery in eastern Ethiopia: A prospective cohort study.\nAnn. Med. Surg. 2023, 85, 738–745. [CrossRef] [PubMed]\n14.\nDelpachitra, M.; Heal, C.; Banks, J.; Charles, D.; Sriharan, S.; Buttner, P. Risk Factors for Surgical Site Infection after Minor\nDermatologic Surgery. Adv. Skin Wound Care 2021, 34, 43–48. [CrossRef]\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 4672,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n13 of 15\n"
+    },
+    {
+     "bbox": [
+      166.1,
+      75.4,
+      559.3,
+      97.4
+     ],
+     "text": "project administration, M.G. and E.K.G.; funding acquisition, A.K. All authors have read and agreed\nto the published version of the manuscript.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      107.4,
+      559.3,
+      168.3
+     ],
+     "text": "Funding: This study was funded by the German Academic Exchange Service (DAAD) through its\nExceed program and by the University & Hospital Partnerships in Africa initiative of the German\nGesellschaft für International Zusammenarbeit (GIZ) (grant number 81248133) in cooperation with\nthe German Ministry of Economic Cooperation and Development (BMZ) and the German Federal\nMinistry of Education and Research (BMBF) (grant number 01KA1921B).\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      178.4,
+      559.3,
+      213.3
+     ],
+     "text": "Institutional Review Board Statement: The study was conducted in accordance with the Declaration\nof Helsinki and received approval from the Institutional Review Board of Jimma University, Institute\nof Health (protocol code IHRPGO/833, approved on 27 May 2022).\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      223.3,
+      559.3,
+      245.3
+     ],
+     "text": "Informed Consent Statement: Written informed consent was obtained from all subjects involved in\nthe study.\n"
+    },
+    {
+     "bbox": [
+      166.2,
+      255.3,
+      559.3,
+      303.3
+     ],
+     "text": "Data Availability Statement: Access to the data will be granted in accordance with the policies of\nJimma University, Health Institute and applicable ethical guidelines. Specific datasets may include\nclinical data, etiologies, and antimicrobial resistance patterns. Any additional conditions for accessing\nthe data will be outlined in response to requests.\n"
+    },
+    {
+     "bbox": [
+      166.4,
+      313.3,
+      546.5,
+      322.2
+     ],
+     "text": "Conflicts of Interest: The authors have no conflicts of interest or financial disclosures to declare.\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      337.1,
+      95.5,
+      348.8
+     ],
+     "text": "References\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      354.9,
+      560.8,
+      759.6
+     ],
+     "text": "1.\nOwens, C.D.; Stoessel, K. Surgical site infections: Epidemiology, microbiology and prevention. J. Hosp. Infect. 2008, 70, 3–10.\n[CrossRef]\n2.\nFarid Mojtahedi, M.; Sepidarkish, M.; Almukhtar, M.; Eslami, Y.; Mohammadianamiri, F.; Behzad Moghadam, K.; Rouholamin,\nS.; Razavi, M.; Jafari Tadi, M.; Fazlollahpour-Naghibi, A.; et al. Global incidence of surgical site infections following caesarean\nsection: A systematic review and meta-analysis. J. Hosp. Infect. 2023, 139, 82–92. [CrossRef] [PubMed]\n3.\nKolasi´nski, W. Surgical site infections—Review of current knowledge, methods of prevention. Pol. Przegl. Chir. 2018, 91, 41–47.\n[CrossRef]\n4.\nPeisl, S.; Guillen-Ramirez, H.; Sánchez-Taltavull, D.; Widmer, A.; Sommerstein, R.; Beldi, G. Influence of patient characteristics\non microbial composition in surgical-site infections: Insights from national surveillance study. Br. J. Surg. 2024, 111, znae138.\n[CrossRef] [PubMed]\n5.\nCheadle, W.G. Risk factors for surgical site infection. Surg. Infect. 2006, 7, S7–S11. [CrossRef]\n6.\nRickard, J. Treating Surgical Infections in Low- and Middle-Income Countries: Source Control, Then What? Surg. Infect. 2019, 20,\n192–196. [CrossRef]\n7.\nSeidelman, J.; Anderson, D.J. Surgical Site Infections. Infect. Dis. Clin. N. Am. 2021, 35, 901–929. [CrossRef]\n8.\nWorku, S.; Abebe, T.; Alemu, A.; Seyoum, B.; Swedberg, G.; Abdissa, A.; Mihret, A.; Beyene, G.T. Bacterial profile of surgical site\ninfection and antimicrobial resistance patterns in Ethiopia: A multicentre prospective cross-sectional study. Ann. Clin. Microbiol.\nAntimicrob. 2023, 22, 96. [CrossRef]\n9.\nGehlen, H.; Klein, K.S.; Merle, R.; Lübke-Becker, A.; Stoeckle, S.D. Does colonization with MRSA, ESBL—Producing Enterobacte-\nriaceae, and/or Acinetobacter baumannii—Increase the risk for postoperative surgical site infection? Vet. Med. Sci. 2023, 9, 729–737.\n[CrossRef]\n10.\nBoisson, M.; Abbas, M.; Rouaux, J.; Guenezan, J.; Mimoz, O. Prevention of surgical site infections in low-income and middle-\nincome countries: When more is not better. Anaesth. Crit. Care Pain Med. 2022, 41, 101046. [CrossRef]\n11.\nSandberg, C.E.J.; Knight, S.R.; Qureshi, A.U.; Pathak, S. Using Telemedicine to Diagnose Surgical Site Infections in Low- and\nMiddle-Income Countries: Systematic Review. JMIR mHealth uHealth 2019, 7, e13309. [CrossRef]\n12.\nKetema, D.B.; Wagnew, F.; Assemie, M.A.; Ferede, A.; Alamneh, A.A.; Leshargie, C.T.; Kibret, G.D.; Petrucka, P.; Telayneh, A.T.;\nAlebel, A. Incidence and predictors of surgical site infection following cesarean section in North-west Ethiopia: A prospective\ncohort study. BMC Infect. Dis. 2020, 20, 902. [CrossRef] [PubMed]\n13.\nAdane, A.; Gedefa, L.; Eyeberu, A.; Tesfa, T.; Arkew, M.; Tsegaye, S.; Getachew, T.; Debella, A.; Yadeta, E.; Abdisa, L.; et al.\nPredictors of surgical site infection among women following cesarean delivery in eastern Ethiopia: A prospective cohort study.\nAnn. Med. Surg. 2023, 85, 738–745. [CrossRef] [PubMed]\n14.\nDelpachitra, M.; Heal, C.; Banks, J.; Charles, D.; Sriharan, S.; Buttner, P. Risk Factors for Surgical Site Infection after Minor\nDermatologic Surgery. Adv. Skin Wound Care 2021, 34, 43–48. [CrossRef]\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 14,
+   "text": "Antibiotics 2026, 15, 201\n14 of 15\n15.\nBranch-Elliman, W.; O’Brien, W.; Strymish, J.; Itani, K.; Wyatt, C.; Gupta, K. Association of Duration and Type of Surgical\nProphylaxis with Antimicrobial-Associated Adverse Events. JAMA Surg. 2019, 154, 590–598. [CrossRef]\n16.\nNIHR Global Research Health Unit on Global Surgery. Routine sterile glove and instrument change at the time of abdominal\nwound closure to prevent surgical site infection (ChEETAh): A pragmatic, cluster-randomised trial in seven low-income and\nmiddle-income countries. Lancet 2022, 400, 1767–1776. [CrossRef]\n17.\nSekhon, J.K.; Moss, C.; Watts, J. Reducing post-caesarean infection in the Kimberley region of Western Australia: An audit-based\nobservational study. Aust. N. Z. J. Obstet. Gynaecol. 2023, 63, 81–85. [CrossRef]\n18.\nJimma University Medical Center. Available online: https://ju.edu.et/jimma-medical-center/ (accessed on 3 April 2024).\n19.\nMezemir, R.; Olayemi, O.; Dessie, Y. Incidence, Bacterial Profile and Predictors of Surgical Site Infection After Cesarean Section in\nEthiopia, A Prospective Cohort Study. Int. J. Womens Health 2023, 15, 1547–1560. [CrossRef] [PubMed]\n20.\nMagiorakos, A.-P.; Srinivasan, A.; Carey, R.B.; Carmeli, Y.; Falagas, M.; Giske, C.; Harbarth, S.; Hindler, J.; Kahlmeter, G.;\nOlsson-Liljequist, B. Multidrug-resistant, extensively drug-resistant and pandrug-resistant bacteria: An international expert\nproposal for interim standard definitions for acquired resistance. Clin. Microbiol. Infect. 2012, 18, 268–281. [CrossRef]\n21.\nDinda, V.; Gunturu, R.; Kariuki, S.; Hakeem, A.; Raja, A.; Kimang’a, A. Pattern of pathogens and their sensitivity isolated from\nsurgical site infections at the Aga Khan University Hospital, Nairobi, Kenya. Ethiop. J. Health Sci. 2013, 23, 141–149.\n22.\nGelaw, K.A.; Aweke, A.M.; Astawesegn, F.H.; Demissie, B.W.; Zeleke, L.B. Surgical site infection and its associated factors\nfollowing cesarean section: A cross sectional study from a public hospital in Ethiopia. Patient Saf. Surg. 2017, 11, 18. [CrossRef]\n[PubMed]\n23.\nLegesse Laloto, T.; Hiko Gemeda, D.; Abdella, S.H. Incidence and predictors of surgical site infection in Ethiopia: Prospective\ncohort. BMC Infect. Dis. 2017, 17, 119. [CrossRef] [PubMed]\n24.\nMamo, T.; Abebe, T.W.; Chichiabellu, T.Y.; Anjulo, A.A. Risk factors for surgical site infections in obstetrics: A retrospective study\nin an Ethiopian referral hospital. Patient Saf. Surg. 2017, 11, 24. [CrossRef]\n25.\nAbosse, S.; Genet, C.; Derbie, A. Antimicrobial Resistance Profile of Bacterial Isolates Identified from Surgical Site Infections at a\nReferral Hospital, Northwest Ethiopia. Ethiop. J. Health Sci. 2021, 31, 635–644. [CrossRef]\n26.\nMisha, G.; Chelkeba, L.; Melaku, T. Incidence, risk factors and outcomes of surgical site infections among patients admitted to\nJimma Medical Center, South West Ethiopia: Prospective cohort study. Ann. Med. Surg. 2021, 65, 102247. [CrossRef]\n27.\nDessalegn, L.; Shimelis, T.; Tadesse, E.; Gebre-selassie, S. Aerobic bacterial isolates from post-surgical wound and their antimicro-\nbial susceptibility pattern: A hospital based cross-sectional study. E3 J. Med. Res. 2014, 3, 18–23.\n28.\nMengesha, R.E.; Kasa, B.G.; Saravanan, M.; Berhe, D.F.; Wasihun, A.G. Aerobic bacteria in post surgical wound infections and\npattern of their antimicrobial susceptibility in Ayder Teaching and Referral Hospital, Mekelle, Ethiopia. BMC Res. Notes 2014,\n7, 575. [CrossRef]\n29.\nMoremi, N.; Claus, H.; Rutta, L.; Frosch, M.; Vogel, U.; Mshana, S.E. High carriage rate of extended-spectrum beta-lactamase-\nproducing Enterobacteriaceae among patients admitted for surgery in Tanzanian hospitals with a low rate of endogenous surgical\nsite infections. J. Hosp. Infect. 2018, 100, 47–53. [CrossRef]\n30.\nRickard, J.; Beilman, G.; Forrester, J.; Sawyer, R.; Stephen, A.; Weiser, T.G.; Valenzuela, J. Surgical Infections in Low- and\nMiddle-Income Countries: A Global Assessment of the Burden and Management Needs. Surg. Infect. 2019, 21, 478–494.\n[CrossRef]\n31.\nBirhanu, Y.; Endalamaw, A. Surgical site infection and pathogens in Ethiopia: A systematic review and meta-analysis. Patient Saf.\nSurg. 2020, 14, 7. [CrossRef]\n32.\nGashaw, M.; Gudina, E.K.; Tadesse, W.; Froeschl, G.; Ali, S.; Seeholzer, T.; Kroidl, A.; Wieser, A. Hospital Wastes as Potential\nSources for Multi-Drug-Resistant ESBL-Producing Bacteria at a Tertiary Hospital in Ethiopia. Antibiotics 2024, 13, 374. [CrossRef]\n33.\nAllegranzi, B.; Zayed, B.; Bischoff, P.; Kubilay, N.Z.; de Jonge, S.; de Vries, F.; Gomes, S.M.; Gans, S.; Wallert, E.D.; Wu, X.;\net al. New WHO recommendations on intraoperative and postoperative measures for surgical site infection prevention: An\nevidence-based global perspective. Lancet Infect. Dis. 2016, 16, e288–e303. [CrossRef]\n34.\nMwita, J.C.; Ogunleye, O.O.; Olalekan, A.; Kalungia, A.C.; Kurdi, A.; Saleem, Z.; Sneddon, J.; Godman, B. Key Issues Surrounding\nAppropriate Antibiotic Use for Prevention of Surgical Site Infections in Low- and Middle-Income Countries: A Narrative Review\nand the Implications. Int. J. Gen. Med. 2021, 14, 515–530. [CrossRef] [PubMed]\n35.\nDe Simone, B.; Sartelli, M.; Coccolini, F.; Ball, C.G.; Brambillasca, P.; Chiarugi, M.; Campanile, F.C.; Nita, G.; Corbella, D.;\nLeppaniemi, A.; et al. Intraoperative surgical site infection control and prevention: A position paper and future addendum to\nWSES intra-abdominal infections guidelines. World J. Emerg. Surg. 2020, 15, 10. [CrossRef] [PubMed]\n36.\nTucci, G.; Romanini, E.; Zanoli, G.; Pavan, L.; Fantoni, M.; Venditti, M. Prevention of surgical site infections in orthopaedic\nsurgery: A synthesis of current recommendations. Eur. Rev. Med. Pharmacol. Sci. 2019, 23, 224–239. [CrossRef] [PubMed]\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 5789,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n14 of 15\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      75.4,
+      560.8,
+      735.5
+     ],
+     "text": "15.\nBranch-Elliman, W.; O’Brien, W.; Strymish, J.; Itani, K.; Wyatt, C.; Gupta, K. Association of Duration and Type of Surgical\nProphylaxis with Antimicrobial-Associated Adverse Events. JAMA Surg. 2019, 154, 590–598. [CrossRef]\n16.\nNIHR Global Research Health Unit on Global Surgery. Routine sterile glove and instrument change at the time of abdominal\nwound closure to prevent surgical site infection (ChEETAh): A pragmatic, cluster-randomised trial in seven low-income and\nmiddle-income countries. Lancet 2022, 400, 1767–1776. [CrossRef]\n17.\nSekhon, J.K.; Moss, C.; Watts, J. Reducing post-caesarean infection in the Kimberley region of Western Australia: An audit-based\nobservational study. Aust. N. Z. J. Obstet. Gynaecol. 2023, 63, 81–85. [CrossRef]\n18.\nJimma University Medical Center. Available online: https://ju.edu.et/jimma-medical-center/ (accessed on 3 April 2024).\n19.\nMezemir, R.; Olayemi, O.; Dessie, Y. Incidence, Bacterial Profile and Predictors of Surgical Site Infection After Cesarean Section in\nEthiopia, A Prospective Cohort Study. Int. J. Womens Health 2023, 15, 1547–1560. [CrossRef] [PubMed]\n20.\nMagiorakos, A.-P.; Srinivasan, A.; Carey, R.B.; Carmeli, Y.; Falagas, M.; Giske, C.; Harbarth, S.; Hindler, J.; Kahlmeter, G.;\nOlsson-Liljequist, B. Multidrug-resistant, extensively drug-resistant and pandrug-resistant bacteria: An international expert\nproposal for interim standard definitions for acquired resistance. Clin. Microbiol. Infect. 2012, 18, 268–281. [CrossRef]\n21.\nDinda, V.; Gunturu, R.; Kariuki, S.; Hakeem, A.; Raja, A.; Kimang’a, A. Pattern of pathogens and their sensitivity isolated from\nsurgical site infections at the Aga Khan University Hospital, Nairobi, Kenya. Ethiop. J. Health Sci. 2013, 23, 141–149.\n22.\nGelaw, K.A.; Aweke, A.M.; Astawesegn, F.H.; Demissie, B.W.; Zeleke, L.B. Surgical site infection and its associated factors\nfollowing cesarean section: A cross sectional study from a public hospital in Ethiopia. Patient Saf. Surg. 2017, 11, 18. [CrossRef]\n[PubMed]\n23.\nLegesse Laloto, T.; Hiko Gemeda, D.; Abdella, S.H. Incidence and predictors of surgical site infection in Ethiopia: Prospective\ncohort. BMC Infect. Dis. 2017, 17, 119. [CrossRef] [PubMed]\n24.\nMamo, T.; Abebe, T.W.; Chichiabellu, T.Y.; Anjulo, A.A. Risk factors for surgical site infections in obstetrics: A retrospective study\nin an Ethiopian referral hospital. Patient Saf. Surg. 2017, 11, 24. [CrossRef]\n25.\nAbosse, S.; Genet, C.; Derbie, A. Antimicrobial Resistance Profile of Bacterial Isolates Identified from Surgical Site Infections at a\nReferral Hospital, Northwest Ethiopia. Ethiop. J. Health Sci. 2021, 31, 635–644. [CrossRef]\n26.\nMisha, G.; Chelkeba, L.; Melaku, T. Incidence, risk factors and outcomes of surgical site infections among patients admitted to\nJimma Medical Center, South West Ethiopia: Prospective cohort study. Ann. Med. Surg. 2021, 65, 102247. [CrossRef]\n27.\nDessalegn, L.; Shimelis, T.; Tadesse, E.; Gebre-selassie, S. Aerobic bacterial isolates from post-surgical wound and their antimicro-\nbial susceptibility pattern: A hospital based cross-sectional study. E3 J. Med. Res. 2014, 3, 18–23.\n28.\nMengesha, R.E.; Kasa, B.G.; Saravanan, M.; Berhe, D.F.; Wasihun, A.G. Aerobic bacteria in post surgical wound infections and\npattern of their antimicrobial susceptibility in Ayder Teaching and Referral Hospital, Mekelle, Ethiopia. BMC Res. Notes 2014,\n7, 575. [CrossRef]\n29.\nMoremi, N.; Claus, H.; Rutta, L.; Frosch, M.; Vogel, U.; Mshana, S.E. High carriage rate of extended-spectrum beta-lactamase-\nproducing Enterobacteriaceae among patients admitted for surgery in Tanzanian hospitals with a low rate of endogenous surgical\nsite infections. J. Hosp. Infect. 2018, 100, 47–53. [CrossRef]\n30.\nRickard, J.; Beilman, G.; Forrester, J.; Sawyer, R.; Stephen, A.; Weiser, T.G.; Valenzuela, J. Surgical Infections in Low- and\nMiddle-Income Countries: A Global Assessment of the Burden and Management Needs. Surg. Infect. 2019, 21, 478–494.\n[CrossRef]\n31.\nBirhanu, Y.; Endalamaw, A. Surgical site infection and pathogens in Ethiopia: A systematic review and meta-analysis. Patient Saf.\nSurg. 2020, 14, 7. [CrossRef]\n32.\nGashaw, M.; Gudina, E.K.; Tadesse, W.; Froeschl, G.; Ali, S.; Seeholzer, T.; Kroidl, A.; Wieser, A. Hospital Wastes as Potential\nSources for Multi-Drug-Resistant ESBL-Producing Bacteria at a Tertiary Hospital in Ethiopia. Antibiotics 2024, 13, 374. [CrossRef]\n33.\nAllegranzi, B.; Zayed, B.; Bischoff, P.; Kubilay, N.Z.; de Jonge, S.; de Vries, F.; Gomes, S.M.; Gans, S.; Wallert, E.D.; Wu, X.;\net al. New WHO recommendations on intraoperative and postoperative measures for surgical site infection prevention: An\nevidence-based global perspective. Lancet Infect. Dis. 2016, 16, e288–e303. [CrossRef]\n34.\nMwita, J.C.; Ogunleye, O.O.; Olalekan, A.; Kalungia, A.C.; Kurdi, A.; Saleem, Z.; Sneddon, J.; Godman, B. Key Issues Surrounding\nAppropriate Antibiotic Use for Prevention of Surgical Site Infections in Low- and Middle-Income Countries: A Narrative Review\nand the Implications. Int. J. Gen. Med. 2021, 14, 515–530. [CrossRef] [PubMed]\n35.\nDe Simone, B.; Sartelli, M.; Coccolini, F.; Ball, C.G.; Brambillasca, P.; Chiarugi, M.; Campanile, F.C.; Nita, G.; Corbella, D.;\nLeppaniemi, A.; et al. Intraoperative surgical site infection control and prevention: A position paper and future addendum to\nWSES intra-abdominal infections guidelines. World J. Emerg. Surg. 2020, 15, 10. [CrossRef] [PubMed]\n36.\nTucci, G.; Romanini, E.; Zanoli, G.; Pavan, L.; Fantoni, M.; Venditti, M. Prevention of surgical site infections in orthopaedic\nsurgery: A synthesis of current recommendations. Eur. Rev. Med. Pharmacol. Sci. 2019, 23, 224–239. [CrossRef] [PubMed]\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  },
+  {
+   "page": 15,
+   "text": "Antibiotics 2026, 15, 201\n15 of 15\n37.\nWorld Health Organization. Protocol for Surgical Site Infection Surveillance with a Focus on Settings with Limited Resources; WHO\nTeam, Infection Prevention and Control (IPC): Geneva, Switzerland, 2018.\n38.\nEuropean Committee on Antimicrobial Susceptibility Testing. Breakpoint Tables for Interpretation of MICs and Zone Diameters\nVersion 12.0, Valid from 2022-01-01. 2022. Available online: https://www.eucast.org/fileadmin/src/media/PDFs/EUCAST_\nfiles/Breakpoint_tables/v_12.0_Breakpoint_Tables.pdf (accessed on 3 April 2024).\nDisclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual\nauthor(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to\npeople or property resulting from any ideas, methods, instructions or products referred to in the content.\nhttps://doi.org/10.3390/antibiotics15020201\n",
+   "n_chars": 981,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      35.4,
+      36.0,
+      559.3,
+      46.0
+     ],
+     "text": "Antibiotics 2026, 15, 201\n15 of 15\n"
+    },
+    {
+     "bbox": [
+      35.7,
+      75.4,
+      559.7,
+      135.4
+     ],
+     "text": "37.\nWorld Health Organization. Protocol for Surgical Site Infection Surveillance with a Focus on Settings with Limited Resources; WHO\nTeam, Infection Prevention and Control (IPC): Geneva, Switzerland, 2018.\n38.\nEuropean Committee on Antimicrobial Susceptibility Testing. Breakpoint Tables for Interpretation of MICs and Zone Diameters\nVersion 12.0, Valid from 2022-01-01. 2022. Available online: https://www.eucast.org/fileadmin/src/media/PDFs/EUCAST_\nfiles/Breakpoint_tables/v_12.0_Breakpoint_Tables.pdf (accessed on 3 April 2024).\n"
+    },
+    {
+     "bbox": [
+      35.4,
+      155.2,
+      559.3,
+      189.6
+     ],
+     "text": "Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual\nauthor(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to\npeople or property resulting from any ideas, methods, instructions or products referred to in the content.\n"
+    },
+    {
+     "bbox": [
+      400.4,
+      805.6,
+      559.3,
+      813.5
+     ],
+     "text": "https://doi.org/10.3390/antibiotics15020201\n"
+    }
+   ]
+  }
+ ]
+}

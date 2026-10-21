@@ -1,0 +1,2157 @@
+{
+ "doc_id": "habtemariam-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Habtemariam et al..pdf",
+ "sha256": "6d9494415418b03d3cd25830de4298d86f52a88a907b9cb091c1bd06962b9750",
+ "document_type": "pdf",
+ "n_pages": 9,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "Surgical site infection and antimicrobial prophylaxis prescribing profile, and its determinants among hospitalized patients in Northeast Ethiopia: a hospital based cross-sectional study",
+  "author": "Habtemariam Alekaw Habteweld ",
+  "subject": "Scientific Reports, https://doi.org/10.1038/s41598-023-41834-7",
+  "keywords": "",
+  "creator": "Springer",
+  "producer": "Adobe PDF Library 15.0; modified using iText® 5.3.5 ©2000-2012 1T3XT BVBA (SPRINGER SBM; licensed version)",
+  "creationDate": "D:20230906133354+05'30'",
+  "modDate": "D:20231118154829+01'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:54+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "1\nVol.:(0123456789)\nScientific Reports |        (2023) 13:14689  \n| https://doi.org/10.1038/s41598-023-41834-7\nwww.nature.com/scientificreports\nSurgical site infection \nand antimicrobial prophylaxis \nprescribing profile, and its \ndeterminants among hospitalized \npatients in Northeast Ethiopia: \na hospital based cross‑sectional \nstudy\nHabtemariam Alekaw Habteweld *, Mohammed Yimam , Abate Wondesen Tsige , \nYehualashet Teshome Wondmkun , Bedilu Linger Endalifer  & Kassahun Dires Ayenew \nThe inappropriate use of surgical antimicrobial prophylaxis is a common cause for increased risk of \nmorbidity and mortality from surgical site infection in patients who underwent surgical procedures. \nThe study aimed to evaluate surgical antimicrobial prophylaxis prescribing patterns, Surgical Site \nInfection (SSI), and its determinants in the surgical ward of Debre Berhan Comprehensive Specialized \nHospital, northeast Ethiopia. A prospective cross-sectional study was conducted from October 1st \n2022 to January 31st, 2023. Data collected from patient medical record cards and patient interviews \nwere entered and analyzed using SPSS V26.0. The determinants of surgical site infection were \ndetermined from the multivariable logistic regression. P-value ≤ 0.05 was considered statistically \nsignificant. Ceftriaxone (70.5%) followed by a combination of ceftriaxone with metronidazole \n(21.90%) was the most frequently used prophylactic antibiotic. One hundred fifty-nine (78%) of \npatients were exposed to inappropriately used prophylactic antimicrobials and 62.2% of these \nwere exposed to inappropriately selected antibiotics. One hundred twenty-six (61.9%) patients \ndeveloped Surgical Site Infection (SSI). Duration of procedure longer than an hour and inappropriate \nuse of antimicrobial prophylaxiswere the independent predictors for the occurrence of surgical site \ninfections. Patients whose operation was lasted in longer than an hour were 3.39 times more likely to \ndevelop SSI compared to those whose operation was completed in less than an hour, AOR = 3.39 (95% \nCI: 1.24–9.30). Similarly, controlling the effect of other covariate variables, individuals who were given \ninappropriate antimicrobial prophylaxis were 6.67 times more likely to develop SSI compared to those \ngiven appropriate prophylaxis, AOR = 6.67 (95% CI: 1.05–42.49). The high rate of SSI requires due \nattention from clinicians as well as health policymakers. Duration of surgical procedure greater than \nan hour and inappropriate antimicrobial prophylaxis use was the independent predictor of surgical site \ninfections.\nPatients may develop Surgical Site Infections (SSI) at or near surgically incised sites within 30 days of their opera-\ntion or after 1 year if the procedure underwent have an implant which was ­placed1,2. Several factors like wound \nclassification, the type of surgical procedure, the skills of the surgeon, the duration of surgery, antimicrobial \nprophylaxis appropriateness, and patient-related factors, such as preexisting comorbidities (poorly controlled \ndiabetes mellitus, extreme of age, cigarette smoking, alcohol abuse, and immune compromising conditions) can \naffect the occurrence of ­SSI3,4. Surgical Antimicrobial Prophylaxis (SAP) plays an important role in reducing SSI, \nOPEN\nDepartment of Pharmacy, Debre Berhan University, P.O. Box  445, Debre Berhan, Ethiopia. *email: \nhabtsh6128alekaw@gmail.com\n",
+   "n_chars": 3414,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      550.0,
+      756.5,
+      554.1,
+      766.0
+     ],
+     "text": "1\n"
+    },
+    {
+     "bbox": [
+      532.6,
+      772.6,
+      591.9,
+      782.1
+     ],
+     "text": "Vol.:(0123456789)\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      756.4,
+      376.7,
+      766.2
+     ],
+     "text": "Scientific Reports |        (2023) 13:14689  \n| https://doi.org/10.1038/s41598-023-41834-7\n"
+    },
+    {
+     "bbox": [
+      391.2,
+      11.6,
+      547.4,
+      23.5
+     ],
+     "text": "www.nature.com/scientificreports\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      126.5,
+      539.6,
+      337.5
+     ],
+     "text": "Surgical site infection \nand antimicrobial prophylaxis \nprescribing profile, and its \ndeterminants among hospitalized \npatients in Northeast Ethiopia: \na hospital based cross‑sectional \nstudy\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      343.7,
+      520.7,
+      367.6
+     ],
+     "text": "Habtemariam Alekaw Habteweld *, Mohammed Yimam , Abate Wondesen Tsige , \nYehualashet Teshome Wondmkun , Bedilu Linger Endalifer  & Kassahun Dires Ayenew \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      376.6,
+      555.0,
+      618.3
+     ],
+     "text": "The inappropriate use of surgical antimicrobial prophylaxis is a common cause for increased risk of \nmorbidity and mortality from surgical site infection in patients who underwent surgical procedures. \nThe study aimed to evaluate surgical antimicrobial prophylaxis prescribing patterns, Surgical Site \nInfection (SSI), and its determinants in the surgical ward of Debre Berhan Comprehensive Specialized \nHospital, northeast Ethiopia. A prospective cross-sectional study was conducted from October 1st \n2022 to January 31st, 2023. Data collected from patient medical record cards and patient interviews \nwere entered and analyzed using SPSS V26.0. The determinants of surgical site infection were \ndetermined from the multivariable logistic regression. P-value ≤ 0.05 was considered statistically \nsignificant. Ceftriaxone (70.5%) followed by a combination of ceftriaxone with metronidazole \n(21.90%) was the most frequently used prophylactic antibiotic. One hundred fifty-nine (78%) of \npatients were exposed to inappropriately used prophylactic antimicrobials and 62.2% of these \nwere exposed to inappropriately selected antibiotics. One hundred twenty-six (61.9%) patients \ndeveloped Surgical Site Infection (SSI). Duration of procedure longer than an hour and inappropriate \nuse of antimicrobial prophylaxiswere the independent predictors for the occurrence of surgical site \ninfections. Patients whose operation was lasted in longer than an hour were 3.39 times more likely to \ndevelop SSI compared to those whose operation was completed in less than an hour, AOR = 3.39 (95% \nCI: 1.24–9.30). Similarly, controlling the effect of other covariate variables, individuals who were given \ninappropriate antimicrobial prophylaxis were 6.67 times more likely to develop SSI compared to those \ngiven appropriate prophylaxis, AOR = 6.67 (95% CI: 1.05–42.49). The high rate of SSI requires due \nattention from clinicians as well as health policymakers. Duration of surgical procedure greater than \nan hour and inappropriate antimicrobial prophylaxis use was the independent predictor of surgical site \ninfections.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      637.4,
+      556.3,
+      699.6
+     ],
+     "text": "Patients may develop Surgical Site Infections (SSI) at or near surgically incised sites within 30 days of their opera-\ntion or after 1 year if the procedure underwent have an implant which was ­placed1,2. Several factors like wound \nclassification, the type of surgical procedure, the skills of the surgeon, the duration of surgery, antimicrobial \nprophylaxis appropriateness, and patient-related factors, such as preexisting comorbidities (poorly controlled \ndiabetes mellitus, extreme of age, cigarette smoking, alcohol abuse, and immune compromising conditions) can \naffect the occurrence of ­SSI3,4. Surgical Antimicrobial Prophylaxis (SAP) plays an important role in reducing SSI, \n"
+    },
+    {
+     "bbox": [
+      94.3,
+      129.0,
+      141.6,
+      150.4
+     ],
+     "text": "OPEN\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      718.9,
+      555.9,
+      739.0
+     ],
+     "text": "Department of Pharmacy, Debre Berhan University, P.O. Box  445, Debre Berhan, Ethiopia. *email: \nhabtsh6128alekaw@gmail.com\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "2\nVol:.(1234567890)\nScientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\nwww.nature.com/scientificreports/\nespecially if patient-related risk factors for SSIs are ­present3,5. When appropriately used, surgical antimicrobial \nprophylaxis is an effective method for preventing the occurrence of ­SSI6,7. For optimal benefit, determining the \nappropriate indication based on definitive microbiological tests, and timing, selecting an agent that covers the \nlikely pathogen on wound contamination, and administering sufficient bactericidal concentrations during the \nwhole period that the incision is open for risk of bacterial contamination is ­required6–8.\nSurgical site infection is one of the most common nosocomial infections causing complications of operative \nprocedures which have a significant burden in terms of morbidity, mortality, and healthcare costs. SSI is the \nthird among all reported cases of inpatient nosocomial infections. Accounted for up to 16% of nosocomial infec-\ntions in all hospitalized patients and 38% of all surgical ­patients2,9. Based on the wound’s level of contamination, \nthere are four classes of surgical wounds: clean (wound with no inflammation), clean-contaminated (wound in \nwhich the respiratory, alimentary or genitourinary tracts are entered but without contamination), contaminated \n(wound where acute inflammation (without pus) is encountered, or where there is visible contamination of the \nwound.), and dirty-infected (wound in the presence of pus, where there is a previously perforated hollow viscous \nor compound/open injury more than four hours old)9,10.\nDevelopment of SSIs results in up to 60% increased risk of spending time in an intensive care unit, being \nreadmitted to a hospital, and nearly doubled mortality rates compared to patients without ­SSIs1. World Health \nOrganization (WHO) estimated that the burden of nosocomial infection from SSI in low- and middle-income \ncountries ranges from 1.2–23.6% and this incident is three to five times higher than in high-income countries \ndue to the poor infection prevention programs, crowding hospital environment and irrational prescription of \nantimicrobial ­agents2,8,11,12. Irrational use of prophylactic antibiotics is associated with increased medical care \ncosts, prolonged hospitalization, superinfection, the emergence of poly antimicrobial-resistant strains of hospital \npathogens that challenge the patient care process, and adverse drug reactions, and this phenomenon is being \naggravated by the absence of culture and sensitivity tests in treating ­infections2. Although the data is limited, in \nEthiopia, 9.4–75% of patients who underwent surgical procedures developed SSI at different ­hospitals13–16. Fur-\nthermore, a report from a meta-analysis study indicated that the estimated pooled occurrence of SSI in Ethiopia \nwas 12.3%11. From an estimated 30–50% of the antimicrobials used for surgical prophylaxis in hospitals, 30–90% \nwere ­inappropriate17. The use of surgical antimicrobial prophylaxis before any surgery in an appropriate way \nis an important measure to prevent SSI. However inappropriate use of antimicrobial agents like inappropriate \nselection, timing, and duration are associated with an increase in the worldwide emergence of antimicrobial \nresistance, a major public health problem, and has a significant impact on treatment and outcomes. Moreover, \nthere will be also increased risks of occurrence of surgical site infections, and adverse drug reactions thus strongly \ncalling for the evaluation of ­SAP15,17.\nThere are no studies conducted on surgical antimicrobial prophylaxis and surgical site infections at Debre \nBerhan Comprehensive Specialized Hospital (DBCSH). Therefore, this study aimed to assess SSI and surgical \nantimicrobial prophylaxis utilization patterns, appropriateness, and associated factors among patients admitted \nto the surgical ward of DBCSH. Investigating the appropriateness of surgical prophylactic antibiotics use and \nsubsequent occurrence of SSI at the ward level can generate detailed information about the magnitude and com-\nposition of antibiotic consumption and give insight into the rationality of prescribing in the process of patient \ncare. This will help policymakers to make recommendations, monitor, evaluate, and suggest modifications in \nthe level of practice and diagnostic techniques, and practitioner’s prescription habits, so as to make patient care \nreasonable and effective. The generated data and recommendations will be utilized also in the future for the \npromotion of rational antibiotic use in DBCSH.\nThis study will also be used as a pilot study for national surveillance studies regarding antibiotic utilization and \nresistance which will change the unregulated use of antibiotics for common diseases. Furthermore, the findings \nof this study can be used as a baseline for further studies conducted in this area.\nMethods\nStudy area and study period. \nThis study was conducted at DBCSH which is located in Debre Berhan \ntown in Amhara National Regional State, Ethiopia, at a distance of 130 Kilometers from Addis Ababa, and 695 \nKilometers from Bahir Dar the regional capital. DBCSH is a governmental hospital in the town serving the \npopulation of the surrounding area as a referral center. The Hospital has four major wards including Medical, \nSurgical, Pediatrics, and Gynecology and Obstetrics. The hospital has 4 surgeons and the surgical ward unit \nis equipped with around 39 beds and serves an average of 80 people a month. The study was conducted from \nOctober 1st, 2022 to January 31st, 2023.\nStudy design. \nA 4-month facility-based prospective cross-sectional study design was used to assess surgical \nantimicrobial prophylaxis prescribing pattern, Surgical Site Infection (SSI), and its determinants in the surgical \nward of DBCSH, Northeast Ethiopia.\nSource population. \nAll patients admitted to the surgical ward of DBCSH for surgical procedure.\nStudy population. \nAll patients who were admitted to the surgical ward of DBCSH from 1st October 2022 to \n31st January 2023 for surgical procedures during the study period and those who fulfilled the inclusion criteria.\nEligibility criteria. \nInclusion criteria.  Adult patients of age > 18 years, patients on at least one prophylaxis \nantibiotic, and wounds classified as clean, clean-contaminated, and contaminated are considered as inclusion \ncriteria.\n",
+   "n_chars": 6449,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      550.0,
+      756.5,
+      554.1,
+      766.0
+     ],
+     "text": "2\n"
+    },
+    {
+     "bbox": [
+      4.8,
+      772.6,
+      63.3,
+      782.1
+     ],
+     "text": "Vol:.(1234567890)\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      756.4,
+      376.7,
+      766.2
+     ],
+     "text": "Scientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      12.3,
+      200.6,
+      24.3
+     ],
+     "text": "www.nature.com/scientificreports/\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      48.1,
+      556.3,
+      100.2
+     ],
+     "text": "especially if patient-related risk factors for SSIs are ­present3,5. When appropriately used, surgical antimicrobial \nprophylaxis is an effective method for preventing the occurrence of ­SSI6,7. For optimal benefit, determining the \nappropriate indication based on definitive microbiological tests, and timing, selecting an agent that covers the \nlikely pathogen on wound contamination, and administering sufficient bactericidal concentrations during the \nwhole period that the incision is open for risk of bacterial contamination is ­required6–8.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      98.1,
+      556.3,
+      190.2
+     ],
+     "text": "Surgical site infection is one of the most common nosocomial infections causing complications of operative \nprocedures which have a significant burden in terms of morbidity, mortality, and healthcare costs. SSI is the \nthird among all reported cases of inpatient nosocomial infections. Accounted for up to 16% of nosocomial infec-\ntions in all hospitalized patients and 38% of all surgical ­patients2,9. Based on the wound’s level of contamination, \nthere are four classes of surgical wounds: clean (wound with no inflammation), clean-contaminated (wound in \nwhich the respiratory, alimentary or genitourinary tracts are entered but without contamination), contaminated \n(wound where acute inflammation (without pus) is encountered, or where there is visible contamination of the \nwound.), and dirty-infected (wound in the presence of pus, where there is a previously perforated hollow viscous \nor compound/open injury more than four hours old)9,10.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      188.1,
+      556.4,
+      370.2
+     ],
+     "text": "Development of SSIs results in up to 60% increased risk of spending time in an intensive care unit, being \nreadmitted to a hospital, and nearly doubled mortality rates compared to patients without ­SSIs1. World Health \nOrganization (WHO) estimated that the burden of nosocomial infection from SSI in low- and middle-income \ncountries ranges from 1.2–23.6% and this incident is three to five times higher than in high-income countries \ndue to the poor infection prevention programs, crowding hospital environment and irrational prescription of \nantimicrobial ­agents2,8,11,12. Irrational use of prophylactic antibiotics is associated with increased medical care \ncosts, prolonged hospitalization, superinfection, the emergence of poly antimicrobial-resistant strains of hospital \npathogens that challenge the patient care process, and adverse drug reactions, and this phenomenon is being \naggravated by the absence of culture and sensitivity tests in treating ­infections2. Although the data is limited, in \nEthiopia, 9.4–75% of patients who underwent surgical procedures developed SSI at different ­hospitals13–16. Fur-\nthermore, a report from a meta-analysis study indicated that the estimated pooled occurrence of SSI in Ethiopia \nwas 12.3%11. From an estimated 30–50% of the antimicrobials used for surgical prophylaxis in hospitals, 30–90% \nwere ­inappropriate17. The use of surgical antimicrobial prophylaxis before any surgery in an appropriate way \nis an important measure to prevent SSI. However inappropriate use of antimicrobial agents like inappropriate \nselection, timing, and duration are associated with an increase in the worldwide emergence of antimicrobial \nresistance, a major public health problem, and has a significant impact on treatment and outcomes. Moreover, \nthere will be also increased risks of occurrence of surgical site infections, and adverse drug reactions thus strongly \ncalling for the evaluation of ­SAP15,17.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      368.1,
+      556.3,
+      470.2
+     ],
+     "text": "There are no studies conducted on surgical antimicrobial prophylaxis and surgical site infections at Debre \nBerhan Comprehensive Specialized Hospital (DBCSH). Therefore, this study aimed to assess SSI and surgical \nantimicrobial prophylaxis utilization patterns, appropriateness, and associated factors among patients admitted \nto the surgical ward of DBCSH. Investigating the appropriateness of surgical prophylactic antibiotics use and \nsubsequent occurrence of SSI at the ward level can generate detailed information about the magnitude and com-\nposition of antibiotic consumption and give insight into the rationality of prescribing in the process of patient \ncare. This will help policymakers to make recommendations, monitor, evaluate, and suggest modifications in \nthe level of practice and diagnostic techniques, and practitioner’s prescription habits, so as to make patient care \nreasonable and effective. The generated data and recommendations will be utilized also in the future for the \npromotion of rational antibiotic use in DBCSH.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      468.1,
+      556.1,
+      500.2
+     ],
+     "text": "This study will also be used as a pilot study for national surveillance studies regarding antibiotic utilization and \nresistance which will change the unregulated use of antibiotics for common diseases. Furthermore, the findings \nof this study can be used as a baseline for further studies conducted in this area.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      508.5,
+      556.3,
+      592.2
+     ],
+     "text": "Methods\nStudy area and study period. \nThis study was conducted at DBCSH which is located in Debre Berhan \ntown in Amhara National Regional State, Ethiopia, at a distance of 130 Kilometers from Addis Ababa, and 695 \nKilometers from Bahir Dar the regional capital. DBCSH is a governmental hospital in the town serving the \npopulation of the surrounding area as a referral center. The Hospital has four major wards including Medical, \nSurgical, Pediatrics, and Gynecology and Obstetrics. The hospital has 4 surgeons and the surgical ward unit \nis equipped with around 39 beds and serves an average of 80 people a month. The study was conducted from \nOctober 1st, 2022 to January 31st, 2023.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      601.5,
+      556.2,
+      634.2
+     ],
+     "text": "Study design. \nA 4-month facility-based prospective cross-sectional study design was used to assess surgical \nantimicrobial prophylaxis prescribing pattern, Surgical Site Infection (SSI), and its determinants in the surgical \nward of DBCSH, Northeast Ethiopia.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      643.5,
+      519.8,
+      656.2
+     ],
+     "text": "Source population. \nAll patients admitted to the surgical ward of DBCSH for surgical procedure.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      665.5,
+      556.2,
+      688.2
+     ],
+     "text": "Study population. \nAll patients who were admitted to the surgical ward of DBCSH from 1st October 2022 to \n31st January 2023 for surgical procedures during the study period and those who fulfilled the inclusion criteria.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      697.5,
+      556.3,
+      730.2
+     ],
+     "text": "Eligibility criteria. \nInclusion criteria.  Adult patients of age > 18 years, patients on at least one prophylaxis \nantibiotic, and wounds classified as clean, clean-contaminated, and contaminated are considered as inclusion \ncriteria.\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "3\nVol.:(0123456789)\nScientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\nwww.nature.com/scientificreports/\nExclusion criteria.  Patients who received therapeutic antimicrobials during hospitalization before surgery for \na comorbid condition and those with a history of previous admission for a similar surgical procedure were \nexcluded from the study. Patients with incomplete information were also excluded from the study.\nSample size determination and sampling technique. \nAll patients admitted to the surgical ward of \nDBCSH for the surgical procedure during the study period that fulfilled the inclusion criteria were included. A \ntotal of 357 patients were admitted during the four-month study period in the surgical ward, 86 patients were \nexcluded as they had already dirty wounds, 47 took antibiotics prior to surgery (within 48 h) for other reasons, \n4 patients were excluded as they have repeated admission for surgical cases similar to their previously done \nsurgery and 16 were excluded due to incomplete information. Finally, a total of 204 patients were found to be \neligible for this study and were taken as the final sample size.\nVariables of the study. \nSurgical site infection occurrence is the dependent variable, Patient-related fac-\ntors such as (age, sex, residence), and surgical procedure-related factors such as duration of surgery, Presence of \nconcomitant drugs, Amount of bleeding, co-morbidity, history of previous surgery wound class, and appropri-\nateness of prophylaxis, are the independent variables.\nData collection procedure. \nThe data collection tools for this study were adapted based on American Soci-\nety of Health-System Pharmacists (ASHP) guidelines on SAP for surgery and different literature ­reviewed7,8,11. \nThe data extraction form was utilized to collect data on patient characteristics, diagnosis, types of surgical pro-\ncedure, and SAP received including indication, choice, duration, time of the first dose, and other perceived fac-\ntors associated with SSI. Patient characteristics of socio-demographic information were taken directly through \ninterviewing the patients. The complete chart review was done for all patients until discharge. ASHP guideline, \nUpToDate version 21.6, and specific guidelines from the Ministry of Health of Ethiopia were used for evaluat-\ning the appropriateness of SAP used. Prophylactic surgical antimicrobials were registered as appropriate when \nthe right antimicrobial is utilized to the right indication at the right time, and for the right duration during the \nsurgical procedure as per the above references.\nData processing and analysis. \nThe collected data were entered, coded, and analyzed using SPSS version \n26.0 software. Tables and figures with frequencies and percentages were used to present the results of this study. \nThe bivariate and multivariable logistic regression analysis models were used to find out the determinants of \nthe occurrence of surgical site infection. Variables that have a significant association at p-value < 0.25 in the \nbi-variate analysis were taken to multi-variate logistic regression analysis to include all potential variables. The \nodds ratio and their 95% CI were used to indicate the strength of association between independent and outcome \nvariables. P-values of less than 0.05 were considered statistically significant.\nData quality assurance. \nThe data collection format was pre-tested on 15 individuals and necessary adjust-\nment to the data collection tool was made accordingly. The collected data were checked daily for consistency, \ncorrectness, and completeness. When data failed to be complete it was discarded and alternative data were taken \nfrom the subsequent medical records.\nEthical consideration. \nBefore any attempt to collect data, ethical clearance was obtained from the ethical \nreview board of Debre Berhan University, Asrat Woldeyes Health Sciences Campus, and an official permission \nletter was obtained from the general director of Debre Berhan Comprehensive Specialized Hospital. Informed \nconsent for the study was obtained from each study participant and/or their legal guardian(s) before data col-\nlection and documented in a prepared format. Privacy of the data was also assured and collected anonymously. \nMoreover, all methods in the present study were performed in accordance with the declarations of Helsinki.\nOperational definitions. \nSurgical Antimicrobial Prophylaxis (SAP): Refers to the administration of anti-\nmicrobial agents prior to the beginning of the operation.\nSurgical site infection: is an infection occurring at or near a surgical incision within 30 days of operation \nor after one year in case of an implant and affecting either the incision or the deep tissue in parts of the body \nwhere the surgery took place. This is only confirmed by clinical signs and symptoms of surgical site infections.\nAntimicrobial prophylaxis outcome: is a term used to indicate the presence or absence of surgical site \ninfections.\nAppropriate Surgical Antibiotics Prophylaxis: using the right antimicrobial when only indicated at the right \ntime and for the right duration during the surgical procedures.\nRight antimicrobial: Antimicrobials that are prescribed inexpensive, non-toxic, and limited-spectrum and \nare in accordance with local and national policies and ­guidelines6,7.\nRight duration: Prescribing the shortest antibiotic course (not more than 24 h) that is likely to be effective for \nthe presenting patient’s condition. Be discontinued within 24 h after the end of surgery, to prevent the emergence \nof resistance.\nAppropriate timing of surgical antimicrobial prophylaxis: defined as the administration of antimicrobials in \na range of 30 to 60 min prior to the incision to achieve prophylactic level during surgery and optimize efficacy \nas per the predetermined ability of antimicrobials to be administered to reach peak levels in tissue.\n",
+   "n_chars": 5952,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      550.0,
+      756.5,
+      554.1,
+      766.0
+     ],
+     "text": "3\n"
+    },
+    {
+     "bbox": [
+      531.6,
+      772.6,
+      590.1,
+      782.1
+     ],
+     "text": "Vol.:(0123456789)\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      756.4,
+      376.7,
+      766.2
+     ],
+     "text": "Scientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      12.4,
+      200.6,
+      24.3
+     ],
+     "text": "www.nature.com/scientificreports/\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      47.3,
+      556.2,
+      79.5
+     ],
+     "text": "Exclusion criteria.  Patients who received therapeutic antimicrobials during hospitalization before surgery for \na comorbid condition and those with a history of previous admission for a similar surgical procedure were \nexcluded from the study. Patients with incomplete information were also excluded from the study.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      88.8,
+      556.3,
+      161.5
+     ],
+     "text": "Sample size determination and sampling technique. \nAll patients admitted to the surgical ward of \nDBCSH for the surgical procedure during the study period that fulfilled the inclusion criteria were included. A \ntotal of 357 patients were admitted during the four-month study period in the surgical ward, 86 patients were \nexcluded as they had already dirty wounds, 47 took antibiotics prior to surgery (within 48 h) for other reasons, \n4 patients were excluded as they have repeated admission for surgical cases similar to their previously done \nsurgery and 16 were excluded due to incomplete information. Finally, a total of 204 patients were found to be \neligible for this study and were taken as the final sample size.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      170.8,
+      556.2,
+      213.5
+     ],
+     "text": "Variables of the study. \nSurgical site infection occurrence is the dependent variable, Patient-related fac-\ntors such as (age, sex, residence), and surgical procedure-related factors such as duration of surgery, Presence of \nconcomitant drugs, Amount of bleeding, co-morbidity, history of previous surgery wound class, and appropri-\nateness of prophylaxis, are the independent variables.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      222.8,
+      556.3,
+      325.5
+     ],
+     "text": "Data collection procedure. \nThe data collection tools for this study were adapted based on American Soci-\nety of Health-System Pharmacists (ASHP) guidelines on SAP for surgery and different literature ­reviewed7,8,11. \nThe data extraction form was utilized to collect data on patient characteristics, diagnosis, types of surgical pro-\ncedure, and SAP received including indication, choice, duration, time of the first dose, and other perceived fac-\ntors associated with SSI. Patient characteristics of socio-demographic information were taken directly through \ninterviewing the patients. The complete chart review was done for all patients until discharge. ASHP guideline, \nUpToDate version 21.6, and specific guidelines from the Ministry of Health of Ethiopia were used for evaluat-\ning the appropriateness of SAP used. Prophylactic surgical antimicrobials were registered as appropriate when \nthe right antimicrobial is utilized to the right indication at the right time, and for the right duration during the \nsurgical procedure as per the above references.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      334.8,
+      556.2,
+      407.5
+     ],
+     "text": "Data processing and analysis. \nThe collected data were entered, coded, and analyzed using SPSS version \n26.0 software. Tables and figures with frequencies and percentages were used to present the results of this study. \nThe bivariate and multivariable logistic regression analysis models were used to find out the determinants of \nthe occurrence of surgical site infection. Variables that have a significant association at p-value < 0.25 in the \nbi-variate analysis were taken to multi-variate logistic regression analysis to include all potential variables. The \nodds ratio and their 95% CI were used to indicate the strength of association between independent and outcome \nvariables. P-values of less than 0.05 were considered statistically significant.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      416.8,
+      556.2,
+      459.5
+     ],
+     "text": "Data quality assurance. \nThe data collection format was pre-tested on 15 individuals and necessary adjust-\nment to the data collection tool was made accordingly. The collected data were checked daily for consistency, \ncorrectness, and completeness. When data failed to be complete it was discarded and alternative data were taken \nfrom the subsequent medical records.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      468.8,
+      556.3,
+      531.5
+     ],
+     "text": "Ethical consideration. \nBefore any attempt to collect data, ethical clearance was obtained from the ethical \nreview board of Debre Berhan University, Asrat Woldeyes Health Sciences Campus, and an official permission \nletter was obtained from the general director of Debre Berhan Comprehensive Specialized Hospital. Informed \nconsent for the study was obtained from each study participant and/or their legal guardian(s) before data col-\nlection and documented in a prepared format. Privacy of the data was also assured and collected anonymously. \nMoreover, all methods in the present study were performed in accordance with the declarations of Helsinki.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      540.8,
+      554.2,
+      563.5
+     ],
+     "text": "Operational definitions. \nSurgical Antimicrobial Prophylaxis (SAP): Refers to the administration of anti-\nmicrobial agents prior to the beginning of the operation.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      561.4,
+      556.3,
+      593.5
+     ],
+     "text": "Surgical site infection: is an infection occurring at or near a surgical incision within 30 days of operation \nor after one year in case of an implant and affecting either the incision or the deep tissue in parts of the body \nwhere the surgery took place. This is only confirmed by clinical signs and symptoms of surgical site infections.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      591.4,
+      556.2,
+      613.5
+     ],
+     "text": "Antimicrobial prophylaxis outcome: is a term used to indicate the presence or absence of surgical site \ninfections.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      611.4,
+      556.2,
+      633.5
+     ],
+     "text": "Appropriate Surgical Antibiotics Prophylaxis: using the right antimicrobial when only indicated at the right \ntime and for the right duration during the surgical procedures.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      631.4,
+      556.3,
+      653.5
+     ],
+     "text": "Right antimicrobial: Antimicrobials that are prescribed inexpensive, non-toxic, and limited-spectrum and \nare in accordance with local and national policies and ­guidelines6,7.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      651.4,
+      556.2,
+      683.5
+     ],
+     "text": "Right duration: Prescribing the shortest antibiotic course (not more than 24 h) that is likely to be effective for \nthe presenting patient’s condition. Be discontinued within 24 h after the end of surgery, to prevent the emergence \nof resistance.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      681.4,
+      556.2,
+      713.5
+     ],
+     "text": "Appropriate timing of surgical antimicrobial prophylaxis: defined as the administration of antimicrobials in \na range of 30 to 60 min prior to the incision to achieve prophylactic level during surgery and optimize efficacy \nas per the predetermined ability of antimicrobials to be administered to reach peak levels in tissue.\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "4\nVol:.(1234567890)\nScientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\nwww.nature.com/scientificreports/\nResult\nSocio‑demographic related factor. \nIn this study, a total of 204 patients were assessed for surgical anti-\nbiotic prophylaxis use, appropriateness, and outcome. As depicted in Table 1, nearly three-fourths (73.5%) of \npatients were males. The minimum age of the study participants was 18 years while the maxim was 77 years old \nand their mean age was 34.13 ± 12.8. About 54.3% of the study participants were residents of rural areas.\nRegarding the clinical characteristics of patients, only 45 (22.1%) of patients have comorbid conditions, and \nthe most common comorbid condition identified was hypertension 18 (40%) followed by peptic ulcer disease 10 \n(22.2%). The majority (79.9%) of patients included in the study don’t have a history of regular use of social drugs \nlike alcohol, cigarettes, coffee, and khat. The clean contaminated wound was the most commonly encountered \nwound class which accounted for 130 (63.7%) of all cases. More than two-thirds, 157 (77.1%) of the patients \nunderwent emergency surgery while the rest were elective surgery. The most common type of surgery encoun-\ntered in this study was gastrointestinal surgery (146, 71.6%) while the least type was head and neck surgery (2, \n1%). Only 25 (12.5%) of patients need a blood transfusion to undergo the surgical procedure (Table 1).\nUtilization pattern and appropriateness of SAP. \nThe patient included in the current study was given \nSAP with one or two antibiotics for the prevention of SSI. Ceftriaxone (70.5%) followed by the combination \nof ceftriaxone with metronidazole (21.90%) was the predominantly used prophylactic antibiotic. On the other \nhand, ampicillin was the least used prophylactic antibiotic (1.9%) (Fig. 1).\nIn this study, 159 (77.9%) patients were exposed to inappropriate use of surgical antimicrobial prophylaxis \nas per different ­guidelines6,7. This inappropriateness was related at least to inappropriate time of administration, \ndrug selection, duration of prophylaxis, and or a combination of these problems. The highest proportion (62.2%) \nof patients were exposed to inappropriately selected antibiotics followed by prolonged duration of prophylaxis \n(26.8%) (Fig. 2).\nTable 1.   The sociodemographic and clinical characteristics of patients admitted to the surgical ward of \nDBCSH from October 1st, 2022 to January 31st, 2023. Other surgery includes: appendectomy, Graft, and \nBreast surgery. *indicate Deep Vein Thrombosis, and Psychosis. DBCSH Debre Berhan Comprehensive \nSpecialized Hospital, PUD Peptic Ulcer Disease, HIV Human Immunodeficiency Virus.\nCharacteristic\nFrequency\nPercent (%)\nSex\nMale\n150\n73.5\nFemale\n54\n26.5\nAge in years\n18–40\n154\n75.5\n > 40\n50\n24.5\nSocial drug user\nYes\n41\n20.1\nNo\n163\n79.9\nComorbidity\nYes\n45\n22.1\nNo\n159\n77.9\nType of comorbidity\nHypertension\n18\n40\nPUD\n10\n22.2\nHIV\n6\n13.3\nDiabetes Mellites\n6\n13.3\nOthers\n5\n11.1\nTypes of Surgery\nEmergency\n157\n77\nElective\n47\n23\nWound class\nClean\n49\n24\nClean contaminated\n130\n63.7\nContaminated\n25\n12.3\nDuration of surgery\n ≤ 1 h\n88\n43.1\n > 1 h\n116\n56.9\nTypes of surgical procedures conducted\nGastrointestinal surgery\n146\n71.6\nOrthopedic surgery\n21\n10.3\nUrological surgery\n6\n2.9\nHernia repair surgery\n19\n9.3\nHead and neck surgery\n2\n1\nOther surgery\n10\n4.9\nBlood transfusion\nYes\n25\n12.3\nNo\n179\n87.7\nTotal\n204\n",
+   "n_chars": 3433,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      550.0,
+      756.5,
+      554.1,
+      766.0
+     ],
+     "text": "4\n"
+    },
+    {
+     "bbox": [
+      4.8,
+      772.6,
+      63.3,
+      782.1
+     ],
+     "text": "Vol:.(1234567890)\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      756.4,
+      376.7,
+      766.2
+     ],
+     "text": "Scientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      12.3,
+      200.6,
+      24.3
+     ],
+     "text": "www.nature.com/scientificreports/\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      48.2,
+      556.2,
+      101.9
+     ],
+     "text": "Result\nSocio‑demographic related factor. \nIn this study, a total of 204 patients were assessed for surgical anti-\nbiotic prophylaxis use, appropriateness, and outcome. As depicted in Table 1, nearly three-fourths (73.5%) of \npatients were males. The minimum age of the study participants was 18 years while the maxim was 77 years old \nand their mean age was 34.13 ± 12.8. About 54.3% of the study participants were residents of rural areas.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      99.8,
+      556.3,
+      181.9
+     ],
+     "text": "Regarding the clinical characteristics of patients, only 45 (22.1%) of patients have comorbid conditions, and \nthe most common comorbid condition identified was hypertension 18 (40%) followed by peptic ulcer disease 10 \n(22.2%). The majority (79.9%) of patients included in the study don’t have a history of regular use of social drugs \nlike alcohol, cigarettes, coffee, and khat. The clean contaminated wound was the most commonly encountered \nwound class which accounted for 130 (63.7%) of all cases. More than two-thirds, 157 (77.1%) of the patients \nunderwent emergency surgery while the rest were elective surgery. The most common type of surgery encoun-\ntered in this study was gastrointestinal surgery (146, 71.6%) while the least type was head and neck surgery (2, \n1%). Only 25 (12.5%) of patients need a blood transfusion to undergo the surgical procedure (Table 1).\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      191.2,
+      556.2,
+      233.9
+     ],
+     "text": "Utilization pattern and appropriateness of SAP. \nThe patient included in the current study was given \nSAP with one or two antibiotics for the prevention of SSI. Ceftriaxone (70.5%) followed by the combination \nof ceftriaxone with metronidazole (21.90%) was the predominantly used prophylactic antibiotic. On the other \nhand, ampicillin was the least used prophylactic antibiotic (1.9%) (Fig. 1).\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      231.8,
+      556.3,
+      283.9
+     ],
+     "text": "In this study, 159 (77.9%) patients were exposed to inappropriate use of surgical antimicrobial prophylaxis \nas per different ­guidelines6,7. This inappropriateness was related at least to inappropriate time of administration, \ndrug selection, duration of prophylaxis, and or a combination of these problems. The highest proportion (62.2%) \nof patients were exposed to inappropriately selected antibiotics followed by prolonged duration of prophylaxis \n(26.8%) (Fig. 2).\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      688.2,
+      532.9,
+      730.6
+     ],
+     "text": "Table 1.   The sociodemographic and clinical characteristics of patients admitted to the surgical ward of \nDBCSH from October 1st, 2022 to January 31st, 2023. Other surgery includes: appendectomy, Graft, and \nBreast surgery. *indicate Deep Vein Thrombosis, and Psychosis. DBCSH Debre Berhan Comprehensive \nSpecialized Hospital, PUD Peptic Ulcer Disease, HIV Human Immunodeficiency Virus.\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      329.9,
+      432.1,
+      339.6
+     ],
+     "text": "Characteristic\nFrequency\nPercent (%)\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      347.7,
+      168.7,
+      357.1
+     ],
+     "text": "Sex\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      341.8,
+      410.0,
+      351.3
+     ],
+     "text": "Male\n150\n73.5\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      353.5,
+      410.0,
+      363.0
+     ],
+     "text": "Female\n54\n26.5\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      371.1,
+      193.2,
+      380.5
+     ],
+     "text": "Age in years\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      365.2,
+      410.0,
+      374.7
+     ],
+     "text": "18–40\n154\n75.5\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      376.9,
+      410.0,
+      386.3
+     ],
+     "text": " > 40\n50\n24.5\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      394.4,
+      204.2,
+      403.9
+     ],
+     "text": "Social drug user\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      388.6,
+      410.0,
+      398.0
+     ],
+     "text": "Yes\n41\n20.1\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      400.3,
+      410.0,
+      409.7
+     ],
+     "text": "No\n163\n79.9\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      417.8,
+      195.3,
+      427.3
+     ],
+     "text": "Comorbidity\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      412.0,
+      410.0,
+      421.4
+     ],
+     "text": "Yes\n45\n22.1\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      423.7,
+      410.0,
+      433.1
+     ],
+     "text": "No\n159\n77.9\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      458.7,
+      215.9,
+      468.2
+     ],
+     "text": "Type of comorbidity\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      435.4,
+      405.0,
+      444.8
+     ],
+     "text": "Hypertension\n18\n40\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      447.0,
+      410.0,
+      456.5
+     ],
+     "text": "PUD\n10\n22.2\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      458.7,
+      410.0,
+      468.2
+     ],
+     "text": "HIV\n6\n13.3\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      470.4,
+      410.0,
+      479.9
+     ],
+     "text": "Diabetes Mellites\n6\n13.3\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      482.1,
+      410.0,
+      491.6
+     ],
+     "text": "Others\n5\n11.1\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      499.7,
+      205.7,
+      509.1
+     ],
+     "text": "Types of Surgery\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      493.8,
+      405.0,
+      503.2
+     ],
+     "text": "Emergency\n157\n77\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      505.5,
+      405.0,
+      514.9
+     ],
+     "text": "Elective\n47\n23\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      528.9,
+      194.3,
+      538.3
+     ],
+     "text": "Wound class\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      517.2,
+      405.0,
+      526.6
+     ],
+     "text": "Clean\n49\n24\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      528.9,
+      410.0,
+      538.3
+     ],
+     "text": "Clean contaminated\n130\n63.7\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      540.6,
+      410.0,
+      550.0
+     ],
+     "text": "Contaminated\n25\n12.3\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      558.1,
+      214.5,
+      567.5
+     ],
+     "text": "Duration of surgery\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      552.3,
+      410.0,
+      561.7
+     ],
+     "text": " ≤ 1 h\n88\n43.1\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      563.9,
+      410.0,
+      573.4
+     ],
+     "text": " > 1 h\n116\n56.9\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      604.9,
+      269.5,
+      614.3
+     ],
+     "text": "Types of surgical procedures conducted\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      575.6,
+      410.0,
+      585.1
+     ],
+     "text": "Gastrointestinal surgery\n146\n71.6\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      587.3,
+      410.0,
+      596.8
+     ],
+     "text": "Orthopedic surgery\n21\n10.3\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      599.0,
+      409.8,
+      608.5
+     ],
+     "text": "Urological surgery\n6\n2.9\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      610.7,
+      409.8,
+      620.1
+     ],
+     "text": "Hernia repair surgery\n19\n9.3\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      622.4,
+      404.9,
+      631.8
+     ],
+     "text": "Head and neck surgery\n2\n1\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      634.1,
+      409.8,
+      643.5
+     ],
+     "text": "Other surgery\n10\n4.9\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      651.6,
+      209.1,
+      661.1
+     ],
+     "text": "Blood transfusion\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      645.8,
+      410.0,
+      655.2
+     ],
+     "text": "Yes\n25\n12.3\n"
+    },
+    {
+     "bbox": [
+      281.9,
+      657.5,
+      410.0,
+      666.9
+     ],
+     "text": "No\n179\n87.7\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      669.1,
+      292.0,
+      678.6
+     ],
+     "text": "Total\n204\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "5\nVol.:(0123456789)\nScientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\nwww.nature.com/scientificreports/\nOccurrence of SSI. \nIn our study 126 (61.8%) patients have developed SSI, of which 73 (58%) were super-\nficial incisional SSI and the rest were deep incisional SSI. The infection rate was higher among patients with a \ncontaminated (80%) than the clean (30.6%), and clean-contaminated wound (70%) class of wounds. There was \nalso a relatively higher occurrence of SSI in patients with comorbidity (73.3%) than those with no comorbid \nconditions (58.5%). The majority (93.6%) of patients developed SSI before they were discharged from the hos-\npital (Table 2).\n70.50%\n21.90%\n5.70% 1.90%\nCeftriaxone \nCeftriaxone with Metronidazole\nMetronidazole\nAmpicillin\nCommonly utilized prophylactic antibiotics  \nFigure 1.   Pattern of Prophylactic Antibiotic Use in patients admitted to the surgical ward of DBCSH from \nOctober 1st, 2022 to January 31st, 2023.\n37.80%\n76.80%\n73.20%\n22%\n62.20%\n23.20%\n26.80%\n78%\n0.00%\n10.00%\n20.00%\n30.00%\n40.00%\n50.00%\n60.00%\n70.00%\n80.00%\n90.00%\nIndication \nTiming of adminstration\nDuration of prophylaxis All the indication, timing, \nand duration\nAppropriate\nInappropriate\nAppropriateness of surgical antimicrobial prophylaxis use\nFigure 2.   Appropriateness of surgical antibiotic prophylaxis utilization in patients admitted to the surgical ward \nof DBCSH from October 1st, 2022 to January 31st, 2023.\nTable 2.   The occurrence of SSI among admitted patients who underwent a surgical procedure at the surgical \nward of DBCSH from DBCSH from October 1st, 2022 to January 31st, 2023.\nVariables\nFrequency\nPercent (%)\nOccurrence of SSI\n Present\n126\n61.8\n Absent\n78\n38.2\nTime of occurrence of SSI\n Before discharge\n118\n93.6\n After discharge\n8\n6.4\nType of SSI\n Superficial incisional\n73\n58\n Deep incisional\n53\n42\n",
+   "n_chars": 1875,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      550.0,
+      756.5,
+      554.1,
+      766.0
+     ],
+     "text": "5\n"
+    },
+    {
+     "bbox": [
+      531.6,
+      772.6,
+      590.1,
+      782.1
+     ],
+     "text": "Vol.:(0123456789)\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      756.4,
+      376.7,
+      766.2
+     ],
+     "text": "Scientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      12.4,
+      200.6,
+      24.3
+     ],
+     "text": "www.nature.com/scientificreports/\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      473.5,
+      556.2,
+      536.3
+     ],
+     "text": "Occurrence of SSI. \nIn our study 126 (61.8%) patients have developed SSI, of which 73 (58%) were super-\nficial incisional SSI and the rest were deep incisional SSI. The infection rate was higher among patients with a \ncontaminated (80%) than the clean (30.6%), and clean-contaminated wound (70%) class of wounds. There was \nalso a relatively higher occurrence of SSI in patients with comorbidity (73.3%) than those with no comorbid \nconditions (58.5%). The majority (93.6%) of patients developed SSI before they were discharged from the hos-\npital (Table 2).\n"
+    },
+    {
+     "bbox": [
+      250.2,
+      178.2,
+      277.4,
+      189.6
+     ],
+     "text": "70.50%\n"
+    },
+    {
+     "bbox": [
+      162.1,
+      131.6,
+      189.2,
+      143.0
+     ],
+     "text": "21.90%\n"
+    },
+    {
+     "bbox": [
+      184.6,
+      73.4,
+      233.4,
+      87.5
+     ],
+     "text": "5.70% 1.90%\n"
+    },
+    {
+     "bbox": [
+      346.1,
+      110.2,
+      394.1,
+      122.3
+     ],
+     "text": "Ceftriaxone \n"
+    },
+    {
+     "bbox": [
+      346.1,
+      135.0,
+      468.4,
+      147.2
+     ],
+     "text": "Ceftriaxone with Metronidazole\n"
+    },
+    {
+     "bbox": [
+      346.1,
+      159.8,
+      402.0,
+      172.0
+     ],
+     "text": "Metronidazole\n"
+    },
+    {
+     "bbox": [
+      346.1,
+      184.6,
+      383.7,
+      196.8
+     ],
+     "text": "Ampicillin\n"
+    },
+    {
+     "bbox": [
+      166.6,
+      48.1,
+      427.9,
+      65.9
+     ],
+     "text": "Commonly utilized prophylactic antibiotics  \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      229.6,
+      536.0,
+      252.1
+     ],
+     "text": "Figure 1.   Pattern of Prophylactic Antibiotic Use in patients admitted to the surgical ward of DBCSH from \nOctober 1st, 2022 to January 31st, 2023.\n"
+    },
+    {
+     "bbox": [
+      197.6,
+      336.9,
+      218.9,
+      345.5
+     ],
+     "text": "37.80%\n"
+    },
+    {
+     "bbox": [
+      268.8,
+      299.2,
+      361.4,
+      311.2
+     ],
+     "text": "76.80%\n73.20%\n"
+    },
+    {
+     "bbox": [
+      415.7,
+      352.2,
+      428.2,
+      360.8
+     ],
+     "text": "22%\n"
+    },
+    {
+     "bbox": [
+      217.9,
+      313.3,
+      239.2,
+      321.9
+     ],
+     "text": "62.20%\n"
+    },
+    {
+     "bbox": [
+      289.1,
+      347.6,
+      381.7,
+      359.6
+     ],
+     "text": "23.20%\n26.80%\n"
+    },
+    {
+     "bbox": [
+      436.0,
+      298.0,
+      448.5,
+      306.6
+     ],
+     "text": "78%\n"
+    },
+    {
+     "bbox": [
+      159.4,
+      381.6,
+      177.2,
+      390.2
+     ],
+     "text": "0.00%\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      371.9,
+      177.2,
+      380.5
+     ],
+     "text": "10.00%\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      362.3,
+      177.2,
+      370.8
+     ],
+     "text": "20.00%\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      352.6,
+      177.2,
+      361.1
+     ],
+     "text": "30.00%\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      342.9,
+      177.2,
+      351.5
+     ],
+     "text": "40.00%\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      333.2,
+      177.2,
+      341.8
+     ],
+     "text": "50.00%\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      323.5,
+      177.2,
+      332.1
+     ],
+     "text": "60.00%\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      313.9,
+      177.2,
+      322.4
+     ],
+     "text": "70.00%\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      304.2,
+      177.2,
+      312.7
+     ],
+     "text": "80.00%\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      294.5,
+      177.2,
+      303.1
+     ],
+     "text": "90.00%\n"
+    },
+    {
+     "bbox": [
+      204.1,
+      388.3,
+      466.9,
+      396.8
+     ],
+     "text": "Indication \nTiming of adminstration\nDuration of prophylaxis All the indication, timing, \n"
+    },
+    {
+     "bbox": [
+      413.8,
+      395.5,
+      448.7,
+      404.1
+     ],
+     "text": "and duration\n"
+    },
+    {
+     "bbox": [
+      281.1,
+      407.4,
+      365.8,
+      415.9
+     ],
+     "text": "Appropriate\nInappropriate\n"
+    },
+    {
+     "bbox": [
+      190.6,
+      274.0,
+      437.3,
+      287.3
+     ],
+     "text": "Appropriateness of surgical antimicrobial prophylaxis use\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      424.6,
+      555.9,
+      447.0
+     ],
+     "text": "Figure 2.   Appropriateness of surgical antibiotic prophylaxis utilization in patients admitted to the surgical ward \nof DBCSH from October 1st, 2022 to January 31st, 2023.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      707.5,
+      548.4,
+      729.9
+     ],
+     "text": "Table 2.   The occurrence of SSI among admitted patients who underwent a surgical procedure at the surgical \nward of DBCSH from DBCSH from October 1st, 2022 to January 31st, 2023.\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      583.2,
+      317.5,
+      592.9
+     ],
+     "text": "Variables\nFrequency\nPercent (%)\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      595.1,
+      209.5,
+      604.6
+     ],
+     "text": "Occurrence of SSI\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      606.8,
+      295.4,
+      616.3
+     ],
+     "text": " Present\n126\n61.8\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      618.5,
+      295.4,
+      628.0
+     ],
+     "text": " Absent\n78\n38.2\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      630.2,
+      231.4,
+      639.6
+     ],
+     "text": "Time of occurrence of SSI\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      641.9,
+      295.4,
+      651.3
+     ],
+     "text": " Before discharge\n118\n93.6\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      653.6,
+      292.0,
+      663.0
+     ],
+     "text": " After discharge\n8\n6.4\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      665.3,
+      190.4,
+      674.7
+     ],
+     "text": "Type of SSI\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      677.0,
+      290.4,
+      686.4
+     ],
+     "text": " Superficial incisional\n73\n58\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      688.7,
+      290.4,
+      698.1
+     ],
+     "text": " Deep incisional\n53\n42\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "6\nVol:.(1234567890)\nScientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\nwww.nature.com/scientificreports/\nDeterminants of surgical site infection occurrence. \nThere are many factors that determine the occur-\nrence of surgical site infection. In this study, there was a higher rate of surgical site inection in patients where \nsurgical procedure lasts for longer than an hour than those whose procedure was completed in less than an hour, \n(AOR = 3.39; 95% CI: 1.24–9.30). In addition, surgical site infection was higher in patients who were exposed to \ninappropriately used surgical antimicrobial prophylaxis (AOR = 6.67; 95% CI: 1.05–42.49) (Table 3).\nDiscussion\nDetermination of surgical antibiotic prophylaxis outcome is essential for the reduction of morbidity; unnecessary \nhospital stays and related costs by revealing the level of evidence required to avoid inappropriate use of drugs \nduring the management of a patient undergoing surgery with ­prophylaxis18. Hence, this study was carried out \nto assess surgical antimicrobial prophylaxis outcomes and associated factors among patients admitted to the \nsurgical ward of DBCSH, which was a hospital located in the northeast of Ethiopia.\nThe current study showed that 61.8% of patients developed SSI. This finding was higher than the finding of \nprevious studies conducted in different Hospitals in Ethiopia that reported 10.2–23.4% of patients developed \n­SSI1,9,10,13,15,16,18,19. The higher occurrence of SSI in our study might be due to the lack of adequate infection con-\ntrol systems, and inappropriate use of antibiotics like ceftriaxone in surgical antimicrobial prophylaxis which \nis not indicated due to its lower activity against bacteria commonly encountered in elective surgery including \ngram-positive cocci which are the common organisms causing SSIs or it may be due to differences in the type of \nsurgical procedures, professional differences, and operation environmental and patient-related factors including \nthe presence of immune compromising comorbidities like HIV and diabetes. Moreover, it might be also due \nto the absence of recommended prophylactic antibiotics use due to the lack of a culture and sensitivity study. \nThis means the pathogens responsible for surgical site infections may not have been covered by the prophylactic \nantibiotics or they may have developed resistance to these agents.\nNonetheless, the prevalence was lower than in a study conducted at Ayder Teaching and Referral ­Hospital14, \nwhere a 75% prevalence of SSI is reported. This could be because the previous study has been done on patients \nwho are clinically suspected to be having SSI.\nIn this study, almost all of the SSIs identified (93.6%) have occurred before discharge from the hospital. This \nfinding is in line with a prospective study conducted at Wachemo University Nigist Eleni Mohammed Memorial \nHospital which reported that 90.47% of patients developed SSIs in the ­hospital20. This similarity in the timing \nof occurrence of SSI could be due to the similarity in the level of care provided to patients during their hospital \nstay. It might be also due to the high prevalence of undetected pathogens causing an infection in both settings \nand the absence of an antimicrobial stewardship program that enables the prudent use of antimicrobials.\nIn this study, the majority of surgical procedures underwent were clean-contaminated surgeries (63.7%) \nwhich is in line with a study conducted at Borumeda Hospital where a higher number of patients (48%) have a \nclean-contaminated wound. However, it opposed the finding of other ­studies2,8,11,20 conducted at different times \nin different areas where the majority of procedures (38.1%, 40.5%, 54%, and 56.5%) respectively were clean.\nRegarding the type of SSI identified in this study, the majority (58%) of them were superficial incisional while \nthe rest 42% were deep incisional infections, which is similar to the finding of other ­studies2,15,19. The highest \nprevalence of superficial incisional infections might be due to the higher prevalence of pathogens responsible \nTable 3.   Determinants of surgical site infection occurrence among patients admitted to the surgical ward of \nDBCSH from October 1st, 2022 to January 31st, 2023. *Statistically Significant: P ≤ 0.05. Others represent a \ncombination of clean-contaminated and contaminated wounds. AOR adjusted odds ratio, COR crude odds \nratio, CI confidence interval.\nVariables\nSurgical site infection\nOdds ratio\nYes (%)\nNo (%)\n126 (61.8)\n78 (38.2)\nCOR (95% CI)\nAOR (95% CI)\nPresence of concomitant drugs\nYes\n109\n47\n2.99 (1.14–7.87)\n2.32 (0.62–8.63)\nNo\n17\n31\nPrevious surgery\nYes\n23\n29\n4.30 (0.91–20.35)\n4.18 (0.71–24.50)\nNo\n103\n49\nWound class\nClean\n15\n34\n2.18 (0.86–5.29)\n1.07 (0.32–3.53)\nOthers\n111\n44\nAmount of bleeding\n ≤ 100 ml\n69\n59\n2.57 (1.07–6.11)\n1.69 (0.54–5.31)\n > 100 ml\n57\n19\nProphylaxis antibiotics used\nAppropriate\n11\n34\n9.07 (1.99–41.21)\n6.67 (1.05–42.49) *\nInappropriate\n115\n44\nDuration of surgery\n ≤ 1 h\n35\n53\n5.42 (2.30–12.77)\n3.39 (1.24–9.30) *\n > 1 h\n91\n25\nDuration of hospitalization\n ≤ 5 days\n31\n39\n3.06 (1.32–7.08)\n2.12 (0.71–6.33)\n > 5 days\n95\n39\n",
+   "n_chars": 5191,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      550.0,
+      756.5,
+      554.1,
+      766.0
+     ],
+     "text": "6\n"
+    },
+    {
+     "bbox": [
+      4.8,
+      772.6,
+      63.3,
+      782.1
+     ],
+     "text": "Vol:.(1234567890)\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      756.4,
+      376.7,
+      766.2
+     ],
+     "text": "Scientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      12.3,
+      200.6,
+      24.3
+     ],
+     "text": "www.nature.com/scientificreports/\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      48.4,
+      556.3,
+      101.2
+     ],
+     "text": "Determinants of surgical site infection occurrence. \nThere are many factors that determine the occur-\nrence of surgical site infection. In this study, there was a higher rate of surgical site inection in patients where \nsurgical procedure lasts for longer than an hour than those whose procedure was completed in less than an hour, \n(AOR = 3.39; 95% CI: 1.24–9.30). In addition, surgical site infection was higher in patients who were exposed to \ninappropriately used surgical antimicrobial prophylaxis (AOR = 6.67; 95% CI: 1.05–42.49) (Table 3).\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      109.5,
+      556.3,
+      173.2
+     ],
+     "text": "Discussion\nDetermination of surgical antibiotic prophylaxis outcome is essential for the reduction of morbidity; unnecessary \nhospital stays and related costs by revealing the level of evidence required to avoid inappropriate use of drugs \nduring the management of a patient undergoing surgery with ­prophylaxis18. Hence, this study was carried out \nto assess surgical antimicrobial prophylaxis outcomes and associated factors among patients admitted to the \nsurgical ward of DBCSH, which was a hospital located in the northeast of Ethiopia.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      171.0,
+      556.3,
+      283.2
+     ],
+     "text": "The current study showed that 61.8% of patients developed SSI. This finding was higher than the finding of \nprevious studies conducted in different Hospitals in Ethiopia that reported 10.2–23.4% of patients developed \n­SSI1,9,10,13,15,16,18,19. The higher occurrence of SSI in our study might be due to the lack of adequate infection con-\ntrol systems, and inappropriate use of antibiotics like ceftriaxone in surgical antimicrobial prophylaxis which \nis not indicated due to its lower activity against bacteria commonly encountered in elective surgery including \ngram-positive cocci which are the common organisms causing SSIs or it may be due to differences in the type of \nsurgical procedures, professional differences, and operation environmental and patient-related factors including \nthe presence of immune compromising comorbidities like HIV and diabetes. Moreover, it might be also due \nto the absence of recommended prophylactic antibiotics use due to the lack of a culture and sensitivity study. \nThis means the pathogens responsible for surgical site infections may not have been covered by the prophylactic \nantibiotics or they may have developed resistance to these agents.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      281.0,
+      556.2,
+      313.2
+     ],
+     "text": "Nonetheless, the prevalence was lower than in a study conducted at Ayder Teaching and Referral ­Hospital14, \nwhere a 75% prevalence of SSI is reported. This could be because the previous study has been done on patients \nwho are clinically suspected to be having SSI.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      311.0,
+      556.3,
+      373.2
+     ],
+     "text": "In this study, almost all of the SSIs identified (93.6%) have occurred before discharge from the hospital. This \nfinding is in line with a prospective study conducted at Wachemo University Nigist Eleni Mohammed Memorial \nHospital which reported that 90.47% of patients developed SSIs in the ­hospital20. This similarity in the timing \nof occurrence of SSI could be due to the similarity in the level of care provided to patients during their hospital \nstay. It might be also due to the high prevalence of undetected pathogens causing an infection in both settings \nand the absence of an antimicrobial stewardship program that enables the prudent use of antimicrobials.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      371.0,
+      556.3,
+      413.2
+     ],
+     "text": "In this study, the majority of surgical procedures underwent were clean-contaminated surgeries (63.7%) \nwhich is in line with a study conducted at Borumeda Hospital where a higher number of patients (48%) have a \nclean-contaminated wound. However, it opposed the finding of other ­studies2,8,11,20 conducted at different times \nin different areas where the majority of procedures (38.1%, 40.5%, 54%, and 56.5%) respectively were clean.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      411.0,
+      556.2,
+      443.2
+     ],
+     "text": "Regarding the type of SSI identified in this study, the majority (58%) of them were superficial incisional while \nthe rest 42% were deep incisional infections, which is similar to the finding of other ­studies2,15,19. The highest \nprevalence of superficial incisional infections might be due to the higher prevalence of pathogens responsible \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      688.0,
+      546.0,
+      730.4
+     ],
+     "text": "Table 3.   Determinants of surgical site infection occurrence among patients admitted to the surgical ward of \nDBCSH from October 1st, 2022 to January 31st, 2023. *Statistically Significant: P ≤ 0.05. Others represent a \ncombination of clean-contaminated and contaminated wounds. AOR adjusted odds ratio, COR crude odds \nratio, CI confidence interval.\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      505.3,
+      186.2,
+      515.0
+     ],
+     "text": "Variables\n"
+    },
+    {
+     "bbox": [
+      305.2,
+      481.9,
+      368.7,
+      491.6
+     ],
+     "text": "Surgical site infection\n"
+    },
+    {
+     "bbox": [
+      305.2,
+      493.6,
+      410.1,
+      503.3
+     ],
+     "text": "Odds ratio\nYes (%)\nNo (%)\n"
+    },
+    {
+     "bbox": [
+      305.2,
+      505.3,
+      478.7,
+      515.0
+     ],
+     "text": "126 (61.8)\n78 (38.2)\nCOR (95% CI)\nAOR (95% CI)\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      523.1,
+      245.2,
+      532.5
+     ],
+     "text": "Presence of concomitant drugs\n"
+    },
+    {
+     "bbox": [
+      257.6,
+      517.2,
+      481.4,
+      538.3
+     ],
+     "text": "Yes\n109\n47\n2.99 (1.14–7.87)\n2.32 (0.62–8.63)\nNo\n17\n31\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      546.4,
+      205.9,
+      555.9
+     ],
+     "text": "Previous surgery\n"
+    },
+    {
+     "bbox": [
+      257.6,
+      540.6,
+      484.8,
+      561.7
+     ],
+     "text": "Yes\n23\n29\n4.30 (0.91–20.35)\n4.18 (0.71–24.50)\nNo\n103\n49\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      569.8,
+      194.3,
+      579.3
+     ],
+     "text": "Wound class\n"
+    },
+    {
+     "bbox": [
+      257.6,
+      564.0,
+      481.4,
+      585.1
+     ],
+     "text": "Clean\n15\n34\n2.18 (0.86–5.29)\n1.07 (0.32–3.53)\nOthers\n111\n44\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      593.2,
+      215.2,
+      602.6
+     ],
+     "text": "Amount of bleeding\n"
+    },
+    {
+     "bbox": [
+      257.6,
+      587.4,
+      481.4,
+      608.5
+     ],
+     "text": " ≤ 100 ml\n69\n59\n2.57 (1.07–6.11)\n1.69 (0.54–5.31)\n > 100 ml\n57\n19\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      616.6,
+      237.3,
+      626.0
+     ],
+     "text": "Prophylaxis antibiotics used\n"
+    },
+    {
+     "bbox": [
+      257.6,
+      610.7,
+      489.2,
+      631.9
+     ],
+     "text": "Appropriate\n11\n34\n9.07 (1.99–41.21)\n6.67 (1.05–42.49) *\nInappropriate\n115\n44\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      640.0,
+      214.5,
+      649.4
+     ],
+     "text": "Duration of surgery\n"
+    },
+    {
+     "bbox": [
+      257.5,
+      634.1,
+      485.8,
+      655.2
+     ],
+     "text": " ≤ 1 h\n35\n53\n5.42 (2.30–12.77)\n3.39 (1.24–9.30) *\n > 1 h\n91\n25\n"
+    },
+    {
+     "bbox": [
+      159.0,
+      663.3,
+      234.9,
+      672.8
+     ],
+     "text": "Duration of hospitalization\n"
+    },
+    {
+     "bbox": [
+      257.5,
+      657.5,
+      481.4,
+      678.6
+     ],
+     "text": " ≤ 5 days\n31\n39\n3.06 (1.32–7.08)\n2.12 (0.71–6.33)\n > 5 days\n95\n39\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "7\nVol.:(0123456789)\nScientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\nwww.nature.com/scientificreports/\nfor causing skin and soft tissue infections. However, the finding was not in line with a retrospective review which \nreported about 54.6% superficial or deep incisional SSI, and 45.4% organ/space ­SSI21. In our study, no organ/\nspace SSI was identified. This variation in the type of SSI might be due to the difference in the type of procedure, \nquality of care, or variation in the patient-related risk factor.\nSelection of antimicrobials for surgical site infections should be based on the antimicrobial coverage against \nsuspected pathogen types causing SSI which may vary depending on anatomical location, operation type, and \npatterns of local antimicrobial resistance. Moreover, the cost of antimicrobials, pharmacokinetics, and narrowness \nin the spectrum of activity should be taken into account in their ­selection11. Though different guidelines claimed \ncefazolin as the first choice of surgical prophylaxis antimicrobial ­agent6,7,17, ceftriaxone was the most commonly \nused (70.5%) antibiotic for surgical prophylaxis in this study. The use of third-generation cephalosporins like \nceftriaxone in surgical antimicrobial prophylaxis is not indicated due to their lower activity against bacteria \ncommonly encountered in elective surgery including gram-positive cocci which are the common organisms \ncausing SSIs, and their higher ­cost17. This finding was in line with a similar study conducted in different parts of \n­Ethiopia2,8,11,15,17,18,21,23. The high utilization rate of ceftriaxone in the present study might be due to the unavail-\nability of first and second-generation cephalosporins, the availability of ceftriaxone, belief of broad-spectrum \nantibiotics are more effective in preventing SSIs, low adherence to healthcare professionals to hospital protocols. \nIt might be also due to the unavailability of culture and sensitivity test which obliges health practitioners to use \na broad spectrum of antimicrobials to cover the most likely pathogen.\nHowever, the finding of our study is not in line with the study conducted in South Africa, and Botswana \nwhere cefazolin and cefotaxime were the most frequently utilized ­antibiotics24,25. This difference might be due \nto variations in drug availability, or the types of procedures performed for the patients.\nAppropriate use of SAP decreases the occurrence of SSI while inappropriate use of antimicrobial agents \nsuch as inappropriate selection, timing, and duration are associated with an increase in the prevalence of anti-\nbiotic resistance, cause adverse drug reactions, and increased risk of surgical site ­infections15,21. The present \nstudy revealed that only about 22.1% of surgical antibiotic prophylaxis used was appropriate as per available \n­guidelines6,7. This was in line with a study conducted at Ayder Hospital which reported 21.9% ­compliance23. The \nfinding was lower than a study conducted in France where 51% of patients received SAP according to ­guidelines26 \nbut higher than the study conducted at Borumeda ­Hospital17. This variation might be due to variations in the \nexperience of professionals or variations in drugs available at a particular hospital.\nIn our study, inappropriate antibiotic selection was the dominant (62.2%) reason for inappropriate antibiotic \nuse for surgical prophylaxis. This supports the finding of similar studies conducted at Nekemte Referral Hos-\npital.5%)8, Ayder (north Ethiopia) (89.5%)23, and Palestine (81.5%)27. The finding was not concordant with the \nfinding of a study conducted in ­Australia5 where the most common reason for inappropriate procedural SAP was \nincorrect timing (44.9%), and it was lower than the finding of a study at the Gaffrée e Guinle University Hospital \nwhere the choice of the administered antibiotic was considered correct in 97.9% of ­patients28. The difference \nmight be due to in availability of first-line medication and poor implementation of guidelines.\nMany guidelines recommend single-dose surgical prophylaxis and the duration should not be more than \n24 ­h6–8. In our study, the duration of SAP administration was not concordant in 28 (26.8%) of patients. This was \nconsistence with a study conducted at Hawassa University Referral Hospital where the duration of SAP admin-\nistration is concordant in 18.4% of patients taking ­antibiotics22. However, it was lower than the finding of a study \nconducted in Palestine where only 31.8% of patients received an antibiotic for an appropriate ­duration27. This \ndifference could be due to differences in the knowledge of health professionals across different healthcare settings.\nAnother common failure of guidelines compliance investigated in this study was the wrong timing of antibiot-\nics. In the present study, 24.2% of patients were exposed to the wrong timing of antibiotics administration. This \nsupports the finding of the study conducted in Dessie, Palestine, and Jimma where (59.8%, 48.6%, and 56%) of \npatients received their first dose at the appropriate time ­respectively15,27,29.\nIn our study, the duration of surgery longer than an hour and inappropriate use of SAP was identified as inde-\npendent predictors of surgical site infection occurrence. Similar to our study, studies conducted in different parts \nof Ethiopia reported that a prolonged duration of surgery (more than an hour) was associated with increased \nrisks of ­SSI1,15,20,30. Another study conducted in Hawassa also revealed that the inappropriate use of poor surgical \nantimicrobial prophylaxis increases the development of antimicrobial resistance, and ­SSI22.\nMany other studies reported the association of SSI with, comorbidity, cigarette smoking, alcohol use, older \nage, contaminated and dirty wound class, failure to receive antibiotic prophylaxis or delayed initiation of anti-\nbiotic prophylaxis, prolonged preoperative hospital stay, previous hospitalization or surgery, and emergency \nsurgical ­cases13–17.\nConclusion\nThe higher rate of SSI in the study area despite the institution of surgical antibiotic prophylaxis calls for the con-\nsideration of definitive laboratory diagnosis with culture and sensitivity study to come up with recommended \nantibiotics usage. Bacterial culture confirmation should be done for all patients who developed clinical signs and \nsymptoms of surgical site infections. Policymakers should pinpoint the establishment and implementation of \nan antimicrobial and diagnostic stewardship approach that will produce better patient outcomes in the future. \nHealth providers who are engaged in surgical ward service should follow the recommendation of guidelines, to \ncome up with the appropriate use of prophylaxis antibiotics in terms of selection, time of administration, and \nduration of prophylaxis. Including clinical pharmacists in the surgical ward service team should be also consid-\nered to ensure proper surgical antibiotic prophylaxis utilization. Moreover, appropriate prophylactic drugs like \ncefazolin should be procured and availed to prescribers.\n",
+   "n_chars": 7140,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      550.0,
+      756.5,
+      554.1,
+      766.0
+     ],
+     "text": "7\n"
+    },
+    {
+     "bbox": [
+      531.6,
+      772.6,
+      590.1,
+      782.1
+     ],
+     "text": "Vol.:(0123456789)\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      756.4,
+      376.7,
+      766.2
+     ],
+     "text": "Scientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      12.4,
+      200.6,
+      24.3
+     ],
+     "text": "www.nature.com/scientificreports/\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      48.1,
+      556.2,
+      90.3
+     ],
+     "text": "for causing skin and soft tissue infections. However, the finding was not in line with a retrospective review which \nreported about 54.6% superficial or deep incisional SSI, and 45.4% organ/space ­SSI21. In our study, no organ/\nspace SSI was identified. This variation in the type of SSI might be due to the difference in the type of procedure, \nquality of care, or variation in the patient-related risk factor.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      88.1,
+      556.3,
+      230.3
+     ],
+     "text": "Selection of antimicrobials for surgical site infections should be based on the antimicrobial coverage against \nsuspected pathogen types causing SSI which may vary depending on anatomical location, operation type, and \npatterns of local antimicrobial resistance. Moreover, the cost of antimicrobials, pharmacokinetics, and narrowness \nin the spectrum of activity should be taken into account in their ­selection11. Though different guidelines claimed \ncefazolin as the first choice of surgical prophylaxis antimicrobial ­agent6,7,17, ceftriaxone was the most commonly \nused (70.5%) antibiotic for surgical prophylaxis in this study. The use of third-generation cephalosporins like \nceftriaxone in surgical antimicrobial prophylaxis is not indicated due to their lower activity against bacteria \ncommonly encountered in elective surgery including gram-positive cocci which are the common organisms \ncausing SSIs, and their higher ­cost17. This finding was in line with a similar study conducted in different parts of \n­Ethiopia2,8,11,15,17,18,21,23. The high utilization rate of ceftriaxone in the present study might be due to the unavail-\nability of first and second-generation cephalosporins, the availability of ceftriaxone, belief of broad-spectrum \nantibiotics are more effective in preventing SSIs, low adherence to healthcare professionals to hospital protocols. \nIt might be also due to the unavailability of culture and sensitivity test which obliges health practitioners to use \na broad spectrum of antimicrobials to cover the most likely pathogen.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      228.1,
+      556.2,
+      260.3
+     ],
+     "text": "However, the finding of our study is not in line with the study conducted in South Africa, and Botswana \nwhere cefazolin and cefotaxime were the most frequently utilized ­antibiotics24,25. This difference might be due \nto variations in drug availability, or the types of procedures performed for the patients.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      258.1,
+      556.3,
+      340.3
+     ],
+     "text": "Appropriate use of SAP decreases the occurrence of SSI while inappropriate use of antimicrobial agents \nsuch as inappropriate selection, timing, and duration are associated with an increase in the prevalence of anti-\nbiotic resistance, cause adverse drug reactions, and increased risk of surgical site ­infections15,21. The present \nstudy revealed that only about 22.1% of surgical antibiotic prophylaxis used was appropriate as per available \n­guidelines6,7. This was in line with a study conducted at Ayder Hospital which reported 21.9% ­compliance23. The \nfinding was lower than a study conducted in France where 51% of patients received SAP according to ­guidelines26 \nbut higher than the study conducted at Borumeda ­Hospital17. This variation might be due to variations in the \nexperience of professionals or variations in drugs available at a particular hospital.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      338.1,
+      556.2,
+      410.3
+     ],
+     "text": "In our study, inappropriate antibiotic selection was the dominant (62.2%) reason for inappropriate antibiotic \nuse for surgical prophylaxis. This supports the finding of similar studies conducted at Nekemte Referral Hos-\npital.5%)8, Ayder (north Ethiopia) (89.5%)23, and Palestine (81.5%)27. The finding was not concordant with the \nfinding of a study conducted in ­Australia5 where the most common reason for inappropriate procedural SAP was \nincorrect timing (44.9%), and it was lower than the finding of a study at the Gaffrée e Guinle University Hospital \nwhere the choice of the administered antibiotic was considered correct in 97.9% of ­patients28. The difference \nmight be due to in availability of first-line medication and poor implementation of guidelines.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      408.1,
+      556.2,
+      470.3
+     ],
+     "text": "Many guidelines recommend single-dose surgical prophylaxis and the duration should not be more than \n24 ­h6–8. In our study, the duration of SAP administration was not concordant in 28 (26.8%) of patients. This was \nconsistence with a study conducted at Hawassa University Referral Hospital where the duration of SAP admin-\nistration is concordant in 18.4% of patients taking ­antibiotics22. However, it was lower than the finding of a study \nconducted in Palestine where only 31.8% of patients received an antibiotic for an appropriate ­duration27. This \ndifference could be due to differences in the knowledge of health professionals across different healthcare settings.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      468.1,
+      556.3,
+      510.3
+     ],
+     "text": "Another common failure of guidelines compliance investigated in this study was the wrong timing of antibiot-\nics. In the present study, 24.2% of patients were exposed to the wrong timing of antibiotics administration. This \nsupports the finding of the study conducted in Dessie, Palestine, and Jimma where (59.8%, 48.6%, and 56%) of \npatients received their first dose at the appropriate time ­respectively15,27,29.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      508.1,
+      556.3,
+      560.3
+     ],
+     "text": "In our study, the duration of surgery longer than an hour and inappropriate use of SAP was identified as inde-\npendent predictors of surgical site infection occurrence. Similar to our study, studies conducted in different parts \nof Ethiopia reported that a prolonged duration of surgery (more than an hour) was associated with increased \nrisks of ­SSI1,15,20,30. Another study conducted in Hawassa also revealed that the inappropriate use of poor surgical \nantimicrobial prophylaxis increases the development of antimicrobial resistance, and ­SSI22.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      558.1,
+      556.3,
+      600.3
+     ],
+     "text": "Many other studies reported the association of SSI with, comorbidity, cigarette smoking, alcohol use, older \nage, contaminated and dirty wound class, failure to receive antibiotic prophylaxis or delayed initiation of anti-\nbiotic prophylaxis, prolonged preoperative hospital stay, previous hospitalization or surgery, and emergency \nsurgical ­cases13–17.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      608.6,
+      556.3,
+      722.3
+     ],
+     "text": "Conclusion\nThe higher rate of SSI in the study area despite the institution of surgical antibiotic prophylaxis calls for the con-\nsideration of definitive laboratory diagnosis with culture and sensitivity study to come up with recommended \nantibiotics usage. Bacterial culture confirmation should be done for all patients who developed clinical signs and \nsymptoms of surgical site infections. Policymakers should pinpoint the establishment and implementation of \nan antimicrobial and diagnostic stewardship approach that will produce better patient outcomes in the future. \nHealth providers who are engaged in surgical ward service should follow the recommendation of guidelines, to \ncome up with the appropriate use of prophylaxis antibiotics in terms of selection, time of administration, and \nduration of prophylaxis. Including clinical pharmacists in the surgical ward service team should be also consid-\nered to ensure proper surgical antibiotic prophylaxis utilization. Moreover, appropriate prophylactic drugs like \ncefazolin should be procured and availed to prescribers.\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "8\nVol:.(1234567890)\nScientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\nwww.nature.com/scientificreports/\nLimitations of the study. \nThe present study period was short which resulted in a small sample size. Vari-\nables related to health professionals, antiseptics used for patient preparation, methods used for equipment steri-\nlization, and type of anesthesia used were not included due to resource shortage.\nData availability\nThe authors confirm that data used to support the findings of this study are available from the corresponding \nauthor upon request.\nReceived: 15 May 2023; Accepted: 31 August 2023\nReferences\n\t 1.\t Legesse Laloto, T., Hiko Gemeda, D. & Abdella, S. H. Incidence and predictors of surgical site infection in Ethiopia: Prospective \ncohort. BMC Infect. Dis. 17(1), 1–9 (2017).\n\t 2.\t Kefale, B., Tegegne, G. T., Degu, A., Molla, M. & Kefale, Y. Surgical site infections and prophylaxis antibiotic use in the surgical \nward of public hospital in Western Ethiopia: A hospital-based retrospective cross-sectional study. Infect. Drug Resist. 13, 3627 \n(2020).\n\t 3.\t Bassetti, M. et al. Antimicrobial prophylaxis in minor and major surgery. Miner. Anestesiol. 81(1), 76–91 (2014).\n\t 4.\t Mulu, W., Kibru, G., Beyene, G. & Damtie, M. Associated risk factors for postoperative nosocomial infections among patients \nadmitted at Felege Hiwot Referral Hospital, Bahir Dar, North West Ethiopia. Clin. Med. Res. 2(6), 140–147. https://​doi.​org/​10.​\n11648/j.​cmr.​20130​206.​15 (2013).\n\t 5.\t Ierano, C. et al. Surgical antimicrobial prophylaxis. Aust. Prescr. 40(6), 225 (2017).\n\t 6.\t World Health Organization. Food, medicine and healthcare administration and control authority of Ethiopia. Standard Treatment \nGuidelines for General Hospital (2015).\n\t 7.\t Bratzler, D. W. et al. Clinical practice guidelines for antimicrobial prophylaxis in surgery. Am. J. Health Syst. Pharm. 70(3), 195–283 \n(2013).\n\t 8.\t Alemkere, G. Antibiotic usage in surgical prophylaxis: A prospective observational study in the surgical ward of Nekemte referral \nhospital. PLoS ONE 13(9), e0203523 (2018).\n\t 9.\t Onyekwelu, I. et al. Surgical wound classification and surgical site infections in the orthopaedic patient. J. Am. Acad. Orthop. Surg. \nGlob. Res. Rev. 1(3), e022. https://​doi.​org/​10.​5435/​JAAOS​Global-​D-​17-​00022 (2017).\n\t10.\t Mulu, W., Kibru, G., Beyene, G. & Damtie, M. Postoperative nosocomial infections and antimicrobial resistance pattern of bacteria \nisolates among patients admitted at Felege Hiwot Referral Hospital, Bahirdar, Ethiopia. Ethiop. J. Health Sci. 22(1), 7–18 (2012).\n\t11.\t Shiferaw, W. S., Aynalem, Y. A., Akalu, T. Y. & Petrucka, P. M. Surgical site infection and its associated factors in Ethiopia: A sys-\ntematic review and meta-analysis. BMC Surg. 20(1), 1–5 (2020).\n\t12.\t Argaw, N. A., Shumbash, K. Z., Asfaw, A. A. & Hawaze, S. Assessment of surgical antimicrobial prophylaxis in orthopaedics and \ntraumatology surgical unit of a tertiary care teaching hospital in Addis Ababa. BMC. Res. Notes 10(1), 1–8 (2017).\n\t13.\t Gedefaw, G., Asires, A., Shiferaw, S. & Addisu, D. Factors associated with surgical site infection among women undergoing obstet-\nrics surgery at Felegehiwot referral hospital, Bahir Dar, Northwest Ethiopia: A retrospective cross-sectional study. Saf. Health. 4(1), \n1–9 (2018).\n\t14.\t Mengesha, R. E., Kasa, B. G., Saravanan, M., Berhe, D. F. & Wasihun, A. G. Aerobic bacteria in post-surgical wound infections and \npattern of their antimicrobial susceptibility in Ayder Teaching and Referral Hospital, Mekelle, Ethiopia. BMC Res. Notes. 7(1), 1–6 \n(2014).\n\t15.\t Misganaw, D., Linger, B. & Abesha, A. Surgical antibiotic prophylaxis use and surgical site infection pattern in Dessie Referral \nHospital, Dessie, Northeast of Ethiopia. Biomed. Res. Int. 2020, 1695683. https://​doi.​org/​10.​1155/​2020/​16956​83 (2020).\n\t16.\t Awoke, N., Arba, A. & Girma, A. Magnitude of surgical site infection and its associated factors among patients who underwent a \nsurgical procedure at Wolaita Sodo University Teaching and Referral Hospital, South Ethiopia. PLoS ONE 14(12), e0226140 (2019).\n\t17.\t Moges, G., Belete, L., Mengesha, Y. & Ahmed, S. Evaluation of surgical antimicrobial prophylaxis and incidence of surgical site \ninfection at Borumeda hospital, Northeast Ethiopia: Retrospective cross-sectional study. Drug Healthc. Patient Saf. 12, 257 (2020).\n\t18.\t Alamrew, K., Tadesse, T. A., Abiye, A. A. & Shibeshi, W. Surgical antimicrobial prophylaxis and incidence of surgical site infections \nat Ethiopian Tertiary-Care Teaching Hospital. Infect. Dis. Res. Treat. 12, 1178633719892267 (2019).\n\t19.\t Halawi, E., Assefa, T. & Hussen, S. Pattern of antibiotics use, incidence and predictors of surgical site infections in a Tertiary Care \nTeaching Hospital. BMC. Res. Notes 11(1), 1–6 (2018).\n\t20.\t Billoro, B. B., Nunemo, M. H. & Gelan, S. E. Evaluation of antimicrobial prophylaxis use and rate of surgical site infection in \nsurgical ward of Wachemo University Nigist Eleni Mohammed Memorial Hospital, Southern Ethiopia: Prospective cohort study. \nBMC Infect. Dis. 19(1), 1–8 (2019).\n\t21.\t Butterworth, M. & Payne, T. Surgical infections. In Complications in Foot and Ankle Surgery, 69–87. Springer, Cham (2017).\n\t22.\t Tamrat, L., Desta, H., Eneb, K. I. & Sadikalmahdi, H. A. Evaluation of surgical antimicrobial prophylaxis use in Ethiopia: Prospec-\ntive study. Afr. J. Pharm. Pharmacol 12(31), 455–463 (2018).\n\t23.\t Mohamoud, S. A., Yesuf, T. A. & Sisay, E. A. Utilization assessment of surgical antibiotic prophylaxis at Ayder Referral Hospital, \nNorthern Ethiopia. J. Appl. Pharm. 8(02), 1–5 (2016).\n\t24.\t Van Der Sandt, N. et al. Surgical antimicrobial prophylaxis among pediatric patients in South Africa comparing two healthcare \nsettings. Pediatr. Infect. Dis. J. 38(2), 122–126 (2019).\n\t25.\t Mwita, J. C. et al. Prophylactic antibiotics to prevent surgical site infections in Botswana: Findings and implications. Hosp. Pract. \n46(3), 97–102 (2018).\n\t26.\t Duclos, G. et al. Surgical antimicrobial prophylaxis in intensive care unit (ICU) patients: A preliminary, observational, retrospec-\ntive study. Ann. Transl. Med. 6(20), 402 (2018).\n\t27.\t Musmar, S. M., Baba, H. & Owais, A. Adherence to guidelines of antibiotic prophylactic use in surgery: A prospective cohort study \nin North West Bank, Palestine. BMC Surg. 14(1), 1–7 (2014).\n\t28.\t Gouvêa, M., Novaes, C. D. & Iglesias, A. C. Assessment of antibiotic prophylaxis in surgical patients at the Gaffrée e Guinle Uni-\nversity Hospital. Rev. Col. Bras. Cir. 43, 225–234 (2016).\n\t29.\t Jisha, H. Timing of prophylactic antibiotic administration in elective surgical patients at Jimma University Teaching Hospital: \nSouth West Ethiopia. Anesth. Clin. Res. 7(4), 1–7 (2016).\n\t30.\t Wodajo, S., Belayneh, M. & Gebremedhin, S. Magnitude and factors associated with post-cesarean surgical site infection at Hawassa \nUniversity teaching and referral hospital, southern Ethiopia: A cross-sectional study. Ethiop. J. Health Sci. 27(3), 283–290 (2017).\n",
+   "n_chars": 7089,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      550.0,
+      756.5,
+      554.1,
+      766.0
+     ],
+     "text": "8\n"
+    },
+    {
+     "bbox": [
+      4.8,
+      772.6,
+      63.3,
+      782.1
+     ],
+     "text": "Vol:.(1234567890)\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      756.4,
+      376.7,
+      766.2
+     ],
+     "text": "Scientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      12.3,
+      200.6,
+      24.3
+     ],
+     "text": "www.nature.com/scientificreports/\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      48.4,
+      554.2,
+      81.2
+     ],
+     "text": "Limitations of the study. \nThe present study period was short which resulted in a small sample size. Vari-\nables related to health professionals, antiseptics used for patient preparation, methods used for equipment steri-\nlization, and type of anesthesia used were not included due to resource shortage.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      87.5,
+      556.1,
+      121.2
+     ],
+     "text": "Data availability\nThe authors confirm that data used to support the findings of this study are available from the corresponding \nauthor upon request.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      129.1,
+      331.8,
+      140.5
+     ],
+     "text": "Received: 15 May 2023; Accepted: 31 August 2023\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      160.5,
+      555.9,
+      182.1
+     ],
+     "text": "References\n\t 1.\t Legesse Laloto, T., Hiko Gemeda, D. & Abdella, S. H. Incidence and predictors of surgical site infection in Ethiopia: Prospective \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      180.3,
+      556.0,
+      199.1
+     ],
+     "text": "cohort. BMC Infect. Dis. 17(1), 1–9 (2017).\n\t 2.\t Kefale, B., Tegegne, G. T., Degu, A., Molla, M. & Kefale, Y. Surgical site infections and prophylaxis antibiotic use in the surgical \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      197.2,
+      555.9,
+      233.1
+     ],
+     "text": "ward of public hospital in Western Ethiopia: A hospital-based retrospective cross-sectional study. Infect. Drug Resist. 13, 3627 \n(2020).\n\t 3.\t Bassetti, M. et al. Antimicrobial prophylaxis in minor and major surgery. Miner. Anestesiol. 81(1), 76–91 (2014).\n\t 4.\t Mulu, W., Kibru, G., Beyene, G. & Damtie, M. Associated risk factors for postoperative nosocomial infections among patients \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      231.2,
+      556.0,
+      267.1
+     ],
+     "text": "admitted at Felege Hiwot Referral Hospital, Bahir Dar, North West Ethiopia. Clin. Med. Res. 2(6), 140–147. https://​doi.​org/​10.​\n11648/j.​cmr.​20130​206.​15 (2013).\n\t 5.\t Ierano, C. et al. Surgical antimicrobial prophylaxis. Aust. Prescr. 40(6), 225 (2017).\n\t 6.\t World Health Organization. Food, medicine and healthcare administration and control authority of Ethiopia. Standard Treatment \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      265.5,
+      555.9,
+      284.1
+     ],
+     "text": "Guidelines for General Hospital (2015).\n\t 7.\t Bratzler, D. W. et al. Clinical practice guidelines for antimicrobial prophylaxis in surgery. Am. J. Health Syst. Pharm. 70(3), 195–283 \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      282.5,
+      555.8,
+      301.1
+     ],
+     "text": "(2013).\n\t 8.\t Alemkere, G. Antibiotic usage in surgical prophylaxis: A prospective observational study in the surgical ward of Nekemte referral \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      299.2,
+      555.9,
+      318.1
+     ],
+     "text": "hospital. PLoS ONE 13(9), e0203523 (2018).\n\t 9.\t Onyekwelu, I. et al. Surgical wound classification and surgical site infections in the orthopaedic patient. J. Am. Acad. Orthop. Surg. \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      316.2,
+      556.0,
+      335.1
+     ],
+     "text": "Glob. Res. Rev. 1(3), e022. https://​doi.​org/​10.​5435/​JAAOS​Global-​D-​17-​00022 (2017).\n\t10.\t Mulu, W., Kibru, G., Beyene, G. & Damtie, M. Postoperative nosocomial infections and antimicrobial resistance pattern of bacteria \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      333.2,
+      554.2,
+      352.1
+     ],
+     "text": "isolates among patients admitted at Felege Hiwot Referral Hospital, Bahirdar, Ethiopia. Ethiop. J. Health Sci. 22(1), 7–18 (2012).\n\t11.\t Shiferaw, W. S., Aynalem, Y. A., Akalu, T. Y. & Petrucka, P. M. Surgical site infection and its associated factors in Ethiopia: A sys-\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      350.2,
+      555.9,
+      369.1
+     ],
+     "text": "tematic review and meta-analysis. BMC Surg. 20(1), 1–5 (2020).\n\t12.\t Argaw, N. A., Shumbash, K. Z., Asfaw, A. A. & Hawaze, S. Assessment of surgical antimicrobial prophylaxis in orthopaedics and \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      367.2,
+      554.1,
+      386.1
+     ],
+     "text": "traumatology surgical unit of a tertiary care teaching hospital in Addis Ababa. BMC. Res. Notes 10(1), 1–8 (2017).\n\t13.\t Gedefaw, G., Asires, A., Shiferaw, S. & Addisu, D. Factors associated with surgical site infection among women undergoing obstet-\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      384.2,
+      555.9,
+      411.6
+     ],
+     "text": "rics surgery at Felegehiwot referral hospital, Bahir Dar, Northwest Ethiopia: A retrospective cross-sectional study. Saf. Health. 4(1), \n1–9 (2018).\n\t14.\t Mengesha, R. E., Kasa, B. G., Saravanan, M., Berhe, D. F. & Wasihun, A. G. Aerobic bacteria in post-surgical wound infections and \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      409.7,
+      555.9,
+      437.1
+     ],
+     "text": "pattern of their antimicrobial susceptibility in Ayder Teaching and Referral Hospital, Mekelle, Ethiopia. BMC Res. Notes. 7(1), 1–6 \n(2014).\n\t15.\t Misganaw, D., Linger, B. & Abesha, A. Surgical antibiotic prophylaxis use and surgical site infection pattern in Dessie Referral \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      435.2,
+      556.0,
+      454.1
+     ],
+     "text": "Hospital, Dessie, Northeast of Ethiopia. Biomed. Res. Int. 2020, 1695683. https://​doi.​org/​10.​1155/​2020/​16956​83 (2020).\n\t16.\t Awoke, N., Arba, A. & Girma, A. Magnitude of surgical site infection and its associated factors among patients who underwent a \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      452.2,
+      555.9,
+      471.1
+     ],
+     "text": "surgical procedure at Wolaita Sodo University Teaching and Referral Hospital, South Ethiopia. PLoS ONE 14(12), e0226140 (2019).\n\t17.\t Moges, G., Belete, L., Mengesha, Y. & Ahmed, S. Evaluation of surgical antimicrobial prophylaxis and incidence of surgical site \n"
+    },
+    {
+     "bbox": [
+      155.9,
+      469.2,
+      555.8,
+      488.0
+     ],
+     "text": "infection at Borumeda hospital, Northeast Ethiopia: Retrospective cross-sectional study. Drug Healthc. Patient Saf. 12, 257 (2020).\n\t18.\t Alamrew, K., Tadesse, T. A., Abiye, A. A. & Shibeshi, W. Surgical antimicrobial prophylaxis and incidence of surgical site infections \n"
+    },
+    {
+     "bbox": [
+      156.0,
+      486.2,
+      555.9,
+      505.0
+     ],
+     "text": "at Ethiopian Tertiary-Care Teaching Hospital. Infect. Dis. Res. Treat. 12, 1178633719892267 (2019).\n\t19.\t Halawi, E., Assefa, T. & Hussen, S. Pattern of antibiotics use, incidence and predictors of surgical site infections in a Tertiary Care \n"
+    },
+    {
+     "bbox": [
+      156.0,
+      503.2,
+      556.0,
+      522.0
+     ],
+     "text": "Teaching Hospital. BMC. Res. Notes 11(1), 1–6 (2018).\n\t20.\t Billoro, B. B., Nunemo, M. H. & Gelan, S. E. Evaluation of antimicrobial prophylaxis use and rate of surgical site infection in \n"
+    },
+    {
+     "bbox": [
+      156.0,
+      520.4,
+      556.0,
+      556.0
+     ],
+     "text": "surgical ward of Wachemo University Nigist Eleni Mohammed Memorial Hospital, Southern Ethiopia: Prospective cohort study. \nBMC Infect. Dis. 19(1), 1–8 (2019).\n\t21.\t Butterworth, M. & Payne, T. Surgical infections. In Complications in Foot and Ankle Surgery, 69–87. Springer, Cham (2017).\n\t22.\t Tamrat, L., Desta, H., Eneb, K. I. & Sadikalmahdi, H. A. Evaluation of surgical antimicrobial prophylaxis use in Ethiopia: Prospec-\n"
+    },
+    {
+     "bbox": [
+      156.0,
+      554.1,
+      556.0,
+      573.0
+     ],
+     "text": "tive study. Afr. J. Pharm. Pharmacol 12(31), 455–463 (2018).\n\t23.\t Mohamoud, S. A., Yesuf, T. A. & Sisay, E. A. Utilization assessment of surgical antibiotic prophylaxis at Ayder Referral Hospital, \n"
+    },
+    {
+     "bbox": [
+      156.0,
+      571.1,
+      556.0,
+      590.0
+     ],
+     "text": "Northern Ethiopia. J. Appl. Pharm. 8(02), 1–5 (2016).\n\t24.\t Van Der Sandt, N. et al. Surgical antimicrobial prophylaxis among pediatric patients in South Africa comparing two healthcare \n"
+    },
+    {
+     "bbox": [
+      156.0,
+      588.1,
+      556.0,
+      607.0
+     ],
+     "text": "settings. Pediatr. Infect. Dis. J. 38(2), 122–126 (2019).\n\t25.\t Mwita, J. C. et al. Prophylactic antibiotics to prevent surgical site infections in Botswana: Findings and implications. Hosp. Pract. \n"
+    },
+    {
+     "bbox": [
+      156.0,
+      605.1,
+      554.2,
+      624.0
+     ],
+     "text": "46(3), 97–102 (2018).\n\t26.\t Duclos, G. et al. Surgical antimicrobial prophylaxis in intensive care unit (ICU) patients: A preliminary, observational, retrospec-\n"
+    },
+    {
+     "bbox": [
+      156.0,
+      622.1,
+      555.9,
+      641.0
+     ],
+     "text": "tive study. Ann. Transl. Med. 6(20), 402 (2018).\n\t27.\t Musmar, S. M., Baba, H. & Owais, A. Adherence to guidelines of antibiotic prophylactic use in surgery: A prospective cohort study \n"
+    },
+    {
+     "bbox": [
+      156.0,
+      639.1,
+      554.3,
+      658.0
+     ],
+     "text": "in North West Bank, Palestine. BMC Surg. 14(1), 1–7 (2014).\n\t28.\t Gouvêa, M., Novaes, C. D. & Iglesias, A. C. Assessment of antibiotic prophylaxis in surgical patients at the Gaffrée e Guinle Uni-\n"
+    },
+    {
+     "bbox": [
+      156.0,
+      656.1,
+      556.0,
+      675.0
+     ],
+     "text": "versity Hospital. Rev. Col. Bras. Cir. 43, 225–234 (2016).\n\t29.\t Jisha, H. Timing of prophylactic antibiotic administration in elective surgical patients at Jimma University Teaching Hospital: \n"
+    },
+    {
+     "bbox": [
+      156.0,
+      673.1,
+      555.9,
+      692.0
+     ],
+     "text": "South West Ethiopia. Anesth. Clin. Res. 7(4), 1–7 (2016).\n\t30.\t Wodajo, S., Belayneh, M. & Gebremedhin, S. Magnitude and factors associated with post-cesarean surgical site infection at Hawassa \n"
+    },
+    {
+     "bbox": [
+      169.5,
+      690.1,
+      554.3,
+      700.5
+     ],
+     "text": "University teaching and referral hospital, southern Ethiopia: A cross-sectional study. Ethiop. J. Health Sci. 27(3), 283–290 (2017).\n"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "text": "9\nVol.:(0123456789)\nScientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\nwww.nature.com/scientificreports/\nAcknowledgements\nFirst, we would like to thank Debre Berhan University for providing us with the chance to conduct this study. \nOur gratitude extends to the general director and staff member of Debre Berhan Comprehensive Specialized \nHospital for providing us with the available information. We are also grateful to our study participants for their \ncooperative responses during data collection.\nAuthor contributions\nH.A., M.Y., A.W., Y.T., B.L., and K.D. contributed to the conception, design, study, interpretation, and write-up \nof the manuscript. H.A. conducted the data collection processes and analyzed the results. All authors read and \napproved the manuscript.\nFunding\nThis research received no specific grant from any funding agency in the public, commercial, or not-for-profit \nsectors.\nCompeting interests \nThe authors declare no competing interests.\nAdditional information\nCorrespondence and requests for materials should be addressed to H.A.H.\nReprints and permissions information is available at www.nature.com/reprints.\nPublisher’s note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and \ninstitutional affiliations.\nOpen Access  This article is licensed under a Creative Commons Attribution 4.0 International \nLicense, which permits use, sharing, adaptation, distribution and reproduction in any medium or \nformat, as long as you give appropriate credit to the original author(s) and the source, provide a link to the \nCreative Commons licence, and indicate if changes were made. The images or other third party material in this \narticle are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the \nmaterial. If material is not included in the article’s Creative Commons licence and your intended use is not \npermitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from \nthe copyright holder. To view a copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.\n© The Author(s) 2023\n",
+   "n_chars": 2205,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      550.0,
+      756.5,
+      554.1,
+      766.0
+     ],
+     "text": "9\n"
+    },
+    {
+     "bbox": [
+      531.6,
+      772.6,
+      590.1,
+      782.1
+     ],
+     "text": "Vol.:(0123456789)\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      756.4,
+      376.7,
+      766.2
+     ],
+     "text": "Scientific Reports |        (2023) 13:14689  | \nhttps://doi.org/10.1038/s41598-023-41834-7\n"
+    },
+    {
+     "bbox": [
+      41.1,
+      12.4,
+      200.6,
+      24.3
+     ],
+     "text": "www.nature.com/scientificreports/\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      48.2,
+      556.3,
+      101.9
+     ],
+     "text": "Acknowledgements\nFirst, we would like to thank Debre Berhan University for providing us with the chance to conduct this study. \nOur gratitude extends to the general director and staff member of Debre Berhan Comprehensive Specialized \nHospital for providing us with the available information. We are also grateful to our study participants for their \ncooperative responses during data collection.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      108.2,
+      556.3,
+      151.9
+     ],
+     "text": "Author contributions\nH.A., M.Y., A.W., Y.T., B.L., and K.D. contributed to the conception, design, study, interpretation, and write-up \nof the manuscript. H.A. conducted the data collection processes and analyzed the results. All authors read and \napproved the manuscript.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      158.2,
+      556.3,
+      191.9
+     ],
+     "text": "Funding\nThis research received no specific grant from any funding agency in the public, commercial, or not-for-profit \nsectors.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      199.2,
+      313.3,
+      222.9
+     ],
+     "text": "Competing interests \nThe authors declare no competing interests.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      229.2,
+      424.7,
+      252.9
+     ],
+     "text": "Additional information\nCorrespondence and requests for materials should be addressed to H.A.H.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      255.4,
+      445.6,
+      267.9
+     ],
+     "text": "Reprints and permissions information is available at www.nature.com/reprints.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      270.4,
+      556.2,
+      292.9
+     ],
+     "text": "Publisher’s note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and \ninstitutional affiliations.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      295.4,
+      556.2,
+      377.9
+     ],
+     "text": "Open Access  This article is licensed under a Creative Commons Attribution 4.0 International \nLicense, which permits use, sharing, adaptation, distribution and reproduction in any medium or \nformat, as long as you give appropriate credit to the original author(s) and the source, provide a link to the \nCreative Commons licence, and indicate if changes were made. The images or other third party material in this \narticle are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the \nmaterial. If material is not included in the article’s Creative Commons licence and your intended use is not \npermitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from \nthe copyright holder. To view a copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.\n"
+    },
+    {
+     "bbox": [
+      155.9,
+      385.7,
+      234.5,
+      397.9
+     ],
+     "text": "© The Author(s) 2023\n"
+    }
+   ]
+  }
+ ]
+}

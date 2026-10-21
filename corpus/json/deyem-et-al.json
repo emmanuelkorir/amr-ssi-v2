@@ -1,0 +1,2237 @@
+{
+ "doc_id": "deyem-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Deyem et al.pdf",
+ "sha256": "ee20b043aff66487d4853a3b706b41ef3654708c29f4fcf062d18d0774c8c34f",
+ "document_type": "pdf",
+ "n_pages": 10,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "Risk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery at HEAL Africa Tertiary Hospital in Goma, Democratic Republic of Congo",
+  "author": "",
+  "subject": "",
+  "keywords": "",
+  "creator": "",
+  "producer": "Prince 15.1 (www.princexml.com)",
+  "creationDate": "",
+  "modDate": "",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:54+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "Original Research \nRisk Factors and Predictive Model for Surgical Site \nInfections After Abdominal Surgery at HEAL Africa \nTertiary Hospital in Goma, Democratic Republic of Congo \nKasereka Kahuko Deyem, M.D.\n1,2, Lele Mutombo Fabrice, FCS\n3\na, Kabuyaya Kakule Medard, PhD\n1,2,\nKasereka Masumbuko Claude, PhD\n4, Alumeti Munyali, PhD\n5 \n1 General Surgery, Heal Africa Tertiary Hospital, 2 General Surgery, University of Goma, 3 General Surgery, NSK Hospital (Arusha), 4 General Surgery, \nUniversité Catholique du Graben, 5 General Surgery, Université Officielle de Bukavu \nKeywords: Surgical site infection, Postoperative infectious complications, Abdominal surgery, Democratic Republic of Congo \nhttps://doi.org/10.4314/ecajs.v30i4.3 \nEast and Central African Journal of Surgery \nVol. 30, Issue 4, 2025 \nAbstract \nBackground \nSurgical site infection (SSI) is a major cause of morbidity and mortality in surgical departments. They are particularly \nconcerning in abdominal surgery, where various risk factors can influence their occurrence. This study aims to determine \nthe incidence and risk factors of SSIs in patients undergoing abdominal surgery at HEAL Africa hospital in Goma, Democratic \nRepublic of Congo. \nMethods \nA prospective longitudinal analytical study was conducted on 218 patients who underwent abdominal surgery between \nApril 2023 and April 2024 at HEAL Africa hospital. Demographic, clinical, and operative data were collected. Postoperative \ncomplications were classified and analyzed and multivariate analysis was performed to identify independent risk factors for \nSSIs. Variables studied included type of operation, nutritional status, wound class, and operative duration. SSI incidence was \ncalculated and adjusted odds ratios (OR) with their 95% confidence intervals (CI) were determined. \nResults \nOf the 218 patients studied, 32.6% developed an SSI. The death rate was 4.76% in patients without SSI and 23.94% in those \nwith SSI (OR = 6.3; 95% CI, 2.5–16.0; P < .0001). The multivariate analysis revealed several key factors significantly associated \nwith SSIs. Patients undergoing laparotomy had a 4.2 times higher risk of developing an SSI compared to other procedures \n(95% CI, 1.7–10.3; P < .0001). Malnutrition also played a critical role, increasing the odds of infection by 5.2 times (95% \nCI, 1.3–20.7; P = .02). Additionally, surgeries involving contaminated or dirty wounds carried a 4.5-fold higher risk (95% CI, \n1.8–11.5; P < .0001). Most strikingly, operations lasting longer than one hour were associated with a 15.3 times greater \nlikelihood of SSIs (95% CI, 6.4–36.6; P < .0001). \nConclusions \nAt HEAL Africa hospital, SSIs following abdominal surgery remain a significant concern, with laparotomy, malnutrition, wound \ncontamination, and prolonged surgery duration emerging as major risk factors. These findings underscore the need for \nfocused interventions such as improved nutritional support, stricter infection control, and efficient surgical practices to \nreduce infection rates and enhance patient recovery. \nIntroduction \nAbdominal surgery is an essential procedure used to treat a \nwide range of conditions. However, it comes with serious \nrisks; one of the most significant being surgical site infec­\ntions (SSIs). These infections not only increase the mor­\nbidity but also lead to prolonged hospital stays and higher \nhealth care costs.1‑4 SSIs, defined by the Centers for Dis­\nThis is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International License \n(CCBY-4.0). View this license’s legal deed at http://creativecommons.org/licenses/by/4.0 and legal code at http://creativecom­\nmons.org/licenses/by/4.0/legalcode for more information. \nCorresponding author: fabricelele@gmail.com \na \nDeyem KK, Fabrice LM, Medard KK, Claude KM, Munyali A. Risk Factors and Predictive\nModel for Surgical Site Infections After Abdominal Surgery at HEAL Africa Tertiary\nHospital in Goma, Democratic Republic of Congo. East Cent Afr J Surg. 2025;30(4):20-29.\ndoi:10.4314/ecajs.v30i4.3\n",
+   "n_chars": 4069,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      54.0,
+      54.0,
+      222.9,
+      81.2
+     ],
+     "text": "Original Research \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      84.4,
+      539.6,
+      151.5
+     ],
+     "text": "Risk Factors and Predictive Model for Surgical Site \nInfections After Abdominal Surgery at HEAL Africa \nTertiary Hospital in Goma, Democratic Republic of Congo \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      154.7,
+      182.2,
+      167.0
+     ],
+     "text": "Kasereka Kahuko Deyem, M.D.\n"
+    },
+    {
+     "bbox": [
+      182.2,
+      152.5,
+      452.4,
+      167.0
+     ],
+     "text": "1,2, Lele Mutombo Fabrice, FCS\n3\na, Kabuyaya Kakule Medard, PhD\n"
+    },
+    {
+     "bbox": [
+      54.0,
+      154.7,
+      461.0,
+      179.2
+     ],
+     "text": "1,2,\nKasereka Masumbuko Claude, PhD\n"
+    },
+    {
+     "bbox": [
+      200.5,
+      167.0,
+      301.5,
+      179.2
+     ],
+     "text": "4, Alumeti Munyali, PhD\n5 \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      181.5,
+      535.1,
+      201.6
+     ],
+     "text": "1 General Surgery, Heal Africa Tertiary Hospital, 2 General Surgery, University of Goma, 3 General Surgery, NSK Hospital (Arusha), 4 General Surgery, \nUniversité Catholique du Graben, 5 General Surgery, Université Officielle de Bukavu \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      205.5,
+      457.3,
+      215.0
+     ],
+     "text": "Keywords: Surgical site infection, Postoperative infectious complications, Abdominal surgery, Democratic Republic of Congo \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      218.8,
+      174.7,
+      228.3
+     ],
+     "text": "https://doi.org/10.4314/ecajs.v30i4.3 \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      241.6,
+      294.4,
+      257.9
+     ],
+     "text": "East and Central African Journal of Surgery \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      261.1,
+      130.9,
+      272.0
+     ],
+     "text": "Vol. 30, Issue 4, 2025 \n"
+    },
+    {
+     "bbox": [
+      276.3,
+      301.3,
+      321.5,
+      314.9
+     ],
+     "text": "Abstract \n"
+    },
+    {
+     "bbox": [
+      66.0,
+      318.0,
+      116.0,
+      328.9
+     ],
+     "text": "Background \n"
+    },
+    {
+     "bbox": [
+      66.0,
+      331.4,
+      531.3,
+      375.3
+     ],
+     "text": "Surgical site infection (SSI) is a major cause of morbidity and mortality in surgical departments. They are particularly \nconcerning in abdominal surgery, where various risk factors can influence their occurrence. This study aims to determine \nthe incidence and risk factors of SSIs in patients undergoing abdominal surgery at HEAL Africa hospital in Goma, Democratic \nRepublic of Congo. \n"
+    },
+    {
+     "bbox": [
+      66.0,
+      380.2,
+      103.0,
+      391.1
+     ],
+     "text": "Methods \n"
+    },
+    {
+     "bbox": [
+      66.0,
+      393.6,
+      531.3,
+      448.5
+     ],
+     "text": "A prospective longitudinal analytical study was conducted on 218 patients who underwent abdominal surgery between \nApril 2023 and April 2024 at HEAL Africa hospital. Demographic, clinical, and operative data were collected. Postoperative \ncomplications were classified and analyzed and multivariate analysis was performed to identify independent risk factors for \nSSIs. Variables studied included type of operation, nutritional status, wound class, and operative duration. SSI incidence was \ncalculated and adjusted odds ratios (OR) with their 95% confidence intervals (CI) were determined. \n"
+    },
+    {
+     "bbox": [
+      66.0,
+      453.4,
+      97.2,
+      464.3
+     ],
+     "text": "Results \n"
+    },
+    {
+     "bbox": [
+      66.0,
+      466.8,
+      531.3,
+      543.7
+     ],
+     "text": "Of the 218 patients studied, 32.6% developed an SSI. The death rate was 4.76% in patients without SSI and 23.94% in those \nwith SSI (OR = 6.3; 95% CI, 2.5–16.0; P < .0001). The multivariate analysis revealed several key factors significantly associated \nwith SSIs. Patients undergoing laparotomy had a 4.2 times higher risk of developing an SSI compared to other procedures \n(95% CI, 1.7–10.3; P < .0001). Malnutrition also played a critical role, increasing the odds of infection by 5.2 times (95% \nCI, 1.3–20.7; P = .02). Additionally, surgeries involving contaminated or dirty wounds carried a 4.5-fold higher risk (95% CI, \n1.8–11.5; P < .0001). Most strikingly, operations lasting longer than one hour were associated with a 15.3 times greater \nlikelihood of SSIs (95% CI, 6.4–36.6; P < .0001). \n"
+    },
+    {
+     "bbox": [
+      66.0,
+      548.6,
+      115.8,
+      559.5
+     ],
+     "text": "Conclusions \n"
+    },
+    {
+     "bbox": [
+      66.0,
+      562.0,
+      531.3,
+      605.9
+     ],
+     "text": "At HEAL Africa hospital, SSIs following abdominal surgery remain a significant concern, with laparotomy, malnutrition, wound \ncontamination, and prolonged surgery duration emerging as major risk factors. These findings underscore the need for \nfocused interventions such as improved nutritional support, stricter infection control, and efficient surgical practices to \nreduce infection rates and enhance patient recovery. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      627.9,
+      146.0,
+      647.0
+     ],
+     "text": "Introduction \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      659.9,
+      294.1,
+      684.0
+     ],
+     "text": "Abdominal surgery is an essential procedure used to treat a \nwide range of conditions. However, it comes with serious \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      630.9,
+      543.8,
+      681.0
+     ],
+     "text": "risks; one of the most significant being surgical site infec­\ntions (SSIs). These infections not only increase the mor­\nbidity but also lead to prolonged hospital stays and higher \nhealth care costs.1‑4 SSIs, defined by the Centers for Dis­\n"
+    },
+    {
+     "bbox": [
+      104.6,
+      704.6,
+      496.6,
+      714.1
+     ],
+     "text": "This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International License \n"
+    },
+    {
+     "bbox": [
+      104.6,
+      717.6,
+      508.5,
+      727.1
+     ],
+     "text": "(CCBY-4.0). View this license’s legal deed at http://creativecommons.org/licenses/by/4.0 and legal code at http://creativecom­\n"
+    },
+    {
+     "bbox": [
+      104.6,
+      730.6,
+      294.7,
+      740.1
+     ],
+     "text": "mons.org/licenses/by/4.0/legalcode for more information. \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      774.2,
+      234.5,
+      784.4
+     ],
+     "text": "Corresponding author: fabricelele@gmail.com \na \n"
+    },
+    {
+     "bbox": [
+      297.6,
+      10.7,
+      537.8,
+      43.3
+     ],
+     "text": "Deyem KK, Fabrice LM, Medard KK, Claude KM, Munyali A. Risk Factors and Predictive\nModel for Surgical Site Infections After Abdominal Surgery at HEAL Africa Tertiary\nHospital in Goma, Democratic Republic of Congo. East Cent Afr J Surg. 2025;30(4):20-29.\ndoi:10.4314/ecajs.v30i4.3\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "ease Control and Prevention (CDC) as infections occurring \nwithin 30 days postoperatively (or 1 year in case of an im­\nplant),5 vary in prevalence depending on the context, reach­\ning up to 26.7% in abdominal surgery.4,6‑9 \nRisk factors include preoperative elements (comorbidi­\nties, such as obesity and diabetes), intraoperative factors \n(duration of intervention, type of surgery), and postoper­\native factors (wound care).10‑14 Studies also highlight the \nimpact of practices such as blood transfusions or the sur­\ngeon’s experience.10,12,14 Despite preventive strategies rec­\nommended by the World Health Organization (WHO; hand \nhygiene, targeted antibiotic therapy)15 and the CDC (skin \nantisepsis, glycemic control),16 SSIs remain a major cause \nof health care-associated infections (20%–30% of cases),17 \nparticularly in resource-limited settings. \nAlthough these risks are documented, few recent studies \nintegrate the challenges of resource-limited contexts, such \nas that of HEAL Africa hospital (a tertiary care facility \nin Goma, Democratic Republic of Congo), which faces \nunique infrastructural and socioeconomic constraints. This \nprospective study aims to identify the risk factors for SSIs \nafter abdominal surgery in this specific setting and to de­\nvelop a tailored predictive model, combining clinical data \nand local prevention practices. By aligning protocols with \non-the-ground realities, this research offers avenues to re­\nduce SSIs and improve patient outcomes in similar environ­\nments.6,8,18 \nMaterials and Methods \nStudy type, site, and period \nThis was a prospective, longitudinal, and analytical study \nconducted in the general surgery department of HEAL \nAfrica tertiary hospital in Goma, Democratic Republic of \nCongo. It spanned a period of 1 year from April 1, 2023 to \nApril 1, 2024. \nStudy population \nThis study included all patients who underwent scheduled \nor emergency abdominal surgery during the study period. \nSurgical procedures were categorized into 3 groups \nbased on the surgical approach: \nPatients were followed from the time of their admission \nuntil 30 days after the operation. The follow-up included \nward round in the hospital department during the admission \nand outpatient consultation or at the dressing clinic, or by \ntelephone interview after discharge. Followed patient were \nthen postoperatively stratified into 2 groups: those who de­\nveloped SSIs and those who did not. \nAny patient who did not meet the inclusion criteria was \nnot included in this study. Exclusion criteria were as fol­\nlows: \nOur sample was a nonprobabilistic exhaustive sample \nincluding all hospitalized patients who underwent abdomi­\nnal surgery during the study period. \nStudy variables and data collection \nDependent variable \nIndependent variables \n1. Abdominal wall surgery: Procedures such as hernia \nrepair (open sutured or mesh-based), \n2. Mini-laparotomy: Procedures performed through a \nsmall, targeted incision (typically 4–8 cm) using a \nmuscle-splitting technique to access a specific organ, \nsuch as appendectomy (via Gridiron, McBurney, or \nLanz incision), gastrostomy tube insertion, or stoma \nformation and closure,19,20 and \n3. Laparotomy: Procedures requiring a larger, ex­\nploratory incision (eg, midline, paramedian) for ex­\ntensive intra-abdominal-abdominal operations such \nas bowel resection, trauma exploration, or peritonitis \nmanagement. \n1. Patients transferred to another facility before com­\npleting the 30-day postoperative follow-up period, \n2. Patients who were lost to follow-up (ie, not reachable \nvia telephone for postdischarge assessment), and \n3. Patients who died intraoperatively, as the outcome of \ninterest (SSI) could not occur. \n• Occurrence of a SSI: Defined according to CDC/Na­\ntional Health Care Safety Network criteria5,9 as an \ninfection occurring within 30 days postoperatively \n(or 1 year in case of an implant), classified into 3 \ntypes: superficial (skin/subcutaneous tissue), deep \n(fascia/muscle), or organ/space (organs or opened \ncavities).8,21 \n• Explanatory variables were grouped into 5 categories: \n1. Demographic data: age (<20 years, 20–39 years, \n≥40 years), sex (male/female), residence \n(Goma/outside Goma), \n2. Medical/surgical history: Diabetes mellitus, hy­\npertension, malnutrition (assessed by body mass \nindex determination), cancerous pathology, his­\ntory of laparotomy (yes/no), \n3. Preoperative parameters: Preoperative duration \n(days), wound class (clean/clean contaminated \nvs contaminated/dirty),5,9 antibiotic prophylaxis \n(yes/no), \n4. Intraoperative parameters: American Society of \nAnesthesiologists (ASA) score, type of anesthe­\nsia (locoregional/general), type of surgery \n(scheduled/emergency), procedure (classified as \nmini-laparotomy, full laparotomy, abdominal \nwall surgery), operative duration (hours), oper­\nRisk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\nEast and Central African Journal of Surgery\n21\n",
+   "n_chars": 4974,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      54.0,
+      55.0,
+      294.1,
+      105.6
+     ],
+     "text": "ease Control and Prevention (CDC) as infections occurring \nwithin 30 days postoperatively (or 1 year in case of an im­\nplant),5 vary in prevalence depending on the context, reach­\ning up to 26.7% in abdominal surgery.4,6‑9 \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      108.4,
+      294.1,
+      239.0
+     ],
+     "text": "Risk factors include preoperative elements (comorbidi­\nties, such as obesity and diabetes), intraoperative factors \n(duration of intervention, type of surgery), and postoper­\native factors (wound care).10‑14 Studies also highlight the \nimpact of practices such as blood transfusions or the sur­\ngeon’s experience.10,12,14 Despite preventive strategies rec­\nommended by the World Health Organization (WHO; hand \nhygiene, targeted antibiotic therapy)15 and the CDC (skin \nantisepsis, glycemic control),16 SSIs remain a major cause \nof health care-associated infections (20%–30% of cases),17 \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      241.5,
+      216.4,
+      252.6
+     ],
+     "text": "particularly in resource-limited settings. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      254.5,
+      294.1,
+      408.6
+     ],
+     "text": "Although these risks are documented, few recent studies \nintegrate the challenges of resource-limited contexts, such \nas that of HEAL Africa hospital (a tertiary care facility \nin Goma, Democratic Republic of Congo), which faces \nunique infrastructural and socioeconomic constraints. This \nprospective study aims to identify the risk factors for SSIs \nafter abdominal surgery in this specific setting and to de­\nvelop a tailored predictive model, combining clinical data \nand local prevention practices. By aligning protocols with \non-the-ground realities, this research offers avenues to re­\nduce SSIs and improve patient outcomes in similar environ­\nments.6,8,18 \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      422.4,
+      218.9,
+      441.4
+     ],
+     "text": "Materials and Methods \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      451.9,
+      206.8,
+      466.9
+     ],
+     "text": "Study type, site, and period \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      477.4,
+      294.1,
+      540.5
+     ],
+     "text": "This was a prospective, longitudinal, and analytical study \nconducted in the general surgery department of HEAL \nAfrica tertiary hospital in Goma, Democratic Republic of \nCongo. It spanned a period of 1 year from April 1, 2023 to \nApril 1, 2024. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      550.9,
+      151.1,
+      565.9
+     ],
+     "text": "Study population \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      576.4,
+      294.1,
+      600.5
+     ],
+     "text": "This study included all patients who underwent scheduled \nor emergency abdominal surgery during the study period. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      602.4,
+      294.1,
+      626.5
+     ],
+     "text": "Surgical procedures were categorized into 3 groups \nbased on the surgical approach: \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      91.0,
+      543.8,
+      180.0
+     ],
+     "text": "Patients were followed from the time of their admission \nuntil 30 days after the operation. The follow-up included \nward round in the hospital department during the admission \nand outpatient consultation or at the dressing clinic, or by \ntelephone interview after discharge. Followed patient were \nthen postoperatively stratified into 2 groups: those who de­\nveloped SSIs and those who did not. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      182.0,
+      543.8,
+      219.0
+     ],
+     "text": "Any patient who did not meet the inclusion criteria was \nnot included in this study. Exclusion criteria were as fol­\nlows: \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      312.0,
+      543.7,
+      349.0
+     ],
+     "text": "Our sample was a nonprobabilistic exhaustive sample \nincluding all hospitalized patients who underwent abdomi­\nnal surgery during the study period. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      359.5,
+      498.7,
+      374.5
+     ],
+     "text": "Study variables and data collection \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      382.5,
+      408.5,
+      397.5
+     ],
+     "text": "Dependent variable \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      509.2,
+      423.0,
+      524.2
+     ],
+     "text": "Independent variables \n"
+    },
+    {
+     "bbox": [
+      62.3,
+      631.4,
+      294.1,
+      773.3
+     ],
+     "text": "1. Abdominal wall surgery: Procedures such as hernia \nrepair (open sutured or mesh-based), \n2. Mini-laparotomy: Procedures performed through a \nsmall, targeted incision (typically 4–8 cm) using a \nmuscle-splitting technique to access a specific organ, \nsuch as appendectomy (via Gridiron, McBurney, or \nLanz incision), gastrostomy tube insertion, or stoma \nformation and closure,19,20 and \n3. Laparotomy: Procedures requiring a larger, ex­\nploratory incision (eg, midline, paramedian) for ex­\ntensive intra-abdominal-abdominal operations such \n"
+    },
+    {
+     "bbox": [
+      327.4,
+      55.0,
+      543.7,
+      79.0
+     ],
+     "text": "as bowel resection, trauma exploration, or peritonitis \nmanagement. \n"
+    },
+    {
+     "bbox": [
+      311.9,
+      224.0,
+      543.8,
+      300.0
+     ],
+     "text": "1. Patients transferred to another facility before com­\npleting the 30-day postoperative follow-up period, \n2. Patients who were lost to follow-up (ie, not reachable \nvia telephone for postdischarge assessment), and \n3. Patients who died intraoperatively, as the outcome of \ninterest (SSI) could not occur. \n"
+    },
+    {
+     "bbox": [
+      315.9,
+      408.0,
+      538.7,
+      497.9
+     ],
+     "text": "• Occurrence of a SSI: Defined according to CDC/Na­\ntional Health Care Safety Network criteria5,9 as an \ninfection occurring within 30 days postoperatively \n(or 1 year in case of an implant), classified into 3 \ntypes: superficial (skin/subcutaneous tissue), deep \n(fascia/muscle), or organ/space (organs or opened \ncavities).8,21 \n"
+    },
+    {
+     "bbox": [
+      315.9,
+      534.7,
+      543.7,
+      545.7
+     ],
+     "text": "• Explanatory variables were grouped into 5 categories: \n"
+    },
+    {
+     "bbox": [
+      318.3,
+      550.2,
+      528.8,
+      770.1
+     ],
+     "text": "1. Demographic data: age (<20 years, 20–39 years, \n≥40 years), sex (male/female), residence \n(Goma/outside Goma), \n2. Medical/surgical history: Diabetes mellitus, hy­\npertension, malnutrition (assessed by body mass \nindex determination), cancerous pathology, his­\ntory of laparotomy (yes/no), \n3. Preoperative parameters: Preoperative duration \n(days), wound class (clean/clean contaminated \nvs contaminated/dirty),5,9 antibiotic prophylaxis \n(yes/no), \n4. Intraoperative parameters: American Society of \nAnesthesiologists (ASA) score, type of anesthe­\nsia (locoregional/general), type of surgery \n(scheduled/emergency), procedure (classified as \nmini-laparotomy, full laparotomy, abdominal \nwall surgery), operative duration (hours), oper­\n"
+    },
+    {
+     "bbox": [
+      162.7,
+      22.2,
+      432.6,
+      31.8
+     ],
+     "text": "Risk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\n"
+    },
+    {
+     "bbox": [
+      231.6,
+      808.1,
+      541.3,
+      821.7
+     ],
+     "text": "East and Central African Journal of Surgery\n21\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "Data collection \nPatient preparation and follow-up \nPreoperative preparation followed WHO recommendations. \nFor scheduled surgeries, patients received a preoperative \nshower the night before surgery and the morning of the \nsurgery, and hair removal from incision sites (abdomen/\ngroin) was performed using an electric razor immediately \nbefore the surgical procedure. Skin preparation used povi­\ndone-iodine and surgeons disinfected their hands by wash­\ning with soap followed by hydroalcoholic friction. Ceftriax­\none antibiotic prophylaxis was administered intravenously \n30 minutes before incision, with adapted doses (2 g for \nadults, 50 mg/kg for children). \nAfter the intervention, patients were hospitalized and \nmonitored according to a structured protocol. The first \nwound inspection took place on the third postoperative day \n(day 3), followed by sterile dressing changes every 3 days \nuntil healing. In case of suspected SSI, the responsible sur­\ngeon confirmed the diagnosis according to CDC criteria \n(ie, confirmed by bacteriological analysis: pus collection \nby sterile aspiration for superficial suppurations or swab­\nbing for cases without visible discharge). Patients were fol­\nlowed for 30 days, including outpatient consultations and \ntelephone interviews for those discharged early. This ap­\nproach allowed participants to be classified into 2 groups: \nwith SSI (n = 71) and without SSI (n = 147), facilitating \ncomparative analyses. \nMicrobiological samples were processed according to \nstandardized protocols. Pus or swab samples were trans­\nported to the laboratory within 10 minutes, then gram-\nstained and cultured on aerobic (blood agar) and anaerobic \n(cooked broth) media. An antibiogram was performed in \ncase of bacterial growth. Negative cultures on day 3 were \nmaintained for up to 8 days to exclude delayed growth. \nThese methods, aligned with WHO and CDC guidelines, \nensured accurate identification of pathogens and their resis­\ntance profiles. \nStatistical analysis \nContinuous data, depending on their distribution, were \nsummarized by mean ± standard deviation (normal distrib­\nution) or median with interquartile range (non-normal dis­\ntribution). Categorical variables were described by counts \n(n) and percentages (%). Comparisons between groups used \nFisher’s exact test (expected counts <5) or Pearson’s χ2 test \n(expected counts ≥5). \nIdentification of SSI risk factors was based on univariate \nlogistic regression analysis, followed by a multivariate \nmodel including significant (P < .05) or clinically relevant \nvariables, selected by forward selection. The discriminatory \nperformance of the final model was assessed using the C \nstatistic (area under the receiver operating characteristic \ncurve). \nThe significance level was set at P < .05. Analyses were \nperformed using STATA 16.0 (StataCorp LP, College Sta­\ntion, TX). \nEthical considerations \nThe study was approved by the Medical Ethics committee \nof the University of Goma (approval number: UNIGOM/\nCEM/08/2023). Participant anonymity and data confiden­\ntiality were strictly preserved. Written informed consent \nwas obtained from each patient before their inclusion in the \nstudy. \nFor patients undergoing elective surgery and for those \nwho were clinically stable upon admission, written in­\nformed consent was obtained preoperatively. This occurred \nafter the surgical procedure had been explained but before \nthe patient was taken to the operating theater. For minors \nand incapacitated adults, consent was provided by a parent \nor legal guardian. \nFor patients requiring immediate, life-saving emergency \nsurgery, particularly those operated on during night hours, \nthe urgent clinical need took precedence. In these cases, the \nprocess of obtaining informed consent for study participa­\ntion was deferred to the postoperative period. Consent was \nsought from the patient (or from a parent or guardian if the \npatient was a minor, unconscious, or otherwise incapaci­\ntated) as soon as their clinical condition was stable. This \nwas typically during the first formal postoperative round on \nthe morning following the surgery. \nator qualification (specialist/Surgical resident), \nand \n5. Postoperative parameters: Infectious/noninfec­\ntious complications, length of hospital stay \n(days), survival/death. \n• Prospective design: Longitudinal follow-up of the \n218 patients for 30 postoperative days, including: \n• Sources: Medical records, operative reports, labora­\ntory results (bacterial cultures), \n• Antibiotic therapy: Adaptation of protocols according \nto wound class8: \n◦ Hospitalization: Daily nursing wound monitor­\ning was performed. Formal surgical inspection \nfor SSI was conducted on postoperative day 3 \nand then every 3 days thereafter, \n◦ Outpatient consultations: Follow-up of dress­\nings and SSI diagnosis in the clinic, and \n◦ Mobile phone: Calls to patients lost to follow-up \nto detect late SSIs. \n◦ Clean wounds: Short-course antibiotic therapy \n(<24 hours), \n◦ Contaminated/dirty wounds: Prolonged up to \n5–7 days for contaminated and ≥7 for dirty fol­\nlowing the local policy. \nRisk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\nEast and Central African Journal of Surgery\n22\n",
+   "n_chars": 5246,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      54.0,
+      128.5,
+      139.4,
+      143.5
+     ],
+     "text": "Data collection \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      417.6,
+      243.9,
+      432.6
+     ],
+     "text": "Patient preparation and follow-up \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      443.0,
+      294.1,
+      584.1
+     ],
+     "text": "Preoperative preparation followed WHO recommendations. \nFor scheduled surgeries, patients received a preoperative \nshower the night before surgery and the morning of the \nsurgery, and hair removal from incision sites (abdomen/\ngroin) was performed using an electric razor immediately \nbefore the surgical procedure. Skin preparation used povi­\ndone-iodine and surgeons disinfected their hands by wash­\ning with soap followed by hydroalcoholic friction. Ceftriax­\none antibiotic prophylaxis was administered intravenously \n30 minutes before incision, with adapted doses (2 g for \nadults, 50 mg/kg for children). \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      586.0,
+      294.1,
+      766.1
+     ],
+     "text": "After the intervention, patients were hospitalized and \nmonitored according to a structured protocol. The first \nwound inspection took place on the third postoperative day \n(day 3), followed by sterile dressing changes every 3 days \nuntil healing. In case of suspected SSI, the responsible sur­\ngeon confirmed the diagnosis according to CDC criteria \n(ie, confirmed by bacteriological analysis: pus collection \nby sterile aspiration for superficial suppurations or swab­\nbing for cases without visible discharge). Patients were fol­\nlowed for 30 days, including outpatient consultations and \ntelephone interviews for those discharged early. This ap­\nproach allowed participants to be classified into 2 groups: \nwith SSI (n = 71) and without SSI (n = 147), facilitating \ncomparative analyses. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      55.0,
+      543.8,
+      183.0
+     ],
+     "text": "Microbiological samples were processed according to \nstandardized protocols. Pus or swab samples were trans­\nported to the laboratory within 10 minutes, then gram-\nstained and cultured on aerobic (blood agar) and anaerobic \n(cooked broth) media. An antibiogram was performed in \ncase of bacterial growth. Negative cultures on day 3 were \nmaintained for up to 8 days to exclude delayed growth. \nThese methods, aligned with WHO and CDC guidelines, \nensured accurate identification of pathogens and their resis­\ntance profiles. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      193.5,
+      408.6,
+      208.5
+     ],
+     "text": "Statistical analysis \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      219.0,
+      543.8,
+      308.6
+     ],
+     "text": "Continuous data, depending on their distribution, were \nsummarized by mean ± standard deviation (normal distrib­\nution) or median with interquartile range (non-normal dis­\ntribution). Categorical variables were described by counts \n(n) and percentages (%). Comparisons between groups used \nFisher’s exact test (expected counts <5) or Pearson’s χ2 test \n(expected counts ≥5). \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      310.5,
+      543.8,
+      399.6
+     ],
+     "text": "Identification of SSI risk factors was based on univariate \nlogistic regression analysis, followed by a multivariate \nmodel including significant (P < .05) or clinically relevant \nvariables, selected by forward selection. The discriminatory \nperformance of the final model was assessed using the C \nstatistic (area under the receiver operating characteristic \ncurve). \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      401.5,
+      543.8,
+      438.6
+     ],
+     "text": "The significance level was set at P < .05. Analyses were \nperformed using STATA 16.0 (StataCorp LP, College Sta­\ntion, TX). \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      449.1,
+      427.7,
+      464.1
+     ],
+     "text": "Ethical considerations \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      474.5,
+      543.8,
+      550.6
+     ],
+     "text": "The study was approved by the Medical Ethics committee \nof the University of Goma (approval number: UNIGOM/\nCEM/08/2023). Participant anonymity and data confiden­\ntiality were strictly preserved. Written informed consent \nwas obtained from each patient before their inclusion in the \nstudy. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      552.5,
+      543.8,
+      641.6
+     ],
+     "text": "For patients undergoing elective surgery and for those \nwho were clinically stable upon admission, written in­\nformed consent was obtained preoperatively. This occurred \nafter the surgical procedure had been explained but before \nthe patient was taken to the operating theater. For minors \nand incapacitated adults, consent was provided by a parent \nor legal guardian. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      643.5,
+      543.8,
+      771.6
+     ],
+     "text": "For patients requiring immediate, life-saving emergency \nsurgery, particularly those operated on during night hours, \nthe urgent clinical need took precedence. In these cases, the \nprocess of obtaining informed consent for study participa­\ntion was deferred to the postoperative period. Consent was \nsought from the patient (or from a parent or guardian if the \npatient was a minor, unconscious, or otherwise incapaci­\ntated) as soon as their clinical condition was stable. This \nwas typically during the first formal postoperative round on \nthe morning following the surgery. \n"
+    },
+    {
+     "bbox": [
+      68.7,
+      55.0,
+      279.1,
+      118.0
+     ],
+     "text": "ator qualification (specialist/Surgical resident), \nand \n5. Postoperative parameters: Infectious/noninfec­\ntious complications, length of hospital stay \n(days), survival/death. \n"
+    },
+    {
+     "bbox": [
+      66.3,
+      154.0,
+      294.1,
+      178.0
+     ],
+     "text": "• Prospective design: Longitudinal follow-up of the \n218 patients for 30 postoperative days, including: \n"
+    },
+    {
+     "bbox": [
+      66.3,
+      289.0,
+      294.1,
+      339.0
+     ],
+     "text": "• Sources: Medical records, operative reports, labora­\ntory results (bacterial cultures), \n• Antibiotic therapy: Adaptation of protocols according \nto wound class8: \n"
+    },
+    {
+     "bbox": [
+      72.6,
+      182.5,
+      279.2,
+      284.5
+     ],
+     "text": "◦ Hospitalization: Daily nursing wound monitor­\ning was performed. Formal surgical inspection \nfor SSI was conducted on postoperative day 3 \nand then every 3 days thereafter, \n◦ Outpatient consultations: Follow-up of dress­\nings and SSI diagnosis in the clinic, and \n◦ Mobile phone: Calls to patients lost to follow-up \nto detect late SSIs. \n"
+    },
+    {
+     "bbox": [
+      72.6,
+      344.0,
+      279.2,
+      407.1
+     ],
+     "text": "◦ Clean wounds: Short-course antibiotic therapy \n(<24 hours), \n◦ Contaminated/dirty wounds: Prolonged up to \n5–7 days for contaminated and ≥7 for dirty fol­\nlowing the local policy. \n"
+    },
+    {
+     "bbox": [
+      162.7,
+      22.2,
+      432.6,
+      31.8
+     ],
+     "text": "Risk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\n"
+    },
+    {
+     "bbox": [
+      231.6,
+      808.1,
+      541.3,
+      821.7
+     ],
+     "text": "East and Central African Journal of Surgery\n22\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Figure 1. Occurrence of surgical site \ninfections in relation to type. \nSSI, surgical site infection. \nDuring this consent discussion, the study’s purpose, pro­\ncedures, potential risks and benefits, and the strict confiden­\ntiality of all data were explained in detail in the patient’s \npreferred language. It was emphatically stated that partici­\npation was entirely voluntary and that the decision to par­\nticipate or decline would in no way affect the standard of \nmedical or surgical care received. All participants (or their \nguardians) provided written informed consent. No patients \nor their representatives opted out of the study. Patients who \ndid not provide consent received the full standard of care \nbut were excluded from data collection and analysis. \nResults \nAmong the 218 patients included (mean age: 27.1 ± 20.3 \nyears; median: 25 years [interquartile range: 8–41]), a ma­\njority were male (65.1%, n = 142) and resided in Goma \n(82.1%, n = 179). Comorbidities included malnutrition \n(10.6%, n = 23), history of laparotomy (8.7%, n = 19), \nand cancerous pathologies (4.1%, n = 9). Surgery was per­\nformed within 7 days of admission for 79.8% of cases (n \n= 174), with wounds mostly classified as clean (75.2%, n \n= 164) and antibiotic prophylaxis administered in 92.7% of \ncases (n = 202). Most patients were classified as ASA I \n(79.8%, n = 174), and 52.3% of interventions were sched­\nuled (n = 114), primarily laparotomies (45.9%, n = 100) \nand hernia repairs (36.7%, n = 80). The median operative \nduration was 60 minutes [interquartile range: 45–90], with \n61.0% of procedures ≤1 hour (n = 133). SSIs occurred in \n32.6% of patients (n = 71), associated with a median hospi­\ntal stay of 7 days. \nSSI distribution varied significantly by type of surgery \n(Figure 1): 59% after laparotomy (vs. 0% for hernia repairs, \nP < .0001) and 31.6% after mini-laparotomy. \nOf the 218 patients, 194 (89.0%) survived and 24 \n(11.0%) died. A marked disparity was observed between \nthe groups without SSI (survival: 95.24%) and with SSI \n(survival: 76.06%; death: 23.94%). The analysis reveals \na significant association between SSIs and postoperative \nFigure 2. Impact of postoperative surgical site \ninfections in abdominal surgery on clinical \noutcomes. \nmortality (odds ratio [OR] = 6.3; 95% confidence interval \n[CI], 2.5–16.0; P < .0001), as illustrated in Figure 2. \nBivariate analysis identified several factors significantly \nassociated with SSIs. Patient-related factors included age (P \n= .0024), malnutrition (P < .0001), history of laparotomy \n(P = 0.006), and cancerous pathologies (P = .026). Proce­\ndural factors included a preoperative duration ≥7 days (P < \n.0001), contaminated wounds (P < .0001), absence of an­\ntibiotic prophylaxis (P = .0005), emergency surgeries (P < \n.0001), laparotomies (P < .0001), and operative duration >1 \nhour (P < .0001). Conversely, sex (P = .081), ASA classi­\nfication (P = .105), residence (P = .498), and type of prac­\ntitioner (P = .055) did not show a significant association \n(Table 1). \nMultivariate analysis identified 4 independent risk fac­\ntors for SSIs. Laparotomy was associated with a 4.2-fold \nincreased risk (adjusted OR = 4.2; 95% CI, 1.7–10.3; P < \n.0001), and malnutrition increased this risk by 5.2 times \n(adjusted OR = 5.2; 95% CI, 1.3–20.7; P = .02). Further­\nmore, contaminated or dirty wounds (adjusted OR = 4.5; \n95% CI, 1.8–11.5; P < .0001) and operative duration ex­\nceeding 1 hour (adjusted OR = 15.3; 95% CI, 6.4–36.6; P \n< .0001) emerged as major predictors, the latter being the \nfactor most strongly associated with SSIs (Table 2). \nThe logistic regression model showed excellent discrim­\ninatory performance for predicting SSIs in abdominal \nsurgery, with an area under the receiver operating char­\nacteristic curve (area under the curve) of 0.917 (95% CI, \n0.876–0.958; P < .001), indicating high predictive accuracy \n(Figure 3). \nThe average SSI risk score was 2.3 ± 2.4 for all patients. \nA significant difference was observed between the groups \nwith SSI (4.8 ± 1.8) and without SSI (1.1 ± 1.6, P < .0001). \nAnalysis stratified by score thresholds (0, 1–3, ≥4) revealed \na gradual increase in SSI incidence with increasing score \n(Figure 4). These results confirm the predictive value of the \nscore for identifying high-risk patients, offering a potential \ntool for optimizing preventive strategies in clinical practice. \nRisk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\nEast and Central African Journal of Surgery\n23\n",
+   "n_chars": 4550,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      54.0,
+      203.0,
+      216.1,
+      227.5
+     ],
+     "text": "Figure 1. Occurrence of surgical site \ninfections in relation to type. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      233.7,
+      120.3,
+      240.3
+     ],
+     "text": "SSI, surgical site infection. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      259.5,
+      294.1,
+      400.5
+     ],
+     "text": "During this consent discussion, the study’s purpose, pro­\ncedures, potential risks and benefits, and the strict confiden­\ntiality of all data were explained in detail in the patient’s \npreferred language. It was emphatically stated that partici­\npation was entirely voluntary and that the decision to par­\nticipate or decline would in no way affect the standard of \nmedical or surgical care received. All participants (or their \nguardians) provided written informed consent. No patients \nor their representatives opted out of the study. Patients who \ndid not provide consent received the full standard of care \nbut were excluded from data collection and analysis. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      413.5,
+      108.6,
+      432.5
+     ],
+     "text": "Results \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      445.5,
+      294.1,
+      664.5
+     ],
+     "text": "Among the 218 patients included (mean age: 27.1 ± 20.3 \nyears; median: 25 years [interquartile range: 8–41]), a ma­\njority were male (65.1%, n = 142) and resided in Goma \n(82.1%, n = 179). Comorbidities included malnutrition \n(10.6%, n = 23), history of laparotomy (8.7%, n = 19), \nand cancerous pathologies (4.1%, n = 9). Surgery was per­\nformed within 7 days of admission for 79.8% of cases (n \n= 174), with wounds mostly classified as clean (75.2%, n \n= 164) and antibiotic prophylaxis administered in 92.7% of \ncases (n = 202). Most patients were classified as ASA I \n(79.8%, n = 174), and 52.3% of interventions were sched­\nuled (n = 114), primarily laparotomies (45.9%, n = 100) \nand hernia repairs (36.7%, n = 80). The median operative \nduration was 60 minutes [interquartile range: 45–90], with \n61.0% of procedures ≤1 hour (n = 133). SSIs occurred in \n32.6% of patients (n = 71), associated with a median hospi­\ntal stay of 7 days. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      666.5,
+      294.1,
+      703.5
+     ],
+     "text": "SSI distribution varied significantly by type of surgery \n(Figure 1): 59% after laparotomy (vs. 0% for hernia repairs, \nP < .0001) and 31.6% after mini-laparotomy. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      705.5,
+      294.1,
+      768.5
+     ],
+     "text": "Of the 218 patients, 194 (89.0%) survived and 24 \n(11.0%) died. A marked disparity was observed between \nthe groups without SSI (survival: 95.24%) and with SSI \n(survival: 76.06%; death: 23.94%). The analysis reveals \na significant association between SSIs and postoperative \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      222.6,
+      512.1,
+      259.3
+     ],
+     "text": "Figure 2. Impact of postoperative surgical site \ninfections in abdominal surgery on clinical \noutcomes. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      277.3,
+      543.7,
+      301.4
+     ],
+     "text": "mortality (odds ratio [OR] = 6.3; 95% confidence interval \n[CI], 2.5–16.0; P < .0001), as illustrated in Figure 2. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      303.3,
+      543.8,
+      457.4
+     ],
+     "text": "Bivariate analysis identified several factors significantly \nassociated with SSIs. Patient-related factors included age (P \n= .0024), malnutrition (P < .0001), history of laparotomy \n(P = 0.006), and cancerous pathologies (P = .026). Proce­\ndural factors included a preoperative duration ≥7 days (P < \n.0001), contaminated wounds (P < .0001), absence of an­\ntibiotic prophylaxis (P = .0005), emergency surgeries (P < \n.0001), laparotomies (P < .0001), and operative duration >1 \nhour (P < .0001). Conversely, sex (P = .081), ASA classi­\nfication (P = .105), residence (P = .498), and type of prac­\ntitioner (P = .055) did not show a significant association \n(Table 1). \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      459.3,
+      543.8,
+      587.4
+     ],
+     "text": "Multivariate analysis identified 4 independent risk fac­\ntors for SSIs. Laparotomy was associated with a 4.2-fold \nincreased risk (adjusted OR = 4.2; 95% CI, 1.7–10.3; P < \n.0001), and malnutrition increased this risk by 5.2 times \n(adjusted OR = 5.2; 95% CI, 1.3–20.7; P = .02). Further­\nmore, contaminated or dirty wounds (adjusted OR = 4.5; \n95% CI, 1.8–11.5; P < .0001) and operative duration ex­\nceeding 1 hour (adjusted OR = 15.3; 95% CI, 6.4–36.6; P \n< .0001) emerged as major predictors, the latter being the \nfactor most strongly associated with SSIs (Table 2). \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      589.3,
+      543.8,
+      665.4
+     ],
+     "text": "The logistic regression model showed excellent discrim­\ninatory performance for predicting SSIs in abdominal \nsurgery, with an area under the receiver operating char­\nacteristic curve (area under the curve) of 0.917 (95% CI, \n0.876–0.958; P < .001), indicating high predictive accuracy \n(Figure 3). \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      667.3,
+      543.8,
+      769.4
+     ],
+     "text": "The average SSI risk score was 2.3 ± 2.4 for all patients. \nA significant difference was observed between the groups \nwith SSI (4.8 ± 1.8) and without SSI (1.1 ± 1.6, P < .0001). \nAnalysis stratified by score thresholds (0, 1–3, ≥4) revealed \na gradual increase in SSI incidence with increasing score \n(Figure 4). These results confirm the predictive value of the \nscore for identifying high-risk patients, offering a potential \ntool for optimizing preventive strategies in clinical practice. \n"
+    },
+    {
+     "bbox": [
+      162.7,
+      22.2,
+      432.6,
+      31.8
+     ],
+     "text": "Risk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\n"
+    },
+    {
+     "bbox": [
+      231.6,
+      808.1,
+      541.3,
+      821.7
+     ],
+     "text": "East and Central African Journal of Surgery\n23\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "Table 1. Bivariate analyses of SSI risk factors \nVariable \nTotal \n(N = 218) \nISO \nP value \nYes (n = 71), \nn (%) \nNo (n = 147), \nn (%) \nAge \n.0024 \n<20 y \n83 \n16 (19.3) \n67 (80.7) \n20–39 y \n76 \n34 (44.7) \n42 (55.3) \n≥40 y \n59 \n21 (35.6) \n38 (64.4) \nSex \n.0813 \nMale \n142 \n40 (28.2) \n102 (71.8) \nFemale \n76 \n31 (40.8) \n45 (59.2) \nResidence \n.4977 \nGoma \n179 \n56 (31.3) \n123 (68.7) \nOutside Goma \n39 \n15 (38.5) \n24 (61.5) \nMalnutrition \n<.0001 \nPresent \n23 \n17 (73.9) \n6 (26.1) \nAbsent \n195 \n54 (27.7) \n141 (72.3) \nHistory of laparotomy \n.006 \nYes \n19 \n12 (63.2) \n7 (36.8) \nNo \n199 \n59 (29.7) \n140 (70.3) \nCancer pathology \n.026 \nAbsent \n209 \n65 (31.1) \n144 (68.9) \nPresent \n9 \n6 (66.7) \n3 (33.3) \nPreoperative time \n<.0001 \n<7 d \n174 \n40 (23.0) \n134 (77.0) \n≥7 d \n44 \n31 (70.5) \n13 (29.6) \nType of wound \n<.0001 \nContaminated/dirty \n54 \n34 (63.0) \n20 (37.0) \nClean \n164 \n37 (22.6) \n127 (77.4) \nPreoperative antibiotic prophylaxis \n.0005 \nYes \n202 \n59 (29.2) \n143 (70.8) \nNo \n16 \n12 (75.0) \n4 (25.0) \nClassification ASA \n.105 \nASA I \n174 \n54 (31.0) \n120 (69.0) \nASA II \n42 \n15 (35.7) \n27 (64.3) \nASA III \n2 \n2 (100.0) \n0 (0.0) \nUrgency of the procedure \n<.0001 \nElective \n114 \n17 (14.9) \n97 (85.1) \nUrgent \n104 \n54 (51.9) \n50 (48.1) \nType of surgery \n<.0001 \nOther \n118 \n12(10.2) \n106 (89.8) \nLaparotomy \n100 \n59 (59.0) \n41 (41.0) \nOperating time \n<.0001 \n≤1 hr \n133 \n11 (8.3) \n122 (91.7) \n>1 hr \n85 \n60 (70.6) \n25 (29.4) \nSurgeon qualification \n.055 \nSpecialist surgeon \n150 \n55 (36.7) \n95 (63.3) \nSurgical resident \n68 \n16 (23.5) \n52 (76.5) \nAbbreviations: ASA, American Society of Anesthesiologists, SSI, surgical site infection. \nRisk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\nEast and Central African Journal of Surgery\n24\n",
+   "n_chars": 1764,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      54.0,
+      54.0,
+      256.4,
+      66.2
+     ],
+     "text": "Table 1. Bivariate analyses of SSI risk factors \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      86.7,
+      295.5,
+      105.9
+     ],
+     "text": "Variable \nTotal \n(N = 218) \n"
+    },
+    {
+     "bbox": [
+      389.8,
+      79.3,
+      404.5,
+      88.9
+     ],
+     "text": "ISO \n"
+    },
+    {
+     "bbox": [
+      332.6,
+      91.5,
+      525.1,
+      103.7
+     ],
+     "text": "P value \nYes (n = 71), \n"
+    },
+    {
+     "bbox": [
+      344.9,
+      103.7,
+      363.8,
+      113.3
+     ],
+     "text": "n (%) \n"
+    },
+    {
+     "bbox": [
+      414.9,
+      94.1,
+      461.4,
+      103.7
+     ],
+     "text": "No (n = 147), \n"
+    },
+    {
+     "bbox": [
+      428.7,
+      103.7,
+      447.6,
+      113.3
+     ],
+     "text": "n (%) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      118.6,
+      522.4,
+      128.2
+     ],
+     "text": "Age \n.0024 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      132.7,
+      454.6,
+      142.3
+     ],
+     "text": "<20 y \n83 \n16 (19.3) \n67 (80.7) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      146.8,
+      454.6,
+      156.4
+     ],
+     "text": "20–39 y \n76 \n34 (44.7) \n42 (55.3) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      160.9,
+      454.6,
+      170.5
+     ],
+     "text": "≥40 y \n59 \n21 (35.6) \n38 (64.4) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      175.0,
+      522.4,
+      184.6
+     ],
+     "text": "Sex \n.0813 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      189.1,
+      456.9,
+      198.7
+     ],
+     "text": "Male \n142 \n40 (28.2) \n102 (71.8) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      203.2,
+      454.6,
+      212.8
+     ],
+     "text": "Female \n76 \n31 (40.8) \n45 (59.2) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      217.3,
+      522.4,
+      226.9
+     ],
+     "text": "Residence \n.4977 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      231.4,
+      456.9,
+      241.0
+     ],
+     "text": "Goma \n179 \n56 (31.3) \n123 (68.7) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      245.5,
+      454.6,
+      255.1
+     ],
+     "text": "Outside Goma \n39 \n15 (38.5) \n24 (61.5) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      259.6,
+      524.7,
+      269.2
+     ],
+     "text": "Malnutrition \n<.0001 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      273.7,
+      452.2,
+      283.3
+     ],
+     "text": "Present \n23 \n17 (73.9) \n6 (26.1) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      287.8,
+      456.9,
+      297.4
+     ],
+     "text": "Absent \n195 \n54 (27.7) \n141 (72.3) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      301.9,
+      520.1,
+      311.5
+     ],
+     "text": "History of laparotomy \n.006 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      316.0,
+      452.2,
+      325.6
+     ],
+     "text": "Yes \n19 \n12 (63.2) \n7 (36.8) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      330.1,
+      456.9,
+      339.7
+     ],
+     "text": "No \n199 \n59 (29.7) \n140 (70.3) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      344.2,
+      520.1,
+      353.8
+     ],
+     "text": "Cancer pathology \n.026 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      358.3,
+      456.9,
+      367.9
+     ],
+     "text": "Absent \n209 \n65 (31.1) \n144 (68.9) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      372.4,
+      452.2,
+      382.0
+     ],
+     "text": "Present \n9 \n6 (66.7) \n3 (33.3) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      386.5,
+      524.7,
+      396.1
+     ],
+     "text": "Preoperative time \n<.0001 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      400.6,
+      456.9,
+      410.2
+     ],
+     "text": "<7 d \n174 \n40 (23.0) \n134 (77.0) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      414.7,
+      454.6,
+      424.3
+     ],
+     "text": "≥7 d \n44 \n31 (70.5) \n13 (29.6) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      428.8,
+      524.7,
+      438.4
+     ],
+     "text": "Type of wound \n<.0001 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      442.9,
+      454.6,
+      452.5
+     ],
+     "text": "Contaminated/dirty \n54 \n34 (63.0) \n20 (37.0) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      457.0,
+      456.9,
+      466.6
+     ],
+     "text": "Clean \n164 \n37 (22.6) \n127 (77.4) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      471.1,
+      522.4,
+      480.7
+     ],
+     "text": "Preoperative antibiotic prophylaxis \n.0005 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      485.2,
+      456.9,
+      494.8
+     ],
+     "text": "Yes \n202 \n59 (29.2) \n143 (70.8) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      499.3,
+      452.2,
+      508.9
+     ],
+     "text": "No \n16 \n12 (75.0) \n4 (25.0) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      513.4,
+      520.1,
+      523.0
+     ],
+     "text": "Classification ASA \n.105 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      527.5,
+      456.9,
+      537.1
+     ],
+     "text": "ASA I \n174 \n54 (31.0) \n120 (69.0) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      541.6,
+      454.6,
+      551.2
+     ],
+     "text": "ASA II \n42 \n15 (35.7) \n27 (64.3) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      555.7,
+      449.9,
+      565.3
+     ],
+     "text": "ASA III \n2 \n2 (100.0) \n0 (0.0) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      569.8,
+      524.7,
+      579.4
+     ],
+     "text": "Urgency of the procedure \n<.0001 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      583.9,
+      454.6,
+      593.5
+     ],
+     "text": "Elective \n114 \n17 (14.9) \n97 (85.1) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      598.0,
+      454.6,
+      607.6
+     ],
+     "text": "Urgent \n104 \n54 (51.9) \n50 (48.1) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      612.1,
+      524.7,
+      621.7
+     ],
+     "text": "Type of surgery \n<.0001 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      626.2,
+      456.9,
+      635.8
+     ],
+     "text": "Other \n118 \n12(10.2) \n106 (89.8) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      640.3,
+      454.6,
+      649.9
+     ],
+     "text": "Laparotomy \n100 \n59 (59.0) \n41 (41.0) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      654.4,
+      524.7,
+      664.0
+     ],
+     "text": "Operating time \n<.0001 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      668.5,
+      456.9,
+      678.1
+     ],
+     "text": "≤1 hr \n133 \n11 (8.3) \n122 (91.7) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      682.6,
+      454.6,
+      692.2
+     ],
+     "text": ">1 hr \n85 \n60 (70.6) \n25 (29.4) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      696.7,
+      520.1,
+      706.3
+     ],
+     "text": "Surgeon qualification \n.055 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      710.8,
+      454.6,
+      720.4
+     ],
+     "text": "Specialist surgeon \n150 \n55 (36.7) \n95 (63.3) \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      724.9,
+      454.6,
+      734.5
+     ],
+     "text": "Surgical resident \n68 \n16 (23.5) \n52 (76.5) \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      747.0,
+      268.9,
+      753.7
+     ],
+     "text": "Abbreviations: ASA, American Society of Anesthesiologists, SSI, surgical site infection. \n"
+    },
+    {
+     "bbox": [
+      162.7,
+      22.2,
+      432.6,
+      31.8
+     ],
+     "text": "Risk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\n"
+    },
+    {
+     "bbox": [
+      231.6,
+      808.1,
+      541.3,
+      821.7
+     ],
+     "text": "East and Central African Journal of Surgery\n24\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "Table 2. Multivariate analysis of factors associated with SSIs in the studied population \nVariable \nAdjusted OR \n[95% CI] \nP value \nCoefficient \nScore \nInvasiveness of the procedure \nAbdominal wall + mini-laparotomy surgery \n1.0 \nLaparotomy \n4.2 [1.7–10.3] \n<.0001 \n1.44 \n1 \nMalnutrition \nAbsent \n1,0 \nPresent \n5.2 [1.3–20.7] \n.02 \n1.64 \n2 \nType of wound \nClean \n1,0 \nContaminated/dirty \n4.5 [1.8–11.5] \n<.0001 \n1.51 \n2 \nOperating time \n≤1 hr \n1,0 \n>1 hr \n15.3 [6.4–36.6] \n<.0001 \n2.7 \n3 \nAbbreviations: SSI, surgical site infection. \nFigure 3. Receiver operating characteristic curve \nshowing the discriminatory performance of the \nscore for predicting surgical site infections during \nabdominal surgery. \nROC, receiver operating characteristic. \nDiscussion \nOur study revealed an SSI incidence of 32.6% in patients \nundergoing abdominal surgery at HEAL Africa hospital. \nThe incidence of SSIs observed in our study stands notably \nhigher than figures reported in comparable research. When \nwe examined the broader literature, we found Aga et al7 \ndocumented SSIs in 22.2% of abdominal surgery cases in \ntheir prospective study. Alkaaki et al9 reported a slightly \nlower rate of 16.3%, whereas data from Guzmán-García et \nal8 from a Mexican cohort showed just 12% incidence. In­\nterestingly, Hernandez et al6 findings from a Peruvian hos­\npital came closest to our results at 26.7%. This variation \nacross studies reflects profound differences in clinical en­\nvironments and patient populations. At HEAL Africa hos­\npital in Goma, we’re confronting challenges that many bet­\nFigure 4. Prevalence of surgical site infections \nstratified by the predictive score for infectious \ncomplications during abdominal surgery. \nSSI, surgical site infections. \nter-resourced settings don’t face to the same degree. Our \npatients often present with advanced disease due to delayed \npresentation, and our surgical teams work with constrained \nresources. The socioeconomic realities of our region, where \nmalnutrition is endemic and access to basic medical care \nremains inconsistent, create a perfect storm for postopera­\ntive complications. These contextual factors explain much \nof the disparity between our SSI rates and those reported \nelsewhere. \nWhen we examined the specific risk factors contributing \nto SSIs, malnutrition emerges as particularly devastating. \nOur adjusted odds ratio of 5.2 (95% CI, 1.3–20.7; P = 0.02) \nconfirms what surgeons have long suspected: a malnour­\nished patient faces dramatically worse surgical outcomes. \nThis finding aligns with Pessaux et al16 earlier work and \nmakes physiological sense when we consider how hypoal­\nbuminemia, which is marker of chronic malnutrition, im­\npairs the wound healing and immune function. The work \nof Guzmán-García et al8 and Haridas and Malangoni17 has \nRisk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\nEast and Central African Journal of Surgery\n25\n",
+   "n_chars": 2946,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      54.0,
+      54.0,
+      442.8,
+      66.2
+     ],
+     "text": "Table 2. Multivariate analysis of factors associated with SSIs in the studied population \n"
+    },
+    {
+     "bbox": [
+      143.1,
+      79.3,
+      332.6,
+      93.7
+     ],
+     "text": "Variable \nAdjusted OR \n"
+    },
+    {
+     "bbox": [
+      293.3,
+      84.1,
+      526.8,
+      98.5
+     ],
+     "text": "[95% CI] \nP value \nCoefficient \nScore \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      103.7,
+      173.0,
+      113.3
+     ],
+     "text": "Invasiveness of the procedure \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      117.8,
+      315.3,
+      127.4
+     ],
+     "text": "Abdominal wall + mini-laparotomy surgery \n1.0 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      131.9,
+      519.1,
+      141.5
+     ],
+     "text": "Laparotomy \n4.2 [1.7–10.3] \n<.0001 \n1.44 \n1 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      146.0,
+      112.6,
+      155.6
+     ],
+     "text": "Malnutrition \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      160.1,
+      315.3,
+      169.7
+     ],
+     "text": "Absent \n1,0 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      174.2,
+      519.1,
+      183.8
+     ],
+     "text": "Present \n5.2 [1.3–20.7] \n.02 \n1.64 \n2 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      188.3,
+      118.8,
+      197.9
+     ],
+     "text": "Type of wound \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      202.4,
+      315.3,
+      212.0
+     ],
+     "text": "Clean \n1,0 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      216.5,
+      519.1,
+      226.1
+     ],
+     "text": "Contaminated/dirty \n4.5 [1.8–11.5] \n<.0001 \n1.51 \n2 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      230.6,
+      121.1,
+      240.2
+     ],
+     "text": "Operating time \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      244.7,
+      315.3,
+      254.3
+     ],
+     "text": "≤1 hr \n1,0 \n"
+    },
+    {
+     "bbox": [
+      65.2,
+      258.8,
+      519.1,
+      268.4
+     ],
+     "text": ">1 hr \n15.3 [6.4–36.6] \n<.0001 \n2.7 \n3 \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      281.0,
+      157.4,
+      287.6
+     ],
+     "text": "Abbreviations: SSI, surgical site infection. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      490.5,
+      279.1,
+      539.6
+     ],
+     "text": "Figure 3. Receiver operating characteristic curve \nshowing the discriminatory performance of the \nscore for predicting surgical site infections during \nabdominal surgery. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      545.7,
+      149.2,
+      552.4
+     ],
+     "text": "ROC, receiver operating characteristic. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      568.5,
+      131.7,
+      587.6
+     ],
+     "text": "Discussion \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      600.5,
+      294.1,
+      663.6
+     ],
+     "text": "Our study revealed an SSI incidence of 32.6% in patients \nundergoing abdominal surgery at HEAL Africa hospital. \nThe incidence of SSIs observed in our study stands notably \nhigher than figures reported in comparable research. When \nwe examined the broader literature, we found Aga et al7 \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      666.1,
+      294.1,
+      782.9
+     ],
+     "text": "documented SSIs in 22.2% of abdominal surgery cases in \ntheir prospective study. Alkaaki et al9 reported a slightly \nlower rate of 16.3%, whereas data from Guzmán-García et \nal8 from a Mexican cohort showed just 12% incidence. In­\nterestingly, Hernandez et al6 findings from a Peruvian hos­\npital came closest to our results at 26.7%. This variation \nacross studies reflects profound differences in clinical en­\nvironments and patient populations. At HEAL Africa hos­\npital in Goma, we’re confronting challenges that many bet­\n"
+    },
+    {
+     "bbox": [
+      303.6,
+      466.6,
+      514.9,
+      503.4
+     ],
+     "text": "Figure 4. Prevalence of surgical site infections \nstratified by the predictive score for infectious \ncomplications during abdominal surgery. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      509.6,
+      372.2,
+      516.2
+     ],
+     "text": "SSI, surgical site infections. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      535.3,
+      543.8,
+      650.4
+     ],
+     "text": "ter-resourced settings don’t face to the same degree. Our \npatients often present with advanced disease due to delayed \npresentation, and our surgical teams work with constrained \nresources. The socioeconomic realities of our region, where \nmalnutrition is endemic and access to basic medical care \nremains inconsistent, create a perfect storm for postopera­\ntive complications. These contextual factors explain much \nof the disparity between our SSI rates and those reported \nelsewhere. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      652.3,
+      543.8,
+      781.0
+     ],
+     "text": "When we examined the specific risk factors contributing \nto SSIs, malnutrition emerges as particularly devastating. \nOur adjusted odds ratio of 5.2 (95% CI, 1.3–20.7; P = 0.02) \nconfirms what surgeons have long suspected: a malnour­\nished patient faces dramatically worse surgical outcomes. \nThis finding aligns with Pessaux et al16 earlier work and \nmakes physiological sense when we consider how hypoal­\nbuminemia, which is marker of chronic malnutrition, im­\npairs the wound healing and immune function. The work \nof Guzmán-García et al8 and Haridas and Malangoni17 has \n"
+    },
+    {
+     "bbox": [
+      162.7,
+      22.2,
+      432.6,
+      31.8
+     ],
+     "text": "Risk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\n"
+    },
+    {
+     "bbox": [
+      231.6,
+      808.1,
+      541.3,
+      821.7
+     ],
+     "text": "East and Central African Journal of Surgery\n25\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "well elucidated this mechanism, showing how depleted pro­\ntein stores leave patients vulnerable to infection at precisely \nthe moment they need robust defenses.18,21 In our clinical \nexperience, these patients don’t just develop infections \nmore often, their infections tend to be more severe, more \npersistent, and more likely to require reoperation. The \ndownstream consequences include prolonged hospital stays \nthat strain limited bed capacity,22,23 high treatment costs \nthat families can ill afford,24,25 and in some cases, entirely \npreventable deaths. This is why we’ve begun implementing \nmandatory nutritional screening for all elective abdominal \nsurgery cases. \nThe choice of surgical approach plays an equally critical \nrole in infection risk. Our data reveal that laparotomy car­\nries a 4.2-fold higher SSI risk compared to abdominal wall \nprocedures like hernia repairs or mini-laparotomy ap­\nproaches such as appendectomy (adjusted OR = 4.2; 95% \nCI, 1.7–10.3; P < .0001). We suspect this risk differential \nwould be even more pronounced if we could compare it to \nlaparoscopic techniques, though our current setting doesn’t \nyet permit such minimally invasive approaches. This can \nbe explained by the fact that a large midline incision repre­\nsents a massive insult to the abdominal wall’s integrity and \nthis creates an extended portal for microbial invasion and \nsimultaneously compromises local tissue perfusion. Ming \net al’s12 work on laparoscopic appendectomy demonstrates \nthe flip side of this equation, showing how smaller incisions \ntranslate directly to fewer infections. Yet in our setting, la­\nparotomy remains necessary for many cases due to both the \nadvanced pathology we encounter and our limited access to \nadvanced laparoscopic equipment. The patients who most \noften require these open approaches—those with complex \ncomorbidities like uncontrolled diabetes or morbid obe­\nsity—are precisely those least equipped to fight off sub­\nsequent infections.26,27 It’s a cruel paradox that demands \nconstant vigilance in our preoperative planning and postop­\nerative monitoring. \nOperative duration emerged as our most striking risk \nfactor, with procedures exceeding 1 hour showing a stag­\ngering 15.3-fold increase in SSI risk (adjusted OR = 15.3; \n95% CI, 6.4–36.6; P < .0001). The CI here leave little \nroom for doubt about the magnitude of this effect. This \nfinding, consistent with numerous previous studies,4,6,8,9,\n16,28 reflects multiple compounding hazards. Every addi­\ntional minute under anesthesia represents another oppor­\ntunity for bacterial colonization, another increment of im­\nmunosuppression from surgical stress, and another decline \nin tissue antibiotic concentrations.29 The physical reality \nof prolonged retraction and manipulation causes measur­\nable tissue trauma that becomes increasingly difficult for \nthe body to repair. In our resource-constrained hospital set­\nting, where we routinely manage complex surgical cases, \nwe face constant tension between surgical completeness \nand operative efficiency. These clinical dilemmas become \nmost acute when deciding to weigh the infection risks of \nprolonging a difficult procedure against those of accepting \na less-than-ideal repair. \nThe classification of surgical wounds was a key factor \nin predicting infection risk. Our analysis revealed that con­\ntaminated or dirty wounds carried a 4.5-fold higher risk of \nSSI compared to clean and clean contaminated wounds (ad­\njusted OR = 4.5; 95% CI, 1.8–11.5; P < 0.0001). This find­\ning aligns with extensive clinical evidence,4,6,7,9,14,30‑32 \nconfirming what surgeons encounter daily: wounds ex­\nposed to heavy bacterial loads create an ideal environment \nfor infection. When microorganisms penetrate deep tis­\nsues,15,33 they don’t just slow healing, they trigger a cas­\ncade of complications, leaving patients vulnerable to persis­\ntent infections.9,15,16 \nThe problem extends beyond local wound issues. Cont­\naminated tissues provoke an intense inflammatory response \nthat can spiral into systemic infection, turning a manageable \npostoperative course into a life-threatening scenario. This is \nwhy we’ve learned that meticulous infection control isn’t \njust beneficial, it’s nonnegotiable. From strict adherence to \nsterile technique to timely antibiotic administration, every \nprecaution matters. But our responsibility doesn’t end in the \noperating room. Close postoperative surveillance, identify­\ning early signs of infection, and intervening before compli­\ncations escalate can make the difference between a routine \nrecovery and a prolonged hospital stay. \nIn abdominal surgery, where wound contamination often \nreflects the underlying pathology, proactive management \nisn’t just a best practice, it’s a critical safeguard for patient \noutcomes. \nAlthough this prospective study provides valuable in­\nsights into SSI risk factors, several limitations warrant con­\nsideration. Most notably, we were unable to collect com­\nplete data on several known infection predictors, including \nobesity, diabetes, and smoking status, due to challenges in \npatient follow-up in our resource-constrained setting. These \ngaps may affect the precision of our risk estimates and limit \ndirect comparisons with studies from better-equipped facil­\nities. \nThe heterogeneous nature of our surgical population, \nencompassing everything from elective hernia repairs to \nemergency laparotomies, also presents interpretive chal­\nlenges. Although this diversity reflects real-world practice \nat HEAL Africa hospital, it means our findings may not \napply equally to all abdominal procedures. We also recog­\nnize that unmeasured social determinants, like nutritional \naccess, home sanitation, and transportation barriers to fol­\nlow-up, likely influence outcomes in ways our clinical data \ncouldn’t capture. \nYet these limitations don’t diminish the study’s value. \nRather, they highlight the complex realities of surgical care \nin low-resource environments. Our findings provide a cru­\ncial foundation for quality improvement initiatives and un­\nderscores the need for enhanced data collection systems to \nbetter address these knowledge gaps in future research. \nRisk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\nEast and Central African Journal of Surgery\n26\n",
+   "n_chars": 6336,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      54.0,
+      55.0,
+      294.1,
+      211.6
+     ],
+     "text": "well elucidated this mechanism, showing how depleted pro­\ntein stores leave patients vulnerable to infection at precisely \nthe moment they need robust defenses.18,21 In our clinical \nexperience, these patients don’t just develop infections \nmore often, their infections tend to be more severe, more \npersistent, and more likely to require reoperation. The \ndownstream consequences include prolonged hospital stays \nthat strain limited bed capacity,22,23 high treatment costs \nthat families can ill afford,24,25 and in some cases, entirely \npreventable deaths. This is why we’ve begun implementing \nmandatory nutritional screening for all elective abdominal \nsurgery cases. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      213.5,
+      294.1,
+      538.0
+     ],
+     "text": "The choice of surgical approach plays an equally critical \nrole in infection risk. Our data reveal that laparotomy car­\nries a 4.2-fold higher SSI risk compared to abdominal wall \nprocedures like hernia repairs or mini-laparotomy ap­\nproaches such as appendectomy (adjusted OR = 4.2; 95% \nCI, 1.7–10.3; P < .0001). We suspect this risk differential \nwould be even more pronounced if we could compare it to \nlaparoscopic techniques, though our current setting doesn’t \nyet permit such minimally invasive approaches. This can \nbe explained by the fact that a large midline incision repre­\nsents a massive insult to the abdominal wall’s integrity and \nthis creates an extended portal for microbial invasion and \nsimultaneously compromises local tissue perfusion. Ming \net al’s12 work on laparoscopic appendectomy demonstrates \nthe flip side of this equation, showing how smaller incisions \ntranslate directly to fewer infections. Yet in our setting, la­\nparotomy remains necessary for many cases due to both the \nadvanced pathology we encounter and our limited access to \nadvanced laparoscopic equipment. The patients who most \noften require these open approaches—those with complex \ncomorbidities like uncontrolled diabetes or morbid obe­\nsity—are precisely those least equipped to fight off sub­\nsequent infections.26,27 It’s a cruel paradox that demands \nconstant vigilance in our preoperative planning and postop­\nerative monitoring. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      540.0,
+      294.1,
+      616.0
+     ],
+     "text": "Operative duration emerged as our most striking risk \nfactor, with procedures exceeding 1 hour showing a stag­\ngering 15.3-fold increase in SSI risk (adjusted OR = 15.3; \n95% CI, 6.4–36.6; P < .0001). The CI here leave little \nroom for doubt about the magnitude of this effect. This \nfinding, consistent with numerous previous studies,4,6,8,9,\n"
+    },
+    {
+     "bbox": [
+      54.0,
+      617.0,
+      294.1,
+      774.3
+     ],
+     "text": "16,28 reflects multiple compounding hazards. Every addi­\ntional minute under anesthesia represents another oppor­\ntunity for bacterial colonization, another increment of im­\nmunosuppression from surgical stress, and another decline \nin tissue antibiotic concentrations.29 The physical reality \nof prolonged retraction and manipulation causes measur­\nable tissue trauma that becomes increasingly difficult for \nthe body to repair. In our resource-constrained hospital set­\nting, where we routinely manage complex surgical cases, \nwe face constant tension between surgical completeness \nand operative efficiency. These clinical dilemmas become \nmost acute when deciding to weigh the infection risks of \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      55.0,
+      543.7,
+      79.0
+     ],
+     "text": "prolonging a difficult procedure against those of accepting \na less-than-ideal repair. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      81.0,
+      543.8,
+      157.0
+     ],
+     "text": "The classification of surgical wounds was a key factor \nin predicting infection risk. Our analysis revealed that con­\ntaminated or dirty wounds carried a 4.5-fold higher risk of \nSSI compared to clean and clean contaminated wounds (ad­\njusted OR = 4.5; 95% CI, 1.8–11.5; P < 0.0001). This find­\ning aligns with extensive clinical evidence,4,6,7,9,14,30‑32 \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      159.8,
+      543.7,
+      236.7
+     ],
+     "text": "confirming what surgeons encounter daily: wounds ex­\nposed to heavy bacterial loads create an ideal environment \nfor infection. When microorganisms penetrate deep tis­\nsues,15,33 they don’t just slow healing, they trigger a cas­\ncade of complications, leaving patients vulnerable to persis­\ntent infections.9,15,16 \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      239.5,
+      543.8,
+      393.6
+     ],
+     "text": "The problem extends beyond local wound issues. Cont­\naminated tissues provoke an intense inflammatory response \nthat can spiral into systemic infection, turning a manageable \npostoperative course into a life-threatening scenario. This is \nwhy we’ve learned that meticulous infection control isn’t \njust beneficial, it’s nonnegotiable. From strict adherence to \nsterile technique to timely antibiotic administration, every \nprecaution matters. But our responsibility doesn’t end in the \noperating room. Close postoperative surveillance, identify­\ning early signs of infection, and intervening before compli­\ncations escalate can make the difference between a routine \nrecovery and a prolonged hospital stay. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      395.5,
+      543.8,
+      445.6
+     ],
+     "text": "In abdominal surgery, where wound contamination often \nreflects the underlying pathology, proactive management \nisn’t just a best practice, it’s a critical safeguard for patient \noutcomes. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      447.5,
+      543.8,
+      562.6
+     ],
+     "text": "Although this prospective study provides valuable in­\nsights into SSI risk factors, several limitations warrant con­\nsideration. Most notably, we were unable to collect com­\nplete data on several known infection predictors, including \nobesity, diabetes, and smoking status, due to challenges in \npatient follow-up in our resource-constrained setting. These \ngaps may affect the precision of our risk estimates and limit \ndirect comparisons with studies from better-equipped facil­\nities. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      564.5,
+      543.8,
+      692.6
+     ],
+     "text": "The heterogeneous nature of our surgical population, \nencompassing everything from elective hernia repairs to \nemergency laparotomies, also presents interpretive chal­\nlenges. Although this diversity reflects real-world practice \nat HEAL Africa hospital, it means our findings may not \napply equally to all abdominal procedures. We also recog­\nnize that unmeasured social determinants, like nutritional \naccess, home sanitation, and transportation barriers to fol­\nlow-up, likely influence outcomes in ways our clinical data \ncouldn’t capture. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      694.5,
+      543.8,
+      770.6
+     ],
+     "text": "Yet these limitations don’t diminish the study’s value. \nRather, they highlight the complex realities of surgical care \nin low-resource environments. Our findings provide a cru­\ncial foundation for quality improvement initiatives and un­\nderscores the need for enhanced data collection systems to \nbetter address these knowledge gaps in future research. \n"
+    },
+    {
+     "bbox": [
+      162.7,
+      22.2,
+      432.6,
+      31.8
+     ],
+     "text": "Risk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\n"
+    },
+    {
+     "bbox": [
+      231.6,
+      808.1,
+      541.3,
+      821.7
+     ],
+     "text": "East and Central African Journal of Surgery\n26\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "In addition, the study has significant strengths. With a \nsample of 218 patients, it allows for robust statistical analy­\nsis. The use of multivariate regression models strength­\nens the validity of the conclusions by accounting for con­\nfounding variables. By focusing on a specific population at \nHEAL Africa hospital in Goma, it provides relevant infor­\nmation for improving local practices. The rigorous classi­\nfication of SSIs according to CDC definitions ensures the \ncomparability of results with other studies. The study also \nidentified important risk factors, such as the type of op­\neration, malnutrition, wound class, and operative duration, \nwhich are useful for developing prevention strategies. \nConclusion \nThis study highlights a high incidence of SSIs after abdomi­\nnal surgery at HEAL Africa hospital (32.6%), with a signif­\nicantly higher mortality rate in patients with SSIs (23.94%) \ncompared to those without SSIs (4.76%). Independent risk \nfactors identified include laparotomy, malnutrition, conta­\nminated or dirty wounds, and operative duration exceeding \n1 hour, the latter being the most powerful predictor (ad­\njusted OR = 15.3). The predictive model developed shows \nremarkable discriminatory performance (area under the \ncurve = 0.917), validated by a stratified risk score showing \na gradual increase in SSI incidence with increasing score. \nThese results emphasize the need for targeted preventive \nstrategies, including preoperative optimization of nutri­\ntional status, reduction of surgical delays, and adoption \nof reinforced antisepsis protocols, particularly in resource-\nlimited contexts like Goma. Integrating the risk score into \nclinical practice could improve early identification of high-\nrisk patients and guide personalized interventions, thereby \nreducing morbidity, associated costs, and postoperative \nmortality in similar environments. \nEthical Approval \nThe study was approved by the University of Goma’s Med­\nical Ethics Committee (UNIGOM/CEM/08/2023). \nInformed Consent \nWritten, informed consent was obtained from all partici­\npants. \nData Availability \nThe datasets generated and analyzed during the current \nstudy are not publicly available due to patient confidential­\nity agreements but are available from the corresponding au­\nthor upon reasonable request. \nConflict of Interest \nThe authors declare that there is no conflict of interest re­\ngarding the publication of this paper. \nFunding \nThe authors received no financial support for the research, \nauthorship, and/or publication of this article. \nSubmitted: May 12, 2025 EAT. Accepted: August 20, \n2025 EAT. Published: December 31, 2025 EAT. \nRisk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\nEast and Central African Journal of Surgery\n27\n",
+   "n_chars": 2792,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      54.0,
+      55.0,
+      294.1,
+      209.0
+     ],
+     "text": "In addition, the study has significant strengths. With a \nsample of 218 patients, it allows for robust statistical analy­\nsis. The use of multivariate regression models strength­\nens the validity of the conclusions by accounting for con­\nfounding variables. By focusing on a specific population at \nHEAL Africa hospital in Goma, it provides relevant infor­\nmation for improving local practices. The rigorous classi­\nfication of SSIs according to CDC definitions ensures the \ncomparability of results with other studies. The study also \nidentified important risk factors, such as the type of op­\neration, malnutrition, wound class, and operative duration, \nwhich are useful for developing prevention strategies. \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      219.5,
+      117.0,
+      234.5
+     ],
+     "text": "Conclusion \n"
+    },
+    {
+     "bbox": [
+      54.0,
+      245.0,
+      294.1,
+      477.0
+     ],
+     "text": "This study highlights a high incidence of SSIs after abdomi­\nnal surgery at HEAL Africa hospital (32.6%), with a signif­\nicantly higher mortality rate in patients with SSIs (23.94%) \ncompared to those without SSIs (4.76%). Independent risk \nfactors identified include laparotomy, malnutrition, conta­\nminated or dirty wounds, and operative duration exceeding \n1 hour, the latter being the most powerful predictor (ad­\njusted OR = 15.3). The predictive model developed shows \nremarkable discriminatory performance (area under the \ncurve = 0.917), validated by a stratified risk score showing \na gradual increase in SSI incidence with increasing score. \nThese results emphasize the need for targeted preventive \nstrategies, including preoperative optimization of nutri­\ntional status, reduction of surgical delays, and adoption \nof reinforced antisepsis protocols, particularly in resource-\nlimited contexts like Goma. Integrating the risk score into \nclinical practice could improve early identification of high-\nrisk patients and guide personalized interventions, thereby \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      55.0,
+      543.7,
+      79.0
+     ],
+     "text": "reducing morbidity, associated costs, and postoperative \nmortality in similar environments. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      113.0,
+      396.0,
+      128.0
+     ],
+     "text": "Ethical Approval \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      138.5,
+      541.3,
+      162.5
+     ],
+     "text": "The study was approved by the University of Goma’s Med­\nical Ethics Committee (UNIGOM/CEM/08/2023). \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      173.0,
+      405.5,
+      188.0
+     ],
+     "text": "Informed Consent \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      198.5,
+      541.3,
+      222.5
+     ],
+     "text": "Written, informed consent was obtained from all partici­\npants. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      233.0,
+      397.4,
+      248.0
+     ],
+     "text": "Data Availability \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      258.5,
+      543.8,
+      308.5
+     ],
+     "text": "The datasets generated and analyzed during the current \nstudy are not publicly available due to patient confidential­\nity agreements but are available from the corresponding au­\nthor upon reasonable request. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      319.0,
+      409.5,
+      334.0
+     ],
+     "text": "Conflict of Interest \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      344.5,
+      541.3,
+      368.5
+     ],
+     "text": "The authors declare that there is no conflict of interest re­\ngarding the publication of this paper. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      379.0,
+      350.7,
+      394.0
+     ],
+     "text": "Funding \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      404.5,
+      543.7,
+      428.5
+     ],
+     "text": "The authors received no financial support for the research, \nauthorship, and/or publication of this article. \n"
+    },
+    {
+     "bbox": [
+      303.6,
+      443.5,
+      522.2,
+      468.7
+     ],
+     "text": "Submitted: May 12, 2025 EAT. Accepted: August 20, \n2025 EAT. Published: December 31, 2025 EAT. \n"
+    },
+    {
+     "bbox": [
+      162.7,
+      22.2,
+      432.6,
+      31.8
+     ],
+     "text": "Risk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\n"
+    },
+    {
+     "bbox": [
+      231.6,
+      808.1,
+      541.3,
+      821.7
+     ],
+     "text": "East and Central African Journal of Surgery\n27\n"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "text": "References \n1. Allegranzi B, Bagheri Nejad SB, Combescure C, et \nal. Burden of endemic health-care-associated \ninfection in developing countries: systematic review \nand meta-analysis. Lancet. 2011;377(9761):228-241. \ndoi:10.1016/S0140-6736(10)61458-4 \n2. Kirkland KB, Briggs JP, Trivette SL, Wilkinson WE, \nSexton DJ. The impact of surgical-site infections in \nthe 1990s: attributable mortality, excess length of \nhospitalization, and extra costs. Infect Control Hosp \nEpidemiol. 1999;20(11):725-730. doi:10.1086/501572 \n3. de Lissovoy G, Fraeman K, Hutchins V, Murphy D, \nSong D, Vaughn BB. Surgical site infection: incidence \nand impact on hospital utilization and treatment \ncosts. Am J Infect Control. 2009;37(5):387-397. \ndoi:10.1016/j.ajic.2008.12.010 \n4. Bediako-Bowan AAA, Mølbak K, Kurtzhals JAL, \nOwusu E, Debrah S, Newman MJ. Risk factors for \nsurgical site infections in abdominal surgeries in \nGhana: emphasis on the impact of operating rooms \ndoor openings. Epidemiol Infect. 2020;148:e147. \ndoi:10.1017/S0950268820001454 \n5. Horan TC, Andrus M, Dudeck MA. CDC/NHSN \nsurveillance definition of health care-associated \ninfection and criteria for specific types of infections \nin the acute care setting. Am J Infect Control. \n2008;36(5):309-332. doi:10.1016/J.AJIC.2008.03.002 \n6. Hernandez K, Ramos E, Seas C, Henostroza G, \nGotuzzo E. Incidence of and risk factors for surgical-\nsite infections in a Peruvian hospital. Infect Control \nHosp Epidemiol. 2005;26(5):473-477. doi:10.1086/\n502570 \n7. Aga E, Keinan-Boker L, Eithan A, Mais T, \nRabinovich A, Nassar F. Surgical site infections after \nabdominal surgery: incidence and risk factors. A \nprospective cohort study. Infect Dis (Lond). \n2015;47(11):761-767. doi:10.3109/\n23744235.2015.1055587 \n8. Guzmán-García C, Flores-Barrientos OI, Juárez-\nRojop IE, et al. Abdominal surgical site infection \nincidence and risk factors in a Mexican population. \nAdv Skin Wound Care. 2019;32(6):1-6. doi:10.1097/\n01.ASW.0000557833.80431.00 \n9. Alkaaki A, Al-Radi OO, Khoja A, et al. Surgical site \ninfection following abdominal surgery: a prospective \ncohort study. Can J Surg. 2019;62(2):111-117. \ndoi:10.1503/CJS.004818 \n10. Giri S, Kandel BP, Pant S, Lakhey PJ, Singh YP, \nVaidya P. Risk factors for surgical site infections in \nabdominal surgery: a study in Nepal. Surg Infect \n(Larchmt). 2013;14(3):313-318. doi:10.1089/\nSUR.2012.108 \n11. Weiser TG, Forrester JD, Forrester JA. Tactics to \nprevent intra-abdominal infections in general \nsurgery. Surg Infect (Larchmt). 2019;20(2):139-145. \ndoi:10.1089/SUR.2018.282 \n12. Ming PC, Yan TYY, Tat LH. Risk factors of \npostoperative infections in adults with complicated \nappendicitis. Surg Laparosc Endosc Percutan Tech. \n2009;19(3):244-248. doi:10.1097/\nSLE.0b013e3181a4cda2 \n13. Mekhla FR, Borle FR. Determinants of superficial \nsurgical site infections in abdominal surgeries at a \nrural teaching hospital in central India: a prospective \nstudy. J Fam Med Prim Care. 2019;8(7):2258-2263. \ndoi:10.4103/JFMPC.JFMPC_419_19 \n14. Isik O, Kaya E, Dundar HZ, Sarkut P. Surgical site \ninfection: re-assessment of the risk factors. Chirurgia \n(Bucur). 2015;110(5):457-461. \n15. Marzoug OA, Anees A, Malik EM. Assessment of \nrisk factors associated with surgical site infection \nfollowing abdominal surgery: a systematic review. \nBMJ Surg Interv Health Technol. 2023;5(1):e000182. \ndoi:10.1136/BMJSIT-2023-000182 \n16. Pessaux P, Msika S, Atalla D, Hay JM, Flamant Y, \nFrench Association for Surgical Research. Risk factors \nfor postoperative infectious complications in \nnoncolorectal abdominal surgery: a multivariate \nanalysis based on a prospective multicenter study of \n4718 patients. Arch Surg. 2003;138(3):314-324. \ndoi:10.1001/ARCHSURG.138.3.314 \n17. Haridas M, Malangoni MA. Predictive factors for \nsurgical site infection in general surgery. Surgery. \n2008;144(4):496-501. doi:10.1016/\nJ.SURG.2008.06.001 \n18. Abunnaja S, Cuviello A, Sanchez JA. Enteral and \nparenteral nutrition in the perioperative period: state \nof the art. Nutrients. 2013;5(2):608-623. doi:10.3390/\nNU5020608 \n19. Jamshidi R, Blumenthal P. Family planning. In: \nGeneral Gynecology. Elsevier; 2007:157-186. \ndoi:10.1016/B978-032303247-6.10007-3 \nRisk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\nEast and Central African Journal of Surgery\n28\n",
+   "n_chars": 4354,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      258.9,
+      54.0,
+      339.9,
+      73.1
+     ],
+     "text": "References \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      102.6,
+      276.1,
+      159.8
+     ],
+     "text": "1. Allegranzi B, Bagheri Nejad SB, Combescure C, et \nal. Burden of endemic health-care-associated \ninfection in developing countries: systematic review \nand meta-analysis. Lancet. 2011;377(9761):228-241. \ndoi:10.1016/S0140-6736(10)61458-4 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      173.8,
+      277.1,
+      231.1
+     ],
+     "text": "2. Kirkland KB, Briggs JP, Trivette SL, Wilkinson WE, \nSexton DJ. The impact of surgical-site infections in \nthe 1990s: attributable mortality, excess length of \nhospitalization, and extra costs. Infect Control Hosp \nEpidemiol. 1999;20(11):725-730. doi:10.1086/501572 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      245.1,
+      280.4,
+      302.3
+     ],
+     "text": "3. de Lissovoy G, Fraeman K, Hutchins V, Murphy D, \nSong D, Vaughn BB. Surgical site infection: incidence \nand impact on hospital utilization and treatment \ncosts. Am J Infect Control. 2009;37(5):387-397. \ndoi:10.1016/j.ajic.2008.12.010 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      316.3,
+      273.1,
+      384.8
+     ],
+     "text": "4. Bediako-Bowan AAA, Mølbak K, Kurtzhals JAL, \nOwusu E, Debrah S, Newman MJ. Risk factors for \nsurgical site infections in abdominal surgeries in \nGhana: emphasis on the impact of operating rooms \ndoor openings. Epidemiol Infect. 2020;148:e147. \ndoi:10.1017/S0950268820001454 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      398.8,
+      274.8,
+      456.1
+     ],
+     "text": "5. Horan TC, Andrus M, Dudeck MA. CDC/NHSN \nsurveillance definition of health care-associated \ninfection and criteria for specific types of infections \nin the acute care setting. Am J Infect Control. \n2008;36(5):309-332. doi:10.1016/J.AJIC.2008.03.002 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      470.1,
+      274.8,
+      527.3
+     ],
+     "text": "6. Hernandez K, Ramos E, Seas C, Henostroza G, \nGotuzzo E. Incidence of and risk factors for surgical-\nsite infections in a Peruvian hospital. Infect Control \nHosp Epidemiol. 2005;26(5):473-477. doi:10.1086/\n502570 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      541.3,
+      277.0,
+      609.8
+     ],
+     "text": "7. Aga E, Keinan-Boker L, Eithan A, Mais T, \nRabinovich A, Nassar F. Surgical site infections after \nabdominal surgery: incidence and risk factors. A \nprospective cohort study. Infect Dis (Lond). \n2015;47(11):761-767. doi:10.3109/\n23744235.2015.1055587 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      623.8,
+      271.7,
+      681.1
+     ],
+     "text": "8. Guzmán-García C, Flores-Barrientos OI, Juárez-\nRojop IE, et al. Abdominal surgical site infection \nincidence and risk factors in a Mexican population. \nAdv Skin Wound Care. 2019;32(6):1-6. doi:10.1097/\n01.ASW.0000557833.80431.00 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      695.1,
+      279.1,
+      741.1
+     ],
+     "text": "9. Alkaaki A, Al-Radi OO, Khoja A, et al. Surgical site \ninfection following abdominal surgery: a prospective \ncohort study. Can J Surg. 2019;62(2):111-117. \ndoi:10.1503/CJS.004818 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      102.6,
+      518.7,
+      159.8
+     ],
+     "text": "10. Giri S, Kandel BP, Pant S, Lakhey PJ, Singh YP, \nVaidya P. Risk factors for surgical site infections in \nabdominal surgery: a study in Nepal. Surg Infect \n(Larchmt). 2013;14(3):313-318. doi:10.1089/\nSUR.2012.108 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      173.8,
+      521.7,
+      219.8
+     ],
+     "text": "11. Weiser TG, Forrester JD, Forrester JA. Tactics to \nprevent intra-abdominal infections in general \nsurgery. Surg Infect (Larchmt). 2019;20(2):139-145. \ndoi:10.1089/SUR.2018.282 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      233.8,
+      522.8,
+      291.1
+     ],
+     "text": "12. Ming PC, Yan TYY, Tat LH. Risk factors of \npostoperative infections in adults with complicated \nappendicitis. Surg Laparosc Endosc Percutan Tech. \n2009;19(3):244-248. doi:10.1097/\nSLE.0b013e3181a4cda2 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      305.1,
+      530.2,
+      362.3
+     ],
+     "text": "13. Mekhla FR, Borle FR. Determinants of superficial \nsurgical site infections in abdominal surgeries at a \nrural teaching hospital in central India: a prospective \nstudy. J Fam Med Prim Care. 2019;8(7):2258-2263. \ndoi:10.4103/JFMPC.JFMPC_419_19 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      376.3,
+      531.7,
+      411.1
+     ],
+     "text": "14. Isik O, Kaya E, Dundar HZ, Sarkut P. Surgical site \ninfection: re-assessment of the risk factors. Chirurgia \n(Bucur). 2015;110(5):457-461. \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      425.1,
+      523.8,
+      482.3
+     ],
+     "text": "15. Marzoug OA, Anees A, Malik EM. Assessment of \nrisk factors associated with surgical site infection \nfollowing abdominal surgery: a systematic review. \nBMJ Surg Interv Health Technol. 2023;5(1):e000182. \ndoi:10.1136/BMJSIT-2023-000182 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      496.3,
+      531.9,
+      576.1
+     ],
+     "text": "16. Pessaux P, Msika S, Atalla D, Hay JM, Flamant Y, \nFrench Association for Surgical Research. Risk factors \nfor postoperative infectious complications in \nnoncolorectal abdominal surgery: a multivariate \nanalysis based on a prospective multicenter study of \n4718 patients. Arch Surg. 2003;138(3):314-324. \ndoi:10.1001/ARCHSURG.138.3.314 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      590.1,
+      523.6,
+      636.1
+     ],
+     "text": "17. Haridas M, Malangoni MA. Predictive factors for \nsurgical site infection in general surgery. Surgery. \n2008;144(4):496-501. doi:10.1016/\nJ.SURG.2008.06.001 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      650.1,
+      531.7,
+      696.1
+     ],
+     "text": "18. Abunnaja S, Cuviello A, Sanchez JA. Enteral and \nparenteral nutrition in the perioperative period: state \nof the art. Nutrients. 2013;5(2):608-623. doi:10.3390/\nNU5020608 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      710.1,
+      519.2,
+      744.8
+     ],
+     "text": "19. Jamshidi R, Blumenthal P. Family planning. In: \nGeneral Gynecology. Elsevier; 2007:157-186. \ndoi:10.1016/B978-032303247-6.10007-3 \n"
+    },
+    {
+     "bbox": [
+      162.7,
+      22.2,
+      432.6,
+      31.8
+     ],
+     "text": "Risk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\n"
+    },
+    {
+     "bbox": [
+      231.6,
+      808.1,
+      541.3,
+      821.7
+     ],
+     "text": "East and Central African Journal of Surgery\n28\n"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "text": "20. Kulier R, Boulvain M, Walker DM, De Candolle G, \nCampana A. Minilaparotomy and endoscopic \ntechniques for tubal sterilisation. Cochrane Database \nSyst Rev. 2004:CD001328. doi:10.1002/\n14651858.CD001328.pub2 \n21. Rivadeneira DE, Grobmyer SR, Naama HA, et al. \nMalnutrition-induced macrophage apoptosis. Surgery. \n2001;129(5):617-625. doi:10.1067/MSY.2001.112963 \n22. Hennessey DB, Burke JP, Ni-Dhonochu T, Shields \nC, Winter DC, Mealy K. Preoperative \nhypoalbuminemia is an independent risk factor for \nthe development of surgical site infection following \ngastrointestinal surgery: a multi-institutional study. \nAnn Surg. 2010;252(2):325-329. doi:10.1097/\nSLA.0b013e3181e9819a \n23. Lalhruaizela S, Lalrinpuia B, Gupta VD. Serum \nalbumin is a predictor for postoperative morbidity \nand mortality in gastrointestinal surgeries. J Clin \nDiagn Res. Published online 2020. doi:10.7860/JCDR/\n2020/44315.13682 \n24. Bohl DD, Shen MR, Kayupov E, Della Valle CJ. \nHypoalbuminemia independently predicts surgical \nsite infection, pneumonia, length of stay, and \nreadmission after total joint arthroplasty. J \nArthroplasty. 2016;31(1):15-21. doi:10.1016/\nJ.ARTH.2015.08.028 \n25. Meyer CP, Rios-Diaz AJ, Dalela D, et al. The \nassociation of hypoalbuminemia with early \nperioperative outcomes—a comprehensive \nassessment across 16 major procedures. Am J Surg. \n2017;214(5):871-883. doi:10.1016/\nJ.AMJSURG.2016.11.023 \n26. Sido B, Teklote JR, Hartel M, Friess H, Büchler \nMW. Inflammatory response after abdominal surgery. \nBest Pract Res Clin Anaesthesiol. 2004;18(3):439-454. \ndoi:10.1016/j.bpa.2003.12.006 \n27. Jacobi CA, Ordemann J, Zieren HU, et al. \nIncreased systemic inflammation after laparotomy vs \nlaparoscopy in an animal model of peritonitis. Arch \nSurg. 1998;133(3):258-262. doi:10.1001/\nARCHSURG.133.3.258 \n28. Raka L, Krasniqi A, Hoxha F, et al. Surgical site \ninfections in an abdominal surgical ward at Kosovo \nteaching hospital. World Hosp Health Serv. \n2008;44(2):32-36. \n29. Leong G, Wilson J, Charlett A. Duration of \noperation as a risk factor for surgical site infection: \ncomparison of English and US data. J Hosp Infect. \n2006;63(3):255-262. doi:10.1016/J.JHIN.2006.02.007 \n30. Ejaz A, Schmidt C, Johnston FM, Frank SM, \nPawlik TM. Risk factors and prediction model for \ninpatient surgical site infection after major \nabdominal surgery. J Surg Res. 2017;217:153-159. \ndoi:10.1016/J.JSS.2017.05.018 \n31. Watanabe A, Kohnoe S, Shimabukuro R, et al. Risk \nfactors associated with surgical site infection in \nupper and lower gastrointestinal surgery. Surg Today. \n2008;38(5):404-412. doi:10.1007/S00595-007-3637-Y \n32. Razavi SM, Ibrahimpoor M, Sabouri Kashani AS, \nJafarian A. Abdominal surgical site infections: \nincidence and risk factors at an Iranian teaching \nhospital. BMC Surg. 2005;5:2. doi:10.1186/\n1471-2482-5-2 \n33. Eckhauser F, Azoury S, Farrow N, et al. \nPostoperative abdominal wound \ninfection—epidemiology, risk factors, identification, \nand management. Chronic Wound Care Manag Res. \nPublished online 2015. doi:10.2147/CWCMR.S62514 \nRisk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\nEast and Central African Journal of Surgery\n29\n",
+   "n_chars": 3195,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      64.8,
+      53.5,
+      280.0,
+      110.8
+     ],
+     "text": "20. Kulier R, Boulvain M, Walker DM, De Candolle G, \nCampana A. Minilaparotomy and endoscopic \ntechniques for tubal sterilisation. Cochrane Database \nSyst Rev. 2004:CD001328. doi:10.1002/\n14651858.CD001328.pub2 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      124.7,
+      282.9,
+      159.5
+     ],
+     "text": "21. Rivadeneira DE, Grobmyer SR, Naama HA, et al. \nMalnutrition-induced macrophage apoptosis. Surgery. \n2001;129(5):617-625. doi:10.1067/MSY.2001.112963 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      173.5,
+      277.5,
+      253.3
+     ],
+     "text": "22. Hennessey DB, Burke JP, Ni-Dhonochu T, Shields \nC, Winter DC, Mealy K. Preoperative \nhypoalbuminemia is an independent risk factor for \nthe development of surgical site infection following \ngastrointestinal surgery: a multi-institutional study. \nAnn Surg. 2010;252(2):325-329. doi:10.1097/\nSLA.0b013e3181e9819a \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      267.2,
+      276.5,
+      324.5
+     ],
+     "text": "23. Lalhruaizela S, Lalrinpuia B, Gupta VD. Serum \nalbumin is a predictor for postoperative morbidity \nand mortality in gastrointestinal surgeries. J Clin \nDiagn Res. Published online 2020. doi:10.7860/JCDR/\n2020/44315.13682 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      338.5,
+      269.6,
+      407.0
+     ],
+     "text": "24. Bohl DD, Shen MR, Kayupov E, Della Valle CJ. \nHypoalbuminemia independently predicts surgical \nsite infection, pneumonia, length of stay, and \nreadmission after total joint arthroplasty. J \nArthroplasty. 2016;31(1):15-21. doi:10.1016/\nJ.ARTH.2015.08.028 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      421.0,
+      269.8,
+      489.5
+     ],
+     "text": "25. Meyer CP, Rios-Diaz AJ, Dalela D, et al. The \nassociation of hypoalbuminemia with early \nperioperative outcomes—a comprehensive \nassessment across 16 major procedures. Am J Surg. \n2017;214(5):871-883. doi:10.1016/\nJ.AMJSURG.2016.11.023 \n"
+    },
+    {
+     "bbox": [
+      64.8,
+      503.5,
+      281.2,
+      549.5
+     ],
+     "text": "26. Sido B, Teklote JR, Hartel M, Friess H, Büchler \nMW. Inflammatory response after abdominal surgery. \nBest Pract Res Clin Anaesthesiol. 2004;18(3):439-454. \ndoi:10.1016/j.bpa.2003.12.006 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      53.5,
+      529.7,
+      110.8
+     ],
+     "text": "27. Jacobi CA, Ordemann J, Zieren HU, et al. \nIncreased systemic inflammation after laparotomy vs \nlaparoscopy in an animal model of peritonitis. Arch \nSurg. 1998;133(3):258-262. doi:10.1001/\nARCHSURG.133.3.258 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      124.7,
+      520.8,
+      170.8
+     ],
+     "text": "28. Raka L, Krasniqi A, Hoxha F, et al. Surgical site \ninfections in an abdominal surgical ward at Kosovo \nteaching hospital. World Hosp Health Serv. \n2008;44(2):32-36. \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      184.7,
+      525.6,
+      230.8
+     ],
+     "text": "29. Leong G, Wilson J, Charlett A. Duration of \noperation as a risk factor for surgical site infection: \ncomparison of English and US data. J Hosp Infect. \n2006;63(3):255-262. doi:10.1016/J.JHIN.2006.02.007 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      244.7,
+      514.0,
+      302.0
+     ],
+     "text": "30. Ejaz A, Schmidt C, Johnston FM, Frank SM, \nPawlik TM. Risk factors and prediction model for \ninpatient surgical site infection after major \nabdominal surgery. J Surg Res. 2017;217:153-159. \ndoi:10.1016/J.JSS.2017.05.018 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      316.0,
+      532.4,
+      362.0
+     ],
+     "text": "31. Watanabe A, Kohnoe S, Shimabukuro R, et al. Risk \nfactors associated with surgical site infection in \nupper and lower gastrointestinal surgery. Surg Today. \n2008;38(5):404-412. doi:10.1007/S00595-007-3637-Y \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      376.0,
+      523.8,
+      433.3
+     ],
+     "text": "32. Razavi SM, Ibrahimpoor M, Sabouri Kashani AS, \nJafarian A. Abdominal surgical site infections: \nincidence and risk factors at an Iranian teaching \nhospital. BMC Surg. 2005;5:2. doi:10.1186/\n1471-2482-5-2 \n"
+    },
+    {
+     "bbox": [
+      314.4,
+      447.2,
+      525.7,
+      504.5
+     ],
+     "text": "33. Eckhauser F, Azoury S, Farrow N, et al. \nPostoperative abdominal wound \ninfection—epidemiology, risk factors, identification, \nand management. Chronic Wound Care Manag Res. \nPublished online 2015. doi:10.2147/CWCMR.S62514 \n"
+    },
+    {
+     "bbox": [
+      162.7,
+      22.2,
+      432.6,
+      31.8
+     ],
+     "text": "Risk Factors and Predictive Model for Surgical Site Infections After Abdominal Surgery\n"
+    },
+    {
+     "bbox": [
+      231.6,
+      808.1,
+      541.3,
+      821.7
+     ],
+     "text": "East and Central African Journal of Surgery\n29\n"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3022 @@
+{
+ "doc_id": "haifete-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Haifete et al.pdf",
+ "sha256": "caa6baa333c3de71fd0c2a83306b80b0806ad95c5afb41508e8194cd8e8551ef",
+ "document_type": "pdf",
+ "n_pages": 8,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "",
+  "author": "",
+  "subject": "",
+  "keywords": "",
+  "creator": "Adobe InDesign 14.0 (Macintosh)",
+  "producer": "Adobe PDF Library 15.0",
+  "creationDate": "D:20250725161601+05'30'",
+  "modDate": "D:20250725161603+05'30'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:54+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "https://www.hsag.co.za\nOpen Access\nHealth SA Gesondheid \nISSN: (Online) 2071-9736, (Print) 1025-9848\nPage 1 of 8\nOriginal Research\nRead online:\nScan this QR \ncode with your \nsmart phone or \nmobile device \nto read online.\nAuthors:\nAnna N. Haifete1,2 \nPetra Brysiewicz1 \nAffiliations:\n1School of Nursing and Public \nHealth, College of Health \nSciences, University of \nKwaZulu-Natal, Durban, \nSouth Africa\n2School of Nursing and Public \nHealth, Faculty of Health \nSciences and Veterinary \nMedicine, University of \nNamibia, Windhoek, Namibia\nCorresponding author:\nAnna Haifete,\nannahaifete@gmail.com\nDates:\nReceived: 24 Nov. 2024\nAccepted: 15 May 2025\nPublished: 31 July 2025\nHow to cite this article:\nHaifete, A.N. & Brysiewicz, P., \n2025, ‘Prevalence and factors \nof surgical site infections in \nsurgical wards, Windhoek, \nNamibia’, Health SA \nGesondheid 30(0), a2930. \nhttps://doi.org/10.4102/\nhsag.v30i0.2930\nCopyright:\n© 2025. The Authors. \nLicensee: AOSIS. This work \nis licensed under the \nCreative Commons \nAttribution License.\nIntroduction\nBackground of the study\nSurgical site infections (SSIs) represent a prevalent category of healthcare-associated infections \n(HAIs) (World Health Organization [WHO] 2018). Healthcare-associated infections pose a significant \nthreat to patient health and continue to represent a major challenge for health care providers \nworldwide (Mengistu et al. 2023). These SSIs refer to infections that occur 30 days after an operation \nor within 1 year after implantation (U.S. Centers for Disease Control and Prevention 2024). This \ncondition continues to be a significant contributor to global morbidity and mortality. Therefore, it is \nimportant to investigate SSI. The United Nations Sustainable Development Goal (SDGs) 3 aims to \nensure healthy lives and promote well-being across all nations (United Nations 2023). The SDG \ntarget 3.8 is to achieve Universal Health Coverage (UHC), of which SSIs are a key indicator of health \ncare quality and safety (World Health Organization & the World Bank 2023). To address this, the \nWHO (2024) has developed a comprehensive set of strategies, including infection prevention and \ncontrol, in-service education and training curricula to help nations address SSIs and other HAIs.\nA prevalence survey conducted in Serbia by Suljagic et al. (2021) discovered higher HAIs among \nsurgical patients (261/3626 or 7.2%) than those among non-surgical patients (258/8852 or 2.9%). \nAnsari et al. (2019) in Pakistan highlighted that SSIs are more common in older patients above \n50 years (11.4%). And diabetes mellitus is a risk factor associated with SSI (Ansari et al. 2019; \nSattar et al. 2019). Further, pre-existing infection, malnutrition, obesity, low serum albumin, \nelderly and smoking are patient-related factors associated with SSI (Ansari et al. 2019). In Canada, \nBackground: Surgical site infection (SSI) is a prevalent healthcare-associated infection \nworldwide, defined as any incisional infection occurring within 30 days post-operation or \nwithin 1 year in the presence of an implant. Healthcare-associated infections represent a \nsignificant threat to patient health and continue to pose a major global challenge.\nAim: This study aims to determine the prevalence of SSI and identify associated factors among \npatients in surgical wards who have undergone surgical procedures in Windhoek, Namibia.\nSetting: This study was conducted in two state hospitals in Windhoek, Namibia.\nMethods: This study employed a quantitative, hospital-based cross-sectional design, utilising \na retrospective chart review of patients who underwent surgical procedures between March \n2019 and February 2021.\nResults: The overall prevalence of SSI was 10.1% (95% confidence interval: 8.4% – 11.8%). \nHospitals 1 and 2 had a prevalence of 11.5% and 8.7%, respectively. Factors associated with \nSSIs were found to be age groups 31–60 years, male patients, postoperative hospital stays ≥ 5 \ndays, emergency surgery, abdominal and lower extremity surgeries, operation referred from \nother hospitals, previous history of surgery, 1 h–2 h duration of surgery and deceased patients. \nDiabetes mellitus, HIV/AIDS, cancer, malignancy and multiple comorbidities were also noted \nto increase the risk of SSIs.\nConclusion: The prevalence of SSI in this study remains high, and therefore, context-based \ninterventions should focus on the factors identified to guide the effective management of \npatients.\nContribution: This study provides evidence to improve surgical site infections in Namibia.\nKeywords: prevalence; surgical site infection; surgical in-patients; surgical wards; Namibia.\nPrevalence and factors of surgical \nsite infections in surgical wards, \nWindhoek, Namibia\nRead online:\nScan this QR \ncode with your \nsmart phone or \nmobile device \nto read online.\n",
+   "n_chars": 4818,
+   "n_images": 3,
+   "blocks": [
+    {
+     "bbox": [
+      206.6,
+      799.7,
+      353.0,
+      809.8
+     ],
+     "text": "https://www.hsag.co.za\nOpen Access\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      9.3,
+      212.8,
+      35.5
+     ],
+     "text": "Health SA Gesondheid \nISSN: (Online) 2071-9736, (Print) 1025-9848\n"
+    },
+    {
+     "bbox": [
+      247.9,
+      43.2,
+      368.5,
+      53.4
+     ],
+     "text": "Page 1 of 8\nOriginal Research\n"
+    },
+    {
+     "bbox": [
+      49.4,
+      717.5,
+      91.0,
+      727.7
+     ],
+     "text": "Read online:\n"
+    },
+    {
+     "bbox": [
+      95.4,
+      728.5,
+      141.0,
+      767.6
+     ],
+     "text": "Scan this QR \ncode with your \nsmart phone or \nmobile device \nto read online.\n"
+    },
+    {
+     "bbox": [
+      46.8,
+      188.8,
+      105.5,
+      218.2
+     ],
+     "text": "Authors:\nAnna N. Haifete1,2 \nPetra Brysiewicz1 \n"
+    },
+    {
+     "bbox": [
+      46.8,
+      227.0,
+      143.1,
+      285.2
+     ],
+     "text": "Affiliations:\n1School of Nursing and Public \nHealth, College of Health \nSciences, University of \nKwaZulu-Natal, Durban, \nSouth Africa\n"
+    },
+    {
+     "bbox": [
+      46.8,
+      296.2,
+      143.1,
+      344.7
+     ],
+     "text": "2School of Nursing and Public \nHealth, Faculty of Health \nSciences and Veterinary \nMedicine, University of \nNamibia, Windhoek, Namibia\n"
+    },
+    {
+     "bbox": [
+      46.8,
+      353.5,
+      126.2,
+      382.9
+     ],
+     "text": "Corresponding author:\nAnna Haifete,\nannahaifete@gmail.com\n"
+    },
+    {
+     "bbox": [
+      46.8,
+      391.7,
+      123.1,
+      430.7
+     ],
+     "text": "Dates:\nReceived: 24 Nov. 2024\nAccepted: 15 May 2025\nPublished: 31 July 2025\n"
+    },
+    {
+     "bbox": [
+      46.8,
+      439.5,
+      144.0,
+      526.5
+     ],
+     "text": "How to cite this article:\nHaifete, A.N. & Brysiewicz, P., \n2025, ‘Prevalence and factors \nof surgical site infections in \nsurgical wards, Windhoek, \nNamibia’, Health SA \nGesondheid 30(0), a2930. \nhttps://doi.org/10.4102/\nhsag.v30i0.2930\n"
+    },
+    {
+     "bbox": [
+      46.8,
+      535.3,
+      134.6,
+      593.5
+     ],
+     "text": "Copyright:\n© 2025. The Authors. \nLicensee: AOSIS. This work \nis licensed under the \nCreative Commons \nAttribution License.\n"
+    },
+    {
+     "bbox": [
+      168.8,
+      512.0,
+      290.2,
+      547.2
+     ],
+     "text": "Introduction\nBackground of the study\n"
+    },
+    {
+     "bbox": [
+      168.8,
+      551.0,
+      555.1,
+      691.8
+     ],
+     "text": "Surgical site infections (SSIs) represent a prevalent category of healthcare-associated infections \n(HAIs) (World Health Organization [WHO] 2018). Healthcare-associated infections pose a significant \nthreat to patient health and continue to represent a major challenge for health care providers \nworldwide (Mengistu et al. 2023). These SSIs refer to infections that occur 30 days after an operation \nor within 1 year after implantation (U.S. Centers for Disease Control and Prevention 2024). This \ncondition continues to be a significant contributor to global morbidity and mortality. Therefore, it is \nimportant to investigate SSI. The United Nations Sustainable Development Goal (SDGs) 3 aims to \nensure healthy lives and promote well-being across all nations (United Nations 2023). The SDG \ntarget 3.8 is to achieve Universal Health Coverage (UHC), of which SSIs are a key indicator of health \ncare quality and safety (World Health Organization & the World Bank 2023). To address this, the \nWHO (2024) has developed a comprehensive set of strategies, including infection prevention and \ncontrol, in-service education and training curricula to help nations address SSIs and other HAIs.\n"
+    },
+    {
+     "bbox": [
+      168.8,
+      704.8,
+      555.0,
+      774.9
+     ],
+     "text": "A prevalence survey conducted in Serbia by Suljagic et al. (2021) discovered higher HAIs among \nsurgical patients (261/3626 or 7.2%) than those among non-surgical patients (258/8852 or 2.9%). \nAnsari et al. (2019) in Pakistan highlighted that SSIs are more common in older patients above \n50 years (11.4%). And diabetes mellitus is a risk factor associated with SSI (Ansari et al. 2019; \nSattar et al. 2019). Further, pre-existing infection, malnutrition, obesity, low serum albumin, \nelderly and smoking are patient-related factors associated with SSI (Ansari et al. 2019). In Canada, \n"
+    },
+    {
+     "bbox": [
+      175.1,
+      189.8,
+      548.7,
+      236.7
+     ],
+     "text": "Background: Surgical site infection (SSI) is a prevalent healthcare-associated infection \nworldwide, defined as any incisional infection occurring within 30 days post-operation or \nwithin 1 year in the presence of an implant. Healthcare-associated infections represent a \nsignificant threat to patient health and continue to pose a major global challenge.\n"
+    },
+    {
+     "bbox": [
+      175.1,
+      243.8,
+      548.7,
+      266.7
+     ],
+     "text": "Aim: This study aims to determine the prevalence of SSI and identify associated factors among \npatients in surgical wards who have undergone surgical procedures in Windhoek, Namibia.\n"
+    },
+    {
+     "bbox": [
+      175.1,
+      273.8,
+      495.5,
+      284.7
+     ],
+     "text": "Setting: This study was conducted in two state hospitals in Windhoek, Namibia.\n"
+    },
+    {
+     "bbox": [
+      175.1,
+      291.8,
+      548.6,
+      326.7
+     ],
+     "text": "Methods: This study employed a quantitative, hospital-based cross-sectional design, utilising \na retrospective chart review of patients who underwent surgical procedures between March \n2019 and February 2021.\n"
+    },
+    {
+     "bbox": [
+      175.1,
+      333.1,
+      548.7,
+      416.7
+     ],
+     "text": "Results: The overall prevalence of SSI was 10.1% (95% confidence interval: 8.4% – 11.8%). \nHospitals 1 and 2 had a prevalence of 11.5% and 8.7%, respectively. Factors associated with \nSSIs were found to be age groups 31–60 years, male patients, postoperative hospital stays ≥ 5 \ndays, emergency surgery, abdominal and lower extremity surgeries, operation referred from \nother hospitals, previous history of surgery, 1 h–2 h duration of surgery and deceased patients. \nDiabetes mellitus, HIV/AIDS, cancer, malignancy and multiple comorbidities were also noted \nto increase the risk of SSIs.\n"
+    },
+    {
+     "bbox": [
+      175.1,
+      423.8,
+      548.6,
+      458.7
+     ],
+     "text": "Conclusion: The prevalence of SSI in this study remains high, and therefore, context-based \ninterventions should focus on the factors identified to guide the effective management of \npatients.\n"
+    },
+    {
+     "bbox": [
+      175.1,
+      465.8,
+      536.9,
+      476.7
+     ],
+     "text": "Contribution: This study provides evidence to improve surgical site infections in Namibia.\n"
+    },
+    {
+     "bbox": [
+      175.1,
+      483.8,
+      539.5,
+      494.7
+     ],
+     "text": "Keywords: prevalence; surgical site infection; surgical in-patients; surgical wards; Namibia.\n"
+    },
+    {
+     "bbox": [
+      145.4,
+      74.5,
+      459.8,
+      102.6
+     ],
+     "text": "Prevalence and factors of surgical \n"
+    },
+    {
+     "bbox": [
+      153.1,
+      99.5,
+      452.1,
+      127.6
+     ],
+     "text": "site infections in surgical wards, \n"
+    },
+    {
+     "bbox": [
+      206.8,
+      124.5,
+      388.5,
+      152.6
+     ],
+     "text": "Windhoek, Namibia\n"
+    },
+    {
+     "bbox": [
+      49.8,
+      717.5,
+      91.4,
+      727.8
+     ],
+     "text": "Read online:\n"
+    },
+    {
+     "bbox": [
+      95.8,
+      728.6,
+      141.4,
+      767.7
+     ],
+     "text": "Scan this QR \ncode with your \nsmart phone or \nmobile device \nto read online.\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "Page 2 of 8\nOriginal Research\nhttps://www.hsag.co.za\nOpen Access\nAlkaaki et  al. (2019) reported the likelihood of emergency \nsurgeries developing SSI rather than elective surgery. In \nChina, Hou et al. (2020) discovered that preoperative hospital \nstays and contaminated or dirty wounds were significantly \nassociated with an increasing risk of SSI. In Brazil, De \nCarvalho et al. (2017) identified the length of preoperative \nhospital stays of more than 24 h, extended duration in hours \nof surgery, clean-contaminated, contaminated and dirty \nwounds, and American Society of Anaesthesiologists \nPhysical Status Score (ASA index) as risk factors. A study by \nGurunthalingam et al. (2023) in India recorded that only 10 \n(2.53%) out of 394 case records received a suitable antibiotic. \nThe length of surgical antibiotic prophylaxis (SAP) was \ncorrect only in 24 (6.53%) case records, and the time of SAP \nadministration was correct in 204 (50.76%) case records.\nIn low- and middle-income countries (LMICs), SSIs account \nfor up to 60% of HAIs (Sefah et al. 2022). A large-scale adult \nstudy in Africa by Biccard et al. (2018) indicated 1156 (10.2%) \npostoperative infection complications out of 10 970 patients, \nof whom 112 (9.7%) died. Prevalence of SSI was reported as \n7.81% in Benin (Degbey et al. 2021) and patients who were \n> 60 years of age were at great risk of contracting it. Studies \nin Ethiopia by Alamrew et al. (2019) and Awoke, Arba and \nGirma (2019) reported the likelihood of emergency surgeries \ndeveloping SSI rather than elective surgery. Gedefaw et al. \n(2018) in Ethiopia also reported diabetes mellitus as a risk \nfactor associated with SSI. In Ghana, compliance with SAP \nbecause of the appropriate choice of antimicrobials was 400 \n(67.0%), and the duration of SAP was appropriate only in 52 \n(8.7%) (Sefah et al. 2022).\nThe socio-economic burden imposed by the costs of SSI \nremains a significant problem for many countries (Maraş & \nSürme 2023). In the United States, re-admission for one patient \nwith SSI costs more than $159 000 (Fourier 2020). In India, \nMonahan et al. (2020) discovered that the additional medical \ncost of SSI in the LMICs ranges between $174 000 and $29 610, \nand in high-income European countries, it ranges from $21 000 \nto $34 000. In colorectal surgery, additional medical costs \nstood at $18 101. This led to 22.72 extra days in the hospital. A \nstudy conducted in various LMICs in Europe by Costabella \net al. (2023) highlighted that inadequate surgical infrastructure, \nhuman resources and equipment contribute to high SSI costs. \nNamibia is no exception when it comes to HAIs, including \nSSIs (Ministry of Health and Social Services [MoHSS] 2023). \nTo address this, the MoHSS of Namibia developed the \nNamibian Infection Prevention and Control Action Plan \n2023/2024-2026/2027, and one of the strategic objectives is to \ndevelop and implement evidence-based guidelines to reduce \nHAIs. However, the average SSI cost for patients and \nadditional costs were not reported for Namibia.\nAim\nThis study aims to determine the prevalence of SSI and \nidentify the factors associated with them among surgical \nward patients who underwent a surgical procedure in \nWindhoek, Namibia.\nResearch methods and design\nStudy design\nThis study employed a quantitative, hospital-based cross-\nsectional design, utilising a retrospective chart review of \npatients who underwent surgical procedures from March \n2019 to February 2021.\nResearch setting\nThis study took place in Namibia at two state training \nhospitals that serve as the intermediate referral hospital \n(Hospital 1) and the main national referral hospital (Hospital \n2). Hospital 1, with a bed capacity of 843, has the following \nsurgical areas: two adult surgical, one paediatric surgical, \ntwo orthopaedic, one gynaecology ward and a theatre. \nHospital 2 is a training hospital with an 850-bed capacity. \nThis hospital consists of various wards or departments, \namong them: two adult surgical, one paediatric surgical, two \nadult urology or gynaecology, one intensive care unit (ICU), \none paediatric ICU, one surgical and trauma ICU, one \ncardiothoracic surgery ward and one theatre. This hospital \nalso has a private ward for all disciplines where private \npatients who underwent surgery are admitted.\nPopulation, sample size and sampling method\nThe population for these wards was similar both pre-\nCOVID-19 and during COVID-19, ranging between 4880 \nand 4908 per annual reporting period at both hospitals. \nBased on the advice of a statistician, the study estimated \nthe likelihood of a risk factor in terms of odds ratios, of \nwhich 1.5 is considered small and desirable, while 3.5 and \n9 are considered medium and large, respectively. Using G \nPower for sample size calculation, it was estimated that a \nminimum sample size of 1246 records was required to \ndetect effect sizes of at least 2.9 about 80% of the time \n(power of test). A sample size of 1248 patients’ records was \ndivided equally into 4 time periods, 2 periods for each \nhospital (1248 divided by 4 periods = 312); thus, a \nsystematic sampling method for March 2019 to February \n2020 and March 2020 to February 2021 patients’ charts was \nused for each hospital.\nInclusion criteria\n•\t All charts for patients who underwent surgery during the \nstudy period from March 2019 to February 2021 were \nincluded.\nExclusion criteria\n•\t Patients who stayed in the hospital for less than 24 h \npostoperatively were excluded.\n•\t Ophthalmic surgery during the same period was excluded.\nResearch tool and data collection procedure\nData were collected using a checklist developed by the \nresearchers and based on the study by Awoke et al. (2019). \nThe tool was subdivided into four sections: demographic \n",
+   "n_chars": 5760,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      247.7,
+      43.4,
+      368.3,
+      53.5
+     ],
+     "text": "Page 2 of 8\nOriginal Research\n"
+    },
+    {
+     "bbox": [
+      206.4,
+      799.7,
+      352.9,
+      809.8
+     ],
+     "text": "https://www.hsag.co.za\nOpen Access\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      77.9,
+      285.7,
+      256.9
+     ],
+     "text": "Alkaaki et  al. (2019) reported the likelihood of emergency \nsurgeries developing SSI rather than elective surgery. In \nChina, Hou et al. (2020) discovered that preoperative hospital \nstays and contaminated or dirty wounds were significantly \nassociated with an increasing risk of SSI. In Brazil, De \nCarvalho et al. (2017) identified the length of preoperative \nhospital stays of more than 24 h, extended duration in hours \nof surgery, clean-contaminated, contaminated and dirty \nwounds, and American Society of Anaesthesiologists \nPhysical Status Score (ASA index) as risk factors. A study by \nGurunthalingam et al. (2023) in India recorded that only 10 \n(2.53%) out of 394 case records received a suitable antibiotic. \nThe length of surgical antibiotic prophylaxis (SAP) was \ncorrect only in 24 (6.53%) case records, and the time of SAP \nadministration was correct in 204 (50.76%) case records.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      269.8,
+      285.7,
+      448.7
+     ],
+     "text": "In low- and middle-income countries (LMICs), SSIs account \nfor up to 60% of HAIs (Sefah et al. 2022). A large-scale adult \nstudy in Africa by Biccard et al. (2018) indicated 1156 (10.2%) \npostoperative infection complications out of 10 970 patients, \nof whom 112 (9.7%) died. Prevalence of SSI was reported as \n7.81% in Benin (Degbey et al. 2021) and patients who were \n> 60 years of age were at great risk of contracting it. Studies \nin Ethiopia by Alamrew et al. (2019) and Awoke, Arba and \nGirma (2019) reported the likelihood of emergency surgeries \ndeveloping SSI rather than elective surgery. Gedefaw et al. \n(2018) in Ethiopia also reported diabetes mellitus as a risk \nfactor associated with SSI. In Ghana, compliance with SAP \nbecause of the appropriate choice of antimicrobials was 400 \n(67.0%), and the duration of SAP was appropriate only in 52 \n(8.7%) (Sefah et al. 2022).\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      461.6,
+      285.7,
+      700.3
+     ],
+     "text": "The socio-economic burden imposed by the costs of SSI \nremains a significant problem for many countries (Maraş & \nSürme 2023). In the United States, re-admission for one patient \nwith SSI costs more than $159 000 (Fourier 2020). In India, \nMonahan et al. (2020) discovered that the additional medical \ncost of SSI in the LMICs ranges between $174 000 and $29 610, \nand in high-income European countries, it ranges from $21 000 \nto $34 000. In colorectal surgery, additional medical costs \nstood at $18 101. This led to 22.72 extra days in the hospital. A \nstudy conducted in various LMICs in Europe by Costabella \net al. (2023) highlighted that inadequate surgical infrastructure, \nhuman resources and equipment contribute to high SSI costs. \nNamibia is no exception when it comes to HAIs, including \nSSIs (Ministry of Health and Social Services [MoHSS] 2023). \nTo address this, the MoHSS of Namibia developed the \nNamibian Infection Prevention and Control Action Plan \n2023/2024-2026/2027, and one of the strategic objectives is to \ndevelop and implement evidence-based guidelines to reduce \nHAIs. However, the average SSI cost for patients and \nadditional costs were not reported for Namibia.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      715.1,
+      62.5,
+      730.4
+     ],
+     "text": "Aim\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      734.4,
+      285.7,
+      781.3
+     ],
+     "text": "This study aims to determine the prevalence of SSI and \nidentify the factors associated with them among surgical \nward patients who underwent a surgical procedure in \nWindhoek, Namibia.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      75.8,
+      509.5,
+      111.0
+     ],
+     "text": "Research methods and design\nStudy design\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      114.8,
+      555.0,
+      161.1
+     ],
+     "text": "This study employed a quantitative, hospital-based cross-\nsectional design, utilising a retrospective chart review of \npatients who underwent surgical procedures from March \n2019 to February 2021.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      175.9,
+      393.1,
+      191.2
+     ],
+     "text": "Research setting\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      194.9,
+      555.0,
+      357.9
+     ],
+     "text": "This study took place in Namibia at two state training \nhospitals that serve as the intermediate referral hospital \n(Hospital 1) and the main national referral hospital (Hospital \n2). Hospital 1, with a bed capacity of 843, has the following \nsurgical areas: two adult surgical, one paediatric surgical, \ntwo orthopaedic, one gynaecology ward and a theatre. \nHospital 2 is a training hospital with an 850-bed capacity. \nThis hospital consists of various wards or departments, \namong them: two adult surgical, one paediatric surgical, two \nadult urology or gynaecology, one intensive care unit (ICU), \none paediatric ICU, one surgical and trauma ICU, one \ncardiothoracic surgery ward and one theatre. This hospital \nalso has a private ward for all disciplines where private \npatients who underwent surgery are admitted.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      372.7,
+      539.9,
+      388.0
+     ],
+     "text": "Population, sample size and sampling method\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      392.2,
+      555.0,
+      585.3
+     ],
+     "text": "The population for these wards was similar both pre-\nCOVID-19 and during COVID-19, ranging between 4880 \nand 4908 per annual reporting period at both hospitals. \nBased on the advice of a statistician, the study estimated \nthe likelihood of a risk factor in terms of odds ratios, of \nwhich 1.5 is considered small and desirable, while 3.5 and \n9 are considered medium and large, respectively. Using G \nPower for sample size calculation, it was estimated that a \nminimum sample size of 1246 records was required to \ndetect effect sizes of at least 2.9 about 80% of the time \n(power of test). A sample size of 1248 patients’ records was \ndivided equally into 4 time periods, 2 periods for each \nhospital (1248 divided by 4 periods = 312); thus, a \nsystematic sampling method for March 2019 to February \n2020 and March 2020 to February 2021 patients’ charts was \nused for each hospital.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      599.1,
+      380.8,
+      611.8
+     ],
+     "text": "Inclusion criteria\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      614.4,
+      555.0,
+      649.3
+     ],
+     "text": "•\t All charts for patients who underwent surgery during the \nstudy period from March 2019 to February 2021 were \nincluded.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      663.1,
+      382.0,
+      675.8
+     ],
+     "text": "Exclusion criteria\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      678.3,
+      555.0,
+      712.7
+     ],
+     "text": "•\t Patients who stayed in the hospital for less than 24 h \npostoperatively were excluded.\n•\t Ophthalmic surgery during the same period was excluded.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      727.5,
+      530.6,
+      742.9
+     ],
+     "text": "Research tool and data collection procedure\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      746.8,
+      555.0,
+      781.3
+     ],
+     "text": "Data were collected using a checklist developed by the \nresearchers and based on the study by Awoke et al. (2019). \nThe tool was subdivided into four sections: demographic \n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "Page 3 of 8\nOriginal Research\nhttps://www.hsag.co.za\nOpen Access\ninformation, surgery-related factors, comorbidities, \nwound-related factors, and anaesthesia and medication-\nrelated factors (see Box 1 for additional details).\nThe SSI was diagnosed and confirmed by a registered medical \npractitioner within 30 days following surgery or up to 1 year \nin case of an implant. Wound infection was identified based \non the presence of local inflammatory changes, including \noedema, redness, warmth and pus discharge.\nThe study ensured the content and face validity of the data \ncollection tool as it was guided by the tool used by Awoke \net al. (2019), data routinely captured in the hospital records \nand verified by a statistician. The reliability of the study was \nincorporated in the sample size calculations, where a \nminimum sample was determined to detect the appropriate \neffect size and reduce Type I and Type II errors.\nData collection process\nThe data collection process (February 2023 to July 2023) \nstarted after ethics approval by the University of \nKwaZulu-Natal and permission from the Ministry of Health \nand Social Services in Namibia and medical superintendents \nof the two hospitals. The researcher (ANH) drew every \n4th patient’s chart in health records based on the systematic \nsampling method. Data collection was a lengthy process, \nwith each patient chart taking approximately 30 min–40 min \nto complete.\nData analysis\nData were cleaned and analysed, with the help of a statistician, \nusing IBM Statistical Package for the Social Sciences (IBM \nSPSS) version 29. The data were coded before being entered \ninto IBM SPSS version 29. Descriptive statistics, such as \npercentages and frequencies, were used to analyse nominal \nand ordinal data. The frequency of each response was \nexpressed as a percentage. The prevalence of SSIs was \ncomputed as a percentage. Chi-square tests were performed \nto determine whether there were associations between \nindependent variables such as age and gender and the \ndependent variable (SSI). Binary logistic regression was \ncomputed to determine the extent of the associations between \nthe independent variables and the dependent variable (SSI); \n95% confidence intervals were used to determine the \nstatistical significance of the odds ratios, and p-values of less \nthan 0.05 were used to determine the statistical significance \nof the results of the Chi-square tests.\nEthical considerations\nEthical clearance was received from the University of \nKwaZulu-Natal’s Biomedical Research Ethics Committee \n(BREC) on 11 September 2022 (clearance no: BREC/​\n00004372/2022) and denotes compliance with South African \nNational Research Ethics Guidelines (2015), and permission to \nconduct the study was from the Ministry of Health and Social \nServices of Namibia (MoHSS) Research Committee.\nResults\nAll selected files were traced at both sites. However, the \nfollowing variables had missing data: the amount of blood \nloss (77%), wound classification (86%), American Society of \nAnesthesiologists Physical Status Score (23%), order for \nwound care (17%), orders showing how often to clean the \nwound (59%), wound care charted as ordered (49%), duration \nof anaesthesia (6%) and antibiotic prophylaxis (24%). All \nmissing data are reported in the results.\nPrevalence of surgical site infections\nThe overall prevalence of SSIs was 10.1% (95% confidence \ninterval: 8.4% – 11.8%). Hospitals 1 and 2 had a prevalence of \n11.5% (n = 72) and 8.7% (n = 54), respectively.\nDemographic factors\nChi-square tests revealed that there was an association \nbetween age and SSIs and between gender and SSIs (p < 0.05). \nHowever, no associations were noted between COVID-19 \nperiod, residence and type of ward with SSIs (p > 0.05). Age \ncategory 31–60 years had a statistically significantly lower \nlikelihood of SSIs than age category < 1–30, crude odds ratio \n(COR) = 0.38 (95% CI [confidence interval]: 0.25–0.58). This \nmeans that patients aged 31–60 years had a 62% lower chance \nof developing SSIs than those in the age category < 1–30. \nMale patients were 1.69 times more likely to develop SSIs \ncompared to female patients, COR = 1.69 (95% CI: 1.16–2.47). \nThis study shows more SSIs in patients operated during pre-\nCOVID-19 (March 2019 to February 2020) than during \nCOVID-19 (March 2020 to February 2021). However, the \nCOR for SSIs during COVID-19 compared to the pre-\nCOVID-19 period was 1.38 (95% CI: 0.95–2.00), indicating \nthat there was no significant difference in the likelihood of \nBOX 1: Explanation of data collection tool.\nDemographic factors:\n• Age of patient\n• Gender\n• Surgical area admitted to\n• \u0007Admission period (how long in \nhospital)\n• Operation date\n• Patient’s place of residence\nComorbidities and wound-related \nfactors:\n• Duration of surgery\n• Amount of blood loss during surgery\n• Implant insertion done\n• Installation of drain\n• \u0007American Society of \nAnesthesiologists Physical Status \nScore\n• Associated chronic comorbidity\n• Wound care ordered\n• Frequency of wound care\n• \u0007Wound care was chartered as \nordered\nSurgery-related factors:\n• Preoperative hospital stays\n• Postoperative hospital stays\n• Type of surgery\n• \u0007Wound classification (e.g. dirty, \nclean-contaminated, contaminated \nand clean)\n• \u0007Body region where operation was done\n• \u0007Other institutions where operation \ntook place\n• Previous history of surgery\n• \u0007Patient mode of discharged (e.g. \ndischarged home or diseased)\nAnaesthesia and medication-related \nfactors:\n• Type of anaesthesia\n• Duration of anaesthesia\n• Antibiotic prophylaxis\n",
+   "n_chars": 5566,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      247.9,
+      43.2,
+      368.5,
+      53.4
+     ],
+     "text": "Page 3 of 8\nOriginal Research\n"
+    },
+    {
+     "bbox": [
+      206.6,
+      799.7,
+      353.0,
+      809.8
+     ],
+     "text": "https://www.hsag.co.za\nOpen Access\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      77.9,
+      285.8,
+      113.5
+     ],
+     "text": "information, surgery-related factors, comorbidities, \nwound-related factors, and anaesthesia and medication-\nrelated factors (see Box 1 for additional details).\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      127.0,
+      285.7,
+      187.3
+     ],
+     "text": "The SSI was diagnosed and confirmed by a registered medical \npractitioner within 30 days following surgery or up to 1 year \nin case of an implant. Wound infection was identified based \non the presence of local inflammatory changes, including \noedema, redness, warmth and pus discharge.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      200.7,
+      285.7,
+      285.7
+     ],
+     "text": "The study ensured the content and face validity of the data \ncollection tool as it was guided by the tool used by Awoke \net al. (2019), data routinely captured in the hospital records \nand verified by a statistician. The reliability of the study was \nincorporated in the sample size calculations, where a \nminimum sample was determined to detect the appropriate \neffect size and reduce Type I and Type II errors.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      300.5,
+      157.2,
+      315.8
+     ],
+     "text": "Data collection process\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      319.9,
+      285.7,
+      427.2
+     ],
+     "text": "The data collection process (February 2023 to July 2023) \nstarted after ethics approval by the University of \nKwaZulu-Natal and permission from the Ministry of Health \nand Social Services in Namibia and medical superintendents \nof the two hospitals. The researcher (ANH) drew every \n4th patient’s chart in health records based on the systematic \nsampling method. Data collection was a lengthy process, \nwith each patient chart taking approximately 30 min–40 min \nto complete.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      442.0,
+      107.9,
+      457.3
+     ],
+     "text": "Data analysis\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      461.1,
+      285.7,
+      507.2
+     ],
+     "text": "Data were cleaned and analysed, with the help of a statistician, \nusing IBM Statistical Package for the Social Sciences (IBM \nSPSS) version 29. The data were coded before being entered \ninto IBM SPSS version 29. Descriptive statistics, such as \n"
+    },
+    {
+     "bbox": [
+      311.8,
+      77.9,
+      555.0,
+      230.4
+     ],
+     "text": "percentages and frequencies, were used to analyse nominal \nand ordinal data. The frequency of each response was \nexpressed as a percentage. The prevalence of SSIs was \ncomputed as a percentage. Chi-square tests were performed \nto determine whether there were associations between \nindependent variables such as age and gender and the \ndependent variable (SSI). Binary logistic regression was \ncomputed to determine the extent of the associations between \nthe independent variables and the dependent variable (SSI); \n95% confidence intervals were used to determine the \nstatistical significance of the odds ratios, and p-values of less \nthan 0.05 were used to determine the statistical significance \nof the results of the Chi-square tests.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      245.2,
+      420.2,
+      260.5
+     ],
+     "text": "Ethical considerations\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      264.3,
+      555.0,
+      345.9
+     ],
+     "text": "Ethical clearance was received from the University of \nKwaZulu-Natal’s Biomedical Research Ethics Committee \n(BREC) on 11 September 2022 (clearance no: BREC/​\n00004372/2022) and denotes compliance with South African \nNational Research Ethics Guidelines (2015), and permission to \nconduct the study was from the Ministry of Health and Social \nServices of Namibia (MoHSS) Research Committee.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      355.9,
+      359.5,
+      376.3
+     ],
+     "text": "Results\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      379.1,
+      555.0,
+      473.9
+     ],
+     "text": "All selected files were traced at both sites. However, the \nfollowing variables had missing data: the amount of blood \nloss (77%), wound classification (86%), American Society of \nAnesthesiologists Physical Status Score (23%), order for \nwound care (17%), orders showing how often to clean the \nwound (59%), wound care charted as ordered (49%), duration \nof anaesthesia (6%) and antibiotic prophylaxis (24%). All \nmissing data are reported in the results.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      488.7,
+      491.6,
+      504.1
+     ],
+     "text": "Prevalence of surgical site infections\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      507.4,
+      555.0,
+      543.3
+     ],
+     "text": "The overall prevalence of SSIs was 10.1% (95% confidence \ninterval: 8.4% – 11.8%). Hospitals 1 and 2 had a prevalence of \n11.5% (n = 72) and 8.7% (n = 54), respectively.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      557.9,
+      414.8,
+      573.2
+     ],
+     "text": "Demographic factors\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      577.2,
+      555.0,
+      780.1
+     ],
+     "text": "Chi-square tests revealed that there was an association \nbetween age and SSIs and between gender and SSIs (p < 0.05). \nHowever, no associations were noted between COVID-19 \nperiod, residence and type of ward with SSIs (p > 0.05). Age \ncategory 31–60 years had a statistically significantly lower \nlikelihood of SSIs than age category < 1–30, crude odds ratio \n(COR) = 0.38 (95% CI [confidence interval]: 0.25–0.58). This \nmeans that patients aged 31–60 years had a 62% lower chance \nof developing SSIs than those in the age category < 1–30. \nMale patients were 1.69 times more likely to develop SSIs \ncompared to female patients, COR = 1.69 (95% CI: 1.16–2.47). \nThis study shows more SSIs in patients operated during pre-\nCOVID-19 (March 2019 to February 2020) than during \nCOVID-19 (March 2020 to February 2021). However, the \nCOR for SSIs during COVID-19 compared to the pre-\nCOVID-19 period was 1.38 (95% CI: 0.95–2.00), indicating \nthat there was no significant difference in the likelihood of \n"
+    },
+    {
+     "bbox": [
+      42.8,
+      518.2,
+      170.8,
+      527.8
+     ],
+     "text": "BOX 1: Explanation of data collection tool.\n"
+    },
+    {
+     "bbox": [
+      46.9,
+      530.5,
+      141.7,
+      606.5
+     ],
+     "text": "Demographic factors:\n• Age of patient\n• Gender\n• Surgical area admitted to\n• \u0007Admission period (how long in \nhospital)\n• Operation date\n• Patient’s place of residence\n"
+    },
+    {
+     "bbox": [
+      169.6,
+      530.5,
+      277.6,
+      654.5
+     ],
+     "text": "Comorbidities and wound-related \nfactors:\n• Duration of surgery\n• Amount of blood loss during surgery\n• Implant insertion done\n• Installation of drain\n• \u0007American Society of \nAnesthesiologists Physical Status \nScore\n• Associated chronic comorbidity\n• Wound care ordered\n• Frequency of wound care\n• \u0007Wound care was chartered as \nordered\n"
+    },
+    {
+     "bbox": [
+      46.9,
+      659.0,
+      160.7,
+      775.9
+     ],
+     "text": "Surgery-related factors:\n• Preoperative hospital stays\n• Postoperative hospital stays\n• Type of surgery\n• \u0007Wound classification (e.g. dirty, \nclean-contaminated, contaminated \nand clean)\n• \u0007Body region where operation was done\n• \u0007Other institutions where operation \ntook place\n• Previous history of surgery\n• \u0007Patient mode of discharged (e.g. \ndischarged home or diseased)\n"
+    },
+    {
+     "bbox": [
+      169.6,
+      659.0,
+      276.1,
+      704.9
+     ],
+     "text": "Anaesthesia and medication-related \nfactors:\n• Type of anaesthesia\n• Duration of anaesthesia\n• Antibiotic prophylaxis\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Page 4 of 8\nOriginal Research\nhttps://www.hsag.co.za\nOpen Access\ndeveloping the infections between those admitted before \nCOVID-19 (11.6%) and during the COVID-19 pandemic \n(8.6%) (p = 0.053). More details are in Table 1.\nSurgery-related factors\nChi-square tests revealed that postoperative duration of \nhospital stay, the type of surgery done, wound classification, \nprevious history of surgery, patient mode of discharge from \nthe hospital and the operation being performed at another \nhospital were all statistically significantly related to the \noccurrence of SSIs (p < 0.05). Binomial logistic regression \nrevealed that participants with more than 5 days of \npostoperative hospital stay were about three times more \nlikely to develop SSIs than those who stayed less than 5 days, \nCOR = 3.18 (95% CI: 2.13–4.75). Participants who had \nemergency or urgent surgery were almost three times more \nlikely to develop SSIs than those who had elective surgery, \nCOR = 2.71 (95% CI: 1.86–3.95). Participants who had clean-\ncontaminated or contaminated wounds were statistically \nsignificantly more likely to develop SSIs than those with clean \nwounds, COR = 81.20 (95% CI: 20.90–314.97) and COR = 72.50 \n(95% CI: 11.21–468.77), respectively. Additionally, participants \nwho had abdominal surgery or surgery of the lower \nextremities were about three times more likely to develop \nSSIs than those who had head and neck surgery, COR = 3.22 \n(95% CI: 1.15–8.97) and COR = 3.10 (95% CI: 1.01–9.50), \nrespectively. Participants with a previous history of surgery \nor referred from another institution were more likely to \ndevelop SSIs, COR = 2.14 (95% CI: 1.37–3.34) and COR = 5.38 \n(95% CI: 2.99–9.69), respectively. Furthermore, participants \nwho died before discharge were more than three times more \nlikely to have SSIs than those who were discharged, COR = \n3.39 (95% CI: 1.40–8.21). More details are in Table 2.\nComorbidities and wound-related factors\nChi-square tests revealed that ASA index, associated chronic \ncomorbidities, if wound care was ordered and frequency of \nwound care ordered were statistically significantly associated \nwith SSIs (p < 0.05). However, charting of wound care as \nordered was not statistically significantly associated with the \noccurrence of SSIs (p > 0.05). In binomial logistic regression, \nparticipants with ASA III/ASA IV were about 4 times more \nlikely to develop SSIs than those with ASA I/ASA II, COR = \n4.25 (95% CI: 2.38–7.60). Compared with participants without \ncomorbidities, participants with diabetes mellitus, COR = \n9.87 (95% CI: 5.78–16.84); HIV/AIDS, COR = 3.40 (95% CI: \n1.84–6.27); cancer, COR = 9.28 (95% CI: 3.50–24.66); or \nmultiple comorbidities, COR = 3.14 (95% CI: 1.65–5.97) were \nstatistically significantly more likely to develop SSIs. More \ndetails are in Table 3.\nAnaesthesia and medication-related factors\nChi-square tests revealed that the duration of anaesthesia \nand the use of prophylactic antibiotics were statistically \nsignificantly associated with SSIs (p < 0.05). However, the \ntype of anaesthesia given was not statistically significantly \nassociated with the occurrence of SSIs (p > 0.05). In binomial \nlogistic regression, participants who received spinal \nanaesthesia were 78% less likely to develop SSIs than those \nwho received regional or local anaesthesia, COR = 0.22 (95% \nCI: 0.06–0.80). Participants who had anaesthesia for \nmore than 90 min were statistically significantly more likely \nto develop SSIs than those who had anaesthesia for \nless than 30 min, COR = 3.71 (95% CI: 1.71–8.81). Furthermore, \nparticipants who did not receive prophylactic antibiotics \nwere statistically significantly less likely to develop SSIs, \nCOR = 0.18 (95% CI: 0.08–0.39). More details are in Table 4.\nDiscussion\nThe study addressed the prevalence of SSIs and its associated \nfactors among postoperative patients. In this study, the overall \nprevalence of SSIs was 10.1%, which is higher than that in a \nstudy by Mohan et al. (2023) (5.6%) from India, Degbey et al. \n(2021) from Benin (7.8%) and Gedefaw et al. (2018) from \nEthiopia (9.4%). However, this study’s prevalence is lower \nthan that reported in a study by Mezemir et al. (2020) from \nTABLE 1: Demographic factors (N = 1248). \nVariables\nCategory\nSSI \nCrude Odds Ratio\n95% CI\nChi-square test \np-value\nYes\nNo\nn\n%\nn\n%\nAge groups (years)\n< 1–30 \n32\n5.9\n508\n94.1\n1\n-\np < 0.001*\n31–60 \n79\n14.3\n475\n85.7\n0.38\n0.25–0.58\n> 60\n15\n9.7\n139\n90.3\n0.58\n0.31, 1.11\nGender\nMale\n77\n12.5\n540\n87.5\n1.69\n1.16–2.47\np < 0.006*\nFemale\n49\n7.9\n582\n92.2\n1\n-\nCOVID-19\nPre COVID-19\n72\n11.6\n551\n88.4\n1.38\n0.95–2.00\np = 0.053\nDuring COVID-19\n54\n8.6\n571\n91.4\n1\n-\nResidence\nUrban\n88\n9.7\n823\n90.3\n0.86\n0.56–1.32\np = 0.485\nRural\n32\n11.1\n257\n88.9\n1\n-\nNS\n6\n12.5\n42\n87.5\n1.15\n0.45–2.91\nType of ward\nPrivate\n3\n5.3\n54\n94.7\n0.48\n0.15–1.57\np = 0.216\nPublic\n116\n10.3\n1008\n89.7\n1\n-\nNS\n7\n10.4\n60\n89.6\n1.01\n0.45–2.27\nNote: Bold numbers are statistically significant.\nCOR, Crude odds ratio; NS, not stated; SSI, surgical site infections; CI, confidence interval.\n*, Statistically significant at p < 0.05.\n",
+   "n_chars": 5082,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      247.7,
+      43.4,
+      368.3,
+      53.5
+     ],
+     "text": "Page 4 of 8\nOriginal Research\n"
+    },
+    {
+     "bbox": [
+      206.4,
+      799.7,
+      352.9,
+      809.8
+     ],
+     "text": "https://www.hsag.co.za\nOpen Access\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      77.9,
+      285.7,
+      113.0
+     ],
+     "text": "developing the infections between those admitted before \nCOVID-19 (11.6%) and during the COVID-19 pandemic \n(8.6%) (p = 0.053). More details are in Table 1.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      127.6,
+      155.9,
+      142.9
+     ],
+     "text": "Surgery-related factors\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      146.9,
+      285.7,
+      482.0
+     ],
+     "text": "Chi-square tests revealed that postoperative duration of \nhospital stay, the type of surgery done, wound classification, \nprevious history of surgery, patient mode of discharge from \nthe hospital and the operation being performed at another \nhospital were all statistically significantly related to the \noccurrence of SSIs (p < 0.05). Binomial logistic regression \nrevealed that participants with more than 5 days of \npostoperative hospital stay were about three times more \nlikely to develop SSIs than those who stayed less than 5 days, \nCOR = 3.18 (95% CI: 2.13–4.75). Participants who had \nemergency or urgent surgery were almost three times more \nlikely to develop SSIs than those who had elective surgery, \nCOR = 2.71 (95% CI: 1.86–3.95). Participants who had clean-\ncontaminated or contaminated wounds were statistically \nsignificantly more likely to develop SSIs than those with clean \nwounds, COR = 81.20 (95% CI: 20.90–314.97) and COR = 72.50 \n(95% CI: 11.21–468.77), respectively. Additionally, participants \nwho had abdominal surgery or surgery of the lower \nextremities were about three times more likely to develop \nSSIs than those who had head and neck surgery, COR = 3.22 \n(95% CI: 1.15–8.97) and COR = 3.10 (95% CI: 1.01–9.50), \nrespectively. Participants with a previous history of surgery \nor referred from another institution were more likely to \ndevelop SSIs, COR = 2.14 (95% CI: 1.37–3.34) and COR = 5.38 \n(95% CI: 2.99–9.69), respectively. Furthermore, participants \nwho died before discharge were more than three times more \nlikely to have SSIs than those who were discharged, COR = \n3.39 (95% CI: 1.40–8.21). More details are in Table 2.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      496.6,
+      247.0,
+      511.9
+     ],
+     "text": "Comorbidities and wound-related factors\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      515.9,
+      285.7,
+      550.8
+     ],
+     "text": "Chi-square tests revealed that ASA index, associated chronic \ncomorbidities, if wound care was ordered and frequency of \nwound care ordered were statistically significantly associated \n"
+    },
+    {
+     "bbox": [
+      311.8,
+      77.1,
+      555.0,
+      220.8
+     ],
+     "text": "with SSIs (p < 0.05). However, charting of wound care as \nordered was not statistically significantly associated with the \noccurrence of SSIs (p > 0.05). In binomial logistic regression, \nparticipants with ASA III/ASA IV were about 4 times more \nlikely to develop SSIs than those with ASA I/ASA II, COR = \n4.25 (95% CI: 2.38–7.60). Compared with participants without \ncomorbidities, participants with diabetes mellitus, COR = \n9.87 (95% CI: 5.78–16.84); HIV/AIDS, COR = 3.40 (95% CI: \n1.84–6.27); cancer, COR = 9.28 (95% CI: 3.50–24.66); or \nmultiple comorbidities, COR = 3.14 (95% CI: 1.65–5.97) were \nstatistically significantly more likely to develop SSIs. More \ndetails are in Table 3.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      235.6,
+      528.3,
+      250.9
+     ],
+     "text": "Anaesthesia and medication-related factors\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      255.0,
+      555.0,
+      434.9
+     ],
+     "text": "Chi-square tests revealed that the duration of anaesthesia \nand the use of prophylactic antibiotics were statistically \nsignificantly associated with SSIs (p < 0.05). However, the \ntype of anaesthesia given was not statistically significantly \nassociated with the occurrence of SSIs (p > 0.05). In binomial \nlogistic regression, participants who received spinal \nanaesthesia were 78% less likely to develop SSIs than those \nwho received regional or local anaesthesia, COR = 0.22 (95% \nCI: 0.06–0.80). Participants who had anaesthesia for \nmore than 90 min were statistically significantly more likely \nto develop SSIs than those who had anaesthesia for \nless than 30 min, COR = 3.71 (95% CI: 1.71–8.81). Furthermore, \nparticipants who did not receive prophylactic antibiotics \nwere statistically significantly less likely to develop SSIs, \nCOR = 0.18 (95% CI: 0.08–0.39). More details are in Table 4.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      444.6,
+      381.4,
+      465.1
+     ],
+     "text": "Discussion\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      467.8,
+      555.0,
+      550.7
+     ],
+     "text": "The study addressed the prevalence of SSIs and its associated \nfactors among postoperative patients. In this study, the overall \nprevalence of SSIs was 10.1%, which is higher than that in a \nstudy by Mohan et al. (2023) (5.6%) from India, Degbey et al. \n(2021) from Benin (7.8%) and Gedefaw et al. (2018) from \nEthiopia (9.4%). However, this study’s prevalence is lower \nthan that reported in a study by Mezemir et al. (2020) from \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      564.7,
+      170.7,
+      574.7
+     ],
+     "text": "TABLE 1: Demographic factors (N = 1248). \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      575.8,
+      547.6,
+      585.1
+     ],
+     "text": "Variables\nCategory\nSSI \nCrude Odds Ratio\n95% CI\nChi-square test \n"
+    },
+    {
+     "bbox": [
+      219.4,
+      582.7,
+      534.8,
+      596.5
+     ],
+     "text": "p-value\nYes\nNo\n"
+    },
+    {
+     "bbox": [
+      195.7,
+      598.0,
+      359.6,
+      607.4
+     ],
+     "text": "n\n%\nn\n%\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      609.9,
+      539.0,
+      619.3
+     ],
+     "text": "Age groups (years)\n< 1–30 \n32\n5.9\n508\n94.1\n1\n-\np < 0.001*\n"
+    },
+    {
+     "bbox": [
+      104.3,
+      621.2,
+      481.8,
+      630.2
+     ],
+     "text": "31–60 \n79\n14.3\n475\n85.7\n0.38\n0.25–0.58\n"
+    },
+    {
+     "bbox": [
+      104.3,
+      632.2,
+      481.6,
+      641.1
+     ],
+     "text": "> 60\n15\n9.7\n139\n90.3\n0.58\n0.31, 1.11\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      642.7,
+      539.0,
+      652.0
+     ],
+     "text": "Gender\nMale\n77\n12.5\n540\n87.5\n1.69\n1.16–2.47\np < 0.006*\n"
+    },
+    {
+     "bbox": [
+      104.3,
+      654.0,
+      468.6,
+      662.9
+     ],
+     "text": "Female\n49\n7.9\n582\n92.2\n1\n-\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      664.6,
+      537.2,
+      673.9
+     ],
+     "text": "COVID-19\nPre COVID-19\n72\n11.6\n551\n88.4\n1.38\n0.95–2.00\np = 0.053\n"
+    },
+    {
+     "bbox": [
+      104.3,
+      675.9,
+      468.6,
+      684.8
+     ],
+     "text": "During COVID-19\n54\n8.6\n571\n91.4\n1\n-\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      686.4,
+      537.2,
+      695.7
+     ],
+     "text": "Residence\nUrban\n88\n9.7\n823\n90.3\n0.86\n0.56–1.32\np = 0.485\n"
+    },
+    {
+     "bbox": [
+      104.3,
+      697.7,
+      468.6,
+      706.6
+     ],
+     "text": "Rural\n32\n11.1\n257\n88.9\n1\n-\n"
+    },
+    {
+     "bbox": [
+      104.3,
+      708.6,
+      481.7,
+      717.5
+     ],
+     "text": "NS\n6\n12.5\n42\n87.5\n1.15\n0.45–2.91\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      719.1,
+      537.2,
+      728.5
+     ],
+     "text": "Type of ward\nPrivate\n3\n5.3\n54\n94.7\n0.48\n0.15–1.57\np = 0.216\n"
+    },
+    {
+     "bbox": [
+      104.3,
+      730.5,
+      468.6,
+      739.4
+     ],
+     "text": "Public\n116\n10.3\n1008\n89.7\n1\n-\n"
+    },
+    {
+     "bbox": [
+      104.3,
+      741.4,
+      481.7,
+      750.3
+     ],
+     "text": "NS\n7\n10.4\n60\n89.6\n1.01\n0.45–2.27\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      753.8,
+      276.3,
+      780.1
+     ],
+     "text": "Note: Bold numbers are statistically significant.\nCOR, Crude odds ratio; NS, not stated; SSI, surgical site infections; CI, confidence interval.\n*, Statistically significant at p < 0.05.\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "Page 5 of 8\nOriginal Research\nhttps://www.hsag.co.za\nOpen Access\nEthiopia (24.6%). It is important to note that this study was not \nable to follow up post-discharge and some patients may have \ndeveloped SSI in the community. The higher prevalence of \nSSIs in this study might be attributed to limited health care \ninfrastructure and fragile health system contributing to \ninefficient infection control practices in the hospitals, \ninadequate environmental hygiene and a high number of \npeople using the same theatre (Mezemir et al. 2020).\nThis study shows a higher percentage of SSIs in patients \noperated pre-COVID-19 (11.6%) compared to those operated \nduring COVID-19 (8.6%), but it was not statistically \nsignificant. This is similar to a study in India by Pantvaidya \net al. (2022) which showed a 4.2% decrease in SSIs during the \nCOVID-19 pandemic, which was statistically significant, and \na study in Germany by Chacon-Quesada, Rohde and Von \nder Brelie (2021) which indicated a 2.9% pre-COVID-19 \nand a 1.4% during COVID-19, which was also statistically \nsignificant. These findings may be attributed to the reduced \nnumber of theatre cases and improved infection prevention \nand control measures implemented during the COVID-19 \nperiod.\nParticipants in the age group 31–60 years had a lower \nlikelihood of developing SSIs than those in the less than \n30 years age group. This is contrary to the results of studies \nby Mohan et al. (2023) and Shakir et al. (2021), which reported \nthat older age groups have a higher likelihood of developing \nSSIs. Older age groups are expected to have an increased risk \nof developing SSIs because of a decline in their immune \nsystem’s ability to fight infections and an increase in the \noccurrence of comorbidities (Amruthan, Reddy & Pyadala \n2017). Male patients were 1.69 times more likely to develop \nSSIs compared to female patients. This was supported by a \nstudy by Lakoh et al. (2022). The heightened probability may \nbe linked to the characteristics of the infected wounds \nTABLE 2: Surgery-related factors (N = 1248).\nVariables\nCategory\nSSI\nCrude \nodds ratio\n95% CI\nChi-square test \np-value\nYes\nNo\nn\n%\nn\n%\nPreoperative duration of \nhospital stays (in days)\n1–4\n114\n90.5\n1012\n90.2\n1.03\n0.55–1.93\np = 0.537\n≥ 5\n12\n9.5\n110\n9.8\n1\n-\nPostoperative duration of \nhospital stays (in days)\n1–4\n37\n5.5\n639\n94.5\n1\n-\np < 0.001*\n≥ 5\n89\n15.6\n483\n84.4\n3.18\n2.13–4.75\nType of surgery\nElective\n52\n6.6\n736\n93.4\n1\n-\np < 0.001*\nEmergency or urgent\n74\n16.1\n386\n83.4\n2.71\n1.86–3.95\nWound classification\nClean\n5\n3.3\n145\n96.7\n1\n-\np < 0.001*\nClean-contaminated\n14\n73.7\n5\n26.3\n81.20\n20.90–314.97\nContaminated\n5\n71.4\n2\n28.6\n72.50\n11.21–468.77\nNC\n102\n9.5\n970\n90.5\n-\n-\nWhere surgery was done \n(body regions)\nHead and neck\n4\n4.0\n97\n96.0\n1\n-\np = 0.061\nThorax\n12\n7.5\n147\n92.5\n1.98\n0.62–6.32\nAbdomen\n86\n11.7\n648\n88.3\n3.22\n1.15–8.97\nUpper extremity\n7\n6.7\n97\n93.3\n1.75\n0.50–6.17\nLower extremity\n17\n11.3\n133\n88.7\n3.10\n1.01–9.50\nOperation referred from \nanother institution\nYes\n19\n33.9\n37\n66.1\n5.38\n2.99–9.69\np < 0.001*\nNo\n107\n9.0\n1122\n89.9\n1\n-\nPrevious history of surgery\nYes\n30\n17.3\n143\n82.7\n2.14\n1.37–3.34\np < 0.001*\nNo\n96\n8.9\n979\n91.1\n1\n-\nDuration of surgery\n< 1 h\n12\n5.5\n206\n94.5\n1\n-\np = 0.057\n1–2 h\n102\n11.7\n769\n88.3\n2.28\n1.23–4.22\n3–4 h\n9\n9.9\n82\n90.1\n1.88\n0.77–4.64\n> 4 h\n2\n15.4\n11\n84.6\n3.12\n0.62–15.70\nNS\n1\n1.8\n54\n98.2\n-\n-\nAmount of blood loss \nduring surgery\n< 500 mL\n31\n24.6\n96\n75.6\n1\n-\np = 0.595\n500–1500 mL\n38\n29.5\n91\n70.5\n1.29\n0.74–2.25\n> 1500 mL\n9\n31.0\n20\n69.0\n1.39\n0.58–3.38\nNS\n48\n5.0\n915\n95.0\n-\n-\nImplant inserted at site of \nsurgery\nYes\n17\n11.8\n126\n88.1\n1.20\n0.70– 2.07\np = 0.505\nNo\n107\n10.1\n954\n89.9\n1\n-\nNA\n2\n4.5\n42\n95.5\n-\n-\nInstallation of the drain\nYes\n25\n12.4\n177\n87.6\n1.28\n0.80–2.05\np = 0.293\nNo\n100\n9.9\n909\n90.1\n1\n-\nNA\n1\n2.7\n36\n97.3\n-\n-\nPatient mode of discharge \nfrom the hospital\nDischarged\n107\n9.4\n1037\n90.6\n1\n-\nDead\n7\n25.9\n20\n74.1\n3.39\n1.40–8.21\np = 0.004\nNR\n12\n15.6\n65\n84.4\n-\n-\nNote: Bold numbers are statistically significant.\nCOR, Crude odds ratio; NC, not classified; NS, not stated; NA, not applicable; NR, not recorded; SSI, surgical site infections; CI, confidence interval.\n*, Statistically significant at p < 0.05.\n",
+   "n_chars": 4166,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      247.9,
+      43.2,
+      368.5,
+      53.4
+     ],
+     "text": "Page 5 of 8\nOriginal Research\n"
+    },
+    {
+     "bbox": [
+      206.6,
+      799.7,
+      353.0,
+      809.8
+     ],
+     "text": "https://www.hsag.co.za\nOpen Access\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      567.0,
+      285.7,
+      662.0
+     ],
+     "text": "Ethiopia (24.6%). It is important to note that this study was not \nable to follow up post-discharge and some patients may have \ndeveloped SSI in the community. The higher prevalence of \nSSIs in this study might be attributed to limited health care \ninfrastructure and fragile health system contributing to \ninefficient infection control practices in the hospitals, \ninadequate environmental hygiene and a high number of \npeople using the same theatre (Mezemir et al. 2020).\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      675.0,
+      285.7,
+      781.3
+     ],
+     "text": "This study shows a higher percentage of SSIs in patients \noperated pre-COVID-19 (11.6%) compared to those operated \nduring COVID-19 (8.6%), but it was not statistically \nsignificant. This is similar to a study in India by Pantvaidya \net al. (2022) which showed a 4.2% decrease in SSIs during the \nCOVID-19 pandemic, which was statistically significant, and \na study in Germany by Chacon-Quesada, Rohde and Von \nder Brelie (2021) which indicated a 2.9% pre-COVID-19 \nand a 1.4% during COVID-19, which was also statistically \n"
+    },
+    {
+     "bbox": [
+      311.8,
+      567.7,
+      555.0,
+      614.3
+     ],
+     "text": "significant. These findings may be attributed to the reduced \nnumber of theatre cases and improved infection prevention \nand control measures implemented during the COVID-19 \nperiod.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      627.4,
+      555.0,
+      781.3
+     ],
+     "text": "Participants in the age group 31–60 years had a lower \nlikelihood of developing SSIs than those in the less than \n30 years age group. This is contrary to the results of studies \nby Mohan et al. (2023) and Shakir et al. (2021), which reported \nthat older age groups have a higher likelihood of developing \nSSIs. Older age groups are expected to have an increased risk \nof developing SSIs because of a decline in their immune \nsystem’s ability to fight infections and an increase in the \noccurrence of comorbidities (Amruthan, Reddy & Pyadala \n2017). Male patients were 1.69 times more likely to develop \nSSIs compared to female patients. This was supported by a \nstudy by Lakoh et al. (2022). The heightened probability may \nbe linked to the characteristics of the infected wounds \n"
+    },
+    {
+     "bbox": [
+      42.4,
+      76.7,
+      175.1,
+      86.6
+     ],
+     "text": "TABLE 2: Surgery-related factors (N = 1248).\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      88.1,
+      446.5,
+      104.1
+     ],
+     "text": "Variables\nCategory\nSSI\nCrude \nodds ratio\n"
+    },
+    {
+     "bbox": [
+      469.5,
+      87.7,
+      551.8,
+      97.1
+     ],
+     "text": "95% CI\nChi-square test \n"
+    },
+    {
+     "bbox": [
+      248.8,
+      94.7,
+      539.0,
+      108.4
+     ],
+     "text": "p-value\nYes\nNo\n"
+    },
+    {
+     "bbox": [
+      225.9,
+      110.0,
+      385.6,
+      119.3
+     ],
+     "text": "n\n%\nn\n%\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      122.3,
+      113.5,
+      138.2
+     ],
+     "text": "Preoperative duration of \nhospital stays (in days)\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      121.9,
+      541.4,
+      131.2
+     ],
+     "text": "1–4\n114\n90.5\n1012\n90.2\n1.03\n0.55–1.93\np = 0.537\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      133.2,
+      481.2,
+      142.1
+     ],
+     "text": "≥ 5\n12\n9.5\n110\n9.8\n1\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      144.2,
+      116.1,
+      160.1
+     ],
+     "text": "Postoperative duration of \nhospital stays (in days)\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      143.7,
+      543.2,
+      153.1
+     ],
+     "text": "1–4\n37\n5.5\n639\n94.5\n1\n-\np < 0.001*\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      155.0,
+      494.4,
+      164.0
+     ],
+     "text": "≥ 5\n89\n15.6\n483\n84.4\n3.18\n2.13–4.75\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      165.5,
+      543.2,
+      174.9
+     ],
+     "text": "Type of surgery\nElective\n52\n6.6\n736\n93.4\n1\n-\np < 0.001*\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      176.9,
+      494.4,
+      185.8
+     ],
+     "text": "Emergency or urgent\n74\n16.1\n386\n83.4\n2.71\n1.86–3.95\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      187.4,
+      543.2,
+      196.7
+     ],
+     "text": "Wound classification\nClean\n5\n3.3\n145\n96.7\n1\n-\np < 0.001*\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      198.7,
+      499.7,
+      207.7
+     ],
+     "text": "Clean-contaminated\n14\n73.7\n5\n26.3\n81.20\n20.90–314.97\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      209.6,
+      499.7,
+      218.6
+     ],
+     "text": "Contaminated\n5\n71.4\n2\n28.6\n72.50\n11.21–468.77\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      220.6,
+      481.2,
+      229.5
+     ],
+     "text": "NC\n102\n9.5\n970\n90.5\n-\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      231.5,
+      114.6,
+      247.4
+     ],
+     "text": "Where surgery was done \n(body regions)\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      231.1,
+      541.4,
+      240.4
+     ],
+     "text": "Head and neck\n4\n4.0\n97\n96.0\n1\n-\np = 0.061\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      242.4,
+      494.2,
+      251.3
+     ],
+     "text": "Thorax\n12\n7.5\n147\n92.5\n1.98\n0.62–6.32\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      253.3,
+      494.4,
+      262.3
+     ],
+     "text": "Abdomen\n86\n11.7\n648\n88.3\n3.22\n1.15–8.97\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      264.3,
+      494.2,
+      273.2
+     ],
+     "text": "Upper extremity\n7\n6.7\n97\n93.3\n1.75\n0.50–6.17\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      275.1,
+      494.4,
+      284.1
+     ],
+     "text": "Lower extremity\n17\n11.3\n133\n88.7\n3.10\n1.01–9.50\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      286.1,
+      112.7,
+      302.0
+     ],
+     "text": "Operation referred from \nanother institution\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      285.6,
+      543.2,
+      295.0
+     ],
+     "text": "Yes\n19\n33.9\n37\n66.1\n5.38\n2.99–9.69\np < 0.001*\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      297.0,
+      481.2,
+      305.9
+     ],
+     "text": "No\n107\n9.0\n1122\n89.9\n1\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      307.5,
+      543.2,
+      316.9
+     ],
+     "text": "Previous history of surgery\nYes\n30\n17.3\n143\n82.7\n2.14\n1.37–3.34\np < 0.001*\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      318.9,
+      481.2,
+      327.8
+     ],
+     "text": "No\n96\n8.9\n979\n91.1\n1\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      329.4,
+      541.4,
+      338.7
+     ],
+     "text": "Duration of surgery\n< 1 h\n12\n5.5\n206\n94.5\n1\n-\np = 0.057\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      340.7,
+      494.4,
+      349.6
+     ],
+     "text": "1–2 h\n102\n11.7\n769\n88.3\n2.28\n1.23–4.22\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      351.6,
+      494.2,
+      360.5
+     ],
+     "text": "3–4 h\n9\n9.9\n82\n90.1\n1.88\n0.77–4.64\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      362.6,
+      496.0,
+      371.4
+     ],
+     "text": "> 4 h\n2\n15.4\n11\n84.6\n3.12\n0.62–15.70\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      373.5,
+      481.2,
+      382.4
+     ],
+     "text": "NS\n1\n1.8\n54\n98.2\n-\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      384.4,
+      104.6,
+      400.3
+     ],
+     "text": "Amount of blood loss \nduring surgery\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      384.0,
+      541.4,
+      393.3
+     ],
+     "text": "< 500 mL\n31\n24.6\n96\n75.6\n1\n-\np = 0.595\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      395.3,
+      494.2,
+      404.2
+     ],
+     "text": "500–1500 mL\n38\n29.5\n91\n70.5\n1.29\n0.74–2.25\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      406.2,
+      494.2,
+      415.1
+     ],
+     "text": "> 1500 mL\n9\n31.0\n20\n69.0\n1.39\n0.58–3.38\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      417.1,
+      481.2,
+      426.0
+     ],
+     "text": "NS\n48\n5.0\n915\n95.0\n-\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      428.1,
+      117.1,
+      444.0
+     ],
+     "text": "Implant inserted at site of \nsurgery\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      427.7,
+      541.4,
+      437.0
+     ],
+     "text": "Yes\n17\n11.8\n126\n88.1\n1.20\n0.70– 2.07\np = 0.505\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      439.0,
+      481.2,
+      447.9
+     ],
+     "text": "No\n107\n10.1\n954\n89.9\n1\n-\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      449.9,
+      481.2,
+      458.8
+     ],
+     "text": "NA\n2\n4.5\n42\n95.5\n-\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      460.4,
+      541.4,
+      469.7
+     ],
+     "text": "Installation of the drain\nYes\n25\n12.4\n177\n87.6\n1.28\n0.80–2.05\np = 0.293\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      471.7,
+      481.2,
+      480.6
+     ],
+     "text": "No\n100\n9.9\n909\n90.1\n1\n-\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      482.7,
+      481.2,
+      491.6
+     ],
+     "text": "NA\n1\n2.7\n36\n97.3\n-\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      493.6,
+      118.1,
+      509.5
+     ],
+     "text": "Patient mode of discharge \nfrom the hospital\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      493.6,
+      481.2,
+      502.5
+     ],
+     "text": "Discharged\n107\n9.4\n1037\n90.6\n1\n-\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      504.0,
+      541.5,
+      513.4
+     ],
+     "text": "Dead\n7\n25.9\n20\n74.1\n3.39\n1.40–8.21\np = 0.004\n"
+    },
+    {
+     "bbox": [
+      125.8,
+      515.4,
+      481.2,
+      524.3
+     ],
+     "text": "NR\n12\n15.6\n65\n84.4\n-\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      527.9,
+      424.6,
+      554.1
+     ],
+     "text": "Note: Bold numbers are statistically significant.\nCOR, Crude odds ratio; NC, not classified; NS, not stated; NA, not applicable; NR, not recorded; SSI, surgical site infections; CI, confidence interval.\n*, Statistically significant at p < 0.05.\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "Page 6 of 8\nOriginal Research\nhttps://www.hsag.co.za\nOpen Access\npresented by male patients in the surgical department, as \nthey generally exhibit greater severity and contamination \n(Mohan et al. 2023).\nParticipants who spent ≥ 5 days in the hospital postoperatively \nwere more likely to develop SSIs than those who spent fewer \ndays. Mezemir et al. (2020) also reported a higher likelihood \nin patients who spent > 14 days. This finding may be \nattributable to contamination of incisions by nosocomial \nbacteria that may be resistant to several antibiotics. Patients \nwith emergency/urgent cases were 0.37 more likely to \ndevelop SSIs compared to elective cases. This higher \nlikelihood of SSIs in emergency surgeries may be because of \nthe very urgent preparation of patients that may lead to \ndirtier and contaminated wounds (Papadopoulos et al. 2021).\nAccording to the studies by Mohan et al. (2023), Awoke et al. \n(2019) and Mezemir et al. (2020), the likelihood of SSIs is higher \nwith abdominal body region surgery than with the head and \nneck region. Abdominal surgeries are more prone to bacterial \ncontamination and, therefore, more likely to develop SSIs than \nother regional surgeries (Jahangir et al. 2024).\nTABLE 3: Comorbidities and wound-related factors (N = 1248).\nVariables\nCategory\nSSI\nCrude \nodds ratio\n95% CI\nChi-square test \np-value\nYes\nNo\nn\n%\nn\n%\nASA index\nASA I/ASA II\n73\n8.2\n817\n91.8\n1\n-\np < 0.001*\nASA III/ASA IV\n19\n27.5\n50\n72.5\n4.25\n2.38–7.60\nNS\n34\n11.8\n255\n88.2\n-\n-\nAssociated chronic \ncomorbidity \nDiabetes mellitus \n31\n38.3\n50\n61.7\n9.87\n5.78–16.84\np < 0.001*\nHypertension\n6\n4.5\n128\n95.5\n0.75\n0.31–1.78\nHIV/AIDS\n16\n17.6\n75\n82.4\n3.40\n1.84–6.27\nCancer or malignancy\n7\n36.8\n12\n63.2\n9.28\n3.50–24.66\nMultiple comorbidities\n14\n16.5\n71\n83.5\n3.14\n1.65–5.97\nOthers\n4\n15.4\n22\n84.6\n2.89\n0.96–8.73\nNone\n48\n5.9\n764\n94.1\n1\n-\nIf wound care was \nordered\nYes\n102\n18.0\n466\n82.0\n1\n-\np < 0.001*\nNo\n15\n3.5\n412\n96.5\n0.17\n0.10–0.29\nNS\n9\n3.6\n244\n96.4\n-\n-\nFrequency of wound \ncare ordered\n1 × day\n47\n16.0\n247\n84.0\n1\n-\np < 0.001*\n2 × day\n33\n26.4\n92\n73.6\n1.89\n1.14–3.12\nThree times a day\n5\n10.9\n41\n89.1\n0.64\n0.24–1.71\nAlternative days\n6\n14.6\n35\n85.4\n0.90\n0.36–2.26\nContinuous vacuum \ndressing\n4\n100\n0\n0.0\n-\n-\nNS\n31\n4.2\n707\n95.8\n-\n-\nWound care charted as \nordered\nYes\n35\n15.2\n196\n84.8\n1\n-\np = 0.554\nNo\n69\n17.0\n338\n83.0\n1.14\n0.73–1.78\nNS\n22\n3.9\n542\n97.0\n-\n-\nNA\n0\n0.0\n46\n100\n-\n-\nNote: Bold numbers are statistically significant.\nASA, American Society of Anaesthesiologists Physical Status Score; COR, Crude odds ratio; NS, not stated; NA, not applicable; SSI, surgical site infections; CI, confidence interval; \nHIV, Human Immunodeficiency Virus; AIDS, Acquired Immunodeficiency Syndrome.\n*, Statistically significant at p < 0.05.\nTABLE 4: Anaesthesia and medication-related factors (N = 1248).\nVariables\nCategory\nSSI\nCrude \nodds ratio\n95% CI\nChi-square test \np-value\nYes\nNo\nn\n%\nn\n%\nType of anaesthesia \ngiven\nGeneral\n112\n10.4\n968\n89.6\n0.53\n0.23–1.23\np = 0.062\nSpinal\n4\n4.6\n83\n95.4\n0.22\n0.06–0.80\nRegional or local\n7\n2.6\n32\n97.4\n1\n-\nNS\n3\n7.5\n37\n92.5\n0.37\n0.09–1.55\nDuration of \nanaesthesia given\n< 30 min\n8\n6.5\n116\n93.5\n1\n-\np < 0.001*\n30 min–60 min\n20\n6.1\n307\n93.9\n0.94\n0.40–2.20\n61 min–90 min\n54\n10.0\n487\n90.0\n1.61\n0.74–3.47\n> 90 min\n37\n20.4\n144\n79.6\n3.71\n1.71–8.81\nNS\n7\n9.3\n68\n90.7\n1.49\n0.52–4.30\nAntibiotic prophylaxis \ngiven\nYes\n105\n14.6\n613\n85.4\n1\n-\np < 0.001*\nNo\n7\n3.0\n229\n97.0\n0.18\n0.08–0.39\nNS\n14\n4.8\n280\n95.2\n-\n-\nNote: Bold numbers are statistically significant.\nCOR, Crude odds ratio; NS, not stated; SSI, surgical site infections; CI, confidence interval.\n*, Statistically significant at p < 0.05.\n",
+   "n_chars": 3608,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      247.7,
+      43.4,
+      368.3,
+      53.5
+     ],
+     "text": "Page 6 of 8\nOriginal Research\n"
+    },
+    {
+     "bbox": [
+      206.4,
+      799.7,
+      352.9,
+      809.8
+     ],
+     "text": "https://www.hsag.co.za\nOpen Access\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      646.0,
+      285.7,
+      681.3
+     ],
+     "text": "presented by male patients in the surgical department, as \nthey generally exhibit greater severity and contamination \n(Mohan et al. 2023).\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      693.9,
+      285.7,
+      778.9
+     ],
+     "text": "Participants who spent ≥ 5 days in the hospital postoperatively \nwere more likely to develop SSIs than those who spent fewer \ndays. Mezemir et al. (2020) also reported a higher likelihood \nin patients who spent > 14 days. This finding may be \nattributable to contamination of incisions by nosocomial \nbacteria that may be resistant to several antibiotics. Patients \nwith emergency/urgent cases were 0.37 more likely to \n"
+    },
+    {
+     "bbox": [
+      311.8,
+      646.0,
+      555.0,
+      693.5
+     ],
+     "text": "develop SSIs compared to elective cases. This higher \nlikelihood of SSIs in emergency surgeries may be because of \nthe very urgent preparation of patients that may lead to \ndirtier and contaminated wounds (Papadopoulos et al. 2021).\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      706.8,
+      555.0,
+      778.7
+     ],
+     "text": "According to the studies by Mohan et al. (2023), Awoke et al. \n(2019) and Mezemir et al. (2020), the likelihood of SSIs is higher \nwith abdominal body region surgery than with the head and \nneck region. Abdominal surgeries are more prone to bacterial \ncontamination and, therefore, more likely to develop SSIs than \nother regional surgeries (Jahangir et al. 2024).\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      76.7,
+      230.8,
+      86.6
+     ],
+     "text": "TABLE 3: Comorbidities and wound-related factors (N = 1248).\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      88.1,
+      446.7,
+      104.1
+     ],
+     "text": "Variables\nCategory\nSSI\nCrude \nodds ratio\n"
+    },
+    {
+     "bbox": [
+      470.6,
+      87.7,
+      552.2,
+      97.1
+     ],
+     "text": "95% CI\nChi-square test \n"
+    },
+    {
+     "bbox": [
+      238.0,
+      94.7,
+      539.4,
+      108.4
+     ],
+     "text": "p-value\nYes\nNo\n"
+    },
+    {
+     "bbox": [
+      213.4,
+      110.0,
+      383.1,
+      119.3
+     ],
+     "text": "n\n%\nn\n%\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      121.9,
+      543.5,
+      131.2
+     ],
+     "text": "ASA index\nASA I/ASA II\n73\n8.2\n817\n91.8\n1\n-\np < 0.001*\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      133.2,
+      495.5,
+      142.1
+     ],
+     "text": "ASA III/ASA IV\n19\n27.5\n50\n72.5\n4.25\n2.38–7.60\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      144.2,
+      482.3,
+      153.1
+     ],
+     "text": "NS\n34\n11.8\n255\n88.2\n-\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      155.1,
+      97.0,
+      171.0
+     ],
+     "text": "Associated chronic \ncomorbidity \n"
+    },
+    {
+     "bbox": [
+      112.2,
+      154.7,
+      543.5,
+      164.0
+     ],
+     "text": "Diabetes mellitus \n31\n38.3\n50\n61.7\n9.87\n5.78–16.84\np < 0.001*\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      166.0,
+      495.3,
+      174.9
+     ],
+     "text": "Hypertension\n6\n4.5\n128\n95.5\n0.75\n0.31–1.78\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      176.9,
+      495.5,
+      185.8
+     ],
+     "text": "HIV/AIDS\n16\n17.6\n75\n82.4\n3.40\n1.84–6.27\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      187.8,
+      497.2,
+      196.7
+     ],
+     "text": "Cancer or malignancy\n7\n36.8\n12\n63.2\n9.28\n3.50–24.66\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      198.7,
+      495.5,
+      207.7
+     ],
+     "text": "Multiple comorbidities\n14\n16.5\n71\n83.5\n3.14\n1.65–5.97\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      209.6,
+      495.3,
+      218.6
+     ],
+     "text": "Others\n4\n15.4\n22\n84.6\n2.89\n0.96–8.73\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      220.6,
+      482.3,
+      229.5
+     ],
+     "text": "None\n48\n5.9\n764\n94.1\n1\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      231.5,
+      95.4,
+      247.4
+     ],
+     "text": "If wound care was \nordered\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      231.1,
+      543.5,
+      240.4
+     ],
+     "text": "Yes\n102\n18.0\n466\n82.0\n1\n-\np < 0.001*\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      242.4,
+      495.5,
+      251.3
+     ],
+     "text": "No\n15\n3.5\n412\n96.5\n0.17\n0.10–0.29\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      253.4,
+      482.3,
+      262.3
+     ],
+     "text": "NS\n9\n3.6\n244\n96.4\n-\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      264.3,
+      102.4,
+      280.2
+     ],
+     "text": "Frequency of wound \ncare ordered\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      263.8,
+      543.5,
+      273.2
+     ],
+     "text": "1 × day\n47\n16.0\n247\n84.0\n1\n-\np < 0.001*\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      275.1,
+      495.5,
+      284.1
+     ],
+     "text": "2 × day\n33\n26.4\n92\n73.6\n1.89\n1.14–3.12\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      286.1,
+      495.3,
+      295.0
+     ],
+     "text": "Three times a day\n5\n10.9\n41\n89.1\n0.64\n0.24–1.71\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      297.0,
+      495.3,
+      305.9
+     ],
+     "text": "Alternative days\n6\n14.6\n35\n85.4\n0.90\n0.36–2.26\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      308.0,
+      170.1,
+      323.9
+     ],
+     "text": "Continuous vacuum \ndressing\n"
+    },
+    {
+     "bbox": [
+      213.5,
+      308.0,
+      482.3,
+      316.9
+     ],
+     "text": "4\n100\n0\n0.0\n-\n-\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      325.9,
+      482.3,
+      334.8
+     ],
+     "text": "NS\n31\n4.2\n707\n95.8\n-\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      336.8,
+      109.5,
+      352.7
+     ],
+     "text": "Wound care charted as \nordered\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      336.8,
+      541.7,
+      345.7
+     ],
+     "text": "Yes\n35\n15.2\n196\n84.8\n1\n-\np = 0.554\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      347.7,
+      495.3,
+      356.6
+     ],
+     "text": "No\n69\n17.0\n338\n83.0\n1.14\n0.73–1.78\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      358.6,
+      482.3,
+      367.5
+     ],
+     "text": "NS\n22\n3.9\n542\n97.0\n-\n-\n"
+    },
+    {
+     "bbox": [
+      112.2,
+      369.6,
+      482.3,
+      378.4
+     ],
+     "text": "NA\n0\n0.0\n46\n100\n-\n-\n"
+    },
+    {
+     "bbox": [
+      42.4,
+      382.0,
+      553.9,
+      415.3
+     ],
+     "text": "Note: Bold numbers are statistically significant.\nASA, American Society of Anaesthesiologists Physical Status Score; COR, Crude odds ratio; NS, not stated; NA, not applicable; SSI, surgical site infections; CI, confidence interval; \nHIV, Human Immunodeficiency Virus; AIDS, Acquired Immunodeficiency Syndrome.\n*, Statistically significant at p < 0.05.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      427.9,
+      238.1,
+      437.9
+     ],
+     "text": "TABLE 4: Anaesthesia and medication-related factors (N = 1248).\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      439.4,
+      425.5,
+      455.3
+     ],
+     "text": "Variables\nCategory\nSSI\nCrude \nodds ratio\n"
+    },
+    {
+     "bbox": [
+      461.6,
+      439.0,
+      552.3,
+      448.3
+     ],
+     "text": "95% CI\nChi-square test \n"
+    },
+    {
+     "bbox": [
+      220.1,
+      446.0,
+      539.5,
+      459.7
+     ],
+     "text": "p-value\nYes\nNo\n"
+    },
+    {
+     "bbox": [
+      196.6,
+      461.2,
+      359.7,
+      470.6
+     ],
+     "text": "n\n%\nn\n%\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      473.6,
+      100.2,
+      489.5
+     ],
+     "text": "Type of anaesthesia \ngiven\n"
+    },
+    {
+     "bbox": [
+      111.0,
+      473.6,
+      541.8,
+      482.5
+     ],
+     "text": "General\n112\n10.4\n968\n89.6\n0.53\n0.23–1.23\np = 0.062\n"
+    },
+    {
+     "bbox": [
+      111.0,
+      484.5,
+      486.5,
+      493.4
+     ],
+     "text": "Spinal\n4\n4.6\n83\n95.4\n0.22\n0.06–0.80\n"
+    },
+    {
+     "bbox": [
+      111.0,
+      495.4,
+      473.3,
+      504.3
+     ],
+     "text": "Regional or local\n7\n2.6\n32\n97.4\n1\n-\n"
+    },
+    {
+     "bbox": [
+      111.0,
+      506.3,
+      486.4,
+      515.2
+     ],
+     "text": "NS\n3\n7.5\n37\n92.5\n0.37\n0.09–1.55\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      517.3,
+      93.0,
+      533.2
+     ],
+     "text": "Duration of \nanaesthesia given\n"
+    },
+    {
+     "bbox": [
+      111.0,
+      516.8,
+      543.6,
+      526.2
+     ],
+     "text": "< 30 min\n8\n6.5\n116\n93.5\n1\n-\np < 0.001*\n"
+    },
+    {
+     "bbox": [
+      111.0,
+      528.2,
+      486.4,
+      537.1
+     ],
+     "text": "30 min–60 min\n20\n6.1\n307\n93.9\n0.94\n0.40–2.20\n"
+    },
+    {
+     "bbox": [
+      111.0,
+      539.1,
+      486.4,
+      548.0
+     ],
+     "text": "61 min–90 min\n54\n10.0\n487\n90.0\n1.61\n0.74–3.47\n"
+    },
+    {
+     "bbox": [
+      111.0,
+      550.0,
+      486.5,
+      558.9
+     ],
+     "text": "> 90 min\n37\n20.4\n144\n79.6\n3.71\n1.71–8.81\n"
+    },
+    {
+     "bbox": [
+      111.0,
+      560.9,
+      486.4,
+      569.8
+     ],
+     "text": "NS\n7\n9.3\n68\n90.7\n1.49\n0.52–4.30\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      571.9,
+      105.4,
+      587.8
+     ],
+     "text": "Antibiotic prophylaxis \ngiven\n"
+    },
+    {
+     "bbox": [
+      111.0,
+      571.4,
+      543.6,
+      580.8
+     ],
+     "text": "Yes\n105\n14.6\n613\n85.4\n1\n-\np < 0.001*\n"
+    },
+    {
+     "bbox": [
+      111.0,
+      582.7,
+      486.5,
+      591.7
+     ],
+     "text": "No\n7\n3.0\n229\n97.0\n0.18\n0.08–0.39\n"
+    },
+    {
+     "bbox": [
+      111.0,
+      593.7,
+      473.3,
+      602.6
+     ],
+     "text": "NS\n14\n4.8\n280\n95.2\n-\n-\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      606.1,
+      276.3,
+      632.4
+     ],
+     "text": "Note: Bold numbers are statistically significant.\nCOR, Crude odds ratio; NS, not stated; SSI, surgical site infections; CI, confidence interval.\n*, Statistically significant at p < 0.05.\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "Page 7 of 8\nOriginal Research\nhttps://www.hsag.co.za\nOpen Access\nOperations referred from other health facilities were 5.21 \ntimes more likely to develop SSIs. This may be attributed to \ninadequate infection prevention and control measures in \nreferring facilities, which are often underresourced (Lowe \net al. 2021). Previous history of surgery was associated with \na higher likelihood of SSIs, and this might be because of \nprior exposure to resistant microorganisms, as reported by \nAwoke et al. (2019). In this study, patients who died before \ndischarge were more likely to have SSIs than those who \nwere discharged. Similar findings were reported in a study \nby Costabella et al. (2023), which revealed that SSIs \ncontributed to 38% of postoperative deaths. This is \nconsistent with another study by Nepogodiev et al. (2019), \nwhich confirmed postoperative mortality being the third \nhighest contributor to global deaths, with SSIs playing a \nsignificant role.\nParticipants with diabetic mellitus had a higher likelihood of \ndeveloping SSIs than those with no comorbidities. This \nconcurs with the findings of studies by Shakir et al. (2021) \nand Papadopoulos et al. (2021). This could be attributed to \npoor \nperipheral \noxygen \nsupply \nbecause \nof \naltered \ninflammatory response and metabolic imbalances after \nsurgery (Awoke et al. 2019; He et al. 2023). Moreover, these \npatients usually have an inferior nutritional status (Grzywacz, \nLubas & Niemczyk 2023) and possibly more comorbidities \n(Awoke et al. 2019). Malignancy, HIV/AIDS and having \nmultiple comorbidities were also reported to be associated \nwith a higher risk of developing SSIs. Liu et al. (2023) \nsupported the argument that HIV/AIDS patients with lower \nCD counts have a higher risk of developing SSI.\nThis study revealed that participants who had spinal \nanaesthesia had a lower likelihood of developing SSIs than \nthose who had regional or local anaesthesia. This study \nrevealed that participants who had surgery for 1 h–2 h were \nabout two times more likely to develop SSIs. Similar findings \nwere reported in a systematic review by Cheng et al. (2017). \nThese findings are possibly because of an increase in open \nincisions in the environment, thus increasing the risk of \nbacterial contamination (Shiferaw et al. 2020). In this study, \n4.8% of participants who developed SSIs had no antibiotic \nprophylaxis use recorded as per standard guidelines. This \naligns with the findings of Sefah et al. (2022), who reported \nthat adherence to the Ghana Standard Treatment Guidelines \n(STGs) was just 2.5%. In comparison, adherence of surgical \ncases to the guidelines set by the American Society of Health-\nSystem Pharmacists (ASHP) and Indian Council of Medical \nResearch (ICMR) was below 1% (Gurunthalingam et al. 2023). \nThis can lead to some emerging infections and antibiotic \nresistance, increasing health care costs (Tiri et al. 2020).\nLimitations\nAdditional data to differentiate superficial, deep and organ \nSSIs, as well as post-discharge surveillance, would add to the \nstudy findings. Developing SSIs after discharge could not be \ndetected by the researcher, thus estimating the true burden of \nthe infections.\nThe large amount of missing data led to the skewness of the \nfindings. The data collected during the COVID-19 pandemic are \ninconsistently documented as overwhelmed nurses may not \nhave had enough time to document all patients’ details.\nRecommendations\nThe study recommends that evidence-based preventive \npractices should be integrated into preoperative and \npostoperative periods to prevent SSIs. Further study on the \nprevalence of surgical SSIs should be conducted at the \nperipheral health facilities where patients are referred after \ndischarge. A longitudinal study with a thorough methodology \nneeds to be conducted to identify more risk factors. Educational \ninterventions to address data missingness reporting as a result \nof incomplete recording are required. Hospitals must improve \ntheir filing systems of patient records.\nConclusion\nThe study revealed a higher prevalence of SSIs in Namibia \nthan that in high-income settings. The factors associated with \nSSIs are age groups 31–60 years, male patients, postoperative \nhospital stays ≥ 5 days, emergency surgery, abdominal \nregion and lower extremity surgeries, operation referred \nfrom other hospitals, previous history of surgery, 1 h–2 h \nduration of surgery and deceased patients. Also, diabetes \nmellitus, HIV/AIDS, malignancy and multiple comorbidities \nwere risk factors for SSIs.\nAcknowledgements\nThis study acknowledges the contribution of Ms. Nontobeko \nPrecious Sikhosana, the Librarian at the University of \nKwaZulu-Natal, for her assistance with the library resources \nsearch. This study also acknowledges Catherine Connolly, \nthe Biostatistician, for her guidance with the statistical \nanalysis. Meanwhile, the pivotal role played by the research \nchampions from the two hospitals, Mrs. Fransina Halwoodi \nand Mr. David Joseph, who actively participated in data \ncollection as part of the action research, deserves recognition \nand will not go unnoticed.\nCompeting interests\nThe authors declare that they have no financial or personal \nrelationships that may have inappropriately influenced them \nin writing this article.\nAuthors’ contributions\nA.N.H. conceptualised the research and was responsible for \nmethodology, formal analysis and writing the original draft. \nP.B. was the supervisor for the study and contributed to the \nconceptualisation and methodology. A.N.H. and P.B. \ncontributed to the draft and refining of the manuscript.\nFunding information\nThis research received no specific grant from any funding \nagency in the public, commercial or not-for-profit sectors.\n",
+   "n_chars": 5753,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      247.9,
+      43.2,
+      368.5,
+      53.4
+     ],
+     "text": "Page 7 of 8\nOriginal Research\n"
+    },
+    {
+     "bbox": [
+      206.6,
+      799.7,
+      353.0,
+      809.8
+     ],
+     "text": "https://www.hsag.co.za\nOpen Access\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      77.9,
+      285.8,
+      268.8
+     ],
+     "text": "Operations referred from other health facilities were 5.21 \ntimes more likely to develop SSIs. This may be attributed to \ninadequate infection prevention and control measures in \nreferring facilities, which are often underresourced (Lowe \net al. 2021). Previous history of surgery was associated with \na higher likelihood of SSIs, and this might be because of \nprior exposure to resistant microorganisms, as reported by \nAwoke et al. (2019). In this study, patients who died before \ndischarge were more likely to have SSIs than those who \nwere discharged. Similar findings were reported in a study \nby Costabella et al. (2023), which revealed that SSIs \ncontributed to 38% of postoperative deaths. This is \nconsistent with another study by Nepogodiev et al. (2019), \nwhich confirmed postoperative mortality being the third \nhighest contributor to global deaths, with SSIs playing a \nsignificant role.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      281.9,
+      285.7,
+      448.3
+     ],
+     "text": "Participants with diabetic mellitus had a higher likelihood of \ndeveloping SSIs than those with no comorbidities. This \nconcurs with the findings of studies by Shakir et al. (2021) \nand Papadopoulos et al. (2021). This could be attributed to \npoor \nperipheral \noxygen \nsupply \nbecause \nof \naltered \ninflammatory response and metabolic imbalances after \nsurgery (Awoke et al. 2019; He et al. 2023). Moreover, these \npatients usually have an inferior nutritional status (Grzywacz, \nLubas & Niemczyk 2023) and possibly more comorbidities \n(Awoke et al. 2019). Malignancy, HIV/AIDS and having \nmultiple comorbidities were also reported to be associated \nwith a higher risk of developing SSIs. Liu et al. (2023) \nsupported the argument that HIV/AIDS patients with lower \nCD counts have a higher risk of developing SSI.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      461.3,
+      285.7,
+      687.5
+     ],
+     "text": "This study revealed that participants who had spinal \nanaesthesia had a lower likelihood of developing SSIs than \nthose who had regional or local anaesthesia. This study \nrevealed that participants who had surgery for 1 h–2 h were \nabout two times more likely to develop SSIs. Similar findings \nwere reported in a systematic review by Cheng et al. (2017). \nThese findings are possibly because of an increase in open \nincisions in the environment, thus increasing the risk of \nbacterial contamination (Shiferaw et al. 2020). In this study, \n4.8% of participants who developed SSIs had no antibiotic \nprophylaxis use recorded as per standard guidelines. This \naligns with the findings of Sefah et al. (2022), who reported \nthat adherence to the Ghana Standard Treatment Guidelines \n(STGs) was just 2.5%. In comparison, adherence of surgical \ncases to the guidelines set by the American Society of Health-\nSystem Pharmacists (ASHP) and Indian Council of Medical \nResearch (ICMR) was below 1% (Gurunthalingam et al. 2023). \nThis can lead to some emerging infections and antibiotic \nresistance, increasing health care costs (Tiri et al. 2020).\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      702.3,
+      97.8,
+      717.7
+     ],
+     "text": "Limitations\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      721.6,
+      285.7,
+      780.5
+     ],
+     "text": "Additional data to differentiate superficial, deep and organ \nSSIs, as well as post-discharge surveillance, would add to the \nstudy findings. Developing SSIs after discharge could not be \ndetected by the researcher, thus estimating the true burden of \nthe infections.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      77.9,
+      555.0,
+      124.8
+     ],
+     "text": "The large amount of missing data led to the skewness of the \nfindings. The data collected during the COVID-19 pandemic are \ninconsistently documented as overwhelmed nurses may not \nhave had enough time to document all patients’ details.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      139.6,
+      404.8,
+      154.9
+     ],
+     "text": "Recommendations\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      158.7,
+      555.0,
+      275.8
+     ],
+     "text": "The study recommends that evidence-based preventive \npractices should be integrated into preoperative and \npostoperative periods to prevent SSIs. Further study on the \nprevalence of surgical SSIs should be conducted at the \nperipheral health facilities where patients are referred after \ndischarge. A longitudinal study with a thorough methodology \nneeds to be conducted to identify more risk factors. Educational \ninterventions to address data missingness reporting as a result \nof incomplete recording are required. Hospitals must improve \ntheir filing systems of patient records.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      285.7,
+      384.2,
+      306.2
+     ],
+     "text": "Conclusion\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      308.6,
+      555.0,
+      413.1
+     ],
+     "text": "The study revealed a higher prevalence of SSIs in Namibia \nthan that in high-income settings. The factors associated with \nSSIs are age groups 31–60 years, male patients, postoperative \nhospital stays ≥ 5 days, emergency surgery, abdominal \nregion and lower extremity surgeries, operation referred \nfrom other hospitals, previous history of surgery, 1 h–2 h \nduration of surgery and deceased patients. Also, diabetes \nmellitus, HIV/AIDS, malignancy and multiple comorbidities \nwere risk factors for SSIs.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      423.0,
+      442.4,
+      443.5
+     ],
+     "text": "Acknowledgements\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      446.0,
+      555.0,
+      563.1
+     ],
+     "text": "This study acknowledges the contribution of Ms. Nontobeko \nPrecious Sikhosana, the Librarian at the University of \nKwaZulu-Natal, for her assistance with the library resources \nsearch. This study also acknowledges Catherine Connolly, \nthe Biostatistician, for her guidance with the statistical \nanalysis. Meanwhile, the pivotal role played by the research \nchampions from the two hospitals, Mrs. Fransina Halwoodi \nand Mr. David Joseph, who actively participated in data \ncollection as part of the action research, deserves recognition \nand will not go unnoticed.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      577.9,
+      411.7,
+      593.2
+     ],
+     "text": "Competing interests\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      597.2,
+      555.0,
+      632.1
+     ],
+     "text": "The authors declare that they have no financial or personal \nrelationships that may have inappropriately influenced them \nin writing this article.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      646.9,
+      424.0,
+      662.2
+     ],
+     "text": "Authors’ contributions\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      666.0,
+      555.0,
+      724.1
+     ],
+     "text": "A.N.H. conceptualised the research and was responsible for \nmethodology, formal analysis and writing the original draft. \nP.B. was the supervisor for the study and contributed to the \nconceptualisation and methodology. A.N.H. and P.B. \ncontributed to the draft and refining of the manuscript.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      738.9,
+      413.6,
+      754.2
+     ],
+     "text": "Funding information\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      758.2,
+      555.0,
+      781.1
+     ],
+     "text": "This research received no specific grant from any funding \nagency in the public, commercial or not-for-profit sectors.\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "Page 8 of 8\nOriginal Research\nhttps://www.hsag.co.za\nOpen Access\nData availability\nThe authors confirm that the data supporting the findings \nof  this study are available within the article and its \nsupplementary materials.\nDisclaimer\nThe views and opinions expressed in this article are those \nof the authors and are the product of professional research. \nThey do not necessarily reflect the official policy or position \nof any affiliated institution, funder, agency or that of the \npublisher. The authors are responsible for this study’s results, \nfindings and content.\nReferences\nAlamrew, K., Tadesse, T.A., Abiye, A.A. & Shibeshi, W., 2019, ‘Surgical antimicrobial \nprophylaxis and incidence of surgical site infections at Ethiopian tertiary-care \nteaching hospital’, Infectious Diseases: Research and Treatment 12, 1178​633​719​\n892​267. https://doi.org/10.1177/1178633719892267\nAlkaaki, A., Al-Radi, O.O., Khoja, A., Alnawawi, A., Alnawawi, A. & Maghrabi, A., 2019, \n‘Surgical site infection following abdominal surgery: A prospective cohort study’, \nCanadian Journal of Surgery 62(2), 111. https://doi.org/10.1503/cjs.004818\nAmruthan, R., Reddy, M.M. & Pyadala, N., 2017, ‘A prospective study of surgical site \ninfections and related risk factors in a teaching hospital’, International Surgery \nJournal 4(1), 237–241. https://doi.org/10.18203/2349-2902.isj20164448\nAnsari, S., Hassan, M., Barry, H.D., Bhatti, T.A., Hussain, S.Z.M. & Jabeen, S., 2019, ‘Risk \nfactors associated with surgical site infections: A retrospective report from a \ndeveloping country’, Cureus 11(6), e4801. https://doi.org/10.7759/cureus.4801\nAwoke, N., Arba, A. & Girma, A., 2019, ‘Magnitude of surgical site infection and its \nassociated factors among patients who underwent a surgical procedure at Wolaita \nSodo University Teaching and Referral Hospital, South Ethiopia’, PLoS One 14(12), \ne0226140. https://doi.org/10.1371/journal.pone.0226140\nBiccard, B.M., Madiba, T.E., Kluyts, H.L., Munlemvo, D.M., Madzimbamuto, F.D., \nBasenero, A. et al., 2018, ‘Perioperative patient outcomes in the African Surgical \nOutcomes Study: A 7-day prospective observational cohort study’, Lancet \n391(10130), 1589–1598. https://doi.org/10.1016/s0140-6736(18)30001-1\nChacon-Quesada, T., Rohde, V. & Von der Brelie, C., 2021, ‘Less surgical site infections \nin neurosurgery during COVID-19 times – One potential benefit of the pandemic?’, \nNeurosurgical Review 44(6), 3421–3425. https://doi.org/10.1007/s10143-021-\n01513-5\nCheng, H., Chen, B.P., Soleas, I.M., Ferko, N.C., Cameron, C.G. & Hinoul, P., 2017, \n‘Prolonged operative duration increases risk of surgical site infections: A systematic \nreview’, Surgical Infections 18(6), 722–735. https://doi.org/10.1089/sur.2017.089\nCostabella, F., Patel, K.B., Adepoju, A.V., Singh, P., Attia, H. & Mahmoud, H.A.H., 2023, \n‘Healthcare cost and outcomes associated with surgical site infection and patient \noutcomes in low- and middle-income countries’, Cureus 15(7), e42493. https://\ndoi.org/10.7759/cureus.42493\nDe Carvalho, R.L.R., Campos, C.C., Franco, L.M.C., Rocha, A.M. & Ercole, F.F., 2017, \n‘Incidence and risk factors for surgical site infection in general surgeries’, Revista \nLatino-Americana de Enfermagem 25, e2848. https://doi.org/10.1590/1518-\n8345.1502.2848\nDegbey, C., Kpozehouen, A., Coulibaly, D., Chigblo, P., Avakoudjo, J. & Ouendo, E.M., \n2021, ‘Prevalence and factors associated with surgical site infections in the \nUniversity Clinics of Traumatology and Urology of the National University Hospital \nCentre Hubert Koutoukou Maga in Cotonou’, Front Public Health 9, 629351. \nhttps://doi.org/10.3389/fpubh.2021.629351\nFourier, A., 2020, ‘The cost of surgical site infections: A look at the financial and medical \nimpact on patients and hospitals’, M.S. in Health Care Management 3, viewed 20 \nSeptember 2024, from https://scholars.unh.edu/ms_health_care_managment/3.\nGedefaw, G., Asires, A., Shiferaw, S. & Addisu, D., 2018, ‘Factors associated with \nsurgical site infection among women undergoing obstetrics surgery at Felegehiwot \nReferral Hospital, Bahir Dar, Northwest Ethiopia: A retrospective cross-sectional \nstudy’, Safety in Health 4(1), 14. https://doi.org/10.1186/s40886-018-0081-1\nGrzywacz, A., Lubas, A. & Niemczyk, S., 2023, ‘Inferior nutritional status significantly \ndifferentiates dialysis patients with type 1 and type 2 diabetes’, Nutrients 15(7), \n1549. https://doi.org/10.3390/nu15071549\nGurunthalingam, M.P., Keche, Y.N., Gaikwad, N.R., Dhaneria, S. & Singh, M.P., 2023, \n‘Appropriateness of surgical antibiotic prophylaxis in a tertiary care teaching \nhospital in Central India: A retrospective analysis’, Cureus 15(5), e38844. https://\ndoi.org/10.7759/cureus.38844\nHe, C., Zhou, F., Zhou, F., Wang, J. & Huang, W., 2023, ‘Impact of type 2 diabetes on \nsurgical site infections and prognosis post orthopaedic surgery: A systematic \nreview and meta-analysis’, International Wound Journal 21(2), e14422. https://\ndoi.org/10.1111/iwj.14422\nHou, T.Y., Gan, H.Q., Zhou, J.F., Gong, Y.J., Li, L.Y. & Zhang, X.Q., 2020, ‘Incidence of and \nrisk factors for surgical site infection after colorectal surgery: A multiple-center \nprospective study of 3,663 consecutive patients in China’, International Journal of \nInfectious Diseases 96, 676–681. https://doi.org/10.1016/j.ijid.2020.05.124\nJahangir, F., Haghdoost, A., Moameri, H. & Okhovati, M., 2024, ‘Incidence and risk \nfactors of surgical site infection in abdominal surgeries: A scoping review of cohort \nand case-control studies’, Iranian Journal of Medical Sciences 49(7), 402–412. \nhttps://doi.org/10.30476/ijms.2024.100819.3338\nLakoh, S., Yi, L., Sevalie, S., Guo, X., Adekanmbi, O. & Smalle, I.O., 2022, ‘Incidence and \nrisk factors of surgical site infections and related antibiotic resistance in Freetown, \nSierra Leone: A prospective cohort study’, Antimicrobial Resistance & Infection \nControl 11(1), 39. https://doi.org/10.1186/s13756-022-01078-y\nLiu, B., Li, K., Li, S., Zhao, R. & Zhang, Q., 2023, ‘The association between the CD4/CD8 \nratio and surgical site infection risk among HIV-positive adults: Insights from a \nChina hospital’, Frontiers in Immunology 14, 1135725. https://doi.org/10.3389/\nfimmu.2023.1135725\nLowe, H., Woodd, S., Lange, I.L., Janjanin, S., Barnet, J. & Graham, W., 2021, ‘Challenges \nand opportunities for infection prevention and control in hospitals in conflict-\naffected settings: A qualitative study’, Conflict and Health 15(1), 94. https://doi.\norg/10.1186/s13031-021-00428-8\nMaraş, G. & Sürme, Y., 2023, ‘Surgical site infections: Prevalence, economic burden, \nand new preventive recommendations’, Exploratory Research and Hypothesis in \nMedicine 8(4), 366–371. https://doi.org/10.14218/erhm.2023.00010\nMengistu, D.A., Alemu, A., Abdukadir, A.A., Mohammed Husen, A., Ahmed, F. & \nMohammed, B., 2023, ‘Global incidence of surgical site infection among patients: \nSystematic review and meta-analysis’, Inquiry 60, 469580231162549. https://doi.\norg/10.1177/00469580231162549\nMezemir, R., Seid, A., Gishu, T., Demas, T. & Gize, A., 2020, ‘Prevalence and root causes \nof surgical site infections at an academic trauma and burn center in Ethiopia: A \ncross-sectional study’, Patient Safety in Surgery 14, 3. https://doi.org/10.1186/\ns13037-019-0229-x\nMinistry of Health and Social Services (MoHSS), 2023, Infection prevention and control \naction plan 2023/2024 – 2026/2027, Republic of Namibia, viewed 24 March 2024, \nfrom https://www.afro.who.int/sites/default/files/2024-03/National%20IPC%20\nAction%20Plan_31%20Oct%202023%20%281%29.pdf.\nMohan, N., Gnanasekar, D., Tk, S. & Ignatious, A., 2023, ‘Prevalence and risk factors of \nsurgical site infections in a teaching medical college in the Trichy District of India’, \nCureus 15(5), e39465. https://doi.org/10.7759/cureus.39465\nMonahan, M., Jowett, S., Pinkney, T., Brocklehurst, P., Morton, D.G. & Abdali, Z., 2020, \n‘Surgical site infection and costs in low- and middle-income countries: A systematic \nreview of the economic burden’, PLoS One 15(6), e0232960. https://doi.\norg/10.1371/journal.pone.0232960\nNepogodiev, D., Martin, J., Biccard, B., Makupe, A. & Bhangu, A., 2019, ‘Global burden \nof postoperative death’, Lancet 393(10170), 401. https://doi.org/10.1016/S0140-\n6736(18)33139-8\nPantvaidya, G., Joshi, S., Nayak, P., Kannan, S., Desouza, A. & Poddar, P., 2022, ‘Surgical \nsite infections in patients undergoing major oncological surgery during the \nCOVID-19 pandemic (SCION): A propensity-matched analysis’, Journal of Surgical \nOncology 125(3), 327–335. https://doi.org/10.1002/jso.26738\nPapadopoulos, A., Machairas, N., Tsourouflis, G., Chouliaras, C., Manioti, E. & Broutas, D., \n2021, ‘Risk factors for surgical site infections in patients undergoing emergency \nsurgery: A single-centre experience’, In Vivo 35(6), 3569–3574. https://doi.\norg/10.21873/invivo.12660\nSattar, F., Sattar, Z., Zaman, M. & Akbar, S., 2019, ‘Frequency of post-operative surgical \nsite infections in a tertiary care hospital in Abbottabad, Pakistan’, Cureus 11(3), \ne4243. https://doi.org/10.7759/cureus.4243\nSefah, I.A., Denoo, E.Y., Bangalee, V., Kurdi, A., Sneddon, J. & Godman, B., 2022, \n‘Appropriateness of surgical antimicrobial prophylaxis in a teaching hospital in \nGhana: Findings and implications’, JAC Antimicrobial Resistance 4(5), dlac102. \nhttps://doi.org/10.1093/jacamr/dlac102\nShakir, A., Abate, D., Tebeje, F. & Weledegebreal, F., 2021, ‘Magnitude of surgical site \ninfections, bacterial etiologies, associated factors and antimicrobial susceptibility \npatterns of isolates among post-operative patients in Harari Region public \nhospitals, Harar, Eastern Ethiopia’, Infection and Drug Resistance 14, 4629–4639. \nhttps://doi.org/10.2147/IDR.S329721\nShiferaw, W.S., Aynalem, Y.A., Akalu, T.Y. & Petrucka, P.M., 2020, ‘Surgical site infection \nand its associated factors in Ethiopia: A systematic review and meta-analysis’, \nBMC Surgery 20(1), 107. https://doi.org/10.1186/s12893-020-00764-1\nSuljagic, V., Bajcetic, M., Mioljevic, V., Dragovac, G., Mijovic, B. & Janicijevic, I., 2021, \n‘A nationwide assessment of the burden of healthcare-associated infections and \nantimicrobial use among surgical patients: Results from Serbian point prevalence \nsurvey, 2017’, Antimicrobial Resistance & Infection Control 10(1), 47. https://doi.\norg/10.1186/s13756-021-00889-9\nTiri, B., Bruzzone, P., Priante, G., Sensi, E., Monya, C. & Vernelli, C., 2020, ‘Impact of \nantimicrobial stewardship interventions on appropriateness of surgical antibiotic \nprophylaxis: How to improve’, Antibiotics 9(4), 168. https://doi.org/10.3390/\nantibiotics9040168\nUnited Nations, 2023, The sustainable development goals report 2023: Special edition, \ntowards a rescue plan for people and planet, viewed 25 October 2024, from \nhttps://unstats.un.org/sdgs/report/2023/.\nU.S. Centers for Disease Control and Prevention, 2024, National Healthcare Safety \nNetwork (NHSN) patient safety component manual, viewed 25 October 2024, \nfrom https://www.cdc.gov/nhsn/pdfs/pscmanual/pcsmanual_current.pdf.\nWorld Health Organization (WHO), 2018, Global guidelines for the prevention of \nsurgical site infections, 2nd edn., Geneva, viewed 15 December 2024, from \nhttps://www.who.int/publications/i/item/9789241550475.\nWorld Health Organization (WHO), 2024, Infection prevention and control in-service \neducation and training curriculum, Geneva, viewed 15 October 2024, from https://\niris.who.int/bitstream/handle/10665/376810/9789240094123-eng.pdf?sequence=1.\nWorld Health Organization & The World Bank, 2023, Tracking universal health \ncoverage 2023 global monitoring report, viewed 15 May 2024, from https://www.\nwho.int/publications/i/item/9789240080379.\n",
+   "n_chars": 11712,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      247.7,
+      43.4,
+      368.3,
+      53.5
+     ],
+     "text": "Page 8 of 8\nOriginal Research\n"
+    },
+    {
+     "bbox": [
+      206.4,
+      799.7,
+      352.9,
+      809.8
+     ],
+     "text": "https://www.hsag.co.za\nOpen Access\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      76.7,
+      122.7,
+      92.0
+     ],
+     "text": "Data availability\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      96.0,
+      285.7,
+      130.9
+     ],
+     "text": "The authors confirm that the data supporting the findings \nof  this study are available within the article and its \nsupplementary materials.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      145.7,
+      94.7,
+      161.0
+     ],
+     "text": "Disclaimer\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      165.0,
+      285.7,
+      235.9
+     ],
+     "text": "The views and opinions expressed in this article are those \nof the authors and are the product of professional research. \nThey do not necessarily reflect the official policy or position \nof any affiliated institution, funder, agency or that of the \npublisher. The authors are responsible for this study’s results, \nfindings and content.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      245.8,
+      115.3,
+      266.3
+     ],
+     "text": "References\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      270.6,
+      285.0,
+      279.5
+     ],
+     "text": "Alamrew, K., Tadesse, T.A., Abiye, A.A. & Shibeshi, W., 2019, ‘Surgical antimicrobial \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      277.6,
+      285.0,
+      300.4
+     ],
+     "text": "prophylaxis and incidence of surgical site infections at Ethiopian tertiary-care \nteaching hospital’, Infectious Diseases: Research and Treatment 12, 1178​633​719​\n892​267. https://doi.org/10.1177/1178633719892267\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      302.8,
+      285.1,
+      311.7
+     ],
+     "text": "Alkaaki, A., Al-Radi, O.O., Khoja, A., Alnawawi, A., Alnawawi, A. & Maghrabi, A., 2019, \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      309.7,
+      285.0,
+      325.6
+     ],
+     "text": "‘Surgical site infection following abdominal surgery: A prospective cohort study’, \nCanadian Journal of Surgery 62(2), 111. https://doi.org/10.1503/cjs.004818\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      327.9,
+      285.1,
+      336.8
+     ],
+     "text": "Amruthan, R., Reddy, M.M. & Pyadala, N., 2017, ‘A prospective study of surgical site \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      334.5,
+      285.0,
+      350.8
+     ],
+     "text": "infections and related risk factors in a teaching hospital’, International Surgery \nJournal 4(1), 237–241. https://doi.org/10.18203/2349-2902.isj20164448\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      353.1,
+      285.0,
+      362.0
+     ],
+     "text": "Ansari, S., Hassan, M., Barry, H.D., Bhatti, T.A., Hussain, S.Z.M. & Jabeen, S., 2019, ‘Risk \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      360.0,
+      285.0,
+      375.9
+     ],
+     "text": "factors associated with surgical site infections: A retrospective report from a \ndeveloping country’, Cureus 11(6), e4801. https://doi.org/10.7759/cureus.4801\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      378.2,
+      285.0,
+      387.1
+     ],
+     "text": "Awoke, N., Arba, A. & Girma, A., 2019, ‘Magnitude of surgical site infection and its \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      385.2,
+      285.1,
+      408.0
+     ],
+     "text": "associated factors among patients who underwent a surgical procedure at Wolaita \nSodo University Teaching and Referral Hospital, South Ethiopia’, PLoS One 14(12), \ne0226140. https://doi.org/10.1371/journal.pone.0226140\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      410.4,
+      285.0,
+      419.3
+     ],
+     "text": "Biccard, B.M., Madiba, T.E., Kluyts, H.L., Munlemvo, D.M., Madzimbamuto, F.D., \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      417.3,
+      285.0,
+      440.2
+     ],
+     "text": "Basenero, A. et al., 2018, ‘Perioperative patient outcomes in the African Surgical \nOutcomes Study: A 7-day prospective observational cohort study’, Lancet \n391(10130), 1589–1598. https://doi.org/10.1016/s0140-6736(18)30001-1\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      442.5,
+      285.0,
+      451.4
+     ],
+     "text": "Chacon-Quesada, T., Rohde, V. & Von der Brelie, C., 2021, ‘Less surgical site infections \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      449.5,
+      285.0,
+      472.3
+     ],
+     "text": "in neurosurgery during COVID-19 times – One potential benefit of the pandemic?’, \nNeurosurgical Review 44(6), 3421–3425. https://doi.org/10.1007/s10143-021-\n01513-5\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      474.6,
+      285.0,
+      483.5
+     ],
+     "text": "Cheng, H., Chen, B.P., Soleas, I.M., Ferko, N.C., Cameron, C.G. & Hinoul, P., 2017, \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      481.6,
+      285.0,
+      497.5
+     ],
+     "text": "‘Prolonged operative duration increases risk of surgical site infections: A systematic \nreview’, Surgical Infections 18(6), 722–735. https://doi.org/10.1089/sur.2017.089\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      499.8,
+      285.1,
+      508.7
+     ],
+     "text": "Costabella, F., Patel, K.B., Adepoju, A.V., Singh, P., Attia, H. & Mahmoud, H.A.H., 2023, \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      506.8,
+      285.0,
+      529.6
+     ],
+     "text": "‘Healthcare cost and outcomes associated with surgical site infection and patient \noutcomes in low- and middle-income countries’, Cureus 15(7), e42493. https://\ndoi.org/10.7759/cureus.42493\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      531.9,
+      285.1,
+      540.8
+     ],
+     "text": "De Carvalho, R.L.R., Campos, C.C., Franco, L.M.C., Rocha, A.M. & Ercole, F.F., 2017, \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      538.6,
+      285.0,
+      561.7
+     ],
+     "text": "‘Incidence and risk factors for surgical site infection in general surgeries’, Revista \nLatino-Americana de Enfermagem 25, e2848. https://doi.org/10.1590/1518-\n8345.1502.2848\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      564.1,
+      285.0,
+      573.0
+     ],
+     "text": "Degbey, C., Kpozehouen, A., Coulibaly, D., Chigblo, P., Avakoudjo, J. & Ouendo, E.M., \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      571.0,
+      285.1,
+      600.8
+     ],
+     "text": "2021, ‘Prevalence and factors associated with surgical site infections in the \nUniversity Clinics of Traumatology and Urology of the National University Hospital \nCentre Hubert Koutoukou Maga in Cotonou’, Front Public Health 9, 629351. \nhttps://doi.org/10.3389/fpubh.2021.629351\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      603.2,
+      285.0,
+      612.1
+     ],
+     "text": "Fourier, A., 2020, ‘The cost of surgical site infections: A look at the financial and medical \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      609.8,
+      285.0,
+      626.0
+     ],
+     "text": "impact on patients and hospitals’, M.S. in Health Care Management 3, viewed 20 \nSeptember 2024, from https://scholars.unh.edu/ms_health_care_managment/3.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      628.3,
+      285.0,
+      637.2
+     ],
+     "text": "Gedefaw, G., Asires, A., Shiferaw, S. & Addisu, D., 2018, ‘Factors associated with \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      635.3,
+      285.0,
+      658.2
+     ],
+     "text": "surgical site infection among women undergoing obstetrics surgery at Felegehiwot \nReferral Hospital, Bahir Dar, Northwest Ethiopia: A retrospective cross-sectional \nstudy’, Safety in Health 4(1), 14. https://doi.org/10.1186/s40886-018-0081-1\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      660.6,
+      285.0,
+      669.5
+     ],
+     "text": "Grzywacz, A., Lubas, A. & Niemczyk, S., 2023, ‘Inferior nutritional status significantly \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      667.2,
+      285.1,
+      683.4
+     ],
+     "text": "differentiates dialysis patients with type 1 and type 2 diabetes’, Nutrients 15(7), \n1549. https://doi.org/10.3390/nu15071549\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      685.8,
+      285.1,
+      694.7
+     ],
+     "text": "Gurunthalingam, M.P., Keche, Y.N., Gaikwad, N.R., Dhaneria, S. & Singh, M.P., 2023, \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      692.8,
+      285.0,
+      715.6
+     ],
+     "text": "‘Appropriateness of surgical antibiotic prophylaxis in a tertiary care teaching \nhospital in Central India: A retrospective analysis’, Cureus 15(5), e38844. https://\ndoi.org/10.7759/cureus.38844\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      718.0,
+      285.0,
+      726.9
+     ],
+     "text": "He, C., Zhou, F., Zhou, F., Wang, J. & Huang, W., 2023, ‘Impact of type 2 diabetes on \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      725.0,
+      285.0,
+      747.9
+     ],
+     "text": "surgical site infections and prognosis post orthopaedic surgery: A systematic \nreview and meta-analysis’, International Wound Journal 21(2), e14422. https://\ndoi.org/10.1111/iwj.14422\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      750.2,
+      285.0,
+      759.1
+     ],
+     "text": "Hou, T.Y., Gan, H.Q., Zhou, J.F., Gong, Y.J., Li, L.Y. & Zhang, X.Q., 2020, ‘Incidence of and \n"
+    },
+    {
+     "bbox": [
+      53.9,
+      757.2,
+      285.0,
+      780.1
+     ],
+     "text": "risk factors for surgical site infection after colorectal surgery: A multiple-center \nprospective study of 3,663 consecutive patients in China’, International Journal of \nInfectious Diseases 96, 676–681. https://doi.org/10.1016/j.ijid.2020.05.124\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      77.9,
+      554.3,
+      86.8
+     ],
+     "text": "Jahangir, F., Haghdoost, A., Moameri, H. & Okhovati, M., 2024, ‘Incidence and risk \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      84.7,
+      554.3,
+      107.3
+     ],
+     "text": "factors of surgical site infection in abdominal surgeries: A scoping review of cohort \nand case-control studies’, Iranian Journal of Medical Sciences 49(7), 402–412. \nhttps://doi.org/10.30476/ijms.2024.100819.3338\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      109.5,
+      554.3,
+      118.4
+     ],
+     "text": "Lakoh, S., Yi, L., Sevalie, S., Guo, X., Adekanmbi, O. & Smalle, I.O., 2022, ‘Incidence and \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      116.3,
+      554.3,
+      138.9
+     ],
+     "text": "risk factors of surgical site infections and related antibiotic resistance in Freetown, \nSierra Leone: A prospective cohort study’, Antimicrobial Resistance & Infection \nControl 11(1), 39. https://doi.org/10.1186/s13756-022-01078-y\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      141.1,
+      554.3,
+      150.0
+     ],
+     "text": "Liu, B., Li, K., Li, S., Zhao, R. & Zhang, Q., 2023, ‘The association between the CD4/CD8 \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      147.9,
+      554.3,
+      170.5
+     ],
+     "text": "ratio and surgical site infection risk among HIV-positive adults: Insights from a \nChina hospital’, Frontiers in Immunology 14, 1135725. https://doi.org/10.3389/\nfimmu.2023.1135725\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      172.7,
+      554.3,
+      181.6
+     ],
+     "text": "Lowe, H., Woodd, S., Lange, I.L., Janjanin, S., Barnet, J. & Graham, W., 2021, ‘Challenges \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      179.5,
+      552.8,
+      202.1
+     ],
+     "text": "and opportunities for infection prevention and control in hospitals in conflict-\naffected settings: A qualitative study’, Conflict and Health 15(1), 94. https://doi.\norg/10.1186/s13031-021-00428-8\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      204.3,
+      554.3,
+      213.2
+     ],
+     "text": "Maraş, G. & Sürme, Y., 2023, ‘Surgical site infections: Prevalence, economic burden, \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      210.8,
+      554.3,
+      226.9
+     ],
+     "text": "and new preventive recommendations’, Exploratory Research and Hypothesis in \nMedicine 8(4), 366–371. https://doi.org/10.14218/erhm.2023.00010\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      229.1,
+      554.3,
+      238.0
+     ],
+     "text": "Mengistu, D.A., Alemu, A., Abdukadir, A.A., Mohammed Husen, A., Ahmed, F. & \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      235.9,
+      554.3,
+      258.5
+     ],
+     "text": "Mohammed, B., 2023, ‘Global incidence of surgical site infection among patients: \nSystematic review and meta-analysis’, Inquiry 60, 469580231162549. https://doi.\norg/10.1177/00469580231162549\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      260.7,
+      554.3,
+      269.6
+     ],
+     "text": "Mezemir, R., Seid, A., Gishu, T., Demas, T. & Gize, A., 2020, ‘Prevalence and root causes \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      267.5,
+      554.3,
+      290.1
+     ],
+     "text": "of surgical site infections at an academic trauma and burn center in Ethiopia: A \ncross-sectional study’, Patient Safety in Surgery 14, 3. https://doi.org/10.1186/\ns13037-019-0229-x\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      292.0,
+      554.3,
+      301.2
+     ],
+     "text": "Ministry of Health and Social Services (MoHSS), 2023, Infection prevention and control \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      298.8,
+      554.3,
+      321.7
+     ],
+     "text": "action plan 2023/2024 – 2026/2027, Republic of Namibia, viewed 24 March 2024, \nfrom https://www.afro.who.int/sites/default/files/2024-03/National%20IPC%20\nAction%20Plan_31%20Oct%202023%20%281%29.pdf.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      323.9,
+      554.3,
+      332.8
+     ],
+     "text": "Mohan, N., Gnanasekar, D., Tk, S. & Ignatious, A., 2023, ‘Prevalence and risk factors of \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      330.8,
+      554.3,
+      346.5
+     ],
+     "text": "surgical site infections in a teaching medical college in the Trichy District of India’, \nCureus 15(5), e39465. https://doi.org/10.7759/cureus.39465\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      348.7,
+      554.3,
+      357.6
+     ],
+     "text": "Monahan, M., Jowett, S., Pinkney, T., Brocklehurst, P., Morton, D.G. & Abdali, Z., 2020, \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      355.5,
+      554.3,
+      378.1
+     ],
+     "text": "‘Surgical site infection and costs in low- and middle-income countries: A systematic \nreview of the economic burden’, PLoS One 15(6), e0232960. https://doi.\norg/10.1371/journal.pone.0232960\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      380.3,
+      554.3,
+      389.2
+     ],
+     "text": "Nepogodiev, D., Martin, J., Biccard, B., Makupe, A. & Bhangu, A., 2019, ‘Global burden \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      386.8,
+      552.8,
+      402.9
+     ],
+     "text": "of postoperative death’, Lancet 393(10170), 401. https://doi.org/10.1016/S0140-\n6736(18)33139-8\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      405.1,
+      554.3,
+      414.0
+     ],
+     "text": "Pantvaidya, G., Joshi, S., Nayak, P., Kannan, S., Desouza, A. & Poddar, P., 2022, ‘Surgical \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      411.9,
+      554.3,
+      434.5
+     ],
+     "text": "site infections in patients undergoing major oncological surgery during the \nCOVID-19 pandemic (SCION): A propensity-matched analysis’, Journal of Surgical \nOncology 125(3), 327–335. https://doi.org/10.1002/jso.26738\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      436.7,
+      554.3,
+      445.6
+     ],
+     "text": "Papadopoulos, A., Machairas, N., Tsourouflis, G., Chouliaras, C., Manioti, E. & Broutas, D., \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      443.5,
+      554.3,
+      466.1
+     ],
+     "text": "2021, ‘Risk factors for surgical site infections in patients undergoing emergency \nsurgery: A single-centre experience’, In Vivo 35(6), 3569–3574. https://doi.\norg/10.21873/invivo.12660\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      468.3,
+      554.3,
+      477.2
+     ],
+     "text": "Sattar, F., Sattar, Z., Zaman, M. & Akbar, S., 2019, ‘Frequency of post-operative surgical \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      474.8,
+      554.3,
+      490.9
+     ],
+     "text": "site infections in a tertiary care hospital in Abbottabad, Pakistan’, Cureus 11(3), \ne4243. https://doi.org/10.7759/cureus.4243\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      493.1,
+      554.3,
+      502.0
+     ],
+     "text": "Sefah, I.A., Denoo, E.Y., Bangalee, V., Kurdi, A., Sneddon, J. & Godman, B., 2022, \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      499.9,
+      554.3,
+      522.5
+     ],
+     "text": "‘Appropriateness of surgical antimicrobial prophylaxis in a teaching hospital in \nGhana: Findings and implications’, JAC Antimicrobial Resistance 4(5), dlac102. \nhttps://doi.org/10.1093/jacamr/dlac102\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      524.7,
+      554.3,
+      533.6
+     ],
+     "text": "Shakir, A., Abate, D., Tebeje, F. & Weledegebreal, F., 2021, ‘Magnitude of surgical site \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      531.5,
+      554.3,
+      560.9
+     ],
+     "text": "infections, bacterial etiologies, associated factors and antimicrobial susceptibility \npatterns of isolates among post-operative patients in Harari Region public \nhospitals, Harar, Eastern Ethiopia’, Infection and Drug Resistance 14, 4629–4639. \nhttps://doi.org/10.2147/IDR.S329721\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      563.1,
+      554.3,
+      572.0
+     ],
+     "text": "Shiferaw, W.S., Aynalem, Y.A., Akalu, T.Y. & Petrucka, P.M., 2020, ‘Surgical site infection \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      570.0,
+      554.3,
+      585.7
+     ],
+     "text": "and its associated factors in Ethiopia: A systematic review and meta-analysis’, \nBMC Surgery 20(1), 107. https://doi.org/10.1186/s12893-020-00764-1\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      587.9,
+      554.3,
+      596.8
+     ],
+     "text": "Suljagic, V., Bajcetic, M., Mioljevic, V., Dragovac, G., Mijovic, B. & Janicijevic, I., 2021, \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      594.8,
+      554.3,
+      624.2
+     ],
+     "text": "‘A nationwide assessment of the burden of healthcare-associated infections and \nantimicrobial use among surgical patients: Results from Serbian point prevalence \nsurvey, 2017’, Antimicrobial Resistance & Infection Control 10(1), 47. https://doi.\norg/10.1186/s13756-021-00889-9\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      626.4,
+      554.3,
+      635.3
+     ],
+     "text": "Tiri, B., Bruzzone, P., Priante, G., Sensi, E., Monya, C. & Vernelli, C., 2020, ‘Impact of \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      633.2,
+      554.3,
+      655.8
+     ],
+     "text": "antimicrobial stewardship interventions on appropriateness of surgical antibiotic \nprophylaxis: How to improve’, Antibiotics 9(4), 168. https://doi.org/10.3390/\nantibiotics9040168\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      657.6,
+      554.3,
+      666.9
+     ],
+     "text": "United Nations, 2023, The sustainable development goals report 2023: Special edition, \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      664.5,
+      554.3,
+      680.6
+     ],
+     "text": "towards a rescue plan for people and planet, viewed 25 October 2024, from \nhttps://unstats.un.org/sdgs/report/2023/.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      682.4,
+      554.3,
+      691.6
+     ],
+     "text": "U.S. Centers for Disease Control and Prevention, 2024, National Healthcare Safety \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      689.2,
+      554.3,
+      705.3
+     ],
+     "text": "Network (NHSN) patient safety component manual, viewed 25 October 2024, \nfrom https://www.cdc.gov/nhsn/pdfs/pscmanual/pcsmanual_current.pdf.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      707.2,
+      554.3,
+      716.4
+     ],
+     "text": "World Health Organization (WHO), 2018, Global guidelines for the prevention of \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      714.0,
+      554.3,
+      730.1
+     ],
+     "text": "surgical site infections, 2nd edn., Geneva, viewed 15 December 2024, from \nhttps://www.who.int/publications/i/item/9789241550475.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      731.9,
+      554.3,
+      741.2
+     ],
+     "text": "World Health Organization (WHO), 2024, Infection prevention and control in-service \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      738.8,
+      552.8,
+      754.9
+     ],
+     "text": "education and training curriculum, Geneva, viewed 15 October 2024, from https://\niris.who.int/bitstream/handle/10665/376810/9789240094123-eng.pdf?sequence=1.\n"
+    },
+    {
+     "bbox": [
+      311.8,
+      756.9,
+      554.3,
+      766.2
+     ],
+     "text": "World Health Organization & The World Bank, 2023, Tracking universal health \n"
+    },
+    {
+     "bbox": [
+      323.1,
+      764.0,
+      552.8,
+      780.2
+     ],
+     "text": "coverage 2023 global monitoring report, viewed 15 May 2024, from https://www.\nwho.int/publications/i/item/9789240080379.\n"
+    }
+   ]
+  }
+ ]
+}

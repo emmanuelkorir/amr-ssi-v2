@@ -1,0 +1,452 @@
+
+
+===== PAGE 1 =====
+
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/288287915
+Prevalence of methicillin resistant staphylococcus aureus (MRSA) among
+isolates from surgical site infections in Mulago hospital-Kampala, Uganda
+Article  in  The Internet Journal of Infectious Diseases · January 2010
+CITATIONS
+25
+READS
+1,047
+7 authors, including:
+Tom Mwambu
+Mulago Hospital
+25 PUBLICATIONS   270 CITATIONS   
+SEE PROFILE
+Ezera Agwu
+University of Rwanda
+121 PUBLICATIONS   1,110 CITATIONS   
+SEE PROFILE
+Freddie Bwanga
+Makerere University
+55 PUBLICATIONS   2,449 CITATIONS   
+SEE PROFILE
+Christine Najjuka
+Makerere University
+57 PUBLICATIONS   2,033 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Ezera Agwu on 23 May 2019.
+The user has requested enhancement of the downloaded file.
+
+
+===== PAGE 2 =====
+
+ 
+ 
+The Internet Journal of Infectious Diseases 2009 : Volume 7 Number 2 
+Prevalence of Methicillin resistant 
+Staphylococcus aureus (MRSA) 
+among isolates from surgical site 
+infections in Mulago hospital- 
+Kampala, Uganda. 
+Julius Ojulong  
+1. Department of microbiology 
+Makerere University  
+Kampala Uganda  
+Tom Philip Mwambu  
+Department of Medical Microbiology and Parasitology 
+Kampala International University-Western Campus  
+Ishaka, Bushenyi Uganda  
+Moses Jolobo  
+1. Department of microbiology 
+Makerere University  
+Kampala Uganda  
+
+
+===== PAGE 3 =====
+
+Ezra Agwu  
+Department of Medical Microbiology and Parasitology 
+Kampala International University-Western Campus  
+Ishaka, Bushenyi Uganda  
+Freddie Bwanga  
+1. Department of microbiology 
+Makerere University  
+Kampala Uganda  
+Christine Najjuka  
+1. Department of microbiology 
+Makerere University  
+Kampala Uganda  
+D.H. Kaddu-Mulindwa  
+1. Department of microbiology 
+Makerere University  
+Kampala Uganda  
+Citation: J. Ojulong, T. Mwambu, M. Jolobo, E. Agwu, F. Bwanga, C. Najjuka & D. Kaddu-Mulindwa : 
+Prevalence of Methicillin resistant Staphylococcus aureus (MRSA) among isolates from surgical site 
+infections in Mulago hospital- Kampala, Uganda.. The Internet Journal of Infectious Diseases. 2009 
+Volume 7 Number 2 
+ 
+ 
+ 
+
+
+===== PAGE 4 =====
+
+Abstract 
+Background. Methicillin-resistant Staphylococcus aureus (MRSA) isolates are 
+resistant to penicillins and all other β-lactam antibiotics. Nosocomial MRSA are also 
+resistant to a variety of other antibiotic classes. MRSA infections are associated with a 
+high morbidity and mortality in Uganda. There is limited data on the magnitude of 
+MRSA in surgical site infections. The objective of this study was to determine the 
+prevalence of MRSA among S. aureus isolates from surgical site infections in Mulago 
+Hospital, Kampala, Uganda. Methods One hundred eighty eight pus swabs were 
+collected from patients with surgical site infections. Swabs were inoculated for culture at 
+the Microbiology laboratory Faculty of Medicine, Makerere University. S. aurues was 
+identified biochemically. All S. aureus isolates were subjected to oxacillin agar screen 
+and then tested with a polymerase chain reaction (PCR) assay for detection of the mecA 
+gene which codes for oxacillin resistance. Results Out of the 188 specimen cultured, 54 
+(28.7%) grew S. aureus. Seventeen (31.5%) of the 54 isolates were confirmed as MRSA 
+by PCR. Conclusion. S. aureus is highly (28.7%) prevalent in surgical site infections in 
+Mulago National Referral Hospital, Kampala Uganda. MRSA is highly (31.5%) prevalent 
+among populations of S. aureus isolated from surgical site infections in Mulago National 
+Referral Hospital, Kampala Uganda  
+ 
+Introduction 
+Staphylococcus aureus continues to be a major cause of both nosocomial and 
+community-acquired infections. Methicillin was first introduced in 1960 for the 
+
+
+===== PAGE 5 =====
+
+treatment of penicillinase-resistant microbial infections and a year later, MRSA isolates 
+resistant to all β- lactam antibiotics were isolated (Chambers, 2001). Oxacillin resistance 
+(presence of the mecA gene responsible for oxacillin resistance) is a specific predictor of 
+resistance to all β- lactam antibiotics including carbapenems (Chambers, 2001). 
+Methicillin-resistant Staphylococcus aureus (MRSA) has become one of the most 
+important pathogens that cause postoperative infections and it accounts for up to 40% 
+of nosocomial Staphylococcus aureus infections in large Hospitals and 25%-30% in 
+smaller hospitals in the USA (Murray et al, 2003, Ajali, 1999 & Rodriguez et al 1974). 
+In Europe, MRSA prevalence ranges from over 50% in Portugal and Italy to below 2% in 
+Switzerland and the Netherlands, where infection control measures have been shown to 
+work (Verhoef et al, 1999). In Asia, the prevalence lies around 50%, with extremely high 
+rates in Hong Kong (75%) and Japan (72%) (Diekema et al, 2000). In other studies 
+comprising of many African Hospitals the prevalence of MRSA was put at 15 % with 
+Kenya and Nigeria having the highest prevalence of 21-30 % (Gorwitz et al,2006 ). In 
+Uganda, about 10% of the surgical procedures become septic which account for an 
+increasing morbidity and mortality with the commonest organism isolated being S. 
+aureus, though no MRSA had been isolated by 1999.(Ojikan-Odeke.,1978, Mugisa 
+D.B,1998 & Olaro .C, 1999) 
+MRSA infections are of special concern because these infections are associated with 
+prolonged hospital stay, increased hospital costs, and have a few therapeutic options for 
+affected patients (Saxen et al 2003). There is limited information on surgical site 
+infections caused by MRSA in Uganda. This study was designed to determine the 
+prevalence of MRSA in a population of Staphylococcus aureus isolated from patients 
+with surgical site infections (SSI) at Mulago Hospital, Kampala, Uganda. The ultimate 
+goal of this study is to contribute to reduction of overall surgical site infections in 
+Uganda to barest minimum especially in this era of HIVAIDS pandemic.  
+
+
+===== PAGE 6 =====
+
+Materials And Methods 
+Study setting. The present study was carried out at Mulago National referral Hospital, 
+Kampala, Uganda, between February and May 2007. All patients (n = 188) who 
+underwent elective and emergency surgery during the study period were enrolled. Each 
+of them had a pus swab taken from active site or on a purulent pus discharge. This was 
+done on a patient who developed SSI after surgery as defined by Centers for Disease 
+Control and Prevention criteria ( Horan et al, 1992). 
+Identification of S. aureus  
+Sterile dry cotton swabs with Amies transport media (DELTALAB Rubi, Spain) were 
+used to collect staphylococci from active part of infected surgical wounds or pus 
+discharge. The swab was rolled gently but firmly on the base of the wound while 
+applying an even pressure. The swab was replaced in its sheath which has transport 
+medium and then transported to the laboratory where it was inoculated directly on 
+phenol red mannitol salt agar (Liofilchem, Italy) and incubated at 37°C for 24 hrs. S. 
+aureus colonies were selected on the basis of their yellow mannitol fermenting colonies, 
+Gram reaction and morphological characteristics, catalase, DNase and coagulase tests. 
+The S.aureus isolates were then sub-cultured onto 5% blood agar to show β-hemolysis. 
+S.aureus isolates positively identified by above mentioned tests were transported at 
+room temperature as monocultures in brain heart infusion broth to the Department of 
+Medical Microbiology and Molecular biology, Makerere University Kampala, Uganda, 
+for mecA gene identification using polymerase chain reaction method. 
+
+
+===== PAGE 7 =====
+
+According to previous report (NCCLS, 2003), Oxacillin salt agar (containing Mueller-
+Hinton agar (SIGMA) plates with 4% NaCl and 6 µg of oxacillin per ml) screening of 
+Staphylococcus aureus isolates yielded positive results. All isolated identified 
+Staphylococcus strains were frozen at -20oC until all isolates were obtained and ready 
+for molecular analysis.  
+Molecular detection of mecA gene  
+The mecA gene from Staphylococcus was obtained using methods previously reported 
+by Sakoulas et al (2001), with slight modifications. Briefly, bacterial suspensions from 
+the frozen isolates were thawed and then subcultured on 5% blood agar plates. Plates 
+were then incubated at 37oC for 18-24hrs, 2-3 bacteria colonies from fresh growth 
+isolates were suspended in 100µl distilled water in eppendorf tubes. The tubes were 
+then boiled for 2 minutes and centrifuged at 13,000 rpm for 2 minutes. The supernatant 
+containing the DNA extract was collected and kept at 4oC. The extracted DNA was 
+loaded and ran on the Agarose gel (120 V) to check for its quality prior to PCR 
+amplification. The Primers [Forward P4: 5’ TCCAGATTACAACTTCACCAGG3’and 
+Reverse P7: 5’CCACTTCATATCTTGTAACG-3’: MWG – Biotech- Germany] were 
+designed to amplify a 162bp segment of the mecA. The primer concentration for each of 
+primers P4 and P7 was optimized at 100µL (i.e. 50ng) for each and were added to the 
+PCR reaction mix consisting of RNAse-free water 8µL, master mix 1µL, and Taq 
+polymerase 0.1µL.The total reaction volume was 10.1µL. 0.5µL of S. aureus cultured was 
+then inoculated in the mix to serve as genomic DNA source.  
+The PCR mixture contained PCR buffer (ABgene, UK) supplemented with MgCl2 
+(25mM) and primers, 200 mM dTTP, dATP, dCTP, and dGTP. The contents were mixed 
+in thin walled PCR tubes and the reaction mixture was placed in a DNA thermal cycler 
+(Peltier PTC-200) to be amplified in 31 repeating cycles, each cycle having three basic 
+
+
+===== PAGE 8 =====
+
+steps: 1-min denaturation at 94oC followed by annealing for 30 s at 55oC and elongation 
+for 1 min at 72oC. The samples were held in the thermal cycler at 4oC until they were 
+loaded onto a 1.5% agarose gel and were electrophoresed for 1hr at 120 V, stained with 
+ethidium bromide, and viewed with UV light. The presence of a 162-bp band was 
+considered a positive result. The marker used was 100kbp (New England- Biotech) 
+Quality control strains 
+The following control strains were used for both oxacillin agar screen and PCR method; 
+S. aureus ATCC 29213 as an oxacillin susceptible strain. S. aureus ATCC 43300 as an 
+oxacillin resistant strain. 
+Data collection and Management 
+The principle investigator, assisted by research assistants collected data. Informed 
+consent was obtained and a standardized questionnaire was administered. The data 
+collected included age, sex, date and time of collection and patient number. Other data 
+collection was the presence or absence of MRSA after oxacillin agar screen and PCR. 
+The data was then analyzed using STATA statistical software. Dichotomous variables 
+were compared using a chi square, and continuous variables were compared using 
+multivariate statistic, with the help of a statistician. 
+Results 
+Of the 188 patients enrolled, 62.9% of these patients were males and 37.1% were 
+females. The average age of the patients was 31years with a range of 13 - 87 years. Fifty 
+four (28.7%) patients had S.aureus, of the 54 isolates of S. aureus from these patients, 
+
+
+===== PAGE 9 =====
+
+17 (31.5%) were MRSA by PCR assay as shown in the tables 1 and 2 below. The males 
+were twice as much more likely to get MRSA as compared to females in this study 
+(Table. 1). Oxacillin agar screen had a sensitivity of 70.59% and a specificity of 64.86% 
+(Table.2). These results showed that this method could correctly classify 66.67% isolates 
+of S.aureus as being MRSA. 
+ 
+ 
+Table 1: PCR test on the study isolates by sex distribution. 
+ 
+Table 2: PCR mecA of the Study isolates compared to Oxacillin agar screen  
+Discussion 
+Staphylococcus aureus is an important pathogen in human infections and is implicated 
+in a wide variety of infections, from mild skin infections to more serious and invasive 
+infections, including septicemia, pneumonia, endocarditis, deep-seated abscesses, and 
+toxinoses including food poisoning and toxic shock syndrome (Tenover and Gaynes 
+
+
+===== PAGE 10 =====
+
+2000; Holmes et al., 2005). Surgical site infections (SSI) by Staphylococcus aureus are 
+known predominant cause of nosocomial infection, resulting in considerable morbidity 
+and mortality in tropical Africa. Data on MRSA infection especially for SSI are highly 
+limited in Uganda and other tropical African countries ( Kesah et al, 2003; Adebayo et 
+al, 2006).  
+The 28.7% Staphylococcus aureus observed in this study is higher that 8.8% prevalence 
+in deep-seated recurrent genital ulcers in Nigeria (Agwu et al., 2007) and 10.7% 
+prevalence in wound infections in Iran (Rastegar et al 2005). The 28.7% Staphylococcus 
+aureus reported in the present study may: depict the level of Staphylococcus aureus 
+carriage in this locality; be attributed to the level of contamination arising from the 
+habit of some of the volunteers to treat their wound aseptically before seeking 
+appropriate medical attention and may also be due to low personal hygiene and poor 
+health education which still persists in Uganda compared to Nigeria and Iran.  
+In our study and out of 17 isolates positive for MSRA, 13 (76.5%) male patients were 
+infected with MRSA more than 4 (23.5%) females. This confirms earlier report (Agwu et 
+al., 2006) that most tropical bacteria infections are more common in males than 
+females because predisposing sites for the infections such as overpopulation, prisons, 
+military camps, construction sties and factories are predominated by males.  
+In this study, the prevalence of MRSA among S. aureus isolates in SSI was found to be 
+31.5%. This is in similar to the 26.9%-29.6% prevalence reported in the USA, Middle 
+East and other selected African hospitals (Kesah et al, 2003, Boyce, 1998, Bell et al, 
+2002 & Baddour et al., 2006). This may show that the level of awareness and control 
+measure for MRSA prevalence in Uganda is comparable to the standard control 
+elsewhere. Emergence of documented multi-drug resistance bacteria pathogens (Agwu 
+et al., 2004) due to indiscriminate use of antibiotics (Agwu et al., 2005) may explain the 
+
+
+===== PAGE 11 =====
+
+observed 31.5% prevalence of MRSA in SSI at the Mulago National Referral Hospital 
+Kampala, Uganda.  
+According to a review by Swierzewski, J.S. (2008), the population at increased risk of 
+health-care associated MRSA infection includes: patients who have recently been 
+hospitalized (within the past year) and patients in long-term health care facilities, 
+including nursing homes and dialysis centers. Medical conditions that weaken the 
+immune system (e.g., HIV/AIDS, cancer), recent invasive medical procedures (e.g., 
+surgery, catheterization, dialysis), and recent use of antibiotics also increases the risk for 
+HA-MRSA. Health care workers (e.g., doctors, nurses, physician assistants) and people 
+who are in close contact with health care workers are at increased risk for developing 
+staph infections, including MRSA. Children also have a higher risk for infection, 
+possibly because their immune systems are not fully developed.  
+It appears there is a decline in the overall ability of different healthcare settings to stop 
+or reduce the spread of MRSA to the barest minimum. In developing countries, it has 
+always been contended that the inappropriate use of antibiotics for community 
+infections may increase the prevalence of resistant bacteria infection (Agwu et al., 2005) 
+including MRSA. Therefore, the use of two mechanisms to control the spread of MRSA 
+could reduce the burden of SSIs in this region. First, the number of surgical patients 
+who are colonized before surgery would be reduced, decreasing the likelihood of an 
+inadequate antimicrobial prophylaxis choice in those settings where preoperative 
+screening for MRSA colonization is not done (e.g.using a β- lactam agent for a patient 
+with unrecognized MRSA colonization). Second, for those patients who are not 
+colonized with MRSA prior to surgery, successful control of transmission would reduce 
+the risk of acquiring it from an external source during or after surgery. It has been 
+reported that 60% of the S. aureus SSIs appeared not to have originated from nasal 
+
+
+===== PAGE 12 =====
+
+carriage of S. aureus by the patient, suggesting an exogenous source (Farr, 2002 & Perl 
+et al, 2002). 
+In conclusion, S. aureus is highly (28.7%) prevalent in surgical site infections in Mulago 
+National Referral Hospital, Kampala Uganda. MRSA is highly (31.5%) prevalent among 
+populations of S. aureus isolated from surgical site infections in Mulago National 
+Referral Hospital, Kampala Uganda.  
+This study has opened a broad research horizon that will enable future researchers to 
+investigate: the source of MRSA; the link between MRSA acquisition and various factors 
+like age, sex, occupation, ethnicity, geographical location, hospitalization, antibiotic 
+usage, surgery and distinction between community-acquired MRSA and hospital 
+acquired MRSA.  
+References 
+Adebayo O Shittu and Johnson Lin. Antimicrobial susceptibility patterns and 
+characterization of clinical isolates of Staphylococcus aureus in Kwazulu-Natal province, 
+South Africa. BMC Infectious Diseases 2006, 6:125. (s) 
+Agwu, E., Agba, M.I., Esumeh, F.I., Tatfeng, Y.M., Ongey, J.Y., Uzoaru, S.C., Okodua, 
+M., Turray A.A. Susceptibility status of Streptococcus pneumoniae against streptomycin 
+and rifampicin commonly used for pulmonary tuberculosis. Journal of Applied and 
+Basic Sciences, 2005, 3 (1&2): 33-36. (s) 
+Agwu E., Agba M.I Nwobu G.O. Ongey J.Y. Inyang N.J. Imharebhor J.A. Antimicrobial 
+resistant profile of Streptococcus pneumoniae isolated from suspected tuberculosis 
+patients in Ekpoma and its environs: Shiraz Electronic Medical Journal. 2004, 5, (3). (s) 
+
+
+===== PAGE 13 =====
+
+Agwu E, Ihongbe J. C, Okogun GRA, Ezeonwumelu JOC Igbinovia O. Chromobacterium 
+violacium associated with recurrent vaginal discharge among apparently healthy 
+females in Ekpoma Nigeria. Online Journal of Health and Allied Sciences 2007, 1: 2. (s) 
+Agwu E, Ohihion A A, Agba M I, Okogun G R A, Okodua M, Tatfeng YM, Nwobu G.O. 
+Incidence of Streptococcus pneumoniae Infections Among Patients Attending 
+Tuberculosis Clinics in Ekpoma, Nigeria. Shiraz Electronic Medical Journal, 2006, 7, (1) 
+(s) 
+Anjali Jain, Daum R. S. American Academy of Paediatrics.Review 1999; 20: 183-91. (s) 
+Baddour Manal M, Abuelkheir Manal M and Fatani Amal J. Trends in antibiotic 
+susceptibility patterns and epidemiology of MRSA isolates from several hospitals in 
+Riyadh, Saudi Arabia. Annals of Microbiology and Antimicrobials. 2006, 5:30. (s) 
+Bell Jan M, Turnidge John D. et al. High Prevalence of Oxacillin-Resistant 
+Staphylococcus aureus Isolates from Hospitalized Patients in Asia- Pacific and South 
+Africa: Results from SENTRY Antimicrobial Surveillance Program, 1998-1999. 
+Antimicrob Agents Chemother. 2002, 46 (3): 879–881. (s) 
+Boyce 
+J. 
+M. 
+Diagnosis 
+and 
+treatment 
+of 
+serious 
+antimicrobial-resistant 
+Staphylococcusaureus infection. Clinical Updates, Infect Dis. Nov.1998; IV, (4). (s) 
+Chambers.HF. The changing epidemiology of Staphylococcus aureus? Emerging Infect 
+Dis 2001; 7:178-182. (s) 
+Diekema, 
+D.J., 
+Pfaller, 
+M.A., 
+et 
+al. 
+Genetic 
+relatedness 
+of 
+multidrug- 
+resistant,methicillin(oxacillin)-resistant Staphylococcus aureus bloodstream isolates 
+form SENTRY Antimicrobial Resistance Surveillance Centers worldwide, 1998. Microb 
+Drug Resist 2000;6: 213-21. (s) 
+
+
+===== PAGE 14 =====
+
+Farr BM. Mupirocin to prevent S. aureus infections. N Engl J Med 2002; 346:1905-
+1906. (s) 
+Gorwitz J., Jernigan.D. B., Powers.J. H.,et al. Strategies for Clinical Management of 
+MRSA in the Community: Summary of Experts’ Meeting Convened by the Centre for 
+Disease Control and Prevention.March 2006. USA. (s) 
+Holmes A, Ganner M, McGuane S, Pitt TL, Cookson BD, Kearns AM. Staphylococcus 
+aureus isolates carrying Panton-Valentine leucocidin genes in England and Wales: 
+frequency, characterization, and association with clinical disease. J Clin Microbiol. 
+2005;43(5):2384–2390 (s) 
+Horan, T. C., Gaynes et al. CDC definitions of nosocomial surgical site infections 1992: a 
+modification of CDC definitions of surgical wound infections. Infect.Control Hosp. 
+Epidemiol. 17:780–785. (s) 
+Jaffar 
+A. 
+Al-Tawfiq 
+Incidence 
+and 
+Epidemiology 
+of 
+Methicillin-Resistant 
+Staphylococcusaureus Infection in a Saudi Arabian Hospital, 1999-2003. Infect. control 
+& hospital epidemiol. October 2006, 27, no. 10 (s) 
+Kabambula L. Bacherlor of Biomedical Laboratory Technology dissertation on 
+Prevalence and antibiotic susceptibility patterns of Staphylococcus aureus among 
+patients with wounds and abscess attending surgical units in Mulago hospital. 2005. (s) 
+Kesah C. Ben Redjeb, T.O Odugbemi, et al. Prevalence of Methicillin-resistant 
+Staphylococcus aureus in eight African hospitals and Malta.Clin Microbiol Infect. 2003; 
+9:153-156. (s) 
+Mugisa D.B. M. Med Surgery dissertation on Complications following laparotomy in 
+Mulago Hospital.1988; 59-156. (s) 
+
+
+===== PAGE 15 =====
+
+Murray PR, Baron EJ, Jorgensen JM et al.eds. Staphylococci, Micrococcus and other 
+catalase-positive cocci that grows aerobically. Manual of Clinical Microbiology, 8th edn. 
+Washington: 2003; 384-404. (s) 
+Nakiboneka. Bachelor of Biomedical Laboratory Technology dissertation on the 
+Prevalence of aerobic bacterial pathogenesis that causes sepsis in wounds of patients 
+admitted in New Mulago hospital and their drug susceptibility patterns. 2005.2-30. (s) 
+National Committee for Clinical Laboratory Standards. Methods for Dilution 
+Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically: Approved 
+Standard M7-A6. NCCLS, Wayne, PA, USA, 2003. (s) 
+Ojikan-Odeke. M.Med. dissertation on hand infections in Uganda.1978; 19-40. (s) 
+Olaro .C. M.Med Surgery dissertation on study to assess risk factors for Postoperative 
+Complication following abdominal Surgery in Mulago hospital.1999;1-3. (s) 
+Perl TM, Cullen JJ, Wenzel RP, et al. Intranasal mupirocin to prevent postoperative 
+Staphylococcus aureus infections. N Engl J Med 2002;346: 1871-1877. (s) 
+Rodriguez W and Khan W. Staphylococcal susceptibility to penicillin G: The changing 
+pattern among community isolates. JAMA 1974; (s) 
+Saxen S, Singh K. and Talwar V. Methicillin Resistance Staphylococcus aureus 
+prevalence in Community in East Delhi area.Jpn.J. Infect. Dis; 56, 54-56, 2003. (s) 
+Verhoef J, Blok H, Baars A, et al. A Dutch Approach to Methicillin-Resistant 
+Staphylococcuc 
+aureus. 
+Eur.J.Clin.Microbiol.Infect.Dis 
+1999; 
+18: 
+461. 
+http://www.mrsaremedies.org/statistics.html (s) 
+
+
+===== PAGE 16 =====
+
+Ziras W. Bachelor of Biomedical Laboratory Technology dissertation on the bacteriology 
+of elective surgical sites of removal of original dressing at Mulago hospital. 2002. (s) 
+Swierzewski, J.S. (2008) MRSA Infection; Causes and Risk Factors, Signs and 
+Symptoms. accessed by 30th January 2008. http://www.healthinfochannel.com/mrsa-
+infection/causes-symptoms.shtml (s) 
+Tenover FC, Gaynes RP. The epidemiology of Staphylococcus infections. In: Fischetti 
+VA, Novick RP, Ferretti JJ, Portnoy DA, Rood JL, eds. Gram-Positive Pathogens. 
+Washington, DC: American Society for Microbiology, 2000:414–421. (s) 
+Rastegar L. A.R., Alaghehbandan R., Akhlaghi L (2005). Burn wound infections and 
+antimicrobial resistance in tehran, Iran: an increasing problem. Annals of Burns and 
+Fire Disasters – 18 (2) (s) 
+Sakoulas G, Gold HS, Venkataraman L, Degirolami PC, Eliopoulos GM, Qian Q. (2001). 
+Methicillin-resistant Staphylococcus aureus: Comparison of susceptibility testing 
+methods and analysis of Meca-positive susceptible strains. Journal of Clinical 
+Microbiology 39, (11): 3946–3951 (s) 
+ 
+This article was last modified on Thu, 25 Jun 09 18:44:24 -0500 
+This page was generated on Tue, 04 Aug 09 14:46:07 -0500, and may be cached. 
+ 
+View publication stats

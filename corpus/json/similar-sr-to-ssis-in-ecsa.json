@@ -1,0 +1,194 @@
+{
+ "doc_id": "similar-sr-to-ssis-in-ecsa",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/similar-sr-to-ssis-in-ecsa.pdf",
+ "sha256": "78f86d7d81228be7964fbc6428383609ae13f5ff0ae67b9757a5f58887538bd4",
+ "document_type": "pdf",
+ "n_pages": 1,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "Correction: Antimicrobial resistance in bacterial wound, skin, soft tissue and surgical site infections in Central, Eastern, Southern and Western Africa: A systematic review and meta-analysis",
+  "author": "Edward J. M. Monk ",
+  "subject": "",
+  "keywords": "",
+  "creator": "Adobe InDesign 15.1 (Windows)",
+  "producer": "Adobe PDF Library 15.0",
+  "creationDate": "D:20250430171415+05'30'",
+  "modDate": "D:20250430171415+05'30'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:56+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0004608  May 9, 2025\n1 / 1\n \n OPEN ACCESS\nCitation: Monk EJM, Jones TPW, Bongomin \nF, Kibone W, Nsubuga Y, Ssewante N, et al. \n(2025) Correction: Antimicrobial resistance in \nbacterial wound, skin, soft tissue and surgical \nsite infections in Central, Eastern, Southern \nand Western Africa: A systematic review and \nmeta-analysis. PLOS Glob Public Health 5(5): \ne0004608. https://doi.org/10.1371/journal.\npgph.0004608\nPublished: May 9, 2025\nCopyright: © 2025 Monk et al. This is an open \naccess article distributed under the terms of \nthe Creative Commons Attribution License, \nwhich permits unrestricted use, distribution, \nand reproduction in any medium, provided the \noriginal author and source are credited.\nCORRECTION\nCorrection: Antimicrobial resistance in bacterial \nwound, skin, soft tissue and surgical site \ninfections in Central, Eastern, Southern and \nWestern Africa: A systematic review and meta-\nanalysis\nEdward J. M. Monk, Timothy P. W. Jones, Felix Bongomin, Winnie Kibone, \nYakobo Nsubuga, Nelson Ssewante, Innocent Muleya, Lauryn Nsenga, V. Bhargavi Rao, \nKevin van Zandvoort \nThere is an error in affiliation 6 for authors Innocent Muleya and V. Bhargavi Rao. \nThe correct affiliation 6 is: MSF UK, London, United Kingdom.\nThere is an error in the third subheading of Antimicrobial resistance estimates in \nthe Results. The correct subheading is: Pseudomonadales.\nThere are multiple errors in the hierarchy of the sections and subsections intro­\nduced during copyediting.\nIn the Materials and methods, the Screening assessment, Data extraction and \nhandling, Risk of bias assessment, Determination of resistance within antibiotic \nclasses, and Meta-analysis subsections should be subsections of the Materials and \nmethods.\nIn the Results, the Included studies subsection should be a subsection of the \nResults.\nIn the Results, the Types of study, Time period and geographical location, Pop­\nulation and sampling site, Outcome measures reported, and Funding subsections \nshould be subsections of the Included Studies.\nIn the Results, the Staphylococcus aureus, Enterobacteriaceae, and Pseudomo­\nnadales subsections should be subsections of the Antimicrobial resistance estimates \nand their subheadings should be italicized.\nReference\n\t1.\t Monk EJM, Jones TPW, Bongomin F, Kibone W, Nsubuga Y, Ssewante N, et al. Antimicrobial \nresistance in bacterial wound, skin, soft tissue and surgical site infections in Central, Eastern, \nSouthern and Western Africa: a systematic review and meta-analysis. PLOS Glob Public Health. \n2024;4(4):e0003077. https://doi.org/10.1371/journal.pgph.0003077 PMID: 38626068\n",
+   "n_chars": 2683,
+   "n_images": 2,
+   "blocks": [
+    {
+     "bbox": [
+      35.9,
+      747.7,
+      576.0,
+      758.5
+     ],
+     "text": "PLOS Global Public Health | https://doi.org/10.1371/journal.pgph.0004608  May 9, 2025\n1 / 1\n"
+    },
+    {
+     "bbox": [
+      92.0,
+      451.2,
+      94.2,
+      460.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      45.1,
+      509.7,
+      104.7,
+      518.7
+     ],
+     "text": " OPEN ACCESS\n"
+    },
+    {
+     "bbox": [
+      36.0,
+      525.8,
+      181.6,
+      623.3
+     ],
+     "text": "Citation: Monk EJM, Jones TPW, Bongomin \nF, Kibone W, Nsubuga Y, Ssewante N, et al. \n(2025) Correction: Antimicrobial resistance in \nbacterial wound, skin, soft tissue and surgical \nsite infections in Central, Eastern, Southern \nand Western Africa: A systematic review and \nmeta-analysis. PLOS Glob Public Health 5(5): \ne0004608. https://doi.org/10.1371/journal.\npgph.0004608\n"
+    },
+    {
+     "bbox": [
+      36.0,
+      630.8,
+      111.8,
+      640.3
+     ],
+     "text": "Published: May 9, 2025\n"
+    },
+    {
+     "bbox": [
+      36.0,
+      647.8,
+      182.9,
+      712.3
+     ],
+     "text": "Copyright: © 2025 Monk et al. This is an open \naccess article distributed under the terms of \nthe Creative Commons Attribution License, \nwhich permits unrestricted use, distribution, \nand reproduction in any medium, provided the \noriginal author and source are credited.\n"
+    },
+    {
+     "bbox": [
+      198.0,
+      117.9,
+      567.3,
+      219.4
+     ],
+     "text": "CORRECTION\nCorrection: Antimicrobial resistance in bacterial \nwound, skin, soft tissue and surgical site \ninfections in Central, Eastern, Southern and \nWestern Africa: A systematic review and meta-\nanalysis\n"
+    },
+    {
+     "bbox": [
+      198.0,
+      230.9,
+      576.0,
+      263.2
+     ],
+     "text": "Edward J. M. Monk, Timothy P. W. Jones, Felix Bongomin, Winnie Kibone, \nYakobo Nsubuga, Nelson Ssewante, Innocent Muleya, Lauryn Nsenga, V. Bhargavi Rao, \nKevin van Zandvoort \n"
+    },
+    {
+     "bbox": [
+      198.0,
+      296.8,
+      559.3,
+      322.1
+     ],
+     "text": "There is an error in affiliation 6 for authors Innocent Muleya and V. Bhargavi Rao. \nThe correct affiliation 6 is: MSF UK, London, United Kingdom.\n"
+    },
+    {
+     "bbox": [
+      198.0,
+      324.8,
+      565.7,
+      350.1
+     ],
+     "text": "There is an error in the third subheading of Antimicrobial resistance estimates in \nthe Results. The correct subheading is: Pseudomonadales.\n"
+    },
+    {
+     "bbox": [
+      198.0,
+      352.8,
+      558.5,
+      378.1
+     ],
+     "text": "There are multiple errors in the hierarchy of the sections and subsections intro­\nduced during copyediting.\n"
+    },
+    {
+     "bbox": [
+      198.0,
+      380.8,
+      568.7,
+      434.1
+     ],
+     "text": "In the Materials and methods, the Screening assessment, Data extraction and \nhandling, Risk of bias assessment, Determination of resistance within antibiotic \nclasses, and Meta-analysis subsections should be subsections of the Materials and \nmethods.\n"
+    },
+    {
+     "bbox": [
+      198.0,
+      436.8,
+      551.9,
+      462.1
+     ],
+     "text": "In the Results, the Included studies subsection should be a subsection of the \nResults.\n"
+    },
+    {
+     "bbox": [
+      198.0,
+      464.8,
+      560.4,
+      504.1
+     ],
+     "text": "In the Results, the Types of study, Time period and geographical location, Pop­\nulation and sampling site, Outcome measures reported, and Funding subsections \nshould be subsections of the Included Studies.\n"
+    },
+    {
+     "bbox": [
+      198.0,
+      506.6,
+      574.3,
+      546.1
+     ],
+     "text": "In the Results, the Staphylococcus aureus, Enterobacteriaceae, and Pseudomo­\nnadales subsections should be subsections of the Antimicrobial resistance estimates \nand their subheadings should be italicized.\n"
+    },
+    {
+     "bbox": [
+      198.0,
+      563.7,
+      251.2,
+      576.3
+     ],
+     "text": "Reference\n"
+    },
+    {
+     "bbox": [
+      198.0,
+      579.7,
+      543.6,
+      589.0
+     ],
+     "text": "\t1.\t Monk EJM, Jones TPW, Bongomin F, Kibone W, Nsubuga Y, Ssewante N, et al. Antimicrobial \n"
+    },
+    {
+     "bbox": [
+      213.2,
+      589.9,
+      555.4,
+      619.0
+     ],
+     "text": "resistance in bacterial wound, skin, soft tissue and surgical site infections in Central, Eastern, \nSouthern and Western Africa: a systematic review and meta-analysis. PLOS Glob Public Health. \n2024;4(4):e0003077. https://doi.org/10.1371/journal.pgph.0003077 PMID: 38626068\n"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1687 @@
+{
+ "doc_id": "velin-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/velin et al..pdf",
+ "sha256": "7152bf9536bd0d5b11bc8b0c58d54c58b1516e6c4514a92858421f17eed62654",
+ "document_type": "pdf",
+ "n_pages": 11,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "",
+  "author": "",
+  "subject": "",
+  "keywords": "",
+  "creator": "Adobe InDesign CS5.5 (7.5.2)",
+  "producer": "Adobe PDF Library 9.9",
+  "creationDate": "D:20210805160430+05'30'",
+  "modDate": "D:20210805160456+05'30'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:56+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "ORIGINAL RESEARCH\nCORRESPONDING AUTHOR: \nLotta Velin\nProgram in Global Surgery and \nSocial Change, Harvard Medical \nSchool, Boston, MA, USA\nlottavelin@me.com\nTO CITE THIS ARTICLE: \nVelin L, Umutesi G, Riviello \nR, Muwanguzi M, Bebell \nLM, Yankurije M, Faktor K, \nNkurunziza T, Rukundo G, \nde Dieu Gatete J, Emil I, \nHedt-Gauthier BL, Kateera F. \nSurgical Site Infections and \nAntimicrobial Resistance After \nCesarean Section Delivery in \nRural Rwanda. Annals of Global \nHealth. 2021; 87(1): 77, 1–11. \nDOI: https://doi.org/10.5334/\naogh.3413\nABSTRACT\nBackground: As the volume of surgical cases in low- and middle-income countries (LMICs) \nincreases, surgical-site infections (SSIs) are becoming more prevalent with anecdotal \nevidence of antimicrobial resistance (AMR), despite a paucity of data on resistance patterns. \nObjectives: As a primary objective, this prospective study aimed to describe the \nepidemiology of SSIs and the associated AMR among women who delivered by cesarean \nat a rural Rwandan hospital. As secondary objectives, this study also assessed patient \ndemographics, pre- and post-operative antibiotic use, and SSI treatment.\nMethods: Women who underwent cesarean deliveries at Kirehe District Hospital \nbetween September 23rd, 2019, and March 16th, 2020, were enrolled prospectively. On \npostoperative day (POD) 11 (+/− 3 days), their wounds were examined. When an SSI was \ndiagnosed, a wound swab was collected and sent to the Rwandan National Reference \nLaboratory for culturing and antibiotic susceptibility testing.\nFindings: Nine hundred thirty women were enrolled, of whom 795 (85.5%) returned for \nthe POD 11 clinic visit. 45 (5.7%) of the 795 were diagnosed with SSI and swabs were \ncollected from 44 of these 45 women. From these 44 swabs, 57 potential pathogens \nwere isolated. The most prevalent bacteria were coagulase-negative staphylococci (n = \n12/57, 20.3% of all isolates), and Acinetobacter baumannii complex (n = 9/57, 15.2%). \n68.4% (n = 39) of isolates were gram negative; 86.7% if excluding coagulase-negative \nstaphylococci. No gram-negative pathogens isolated were susceptible to ampicillin, and \nthe vast majority demonstrated intermediate susceptibility or resistance to ceftriaxone \n(92.1%) and cefepime (84.6%).\nLOTTA VELIN \nGRACE UMUTESI \nROBERT RIVIELLO \nMOSES MUWANGUZI\nLISA M. BEBELL \nMARTHE YANKURIJE\nKARA FAKTOR\nTHEONESTE NKURUNZIZA \nGILBERT RUKUNDO \nJEAN DE DIEU GATETE\nIVAN EMIL\nBETHANY L. HEDT-GAUTHIER \nFREDRICK KATEERA\n*Author affiliations can be found in the back matter of this article\nSurgical Site Infections and \nAntimicrobial Resistance \nAfter Cesarean Section \nDelivery in Rural Rwanda\n",
+   "n_chars": 2654,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      454.7,
+      222.7,
+      564.5,
+      235.2
+     ],
+     "text": "ORIGINAL RESEARCH\n"
+    },
+    {
+     "bbox": [
+      454.7,
+      443.4,
+      556.2,
+      463.9
+     ],
+     "text": "CORRESPONDING AUTHOR: \nLotta Velin\n"
+    },
+    {
+     "bbox": [
+      454.7,
+      468.2,
+      567.9,
+      499.8
+     ],
+     "text": "Program in Global Surgery and \nSocial Change, Harvard Medical \nSchool, Boston, MA, USA\n"
+    },
+    {
+     "bbox": [
+      454.7,
+      504.0,
+      522.9,
+      513.6
+     ],
+     "text": "lottavelin@me.com\n"
+    },
+    {
+     "bbox": [
+      454.7,
+      546.2,
+      566.6,
+      698.8
+     ],
+     "text": "TO CITE THIS ARTICLE: \nVelin L, Umutesi G, Riviello \nR, Muwanguzi M, Bebell \nLM, Yankurije M, Faktor K, \nNkurunziza T, Rukundo G, \nde Dieu Gatete J, Emil I, \nHedt-Gauthier BL, Kateera F. \nSurgical Site Infections and \nAntimicrobial Resistance After \nCesarean Section Delivery in \nRural Rwanda. Annals of Global \nHealth. 2021; 87(1): 77, 1–11. \nDOI: https://doi.org/10.5334/\naogh.3413\n"
+    },
+    {
+     "bbox": [
+      59.5,
+      441.3,
+      119.0,
+      456.3
+     ],
+     "text": "ABSTRACT\n"
+    },
+    {
+     "bbox": [
+      59.5,
+      462.9,
+      417.3,
+      500.1
+     ],
+     "text": "Background: As the volume of surgical cases in low- and middle-income countries (LMICs) \nincreases, surgical-site infections (SSIs) are becoming more prevalent with anecdotal \nevidence of antimicrobial resistance (AMR), despite a paucity of data on resistance patterns. \n"
+    },
+    {
+     "bbox": [
+      59.5,
+      507.5,
+      417.3,
+      557.8
+     ],
+     "text": "Objectives: As a primary objective, this prospective study aimed to describe the \nepidemiology of SSIs and the associated AMR among women who delivered by cesarean \nat a rural Rwandan hospital. As secondary objectives, this study also assessed patient \ndemographics, pre- and post-operative antibiotic use, and SSI treatment.\n"
+    },
+    {
+     "bbox": [
+      59.5,
+      565.2,
+      417.4,
+      628.5
+     ],
+     "text": "Methods: Women who underwent cesarean deliveries at Kirehe District Hospital \nbetween September 23rd, 2019, and March 16th, 2020, were enrolled prospectively. On \npostoperative day (POD) 11 (+/− 3 days), their wounds were examined. When an SSI was \ndiagnosed, a wound swab was collected and sent to the Rwandan National Reference \nLaboratory for culturing and antibiotic susceptibility testing.\n"
+    },
+    {
+     "bbox": [
+      59.5,
+      635.9,
+      417.3,
+      751.1
+     ],
+     "text": "Findings: Nine hundred thirty women were enrolled, of whom 795 (85.5%) returned for \nthe POD 11 clinic visit. 45 (5.7%) of the 795 were diagnosed with SSI and swabs were \ncollected from 44 of these 45 women. From these 44 swabs, 57 potential pathogens \nwere isolated. The most prevalent bacteria were coagulase-negative staphylococci (n = \n12/57, 20.3% of all isolates), and Acinetobacter baumannii complex (n = 9/57, 15.2%). \n68.4% (n = 39) of isolates were gram negative; 86.7% if excluding coagulase-negative \nstaphylococci. No gram-negative pathogens isolated were susceptible to ampicillin, and \nthe vast majority demonstrated intermediate susceptibility or resistance to ceftriaxone \n(92.1%) and cefepime (84.6%).\n"
+    },
+    {
+     "bbox": [
+      59.5,
+      275.8,
+      125.3,
+      288.3
+     ],
+     "text": "LOTTA VELIN \n"
+    },
+    {
+     "bbox": [
+      59.5,
+      293.4,
+      142.2,
+      305.9
+     ],
+     "text": "GRACE UMUTESI \n"
+    },
+    {
+     "bbox": [
+      59.5,
+      311.1,
+      148.9,
+      323.6
+     ],
+     "text": "ROBERT RIVIELLO \n"
+    },
+    {
+     "bbox": [
+      59.5,
+      328.8,
+      159.9,
+      341.3
+     ],
+     "text": "MOSES MUWANGUZI\n"
+    },
+    {
+     "bbox": [
+      59.5,
+      346.4,
+      137.0,
+      359.0
+     ],
+     "text": "LISA M. BEBELL \n"
+    },
+    {
+     "bbox": [
+      59.5,
+      364.1,
+      158.2,
+      376.6
+     ],
+     "text": "MARTHE YANKURIJE\n"
+    },
+    {
+     "bbox": [
+      59.5,
+      381.8,
+      126.7,
+      394.3
+     ],
+     "text": "KARA FAKTOR\n"
+    },
+    {
+     "bbox": [
+      248.8,
+      275.8,
+      376.7,
+      288.3
+     ],
+     "text": "THEONESTE NKURUNZIZA \n"
+    },
+    {
+     "bbox": [
+      248.8,
+      293.4,
+      344.4,
+      305.9
+     ],
+     "text": "GILBERT RUKUNDO \n"
+    },
+    {
+     "bbox": [
+      248.8,
+      311.1,
+      356.6,
+      323.6
+     ],
+     "text": "JEAN DE DIEU GATETE\n"
+    },
+    {
+     "bbox": [
+      248.8,
+      328.8,
+      300.7,
+      341.3
+     ],
+     "text": "IVAN EMIL\n"
+    },
+    {
+     "bbox": [
+      248.8,
+      346.4,
+      391.5,
+      359.0
+     ],
+     "text": "BETHANY L. HEDT-GAUTHIER \n"
+    },
+    {
+     "bbox": [
+      248.8,
+      364.1,
+      343.9,
+      376.6
+     ],
+     "text": "FREDRICK KATEERA\n"
+    },
+    {
+     "bbox": [
+      59.5,
+      400.8,
+      289.0,
+      410.4
+     ],
+     "text": "*Author affiliations can be found in the back matter of this article\n"
+    },
+    {
+     "bbox": [
+      59.5,
+      127.1,
+      347.3,
+      238.7
+     ],
+     "text": "Surgical Site Infections and \nAntimicrobial Resistance \nAfter Cesarean Section \nDelivery in Rural Rwanda\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "2\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\nINTRODUCTION\nCesarean sections (c-sections) are the most common major surgical procedure in the world [1], \nwith 5–15% of all pregnant women needing a c-section to give birth safely [2]. Although the \nc-section rate in sub-Saharan Africa (SSA) is the lowest in the world, estimated at 7.9% of all \ndeliveries [3], access to surgical care and specifically c-sections is increasing in the region [4]. \nSurgical site infections (SSIs) are the most common c-section-associated complication, with an \nestimated 10–48% of women delivering via c-section in SSA developing an SSI [5–10]. The World \nHealth Organization (WHO) developed antibiotic prophylactic guidelines for SSI prevention [5], \nhowever, adherence to these guidelines appears low in SSA [11] with empirical antibiotic selection \noften based on drug availability and provider preferences [12].\nAntimicrobial resistance (AMR) is also rising in the region [13, 14], making SSIs more difficult to \ntreat. Although bacteria naturally evolve and develop resistance to antimicrobial agents, this \nprocess is dramatically accelerated by the misuse and overuse of antibiotics [15]. Patients who \ndevelop resistant infections are at heightened risk for mortality [16], morbidity, longer hospital \nstays, and catastrophic health expenditures [14].\nLimited research has been done on SSI incidence and risk factors, antibiotic use, and AMR among \nc-section patients in SSA, with previous studies notably being conducted in urban and/or tertiary \nsettings [6, 17–21]. These studies report high levels of AMR and predominantly gram-negative \npathogens, suggesting that pathogen and AMR profiles associated with SSIs in low- and middle-\nincome countries (LMICs) may differ from the gram-positive pathogens typically isolated in high-\nincome countries [22]. A study from Rwanda’s main referral hospital similarly demonstrated high \nprevalence of gram-negative pathogens in wound infections and extensive AMR [23]. This study team \naims to describe the epidemiology of SSIs and associated AMR profiles among women delivering by \nc-section at the Kirehe District Hospital in rural Rwanda. As secondary objectives, this study also \nassessed patient demographics, pre- and post-operative antibiotic use, and SSI treatment. This study \nis the first the team is aware of to describe the epidemiology of SSIs and associated AMR profiles \namong patients at a rural district hospital in Africa, and one of few prospective studies in the region. \nMETHODS\nSTUDY LOCATION \nThis study was conducted at Kirehe District Hospital located in the Eastern Province of Rwanda, \napproximately three hours driving distance from the capital city, Kigali. Kirehe District Hospital is \na governmental hospital supported by Partners In Health-Rwanda (locally known as Inshuti Mu \nBuzima) since 2006. The hospital serves a catchment area of 420,000 people including 60,000 \nresidents in the Mahama Refugee Camp. In 2019, Kirehe District Hospital reported 4,560 deliveries, \nof which 2,715 (59.5%) were c-sections–largely representing the fact that uncomplicated vaginal \ndeliveries take place at health centers rather than in the hospital. The hospital has an obstetrician/\ngynecologist, and between 11 and 18 general practitioners (GPs), who perform c-sections in the \nhospital’s one operating theatre. \nSTUDY POPULATION, DATA AND SAMPLE COLLECTION\nThis study was nested in a larger prospective cohort study following women who delivered via \nc-section at Kirehe District Hospital. All women who delivered via c-section at Kirehe District \nHospital between September 23, 2019, and March 16, 2020 were approached for enrollment, \nConclusions: Bacterial isolates from SSI swab cultures in rural Rwanda predominantly \nconsisted of gram-negative pathogens and were largely resistant to commonly used \nantibiotics. This raises concerns about the effectiveness of antibiotics currently used for \nsurgical prophylaxis and treatment and may guide the appropriate selection of treatment \nof SSIs in rural Rwanda and comparable settings.\n",
+   "n_chars": 4107,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      454.7,
+      40.9,
+      569.3,
+      67.7
+     ],
+     "text": "2\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      132.6,
+      133.7,
+      147.6
+     ],
+     "text": "INTRODUCTION\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      154.8,
+      434.3,
+      204.5
+     ],
+     "text": "Cesarean sections (c-sections) are the most common major surgical procedure in the world [1], \nwith 5–15% of all pregnant women needing a c-section to give birth safely [2]. Although the \nc-section rate in sub-Saharan Africa (SSA) is the lowest in the world, estimated at 7.9% of all \ndeliveries [3], access to surgical care and specifically c-sections is increasing in the region [4]. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      212.4,
+      434.4,
+      275.2
+     ],
+     "text": "Surgical site infections (SSIs) are the most common c-section-associated complication, with an \nestimated 10–48% of women delivering via c-section in SSA developing an SSI [5–10]. The World \nHealth Organization (WHO) developed antibiotic prophylactic guidelines for SSI prevention [5], \nhowever, adherence to these guidelines appears low in SSA [11] with empirical antibiotic selection \noften based on drug availability and provider preferences [12].\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      283.1,
+      434.4,
+      345.8
+     ],
+     "text": "Antimicrobial resistance (AMR) is also rising in the region [13, 14], making SSIs more difficult to \ntreat. Although bacteria naturally evolve and develop resistance to antimicrobial agents, this \nprocess is dramatically accelerated by the misuse and overuse of antibiotics [15]. Patients who \ndevelop resistant infections are at heightened risk for mortality [16], morbidity, longer hospital \nstays, and catastrophic health expenditures [14].\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      353.8,
+      434.4,
+      507.5
+     ],
+     "text": "Limited research has been done on SSI incidence and risk factors, antibiotic use, and AMR among \nc-section patients in SSA, with previous studies notably being conducted in urban and/or tertiary \nsettings [6, 17–21]. These studies report high levels of AMR and predominantly gram-negative \npathogens, suggesting that pathogen and AMR profiles associated with SSIs in low- and middle-\nincome countries (LMICs) may differ from the gram-positive pathogens typically isolated in high-\nincome countries [22]. A study from Rwanda’s main referral hospital similarly demonstrated high \nprevalence of gram-negative pathogens in wound infections and extensive AMR [23]. This study team \naims to describe the epidemiology of SSIs and associated AMR profiles among women delivering by \nc-section at the Kirehe District Hospital in rural Rwanda. As secondary objectives, this study also \nassessed patient demographics, pre- and post-operative antibiotic use, and SSI treatment. This study \nis the first the team is aware of to describe the epidemiology of SSIs and associated AMR profiles \namong patients at a rural district hospital in Africa, and one of few prospective studies in the region. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      528.2,
+      129.2,
+      555.6
+     ],
+     "text": "METHODS\nSTUDY LOCATION \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      563.3,
+      434.4,
+      678.0
+     ],
+     "text": "This study was conducted at Kirehe District Hospital located in the Eastern Province of Rwanda, \napproximately three hours driving distance from the capital city, Kigali. Kirehe District Hospital is \na governmental hospital supported by Partners In Health-Rwanda (locally known as Inshuti Mu \nBuzima) since 2006. The hospital serves a catchment area of 420,000 people including 60,000 \nresidents in the Mahama Refugee Camp. In 2019, Kirehe District Hospital reported 4,560 deliveries, \nof which 2,715 (59.5%) were c-sections–largely representing the fact that uncomplicated vaginal \ndeliveries take place at health centers rather than in the hospital. The hospital has an obstetrician/\ngynecologist, and between 11 and 18 general practitioners (GPs), who perform c-sections in the \nhospital’s one operating theatre. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      693.0,
+      300.5,
+      705.5
+     ],
+     "text": "STUDY POPULATION, DATA AND SAMPLE COLLECTION\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      713.1,
+      434.4,
+      749.9
+     ],
+     "text": "This study was nested in a larger prospective cohort study following women who delivered via \nc-section at Kirehe District Hospital. All women who delivered via c-section at Kirehe District \nHospital between September 23, 2019, and March 16, 2020 were approached for enrollment, \n"
+    },
+    {
+     "bbox": [
+      59.5,
+      40.4,
+      417.3,
+      103.7
+     ],
+     "text": "Conclusions: Bacterial isolates from SSI swab cultures in rural Rwanda predominantly \nconsisted of gram-negative pathogens and were largely resistant to commonly used \nantibiotics. This raises concerns about the effectiveness of antibiotics currently used for \nsurgical prophylaxis and treatment and may guide the appropriate selection of treatment \nof SSIs in rural Rwanda and comparable settings.\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "3\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\nexcept for December 16–28, when study activities ceased due to the holiday season. Study \nenrollment was planned until March 22, 2020, but ended eight days early when all non-essential \nactivities were shut down due to the COVID-19 pandemic. All women for whom study-related \nfollow-up was feasible, before COVID-19 distancing policies were implemented, were included. \nWomen from Mahama Refugee Camp were excluded because of the inability to complete study \nactivities due to restricted movement outside the camp. \nAll participants provided written informed consent and were enrolled on the first postoperative \nday (POD 1). Trained Rwandan study data collectors conducted interviews to collect demographic \nand clinical data. This data included an Ubudehe category which is a Rwandan socioeconomic \nclassification system where category 1 is the poorest and category 4 the least poor. Additional \nclinical data were extracted from medical charts. At discharge, an appointment was scheduled \nfor the study clinic (Figure 1) for POD 11 (+/− 3 days). This post-operative follow-up window was \nselected as SSIs most frequently develop between POD 5 and 10 [24], and expected to continue \nthrough POD 11. \nStudy clinics were held twice per week. If a participant missed the first clinic, she was called \nby telephone and a second visit date was scheduled. If she missed the second visit, she was \nconsidered lost to follow-up. Participants received a travel voucher to compensate for the time \nand the travel costs to attend the study clinic. Women who were not discharged, or who had been \nreadmitted before POD 11, were also scheduled to attend the study clinic. \nThe study clinic was run by one of two trained GPs, a hospital nurse, and a study member. Before \ncommencing data collection, two study GPs were trained to diagnose SSIs using the Center for \nDisease Control and Prevention guidelines [25] and to collect swabs. GPs first completed a REDCap \nsurvey collecting symptom data related to the surgical wound and then examined the wound \nfor presence of infection. If an SSI was detected, data on infection duration and treatment were \ncollected. \nIf an SSI was diagnosed, a swab sample was collected using the Levine technique [26]. The GP \nirrigated the wound using sterile saline and removed excess saline using a sterile gauze pad. A \nsterile rayon-tipped swab was applied to clean viable tissue at the deepest accessible part of the \nwound, gently pressed down, and turned to collect expressed fluid. The swab was immediately \nplaced in a tube containing Amies gel transport media, labeled with the patient initials, sample \ncode, and date and time of swab collection. \nTRANSPORT AND PROCESSING OF SAMPLES\nAll samples were transported to the Rwanda National Reference Laboratory (NRL) in Kigali \nwithin 36 hours of swab collection, using standard transportation procedures (triple packaging \nand cold chain). The NRL performed initial microbiology cultures, bacterial isolate identification, \nFigure 1 Overview of study \nprocesses. C-section:Cesarean \nsection; POD:Post-operative \nday; SSI:Surgical-site infection; \nGP:General practitioner; \nNRL:National Reference \nLaboratory.\n",
+   "n_chars": 3252,
+   "n_images": 1,
+   "blocks": [
+    {
+     "bbox": [
+      454.7,
+      40.9,
+      569.3,
+      67.7
+     ],
+     "text": "3\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      41.0,
+      434.4,
+      116.7
+     ],
+     "text": "except for December 16–28, when study activities ceased due to the holiday season. Study \nenrollment was planned until March 22, 2020, but ended eight days early when all non-essential \nactivities were shut down due to the COVID-19 pandemic. All women for whom study-related \nfollow-up was feasible, before COVID-19 distancing policies were implemented, were included. \nWomen from Mahama Refugee Camp were excluded because of the inability to complete study \nactivities due to restricted movement outside the camp. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      124.7,
+      434.4,
+      226.4
+     ],
+     "text": "All participants provided written informed consent and were enrolled on the first postoperative \nday (POD 1). Trained Rwandan study data collectors conducted interviews to collect demographic \nand clinical data. This data included an Ubudehe category which is a Rwandan socioeconomic \nclassification system where category 1 is the poorest and category 4 the least poor. Additional \nclinical data were extracted from medical charts. At discharge, an appointment was scheduled \nfor the study clinic (Figure 1) for POD 11 (+/− 3 days). This post-operative follow-up window was \nselected as SSIs most frequently develop between POD 5 and 10 [24], and expected to continue \nthrough POD 11. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      442.3,
+      434.3,
+      505.1
+     ],
+     "text": "Study clinics were held twice per week. If a participant missed the first clinic, she was called \nby telephone and a second visit date was scheduled. If she missed the second visit, she was \nconsidered lost to follow-up. Participants received a travel voucher to compensate for the time \nand the travel costs to attend the study clinic. Women who were not discharged, or who had been \nreadmitted before POD 11, were also scheduled to attend the study clinic. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      513.0,
+      434.4,
+      588.7
+     ],
+     "text": "The study clinic was run by one of two trained GPs, a hospital nurse, and a study member. Before \ncommencing data collection, two study GPs were trained to diagnose SSIs using the Center for \nDisease Control and Prevention guidelines [25] and to collect swabs. GPs first completed a REDCap \nsurvey collecting symptom data related to the surgical wound and then examined the wound \nfor presence of infection. If an SSI was detected, data on infection duration and treatment were \ncollected. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      596.7,
+      434.4,
+      672.4
+     ],
+     "text": "If an SSI was diagnosed, a swab sample was collected using the Levine technique [26]. The GP \nirrigated the wound using sterile saline and removed excess saline using a sterile gauze pad. A \nsterile rayon-tipped swab was applied to clean viable tissue at the deepest accessible part of the \nwound, gently pressed down, and turned to collect expressed fluid. The swab was immediately \nplaced in a tube containing Amies gel transport media, labeled with the patient initials, sample \ncode, and date and time of swab collection. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      687.3,
+      252.0,
+      699.9
+     ],
+     "text": "TRANSPORT AND PROCESSING OF SAMPLES\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      707.5,
+      434.3,
+      744.2
+     ],
+     "text": "All samples were transported to the Rwanda National Reference Laboratory (NRL) in Kigali \nwithin 36 hours of swab collection, using standard transportation procedures (triple packaging \nand cold chain). The NRL performed initial microbiology cultures, bacterial isolate identification, \n"
+    },
+    {
+     "bbox": [
+      454.7,
+      246.0,
+      565.8,
+      322.0
+     ],
+     "text": "Figure 1 Overview of study \nprocesses. C-section:Cesarean \nsection; POD:Post-operative \nday; SSI:Surgical-site infection; \nGP:General practitioner; \nNRL:National Reference \nLaboratory.\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "4\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\nand antimicrobial susceptibility testing, per NRL standard operating procedures. In high-income \nsettings, agar media made from sheep’s blood is the gold standard for laboratory analysis [27, 33]. \nDue to difficulties procuring sheep’s blood in Rwanda, human blood obtained from the National \nTransfusion Center was used to prepare blood agar plates, following NRL standard practice. \nAll cultures and AMR testing were carried out by a laboratory technician trained in the preparation of \nagar plates, Gram stains, bacterial growth analysis, and safe transportation of biohazard materials. \nPlates were incubated at 37 degrees Celsius and examined for growth after 24 hours. If no growth \nwas detected, plates were re-incubated for an additional 48 hours before being declared negative. \nIsolates were identified based on colony morphology, Gram stain, and the VITEK2 testing system. \nWhen growth was detected in the initial culture, Gram stain and subcultures were performed using \nenriched and selective media informed by the characteristics of the organism in the initial culture. \nAntimicrobial susceptibility for each isolate was determined using the VITEK2 testing system.\nDATA ANALYSIS AND MANAGEMENT\nAll data were stored securely in REDCap. Patient identifiers and confidential information, including \nname and hospital file number, were kept in a separate password-protected spreadsheet to \nfacilitate reporting of patient results and follow-up per phone in case of missing data. \nAll data were analyzed using Stata/IC 16.0. First, the overall bacterial profiles for each sample with \ngrowth were described. Then, AMR profiles were summarized as the proportion of pathogens which \nwere intermediate or resistant to the tested antibiotic, overall and by Gram category. When available \nbefore discharge, patient results were shared with hospital physicians for use in patient care. Participants \ndischarged before getting results were contacted by the study manager in collaboration with hospital \nhealth care providers to appropriately adjust treatment plans based on microbiology results.\nETHICS\nThis study conforms to the principles embodied in the Declaration of Helsinki and was approved by \nthe Rwandan National Ethical Committee (No.326/RNEC/2019) and the Harvard Human Resources \nProtection Program (IRB18-1033). The study received technical approval from Inshuti Mu Buzima’s \nResearch Committee (IMBRC). \nRESULTS\nOVERALL PATIENT DEMOGRAPHICS AND ANTIBIOTIC USE\nA total of 930 women were enrolled in the study, of whom 85.5% (n = 795) completed the POD \n11 study clinic visit. Of the 135 lost-to-follow-up, 66 (48.9%) had their scheduled study clinic visit \ncanceled due to the COVID-19 outbreak. The analysis was restricted to the 795 women for whom \nstudy follow-up was completed. The majority (n = 490, 61.6%) were in Ubudehe category 1 or 2. \nHIV seroprevalence was 0.7%. HIV prevalence and Ubudehe category did not differ significantly \nby SSI diagnosis. \nAntibiotic prescriptions\nPreoperative antibiotics were given to 88.8% (n = 815) of the participants, most commonly \nampicillin (n = 766, 94.0%). Postoperative antibiotics were prescribed to 95.9% (n = 883), most \ncommonly ampicillin (n = 486, 52.3%), followed by gentamicin (n = 447, 48.1%), metronidazole (n \n= 431, 46.3%), and ceftriaxone (n = 384, 41.3%). \nDETAILS OF SURGICAL SITE INFECTIONS\nAmong the 795 women who completed the POD 11 study visit, 45 (5.7%) were diagnosed with an \nSSI. Most (n = 40, 88.9%) SSIs were described as superficial, and five (11.1%) were deep (Table 1). \nNearly half of the participants (n = 21, 46.7%) had not noticed the infection prior to diagnosis, 17 \n(39.5%) had noticed it for 1–3 days and four (9.3%) had noticed it for 4–7 days. Forty-four (97.8%) \nhad open infections that could be swabbed using the Levine technique. \n",
+   "n_chars": 3902,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      454.7,
+      40.9,
+      569.3,
+      67.7
+     ],
+     "text": "4\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      41.0,
+      434.3,
+      90.7
+     ],
+     "text": "and antimicrobial susceptibility testing, per NRL standard operating procedures. In high-income \nsettings, agar media made from sheep’s blood is the gold standard for laboratory analysis [27, 33]. \nDue to difficulties procuring sheep’s blood in Rwanda, human blood obtained from the National \nTransfusion Center was used to prepare blood agar plates, following NRL standard practice. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      98.7,
+      434.3,
+      200.4
+     ],
+     "text": "All cultures and AMR testing were carried out by a laboratory technician trained in the preparation of \nagar plates, Gram stains, bacterial growth analysis, and safe transportation of biohazard materials. \nPlates were incubated at 37 degrees Celsius and examined for growth after 24 hours. If no growth \nwas detected, plates were re-incubated for an additional 48 hours before being declared negative. \nIsolates were identified based on colony morphology, Gram stain, and the VITEK2 testing system. \nWhen growth was detected in the initial culture, Gram stain and subcultures were performed using \nenriched and selective media informed by the characteristics of the organism in the initial culture. \nAntimicrobial susceptibility for each isolate was determined using the VITEK2 testing system.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      215.3,
+      215.7,
+      227.8
+     ],
+     "text": "DATA ANALYSIS AND MANAGEMENT\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      235.5,
+      434.3,
+      272.2
+     ],
+     "text": "All data were stored securely in REDCap. Patient identifiers and confidential information, including \nname and hospital file number, were kept in a separate password-protected spreadsheet to \nfacilitate reporting of patient results and follow-up per phone in case of missing data. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      280.2,
+      434.4,
+      355.9
+     ],
+     "text": "All data were analyzed using Stata/IC 16.0. First, the overall bacterial profiles for each sample with \ngrowth were described. Then, AMR profiles were summarized as the proportion of pathogens which \nwere intermediate or resistant to the tested antibiotic, overall and by Gram category. When available \nbefore discharge, patient results were shared with hospital physicians for use in patient care. Participants \ndischarged before getting results were contacted by the study manager in collaboration with hospital \nhealth care providers to appropriately adjust treatment plans based on microbiology results.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      370.8,
+      77.5,
+      383.4
+     ],
+     "text": "ETHICS\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      391.0,
+      434.4,
+      440.8
+     ],
+     "text": "This study conforms to the principles embodied in the Declaration of Helsinki and was approved by \nthe Rwandan National Ethical Committee (No.326/RNEC/2019) and the Harvard Human Resources \nProtection Program (IRB18-1033). The study received technical approval from Inshuti Mu Buzima’s \nResearch Committee (IMBRC). \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      461.4,
+      319.4,
+      488.9
+     ],
+     "text": "RESULTS\nOVERALL PATIENT DEMOGRAPHICS AND ANTIBIOTIC USE\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      496.5,
+      434.4,
+      572.3
+     ],
+     "text": "A total of 930 women were enrolled in the study, of whom 85.5% (n = 795) completed the POD \n11 study clinic visit. Of the 135 lost-to-follow-up, 66 (48.9%) had their scheduled study clinic visit \ncanceled due to the COVID-19 outbreak. The analysis was restricted to the 795 women for whom \nstudy follow-up was completed. The majority (n = 490, 61.6%) were in Ubudehe category 1 or 2. \nHIV seroprevalence was 0.7%. HIV prevalence and Ubudehe category did not differ significantly \nby SSI diagnosis. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      587.7,
+      145.8,
+      599.7
+     ],
+     "text": "Antibiotic prescriptions\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      604.5,
+      434.3,
+      654.3
+     ],
+     "text": "Preoperative antibiotics were given to 88.8% (n = 815) of the participants, most commonly \nampicillin (n = 766, 94.0%). Postoperative antibiotics were prescribed to 95.9% (n = 883), most \ncommonly ampicillin (n = 486, 52.3%), followed by gentamicin (n = 447, 48.1%), metronidazole (n \n= 431, 46.3%), and ceftriaxone (n = 384, 41.3%). \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      669.2,
+      238.7,
+      681.7
+     ],
+     "text": "DETAILS OF SURGICAL SITE INFECTIONS\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      689.4,
+      434.3,
+      752.1
+     ],
+     "text": "Among the 795 women who completed the POD 11 study visit, 45 (5.7%) were diagnosed with an \nSSI. Most (n = 40, 88.9%) SSIs were described as superficial, and five (11.1%) were deep (Table 1). \nNearly half of the participants (n = 21, 46.7%) had not noticed the infection prior to diagnosis, 17 \n(39.5%) had noticed it for 1–3 days and four (9.3%) had noticed it for 4–7 days. Forty-four (97.8%) \nhad open infections that could be swabbed using the Levine technique. \n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "5\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\nPathogens\nOf the 44 participants with SSI swabs collected, 77.3% (n = 34) of swab cultures showed single-\ncolony growth while 22.7% (n = 10) had mixed growth of at least two different isolates. In total, 57 \npotential pathogens were isolated, including 39 (68.4%) gram-negative isolates and 18 (31.6%) \ngram-positive. The most common gram-negative pathogens (Table 2) were Acinetobacter baumanii \ncomplex (23.1%), Proteus spp. (20.5%), Klebsiella pneumoniae (20.5%), and Enterobacter cloacae \ncomplex (20.5%). The most prevalent gram-positive bacteria (Table 3) were coagulase-negative \nstaphylococci (CoNS, 66.7%), Staphylococcus aureus (11.1%), and Lactococcus lactis (11.1%).\nn (%)\nSSI class\nSuperficial\n40 (88.9)\nDeep\n5 (11.1)\nTime noticed SSI*\nNever\n22 (48.9)\n1–3 days\n17 (37.8)\n4–7 days\n4 (8.9)\nOther post-operative complication\nHematoma\n3 (6.8)\nNone\n41 (93.2)\nSSI Treatment at POD 11 clinic**\nAntibiotics\n27 (61.4)\nDaily dressings\n17 (38.6)\nWound opening\n9 (20.5)\nHospital admission\n3 (6.8)\nTable 1 Characteristics of \nparticipants presenting with SSI \nin study clinic (N = 45), from \nwhich 44 had infections that \ncould be swabbed using the \nLevine Technique. \n* This data was missing from \ntwo patients with an SSI.\n** Some participants received \nmultiple treatments (N = 14, \n31.8%).\nGRAM-NEGATIVE, \nn = 39\nCTX\nn = 38\nCEFEP \nn = 39\nAMP \nn = 39\nAMOX/CLAV \nn = 39\nGENT \nn = 39\nAMIK \nn = 39\nCIPRO \nn = 39\nLEVOFLOX* \nn = 30\nPIP \nn = 39\nTETRA \nn = 39\nTMP-SMX \nn = 39\nIMI \nn = 39\nBacteria\nE. coli (n = 3)\n100\n100\n100\n0\n33\n0\n33\n0\n0\n66\n100\n0\nK. pneumoniae (n = 8)\n100\n88\n100\n100\n100\n0\n25\n0\n75\n88\n75\n0\nProteus. spp (n = 8)\n88\n88\n100\n25\n13\n63\n63\n67\n25\n100\n63\n38\nE. cloacae complex (n = 8)\n100\n100\n–\n100\n75\n13\n13\n0\n50\n75\n88\n13\nA. baumanii complex (n = 9)\n100\n78\n–\n–\n56\n–\n44\n0\n78\n56\n67\n11\nPseudomonas. spp (n = 2)\n–\n0\n–\n–\n0\n0\n0\n0\n0\n0\n0\n0\nS. paucimobilis n = 1)\n100\n100\n–\n–\n100\n100\n100\n0\n100\n100\n100\n0\nTable 2 Prevalence of gram-negative bacteria in SSI wound isolates and proportion testing intermediate or resistant to each antimicrobial.\nCTX:ceftriaxone; Cefep:cefepime; Amp:ampicillin; Amox/clav:amoxicillin-clavulanic acid; Gent:gentamicin; Amik:amikacin; Cipro:ciprofloxacin; \nLevoflox:levofloxacin; Pip:piperacillin-tazobactam; Tetra:tetracycline; TMP-SMX:trimethoprim-sulfamethoxazole; Imi:Imipenem; E. Coli:Escherichia \ncoli; K. pneumoniae:Klebsiella pneumoniae; Proteus spp:Proteus species; E. cloacae complex:Enterobacter cloacae complex; A. baumanii \ncomplex:Acinetobacter baumanii complex; Pseudomonas spp:Pseudomonas species; S. Paucimobilis:Sphingomonas paucimobilis. *Antibiotics that \nwere added to the testing panel 3 months into the study, % resistant/intermediate reported in table is based on number of isolates tested. – \nindicates “Not Tested”. All (n = 30, 100%) isolates tested were resistant to cefazolin and aztreonam. Of 30 isolates tested, 100% were susceptible to \nertapenem, one isolate had intermediate susceptibility towards meropenem. Of 30 isolates tested against nitrofurantoin, 100% of K. pneumoniae \nand Proteus spp., 67% of E. cloacae complex, and 0% of E. coli were intermediate/resistant.\n",
+   "n_chars": 3191,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      454.7,
+      40.9,
+      569.2,
+      67.7
+     ],
+     "text": "5\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      333.1,
+      90.0,
+      345.2
+     ],
+     "text": "Pathogens\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      350.0,
+      434.3,
+      438.7
+     ],
+     "text": "Of the 44 participants with SSI swabs collected, 77.3% (n = 34) of swab cultures showed single-\ncolony growth while 22.7% (n = 10) had mixed growth of at least two different isolates. In total, 57 \npotential pathogens were isolated, including 39 (68.4%) gram-negative isolates and 18 (31.6%) \ngram-positive. The most common gram-negative pathogens (Table 2) were Acinetobacter baumanii \ncomplex (23.1%), Proteus spp. (20.5%), Klebsiella pneumoniae (20.5%), and Enterobacter cloacae \ncomplex (20.5%). The most prevalent gram-positive bacteria (Table 3) were coagulase-negative \nstaphylococci (CoNS, 66.7%), Staphylococcus aureus (11.1%), and Lactococcus lactis (11.1%).\n"
+    },
+    {
+     "bbox": [
+      175.3,
+      47.0,
+      195.0,
+      56.4
+     ],
+     "text": "n (%)\n"
+    },
+    {
+     "bbox": [
+      48.4,
+      64.4,
+      77.1,
+      73.3
+     ],
+     "text": "SSI class\n"
+    },
+    {
+     "bbox": [
+      48.4,
+      81.3,
+      205.0,
+      90.3
+     ],
+     "text": "Superficial\n40 (88.9)\n"
+    },
+    {
+     "bbox": [
+      48.8,
+      98.3,
+      200.8,
+      107.3
+     ],
+     "text": "Deep\n5 (11.1)\n"
+    },
+    {
+     "bbox": [
+      48.0,
+      115.3,
+      106.7,
+      124.2
+     ],
+     "text": "Time noticed SSI*\n"
+    },
+    {
+     "bbox": [
+      48.8,
+      132.2,
+      204.7,
+      141.2
+     ],
+     "text": "Never\n22 (48.9)\n"
+    },
+    {
+     "bbox": [
+      47.9,
+      149.2,
+      204.8,
+      158.1
+     ],
+     "text": "1–3 days\n17 (37.8)\n"
+    },
+    {
+     "bbox": [
+      48.4,
+      166.2,
+      196.6,
+      175.1
+     ],
+     "text": "4–7 days\n4 (8.9)\n"
+    },
+    {
+     "bbox": [
+      48.8,
+      183.1,
+      163.1,
+      192.1
+     ],
+     "text": "Other post-operative complication\n"
+    },
+    {
+     "bbox": [
+      48.8,
+      200.1,
+      196.1,
+      209.0
+     ],
+     "text": "Hematoma\n3 (6.8)\n"
+    },
+    {
+     "bbox": [
+      48.8,
+      217.0,
+      205.0,
+      226.0
+     ],
+     "text": "None\n41 (93.2)\n"
+    },
+    {
+     "bbox": [
+      48.4,
+      234.0,
+      155.5,
+      243.0
+     ],
+     "text": "SSI Treatment at POD 11 clinic**\n"
+    },
+    {
+     "bbox": [
+      48.4,
+      251.0,
+      204.7,
+      259.9
+     ],
+     "text": "Antibiotics\n27 (61.4)\n"
+    },
+    {
+     "bbox": [
+      48.8,
+      267.9,
+      204.8,
+      276.9
+     ],
+     "text": "Daily dressings\n17 (38.6)\n"
+    },
+    {
+     "bbox": [
+      48.5,
+      284.9,
+      201.1,
+      293.9
+     ],
+     "text": "Wound opening\n9 (20.5)\n"
+    },
+    {
+     "bbox": [
+      48.8,
+      301.9,
+      196.1,
+      310.8
+     ],
+     "text": "Hospital admission\n3 (6.8)\n"
+    },
+    {
+     "bbox": [
+      454.7,
+      205.0,
+      569.9,
+      270.0
+     ],
+     "text": "Table 1 Characteristics of \nparticipants presenting with SSI \nin study clinic (N = 45), from \nwhich 44 had infections that \ncould be swabbed using the \nLevine Technique. \n"
+    },
+    {
+     "bbox": [
+      451.8,
+      274.3,
+      558.5,
+      327.9
+     ],
+     "text": "* This data was missing from \ntwo patients with an SSI.\n** Some participants received \nmultiple treatments (N = 14, \n31.8%).\n"
+    },
+    {
+     "bbox": [
+      46.7,
+      572.0,
+      112.5,
+      591.4
+     ],
+     "text": "GRAM-NEGATIVE, \nn = 39\n"
+    },
+    {
+     "bbox": [
+      146.0,
+      572.0,
+      168.6,
+      591.4
+     ],
+     "text": "CTX\nn = 38\n"
+    },
+    {
+     "bbox": [
+      182.9,
+      572.0,
+      206.9,
+      591.4
+     ],
+     "text": "CEFEP \nn = 39\n"
+    },
+    {
+     "bbox": [
+      214.8,
+      572.0,
+      237.1,
+      591.4
+     ],
+     "text": "AMP \nn = 39\n"
+    },
+    {
+     "bbox": [
+      245.3,
+      572.0,
+      290.2,
+      591.4
+     ],
+     "text": "AMOX/CLAV \nn = 39\n"
+    },
+    {
+     "bbox": [
+      295.0,
+      572.0,
+      318.1,
+      591.4
+     ],
+     "text": "GENT \nn = 39\n"
+    },
+    {
+     "bbox": [
+      329.3,
+      572.0,
+      352.1,
+      591.4
+     ],
+     "text": "AMIK \nn = 39\n"
+    },
+    {
+     "bbox": [
+      361.5,
+      572.0,
+      385.9,
+      591.4
+     ],
+     "text": "CIPRO \nn = 39\n"
+    },
+    {
+     "bbox": [
+      396.5,
+      572.0,
+      439.1,
+      591.4
+     ],
+     "text": "LEVOFLOX* \nn = 30\n"
+    },
+    {
+     "bbox": [
+      442.5,
+      572.0,
+      463.2,
+      591.4
+     ],
+     "text": "PIP \nn = 39\n"
+    },
+    {
+     "bbox": [
+      469.6,
+      572.0,
+      494.3,
+      591.4
+     ],
+     "text": "TETRA \nn = 39\n"
+    },
+    {
+     "bbox": [
+      502.6,
+      572.0,
+      538.4,
+      591.4
+     ],
+     "text": "TMP-SMX \nn = 39\n"
+    },
+    {
+     "bbox": [
+      544.0,
+      572.0,
+      566.1,
+      591.4
+     ],
+     "text": "IMI \nn = 39\n"
+    },
+    {
+     "bbox": [
+      46.8,
+      599.4,
+      74.2,
+      608.3
+     ],
+     "text": "Bacteria\n"
+    },
+    {
+     "bbox": [
+      46.8,
+      616.3,
+      548.4,
+      625.3
+     ],
+     "text": "E. coli (n = 3)\n100\n100\n100\n0\n33\n0\n33\n0\n0\n66\n100\n0\n"
+    },
+    {
+     "bbox": [
+      46.8,
+      633.3,
+      548.4,
+      642.3
+     ],
+     "text": "K. pneumoniae (n = 8)\n100\n88\n100\n100\n100\n0\n25\n0\n75\n88\n75\n0\n"
+    },
+    {
+     "bbox": [
+      46.8,
+      650.3,
+      551.8,
+      659.2
+     ],
+     "text": "Proteus. spp (n = 8)\n88\n88\n100\n25\n13\n63\n63\n67\n25\n100\n63\n38\n"
+    },
+    {
+     "bbox": [
+      46.8,
+      667.2,
+      551.9,
+      676.2
+     ],
+     "text": "E. cloacae complex (n = 8)\n100\n100\n–\n100\n75\n13\n13\n0\n50\n75\n88\n13\n"
+    },
+    {
+     "bbox": [
+      46.4,
+      684.2,
+      551.9,
+      693.2
+     ],
+     "text": "A. baumanii complex (n = 9)\n100\n78\n–\n–\n56\n–\n44\n0\n78\n56\n67\n11\n"
+    },
+    {
+     "bbox": [
+      46.8,
+      701.2,
+      548.4,
+      710.1
+     ],
+     "text": "Pseudomonas. spp (n = 2)\n–\n0\n–\n–\n0\n0\n0\n0\n0\n0\n0\n0\n"
+    },
+    {
+     "bbox": [
+      46.4,
+      718.1,
+      548.4,
+      727.1
+     ],
+     "text": "S. paucimobilis n = 1)\n100\n100\n–\n–\n100\n100\n100\n0\n100\n100\n100\n0\n"
+    },
+    {
+     "bbox": [
+      43.2,
+      457.5,
+      534.3,
+      467.5
+     ],
+     "text": "Table 2 Prevalence of gram-negative bacteria in SSI wound isolates and proportion testing intermediate or resistant to each antimicrobial.\n"
+    },
+    {
+     "bbox": [
+      43.4,
+      471.8,
+      571.1,
+      558.4
+     ],
+     "text": "CTX:ceftriaxone; Cefep:cefepime; Amp:ampicillin; Amox/clav:amoxicillin-clavulanic acid; Gent:gentamicin; Amik:amikacin; Cipro:ciprofloxacin; \nLevoflox:levofloxacin; Pip:piperacillin-tazobactam; Tetra:tetracycline; TMP-SMX:trimethoprim-sulfamethoxazole; Imi:Imipenem; E. Coli:Escherichia \ncoli; K. pneumoniae:Klebsiella pneumoniae; Proteus spp:Proteus species; E. cloacae complex:Enterobacter cloacae complex; A. baumanii \ncomplex:Acinetobacter baumanii complex; Pseudomonas spp:Pseudomonas species; S. Paucimobilis:Sphingomonas paucimobilis. *Antibiotics that \nwere added to the testing panel 3 months into the study, % resistant/intermediate reported in table is based on number of isolates tested. – \nindicates “Not Tested”. All (n = 30, 100%) isolates tested were resistant to cefazolin and aztreonam. Of 30 isolates tested, 100% were susceptible to \nertapenem, one isolate had intermediate susceptibility towards meropenem. Of 30 isolates tested against nitrofurantoin, 100% of K. pneumoniae \nand Proteus spp., 67% of E. cloacae complex, and 0% of E. coli were intermediate/resistant.\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "Antimicrobial susceptibility\nAll pathogens demonstrated resistance to at least one antibiotic. Gram-negative pathogens (n \n= 39) had reduced susceptibility to ampicillin (100% intermediate susceptibility or resistance), \nceftriaxone (92.1%), and cefepime (84.6%) (Table 2). Both (n = 2, 100%) S. aureus isolates were \nresistant to penicillin and cefoxitin (Table 3). \nSSI treatment\nNearly all (n = 42, 93.3%) participants with an SSI received treatment at the study clinic (Table \n1). Antibiotic administration was the most common treatment (n = 27, 61.4%), followed by daily \ndressing changes (n = 17, 38.6%). Twenty-seven (60.0%) patients with an SSI received at least \none antibiotic prescription from the study clinic, while six (13.3%) were prescribed two antibiotics. \nCloxacillin was the most commonly prescribed antibiotic (n = 17, 63.0%) followed by ceftriaxone \n(n = 7, 25.9%) and metronidazole (n = 6, 22.2%).\nDISCUSSION\nIn this prospective study, 5.7% of women delivering by c-section at a rural Rwandan hospital \ndeveloped an SSI between POD 8–14. Potential pathogens were isolated from all SSI swab cultures, \nand 77.3% grew a single bacterial isolate. Gram-negative pathogens were the most common, \nrepresenting 68.4% of all growth, similar to findings in other studies of SSIs and wound infections \nin SSA [6, 17–21, 23, 28]. The predominantly gram-negative pathogens in this study differ from the \nhistorical microbiology of c-section SSI pathogens in high-income settings, where gram-positive \nbacteria including S. aureus, and group A and B streptococcus are more prevalent [22, 29].\nThe majority of gram-positive bacteria isolated in our study were CoNS. Though CoNS can cause \ninfections, especially in immunocompromised patients, they are typically considered skin \ncontaminants [30, 31]. If we disregard CoNS, 86.7% of all potential pathogens isolated were gram-\nnegative. The high proportion of gram-negative bacteria could be the result of antibiotic selection \npressure from pre- and post-cesarean ampicillin administration, disproportionately killing gram-\npositive bacteria. Apart from CoNS, the most common pathogens isolated were A. baumanii, Proteus \nspp., K. pneumoniae, and E. cloacae. These bacteria are often associated with nosocomial infections \nand high morbidity [32, 33], potentially indicating a nosocomial source of SSI. Although not a \ntraditional pathogen in SSIs, recent studies have reported Acinetobacter as a cause of SSIs in resource-\nlimited settings [17, 34–37]. Moreover, third generation cephalosporins, including ceftriaxone, are a \nknown risk factor for developing Acinetobacter infection, which 4.3% of study participants received \nGRAM-POSITIVE, \nn = 18\nPCN \nn = 18\nOXA* \nn = 8\nCEFOX* \nn = 8\nTMP-SMX \nn = 18\nCLINDA** \nn = 18\nTETRA \nn = 18\nLEVOFLOX* \n⤉ n = 8\nVANC \nn = 18\nLINEZ* \nn = 8\nRIF* \nn = 8\nTIGE* \nn = 8\nTEICO* \nn = 8\nBacteria \n \nS. aureus (n = 2)\n100\n0\n100\n100\n0\n50\n0\n0\n0\n0\n0\n0\nCoNS (n = 12)\n100\n71\n29\n82\n55\n55\n29\n0\n0\n0\n0\n0\nS. pseudintermedius (n = 1)\n100\n–\n–\n100\n100\n100\n–\n100\n–\n–\n–\n–\nL. lactis spp (n = 2)\n100\n–\n–\n100\n100\n100\n–\n100\n–\n–\n–\n–\nK. rhizophilia (n = 1)\n100\n–\n–\n100\n100\n100\n–\n100\n–\n–\n–\n–\nTable 3 Prevalence of gram-positive bacteria in SSI wound isolates and proportion testing intermediate or resistant to each antimicrobial.\nPCN:penicillin; Oxa:oxacillin; Cefox:cefoxitin; TMP-SMX:trimethoprim-sulfamethoxazole; Clinda:clindamycin; Tetra:tetracycline; Levoflox:levofloxacin; \nVanc:vancomycin; Linez:linezolid; Rif:rifampicin; Tige:tigercycline; Teico:teicoplanin; S. aureus:Staphylococcus aureus; CoNS:coagulase-negative \nstaphylococci; S. pseudintermedius:Staphylococcus pseudintermedius: L. lactis spp:Lactococcus lactis species; K. rhizophilia:Kocuria rhizophilia. - \nindicates “Not Tested.” * Antibiotics that were added to the testing panel 3 months into the study, % resistant/intermediate reported in table is \nbased on number of isolates tested. ** Erythromycin susceptibility was concordant with clindamycin susceptibility except for one CoNS isolate \nthat is clindamycin susceptible but erythromycin resistant. Two CoNS and no S. aureus isolates had inducible clindamycin resistance. ⤉Moxifloxacin \nsusceptibility was fully concordant with levofloxacin susceptibility.\n",
+   "n_chars": 4255,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      42.5,
+      288.0,
+      163.8,
+      300.0
+     ],
+     "text": "Antimicrobial susceptibility\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      304.8,
+      434.3,
+      354.5
+     ],
+     "text": "All pathogens demonstrated resistance to at least one antibiotic. Gram-negative pathogens (n \n= 39) had reduced susceptibility to ampicillin (100% intermediate susceptibility or resistance), \nceftriaxone (92.1%), and cefepime (84.6%) (Table 2). Both (n = 2, 100%) S. aureus isolates were \nresistant to penicillin and cefoxitin (Table 3). \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      370.0,
+      105.1,
+      382.0
+     ],
+     "text": "SSI treatment\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      386.8,
+      435.8,
+      397.5
+     ],
+     "text": "Nearly all (n = 42, 93.3%) participants with an SSI received treatment at the study clinic (Table \n"
+    },
+    {
+     "bbox": [
+      42.1,
+      399.8,
+      434.3,
+      462.5
+     ],
+     "text": "1). Antibiotic administration was the most common treatment (n = 27, 61.4%), followed by daily \ndressing changes (n = 17, 38.6%). Twenty-seven (60.0%) patients with an SSI received at least \none antibiotic prescription from the study clinic, while six (13.3%) were prescribed two antibiotics. \nCloxacillin was the most commonly prescribed antibiotic (n = 17, 63.0%) followed by ceftriaxone \n(n = 7, 25.9%) and metronidazole (n = 6, 22.2%).\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      483.2,
+      115.7,
+      498.2
+     ],
+     "text": "DISCUSSION\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      505.3,
+      434.4,
+      594.1
+     ],
+     "text": "In this prospective study, 5.7% of women delivering by c-section at a rural Rwandan hospital \ndeveloped an SSI between POD 8–14. Potential pathogens were isolated from all SSI swab cultures, \nand 77.3% grew a single bacterial isolate. Gram-negative pathogens were the most common, \nrepresenting 68.4% of all growth, similar to findings in other studies of SSIs and wound infections \nin SSA [6, 17–21, 23, 28]. The predominantly gram-negative pathogens in this study differ from the \nhistorical microbiology of c-section SSI pathogens in high-income settings, where gram-positive \nbacteria including S. aureus, and group A and B streptococcus are more prevalent [22, 29].\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      602.0,
+      434.4,
+      742.7
+     ],
+     "text": "The majority of gram-positive bacteria isolated in our study were CoNS. Though CoNS can cause \ninfections, especially in immunocompromised patients, they are typically considered skin \ncontaminants [30, 31]. If we disregard CoNS, 86.7% of all potential pathogens isolated were gram-\nnegative. The high proportion of gram-negative bacteria could be the result of antibiotic selection \npressure from pre- and post-cesarean ampicillin administration, disproportionately killing gram-\npositive bacteria. Apart from CoNS, the most common pathogens isolated were A. baumanii, Proteus \nspp., K. pneumoniae, and E. cloacae. These bacteria are often associated with nosocomial infections \nand high morbidity [32, 33], potentially indicating a nosocomial source of SSI. Although not a \ntraditional pathogen in SSIs, recent studies have reported Acinetobacter as a cause of SSIs in resource-\nlimited settings [17, 34–37]. Moreover, third generation cephalosporins, including ceftriaxone, are a \nknown risk factor for developing Acinetobacter infection, which 4.3% of study participants received \n"
+    },
+    {
+     "bbox": [
+      47.0,
+      144.5,
+      110.4,
+      163.8
+     ],
+     "text": "GRAM-POSITIVE, \nn = 18\n"
+    },
+    {
+     "bbox": [
+      153.0,
+      144.5,
+      175.6,
+      163.8
+     ],
+     "text": "PCN \nn = 18\n"
+    },
+    {
+     "bbox": [
+      186.0,
+      144.5,
+      206.6,
+      163.8
+     ],
+     "text": "OXA* \nn = 8\n"
+    },
+    {
+     "bbox": [
+      216.0,
+      144.5,
+      244.5,
+      163.8
+     ],
+     "text": "CEFOX* \nn = 8\n"
+    },
+    {
+     "bbox": [
+      249.6,
+      144.5,
+      285.4,
+      163.8
+     ],
+     "text": "TMP-SMX \nn = 18\n"
+    },
+    {
+     "bbox": [
+      293.0,
+      144.5,
+      329.2,
+      163.8
+     ],
+     "text": "CLINDA** \nn = 18\n"
+    },
+    {
+     "bbox": [
+      334.6,
+      144.5,
+      359.3,
+      163.8
+     ],
+     "text": "TETRA \nn = 18\n"
+    },
+    {
+     "bbox": [
+      367.6,
+      144.5,
+      410.6,
+      165.4
+     ],
+     "text": "LEVOFLOX* \n⤉ n = 8\n"
+    },
+    {
+     "bbox": [
+      415.9,
+      144.5,
+      438.6,
+      163.8
+     ],
+     "text": "VANC \nn = 18\n"
+    },
+    {
+     "bbox": [
+      449.0,
+      144.5,
+      476.1,
+      163.8
+     ],
+     "text": "LINEZ* \nn = 8\n"
+    },
+    {
+     "bbox": [
+      482.0,
+      144.5,
+      500.0,
+      163.8
+     ],
+     "text": "RIF* \nn = 8\n"
+    },
+    {
+     "bbox": [
+      511.6,
+      144.5,
+      533.9,
+      163.8
+     ],
+     "text": "TIGE* \nn = 8\n"
+    },
+    {
+     "bbox": [
+      541.6,
+      144.5,
+      568.8,
+      163.8
+     ],
+     "text": "TEICO* \nn = 8\n"
+    },
+    {
+     "bbox": [
+      47.1,
+      171.9,
+      217.4,
+      180.8
+     ],
+     "text": "Bacteria \n \n"
+    },
+    {
+     "bbox": [
+      46.7,
+      188.8,
+      546.4,
+      197.8
+     ],
+     "text": "S. aureus (n = 2)\n100\n0\n100\n100\n0\n50\n0\n0\n0\n0\n0\n0\n"
+    },
+    {
+     "bbox": [
+      47.1,
+      205.8,
+      546.4,
+      214.7
+     ],
+     "text": "CoNS (n = 12)\n100\n71\n29\n82\n55\n55\n29\n0\n0\n0\n0\n0\n"
+    },
+    {
+     "bbox": [
+      46.7,
+      222.7,
+      542.3,
+      231.7
+     ],
+     "text": "S. pseudintermedius (n = 1)\n100\n–\n–\n100\n100\n100\n–\n100\n–\n–\n–\n–\n"
+    },
+    {
+     "bbox": [
+      47.2,
+      239.7,
+      542.3,
+      248.7
+     ],
+     "text": "L. lactis spp (n = 2)\n100\n–\n–\n100\n100\n100\n–\n100\n–\n–\n–\n–\n"
+    },
+    {
+     "bbox": [
+      47.2,
+      256.7,
+      542.3,
+      265.6
+     ],
+     "text": "K. rhizophilia (n = 1)\n100\n–\n–\n100\n100\n100\n–\n100\n–\n–\n–\n–\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      41.0,
+      530.1,
+      51.0
+     ],
+     "text": "Table 3 Prevalence of gram-positive bacteria in SSI wound isolates and proportion testing intermediate or resistant to each antimicrobial.\n"
+    },
+    {
+     "bbox": [
+      42.7,
+      55.3,
+      564.4,
+      130.8
+     ],
+     "text": "PCN:penicillin; Oxa:oxacillin; Cefox:cefoxitin; TMP-SMX:trimethoprim-sulfamethoxazole; Clinda:clindamycin; Tetra:tetracycline; Levoflox:levofloxacin; \nVanc:vancomycin; Linez:linezolid; Rif:rifampicin; Tige:tigercycline; Teico:teicoplanin; S. aureus:Staphylococcus aureus; CoNS:coagulase-negative \nstaphylococci; S. pseudintermedius:Staphylococcus pseudintermedius: L. lactis spp:Lactococcus lactis species; K. rhizophilia:Kocuria rhizophilia. - \nindicates “Not Tested.” * Antibiotics that were added to the testing panel 3 months into the study, % resistant/intermediate reported in table is \nbased on number of isolates tested. ** Erythromycin susceptibility was concordant with clindamycin susceptibility except for one CoNS isolate \nthat is clindamycin susceptible but erythromycin resistant. Two CoNS and no S. aureus isolates had inducible clindamycin resistance. ⤉Moxifloxacin \nsusceptibility was fully concordant with levofloxacin susceptibility.\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "7\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\npre-operatively and 41.3% postoperatively. All Acinetobacter, Klebsiella, Proteus, and Enterobacter \ncloacae isolates in this study demonstrated high levels of AMR, including non-susceptibility to \nimipenem, an antibiotic not available at Rwandan district hospitals. Another unusual wound isolate \nwas L. lactis, only rarely reported as a pathogen in patients consuming unpasteurized milk [38]. To \nthe best of the team’s knowledge, this study is the first to demonstrate L. lactis in an SSI swab. This \nfinding could result from the traditional medical practice of using dairy paste on the wound site to \npromote healing or could also represent contamination and is important to study further.\nSimilar to other studies in SSA, this study, despite the small sample, indicates likelihood of high \nrates of AMR [6, 17–21]. Although AMR is a global threat, widespread AMR in LMICs like Rwanda \nis especially concerning as antibiotic availability is more limited than in high-income countries. \nAlthough WHO recommends a single dose of pre-cesarean antibiotic prophylaxis to reduce SSI \nrisk [5], we found that they were inconsistently given to study participants. Further, prophylactic \npostoperative antibiotics, not recommended by WHO, were prescribed in almost all cases. Universal \nampicillin resistance among bacterial SSI isolates in this study may be a result of its long-term and \nfrequent use preoperatively, and could indicate the need to reconsider its use as a post-operative \nprescription also, as it is likely adding to further resistance–with limited clinical benefit. In this \nstudy, both S. aureus isolates were resistant to cefoxitin, indicating methicillin resistance (MRSA).\nThis study has several limitations. Firstly, data collection was stopped three weeks early due to the \nCOVID-19 outbreak. As a result, 66 participants were unable to attend the scheduled study clinic on \nPOD 11, leading to a slightly reduced study population. Another limitation is that the postoperative \nantibiotic use may be inaccurately assessed as adherence to prescriptions was not measured. \nFurthermore, participants may have also used non-prescribed antibiotics, potentially interfering \nwith microbiology culture results. The usefulness of wound cultures is also debated, as surgical sites \nare a non-sterile environment, and even when using semi-sterile techniques–as performed in our \nstudy–skin colonizers or wound contaminants may be sampled and misinterpreted as pathogens \n[39]. In this study, several likely non-pathogenic isolates were found, including Lactococcus, Kocuria, \nand CoNS, which could indicate that swabs were contaminated or that the true pathogen or site \nof infection was not accessed using an appropriate swabbing technique. Although all participants \ndiagnosed clinically with an SSI in our study had growth in microbiology cultures, there is a risk of \nfalse-negative culture results due to incorrect swab technique or prior antibiotic treatment [39]. \nMoreover, because of the need for bacteria to grow in culture and sub-culture before resistance \ntesting can be performed, results may take 36–48 hours to return, limiting their clinical utility at \nthis time [39]. Finally, in this study, five (0.6%) patients received a non-standardized POD 11 exam \nby a non-study GP due to unavailability of study GPs, and one patient (0.1%) left the clinic before \nbeing seen by the doctor. These aberrancies are unlikely to affect our main study findings since \nthey represent <1% of our results.\nThe extent to which the results in this study can be generalized and applied to SSIs in other LMIC \nsettings is unclear. This study was carried out at a rural district hospital, which serves a largely \nrural patient population with unique environmental exposures, antibiotic access, and social \ndeterminants of health. However, the pathogens isolated, and AMR profiling results are similar to \nregional and tertiary-level hospitals in the region [17, 23, 28], suggesting that these findings are \nlikely generalizable to other contexts in the region. Secondly, this team studied SSIs in women who \nhad undergone c-sections, a patient group who, in comparison with the general population, may \nhave a lower HIV seroprevalence, diabetes, and other co-morbidities which would predispose to \nSSIs or AMR. However, as in other SSA countries, the majority of surgeries performed in Rwanda \nare c-sections, most of which occur at district hospitals. Thus, these findings likely reflect practices, \noutcomes, and challenges common across SSA and demonstrate the need for further research on \nAMR in SSIs and increased antimicrobial stewardship efforts throughout SSA. \nCONCLUSIONS\nIn this first published study on SSI pathogens and AMR profiles of women delivering via c-section \nin a rural district hospital in Africa, patterns different from those most commonly reported in high-\n",
+   "n_chars": 4954,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      454.7,
+      40.9,
+      569.5,
+      67.7
+     ],
+     "text": "7\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      41.0,
+      434.3,
+      129.7
+     ],
+     "text": "pre-operatively and 41.3% postoperatively. All Acinetobacter, Klebsiella, Proteus, and Enterobacter \ncloacae isolates in this study demonstrated high levels of AMR, including non-susceptibility to \nimipenem, an antibiotic not available at Rwandan district hospitals. Another unusual wound isolate \nwas L. lactis, only rarely reported as a pathogen in patients consuming unpasteurized milk [38]. To \nthe best of the team’s knowledge, this study is the first to demonstrate L. lactis in an SSI swab. This \nfinding could result from the traditional medical practice of using dairy paste on the wound site to \npromote healing or could also represent contamination and is important to study further.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      137.7,
+      434.4,
+      265.4
+     ],
+     "text": "Similar to other studies in SSA, this study, despite the small sample, indicates likelihood of high \nrates of AMR [6, 17–21]. Although AMR is a global threat, widespread AMR in LMICs like Rwanda \nis especially concerning as antibiotic availability is more limited than in high-income countries. \nAlthough WHO recommends a single dose of pre-cesarean antibiotic prophylaxis to reduce SSI \nrisk [5], we found that they were inconsistently given to study participants. Further, prophylactic \npostoperative antibiotics, not recommended by WHO, were prescribed in almost all cases. Universal \nampicillin resistance among bacterial SSI isolates in this study may be a result of its long-term and \nfrequent use preoperatively, and could indicate the need to reconsider its use as a post-operative \nprescription also, as it is likely adding to further resistance–with limited clinical benefit. In this \nstudy, both S. aureus isolates were resistant to cefoxitin, indicating methicillin resistance (MRSA).\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      273.3,
+      434.4,
+      518.1
+     ],
+     "text": "This study has several limitations. Firstly, data collection was stopped three weeks early due to the \nCOVID-19 outbreak. As a result, 66 participants were unable to attend the scheduled study clinic on \nPOD 11, leading to a slightly reduced study population. Another limitation is that the postoperative \nantibiotic use may be inaccurately assessed as adherence to prescriptions was not measured. \nFurthermore, participants may have also used non-prescribed antibiotics, potentially interfering \nwith microbiology culture results. The usefulness of wound cultures is also debated, as surgical sites \nare a non-sterile environment, and even when using semi-sterile techniques–as performed in our \nstudy–skin colonizers or wound contaminants may be sampled and misinterpreted as pathogens \n[39]. In this study, several likely non-pathogenic isolates were found, including Lactococcus, Kocuria, \nand CoNS, which could indicate that swabs were contaminated or that the true pathogen or site \nof infection was not accessed using an appropriate swabbing technique. Although all participants \ndiagnosed clinically with an SSI in our study had growth in microbiology cultures, there is a risk of \nfalse-negative culture results due to incorrect swab technique or prior antibiotic treatment [39]. \nMoreover, because of the need for bacteria to grow in culture and sub-culture before resistance \ntesting can be performed, results may take 36–48 hours to return, limiting their clinical utility at \nthis time [39]. Finally, in this study, five (0.6%) patients received a non-standardized POD 11 exam \nby a non-study GP due to unavailability of study GPs, and one patient (0.1%) left the clinic before \nbeing seen by the doctor. These aberrancies are unlikely to affect our main study findings since \nthey represent <1% of our results.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      526.0,
+      434.4,
+      679.7
+     ],
+     "text": "The extent to which the results in this study can be generalized and applied to SSIs in other LMIC \nsettings is unclear. This study was carried out at a rural district hospital, which serves a largely \nrural patient population with unique environmental exposures, antibiotic access, and social \ndeterminants of health. However, the pathogens isolated, and AMR profiling results are similar to \nregional and tertiary-level hospitals in the region [17, 23, 28], suggesting that these findings are \nlikely generalizable to other contexts in the region. Secondly, this team studied SSIs in women who \nhad undergone c-sections, a patient group who, in comparison with the general population, may \nhave a lower HIV seroprevalence, diabetes, and other co-morbidities which would predispose to \nSSIs or AMR. However, as in other SSA countries, the majority of surgeries performed in Rwanda \nare c-sections, most of which occur at district hospitals. Thus, these findings likely reflect practices, \noutcomes, and challenges common across SSA and demonstrate the need for further research on \nAMR in SSIs and increased antimicrobial stewardship efforts throughout SSA. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      700.4,
+      126.2,
+      715.4
+     ],
+     "text": "CONCLUSIONS\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      722.5,
+      434.3,
+      746.2
+     ],
+     "text": "In this first published study on SSI pathogens and AMR profiles of women delivering via c-section \nin a rural district hospital in Africa, patterns different from those most commonly reported in high-\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "8\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\nincome countries were identified, but were similar to reports from urban and tertiary hospitals \nin SSA. Pathogens isolated from SSI swab cultures, which were predominantly gram-negative \nbacteria, differed from those most commonly reported from high-income countries. Findings \nof high rates of resistance to available antibiotics is consistent with the concerning global trend \ntowards highly resistant pathogens and lack of effective treatment options, especially in a resource-\nconstrained environment. Additional research is needed to determine risk factors contributing to \nthe high prevalence of gram-negative and resistant pathogens identified in order to guide context-\nappropriate care and mitigate infection risks. These data can inform the development of evidence-\nbased protocols for rational use of antibiotics in SSI prevention and treatment in rural Rwanda and \ncomparable settings.\nPATIENT AND PUBLIC INVOLVEMENT\nPatients and public were not involved in the design of the study. Community health workers \nwere involved in the implementation of the larger study, in which this study was nested, through \nhome visits to patients. Due to COVID-19, dissemination of the study results have not yet involved \npatients or the public, but the team plans to involve patients and public in dissemination through \ninforming treatment protocols. \nACKNOWLEDGEMENTS\nWe are grateful to all study participants and the staff at Kirehe District Hospital. We would also \nlike to thank study collaborators: Anne Niyigena, Laban Bikorimana, Elizabeth Miranda, and Carol \nMugabo.\nFUNDING INFORMATION\nThis work was supported by the National Institutes of Health (NIH R21TW011229); the William F. \nMilton Fund; and the Harvard Medical School Center for Global Health Delivery–Dubai. This study \nwas nested in a parent study funded by the National Institutes of Health (NIH R21TW011229) and \nalso received support from Partners In Health-Rwanda. Lisa Bebell was funded by the National \nInstitutes of Health (NIH K23AI138856).\nCOMPETING INTERESTS\nThe authors have no competing interests to declare.\nAUTHOR CONTRIBUTIONS\nLV: Data collection, visualisation of tables and figures, formal analysis, writing of original draft and \nediting. GU: Conceptualisation, design and validation of methodology, critically reviewing the writing \nand editing. RR: Conceptualisation, design and validation of methodology, critically reviewing the \nwriting and editing. MM: Data collection, reviewed the writing and editing. LMB: Conceptualisation, \ndesign and validation of methodology, critically reviewing the writing and editing. MY: Data \ncollection, critically reviewed the writing and editing. KF: Conceptualisation, critically reviewed \nthe writing and editing. TN: Conceptualisation, design and validation of methodology, critically \nreviewing the writing and editing. GR: Conceptualisation, critically reviewing the writing and editing. \nJDD: Conceptualisation, critically reviewing the writing and editing. IE: Conceptualisation, critically \nreviewing the writing and editing. BLHG: Conceptualisation, design and validation of methodology, \ncritically reviewing the writing and editing, supervision. FK: Conceptualisation, design and validation \nof methodology, critically reviewing the writing and editing, supervision. All authors gave approval \nbefore submission.\n",
+   "n_chars": 3414,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      454.7,
+      40.9,
+      569.1,
+      67.7
+     ],
+     "text": "8\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      41.0,
+      434.3,
+      168.7
+     ],
+     "text": "income countries were identified, but were similar to reports from urban and tertiary hospitals \nin SSA. Pathogens isolated from SSI swab cultures, which were predominantly gram-negative \nbacteria, differed from those most commonly reported from high-income countries. Findings \nof high rates of resistance to available antibiotics is consistent with the concerning global trend \ntowards highly resistant pathogens and lack of effective treatment options, especially in a resource-\nconstrained environment. Additional research is needed to determine risk factors contributing to \nthe high prevalence of gram-negative and resistant pathogens identified in order to guide context-\nappropriate care and mitigate infection risks. These data can inform the development of evidence-\nbased protocols for rational use of antibiotics in SSI prevention and treatment in rural Rwanda and \ncomparable settings.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      189.4,
+      255.2,
+      204.4
+     ],
+     "text": "PATIENT AND PUBLIC INVOLVEMENT\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      211.5,
+      434.4,
+      274.2
+     ],
+     "text": "Patients and public were not involved in the design of the study. Community health workers \nwere involved in the implementation of the larger study, in which this study was nested, through \nhome visits to patients. Due to COVID-19, dissemination of the study results have not yet involved \npatients or the public, but the team plans to involve patients and public in dissemination through \ninforming treatment protocols. \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      294.9,
+      172.8,
+      309.9
+     ],
+     "text": "ACKNOWLEDGEMENTS\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      317.0,
+      434.3,
+      353.8
+     ],
+     "text": "We are grateful to all study participants and the staff at Kirehe District Hospital. We would also \nlike to thank study collaborators: Anne Niyigena, Laban Bikorimana, Elizabeth Miranda, and Carol \nMugabo.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      374.4,
+      185.9,
+      389.4
+     ],
+     "text": "FUNDING INFORMATION\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      396.5,
+      434.4,
+      459.3
+     ],
+     "text": "This work was supported by the National Institutes of Health (NIH R21TW011229); the William F. \nMilton Fund; and the Harvard Medical School Center for Global Health Delivery–Dubai. This study \nwas nested in a parent study funded by the National Institutes of Health (NIH R21TW011229) and \nalso received support from Partners In Health-Rwanda. Lisa Bebell was funded by the National \nInstitutes of Health (NIH K23AI138856).\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      479.9,
+      179.6,
+      494.9
+     ],
+     "text": "COMPETING INTERESTS\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      502.0,
+      251.5,
+      512.8
+     ],
+     "text": "The authors have no competing interests to declare.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      533.4,
+      192.3,
+      548.4
+     ],
+     "text": "AUTHOR CONTRIBUTIONS\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      555.5,
+      434.4,
+      722.3
+     ],
+     "text": "LV: Data collection, visualisation of tables and figures, formal analysis, writing of original draft and \nediting. GU: Conceptualisation, design and validation of methodology, critically reviewing the writing \nand editing. RR: Conceptualisation, design and validation of methodology, critically reviewing the \nwriting and editing. MM: Data collection, reviewed the writing and editing. LMB: Conceptualisation, \ndesign and validation of methodology, critically reviewing the writing and editing. MY: Data \ncollection, critically reviewed the writing and editing. KF: Conceptualisation, critically reviewed \nthe writing and editing. TN: Conceptualisation, design and validation of methodology, critically \nreviewing the writing and editing. GR: Conceptualisation, critically reviewing the writing and editing. \nJDD: Conceptualisation, critically reviewing the writing and editing. IE: Conceptualisation, critically \nreviewing the writing and editing. BLHG: Conceptualisation, design and validation of methodology, \ncritically reviewing the writing and editing, supervision. FK: Conceptualisation, design and validation \nof methodology, critically reviewing the writing and editing, supervision. All authors gave approval \nbefore submission.\n"
+    }
+   ]
+  },
+  {
+   "page": 9,
+   "text": "9\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\nAUTHOR AFFILIATIONS\nLotta Velin \n orcid.org/0000-0002-1929-6011\nProgram in Global Surgery and Social Change, Harvard Medical School, Boston, MA, USA; Partners In Health, \nKigali, Rwanda; Surgery and Public Health, Department of Clinical Sciences Lund, Faculty of Medicine, Lund \nUniversity, Lund, Sweden\nGrace Umutesi, MPH \n orcid.org/0000-0001-5932-3187\nPartners In Health, Kigali, Rwanda \nRobert Riviello, MD, MPH \n orcid.org/0000-0003-3783-153X\nProgram in Global Surgery and Social Change, Harvard Medical School, Boston, MA, USA; Center for Surgery \nand Public Health, Brigham and Women’s Hospital, Boston, MA, USA\nMoses Muwanguzi, BSc \nPartners In Health, Kigali, Rwanda \nLisa M. Bebell, MD \n orcid.org/0000-0003-0077-6522\nMassachusetts General Hospital Division of Infectious Diseases, Medical Practice Evaluation Center, and MGH \nCenter for Global Health, Boston, MA, USA\nMarthe Yankurije, BSN \nPartners In Health, Kigali, Rwanda \nKara Faktor, BS \nDepartment of Global Health and Social Medicine, Harvard Medical School, Boston, MA, USA\nTheoneste Nkurunziza, MPH \n orcid.org/0000-0002-5475-3396\nPartners In Health, Kigali, Rwanda; Epidemiology, Department for Sport and Health Sciences, Technical \nUniversity of Munich, Munich, Germany\nGilbert Rukundo, MSc \n orcid.org/0000-0003-1054-4039\nPartners In Health, Kigali, Rwanda \nJean de Dieu Gatete, MD \nPartners In Health, Kigali, Rwanda \nIvan Emil, PhD\nNational Reference Laboratory, Kigali, Rwanda\nBethany L. Hedt-Gauthier, PhD \n orcid.org/0000-0002-9689-5413\nProgram in Global Surgery and Social Change, Harvard Medical School, Boston, MA, USA; Department of \nGlobal Health and Social Medicine, Harvard Medical School, Boston, MA, USA\nFredrick Kateera, MD, PhD \nPartners In Health, Kigali, Rwanda \nREFERENCES\n1.\t\nBoerma T, Ronsmans C, Melesse DY, et al. Global epidemiology of use of and disparities in caesarean \nsections. Lancet Lond Engl. 2018; 392(10155): 1341–1348. DOI: https://doi.org/10.1016/S0140-\n6736(18)31928-7\n2.\t\nWorld Health Organization. Appropriate technology for birth. Lancet Lond Engl. 1985; 2(8452): 436–437. \nDOI: https://doi.org/10.1016/S0140-6736(85)92750-3\n3.\t\nBetran AP, Ye J, Moller A-B, Zhang J, Gulmezoglu AM, Torloni MR. The increasing trend in caesarean \nsection rates: Global, regional and national estimates: 1990–2014. PloS One. 2016; 11(2): e0148343. \nDOI: https://doi.org/10.1371/journal.pone.0148343\n4.\t\nMeara JG, Leather AJM, Hagander L, et al. Global surgery 2030: Evidence and solutions for achieving \nhealth, welfare, and economic development. The Lancet. 2015; 386(9993): 569–624. DOI: https://doi.\norg/10.1016/S0140-6736(15)60160-X\n5.\t\nWorld Health Organization. Global guidelines on the prevention of surgical site infection. Published \nonline 2016. Accessed April 3, 2020. https://www.who.int/gpsc/ssi-prevention-guidelines/en/.\n6.\t\nChu K, Maine R, Trelles M. Cesarean section surgical site infections in sub-Saharan Africa: A multi-\ncountry study from Medecins Sans Frontieres. World J Surg. 2015; 39(2): 350–355. DOI: https://doi.\norg/10.1007/s00268-014-2840-4\n7.\t\nAmenu D, Belachew T, Araya F. Surgical site infection rate and risk factors among obstetric cases of \nJimma University specialized hospital, southwest Ethiopia. Ethiop J Health Sci. 2011;21(2):91–100. DOI: \nhttps://doi.org/10.4314/ejhs.v21i2.69049\n8.\t\nKoigi-Kamau R, Kabare LW, Wanyoike-Gichuhi J. Incidence of wound infection after caesarean delivery \nin a district hospital in central Kenya. East Afr Med J. 2005; 82(7): 357–361. DOI: https://doi.org/10.4314/\neamj.v82i12.9368\n",
+   "n_chars": 3612,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      42.5,
+      39.8,
+      569.2,
+      67.7
+     ],
+     "text": "9\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\nAUTHOR AFFILIATIONS\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      60.4,
+      423.9,
+      103.4
+     ],
+     "text": "Lotta Velin \n orcid.org/0000-0002-1929-6011\nProgram in Global Surgery and Social Change, Harvard Medical School, Boston, MA, USA; Partners In Health, \nKigali, Rwanda; Surgery and Public Health, Department of Clinical Sciences Lund, Faculty of Medicine, Lund \nUniversity, Lund, Sweden\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      107.2,
+      247.7,
+      128.2
+     ],
+     "text": "Grace Umutesi, MPH \n orcid.org/0000-0001-5932-3187\nPartners In Health, Kigali, Rwanda \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      132.0,
+      421.4,
+      164.0
+     ],
+     "text": "Robert Riviello, MD, MPH \n orcid.org/0000-0003-3783-153X\nProgram in Global Surgery and Social Change, Harvard Medical School, Boston, MA, USA; Center for Surgery \nand Public Health, Brigham and Women’s Hospital, Boston, MA, USA\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      167.9,
+      165.0,
+      188.9
+     ],
+     "text": "Moses Muwanguzi, BSc \nPartners In Health, Kigali, Rwanda \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      192.7,
+      429.2,
+      224.7
+     ],
+     "text": "Lisa M. Bebell, MD \n orcid.org/0000-0003-0077-6522\nMassachusetts General Hospital Division of Infectious Diseases, Medical Practice Evaluation Center, and MGH \nCenter for Global Health, Boston, MA, USA\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      228.5,
+      165.0,
+      249.5
+     ],
+     "text": "Marthe Yankurije, BSN \nPartners In Health, Kigali, Rwanda \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      253.4,
+      366.3,
+      274.4
+     ],
+     "text": "Kara Faktor, BS \nDepartment of Global Health and Social Medicine, Harvard Medical School, Boston, MA, USA\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      278.2,
+      408.1,
+      310.2
+     ],
+     "text": "Theoneste Nkurunziza, MPH \n orcid.org/0000-0002-5475-3396\nPartners In Health, Kigali, Rwanda; Epidemiology, Department for Sport and Health Sciences, Technical \nUniversity of Munich, Munich, Germany\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      314.0,
+      251.6,
+      335.1
+     ],
+     "text": "Gilbert Rukundo, MSc \n orcid.org/0000-0003-1054-4039\nPartners In Health, Kigali, Rwanda \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      338.9,
+      165.0,
+      359.9
+     ],
+     "text": "Jean de Dieu Gatete, MD \nPartners In Health, Kigali, Rwanda \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      363.7,
+      206.5,
+      384.7
+     ],
+     "text": "Ivan Emil, PhD\nNational Reference Laboratory, Kigali, Rwanda\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      388.5,
+      409.8,
+      420.6
+     ],
+     "text": "Bethany L. Hedt-Gauthier, PhD \n orcid.org/0000-0002-9689-5413\nProgram in Global Surgery and Social Change, Harvard Medical School, Boston, MA, USA; Department of \nGlobal Health and Social Medicine, Harvard Medical School, Boston, MA, USA\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      424.4,
+      165.0,
+      445.4
+     ],
+     "text": "Fredrick Kateera, MD, PhD \nPartners In Health, Kigali, Rwanda \n"
+    },
+    {
+     "bbox": [
+      42.5,
+      463.5,
+      116.2,
+      478.5
+     ],
+     "text": "REFERENCES\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      485.1,
+      434.0,
+      747.1
+     ],
+     "text": "1.\t\nBoerma T, Ronsmans C, Melesse DY, et al. Global epidemiology of use of and disparities in caesarean \nsections. Lancet Lond Engl. 2018; 392(10155): 1341–1348. DOI: https://doi.org/10.1016/S0140-\n6736(18)31928-7\n2.\t\nWorld Health Organization. Appropriate technology for birth. Lancet Lond Engl. 1985; 2(8452): 436–437. \nDOI: https://doi.org/10.1016/S0140-6736(85)92750-3\n3.\t\nBetran AP, Ye J, Moller A-B, Zhang J, Gulmezoglu AM, Torloni MR. The increasing trend in caesarean \nsection rates: Global, regional and national estimates: 1990–2014. PloS One. 2016; 11(2): e0148343. \nDOI: https://doi.org/10.1371/journal.pone.0148343\n4.\t\nMeara JG, Leather AJM, Hagander L, et al. Global surgery 2030: Evidence and solutions for achieving \nhealth, welfare, and economic development. The Lancet. 2015; 386(9993): 569–624. DOI: https://doi.\norg/10.1016/S0140-6736(15)60160-X\n5.\t\nWorld Health Organization. Global guidelines on the prevention of surgical site infection. Published \nonline 2016. Accessed April 3, 2020. https://www.who.int/gpsc/ssi-prevention-guidelines/en/.\n6.\t\nChu K, Maine R, Trelles M. Cesarean section surgical site infections in sub-Saharan Africa: A multi-\ncountry study from Medecins Sans Frontieres. World J Surg. 2015; 39(2): 350–355. DOI: https://doi.\norg/10.1007/s00268-014-2840-4\n7.\t\nAmenu D, Belachew T, Araya F. Surgical site infection rate and risk factors among obstetric cases of \nJimma University specialized hospital, southwest Ethiopia. Ethiop J Health Sci. 2011;21(2):91–100. DOI: \nhttps://doi.org/10.4314/ejhs.v21i2.69049\n8.\t\nKoigi-Kamau R, Kabare LW, Wanyoike-Gichuhi J. Incidence of wound infection after caesarean delivery \nin a district hospital in central Kenya. East Afr Med J. 2005; 82(7): 357–361. DOI: https://doi.org/10.4314/\neamj.v82i12.9368\n"
+    }
+   ]
+  },
+  {
+   "page": 10,
+   "text": "10\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\n9.\t\nBukasa JC, Kadiata A, Kabongo AG, et al. Factors associated with acquired Infections caesarian wounds \nin maternity Mbuji-Mayi/DR Congo. Open Access Libr J. 2018; 5(3): 1–14. DOI: https://doi.org/10.4236/\noalib.1104437\n10.\t De Nardo P, Gentilotti E, Nguhuni B, et al. Post-caesarean section surgical site infections at a Tanzanian \ntertiary hospital: A prospective observational study. J Hosp Infect. 2016; 93(4): 355–359. DOI: https://doi.\norg/10.1016/j.jhin.2016.02.021\n11.\t Morisaki N, Ganchimeg T, Ota E, et al. Maternal and institutional characteristics associated with the \nadministration of prophylactic antibiotics for caesarean section: A secondary analysis of the World \nHealth Organization Multicountry Survey on Maternal and Newborn Health. BJOG Int J Obstet Gynaecol. \n2014; 121(Suppl1): 66–75. DOI: https://doi.org/10.1111/1471-0528.12632\n12.\t Kateera F. The gap between international guidelines and antibiotic prescriptions for caesarean section \npatients at a rural hospital in eastern Rwanda [abstract]. East Cent Afr J Surg. Published online 2018. \n23(3): 131–132.\n13.\t Ventola CL. The antibiotic resistance crisis: Part 1: Causes and threats. P T Peer-Rev J Formul Manag. \n2015; 40(4): 277–283.\n14.\t World Health Organization. Antimicrobial Resistance. World Health Organization Newsroom. Published \nFebruary 15, 2018. Accessed April 2, 2020. https://www.who.int/news-room/fact-sheets/detail/\nantimicrobial-resistance.\n15.\t Llor C, Bjerrum L. Antimicrobial resistance: Risk associated with antibiotic overuse and \ninitiatives to reduce the problem. Ther Adv Drug Saf. 2014; 5(6): 229–241. DOI: https://doi.\norg/10.1177/2042098614554919\n16.\t Melzer M, Petersen I. Mortality following bacteraemic infection caused by extended spectrum beta-\nlactamase (ESBL) producing E. coli compared to non-ESBL producing E. coli. J Infect. 2007; 55(3): \n254–259. DOI: https://doi.org/10.1016/j.jinf.2007.04.007\n17.\t Bebell LM, Ngonzi J, Bazira J, et al. Antimicrobial-resistant infections among postpartum women at \na Ugandan referral hospital. PLOS ONE. 2017; 12(4): e0175456. DOI: https://doi.org/10.1371/journal.\npone.0175456\n18.\t Dessie W, Mulugeta G, Fentaw S, Mihret A, Hassen M, Abebe E. Pattern of bacterial pathogens \nand their susceptibility isolated from surgical site infections at selected referral hospitals, \nAddis Ababa, Ethiopia. Iglewski BH (ed.), Int J Microbiol. 2016; 2016: 2418902. DOI: https://doi.\norg/10.1155/2016/2418902\n19.\t Mengesha RE, Kasa BG-S, Saravanan M, Berhe DF, Wasihun AG. Aerobic bacteria in post surgical \nwound infections and pattern of their antimicrobial susceptibility in Ayder Teaching and Referral \nHospital, Mekelle, Ethiopia. BMC Res Notes. 2014; 7: 575. DOI: https://doi.org/10.1186/1756-0500-7-575\n20.\t Seni J, Najjuka CF, Kateete DP, et al. Antimicrobial resistance in hospitalized surgical patients: A \nsilently emerging public health concern in Uganda. BMC Res Notes. 2013; 6(1): 298. DOI: https://doi.\norg/10.1186/1756-0500-6-298\n21.\t Workneh M, Katz MJ, Lamorde M, Cosgrove SE, Manabe YC. Antimicrobial resistance of sterile site \ninfections in Sub-Saharan Africa: A Systematic Review. Open Forum Infect Dis. 2017; 4(4): ofx209. DOI: \nhttps://doi.org/10.1093/ofid/ofx209\n22.\t Sievert DM, Ricks P, Edwards JR, et al. Antimicrobial-resistant pathogens associated with healthcare-\nassociated infections: Summary of data reported to the National Healthcare Safety Network at the \nCenters for Disease Control and Prevention, 2009–2010. Infect Control Hosp Epidemiol. 2013; 34(1): 1–14. \nDOI: https://doi.org/10.1086/668770\n23.\t Sutherland T, Mpirimbanyi C, Nziyomaze E, et al. Widespread antimicrobial resistance among bacterial \ninfections in a Rwandan referral hospital. PLOS ONE. 2019; 14(8): e0221121. DOI: https://doi.org/10.1371/\njournal.pone.0221121\n24.\t Barie PS, Eachempati SR. Surgical site infections. Perioper Issues Surg. 2005; 85(6): 1115–1135. DOI: \nhttps://doi.org/10.1016/j.suc.2005.09.006\n25.\t Berríos-Torres SI, Umscheid CA, Bratzler DW, et al. Centers for Disease Control and Prevention guideline \nfor the prevention of surgical site infection, 2017. JAMA Surg. 2017; 152(8): 784–791. DOI: https://doi.\norg/10.1001/jamasurg.2017.0904\n26.\t Levine NS, Lindberg RB, Mason ADJ, Pruitt BAJ. The quantitative swab culture and smear: A quick, \nsimple method for determining the number of viable aerobic bacteria on open wounds. J Trauma. 1976; \n16(2): 89–94. DOI: https://doi.org/10.1097/00005373-197602000-00002\n27.\t Satzke C, Seduadua A, Chandra R, Carapetis JR, Mulholland EK, Russell FM. Comparison of citrated \nhuman blood, citrated sheep blood, and defibrinated sheep blood Mueller-Hinton agar preparations for \nantimicrobial susceptibility testing of Streptococcus pneumoniae Isolates. J Clin Microbiol. 2010; 48(10): \n3770. DOI: https://doi.org/10.1128/JCM.02357-09\n",
+   "n_chars": 4909,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      454.7,
+      40.9,
+      568.5,
+      67.7
+     ],
+     "text": "10\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      40.7,
+      433.8,
+      746.7
+     ],
+     "text": "9.\t\nBukasa JC, Kadiata A, Kabongo AG, et al. Factors associated with acquired Infections caesarian wounds \nin maternity Mbuji-Mayi/DR Congo. Open Access Libr J. 2018; 5(3): 1–14. DOI: https://doi.org/10.4236/\noalib.1104437\n10.\t De Nardo P, Gentilotti E, Nguhuni B, et al. Post-caesarean section surgical site infections at a Tanzanian \ntertiary hospital: A prospective observational study. J Hosp Infect. 2016; 93(4): 355–359. DOI: https://doi.\norg/10.1016/j.jhin.2016.02.021\n11.\t Morisaki N, Ganchimeg T, Ota E, et al. Maternal and institutional characteristics associated with the \nadministration of prophylactic antibiotics for caesarean section: A secondary analysis of the World \nHealth Organization Multicountry Survey on Maternal and Newborn Health. BJOG Int J Obstet Gynaecol. \n2014; 121(Suppl1): 66–75. DOI: https://doi.org/10.1111/1471-0528.12632\n12.\t Kateera F. The gap between international guidelines and antibiotic prescriptions for caesarean section \npatients at a rural hospital in eastern Rwanda [abstract]. East Cent Afr J Surg. Published online 2018. \n23(3): 131–132.\n13.\t Ventola CL. The antibiotic resistance crisis: Part 1: Causes and threats. P T Peer-Rev J Formul Manag. \n2015; 40(4): 277–283.\n14.\t World Health Organization. Antimicrobial Resistance. World Health Organization Newsroom. Published \nFebruary 15, 2018. Accessed April 2, 2020. https://www.who.int/news-room/fact-sheets/detail/\nantimicrobial-resistance.\n15.\t Llor C, Bjerrum L. Antimicrobial resistance: Risk associated with antibiotic overuse and \ninitiatives to reduce the problem. Ther Adv Drug Saf. 2014; 5(6): 229–241. DOI: https://doi.\norg/10.1177/2042098614554919\n16.\t Melzer M, Petersen I. Mortality following bacteraemic infection caused by extended spectrum beta-\nlactamase (ESBL) producing E. coli compared to non-ESBL producing E. coli. J Infect. 2007; 55(3): \n254–259. DOI: https://doi.org/10.1016/j.jinf.2007.04.007\n17.\t Bebell LM, Ngonzi J, Bazira J, et al. Antimicrobial-resistant infections among postpartum women at \na Ugandan referral hospital. PLOS ONE. 2017; 12(4): e0175456. DOI: https://doi.org/10.1371/journal.\npone.0175456\n18.\t Dessie W, Mulugeta G, Fentaw S, Mihret A, Hassen M, Abebe E. Pattern of bacterial pathogens \nand their susceptibility isolated from surgical site infections at selected referral hospitals, \nAddis Ababa, Ethiopia. Iglewski BH (ed.), Int J Microbiol. 2016; 2016: 2418902. DOI: https://doi.\norg/10.1155/2016/2418902\n19.\t Mengesha RE, Kasa BG-S, Saravanan M, Berhe DF, Wasihun AG. Aerobic bacteria in post surgical \nwound infections and pattern of their antimicrobial susceptibility in Ayder Teaching and Referral \nHospital, Mekelle, Ethiopia. BMC Res Notes. 2014; 7: 575. DOI: https://doi.org/10.1186/1756-0500-7-575\n20.\t Seni J, Najjuka CF, Kateete DP, et al. Antimicrobial resistance in hospitalized surgical patients: A \nsilently emerging public health concern in Uganda. BMC Res Notes. 2013; 6(1): 298. DOI: https://doi.\norg/10.1186/1756-0500-6-298\n21.\t Workneh M, Katz MJ, Lamorde M, Cosgrove SE, Manabe YC. Antimicrobial resistance of sterile site \ninfections in Sub-Saharan Africa: A Systematic Review. Open Forum Infect Dis. 2017; 4(4): ofx209. DOI: \nhttps://doi.org/10.1093/ofid/ofx209\n22.\t Sievert DM, Ricks P, Edwards JR, et al. Antimicrobial-resistant pathogens associated with healthcare-\nassociated infections: Summary of data reported to the National Healthcare Safety Network at the \nCenters for Disease Control and Prevention, 2009–2010. Infect Control Hosp Epidemiol. 2013; 34(1): 1–14. \nDOI: https://doi.org/10.1086/668770\n23.\t Sutherland T, Mpirimbanyi C, Nziyomaze E, et al. Widespread antimicrobial resistance among bacterial \ninfections in a Rwandan referral hospital. PLOS ONE. 2019; 14(8): e0221121. DOI: https://doi.org/10.1371/\njournal.pone.0221121\n24.\t Barie PS, Eachempati SR. Surgical site infections. Perioper Issues Surg. 2005; 85(6): 1115–1135. DOI: \nhttps://doi.org/10.1016/j.suc.2005.09.006\n25.\t Berríos-Torres SI, Umscheid CA, Bratzler DW, et al. Centers for Disease Control and Prevention guideline \nfor the prevention of surgical site infection, 2017. JAMA Surg. 2017; 152(8): 784–791. DOI: https://doi.\norg/10.1001/jamasurg.2017.0904\n26.\t Levine NS, Lindberg RB, Mason ADJ, Pruitt BAJ. The quantitative swab culture and smear: A quick, \nsimple method for determining the number of viable aerobic bacteria on open wounds. J Trauma. 1976; \n16(2): 89–94. DOI: https://doi.org/10.1097/00005373-197602000-00002\n27.\t Satzke C, Seduadua A, Chandra R, Carapetis JR, Mulholland EK, Russell FM. Comparison of citrated \nhuman blood, citrated sheep blood, and defibrinated sheep blood Mueller-Hinton agar preparations for \nantimicrobial susceptibility testing of Streptococcus pneumoniae Isolates. J Clin Microbiol. 2010; 48(10): \n3770. DOI: https://doi.org/10.1128/JCM.02357-09\n"
+    }
+   ]
+  },
+  {
+   "page": 11,
+   "text": "11\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\nTO CITE THIS ARTICLE: \nVelin L, Umutesi G, Riviello \nR, Muwanguzi M, Bebell \nLM, Yankurije M, Faktor K, \nNkurunziza T, Rukundo G, \nde Dieu Gatete J, Emil I, \nHedt-Gauthier BL, Kateera F. \nSurgical Site Infections and \nAntimicrobial Resistance After \nCesarean Section Delivery in \nRural Rwanda. Annals of Global \nHealth. 2021; 87(1): 77, 1–11. \nDOI: https://doi.org/10.5334/\naogh.3413\nPublished: 06 August 2021\nCOPYRIGHT: \n© 2021 The Author(s). This is an \nopen-access article distributed \nunder the terms of the Creative \nCommons Attribution 4.0 \nInternational License (CC-BY \n4.0), which permits unrestricted \nuse, distribution, and \nreproduction in any medium, \nprovided the original author \nand source are credited. See \nhttp://creativecommons.org/\nlicenses/by/4.0/.\nAnnals of Global Health is a peer-\nreviewed open access journal \npublished by Ubiquity Press.\n28.\t Lai PS, Bebell LM, Meney C, Valeri L, White MC. Epidemiology of antibiotic-resistant wound infections \nfrom six countries in Africa. BMJ Glob Health. 2017; 2(Suppl 4): e000475. DOI: https://doi.org/10.1136/\nbmjgh-2017-000475\n29.\t Kawakita T, Landy HJ. Surgical site infections after cesarean delivery: Epidemiology, prevention and \ntreatment. Matern Health Neonatol Perinatol. 2017; 3: 12. DOI: https://doi.org/10.1186/s40748-017-\n0051-3\n30.\t Becker K, Heilmann C, Peters G. Coagulase-negative staphylococci. Clin Microbiol Rev. 2014; 27(4): 870–\n926. DOI: https://doi.org/10.1128/CMR.00109-13\n31.\t Kloos WE, Bannerman TL. Update on clinical significance of coagulase-negative staphylococci. Clin \nMicrobiol Rev. 1994; 7(1): 117–140. DOI: https://doi.org/10.1128/CMR.7.1.117\n32.\t Asim P, Naik NA, Muralidhar V, Vandana KE, Varsha AP. Clinical and economic outcomes of \nAcinetobacter vis a vis non-Acinetobacter infections in an Indian teaching hospital. Perspect Clin Res. \n2016; 7(1): 28–31. DOI: https://doi.org/10.4103/2229-3485.173778\n33.\t Lee N-Y, Lee H-C, Ko N-Y, et al. Clinical and economic impact of multidrug resistance in nosocomial \nAcinetobacter baumannii bacteremia. Infect Control Hosp Epidemiol. 2007; 28(6): 713–719. DOI: https://\ndoi.org/10.1086/517954\n34.\t Onken A, Said AK, Jørstad M, Jenum PA, Blomberg B. Prevalence and antimicrobial resistance of \nmicrobes causing bloodstream infections in Unguja, Zanzibar. PloS One. 2015; 10(12): e0145632. DOI: \nhttps://doi.org/10.1371/journal.pone.0145632\n35.\t Allegranzi B, Bagheri Nejad S, Combescure C, et al. Burden of endemic health-care-associated infection \nin developing countries: Systematic review and meta-analysis. Lancet Lond Engl. 2011; 377(9761): 228–\n241. DOI: https://doi.org/10.1016/S0140-6736(10)61458-4\n36.\t Lowings M, Ehlers MM, Dreyer AW, Kock MM. High prevalence of oxacillinases in clinical multidrug-\nresistant Acinetobacter baumannii isolates from the Tshwane region, South Africa–an update. BMC Infect \nDis. 2015; 15: 521. DOI: https://doi.org/10.1186/s12879-015-1246-8\n37.\t Lob SH, Hoban DJ, Sahm DF, Badal RE. Regional differences and trends in antimicrobial susceptibility of \nAcinetobacter baumannii. Int J Antimicrob Agents. 2016; 47(4): 317-323. DOI: https://doi.org/10.1016/j.\nijantimicag.2016.01.015\n38.\t Hadjisymeou S, Loizou P, Kothari P. Lactococcus lactis cremoris infection: Not rare anymore? BMJ Case \nRep. 2013; 2013: bcr2012008479. DOI: https://doi.org/10.1136/bcr-2012-008479\n39.\t Kallstrom G. Are quantitative bacterial wound cultures useful? J Clin Microbiol. 2014; 52(8): 2753–2756. \nDOI: https://doi.org/10.1128/JCM.00522-14\n",
+   "n_chars": 3568,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      454.7,
+      40.9,
+      569.0,
+      67.7
+     ],
+     "text": "11\nVelin et al. \nAnnals of Global Health  \nDOI: 10.5334/aogh.3413\n"
+    },
+    {
+     "bbox": [
+      454.7,
+      375.3,
+      566.6,
+      527.8
+     ],
+     "text": "TO CITE THIS ARTICLE: \nVelin L, Umutesi G, Riviello \nR, Muwanguzi M, Bebell \nLM, Yankurije M, Faktor K, \nNkurunziza T, Rukundo G, \nde Dieu Gatete J, Emil I, \nHedt-Gauthier BL, Kateera F. \nSurgical Site Infections and \nAntimicrobial Resistance After \nCesarean Section Delivery in \nRural Rwanda. Annals of Global \nHealth. 2021; 87(1): 77, 1–11. \nDOI: https://doi.org/10.5334/\naogh.3413\n"
+    },
+    {
+     "bbox": [
+      454.7,
+      546.3,
+      549.5,
+      555.8
+     ],
+     "text": "Published: 06 August 2021\n"
+    },
+    {
+     "bbox": [
+      454.7,
+      574.3,
+      570.6,
+      715.8
+     ],
+     "text": "COPYRIGHT: \n© 2021 The Author(s). This is an \nopen-access article distributed \nunder the terms of the Creative \nCommons Attribution 4.0 \nInternational License (CC-BY \n4.0), which permits unrestricted \nuse, distribution, and \nreproduction in any medium, \nprovided the original author \nand source are credited. See \nhttp://creativecommons.org/\nlicenses/by/4.0/.\n"
+    },
+    {
+     "bbox": [
+      454.7,
+      720.1,
+      569.5,
+      751.7
+     ],
+     "text": "Annals of Global Health is a peer-\nreviewed open access journal \npublished by Ubiquity Press.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      40.7,
+      433.7,
+      422.7
+     ],
+     "text": "28.\t Lai PS, Bebell LM, Meney C, Valeri L, White MC. Epidemiology of antibiotic-resistant wound infections \nfrom six countries in Africa. BMJ Glob Health. 2017; 2(Suppl 4): e000475. DOI: https://doi.org/10.1136/\nbmjgh-2017-000475\n29.\t Kawakita T, Landy HJ. Surgical site infections after cesarean delivery: Epidemiology, prevention and \ntreatment. Matern Health Neonatol Perinatol. 2017; 3: 12. DOI: https://doi.org/10.1186/s40748-017-\n0051-3\n30.\t Becker K, Heilmann C, Peters G. Coagulase-negative staphylococci. Clin Microbiol Rev. 2014; 27(4): 870–\n926. DOI: https://doi.org/10.1128/CMR.00109-13\n31.\t Kloos WE, Bannerman TL. Update on clinical significance of coagulase-negative staphylococci. Clin \nMicrobiol Rev. 1994; 7(1): 117–140. DOI: https://doi.org/10.1128/CMR.7.1.117\n32.\t Asim P, Naik NA, Muralidhar V, Vandana KE, Varsha AP. Clinical and economic outcomes of \nAcinetobacter vis a vis non-Acinetobacter infections in an Indian teaching hospital. Perspect Clin Res. \n2016; 7(1): 28–31. DOI: https://doi.org/10.4103/2229-3485.173778\n33.\t Lee N-Y, Lee H-C, Ko N-Y, et al. Clinical and economic impact of multidrug resistance in nosocomial \nAcinetobacter baumannii bacteremia. Infect Control Hosp Epidemiol. 2007; 28(6): 713–719. DOI: https://\ndoi.org/10.1086/517954\n34.\t Onken A, Said AK, Jørstad M, Jenum PA, Blomberg B. Prevalence and antimicrobial resistance of \nmicrobes causing bloodstream infections in Unguja, Zanzibar. PloS One. 2015; 10(12): e0145632. DOI: \nhttps://doi.org/10.1371/journal.pone.0145632\n35.\t Allegranzi B, Bagheri Nejad S, Combescure C, et al. Burden of endemic health-care-associated infection \nin developing countries: Systematic review and meta-analysis. Lancet Lond Engl. 2011; 377(9761): 228–\n241. DOI: https://doi.org/10.1016/S0140-6736(10)61458-4\n36.\t Lowings M, Ehlers MM, Dreyer AW, Kock MM. High prevalence of oxacillinases in clinical multidrug-\nresistant Acinetobacter baumannii isolates from the Tshwane region, South Africa–an update. BMC Infect \nDis. 2015; 15: 521. DOI: https://doi.org/10.1186/s12879-015-1246-8\n37.\t Lob SH, Hoban DJ, Sahm DF, Badal RE. Regional differences and trends in antimicrobial susceptibility of \nAcinetobacter baumannii. Int J Antimicrob Agents. 2016; 47(4): 317-323. DOI: https://doi.org/10.1016/j.\nijantimicag.2016.01.015\n38.\t Hadjisymeou S, Loizou P, Kothari P. Lactococcus lactis cremoris infection: Not rare anymore? BMJ Case \nRep. 2013; 2013: bcr2012008479. DOI: https://doi.org/10.1136/bcr-2012-008479\n39.\t Kallstrom G. Are quantitative bacterial wound cultures useful? J Clin Microbiol. 2014; 52(8): 2753–2756. \nDOI: https://doi.org/10.1128/JCM.00522-14\n"
+    }
+   ]
+  }
+ ]
+}

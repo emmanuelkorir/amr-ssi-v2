@@ -1,0 +1,75 @@
+ECSA SSI/AMR extraction - validation report
+=======================================================
+Studies: 38 (incidence component 26, AMR component 26)
+Primary incidence rows: 25 covering 25 cohorts; all incidence rows: 32
+AMR rows: 71 covering 25 studies
+AMR component studies without extracted species-level rows: mukagendaneza2019
+Outcome rows: 12; driver rows: 26; quality rows: 38; discrepancies: 17
+Screening records: 56 (included 38, excluded 18)
+Evidence items resolved verbatim: 169/169
+
+Incidence percentage mismatches (> 0.5 points): 3
+  - mukagendaneza2019 [main]: MISMATCH (reported 10.2, calculated 11.56) (34/294)
+  - starr2023 [pre-intervention]: MISMATCH (reported 23.2, calculated 9.65) (152/1575)
+  - starr2023 [post-intervention]: MISMATCH (reported 17.4, calculated 8.05) (144/1789)
+
+AMR percentage mismatches (> 0.5 points): 0
+
+Derived incidence values: 4
+  - forrester2021 [pre-intervention]: Numerator derived: 7.4% x 374 = 27.7 -> 28.
+  - forrester2021 [post-intervention]: Numerator derived: 5.8% x 1839 = 106.7 -> 107. QI post period.
+  - kefale2020 [main]: Numerator from Table 4 (27 male + 28 female); text gives 19.6%.
+  - scherbaum2014 [main]: Numerator derived: 1.4% x 1022 = 14.3 -> 14. Table 1 gives incidence 1.4% (95% CI 0.7-2.1).
+
+Derived AMR values: 16
+  - worku2023 Staphylococcus aureus MRSA: Cefoxitin 43% of 153 = 65.8 -> 66; oxacillin 20% (31/153). Text reports cefoxitin 22.7%, inconsistent with Table 3. Human extraction used 40/163. Flagged.
+  - ali2023 Enterobacteriaceae 3GC resistance: Numerator derived: 73.9% x 23 = 17.0.
+  - gashaw2026 Enterobacterales ESBL: Denominator 200 derived by summing species rows; paper reports 135 (67.5%).
+  - manyahi2014 Escherichia coli ESBL: Numerator derived from 92.3% of 13.
+  - velin2021 Gram-negative bacteria 3GC non-susceptibility: Numerator derived: 92.1% x 39 = 35.9 -> 36.
+  - wekesa2020 Klebsiella pneumoniae 3GC resistance: Count derived from 97.7% of 44 in Table 3.
+  - wekesa2020 Klebsiella pneumoniae ESBL: Count derived from 43.2% of 44.
+  - wekesa2020 Escherichia coli ESBL: Count derived from 90.9% of 11.
+  - worku2023 Escherichia coli 3GC resistance: Count derived from 99% of 102.
+  - worku2023 Klebsiella pneumoniae 3GC resistance: Count derived from 93.8% of 48.
+  - wekesa2020 Klebsiella pneumoniae Carbapenem resistance: Count derived from 34.1% of 44.
+  - worku2023 Acinetobacter baumannii Carbapenem resistance: Count derived from 84.2% of 38.
+  - abosse2021 All isolates MDR: Count derived: 80.8% x 125 = 101.
+  - hope2019 All isolates MDR: Count derived: 86% x 93 = 80.
+  - mengesha2014 Gram-negative bacteria MDR: Count derived: 81.4% x 65 = 52.9 -> 53. Abstract reports 102/123 MDR overall (82.9%), which differs by one isolate from the 53+48 subgroup counts.
+  - mengesha2014 Gram-positive bacteria MDR: Count derived: 82.8% x 58 = 48.0.
+
+Priority AMR availability (primary rows):
+  - MRSA: 16 rows, 16 studies
+  - 3GC/ESBL (E. coli/Klebsiella/Enterobacterales): 27 rows, 15 studies
+  - Carbapenem (A. baumannii/P. aeruginosa/Enterobacterales): 11 rows, 9 studies
+  - MDR (supplementary, all rows): 11 rows, 10 studies
+
+Structural errors: 0
+
+Primary incidence cohorts and denominators:
+  abayneh2022               33/262    = 12.6%  OK
+  agade2026                 55/393    = 13.99%  OK
+  ali2023                   49/338    = 14.5%  OK
+  bayardorj2023             14/128    = 10.94%  OK
+  billoro2019               42/255    = 16.47%  OK
+  boru2025                  29/183    = 15.85%  OK
+  deyem2025                 71/218    = 32.57%  OK
+  dinda2013                 12/171    = 7.02%  OK
+  forrester2021             28/374    = 7.49%  OK
+  gashaw2026               312/1205   = 25.89%  OK
+  gentilotti2020           225/467    = 48.18%  OK
+  habtemariam2023          126/204    = 61.76%  OK
+  haifete2025              126/1248   = 10.1%  OK
+  hamudu2025                36/120    = 30.0%  OK
+  kachipedzu2024            20/208    = 9.62%  OK
+  kazuma2025               218/1122   = 19.43%  OK
+  kefale2020                55/281    = 19.57%  OK
+  kisibo2017                75/300    = 25.0%  OK
+  mammo2024                265/2483   = 10.67%  OK
+  mengesha2014             128/610    = 20.98%  OK
+  misha2021                 53/251    = 21.12%  OK
+  mukagendaneza2019         34/294    = 11.56%  MISMATCH (reported 10.2, calculated 11.56)
+  ntirushwa2021             12/301    = 3.99%  OK
+  scherbaum2014             14/1022   = 1.37%  OK
+  velin2021                 45/795    = 5.66%  OK

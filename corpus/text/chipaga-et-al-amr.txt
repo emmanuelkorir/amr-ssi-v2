@@ -1,0 +1,1097 @@
+
+
+===== PAGE 1 =====
+
+Alexandria Journal of Medicine
+ISSN: 2090-5068 (Print) 2090-5076 (Online) Journal homepage: www.tandfonline.com/journals/tajm20
+Prevalence of multi-drug resistant bacteria
+causing surgical site infection at tertiary
+hospitals in Dar es Salaam, Tanzania: a call
+for strengthening infection prevention and
+preoperative prophylaxis
+Damas Chipaga, Mtebe Majigo, Biswaro Malima & Agricola Joachim
+To cite this article: Damas Chipaga, Mtebe Majigo, Biswaro Malima & Agricola Joachim (2025)
+Prevalence of multi-drug resistant bacteria causing surgical site infection at tertiary hospitals
+in Dar es Salaam, Tanzania: a call for strengthening infection prevention and preoperative
+prophylaxis, Alexandria Journal of Medicine, 61:1, 1-7, DOI: 10.1080/20905068.2025.2466271
+To link to this article:  https://doi.org/10.1080/20905068.2025.2466271
+© 2025 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+Published online: 15 Feb 2025.
+Submit your article to this journal 
+Article views: 1749
+View related articles 
+View Crossmark data
+Citing articles: 2 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tajm20
+
+
+===== PAGE 2 =====
+
+Prevalence of multi-drug resistant bacteria causing surgical site infection at 
+tertiary hospitals in Dar es Salaam, Tanzania: a call for strengthening infection 
+prevention and preoperative prophylaxis
+Damas Chipaga, Mtebe Majigo
+, Biswaro Malima and Agricola Joachim
+Department of Microbiology and Immunology, Muhimbili University of Health and Allied Sciences, Dar es Salaam, Tanzania
+ABSTRACT
+Background: Surgical site infections (SSI) are common healthcare-associated infections, yet 
+data on causative bacteria and antimicrobial susceptibility patterns are limited. The study 
+aimed to determine the bacterial pathogens and antimicrobial resistance patterns among post- 
+operative patients at tertiary hospitals in Dar es Salaam, Tanzania.
+Methods: We conducted a cross-sectional study between September 2022 and February 2023 
+to investigate SSI through an aerobic culture of pus aspirates or wound swabs. Isolates were 
+identified using conventional methods and an analytical profile index 20E test for 
+Enterobacterales. Antimicrobial susceptibility testing was performed using Kirby Bauer disc 
+diffusion methods. Continuous variables were summarized as mean and standard deviation, 
+while categorical variables were summarized as proportions.
+Results: A hundred-fifty-eight patients were enrolled, with a mean age of 42.20 ± 12.13 years. 
+Of 158,140(88.6%) showed bacterial growth and 164 isolates. Escherichia coli 45 (27.4%), 
+Pseudomonas aeruginosa 38 (23.2%), and Staphylococcus aureus 38 (23.2%) were the most 
+isolated. Among the Enterobacterales, 39/80 (48.8%) were extended-spectrum beta-lactamase 
+producers. Methicillin-resistant Staphylococcus aureus was detected in 11/38 (29.0%) 
+Staphylococcus aureus. Overall, multi-drug resistant strains were 127/164 (77.4%).
+Conclusions: Gram-negative bacteria were the predominant cause of SSI. More than three- 
+quarters of isolates were multi-drug-resistant strains. The findings underscore the need to 
+regularly review antimicrobial prophylaxis practices and treatment guidelines, strengthen 
+infection prevention and control measures, and antimicrobial stewardship.
+ARTICLE HISTORY 
+Received 4 June 2024  
+Accepted 8 February 2025 
+KEYWORDS 
+Surgical site infection; 
+healthcare-associated 
+infection; multi-drug 
+resistant; surgical 
+prophylaxis; Tanzania
+1. Introduction
+Surgical site infections (SSI) are common healthcare- 
+associated infections [1,2]. Their magnitude differs 
+from place to place due to differences in the quality 
+of healthcare services [3,4]. The incidence of SSI in 
+Low-Middle-Income Countries (LMICs) ranges 
+between 10.31% and 16.3% [2]. SSI represents 
+a financial burden, especially in LMICs [5], associated 
+with extended hospital stays [1]. Patients who develop 
+SSI may end up with complications or die [6].
+SSI is the most preventable healthcare-associated 
+infection when appropriate measures of infection pre­
+vention and control (IPC) are applied [7]. Several IPC 
+guidelines and tools are available; however, their utiliza­
+tion is far from ideal [8]. Hand washing and aseptic 
+techniques are the IPC practices in most health facilities. 
+Preoperative antimicrobial prophylaxis is commonly 
+used to prevent SSI [9]. A single dose of antimicrobials 
+administered 1 to 2 hours before incision is adequate for 
+most surgical procedures [10]. In our setting, at tertiary 
+facilities, the approach to preoperative antibiotic 
+prophylaxis involves using a combination of ceftriaxone 
+and metronidazole. The benefit of antimicrobial prophy­
+laxis may be more significant in settings without com­
+prehensive IPC measures [11]. However, inappropriate 
+use of antimicrobials influences the emergence of multi­
+drug-resistant (MDR) pathogens [12].
+SSI may originate from the skin microbiota or the 
+gastrointestinal tract flora that gains access through 
+a surgical incision [13]. In addition, SSI causative 
+agents may originate from contaminated inanimate 
+objects at the healthcare service units [13]. Patients’ 
+colonization with pathogens from the hospital envir­
+onment increases the risk of infection with MDR 
+strains [14,15]. Consequently, limited MDR screening 
+practices among admitted patients increase the risk of 
+MDR colonization and transmission [16]. The emer­
+gence of MDR pathogens causing SSI presents chal­
+lenges in prevention and treatment and leads to 
+increased length of stay and care costs [17].
+The number of patients with clinically diagnosed 
+SSI observed in our setting is increasing, necessitating 
+CONTACT Mtebe Majigo 
+mmajigo@gmail.com 
+Department of Microbiology and Immunology, Muhimbili University of Health and Allied Sciences, 
+Dar es Salaam, Tanzania
+ALEXANDRIA JOURNAL OF MEDICINE                
+2025, VOL. 61, NO. 1, 1–7 
+https://doi.org/10.1080/20905068.2025.2466271
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.  
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (http://creativecommons.org/licenses/by-nc/4.0/), which 
+permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been 
+published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+
+===== PAGE 3 =====
+
+understanding the bacterial etiology and antimicrobial 
+susceptibility patterns. We conducted this study to 
+determine the bacterial pathogens causing SSI and 
+antimicrobial susceptibility patterns among post- 
+operative patients at tertiary healthcare facilities. We 
+intended to provide data to help manage and prevent 
+SSI in a hospital setting.
+2. Material and Methods
+2.1. Study design and setting
+We conducted a descriptive cross-sectional study at 
+Muhimbili 
+National 
+Hospital 
+and 
+Muhimbili 
+Orthopedic Institute in Dar es Salaam between 
+September 2022 and February 2023. Muhimbili 
+National Hospital has a 1500-bed capacity and attends 
+2000 outpatients daily. Muhimbili Orthopedic Institute 
+has a 150-bed capacity and attends about 160 patients 
+daily.
+2.2. Patient recruitment
+We enrolled patients admitted and those attending 
+postoperative clinics with clinical evidence of SSI 
+based on the modified Centers for Disease Control 
+and Prevention definition [18]. Recruitment was done 
+after obtaining informed consent. The minimum sam­
+ple size was estimated using the Kish and Leslie for­
+mula, considering 63% SSI with MDR bacteria [19]. The 
+minimum required sample size was 143 participants.
+2.3. Data and specimen collection
+We used a structured data collection tool to extract infor­
+mation from patient case notes. Depending on the 
+wound’s condition, we collected two pus aspirates or 
+swabs from 158 patients. The pus swabs were collected 
+aseptically from the depth of the wound using sterile 
+cotton wool swabs after cleaning with normal saline. 
+The specimens Amies transport media were transported 
+to the laboratory for processing within two hours of 
+collection.
+2.4. Bacterial isolation and identification
+We performed Gram staining on one specimen to 
+evaluate its quality. The other specimen was inocu­
+lated on blood agar and MacConkey agar plates 
+(Oxoid, UK) and incubated aerobically at 37°C for 
+18–24 hours. Catalase, coagulase, and DNase tests 
+were performed for gram-positive cocci isolated on 
+blood agar. We identified Gram-negative bacteria 
+using conventional biochemical tests (oxidase, tri­
+ple sugar iron, indole, urease, and citrate). In addi­
+tion, the Analytical Profile Index 20E Test was used 
+to identify Enterobacteriales and non-fastidious 
+Gram-negative rods.
+2.5. Antimicrobial susceptibility testing
+We tested antimicrobial susceptibility using the Kirby- 
+Bauer disc diffusion method [20]. Briefly, the tests and 
+control organisms were suspended in normal saline to 
+McFarland 0.5 standard and inoculated on Mueller- 
+Hinton agar (Oxoid, UK). Appropriate discs were 
+placed, and the plates were incubated at 37°C for 
+16–18 hours. We included the following discs for 
+Gram-positive bacteria: penicillin (10units), cefoxitin 
+(30 μg), gentamicin (10 μg), erythromycin (15 μg), tet­
+racycline (30 μg), ciprofloxacin (5 μg), clindamycin 
+(2 μg), 
+trimethoprim/sulphamethoxazole 
+(1.25/ 
+23.75 μg), and chloramphenicol (30 μg). The Gram- 
+negative bacteria were tested against ampicillin 
+(10 μg), amoxicillin/clavulanic acid (20/10 μg), cef­
+triaxone (30 μg), ceftazidime (30 μg), cefotaxime 
+(30 μg), gentamicin (10 μg), tetracycline (30 μg), cipro­
+floxacin (5 μg), cefepime (30 μg), piperacillin/tazobac­
+tam (100/10 μg), amikacin (30 μg), trimethoprim/ 
+sulphamethoxazole (1.25/23.75 μg), chloramphenicol 
+(30 μg), and meropenem (10 μg). In addition, the 
+broth microdilution method was used to assess the 
+susceptibility of Staphylococcus aureus to vancomy­
+cin [21].
+2.6. Detection of antimicrobial resistance 
+phenotypes
+Methicillin-resistant Staphylococcus aureus (MRSA) 
+was determined by disc diffusion test using 
+a cefoxitin disc (30 μg) on Mueller-Hinton agar, incu­
+bated at 35°C for 16–18 hours. A zone of inhibition 
+≤21 mm 
+was 
+considered 
+positive. 
+We 
+used 
+Staphylococcus aureus ATCC 29,213 as MRSA positive 
+control and ATCC25923 as MRSA negative control 
+[20]. Inducible clindamycin resistance (ICR) among 
+Staphylococcus aureus resistant to erythromycin was 
+detected using the D-test. Erythromycin (15 μg) and 
+clindamycin (2 μg) discs were spaced 15 mm apart and 
+incubated at 37°C for 16–18 hours. Flattening the zone 
+of inhibition adjacent to erythromycin (15 μg) was 
+interpreted as ICR. We used Staphylococcus aureus 
+ATCC BAA-976 as test negative and Staphylococcus 
+aureus ATCC BAA-977 as test positive control [20].
+Extended-spectrum beta-lactamase (ESBL) was 
+screened by disc diffusion with ceftazidime (30 μg) or 
+cefotaxime (30 μg) and confirmed by the double disk 
+synergy test. Ceftazidime (30 μg) and cefotaxime 
+(30 μg) discs were placed 20 mm from the amoxicil­
+lin/clavulanic acid (20/10 μg) disc. The plates were 
+incubated at 37°C for 16–18 hours. An enhanced 
+zone of inhibition toward the amoxicillin/clavulanic 
+acid (20/10 μg) indicated positive ESBL production 
+2
+D. CHIPAGA ET AL.
+
+
+===== PAGE 4 =====
+
+[22]. Klebsiella pneumoniae ATCC700603 and 
+Escherichia coli ATCC25922 were used as positive 
+and negative controls, respectively. All control strains 
+were products of Microbiologics, Minnesota, USA.
+2.7. Data analysis
+We analyzed data using STATA v.15.1. We described 
+continuous variables as mean (± standard deviation) 
+and categorical variables as proportion. Antimicrobial 
+resistance rates were calculated as a percentage of 
+resistant isolates among isolates tested. MDR was 
+defined as non-susceptible to at least one agent in 
+three or more antimicrobials categories [23].
+3. Results
+3.1. Participants’ characteristics
+We consecutively enrolled 158 patients with a mean 
+age of 42.20 ± 12.13 years. Most, 89 (56.3%) were aged 
+25–44, and 82 (51.9%) were from general surgery. 
+Most, 113 (71.5%) were males, 86 (54.4%) residents 
+of Dar es Salaam, and 85 (53.8%) had a normal body 
+mass index. Smokers and alcohol drinkers were 29 
+(18.4%) and 24 (15.2%), respectively. Of all, 54 
+(34.2%) had comorbidities, 83 (52.5%) had hospital 
+admission within six months, and 83 (52.5%) used 
+antimicrobial within one month. Ceftriaxone alone 
+was given to 77 (48.7%). Most, 97 (61.4%), had limb 
+surgery, and only 21 (13.3%) shaved before surgery. 
+Clean and clean-contaminated wounds were reported 
+in 89 (56.3%) (Table 1).
+3.2. Profile of bacterial isolates
+Out of 158 samples, 140 (88.6%) had growth of 164 
+pathogens; 119 (85.0%) single isolate and 21 (15.0%) 
+more than one isolates. Most isolates, 126 (76.8%) 
+were Gram-negative. The predominant pathogens 
+were Escherichia coli, 45 (27.4%), Pseudomonas aeru­
+ginosa, 38 (23.2%), Staphylococcus aureus, 38 (23.2%), 
+Klebsiella pneumoniae 25 (15.2%), Acinetobacter bau­
+manii, 8 (4.8%), Proteus mirabilis 5 (3.1%) and 
+Enterobacter aerogenes 5 (3.1%) (Table 2).
+3.3. Antimicrobial resistance patterns
+Gram-negative bacteria showed a resistance above 
+50% to sulphamethoxazole/trimethoprim (82.2–­
+100%), amoxicillin/clavulanic acid (55.6–100%), and 
+ampicillin (82.2–100%). Escherichia coli showed the 
+Table 1. Participants’ sociodemographic and clinical characteristics.
+Variable
+Frequency
+Percentage (%)
+Age in years
+Mean (SD)
+42.20 (12.13)
+<25
+4
+2.5
+25–44
+89
+56.3
+≥45
+65
+41.2
+BMI in Kg/m2
+Mean (SD)
+24.68 (3.09)
+<18.5
+2
+1.3
+18.5–24.9
+85
+53.8
+25.0–29.9
+59
+37.3
+≥30.0
+12
+7.6
+Healthcare setting
+General surgery
+82
+51.9
+Orthopedic
+76
+48.1
+Sex
+Female
+45
+28.5
+Male
+113
+71.5
+Residence
+Dar es Salaam
+86
+54.4
+Non-Dar es Salaam
+72
+45.6
+Smoking
+No
+129
+81.6
+Yes
+29
+18.4
+Alcohol drinking
+No
+133
+84.7
+Yes
+24
+15.3
+Comorbidities
+No
+104
+65.8
+Yes
+54
+34.2
+Past admission within 6 months
+No
+75
+47.5
+Yes
+83
+52.5
+Use of antimicrobials within 1 month
+No
+75
+47.5
+Yes
+83
+52.5
+Type of antimicrobial prophylaxis
+Ceftriaxone
+77
+48.7
+Ceftriaxone &metronidazole
+81
+51.3
+Nature of surgery
+Emergency
+131
+82.9
+Elective
+27
+11.1
+Pre-operative hair removal
+No
+137
+86.7
+Yes
+21
+13.3
+Type of wound/incision
+Clean/clean-contaminated
+89
+56.3
+Contaminated/dirty
+69
+43.7
+Surgical Site
+Abdomen
+61
+38.6
+Limbs
+97
+61.4
+SD-Standard Deviation, BMI -Body Mass Index
+ALEXANDRIA JOURNAL OF MEDICINE
+3
+
+
+===== PAGE 5 =====
+
+lowest resistance to meropenem (6.7%) and the high­
+est to ampicillin and sulphamethoxazole/trimetho­
+prim (82.2%). Acinetobacter baumannii showed 
+a resistance above 50% to most antimicrobials and 
+a low resistance to amikacin (25.0%) and meropenem 
+(37.5%). Most Pseudomonas aeruginosa had a low 
+resistance rate to amikacin (16.2%) and meropenem 
+(26.3%). Staphylococcus aureus had high resistance to 
+penicillin (92.1%) and sulfamethoxazole/trimetho­
+prim (81.6%). Staphylococcus aureus’s low resistance 
+was seen in gentamicin (26.3%), oxacillin (31.6%), and 
+clindamycin (31.6%) (Table 3).
+3.4. Antimicrobial resistance phenotypes
+All isolates resisted at least one antimicrobial class; 127 
+(77.4%) were resistant to one or more antimicrobials 
+in ≥ 3 classes. The proportion of MDR ranged from 
+55.3% to 100%. All isolates of Klebsiella pneumoniae, 
+Acinetobacter baumannii, Proteus mirabilis, and 
+Enterobacter aerogenes were MDR. Out of 80 
+Enterobacteriales, 
+39/80 
+(48.8%) 
+were 
+ESBL- 
+producer. MRSA was detected in 11/38 (29.0%) and 
+ICR in 5/38 (13.2%) Staphylococcus aureus (Table 4).
+4. Discussion
+The current study revealed that Gram-negative bac­
+teria caused more than three-quarters (76.8%) of SSI. 
+The resistance of most isolated pathogens to ceftriax­
+one was more than 40%. Nearly 8 of 10 Gram-negative 
+bacteria and more than three-quarters of bacteria 
+causing SSI were MDR. The findings indicate an 
+alarming rate of MDR in patients with SSI that require 
+immediate action.
+Table 2. Proportion of bacterial isolates from patients with SSI 
+(N = 164).
+Bacteria
+Frequency(n)
+Percentage(%)
+Escherichia coli
+45
+27.4
+Pseudomonas aeruginosa
+38
+23.2
+Staphylococcus aureus
+38
+23.2
+Klebsiella pneumoniae
+25
+15.2
+Acinetobacter baumannii
+8
+4.8
+Proteus mirabilis
+5
+3.1
+Enterobacter aerogenes
+5
+3.1
+Table 3. Antimicrobial resistance patterns of the isolated bacteria among patients with SSI.
+Bacterial isolates
+Drugs
+Escherichia coli 
+(n = 45)
+Pseudomonas 
+aeruginosa (n = 38)
+Staphylococcus 
+aureus(n = 38)
+Klebsiella 
+pneumoniae 
+(n = 25)
+Acinetobacter 
+baumannii (n = 8)
+Proteus 
+mirabilis 
+(n = 5)
+Enterobacter 
+aerogenes(n = 5)
+AMP
+37(82.2)
+NA
+NA
+25(100)
+NA
+5(100)
+5(100)
+CN
+20(44.4)
+24(63.2)
+10(26.3)
+15(60.0)
+7(87.5)
+4(80.0)
+4(80.0)
+AK
+6(13.3)
+6(16.2)
+NA
+3(12.0)
+2 (25.0)
+1(20.0)
+2(40.0)
+AMC
+25(55.6)
+NA
+NA
+23(92.0)
+NA
+4(80.0)
+5(100)
+TZP
+12(26.7)
+20(52.6)
+NA
+13(52.0)
+8(100)
+1(20.0)
+4(80.0)
+CTX
+20(44.4)
+NA
+NA
+19(76.0)
+7(87.5)
+1(20.0)
+2(40.0)
+CRO
+20(44.4)
+NA
+NA
+19(76.0)
+8(100)
+1(20.0)
+2(40.0)
+FEP
+8(17.8)
+18(47.4)
+NA
+10(40.0)
+4(50.0)
+1(20.0)
+1(20.0)
+SXT
+37(82.2)
+NA
+31(81.6)
+25(100)
+8(100)
+5(100)
+5(100)
+CIP
+27(60.0)
+34(87.5)
+16(42.1)
+21(84.0)
+8(100)
+4(80.0)
+4(80.0)
+MEM
+3(6.7)
+10(26.3)
+NA
+3(12.0)
+3(37.5)
+1(20.0)
+0 (0)
+TE
+33(73.3)
+NA
+21(55.3)
+21(84.0)
+8(100)
+4(80.0)
+4(80.0)
+C
+29(64.4)
+NA
+18(47.4)
+21(84.0)
+NA
+4(80.0)
+5(100)
+CAZ
+20(44.4)
+22(57.9)
+NA
+19(76.0)
+8(100)
+1(20.0)
+2(40.0)
+P
+NA
+NA
+35(92.1)
+NA
+NA
+NA
+NA
+DA
+NA
+NA
+12(31.6)
+NA
+NA
+NA
+NA
+E
+NA
+NA
+17(44.7)
+NA
+NA
+NA
+NA
+FOX
+NA
+NA
+12(31.6)
+NA
+NA
+NA
+NA
+VAN
+NA
+NA
+3(7.9)
+NA
+NA
+NA
+NA
+AMP-ampicillin (10 μg), CN-gentamicin (10 μg), P-penicillin (10 units), DA-clindamycin (2 μg), AK-amikacin (30 μg), AMC-amoxycillin/clavulanic acid (20/ 
+10 μg), E-erythromycin (15 μg), TZP-piperazine/tazobactam (100/10 μg), CTX-cefotaxime (30 μg), CRO-ceftriaxone (30 μg), FEP-cefepime (30 μg), SXT- 
+sulphamethoxazole/trimethoprim (1.25/23.75 μg), CIP-ciprofloxacin (5 μg), MEM-meropenem (10 μg), VAN-vancomycin, TE-tetracycline (30 μg), 
+C-chloramphenicol (30 μg), CAZ-ceftazidime (30 μg), NA-not applicable.
+Table 4. Percentage of MDR, ESBL, MRSA, and ICR.
+Bacteria
+MDR 
+N(%)
+MRSA 
+N(%)
+ICR 
+N(%)
+ESBL Production 
+N(%)
+Enterobaterales(n = 80)
+71(88.7)
+NA
+NA
+39(48.8)
+Escherichia coli(n = 45)
+36(80.0)
+NA
+NA
+20 (44.4)
+Pseudomonas aeruginosa(n = 38)
+21(55.3)
+NA
+NA
+NA
+Staphylococcus aureus(n = 38)
+27(71.1)
+11(29.0)
+5(13.2)
+NA
+Klebsiella pneumoniae(n = 25)
+25(100.0)
+NA
+NA
+19 (76.0)
+Acinetobacter baumannii(n = 8)
+8(100.0)
+NA
+NA
+NA
+Proteus mirabilis(n = 5)
+5(100.0)
+NA
+NA
+0
+Enterobacter aerogenes(n = 5)
+5(100.0)
+NA
+NA
+0
+Overall
+127/164(77.4)
+11/38(29.0)
+5/38(13.2)
+39/80(48.8)
+MDR-multi-drug resistant, MRSA-methicillin resistant Staphylococcus aureus ICR-inducible clindamycin resistance, ESBL-extended – 
+spectrum beta-lactamase, NA- not applicable.
+4
+D. CHIPAGA ET AL.
+
+
+===== PAGE 6 =====
+
+The predominance of Gram-negative bacteria in 
+the current study was consistent with the previous 
+findings from the same setting in 2014 [19]. Similar 
+observations were also reported in Ghana in 2020 [24] 
+and Uganda in 2019 [16]. A possible reason could be 
+contamination with intestinal tract flora during 
+abdominal surgery, as Escherichia coli was the predo­
+minant bacteria. However, there are variations in dif­
+ferent studies. The predominant bacteria in a study in 
+Iraq in 2021 was Klebsiella pneumonia [25], while 
+a study in India reported Staphylococcus aureus [26]. 
+In addition, another study in Tanzania reported 
+Pseudomonas aeruginosa [19]. These variations are 
+anticipated due to variations in the geographic distri­
+bution of causative agents, population, surgical proce­
+dure, location of surgery, and the IPC practice.
+Participants received antimicrobial prophylaxis, 
+either ceftriaxone alone or ceftriaxone and metronida­
+zole. A similar practice was reported in Ethiopia 
+[27,28]. Our study revealed that over half of Gram- 
+negative bacteria were resistant to ceftriaxone. 
+Ceftriaxone is also ineffective in treating infection 
+caused 
+by 
+Pseudomonas 
+aeruginosa 
+and 
+Staphylococcus aureus [29,30]. Our finding was com­
+parable to a study in Rwanda in 2019, which reported 
+53.3% resistance to ceftriaxone [31]. The level of resis­
+tance to ceftriaxone observed in the study indicates 
+that the current preoperative prophylaxis regimen is 
+ineffective. There is a need for appropriate antimicro­
+bial prophylaxis as it has been found to prevent 
+SSI [32].
+The current study found a high resistance rate to 
+ampicillin, amoxicillin/clavulanic acid, cotrimoxazole, 
+and ciprofloxacin. The study in Iraq reported a similar 
+antimicrobial susceptibility pattern [25]. The high 
+resistance rate to commonly used antimicrobials may 
+be caused by widespread and indiscriminate use, poor 
+patient compliance, and self-treatment without pre­
+scription, as reported in Mwanza 2011 [33]. On the 
+other hand, most Gram-negative bacteria were sensi­
+tive to amikacin and meropenem, which is consistent 
+with the previous studies in India [34,35]. The low 
+resistance rate to amikacin and meropenem could be 
+explained by the fact that they are rarely used and are 
+more expensive.
+The proportion of ESBL-producing bacteria was 
+comparable to a study in Ethiopia in 2020 [36]. 
+Acinetobacter baumannii was highly resistant to most 
+antimicrobials. The findings were similar to the study 
+conducted in the same hospital in 2014 [19]. The 
+similarity implies the persistent spread of MDR 
+Acinetobacter baumannii in our setting. The presence 
+of MDR bacteria acquired from hospital contamina­
+tion indicates poor IPC practices [37]. In short, IPC 
+interventions such as hand washing and environmen­
+tal decontamination play a significant role in infection 
+and MDR reduction [38]. Therefore, there is a need to 
+strengthen IPC and antimicrobial stewardship. The 
+findings are worrisome as MDR pathogens are diffi­
+cult to treat. A similar situation may occur in facilities 
+with limited IPC and antimicrobial stewardship prac­
+tices, which depend on empirical therapy. Simple 
+interventions like hand hygiene, environmental sur­
+face cleaning, decontamination, wearing personal pro­
+tective equipment, 
+and 
+continuing education 
+effectively prevent SSI [39].
+Our study’s limitation was that we did not include 
+anaerobic bacterial culture because of limited facilities 
+for isolation and identification. In addition, we should 
+have followed up with patients to determine their 
+outcomes because most isolates were MDR strains. 
+Our work was limited to conventional laboratory 
+methods, but molecular methods could have been 
+useful in detecting virulence and antimicrobial resis­
+tance genes.
+5. Conclusion
+Gram-negative pathogens were the predominant cause 
+of SSI, with a relatively high proportion of MDR. The 
+pathogens were significantly resistant to ceftriaxone 
+used for prophylaxis. The overuse of ceftriaxone as 
+preoperative prophylaxis could be the factor behind 
+the high prevalence of MDR. We advocate periodic 
+reviews of antimicrobial prophylaxis and treatment 
+practices, strengthening IPC measures, and antimicro­
+bial stewardship. Further studies are recommended to 
+evaluate the effectiveness of IPC interventions.
+Competing interests
+undefined
+Acknowledgements
+We appreciate the support of the clinical team in the surgical 
+department at Muhimbili National Hospital and the 
+Orthopaedic wards at Muhimbili Orthopedic Institute. In 
+addition, we would like to express our heartfelt gratitude to 
+the patients who volunteered to participate in the study.
+Disclosure statement
+No potential conflict of interest was reported by the 
+author(s).
+Funding
+The study received financial support from the Ministry of 
+Health, Tanzania. The funder did not contribute to study 
+design, data collection, analysis, or manuscript writing.
+ALEXANDRIA JOURNAL OF MEDICINE
+5
+
+
+===== PAGE 7 =====
+
+Notes on contributors
+Dr. Damas Chipaga, a Clinical Microbiologist, recently 
+completed postgraduate studies in microbiology and immu­
+nology at Muhimbili University of Health and Allied 
+Sciences.
+Dr. Mtebe Majigo, a Senior Lecturer in the Department of 
+Microbiology and Immunology at Muhimbili University of 
+Health and Allied Sciences.
+Dr. Biswaro Malima, a clinical microbiologist, recently 
+completed postgraduate studies in microbiology and immu­
+nology at Muhimbili University of Health and Allied 
+Sciences.
+Prof. Agricola Joachim, an Assistant Professor in the 
+Department of Microbiology and Immunology at 
+Muhimbili University of Health and Allied Sciences.
+ORCID
+Mtebe Majigo 
+http://orcid.org/0000-0003-3726-2816
+Abbreviations
+ESBL 
+Extended-spectrum beta-lactamase
+ICR 
+Inducible clindamycin resistance
+IPC 
+infection prevention and Control
+LMIC 
+Low-Middle-Income Countries
+MDR 
+multidrug-resistant
+MRSA 
+Methicillin-resistant Staphylococcus aureus
+SSI 
+Surgical site infections
+Ethics approval and consent to participate
+Ethical clearance DA.282/298/01.C/1240 was obtained 
+from the Muhimbili University of Health and Allied 
+Sciences Research and Publications Committee. We got 
+permission from the hospital management. Patients 
+gave written informed consent before enrollment. We 
+used codes instead of participants’ names to ensure the 
+confidentiality of the study participants. The laboratory 
+results were reported to the physician for patient care.
+Authors contributions
+Damas Chipaga: Conceptualization, Methodology, Data 
+curation, Writing – original draft preparation. Mtebe 
+Majigo: Conceptualization, Methodology, Supervision, 
+Writing-reviewing and Editing. Biswaro Malima: Writing- 
+reviewing and Editing. Agricola Joachim: Supervision, 
+Writing-reviewing and Editing. All authors approved the 
+final manuscript. Damas Chipaga and Mtebe Majigo con­
+tributed equally to this work.
+Availability of data and material
+All data generated in this study are included in this manu­
+script and can be obtained from the corresponding author at 
+a reasonable request
+References
+[1] Korol E, Johnston K, Waser N, et al. A systematic review 
+of risk factors associated with surgical site infections 
+among surgical patients. PLOS ONE. 2013;8(12): 
+e83743. doi: 10.1371/journal.pone.0083743  
+[2] Hegy AI, Alshaalan S, Alkuraya H, et al. Surgical site 
+infection: a systematic review. IJMDC. 2021;5 
+(2):730–737. doi: 10.24911/IJMDC.51-1605163946  
+[3] Herman A, Massenga G, Chilonga KS, et al. Surgical 
+site infection: the rate and antimicrobial sensitivity 
+pattern in Electively operated surgical and gynecolo­
+gical patients at Kilimanjaro Christian Medical cen­
+tre, Northern Tanzania. J Surg Surg Res. 2017;3 
+(1):001–5. doi: 10.17352/2455-2968.000034  
+[4] Shakir A, Abate D, Tebeje F, et al. Magnitude of surgical 
+site infections, bacterial etiologies, associated factors and 
+antimicrobial susceptibility patterns of isolates among 
+post-operative patients in Harari Region Public 
+Hospitals, Harar, Eastern Ethiopia. IDR. 2021; 
+Volume 14:4629–4639. doi: 10.2147/IDR.S329721  
+[5] Monahan M, Jowett S, Pinkney T, et al. Surgical site 
+infection and costs in low- and middle-income coun­
+tries: A systematic review of the economic burden. 
+PLOS ONE. 2020;15(6):e0232960. doi: 10.1371/jour 
+nal.pone.0232960  
+[6] Biccard BM, Madiba TE, Kluyts H-L, et al. Perioperative 
+patient outcomes in the African Surgical Outcomes 
+study: a 7-day prospective observational cohort study. 
+The Lancet. 2018;391(10130):1589–1598. doi: 10.1016/ 
+S0140-6736(18)30001-1  
+[7] Harbarth S, Sax H, Gastmeier P. The preventable 
+proportion of nosocomial infections: an overview of 
+published reports. J Hosp Infect. 2003;54(4):258–266. 
+doi: 10.1016/S0195-6701(03)00150-6  
+[8] Mehtar S, Wanyoro A, Ogunsola F, et al. 
+Implementation of surgical site infection surveillance 
+in low- and middle-income countries: A position 
+statement for the International Society for Infectious 
+Diseases. Int J Infect Dis. 2020;100:123–131. doi: 10. 
+1016/j.ijid.2020.07.021  
+[9] Purba AKR, Setiawan D, Bathoorn E, et al. Prevention 
+of surgical site infections: a systematic review of cost 
+analyses in the use of prophylactic antibiotics. Front 
+Pharmacol. 2018;9:377793. doi: 10.3389/fphar.2018. 
+00776  
+[10] Ling ML, Apisarnthanarak A, Abbas A, et al. APSIC 
+guidelines for the prevention of surgical site 
+infections. Antimicrob Resist Infect Control. 2019;8 
+(1):1–8. doi: 10.1186/s13756-019-0638-8  
+[11] Fowler AJ, Dias P, Hui S, et al. Liberal or restrictive 
+antimicrobial prophylaxis for surgical site infection: 
+systematic review and meta-analysis of randomised 
+trials. Br J Anaesth. 2022;129(1):104–113. doi: 10. 
+1016/j.bja.2022.04.013  
+[12] Gebretekle GB, Haile Mariam D, Abebe Taye W, et al. 
+Half of prescribed antibiotics are not needed: a 
+pharmacist-led antimicrobial stewardship interven­
+tion and clinical outcomes in a referral hospital in 
+Ethiopia. Front Public Health. 2020;8:109. doi: 10. 
+3389/fpubh.2020.00109  
+[13] Wenzel RP. Surgical site infections and the microbiome: 
+An updated perspective. Infect Control Hosp Epidemiol. 
+2019;40(5):590–596. doi: 10.1017/ice.2018.363  
+[14] Nurjadi D, Eichel VM, Tabatabai P, et al. Surveillance 
+for colonization, transmission, and infection with 
+methicillin-susceptible Staphylococcus aureus in 
+6
+D. CHIPAGA ET AL.
+
+
+===== PAGE 8 =====
+
+a neonatal intensive care unit. JAMA network open. 
+JAMA 
+Network 
+Open. 
+2021;4(9):e2124938– 
+e2124938. doi: 10.1001/jamanetworkopen.2021.24938  
+[15] Lin Q, Wang Y, Yu J, et al. Bacterial characteristics of 
+carbapenem-resistant Enterobacteriaceae (CRE) colo­
+nized strains and their correlation with subsequent infec­
+tion. BMC infectious diseases, 2021. BMC Infect Dis. 
+2021;21(1):1–12. doi: 10.1186/s12879-021-06315-0  
+[16] Hope D, Ampaire L, Oyet C, et al. Antimicrobial 
+resistance in pathogenic aerobic bacteria causing sur­
+gical site infections in Mbarara regional referral hos­
+pital, Southwestern Uganda. Sci Rep. 2019;9(1):17299. 
+doi: 10.1038/s41598-019-53712-2  
+[17] Hou Y, Collinsworth A, Hasa F, et al. Incidence and 
+impact of surgical site infections on length of stay and 
+cost of care for patients undergoing open procedures. 
+Surg Open Sci. 2023;11:1–18. doi: 10.1016/j.sopen. 
+2022.10.004  
+[18] Horan TC, Gaynes RP, Martone WJ, et al. CDC 
+definitions of nosocomial surgical site infections, 
+1992: a modification of CDC definitions of surgical 
+wound infections. Infect Control Hosp Epidemiol. 
+1992;13(10):606–608. doi: 10.1086/646436  
+[19] Manyahi J, Matee MI, Majigo M, et al. Predominance 
+of multi-drug resistant bacterial pathogens causing 
+surgical site infections in Muhimbili National 
+Hospital, Tanzania. BMC Res Notes. 2014;7(1):1–7. 
+doi: 10.1186/1756-0500-7-500  
+[20] (CLSI). C.a.L.S.I. Performance Standards for 
+Antimicrobial Susceptibility Testing. Vols. M100- 
+Ed32. Wayne, PA: Clinical and Laboratory 
+Standards Institute (CLSI); 2021.
+[21] Wayne P. Methods for dilution antimicrobial suscept­
+ibility tests for bacteria that grow aerobically. 
+Approved standard M7-A7. Clinical and Laboratory 
+Standards Institute; 2006.
+[22] Amro MMY, Güler E, Süer K, et al. Which 
+Phenotypic Method is the Most Accurate for 
+Detection of Extended–Spectrum β-Lactamases 
+(ESBLs) in Escherichia coli? Clin And Exp Health 
+Sci. 
+2022;12(3):624–628. 
+doi: 
+10.33808/clinex 
+phealthsci.987433  
+[23] Magiorakos A-P, Srinivasan A, Carey RB, et al. 
+Multidrug-resistant, extensively drug-resistant and 
+pandrug-resistant bacteria: an international expert 
+proposal for interim standard definitions for acquired 
+resistance. Clinical microbiology and infection. Clin 
+Microbiol And Infect. 2012;18(3):268–281. doi: 10. 
+1111/j.1469-0691.2011.03570.x  
+[24] Bediako-Bowan AA, Kurtzhals JAL, Mølbak K, et al. 
+High rates of multi-drug resistant gram-negative 
+organisms associated with surgical site infections in 
+a teaching hospital in Ghana. BMC infectious 
+diseases. BMC Infect Dis. 2020;20(1):1–9. doi: 10. 
+1186/s12879-020-05631-1  
+[25] Ali KM, Al-Jaff BMA. Source and antibiotic suscept­
+ibility of gram-negative bacteria causing superficial 
+incisional surgical site infections. Int J Surg Open. 
+2021;30:100318. doi: 10.1016/j.ijso.2021.01.007  
+[26] Bhattacharya S. Surgical site infection by methicillin 
+resistant staphylococcus aureus–On decline? J Clin 
+And Diagnostic Res: JCDR. 2016;10(9):DC32. doi:  
+10.7860/JCDR/2016/21664.8587  
+[27] Habteweld HA, Yimam M, Tsige AW, et al. Surgical 
+site infection and antimicrobial prophylaxis prescrib­
+ing profile, and its determinants among hospitalized 
+patients in Northeast Ethiopia: a hospital based 
+cross-sectional study. Sci Rep. 2023;13(1):14689. doi:  
+10.1038/s41598-023-41834-7  
+[28] Kefale B, Tegegne GT, Degu A, et al. Surgical site 
+infections and prophylaxis antibiotic use in the surgi­
+cal ward of public Hospital in Western Ethiopia: A 
+Hospital-Based retrospective cross-sectional study. 
+IDR. 2020;Volume 13:3627–3635. doi: 10.2147/IDR. 
+S281097  
+[29] Gashe F, Mulisa E, Mekonnen M, et al. Antimicrobial 
+resistance profile of different clinical isolates against 
+third-generation cephalosporins. J Pharm (Cairo). 
+2018;2018:1–7. doi: 10.1155/2018/5070742  
+[30] Gelaw LY, Bitew AA, Gashey EM, et al. Ceftriaxone 
+resistance among patients at GAMBY teaching gen­
+eral hospital. Sci Rep. 2022;12(1):12000. doi: 10.1038/ 
+s41598-022-16132-3  
+[31] Mukagendaneza MJ, Munyaneza E, Muhawenayo E, 
+et al. Incidence, root causes, and outcomes of sur­
+gical site infections in a tertiary care hospital in 
+Rwanda: a prospective observational cohort study. 
+Patient Saf Surg. 2019;13(1):1–8. doi: 10.1186/ 
+s13037-019-0190-8  
+[32] Allen J, David M, Veerman J. Systematic review of the 
+cost-effectiveness of preoperative antibiotic prophy­
+laxis in reducing surgical-site infection. BJS Open. 
+2018;2(3):81–98. doi: 10.1002/bjs5.45  
+[33] Mawalla B, Mshana SE, Chalya PL, et al. Predictors of 
+surgical site infections among patients undergoing 
+major surgery at Bugando Medical Centre in 
+Northwestern Tanzania. BMC Surg. 2011;11(1):1–7. 
+doi: 10.1186/1471-2482-11-21  
+[34] Negi V. Bacteriological Profile of Surgical Site 
+Infections and Their Antibiogram: A Study from 
+Resource Constrained Rural Setting of Uttarakhand 
+State, India. India J Clin And Diagnostic Res: JCDR. 
+2015;9(10):DC17. doi: 10.7860/JCDR/2015/15342. 
+6698  
+[35] Vishnu Vardhana Rao M, Pradeep MSS. A study on 
+surgical site infections, their bacteriological profile 
+and antimicrobial susceptibility pattern. IJMMTD. 
+2019;5(1):9–13. doi: 10.18231/2581-4761.2019.0003  
+[36] Tufa TB, Fuchs A, Tufa TB, et al. Correction to: High 
+rate of extended-spectrum beta-lactamase-producing 
+gram-negative infections and associated mortality in 
+Ethiopia: a systematic review and meta-analysis. 
+Antimicrob Resist Infect Control. 2020;9(1):1–10. 
+doi: 10.1186/s13756-020-00806-6  
+[37] Odoyo E, Matano D, Tiria F, et al. Environmental 
+contamination across multiple hospital departments 
+with multidrug-resistant bacteria pose an elevated 
+risk of healthcare-associated infections in Kenyan 
+hospitals. Antimicrob Resist Infect Control. 2023;12 
+(1):22. doi: 10.1186/s13756-023-01227-x  
+[38] Li M, Wang X, Wang J, et al. Infection-prevention 
+and control interventions to reduce colonisation and 
+infection 
+of 
+intensive 
+care 
+unit-acquired 
+carbapenem-resistant Klebsiella pneumoniae: a 
+4-year quasi-experimental before-and-after study. 
+Antimicrob Resist Infect Control. 2019;8(1):1–10. 
+doi: 10.1186/s13756-018-0453-7  
+[39] Vilar-Compte D, Camacho-Ortiz A, Ponce-de-León 
+S. Infection control in limited resources countries: chal­
+lenges and priorities. Current infectious disease 
+reports. Curr Infect Disease Rep. 2017;19(5):1–7. 
+doi: 10.1007/s11908-017-0572-y
+ALEXANDRIA JOURNAL OF MEDICINE
+7

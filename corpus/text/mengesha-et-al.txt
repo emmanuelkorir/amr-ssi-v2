@@ -1,0 +1,770 @@
+
+
+===== PAGE 1 =====
+
+RESEARCH ARTICLE
+Open Access
+Aerobic bacteria in post surgical wound
+infections and pattern of their antimicrobial
+susceptibility in Ayder Teaching and Referral
+Hospital, Mekelle, Ethiopia
+Reiye Esayas Mengesha1, Berhe Gebre-Slassie Kasa1, Muthupandian Saravanan2, Derbew Fikadu Berhe3
+and Araya Gebreyesus Wasihun2*
+Abstract
+Background: Post surgical wound infections are global problem in the field of surgery associated with long
+hospital stay, higher treatment expenditure, morbidity and mortality. Hence to address the limited data in Ethiopia
+on post surgical wound infections, we conducted this research to determine the prevalence and antimicrobial
+susceptibility patterns of aerobic bacteria in post-surgical wound infected patients in Ayder teaching and referral
+hospital, Mekelle, Ethiopia.
+Methods: Hospital based prospective cross sectional study was carried-out in 128 patients who had undergone
+surgery in general surgery and orthopaedic wards, and showed symptoms of infection clinically from January to
+June 2012. Standard bacteriological methods were used for bacterial isolation and antimicrobial susceptibility pattern.
+Results: A total of 128 patients (98 male and 30 female) with clinical signs of post surgical wound infections were
+enrolled. The age of the patients ranged from 15–79 years (with mean 35.95 ± 19.01 years). Out of the 128 wound
+swabs taken, 96/128 (75%) were culture positive aerobically, yielding 123 bacterial isolates. Out of these the
+predominant bacterial isolates were Staphylococcus aureus 44 (35.77%), Klebsiella species 29 (22.76%) and Coagulase
+negative Staphylococci (CoNS) 18 (14.63%). No bacterial isolates was found to be sensitive to all antibiotics tested.
+Isolated bacteria showed 102/123 (82.92%) multi drug resistance to the commonly used antibiotics in the hospital.
+However, 54/ 65 (83.1%) of Gram negative and 58/58 (100%) of Gram positive isolates were sensitive to Gentamicin
+and Vancomycin, respectively.
+Conclusion: Prevalence of was Post-operative wound infections rate in this current study was 75% and multi drug
+resistance was seen in 102/123(82.92%) of the isolates leaving clinicians with few choices of drugs for the treatment
+of post surgical wound infected patients. This underscores for periodic surveillance of etiologic agent and antibiotic
+susceptibility to prevent further emergence and spread of resistant bacteria pathogens.
+Keywords: Surgical ward, Post-surgical wound infection, Aerobic bacteria, Antimicrobial susceptibility, Drug resistance
+* Correspondence: araya13e25@gmail.com
+2Department of Medical Microbiology, Mekelle University College of Health
+Sciences, P.O. Box 1871, Mekelle, Ethiopia
+Full list of author information is available at the end of the article
+© 2014 Mengesha et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the
+Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public
+Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this
+article, unless otherwise stated.
+Mengesha et al. BMC Research Notes 2014, 7:575
+http://www.biomedcentral.com/1756-0500/7/575
+
+
+===== PAGE 2 =====
+
+Background
+Post-operative wound infections are major global problem
+in the field of surgery leading to many complications, in-
+creased morbidity and mortality [1,2]. Most post-surgical
+wound infections are hospital acquired and vary from one
+hospital to the other [3]. Lack of standardized criteria for
+diagnosis presents a challenge to monitor the global epi-
+demiology of surgical site infection. In addition to this,
+emerging of high anti-microbial resistance among bacter-
+ial pathogens has made the management and treatment of
+post-operative wound infections difficult [4]. The situation
+is serious in developing countries due to irrational pre-
+scriptions of antimicrobial agents [5]. The inoculum size,
+virulence and invasive capability of the organisms have
+been reported to influence the risk of infection. Moreover,
+the physiological state of the tissue in the wound and im-
+munological integrity of the host also has equal import-
+ance in determining occurrence of infection [6,7].
+In Ethiopia, different studies reported that the prevalence
+of post surgical wound infection ranges from 14.8% -60%
+[8-12]. S. aureus, Kelbsiella species, E. coli, Proteus species,
+Streptococcus species, Enterobacter species, Pseudomonas
+species and Coagulase negative Staphylococci were reported
+as the most common pathogens [10,11].
+P.aeruginosa is an epitome of opportunistic nosoco-
+mial pathogen, which causes a wide spectrum of infec-
+tions and leads to substantial morbidity in immuno
+compromised patients. Due to its high drug resistance to
+many antibiotics, the mortality rate is substantial [12,13].
+It is known that specific therapeutic options to patients
+with post surgical wound infections are mainly depend
+on data from antimicrobial susceptibility tests generated
+by clinical laboratories or sound epidemiological data
+from ongoing nosocomial infection surveillance [11].
+However, data on the spectrum of bacteria isolated from
+hospitalized patients and their antimicrobial susceptibility
+patterns to guide post operative wound infection in the re-
+gion is scarce. Furthermore, the magnitude and impact of
+multidrug resistance bacteria from post wound infections
+are unknown in Ayder referral and teaching hospital.
+Thus, this study aimed at determining the prevalence and
+drug susceptibility pattern of aerobic bacterial pathogens
+in post surgical wound infection in Ayder referral and
+teaching hospital.
+Methods
+Study design and sampling process
+Hospital based cross sectional study was conducted in
+Ayder referral and teaching hospital from January to June
+2012. The hospital is the only referral in the region serving
+for about 9 million people in including the neighbouring
+regions.
+The study population consisted of patients who under-
+gone surgery and developed SSI as diagnosed clinically
+by physicians within 30 days of having post surgical pro-
+cedure. The sample size was estimated considering 92%
+prevalence (20), 5% precision, and 95% confidence level;
+with 10% contingency, thus, a total of 128 patients were
+included. During the study period, a total of 610 patients
+had undergone surgery, out of which swab samples were
+collected from 128 who showed clinical sings of post
+surgical wound infection.
+Whereas surgical patients with community-acquired
+pyogenic infections such as abscess, furuncle and carbun-
+cles; patients with infection of an episiotomy; and patients
+with open fractures were not included the study.
+Postoperative wound infection: is defined as an infec-
+tion in the tissues of the incision and operative area that
+can commonly occurs between the fifth and 30th days
+after surgery.
+Data collection and laboratory procedures
+Demographic and clinical characteristics from patients
+were collected using structured questionnaire. Infected
+site was cleaned using normal saline and sterile gauze
+then, two wound swabs were collected using sterile cotton
+swabs from each patient and immediately transported to
+the laboratory.
+Bacterial identification
+Wound swabs were processed in the bacteriology labora-
+tory of the department of Medical Microbiology, Mekelle
+University, College of Health Sciences, within 1 hour of
+collection.
+The first wound swab was used to make Gram stain
+smears whereas the second one was inoculated into
+blood agar, MacConkey agar and mannitol-salt agar, and
+incubated at 37°C for 24–48 hours. Identification of Gram
+positive bacteria was done using Gram stain, hemolytic ac-
+tivity on sheep blood agar plates, catalase reaction and co-
+agulase test for Gram-positive bacteria. Gram-negative
+bacteria were identified based on colony morphology on
+blood agar and MacConkey agar, followed by biochemical
+reactions namely oxidase, triple sugar iron (TSI), Sulphur
+Indole and motility (SIM), citrate and urease tests [14].
+Drug susceptibility tests
+Following identification of the bacterial isolates, a standard
+disc diffusion technique for drug susceptibility test (DST)
+was performed as recommended by Clinical and Labora-
+tory Standard Institute (CLSI) [15]. Ampicillin (10 μg),
+Gentamicin (10 μg), Erythromycin (15 μg), Amoxicillin-
+clavunilic acid (30 μg), Ceftriazone (30 μg) Cloxacilline
+(5 μg) (Cypress) and Vancomycin (30 μg) were used for
+Gram positive isolates. Ampicillin (10 μg), Gentamicin
+(10 μg), Amoxacillin-clavunilic acid (30 μg), Amoxicillin
+(30 μg), Tetracycline (30 μg) Ciprofloxacin (5 μg) and
+Mengesha et al. BMC Research Notes 2014, 7:575
+Page 2 of 6
+http://www.biomedcentral.com/1756-0500/7/575
+
+
+===== PAGE 3 =====
+
+Ceftriazone (30 μg) (all Oxoid, England) Gram negative
+isolates were tested.
+Quality control
+Reference strains P.aeruginosa (ATCC-27853), E.coli
+(ATCC-25922) and S.aureus (ATCC-25923) were used as
+reference strains for identification and drug susceptibility
+testing.
+Data analysis
+SPSS version 16 soft ware was used for statistical analysis.
+Chi-square test was used to determine the relationship
+between the dependent and the independent variables.
+P value <0.05 was considered as statistically significant.
+Ethical issues
+The study was approved and ethically cleared by the
+Research and Ethical Review Committee of Mekelle
+University, College of Health Sciences (# REC REF 2012–
+127).
+Written informed consent was obtained from each
+study participants and parents or care takers. All patient
+information was kept confidential and secret using
+codes.
+Results
+We followed 610 successive patients (467 males and 143
+female) who were referred for surgery to the hospital
+during the study period. From these, 128 patients were
+included (98 male and 30 female) with clinical sings of
+post surgical wound infections. The age of the patients
+ranged from 15–79 years (mean 35.95 ± 19.01 years).
+Bacterial growth was seen in 96/128(75%) of the patients
+yielding a total of 123 bacterial isolates. Among the iso-
+lates, 58(47.2%) were Gram positive and 65 (52.8%) were
+Gram negative. S. aureus 44 (35.77%) and Klebsiella spe-
+cies 29(22.76%) were the dominant isolates (Table 1). Sin-
+gle bacterial isolates were recovered from 73/96(76.05%)
+patients whereas 23/96(23.95%) had polymicrobial infec-
+tions. S. aureus and Proteus species was the most common
+association (7 cases). Other frequent associations were:
+S. aureus and Klebsiella species (6 cases), Proteus species
+and CoNS (5 cases), S. aureus and CoNS (2 cases), CoNS
+and E.coli (2 cases) and Klebsiella species and CoNS
+(1 case). Sixty (46.87%), 36(28.12%) and 31(24.2%) of the
+patients were given Ceftriazone, Cloxacilline and combin-
+ation of both, respectively for pre-surgical prophylaxis.
+Drug resistance of isolated Gram negative bacteria, irre-
+spective of species/genus, was 92.3% to Ampicillin, 92.3%
+to Tetracycline and 92.3% to Amoxicillin, 81.5% to Cef-
+triazone, 69.2% to Amoxicillin Clavunilic acid, 46.2% for
+Ciprofloxacin, 26.2% to Erythromycin and 16.9% for Gen-
+tamicin. Klebseilla species showed 100%, 93.1%, 89.7%
+and 86.2% resistance for Amoxicillin, Tetracycline and
+Ceftriazone, respectively. P. aeruginosa isolates were 100%
+resistant for Ceftriazone, Amoxicillin, Amoxicillin clavuni-
+lic acid and Tetracycline. All P. aeruginosa isolates were;
+however, 100% sensitive to Gentamicin. All the 15 (100%)
+Proteusspecies were resistant for Amoxicillin and Tetracyc-
+line whereas, Gentamicin was 12/15 (80%) sensitive. Isolated
+E.coli showed 100% resistance to Amoxicillin -clavulunic
+acid, Tetracycline and Ampicillin, whereas, all of them 6
+(100%) were sensitive for Gentamicin.
+Isolated Citrobacter species were 100% sensitive to Gen-
+tamicin, while all 4(100%) of them were resistant to Ampi-
+cillin (Table 2).
+Resistance by S.aureus was 36/40 (90%) to Tetracycline,
+Ceftriazone and Ampicillin, and 34/40 (85%) to Cloxacil-
+line. All of the isolates S.aureus 40(100%) were sensitive
+for Vancomycin. High resistance rate of CoNS was ob-
+served for Amoxicillin, Amoxicillin-clavunilic acid, Ampi-
+cillin and Tetracycline, 88.9%, 77.8%, 77.8% and 77.8%,
+respectively.
+All isolates of CoNS 18(100%) were however, sensitive
+for Vancomycin (Table 3).
+In the univariate analysis, statistically significant asso-
+ciation was not seen between sex and bacterial infection
+though more bacteria were recovered from male (P =
+0.055). Age of the patient has no significant association
+with the frequency of bacteria isolation (P =0.064).
+On multivariate logistic regression analysis, longer dur-
+ation from admission to discharge, longer duration of pre-
+operative, wound type, ward type and type of operation
+were statistically associated with bacteria isolation from
+post operative wound infection (Table 4).
+Discussion
+Wound infections rate in this present study was 75%
+which corroborates the reports from Niger 74.9% [16] and
+Nepal 80% [2] and rural tertiary hospital in Nigeria 70.1%
+[3] but higher than Addis Ababa 14.8% [8], North Ethiopia
+44.1% [12], Kenya 7% [17] and tertiary care hospital in
+Table 1 Frequency of aerobic bacteria from post-
+operative wound infection at Ayder Teaching and
+Referral Hospital, Mekelle, Ethiopia (January to June 2012)
+No.
+Microorganism
+Frequency N (%)
+1
+S. aureus
+40 (34.2)
+2
+Klebsiella spp.
+29 (24.8)
+3
+CoNSa
+18 (15.4)
+4
+Proteus spp.
+15 (12.8)
+5
+P. aeruginosa
+11 (9.4)
+6
+E. coli
+6 (5.1)
+7
+Citrobacter spp.
+4 (3.4)
+Total
+123 (100)
+aCoagulase negative staphylococci.
+Mengesha et al. BMC Research Notes 2014, 7:575
+Page 3 of 6
+http://www.biomedcentral.com/1756-0500/7/575
+
+
+===== PAGE 4 =====
+
+Gujarat, India 68.85% [13]. However, our finding was lower
+than reports from India 84% [18] , South Ethiopia 92% [19]
+and West Ethiopia 96.3%( 10). This difference in prevalence
+of post-operative infection may be due to variation in com-
+mon nosocomial pathogens inhabitant, difference in policy
+of infection control and prevention between countries and
+hospitals, and study design used in the researches.
+Multiple infections among post surgical wound in-
+fected patients was seen in 23(23.95%) of patients where
+S. aureus and Proteus species was the most common as-
+sociation where are the rest 77(87.5%) have shown single
+bacterial infection. S.aureus followed by Klebsiella spp
+was the predominant isolate which is in agreement to
+findings from Kenya [17] and Ethiopia [19]. S. aureus
+was the most prevalent isolates. This was in line with
+previous surveillance conducted in Ethiopia [10], Uganda
+[1], India [18] and Niger [20]. The normal flora na-
+ture of S.aureus in the skin and anterior nares, which
+can enter to deep site during surgery of the natural barrier
+of the skin, could be the possible justification for its high
+prevalence [1,21].
+Again the high prevalence rate of Entero-bacterial iso-
+lates in the current study could reveal faecal contamination
+due to poor personnel hygiene [16] or due to post proced-
+ural contamination [14].
+Bacterial growth was not seen in 32/128 (25%) patients,
+which could attribute to the normal healing process of the
+wound by host immune system, antimicrobial activity or
+appropriate use of antiseptics for cleaning the wounds. It
+could also be due to anaerobic bacteria or fungi infection
+which we could miss due to the use of culture media that
+only support the aerobic bacteria [22,23].
+Patients who were given pre-operative antibiotic prophy-
+laxis (Cloxacilline, Ceftriazone or both) developed more
+surgical site infections and drug resistance for these drugs.
+This was similar with the study done in Ethiopia by Taye
+(8) where patients who received preoperative antibiotics
+have a statistically significant higher wound infection rate
+(p < 0.001).
+The present in vitro antimicrobial sensitivity test showed
+that isolated bacteria react differently to various antibiotics.
+Thirty six (90%) of the isolated S.aureus in our study were
+sensitive to Gentamicin similar to the report from Ethiopia
+[19,24], Nepal [2] and Uganda [1]. However, 80% resistance
+of S.aureus to Gentamicin was reported elsewhere [25].
+The difference could be due to the difference in pre-
+scribing this antibiotic for the treatment of the bacteria
+from hospital to hospital. All the isolated S.aureus 40
+(100%) were susceptible to Vancomycin in our finding
+exactly the same with that of report from Nepal 100%
+[2] and from West Ethiopia 100% [24]. But resistance of
+66.7% to Vancomycin was seen elsewhere [12,19]. Higher
+resistance 90% of S.aureus for Ceftriazone was observed
+in our current study than others [2,19,26]. High resist-
+ance rate (98.6-100%) was seen by Klebsiella spp. to Cef-
+triazone, Ampicillin and Amoxicillin similar to the
+report by from Ethiopia [24]. Less resistance 27.8.2% was
+observed to Gentamicin similar to study done elsewhere
+[2], but in contrary to our result, 100% resistance was
+Table 2 Antimicrobial resistance pattern of Gram-negative aerobic bacteria in SSI patients attending Ayder Referral
+Hospital, Mekelle, Ethiopia (January to June 2012) No (%)
+Antibiotic
+Klebsiella spp.
+P. aeruginosa
+Proteus spp.
+E.coli
+Citrobacter spp.
+Total
+(n = 29)
+(n = 11)
+(n = 15)
+(n = 6)
+(n = 4)
+(n = 65)
+Ceftriazone
+25 (86.2)
+11 (100)
+11 (73.3)
+4 (66.7)
+2 (50)
+53 (81.48)
+Erythromycin
+13 (44.8)
+3 (36.4)
+9 (60)
+2 (33.3)
+2 (50)
+17 (26.2)
+Amoxicillin
+29 (100)
+11 (100)
+15 (100)
+4 (66.7)
+3 (75)
+62 (92.3)
+Amoxicillin
+19 (65.5)
+11 (100)
+7 (46.7)
+6 (100)
+2 (50)
+45 (69.2)
+clavunilic acid
+Gentamicin
+8 (27.8)
+------
+3 (20)
+-------
+------
+11 (16.9)
+Tetracycline
+27 (93.1)
+11 (100)
+13 (86.7)
+6 (100)
+3 (75)
+60 (92.3)
+Ampicillin
+26 (89.7)
+11 (100)
+13 (86.7)
+6 (100)
+4 (100)
+60 (92.3)
+Ciprofloxacin
+11 (37.9)
+9 (81.8)
+7 (46.7)
+1 (16.7)
+2 (50)
+30 (46.2)
+Table 3 Antimicrobial resistance pattern of Gram-positive
+aerobic bacteria in SSI patients at Ayder Referral Hospital,
+Mekelle, Ethiopia (January to June 2012) No (%)
+Antibiotic
+S.aureus
+(n = 40)
+CoNS
+(n = 18)
+Total
+(n = 58)
+Cloxacilline
+34 (85)
+14 (77.8)
+48 (82.8)
+Erythromycin
+9 (22.5)
+9 (50)
+18 (30)
+Amoxicillin
+37 (82.5)
+16 (88.9)
+49 (84.5)
+Amoxicillin clavunilic acid
+20 (50)
+14 (77.8)
+34 (59.6)
+Gentamicin
+4 (22.2)
+9 (50)
+16 (27.6)
+Tetracycline
+36 (90)
+14 (77.8)
+50 (86.2)
+Ceftriazone
+36 (90)
+13 (72.3)
+41 (71.7)
+Ampicillin
+36 (90)
+14 (77.8)
+40 (70)
+Vancomycin
+-----
+----
+----
+CoNS = Coagulase negative staphylococci.
+Mengesha et al. BMC Research Notes 2014, 7:575
+Page 4 of 6
+http://www.biomedcentral.com/1756-0500/7/575
+
+
+===== PAGE 5 =====
+
+reported from India [26]. The isolated P.aeruginosa were
+100% resistant to Ceftriaxon, Amoxicillin, Tetracycline
+and Ampicillin similar resistance was reported elsewhere
+[19,26] but as reported from Nepal [2] all isolates were
+100% susceptible for Gentamicin.
+Isolated E. coli were 100% resistant to Ampicillin simi-
+lar result for Ampicillin was seen from Uganda [1], but
+all of them (100%) were sensitive for Gentamicin, similar
+to the result elsewhere [1,19,24]. Citrobacter spp were
+100% resistant to Ampicillin exactly similar to the find-
+ings from Ethiopia 100% [24]. They were; however, all
+100% sensitive to Gentamicin which is opposite to the
+result from Ethiopia [24] where all isolates were 100%
+resistant. Possible explanations for the disparity in drug
+resistance over places could attribute to the difference in
+the rational use of antibiotics in the study areas. In gen-
+eral multiple antibiotics resistance was seen in 81.4% of
+Gram negative and 82.8% of the Gram positive isolates.
+All isolated bacteria were highly resistant to Ampicillin,
+Ceftriazone, Tetracycline, Amoxicillin, Amoxicillin- clavu-
+nic acid and Cloxacilline. This remarkably higher resistance
+may be due to their easily availability and indiscriminate
+use of the drugs without proper prescription. Vancomycin,
+Gentamicin and Erythromycin in our study appear to be
+effective against post surgical wound infection in the study
+area that can be used with caution. On multivariate logistic
+regression analysis, longer duration from admission to dis-
+charge, longer duration of pre-operative, wound type, ward
+type and type of operation were statistically associated with
+bacteria isolation from postsurgical wound infection which
+in lines with studies done elsewhere [27,28]. This is because
+patients with wound class III/contaminated (open, fresh,
+accidental wounds) and class IV/dirty-Infected (old trau-
+matic wounds with retained devitalized tissue) and those
+that involve existing clinical infection or perforated viscera
+are at high risk to develop SSI (30). Orthopaedic wards,
+since patients require longer hospitalization time to re-
+cover from their bone cases, they become prone for post
+operative wound infections. In our present study patients
+who underwent emergency surgery type operation were at
+higher risk that those who underwent elective type oper-
+ation. This may probably, due to the lack of readiness for
+operation on the patients’ side (8).
+Limitation
+The study did not isolate strict anaerobes bacteria and
+fungi, which could have increased the number of bacter-
+ial isolates reported as negative cultures.
+Table 4 Multivariate logistic regression analysis for factors associated with bacterial isolation from post operative
+patients at Ayder Referral Hospital, Mekelle, Ethiopia (January to June 2012)
+Variable
+Bacteria isolated from SSI (n = 96)
+AOR [95% CI]
+P value
+Age (years)
+15-30
+19 (19.8)
+2.07 (0.73-2.64)
+31 – 40
+25 (26.04)
+3.83 (0 .42- 1.61)
+0.064
+41-50
+22 (22.9)
+1.03 ( 0.24- 2.87)
+≥50
+30 (31.3)
+2.84 ( 0.86- 2.67)
+Sex
+Male
+54 (56.3)
+1.8 (0.96-4.19)
+Female
+42 (43.7)
+1.42 (0 .21- 0.82)
+0.055
+Wound type
+Class I
+9 (9.4)
+2.08 (0.92-1.46)
+Class II
+17 (17.7)
+2.43 (0.72-3.46)
+0.029
+Class III
+29 (30.2)
+3.92 (1.73 - 5.77)
+Class IV
+41 (42.7)
+5.41 (2.81-4.91)
+Ward type
+General Surgery
+26 (27.1)
+2.78 ( 0.93-1.25)
+Orthopaedic
+70 (72.9)
+4.13 (1.18 – 3.10)
+0.012
+Operation type
+Elective
+35 (36.5)
+1.95 (1.24 - 4.65)
+0.038
+Emergency
+61 (63.5)
+5.71 (2.09-5.38)
+Duration from
+≤1 day
+39 (40.6)
+0.83 (0.72-3.46)
+0.014
+admission to operation
+> 1 days
+57 (59.4)
+3.83 (1.94 - 2.07)
+Duration from operation
+<14 days
+33 (34.4)
+2.06 (0.72-3.46)
+0.008
+to discharge
+>14 days
+63 (65.6)
+4.92 (3.62-6.96)
+Pre-operative
+Cloxacilline
+60 (46.87)
+1.51 (1.92-3.06)
+chemoprophylaxis
+Ceftriazone
+36 (28.1)
+3.91 (2.67-4.01)
+0.021
+Cloxacilline+
+31 (24.2)
+3.16 (2.62-4.46)
+Ceftriazone
+Mengesha et al. BMC Research Notes 2014, 7:575
+Page 5 of 6
+http://www.biomedcentral.com/1756-0500/7/575
+
+
+===== PAGE 6 =====
+
+Conclusion
+Surgical site wound infection was high (75%) and multi
+drug resistance was seen in 102/123 (82.92%) of the isolates
+leaving clinicians with few choices of drugs for the treat-
+ment of post surgical wound infected patients. Wound
+type, longer preoperative stay, type of operation, wound
+class and ward type, showed statistically significant associ-
+ation with postoperative wound infection. Therefore, peri-
+odic surveillance of bacteria and antibiotic susceptibility is
+important to prevent further emergence and spread of re-
+sistant bacteria pathogens.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+Conceived and designed the experiments: RE, BG, AG, and DF. Specimen
+collection, microbiological laboratory investigation: AG. Supervised the
+clinical component of research: BG and RE. Performed the experiments:
+AG DF and MS. Wrote the manuscript: RE, AG, BG, DF and MS. All authors
+have read and approved the final manuscript.
+Authors’ information
+Araya Gebreyesus Wasihun (BSc in medical lab Sciences, MSc in medical
+micro biology) Dr. Reiye Esayasis Mengesha (MD+, Ass. Professor) a senior
+general surgeon.
+Dr. Berhe Gebre-Slassie Kasa (MD+, Ass. professor) is the only orthopedic
+surgeon in the hospital and department head of orthopedic surgery.
+Dr Muthupandian Saravanan (PhD, Ass. Professor in medical microbiology
+and currently in the department of medical microbiology and immunology).
+Mr. Derbew Fikadu Berhe (MSc, Ass.Professor in pharmacy, and PhD fellow in
+Netherlands.
+Acknowledgement
+We would like to thank participants for their willing to participate in the
+study and health workers in surgical wards for their excellent technical
+assistance. We also acknowledge Mekelle University College of Health
+Sciences for giving grant to conduct the research.
+Author details
+1Department of Surgery Mekelle University, College of Health Sciences, P.O.
+Box 1871, Mekelle, Ethiopia. 2Department of Medical Microbiology, Mekelle
+University College of Health Sciences, P.O. Box 1871, Mekelle, Ethiopia.
+3Department of Pharmacy Mekelle University, College of Health Sciences, P.O.
+Box 1871, Mekelle, Ethiopia.
+Received: 23 April 2014 Accepted: 18 August 2014
+Published: 27 August 2014
+References
+1.
+Anguzu JR, Olila D: Drug sensitivity patterns of bacterial isolates from
+septic post-operative wounds in a regional referral hospital in Uganda.
+Afr Health Sci 2007, 7(3):148–154.
+2.
+Raza MS, Chander A, Ranabhat A: Antimicrobial susceptibility patterns of
+the bacterial isolates in post-operative wound infections in a tertiary
+care hospital, Kathmandu, Nepal. OJMM 2013, 3(3):159–163.
+3.
+Isibor JO, Oseni A, Eyaufe A, Osagie R, Turay A: Incidence of aerobic
+bacteria & Candida albicans in post-operative wound infections. Afr J
+Microbial Res 2008, 2:288–291.
+4.
+Andhoga J, Macharia AG, Maikuma IR, Wanyonyi ZS, Ayumba BR, Kakai R:
+Aerobic pathogenic bacteria in post-operative wounds at Moi teaching
+and referral hospital. East Afr Med J 2002, 79(12):640–644.
+5.
+Fadeyi A, Adigun I, Rahman G: Bacteriological pattern of wound swab
+isolates in patients with chronic leg ulcer. Int J Health Res 2008, 1(4):183–188.
+6.
+Masaadeh HA, Jaran AS: Incident of pseudomonas aeruginosa in post-operative
+wound infection. Am J Infect Dis 2009, 5(1):1–6.
+7.
+Ranjan K, Ranjan N, Bansal S, Arora D: Prevalence of pseudomonas
+aeruginosa in post-operative wound infection in a referral hospital in
+Haryana, India. J Lab Physicians 2010, 2(2):74–77.
+8.
+Taye M: Wound infection in Tikur Anbessa hospital, surgical department.
+Ethiop Med J 2005, 43(3):167–174.
+9.
+Endalafer N, Gebre-Selassie S, Kotiso B: Nosocomial bacterial infections in a
+tertiary hospital in Ethiopia. J Infect Prevention 2011, 12(1):38–43.
+10.
+Godebo G, Kibru G, Tassew H: Multidrug-resistant bacteria isolates in infected
+wounds at Jimma, Ethiopia. Ann Clin Microbiol Antimicrob 2013, 12:13.
+11.
+Mulu A, Moges F, Tessema B, Kassu A: Pattern and multiple drug
+resistance of bacterial pathogens isolated from wound infection at
+University of Gondar Teaching Hospital, North West Ethiopia. Ethiop Med
+J 2006, 44(2):125–131.
+12.
+Tesfahunegn Z, Asrat D, Woldeamanuel Y: Bacteriology of surgical site and
+catheter related urinary tract infections among patients admitted in Mekelle
+hospital, Mekelle, Tigray, Ethiopia. Ethiop Med J 2009, 47(2):117–127.
+13.
+Goswami NN, Trivedi HR, Goswami AP, Patel TK, Tripathi CB: Antibiotic
+sensitivity profile of bacterial pathogens in postoperative wound
+infections at a tertiary care hospital in Gujarat, India. Pharmacol
+Pharmacother 2011, 2(3):158–164.
+14.
+Chaudhary SD, Vives MJ, Reiter MF: Postoperative spinal wound infections
+and postprocedural diskitis. J Spinal Cord Me 2007, 30(5):441–451.
+15.
+CLSI: Perfomance standars for antimicrobial susceptibility testing; twenty first
+information supplement, vol. CLSI document M100-S21. Wayne, PA: Clinical
+and Laboratory Standards Institute; 2011.
+16.
+Odedina EA, Eletta EA, Baloun RA, Idowu O: Isolates from wound infections at
+federal medical center, BIDA. Afr J clin exper microbio 2007, 8(2):26–32.
+17.
+Dinda V, Gunturu R, Kariuki S, Hakeem A, Raja A, Kimang A: Pattern of
+pathogens and their sensitivity isolated from surgical site infections at the
+Aga khan university hospital, Kenya. Ethiop J Health Sci 2013, 23(2):141–149.
+18.
+Amrita S, Sheetal R, Narendra N: Aerobic micro-organisms in post-operative
+wound infections and their antimicrobial susceptibility patterns. J Clin Diag
+Res 2010, 4(6):3392–3396.
+19.
+Guta M, Aragaw K, Merid Y: Bacteria from infected surgical wounds and
+their antimicrobial resistance in Hawassa University Referral Teaching
+Hospital, Southern Ethiopia. AJMR 2014, 8(11):1118–1124.
+20.
+Sani RA, Garba SA, Oyewole OA, Ibrahim A: Antibiotic resistance profile of
+gram positive bacteria isolated from wound infections in Minna, Bida,
+Kontagora and Suleja area of Niger State. J Health Sci 2012, 2(3):19–22.
+21.
+Bowler PG, Duerden BI, Armstrong DG: Wound microbiology and associated
+approaches to wound management. Clin Microbiol Rev 2001, 14(2):244–269.
+22.
+Pondei K, Fente BG, Oladapo O: Current microbial isolates from wound
+swabs, their culture and sensitivity pattern at the Niger delta university
+teaching hospital, Okolobiri, Nigeria. Trop Med Health 2013, 41(2):49–53.
+23.
+Rao R, Sumathi S, Anuradha K, Venkatesh D, Krishna S: Bacteriology of
+postoperative wound infections. Int J Pharm Biomed Res 2013, 4(2):72–76.
+24.
+Mulu W, Kibru G, Damtie M: Postoperative nosocomial infections and
+antimicrobial resistance pattern of bacteria isolates among patients
+admitted at felege hiwot referral hospital, bahirdar, Ethiopia. Ethiop J
+Health Sci 2012, 22(10):7–18.
+25.
+Adegoke AA, Tom M, Okoh AI, Jacob S: Studies on multiple antibiotic
+resistant bacteria isolated from surgical site infection. Sci Res Essays 2010,
+5(24):3876–3881.
+26.
+Singh A, Sikka R, Maggu NK, Deep, Antrikshdeep, Chaudhary U, Gill PS,
+Sehgal PK: Prevalence and antibiotic sensitivity pattern of bacteria
+isolated from nosocomial patients. J Orthopaedics 2010, 7(2):e3.
+27.
+Fehr J, Hatz C, Soka I, Kibatala P, Urassa H, Smith T, Mshinda H, Frei R,
+Widmer A: Risk factors for surgical site infection in a Tanzanian district
+hospital: a challenge for the traditional National Nosocomial
+Infections Surveillance system index. Infect Control Hosp Epidemiol 2006,
+27(12):1401–1404.
+28.
+Razavi SM, Ibrahimpoor M, Sabouri Kashani A, Jafarian A: Abdominal
+surgical site infections: incidence and risk factors at an Iranian teaching
+hospital. BM Surg 2005, 5:2.
+doi:10.1186/1756-0500-7-575
+Cite this article as: Mengesha et al.: Aerobic bacteria in post surgical
+wound infections and pattern of their antimicrobial susceptibility in
+Ayder Teaching and Referral Hospital, Mekelle, Ethiopia. BMC Research
+Notes 2014 7:575.
+Mengesha et al. BMC Research Notes 2014, 7:575
+Page 6 of 6
+http://www.biomedcentral.com/1756-0500/7/575

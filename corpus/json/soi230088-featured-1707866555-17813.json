@@ -1,0 +1,31 @@
+{
+ "doc_id": "soi230088-featured-1707866555-17813",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/soi230088_featured_1707866555.17813.pdf",
+ "sha256": "ed90af25acab0053fda19660113ea3fc1b1f2412b6e0137b9360096ef68f29d2",
+ "document_type": "pdf",
+ "n_pages": 1,
+ "pdf_metadata": {
+  "format": "PDF 1.4",
+  "title": "",
+  "author": "",
+  "subject": "",
+  "keywords": "",
+  "creator": "Nitro Pro",
+  "producer": "Nitro Pro",
+  "creationDate": "D:20260909033246Z",
+  "modDate": "D:20260909093306+06'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:56+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "",
+   "n_chars": 0,
+   "n_images": 1,
+   "blocks": []
+  }
+ ]
+}

@@ -1,0 +1,657 @@
+{
+ "doc_id": "response-to-reviewers-1",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Response to Reviewers 1.pdf",
+ "sha256": "67d5e9ba9235200b440de8507e55c13b1087f419b7ec7689c035fdfb3243ecec",
+ "document_type": "pdf",
+ "n_pages": 6,
+ "pdf_metadata": {
+  "format": "PDF 1.7",
+  "title": "",
+  "author": "Seke Kazuma SMS-KTH",
+  "subject": "",
+  "keywords": "",
+  "creator": "Microsoft® Word 2021",
+  "producer": "Microsoft® Word 2021",
+  "creationDate": "D:20260415201947+03'00'",
+  "modDate": "D:20260415201947+03'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:56+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "1 \n \nDear Dr. Seke M. E. Kazuma, \nThank you for submitting your manuscript, “Challenges, Innovations, and Strategies to \nCombat Antimicrobial Resistance in Surgical Site Infections in East, Central, and \nSouthern Africa: A Systematic Review and Meta-analysis” to the East and Central \nAfrican Journal of Surgery (ECAJS). \nWe have now received three reviews for your manuscript. The Editorial team has \nconsidered your submission and the peer reviews, and agrees that revisions would be \nnecessary for the paper to be accepted. We encourage you to carefully review the \nreviewer comments and substantially rewrite your paper. If the comments are \nimplemented, this could be an excellent addition to our journal. \nIn order to begin the revision submission process, log into your account and access your \nauthor desk to locate the manuscript and begin the revised submission process. \nWhen submitting the revision, please complete the author response letter describing \nhow you handled each of the comments in the reviews and in this letter. Please make sure \nto \nresubmit \nas \na \nresponse \nto \nthis \ndiscussion: \nA \nRevised \nversion \nof \nyour \nmanuscript \nwith \ntracked \nchanges \nA Revised Clean version of your revised manuscript without tracked changes \nA Point-by-point response to the editors’ and reviewers’ comments. \nThanks again for your interest in the East and Central African Journal of Surgery. \nBest \nRegards \nECAJS Editorial Team \n \n \nReviewer 1 \nOpen response questions \nThe article is very well written, thoughtfully laid out and represents a very important topic \nfor which literature is scarce.  \nResponse: Thank you so much. \n \nI do think that it should be mentioned that this is a meta-analysis of largely Western \ndatabases. Was there similar searching to capture articles from non-Western databases \n(African Journals Online, WHO Global Index Medicus etc) that would include journals that \nare not represented in the more typical databases such as MEDLINE, Scopus, CENTRAL, \nEmbase used in this meta-analysis? \n",
+   "n_chars": 2029,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      777.3,
+      303.3,
+      806.7
+     ],
+     "text": "1 \n \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      525.8,
+      152.2
+     ],
+     "text": "Dear Dr. Seke M. E. Kazuma, \nThank you for submitting your manuscript, “Challenges, Innovations, and Strategies to \nCombat Antimicrobial Resistance in Surgical Site Infections in East, Central, and \nSouthern Africa: A Systematic Review and Meta-analysis” to the East and Central \nAfrican Journal of Surgery (ECAJS). \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      162.5,
+      525.6,
+      245.1
+     ],
+     "text": "We have now received three reviews for your manuscript. The Editorial team has \nconsidered your submission and the peer reviews, and agrees that revisions would be \nnecessary for the paper to be accepted. We encourage you to carefully review the \nreviewer comments and substantially rewrite your paper. If the comments are \nimplemented, this could be an excellent addition to our journal. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      255.4,
+      525.6,
+      287.0
+     ],
+     "text": "In order to begin the revision submission process, log into your account and access your \nauthor desk to locate the manuscript and begin the revised submission process. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      297.3,
+      525.9,
+      396.8
+     ],
+     "text": "When submitting the revision, please complete the author response letter describing \nhow you handled each of the comments in the reviews and in this letter. Please make sure \nto \nresubmit \nas \na \nresponse \nto \nthis \ndiscussion: \nA \nRevised \nversion \nof \nyour \nmanuscript \nwith \ntracked \nchanges \nA Revised Clean version of your revised manuscript without tracked changes \nA Point-by-point response to the editors’ and reviewers’ comments. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      407.2,
+      480.1,
+      421.9
+     ],
+     "text": "Thanks again for your interest in the East and Central African Journal of Surgery. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      432.2,
+      525.9,
+      463.8
+     ],
+     "text": "Best \nRegards \nECAJS Editorial Team \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      474.1,
+      74.5,
+      488.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      499.0,
+      74.5,
+      513.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      524.0,
+      130.4,
+      538.7
+     ],
+     "text": "Reviewer 1 \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      549.0,
+      213.8,
+      563.6
+     ],
+     "text": "Open response questions \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      573.9,
+      525.6,
+      605.6
+     ],
+     "text": "The article is very well written, thoughtfully laid out and represents a very important topic \nfor which literature is scarce.  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      616.0,
+      234.6,
+      630.6
+     ],
+     "text": "Response: Thank you so much. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      640.9,
+      74.5,
+      655.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      665.9,
+      525.8,
+      748.3
+     ],
+     "text": "I do think that it should be mentioned that this is a meta-analysis of largely Western \ndatabases. Was there similar searching to capture articles from non-Western databases \n(African Journals Online, WHO Global Index Medicus etc) that would include journals that \nare not represented in the more typical databases such as MEDLINE, Scopus, CENTRAL, \nEmbase used in this meta-analysis? \n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "2 \n \nResponse: This was done. Majority of the references are both in COSECSA region and \nSub-Saharan Africa.  \n \nReviewer 2 \nThis manuscript addresses an important and timely issue in surgical care in East, Central, \nand Southern Africa, namely the relationship between surgical site infections (SSI) and \nantimicrobial resistance (AMR).  \nResponse: Thank you. \n \nThe topic is highly relevant for the region given the growing burden of antimicrobial \nresistance in low- and middle-income country surgical systems. The review has clear \nconceptual value; however, several methodological issues require clarification. \nFirst, SSI rates are pooled across procedures without accounting for surgical wound \ncontamination class (clean, clean-contaminated, contaminated, and dirty) as defined by \nthe Centers for Disease Control and Prevention. Combining these categories may \nintroduce substantial confounding and limits interpretation of pooled estimates. \nSubgroup analyses by surgical specialty, contamination class, or hospital level would \nstrengthen the findings. \nResponse: Thank you for the submission. However, we pooled the rate of SSI cutting \nacross all wound classes and hospital levels. There is enough evidence to support this \napproach to documenting pooled rate of SSI across all wound classes. We have \ndocumented such evidence in this our manuscript. \n \nSecond, the comparator defined as “inappropriate antibiotic use or alternative \nantimicrobial regimens” may be difficult to interpret because definitions of inappropriate \nuse vary widely across studies. \nResponse: Thank you for this observation. We have defined what is meant by \ninappropriate antibiotic use. We understand the complexity of the matter, if considered \nin general. We have attempted to define what we mean, we evidence from other studies \nthat have documented this finding. \n \nFinally, the assertion that prophylaxis administered 1–2 hours pre-incision increases SSI \nrisk warrants reconsideration, as current WHO guidance supports administration within \n60 minutes and up to 120 minutes for certain antibiotics. In addition, AMR prevalence \n",
+   "n_chars": 2124,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      777.3,
+      303.3,
+      806.7
+     ],
+     "text": "2 \n \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      525.7,
+      103.6
+     ],
+     "text": "Response: This was done. Majority of the references are both in COSECSA region and \nSub-Saharan Africa.  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      113.9,
+      74.5,
+      128.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      139.0,
+      130.4,
+      153.6
+     ],
+     "text": "Reviewer 2 \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      164.0,
+      525.6,
+      212.4
+     ],
+     "text": "This manuscript addresses an important and timely issue in surgical care in East, Central, \nand Southern Africa, namely the relationship between surgical site infections (SSI) and \nantimicrobial resistance (AMR).  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      222.8,
+      187.4,
+      237.4
+     ],
+     "text": "Response: Thank you. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      247.8,
+      74.5,
+      262.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      272.8,
+      525.7,
+      321.3
+     ],
+     "text": "The topic is highly relevant for the region given the growing burden of antimicrobial \nresistance in low- and middle-income country surgical systems. The review has clear \nconceptual value; however, several methodological issues require clarification. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      331.6,
+      525.8,
+      431.1
+     ],
+     "text": "First, SSI rates are pooled across procedures without accounting for surgical wound \ncontamination class (clean, clean-contaminated, contaminated, and dirty) as defined by \nthe Centers for Disease Control and Prevention. Combining these categories may \nintroduce substantial confounding and limits interpretation of pooled estimates. \nSubgroup analyses by surgical specialty, contamination class, or hospital level would \nstrengthen the findings. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      441.4,
+      525.8,
+      507.1
+     ],
+     "text": "Response: Thank you for the submission. However, we pooled the rate of SSI cutting \nacross all wound classes and hospital levels. There is enough evidence to support this \napproach to documenting pooled rate of SSI across all wound classes. We have \ndocumented such evidence in this our manuscript. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      517.4,
+      74.5,
+      532.1
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      542.4,
+      525.8,
+      591.0
+     ],
+     "text": "Second, the comparator defined as “inappropriate antibiotic use or alternative \nantimicrobial regimens” may be difficult to interpret because definitions of inappropriate \nuse vary widely across studies. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      601.3,
+      525.8,
+      666.8
+     ],
+     "text": "Response: Thank you for this observation. We have defined what is meant by \ninappropriate antibiotic use. We understand the complexity of the matter, if considered \nin general. We have attempted to define what we mean, we evidence from other studies \nthat have documented this finding. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      677.2,
+      74.5,
+      691.8
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      702.1,
+      525.8,
+      750.7
+     ],
+     "text": "Finally, the assertion that prophylaxis administered 1–2 hours pre-incision increases SSI \nrisk warrants reconsideration, as current WHO guidance supports administration within \n60 minutes and up to 120 minutes for certain antibiotics. In addition, AMR prevalence \n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "3 \n \nreported in cross-sectional studies reflects existing resistance patterns rather than the \nemergence of resistance over time. \nResponse: Our focus was to point out how antibiotic prophylaxis timing is associated \nwith SSI. We have shown that if prophylaxis was administered up to 2 hours to incision, \nthe rates of SSI increase.  \n \nAre the limitations and strengths of the study identified \nResponse: Strengths and limitations have been included in this study \n \nReviewer 3 \nThis is an important manuscript on a clinically significant problem, and the topic is highly \nrelevant for surgeons, microbiologists, and health systems leaders in the region. \nResponse: Thank you \n \n However, the paper currently asks readers to take away a much stronger and broader \nmessage than the evidence can support. As written, the abstract and conclusion imply \nthat roughly one quarter of operations across East, Central, and Southern Africa result in \nSSI and that first-line antibiotics are broadly failing across the region. That is too sweeping \nfor the available data. The underlying studies are highly diverse in specialty, wound class, \nhospital type, surveillance method, follow-up duration, and microbiological practice, \nand the pooled SSI estimate sits on extreme heterogeneity with I² of 98.4% and a \nprediction interval from 1.0% to 63.0%. In that setting, the pooled average is at best a \ncoarse descriptive summary, not a stable regional estimate, and it should not be \npresented as though it meaningfully represents “all operations” in the region. \nResponse: \n \nThe manuscript’s central problem is therefore conceptual as much as statistical. The title \npromises a review of “challenges, innovations, and strategies,” but the evidence base is \ndominated by heterogeneous descriptive studies of SSI burden and pathogen resistance, \nwith only limited interventional evidence. The paper would be stronger if the authors \ndecided more clearly what kind of review this is. If the main aim is to describe burden and \nresistance patterns, the title, objectives, and conclusions should be narrowed \naccordingly. If the aim is truly to review strategies and innovations, then the intervention \nliterature is too incomplete to support that framing in its current form. \n",
+   "n_chars": 2265,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      777.3,
+      303.3,
+      806.7
+     ],
+     "text": "3 \n \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      525.6,
+      103.6
+     ],
+     "text": "reported in cross-sectional studies reflects existing resistance patterns rather than the \nemergence of resistance over time. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      113.9,
+      525.8,
+      162.5
+     ],
+     "text": "Response: Our focus was to point out how antibiotic prophylaxis timing is associated \nwith SSI. We have shown that if prophylaxis was administered up to 2 hours to incision, \nthe rates of SSI increase.  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      172.8,
+      74.5,
+      187.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      197.8,
+      355.8,
+      212.4
+     ],
+     "text": "Are the limitations and strengths of the study identified \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      222.8,
+      428.7,
+      237.4
+     ],
+     "text": "Response: Strengths and limitations have been included in this study \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      247.8,
+      74.5,
+      262.5
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      272.8,
+      130.4,
+      287.5
+     ],
+     "text": "Reviewer 3 \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      297.8,
+      525.6,
+      329.4
+     ],
+     "text": "This is an important manuscript on a clinically significant problem, and the topic is highly \nrelevant for surgeons, microbiologists, and health systems leaders in the region. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      339.7,
+      183.9,
+      354.3
+     ],
+     "text": "Response: Thank you \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      364.6,
+      74.5,
+      379.3
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      389.6,
+      525.8,
+      557.0
+     ],
+     "text": " However, the paper currently asks readers to take away a much stronger and broader \nmessage than the evidence can support. As written, the abstract and conclusion imply \nthat roughly one quarter of operations across East, Central, and Southern Africa result in \nSSI and that first-line antibiotics are broadly failing across the region. That is too sweeping \nfor the available data. The underlying studies are highly diverse in specialty, wound class, \nhospital type, surveillance method, follow-up duration, and microbiological practice, \nand the pooled SSI estimate sits on extreme heterogeneity with I² of 98.4% and a \nprediction interval from 1.0% to 63.0%. In that setting, the pooled average is at best a \ncoarse descriptive summary, not a stable regional estimate, and it should not be \npresented as though it meaningfully represents “all operations” in the region. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      567.3,
+      129.3,
+      582.0
+     ],
+     "text": "Response: \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      592.3,
+      74.5,
+      606.9
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      617.3,
+      525.8,
+      750.7
+     ],
+     "text": "The manuscript’s central problem is therefore conceptual as much as statistical. The title \npromises a review of “challenges, innovations, and strategies,” but the evidence base is \ndominated by heterogeneous descriptive studies of SSI burden and pathogen resistance, \nwith only limited interventional evidence. The paper would be stronger if the authors \ndecided more clearly what kind of review this is. If the main aim is to describe burden and \nresistance patterns, the title, objectives, and conclusions should be narrowed \naccordingly. If the aim is truly to review strategies and innovations, then the intervention \nliterature is too incomplete to support that framing in its current form. \n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "4 \n \nI do not see several important Ethiopian intervention papers cited, including the five-\nhospital Clean Cut pilot in the British Journal of Surgery, the seven-hospital Clean Cut \nscale-up study in JAMA Surgery, and the later stepped-wedge cluster randomized trial of \nClean Cut for cesarean delivery in Ethiopia. Importantly, these studies do not all point in \nthe same direction: the pilot and scale-up studies were associated with reduced SSI, \nwhereas the cesarean-delivery trial did not show a reduction in SSI. The problem, \ntherefore, is not simply omission of positive studies, but incomplete synthesis of the \nintervention literature as a whole. The authors do include the 2024 Aboderin post hoc \nmicrobiology analysis from FALCON, but that is not the same as engaging adequately \nwith the original FALCON randomized trial as intervention evidence. With the FALCON \npaper, do the authors separate out the non-African countries? \nResponse: Thank you for the comments. The study has included a number of papers from \nCOSECSA training Countries, including Ethiopian papers, may be not to the satisfaction \nof the reviewer.  \n \nThe search strategy also appears insufficient for a review intended to speak for the region. \nThe stated information sources exclude AJOL, African Index Medicus, and any explicit \nhand-search of ECAJS. That omission likely matters. Based on the authors’ own eligibility \ncriteria, which allow studies reporting SSI incidence and/or AMR prevalence, at least one \nrelevant ECAJS paper appears potentially eligible and does not appear in the reference \nlist: the 2017 Tanzanian orthopaedic study by Kisibo et al. from Muhimbili Orthopaedic \nInstitute, which reported a 25.0% SSI prevalence in 300 postoperative patients. I suspect \nthere are many others that report SSIs - even if not in the title or abstract. I would therefore \nencourage the authors either to expand the search to include regional databases and \njournals or to state explicitly that this is a review limited to studies captured in major \ninternational databases rather than a comprehensive regional synthesis. \nThe authors do not include this similar paper (PMID: 38626068) which could help to \nstrengthen their evidence base and perhaps find other relevant papers. \nA further concern is that the review is not fully reproducible in its present form. The main \ntext reports an SSI meta-analysis based on 16 studies and 9,672 patients with a pooled \nincidence of 23%, whereas the appendix GRADE table reports 20 studies, 10,294 \nparticipants, and a pooled incidence of 30.0%. Those are not trivial discrepancies. They \nsuggest that the included-study set, the analytic dataset, and the appendices are not \nsynchronized. Several citation and study-accounting inconsistencies add to this \nconcern. Before any interpretive claims can be trusted, the authors need to perform a \ncomplete audit of the included studies, figures, tables, appendix counts, and pooled \nanalyses and then present one internally consistent dataset throughout. \n",
+   "n_chars": 3032,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      777.3,
+      303.3,
+      806.7
+     ],
+     "text": "4 \n \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      525.9,
+      256.4
+     ],
+     "text": "I do not see several important Ethiopian intervention papers cited, including the five-\nhospital Clean Cut pilot in the British Journal of Surgery, the seven-hospital Clean Cut \nscale-up study in JAMA Surgery, and the later stepped-wedge cluster randomized trial of \nClean Cut for cesarean delivery in Ethiopia. Importantly, these studies do not all point in \nthe same direction: the pilot and scale-up studies were associated with reduced SSI, \nwhereas the cesarean-delivery trial did not show a reduction in SSI. The problem, \ntherefore, is not simply omission of positive studies, but incomplete synthesis of the \nintervention literature as a whole. The authors do include the 2024 Aboderin post hoc \nmicrobiology analysis from FALCON, but that is not the same as engaging adequately \nwith the original FALCON randomized trial as intervention evidence. With the FALCON \npaper, do the authors separate out the non-African countries? \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      266.7,
+      525.8,
+      315.3
+     ],
+     "text": "Response: Thank you for the comments. The study has included a number of papers from \nCOSECSA training Countries, including Ethiopian papers, may be not to the satisfaction \nof the reviewer.  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      325.6,
+      74.5,
+      340.3
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      350.6,
+      525.8,
+      534.9
+     ],
+     "text": "The search strategy also appears insufficient for a review intended to speak for the region. \nThe stated information sources exclude AJOL, African Index Medicus, and any explicit \nhand-search of ECAJS. That omission likely matters. Based on the authors’ own eligibility \ncriteria, which allow studies reporting SSI incidence and/or AMR prevalence, at least one \nrelevant ECAJS paper appears potentially eligible and does not appear in the reference \nlist: the 2017 Tanzanian orthopaedic study by Kisibo et al. from Muhimbili Orthopaedic \nInstitute, which reported a 25.0% SSI prevalence in 300 postoperative patients. I suspect \nthere are many others that report SSIs - even if not in the title or abstract. I would therefore \nencourage the authors either to expand the search to include regional databases and \njournals or to state explicitly that this is a review limited to studies captured in major \ninternational databases rather than a comprehensive regional synthesis. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      545.2,
+      525.4,
+      576.8
+     ],
+     "text": "The authors do not include this similar paper (PMID: 38626068) which could help to \nstrengthen their evidence base and perhaps find other relevant papers. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      587.1,
+      525.9,
+      737.6
+     ],
+     "text": "A further concern is that the review is not fully reproducible in its present form. The main \ntext reports an SSI meta-analysis based on 16 studies and 9,672 patients with a pooled \nincidence of 23%, whereas the appendix GRADE table reports 20 studies, 10,294 \nparticipants, and a pooled incidence of 30.0%. Those are not trivial discrepancies. They \nsuggest that the included-study set, the analytic dataset, and the appendices are not \nsynchronized. Several citation and study-accounting inconsistencies add to this \nconcern. Before any interpretive claims can be trusted, the authors need to perform a \ncomplete audit of the included studies, figures, tables, appendix counts, and pooled \nanalyses and then present one internally consistent dataset throughout. \n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "5 \n \nResponse: Thank you for the comments. The study has included several papers from \nCOSECSA training Countries and has drawn the analysis from these. We understand that \nthis is not to the satisfaction of the reviewer. \n \nThe discussion would also benefit from a more balanced use of comparator literature. \nThe manuscript cites the GlobalSurg gastrointestinal study in the introduction, and that \npaper is indeed an important benchmark because it found a 30-day SSI rate of 23% in \nlow-HDI settings using standardized prospective surveillance. However, that should be \nused as context, not as indirect validation of the present pooled estimate. The present \nreview combines studies that are far less standardized than GlobalSurg and extends \nbeyond gastrointestinal surgery, so the similarity of percentages should not reassure \nreaders that the pooled regional estimate is robust. If the authors wish to discuss \nstrategies as well as burden, then other major pragmatic SSI-prevention trials in \noverlapping LMIC and African settings, including the primary FALCON trial and the \nChEETAh trial, should also be considered in the discussion. \nResponse:  \n \nThe microbiology and AMR synthesis is clinically interesting, but here too the language \nshould be moderated. The very high pooled ceftriaxone resistance estimate in E. coli is \nconcerning, but it comes from a relatively small isolate base and should not be translated \ndirectly into claims of regional “failure” of prophylaxis or empiric therapy without much \nmore careful qualification. Resistance among cultured organisms from established SSI \ncases is not the same as direct evidence that prophylactic regimens have failed across \nmultiple surgical contexts. Similar caution applies to terms such as “silent pandemic,” \n“collapse,” and “near-obsolescence.” These phrases overstate what can be concluded \nfrom \na \ngeographically \nconcentrated, \nlargely \nobservational, \nmethodologically \nheterogeneous evidence base. \nThis is a worthwhile manuscript on an important topic, but the current version overstates \nthe \ncertainty, \nrepresentativeness, \nand \ncompleteness \nof \nthe \nevidence. \nMy \nrecommendation would be major revision. The most important task is not cosmetic \nrevision but conceptual sharpening. The authors need to decide what they want readers \nto conclude, and then ensure that the search, synthesis, and tone of the paper actually \nsupport that conclusion. \nResponse: \n \n \n",
+   "n_chars": 2444,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      777.3,
+      303.3,
+      806.7
+     ],
+     "text": "5 \n \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      525.8,
+      120.6
+     ],
+     "text": "Response: Thank you for the comments. The study has included several papers from \nCOSECSA training Countries and has drawn the analysis from these. We understand that \nthis is not to the satisfaction of the reviewer. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      131.0,
+      74.5,
+      145.6
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      155.9,
+      525.9,
+      340.3
+     ],
+     "text": "The discussion would also benefit from a more balanced use of comparator literature. \nThe manuscript cites the GlobalSurg gastrointestinal study in the introduction, and that \npaper is indeed an important benchmark because it found a 30-day SSI rate of 23% in \nlow-HDI settings using standardized prospective surveillance. However, that should be \nused as context, not as indirect validation of the present pooled estimate. The present \nreview combines studies that are far less standardized than GlobalSurg and extends \nbeyond gastrointestinal surgery, so the similarity of percentages should not reassure \nreaders that the pooled regional estimate is robust. If the authors wish to discuss \nstrategies as well as burden, then other major pragmatic SSI-prevention trials in \noverlapping LMIC and African settings, including the primary FALCON trial and the \nChEETAh trial, should also be considered in the discussion. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      350.6,
+      131.7,
+      365.2
+     ],
+     "text": "Response:  \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      375.5,
+      74.5,
+      390.2
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      400.5,
+      525.9,
+      567.9
+     ],
+     "text": "The microbiology and AMR synthesis is clinically interesting, but here too the language \nshould be moderated. The very high pooled ceftriaxone resistance estimate in E. coli is \nconcerning, but it comes from a relatively small isolate base and should not be translated \ndirectly into claims of regional “failure” of prophylaxis or empiric therapy without much \nmore careful qualification. Resistance among cultured organisms from established SSI \ncases is not the same as direct evidence that prophylactic regimens have failed across \nmultiple surgical contexts. Similar caution applies to terms such as “silent pandemic,” \n“collapse,” and “near-obsolescence.” These phrases overstate what can be concluded \nfrom \na \ngeographically \nconcentrated, \nlargely \nobservational, \nmethodologically \nheterogeneous evidence base. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      578.2,
+      525.6,
+      677.8
+     ],
+     "text": "This is a worthwhile manuscript on an important topic, but the current version overstates \nthe \ncertainty, \nrepresentativeness, \nand \ncompleteness \nof \nthe \nevidence. \nMy \nrecommendation would be major revision. The most important task is not cosmetic \nrevision but conceptual sharpening. The authors need to decide what they want readers \nto conclude, and then ensure that the search, synthesis, and tone of the paper actually \nsupport that conclusion. \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      688.1,
+      129.3,
+      702.7
+     ],
+     "text": "Response: \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      713.0,
+      74.5,
+      727.7
+     ],
+     "text": " \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      738.0,
+      74.5,
+      752.6
+     ],
+     "text": " \n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "6 \n \n \n",
+   "n_chars": 1,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      72.0,
+      777.3,
+      303.3,
+      806.7
+     ],
+     "text": "6 \n \n"
+    },
+    {
+     "bbox": [
+      72.0,
+      72.0,
+      74.5,
+      86.7
+     ],
+     "text": " \n"
+    }
+   ]
+  }
+ ]
+}

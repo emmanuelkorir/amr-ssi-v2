@@ -1,0 +1,1249 @@
+{
+ "doc_id": "forrester-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Forrester et al_.pdf",
+ "sha256": "ecf68d83a646c72b8cd0f4a05fb15fef3bf3965625719877fd62454613b08d03",
+ "document_type": "pdf",
+ "n_pages": 8,
+ "pdf_metadata": {
+  "format": "PDF 1.3",
+  "title": "OP-BJSU210145 727..734",
+  "author": "",
+  "subject": "",
+  "keywords": "",
+  "creator": "Arbortext Advanced Print Publisher 9.0.114/W",
+  "producer": "Acrobat Distiller 8.0.0 (Windows); modified using iTextSharp.LGPLv2.Core 3.7.4.0",
+  "creationDate": "D:20210616090608+05'30'",
+  "modDate": "D:20260908143652+00'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:54+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "Clean Cut (adaptive, multimodal surgical infection\nprevention programme) for low-resource settings: a\nprospective quality improvement study\nJ. A. Forrester1, N. Starr\n3, T. Negussie5, D. Schaps4, M. Adem6, S. Alemu8, D. Amenu9, N. Gebeyehu11, T. Habteyohannes12, F. Jiru10,\nA. Tesfaye11, E. Wayessa13, R. Chen2, A. Trickey\n2, S. Bitew7, A. Bekele\n5, and T. G. Weiser\n1,2,14*\n1Department of Surgery, Stanford University, Stanford, USA\n2Stanford-Surgery Policy Improvement Research and Education Center, Department of Surgery, Stanford University, Palo Alto, USA\n3Department of Surgery, University of California San Francisco, San Francisco California USA\n4Duke University School of Medicine, Durham North Carolina USA\n5Department of Surgery, School of Medicine, Addis Ababa University, Addis Ababa, Ethiopia\n6Department of Surgery, Menelik II Referral Hospital, Addis Ababa, Ethiopia\n7Lifebox Ethiopia, Addis Ababa, Ethiopia\n8Departments of Surgery, , Jimma, Ethiopia\n9Obstetrics and Gynaecology, School of Medicine, College of Health Sciences, Jimma, Ethiopia\n10Department of Health Economics, Management, and Policy, Jimma University Medical Centre, Jimma, Ethiopia\n11Quality Improvement Department, St Peter’s Specialized Hospital, Fitche, Ethiopia\n12Department of Surgery, St Peter’s Specialized Hospital, Addis Ababa Gulele Subcity, Fitche, Ethiopia\n13Fitche General Hospital, Fitche, Ethiopia\n14Department of Clinical Surgery, University of Edinburgh, Edinburgh, UK\n*Correspondence to: Professor T. G. Weiser, Department of Surgery, Stanford University, Stanford, California 94305, USA (e-mail: tweiser@stanford.edu)\nAbstract\nBackground: Clean Cut is an adaptive, multimodal programme to identify improvement opportunities and safety changes in surgery\nby enhancing outcomes surveillance, closing gaps in surgical infection prevention standards, and strengthening underlying pro-\ncesses of care. Surgical-site infections (SSIs) are common in low-income countries, so this study assessed a simple intervention to\nimprove perioperative infection prevention practices in one.\nMethods: Clean Cut was implemented in ﬁve hospitals in Ethiopia from August 2016 to October 2018. Compliance data were collected\nfrom the operating room focused on six key perioperative infection prevention standards. Process-mapping exercises were employed\nto understand barriers to compliance and identify locally driven improvement opportunities. Thirty-day outcomes were recorded on\npatients for whom intraoperative compliance information had been collected.\nResults: Compliance data were collected from 2213 operations (374 at baseline and 1839 following process improvements) in 2202\npatients. Follow-up was completed in 2159 patients (98\u00020 per cent). At baseline, perioperative teams complied with a mean of only 2\u00029\nof the six critical perioperative infection prevention standards; following process improvement changes, compliance rose to a mean\nof 4\u00025 (P < 0\u0002001). The relative risk of surgical infections after Clean Cut implementation was 0\u000265 (95 per cent c.i. 0\u000243 to 0\u000299;\nP ¼ 0\u0002043). Improved compliance with standards reduced the risk of postoperative infection by 46 per cent (relative risk 0\u000254, 95 per\ncent c.i. 0\u000230 to 0\u000297, for adherence score 3–6 versus 0–2; P ¼ 0\u0002038).\nConclusion: The Clean Cut programme improved infection prevention standards to reduce SSI without infrastructure expenses or\nresource investments.\nIntroduction\nPostoperative infections are a leading cause of morbidity and\nmortality in surgical patients, particularly in low- and middle-in-\ncome countries. The WHO1 has assembled evidence-based guide-\nlines for surgical infection reduction. However, implementation\nof these guidelines is challenging, especially where resources,\nstaff, and infrastructure are limited2,3. In high-income settings,\nquality\nimprovement\nefforts,\nsuch\nas\nthe\nSurgical\nCare\nImprovement Program, focus on strengthening compliance with\ncore process measures4. Such programmes are more difficult to\nimplement in low-income countries owing to human resource\nconstraints, weak management practices and inadequate compli-\nance measures; knowledge and training gaps are a further imped-\niment to adopting best practices. As a result, infection rates are\npersistently higher in low-resource settings, even when risk\nadjusting\nfor differences in urgency\nand\npresentation;\nthe\nGlobalSurg Collaborative5 reported that infection rates following\ngastrointestinal surgery were 23 per cent in low-income countries\nReceived: April 07, 2020. Revised: May 17, 2020. Accepted: July 23, 2020\nV\nC The Authors 2020. Published by Oxford University Press on behalf of BJS Society Ltd.\nThis is an Open Access article distributed under the terms of the Creative Commons Attribution Licence (http://creativecommons.org/licenses/by/4.0/), which\npermits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.\n2\nBJS, 2021, 108, 727–734\nDOI: 10.1002/bjs.11997\nAdvance Access Publication Date: 21 September 2020\nOriginal Article\nDownloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n",
+   "n_chars": 5145,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      48.2,
+      114.2,
+      499.6,
+      178.7
+     ],
+     "text": "Clean Cut (adaptive, multimodal surgical infection\nprevention programme) for low-resource settings: a\nprospective quality improvement study\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      189.0,
+      547.4,
+      208.0
+     ],
+     "text": "J. A. Forrester1, N. Starr\n3, T. Negussie5, D. Schaps4, M. Adem6, S. Alemu8, D. Amenu9, N. Gebeyehu11, T. Habteyohannes12, F. Jiru10,\nA. Tesfaye11, E. Wayessa13, R. Chen2, A. Trickey\n2, S. Bitew7, A. Bekele\n5, and T. G. Weiser\n1,2,14*\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      218.2,
+      454.2,
+      343.1
+     ],
+     "text": "1Department of Surgery, Stanford University, Stanford, USA\n2Stanford-Surgery Policy Improvement Research and Education Center, Department of Surgery, Stanford University, Palo Alto, USA\n3Department of Surgery, University of California San Francisco, San Francisco California USA\n4Duke University School of Medicine, Durham North Carolina USA\n5Department of Surgery, School of Medicine, Addis Ababa University, Addis Ababa, Ethiopia\n6Department of Surgery, Menelik II Referral Hospital, Addis Ababa, Ethiopia\n7Lifebox Ethiopia, Addis Ababa, Ethiopia\n8Departments of Surgery, , Jimma, Ethiopia\n9Obstetrics and Gynaecology, School of Medicine, College of Health Sciences, Jimma, Ethiopia\n10Department of Health Economics, Management, and Policy, Jimma University Medical Centre, Jimma, Ethiopia\n11Quality Improvement Department, St Peter’s Specialized Hospital, Fitche, Ethiopia\n12Department of Surgery, St Peter’s Specialized Hospital, Addis Ababa Gulele Subcity, Fitche, Ethiopia\n13Fitche General Hospital, Fitche, Ethiopia\n14Department of Clinical Surgery, University of Edinburgh, Edinburgh, UK\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      351.4,
+      505.8,
+      358.1
+     ],
+     "text": "*Correspondence to: Professor T. G. Weiser, Department of Surgery, Stanford University, Stanford, California 94305, USA (e-mail: tweiser@stanford.edu)\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      382.6,
+      85.4,
+      391.8
+     ],
+     "text": "Abstract\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      399.1,
+      552.7,
+      435.6
+     ],
+     "text": "Background: Clean Cut is an adaptive, multimodal programme to identify improvement opportunities and safety changes in surgery\nby enhancing outcomes surveillance, closing gaps in surgical infection prevention standards, and strengthening underlying pro-\ncesses of care. Surgical-site infections (SSIs) are common in low-income countries, so this study assessed a simple intervention to\nimprove perioperative infection prevention practices in one.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      440.0,
+      552.7,
+      476.6
+     ],
+     "text": "Methods: Clean Cut was implemented in ﬁve hospitals in Ethiopia from August 2016 to October 2018. Compliance data were collected\nfrom the operating room focused on six key perioperative infection prevention standards. Process-mapping exercises were employed\nto understand barriers to compliance and identify locally driven improvement opportunities. Thirty-day outcomes were recorded on\npatients for whom intraoperative compliance information had been collected.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      480.9,
+      552.8,
+      536.5
+     ],
+     "text": "Results: Compliance data were collected from 2213 operations (374 at baseline and 1839 following process improvements) in 2202\npatients. Follow-up was completed in 2159 patients (98\u00020 per cent). At baseline, perioperative teams complied with a mean of only 2\u00029\nof the six critical perioperative infection prevention standards; following process improvement changes, compliance rose to a mean\nof 4\u00025 (P < 0\u0002001). The relative risk of surgical infections after Clean Cut implementation was 0\u000265 (95 per cent c.i. 0\u000243 to 0\u000299;\nP ¼ 0\u0002043). Improved compliance with standards reduced the risk of postoperative infection by 46 per cent (relative risk 0\u000254, 95 per\ncent c.i. 0\u000230 to 0\u000297, for adherence score 3–6 versus 0–2; P ¼ 0\u0002038).\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      540.9,
+      552.7,
+      558.4
+     ],
+     "text": "Conclusion: The Clean Cut programme improved infection prevention standards to reduce SSI without infrastructure expenses or\nresource investments.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      598.0,
+      116.2,
+      609.4
+     ],
+     "text": "Introduction\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      615.5,
+      291.5,
+      700.6
+     ],
+     "text": "Postoperative infections are a leading cause of morbidity and\nmortality in surgical patients, particularly in low- and middle-in-\ncome countries. The WHO1 has assembled evidence-based guide-\nlines for surgical infection reduction. However, implementation\nof these guidelines is challenging, especially where resources,\nstaff, and infrastructure are limited2,3. In high-income settings,\nquality\nimprovement\nefforts,\nsuch\nas\nthe\nSurgical\nCare\nImprovement Program, focus on strengthening compliance with\n"
+    },
+    {
+     "bbox": [
+      309.5,
+      604.0,
+      552.8,
+      701.5
+     ],
+     "text": "core process measures4. Such programmes are more difficult to\nimplement in low-income countries owing to human resource\nconstraints, weak management practices and inadequate compli-\nance measures; knowledge and training gaps are a further imped-\niment to adopting best practices. As a result, infection rates are\npersistently higher in low-resource settings, even when risk\nadjusting\nfor differences in urgency\nand\npresentation;\nthe\nGlobalSurg Collaborative5 reported that infection rates following\ngastrointestinal surgery were 23 per cent in low-income countries\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      725.1,
+      267.5,
+      731.8
+     ],
+     "text": "Received: April 07, 2020. Revised: May 17, 2020. Accepted: July 23, 2020\n"
+    },
+    {
+     "bbox": [
+      47.8,
+      733.8,
+      543.3,
+      759.4
+     ],
+     "text": "V\nC The Authors 2020. Published by Oxford University Press on behalf of BJS Society Ltd.\nThis is an Open Access article distributed under the terms of the Creative Commons Attribution Licence (http://creativecommons.org/licenses/by/4.0/), which\npermits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.\n"
+    },
+    {
+     "bbox": [
+      58.1,
+      32.9,
+      552.7,
+      55.9
+     ],
+     "text": "2\nBJS, 2021, 108, 727–734\n"
+    },
+    {
+     "bbox": [
+      373.2,
+      49.2,
+      552.8,
+      65.8
+     ],
+     "text": "DOI: 10.1002/bjs.11997\nAdvance Access Publication Date: 21 September 2020\n"
+    },
+    {
+     "bbox": [
+      493.9,
+      69.4,
+      552.8,
+      77.6
+     ],
+     "text": "Original Article\n"
+    },
+    {
+     "bbox": [
+      571.4,
+      213.6,
+      578.9,
+      568.8
+     ],
+     "text": "Downloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "(nearly twice that of high-income countries)5, and the African\nSurgical Outcomes Study6 found that infections occur in 10 per\ncent of all patients undergoing surgery, of whom nearly one in\nten die.\nTo address the combined challenges of high surgical infection\nrates and known gaps in perioperative practices, Lifebox7 – a\nnon-profit organization focused on improving surgical safety\nworldwide – established an infection reduction programme called\nClean Cut to improve adherence to guidelines and reduce postop-\nerative infection rates. Clean Cut is an adaptive, multimodal\nchecklist-based programme aimed at improving compliance with\nsix critical perioperative infection prevention standards: appro-\npriate skin and hand antisepsis, maintenance of a sterile field, in-\nstrument\nsterilization,\nappropriate\nprophylactic\nantibiotic\nadministration, routine gauze counting, and routine use of the\nSurgical Safety Checklist (SSC)8. It is implemented by a locally\nled, multidisciplinary perioperative team that establishes a sur-\nveillance system for compliance with perioperative standards\nand surgical outcomes, conducts a process-mapping exercise to\ndetermine gaps in perioperative processes and opportunities for\nimprovement, and then facilitates the identification and imple-\nmentation of locally driven solutions to improve upstream and\nsupportive care routines. It leverages current concepts in imple-\nmentation science, such as discrete implementation strategies,\nwhile also ensuring that specific implementation outcomes, such\nas acceptability and sustainability, are considered as the pro-\ngramme is adapted9,10. The authors hypothesized that this\nadaptive programme would promote compliance with these six\ncritical infection prevention standards and lead to reductions in\nsurgical infections.\nMethods\nClean Cut was introduced in five surgical referral hospitals in\nEthiopia: Jimma University Specialized Hospital (JUSH) in Jimma;\nTikur Anbessa Specialized Hospital (TASH), Menelik II Specialized\nHospital (MII) – both affiliated with Addis Ababa University – and\nSt Peter’s Hospital in Addis Ababa; and Fitche Hospital in Oromia,\nEthiopia. The first three are high-volume tertiary teaching facili-\nties, whereas St Peter’s is a regional referral hospital and Fitche is\na district hospital under the auspices of the Oromia Regional\nHealth Bureau. Together they have a combined catchment popu-\nlation of over 25 million people. As the Ethiopian Federal Ministry\nof Health was preparing to launch a nationwide programme to\nimprove access to safe surgical care11, the timing was opportune\nfor such work. The programme was implemented between\nAugust 2016 and October 2018.\nStrategy\nClean Cut was designed to improve adherence to infection pre-\nvention standards through multidisciplinary team building, data\ncollection and surveillance, and process mapping coupled with\nroot cause analysis and identification of intervention opportuni-\nties. The aims of the programme were to assess process break-\ndowns, identify opportunities, and implement facility-specific\ninterventions to improve compliance with six surgical infection\nprevention standards, thereby reducing surgical infections, and\nwas designed to be adaptive based on facility needs and circum-\nstances. The standards targeted for improvement include: hand\nand surgical-site skin antisepsis; maintenance of the sterile field\nby ensuring integrity and sterility of gowns, drapes and gloves;\nappropriate instrument decontamination and sterilization; ap-\npropriate timing and selection of prophylactic antibiotics; routine\nsurgical gauze counting; and routine use of the SSC. Three of\nthese standards are embedded within the checklist itself: appro-\npriate timing of antibiotics within 60 min of skin incision, confir-\nmation of instrument sterility and routine swab counting. Two\nothers – appropriate hand and surgical-site preparation, and use\nof sterile gowns, drapes and gloves – are fundamental tenets of\nsurgical antisepsis. As use of the SSC is now itself a standard of\ncare, it was included as a means of promoting communication\namong the perioperative team and reinforcing the other five\npractices. The definitions and rationale for these six specific\nstandards have been described previously12.\nThe programme follows a typical plan–do–study–act cycle by\nwhich locally driven interventions were identified and imple-\nmented, and adherence to process reassessed continually for\nimprovements. To achieve these goals, Clean Cut used three se-\nquential steps: team building through the introduction and local\nmodification of the SSC with clinical stakeholders (administra-\ntion, surgeons, anaesthesia providers, operating theatre nursing\nstaff); ongoing assessment of compliance with perioperative in-\nfection prevention standards and patient outcomes using trained\ndata collectors; and process improvement through a locally led\nprocess-mapping exercise13 and feedback cycle that included\nstakeholder meetings to review compliance to infection preven-\ntion standards and patient outcomes, brainstorming of solutions\nand prioritization of interventions. A surgical resident supported\nimplementation by organizing team meetings once or twice per\nmonth at each of the hospitals, guiding initial modification of the\nchecklist, conducting training for staff to ensure accurate data\ncollection, leading process-mapping exercises, and facilitating\nthe review of surveillance and process-mapping information to\nidentify opportunities for improvement.\nA 4–6-week lead-in period focusing on team building and\nassessments of process compliance and surgical outcomes, as\nwell as the process-mapping work, was planned. At the 4–6-week\nmark the teams met and, using the compliance information col-\nlected, identified opportunities for improvement with specific\nplans for process changes. Teams met every few months and\nagain at the end of the 6-month programme to review progress\nand opportunities for further improvement. The entire pro-\ngramme was implemented over 6 months at each hospital, with\nongoing assessments of process compliance. Power calculations\nand details of the implementation timeline are available in\nAppendix S1 and Fig. S1 (supporting information).\nIntraoperative adherence data collection\nObserved perioperative practices were recorded on a previously\nvalidated, standardized paper form by data collectors (operating\ntheatre nurses and nurse anaesthetists), who were trained in its\nuse and the definitions and mechanism for collection14. At JUSH,\nany patient undergoing surgical intervention in the main and ob-\nstetric operating rooms was included, regardless of age, sex or di-\nagnosis.\nAs\na\nlarge\nvolume\nof\nsubspecialty\noperations\nis\nperformed at TASH and MII, observations were limited to specific\noperating theatres performing gastrointestinal surgery, emer-\ngency general surgery or obstetric operations, regardless of age,\nsex or diagnosis. At St Peter’s, all patients undergoing surgery in\nthe general surgery theatres were eligible. In Fitche, every opera-\ntion performed in one of its two operating theatres was eligible\nfor inclusion. Detailed data collection methods for perioperative\nadherence have been described previously13. Although informa-\ntion was collected on all antibiotic administration, for compli-\nance\ncalculations\nonly\nthose\ngiven\nas\nprophylaxis\nwere\nconsidered; antibiotics administered as treatment based on\n728\n|\nBJS, 2021, Vol. 108, No. 6\nDownloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n",
+   "n_chars": 7531,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      42.5,
+      53.4,
+      285.8,
+      95.9
+     ],
+     "text": "(nearly twice that of high-income countries)5, and the African\nSurgical Outcomes Study6 found that infections occur in 10 per\ncent of all patients undergoing surgery, of whom nearly one in\nten die.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      98.8,
+      285.8,
+      381.9
+     ],
+     "text": "To address the combined challenges of high surgical infection\nrates and known gaps in perioperative practices, Lifebox7 – a\nnon-profit organization focused on improving surgical safety\nworldwide – established an infection reduction programme called\nClean Cut to improve adherence to guidelines and reduce postop-\nerative infection rates. Clean Cut is an adaptive, multimodal\nchecklist-based programme aimed at improving compliance with\nsix critical perioperative infection prevention standards: appro-\npriate skin and hand antisepsis, maintenance of a sterile field, in-\nstrument\nsterilization,\nappropriate\nprophylactic\nantibiotic\nadministration, routine gauze counting, and routine use of the\nSurgical Safety Checklist (SSC)8. It is implemented by a locally\nled, multidisciplinary perioperative team that establishes a sur-\nveillance system for compliance with perioperative standards\nand surgical outcomes, conducts a process-mapping exercise to\ndetermine gaps in perioperative processes and opportunities for\nimprovement, and then facilitates the identification and imple-\nmentation of locally driven solutions to improve upstream and\nsupportive care routines. It leverages current concepts in imple-\nmentation science, such as discrete implementation strategies,\nwhile also ensuring that specific implementation outcomes, such\nas acceptability and sustainability, are considered as the pro-\ngramme is adapted9,10. The authors hypothesized that this\nadaptive programme would promote compliance with these six\ncritical infection prevention standards and lead to reductions in\nsurgical infections.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      400.6,
+      90.4,
+      411.9
+     ],
+     "text": "Methods\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      418.1,
+      285.8,
+      569.1
+     ],
+     "text": "Clean Cut was introduced in five surgical referral hospitals in\nEthiopia: Jimma University Specialized Hospital (JUSH) in Jimma;\nTikur Anbessa Specialized Hospital (TASH), Menelik II Specialized\nHospital (MII) – both affiliated with Addis Ababa University – and\nSt Peter’s Hospital in Addis Ababa; and Fitche Hospital in Oromia,\nEthiopia. The first three are high-volume tertiary teaching facili-\nties, whereas St Peter’s is a regional referral hospital and Fitche is\na district hospital under the auspices of the Oromia Regional\nHealth Bureau. Together they have a combined catchment popu-\nlation of over 25 million people. As the Ethiopian Federal Ministry\nof Health was preparing to launch a nationwide programme to\nimprove access to safe surgical care11, the timing was opportune\nfor such work. The programme was implemented between\nAugust 2016 and October 2018.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      579.1,
+      82.9,
+      589.5
+     ],
+     "text": "Strategy\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      593.8,
+      285.8,
+      744.9
+     ],
+     "text": "Clean Cut was designed to improve adherence to infection pre-\nvention standards through multidisciplinary team building, data\ncollection and surveillance, and process mapping coupled with\nroot cause analysis and identification of intervention opportuni-\nties. The aims of the programme were to assess process break-\ndowns, identify opportunities, and implement facility-specific\ninterventions to improve compliance with six surgical infection\nprevention standards, thereby reducing surgical infections, and\nwas designed to be adaptive based on facility needs and circum-\nstances. The standards targeted for improvement include: hand\nand surgical-site skin antisepsis; maintenance of the sterile field\nby ensuring integrity and sterility of gowns, drapes and gloves;\nappropriate instrument decontamination and sterilization; ap-\npropriate timing and selection of prophylactic antibiotics; routine\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      54.8,
+      547.1,
+      172.9
+     ],
+     "text": "surgical gauze counting; and routine use of the SSC. Three of\nthese standards are embedded within the checklist itself: appro-\npriate timing of antibiotics within 60 min of skin incision, confir-\nmation of instrument sterility and routine swab counting. Two\nothers – appropriate hand and surgical-site preparation, and use\nof sterile gowns, drapes and gloves – are fundamental tenets of\nsurgical antisepsis. As use of the SSC is now itself a standard of\ncare, it was included as a means of promoting communication\namong the perioperative team and reinforcing the other five\npractices. The definitions and rationale for these six specific\nstandards have been described previously12.\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      175.8,
+      547.1,
+      392.9
+     ],
+     "text": "The programme follows a typical plan–do–study–act cycle by\nwhich locally driven interventions were identified and imple-\nmented, and adherence to process reassessed continually for\nimprovements. To achieve these goals, Clean Cut used three se-\nquential steps: team building through the introduction and local\nmodification of the SSC with clinical stakeholders (administra-\ntion, surgeons, anaesthesia providers, operating theatre nursing\nstaff); ongoing assessment of compliance with perioperative in-\nfection prevention standards and patient outcomes using trained\ndata collectors; and process improvement through a locally led\nprocess-mapping exercise13 and feedback cycle that included\nstakeholder meetings to review compliance to infection preven-\ntion standards and patient outcomes, brainstorming of solutions\nand prioritization of interventions. A surgical resident supported\nimplementation by organizing team meetings once or twice per\nmonth at each of the hospitals, guiding initial modification of the\nchecklist, conducting training for staff to ensure accurate data\ncollection, leading process-mapping exercises, and facilitating\nthe review of surveillance and process-mapping information to\nidentify opportunities for improvement.\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      395.8,
+      547.1,
+      524.9
+     ],
+     "text": "A 4–6-week lead-in period focusing on team building and\nassessments of process compliance and surgical outcomes, as\nwell as the process-mapping work, was planned. At the 4–6-week\nmark the teams met and, using the compliance information col-\nlected, identified opportunities for improvement with specific\nplans for process changes. Teams met every few months and\nagain at the end of the 6-month programme to review progress\nand opportunities for further improvement. The entire pro-\ngramme was implemented over 6 months at each hospital, with\nongoing assessments of process compliance. Power calculations\nand details of the implementation timeline are available in\nAppendix S1 and Fig. S1 (supporting information).\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      535.1,
+      500.4,
+      545.5
+     ],
+     "text": "Intraoperative adherence data collection\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      549.8,
+      547.1,
+      744.9
+     ],
+     "text": "Observed perioperative practices were recorded on a previously\nvalidated, standardized paper form by data collectors (operating\ntheatre nurses and nurse anaesthetists), who were trained in its\nuse and the definitions and mechanism for collection14. At JUSH,\nany patient undergoing surgical intervention in the main and ob-\nstetric operating rooms was included, regardless of age, sex or di-\nagnosis.\nAs\na\nlarge\nvolume\nof\nsubspecialty\noperations\nis\nperformed at TASH and MII, observations were limited to specific\noperating theatres performing gastrointestinal surgery, emer-\ngency general surgery or obstetric operations, regardless of age,\nsex or diagnosis. At St Peter’s, all patients undergoing surgery in\nthe general surgery theatres were eligible. In Fitche, every opera-\ntion performed in one of its two operating theatres was eligible\nfor inclusion. Detailed data collection methods for perioperative\nadherence have been described previously13. Although informa-\ntion was collected on all antibiotic administration, for compli-\nance\ncalculations\nonly\nthose\ngiven\nas\nprophylaxis\nwere\nconsidered; antibiotics administered as treatment based on\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      28.0,
+      162.6,
+      36.0
+     ],
+     "text": "728\n|\nBJS, 2021, Vol. 108, No. 6\n"
+    },
+    {
+     "bbox": [
+      571.4,
+      213.6,
+      578.9,
+      568.8
+     ],
+     "text": "Downloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "wound class and preoperative diagnosis were not included in the\nanalysis.\nPatient outcomes data collection\nPostoperative surveillance was carried out on all patients who\nunderwent observation of perioperative adherence to the six\nstandards. The primary outcome was surgical-site infection (SSI);\nsecondary outcomes included duration of hospital stay and mor-\ntality. SSIs were classified as superficial, deep or organ space\naccording to Centers for Disease Control and Prevention (CDC)\ndefinitions15. To operationalize the SSI definition, standardize\ncapture and decrease the potential for misclassification, SSI was\ndefined by pus draining from the wound, previously closed\nwound now opened (intentionally or unintentionally) and wound\nwith foul smell.\nFor the initial piloting of the programme at Jimma, surveil-\nlance data were collected by review of the written medical record\nat discharge by a visiting surgical fellow and trained data collec-\ntors. Given the gross underestimation of infectious complications\nbased on chart review alone12, the surveillance methods were\nmodified for the other four sites, where inpatient surveillance\nwas conducted by direct observation of the surgical wounds and\nbrief review of the written medical chart by a group of ward\nnurses from postoperative day 1 until discharge. As the majority\nof surgical infectious complications typically occur after dis-\ncharge16, telephone follow-up was undertaken 30 days after sur-\ngery in the local language for outpatient surveillance using the\nwound definitions described above. For all patients with suspi-\ncion of a complication (such as patient undergoing a clean opera-\ntion on extended antibiotic treatment; reoperation; death), the\nwritten medical charts were reviewed manually by the visiting\nsurgical fellows to assess accuracy and evaluate discrepancies.\nIdentification of process breakdowns and\nopportunities\nBreakdowns in the perioperative processes of care frequently\nlead to failure in compliance with one or more of the infection\nprevention standards. Process breakdowns and potential oppor-\ntunities for improvement were identified using process mapping,\na technique adapted from manufacturing involving preparation\nof diagrams of activities, tasks and decisions within a work flow\nin order to understand and subsequently improve the overall pro-\ncess17. This specific technique has been described previously for\nthe Clean Cut programme13. The frequency with which certain\nprocess failures occurred was also recorded on the process maps.\nFacility feedback and implementation\nQuantitative adherence to the Clean Cut perioperative infection\nprevention standards was compiled over a 4–6-week baseline pe-\nriod. The degree of adherence and visual process map for each in-\nfection\nprevention\nstandard\nwere\ndelivered\nto\nthe\nlocal\nstakeholders through individual and focus group meetings, as de-\nscribed previously13. Up-to-date patient outcome data were in-\ncluded in these meetings to provide context. After development\nand prioritization of facility-specific interventions, two subse-\nquent stakeholder meetings were held during the course of the 6-\nmonth\nprogramme\nto\nassess\ninterventions\nand\noutcomes.\nIdentified interventions included: improving the use of alcohol\nhand rub following surgical hand scrubbing; establishing a proce-\ndure to mend holes in gowns and drapes; training operating room\ncleaning staff on appropriate decontamination and packaging of\ninstruments, including use of sterility indicator tape in instru-\nment trays; establishing a standard for gauze counting; and\nverbal use of the checklist at critical moments before induction\nof anaesthesia and skin incision.\nData analysis\nAs this was a quality improvement initiative to improve perioper-\native practices and did not introduce new clinical methods or in-\nvolve any direct risk to patients, there were no exclusion criteria;\nall patients undergoing surgery in the operating theatres selected\nfor\nevaluation\nwere\neligible\nand\npatient\nconsent\nwas\nnot\nobtained. Institutional review boards at Stanford University, the\nCollege of Health Sciences at Jimma University and the College of\nHealth Sciences at Addis Ababa University approved the study;\napproval was also obtained from appropriate administrative bod-\nies at each hospital. Neither patients nor the public were involved\nin designing this study.\nDemographic and clinical characteristics of patients in the\nbaseline phase and after the intervention were compared using\nv2 tests for categorical variables and Student’s t test for age as a\ncontinuous variable. Adherence to the six standards at baseline\ncompared with after intervention was evaluated in univariable\nanalyses using v2 tests. The relative risk of infection after imple-\nmentation of the programme was calculated using modified\nPoisson regression analysis with a robust error variance18, con-\ntrolling for age, sex, urgency, wound class, type of operation and\nhospital modelled as fixed effects. The relative risk of infection\nwas also assessed based on the degree of adherence to the stand-\nards of interest using a similar model adjusted for the same co-\nvariables. Sensitivity analyses were undertaken using multivari-\nable logistic regression models, controlling for the same factors,\nto assess the relative risk of infection during the postintervention\nphase as well as with increased adherence to infection preven-\ntion standards; these regression models were also computed us-\ning log-binomial regression, as well as mixed-effects hierarchical\nregression with a random effect by hospital (Appendix S1, support-\ning information) and other co-variables modelled as fixed effects.\nAll\nanalyses\nwere\npreplanned,\nstatistical\nsignificance\nwas\nassessed at the level a ¼ 0\u000205, and all tests were two-sided. SASV\nR\nversion 9.4 (SAS Institute, Cary, North Carolina, USA) was used\nfor statistical analysis.\nResults\nCompliance data were collected prospectively from 2213 opera-\ntions in 2202 patients, 374 during baseline assessment and 1839\nafter implementation. Follow-up outcomes were complete for\n2159 patients (98\u00020 per cent). Demographics of the patients in the\nbaseline and postintervention cohorts are shown in Table 1. There\nwere proportionally more emergency and contaminated opera-\ntions after the intervention, but age, sex and the variety of opera-\ntions were well matched.\nAdherence to each of the infection prevention standards sig-\nnificantly improved after process mapping and quality improve-\nment interventions (Fig. 1). All standards had major gaps and\nweaknesses, as each had multiple components of compliance\nand frequently one or two of these were critically deficient.\nHowever, adherence to each standard increased as processes\nwere strengthened and component parts of full compliance were\nenhanced (Table 2). For example, for assurance of instrument ste-\nrility, both the presence of sterile indicators and the absence of\ncondensation and fluid within the trays are critical to ensuring\nappropriate sterility of the instrument tray. However, in the base-\nline period only 133 of 374 surgical trays had sterility indicators\nlocated in the tray, and 123 had condensation (indicative of a\nForrester et al.\n|\n729\nDownloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n",
+   "n_chars": 7301,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      48.2,
+      54.8,
+      291.4,
+      73.9
+     ],
+     "text": "wound class and preoperative diagnosis were not included in the\nanalysis.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      84.1,
+      206.1,
+      94.4
+     ],
+     "text": "Patient outcomes data collection\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      98.8,
+      291.5,
+      216.9
+     ],
+     "text": "Postoperative surveillance was carried out on all patients who\nunderwent observation of perioperative adherence to the six\nstandards. The primary outcome was surgical-site infection (SSI);\nsecondary outcomes included duration of hospital stay and mor-\ntality. SSIs were classified as superficial, deep or organ space\naccording to Centers for Disease Control and Prevention (CDC)\ndefinitions15. To operationalize the SSI definition, standardize\ncapture and decrease the potential for misclassification, SSI was\ndefined by pus draining from the wound, previously closed\nwound now opened (intentionally or unintentionally) and wound\nwith foul smell.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      219.8,
+      291.5,
+      403.9
+     ],
+     "text": "For the initial piloting of the programme at Jimma, surveil-\nlance data were collected by review of the written medical record\nat discharge by a visiting surgical fellow and trained data collec-\ntors. Given the gross underestimation of infectious complications\nbased on chart review alone12, the surveillance methods were\nmodified for the other four sites, where inpatient surveillance\nwas conducted by direct observation of the surgical wounds and\nbrief review of the written medical chart by a group of ward\nnurses from postoperative day 1 until discharge. As the majority\nof surgical infectious complications typically occur after dis-\ncharge16, telephone follow-up was undertaken 30 days after sur-\ngery in the local language for outpatient surveillance using the\nwound definitions described above. For all patients with suspi-\ncion of a complication (such as patient undergoing a clean opera-\ntion on extended antibiotic treatment; reoperation; death), the\nwritten medical charts were reviewed manually by the visiting\nsurgical fellows to assess accuracy and evaluate discrepancies.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      414.1,
+      249.0,
+      435.4
+     ],
+     "text": "Identification of process breakdowns and\nopportunities\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      439.8,
+      291.5,
+      546.9
+     ],
+     "text": "Breakdowns in the perioperative processes of care frequently\nlead to failure in compliance with one or more of the infection\nprevention standards. Process breakdowns and potential oppor-\ntunities for improvement were identified using process mapping,\na technique adapted from manufacturing involving preparation\nof diagrams of activities, tasks and decisions within a work flow\nin order to understand and subsequently improve the overall pro-\ncess17. This specific technique has been described previously for\nthe Clean Cut programme13. The frequency with which certain\nprocess failures occurred was also recorded on the process maps.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      557.1,
+      232.6,
+      567.5
+     ],
+     "text": "Facility feedback and implementation\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      571.8,
+      291.5,
+      744.9
+     ],
+     "text": "Quantitative adherence to the Clean Cut perioperative infection\nprevention standards was compiled over a 4–6-week baseline pe-\nriod. The degree of adherence and visual process map for each in-\nfection\nprevention\nstandard\nwere\ndelivered\nto\nthe\nlocal\nstakeholders through individual and focus group meetings, as de-\nscribed previously13. Up-to-date patient outcome data were in-\ncluded in these meetings to provide context. After development\nand prioritization of facility-specific interventions, two subse-\nquent stakeholder meetings were held during the course of the 6-\nmonth\nprogramme\nto\nassess\ninterventions\nand\noutcomes.\nIdentified interventions included: improving the use of alcohol\nhand rub following surgical hand scrubbing; establishing a proce-\ndure to mend holes in gowns and drapes; training operating room\ncleaning staff on appropriate decontamination and packaging of\ninstruments, including use of sterility indicator tape in instru-\nment trays; establishing a standard for gauze counting; and\n"
+    },
+    {
+     "bbox": [
+      309.5,
+      54.8,
+      552.7,
+      73.9
+     ],
+     "text": "verbal use of the checklist at critical moments before induction\nof anaesthesia and skin incision.\n"
+    },
+    {
+     "bbox": [
+      309.5,
+      83.9,
+      375.6,
+      94.2
+     ],
+     "text": "Data analysis\n"
+    },
+    {
+     "bbox": [
+      309.5,
+      98.5,
+      552.7,
+      216.6
+     ],
+     "text": "As this was a quality improvement initiative to improve perioper-\native practices and did not introduce new clinical methods or in-\nvolve any direct risk to patients, there were no exclusion criteria;\nall patients undergoing surgery in the operating theatres selected\nfor\nevaluation\nwere\neligible\nand\npatient\nconsent\nwas\nnot\nobtained. Institutional review boards at Stanford University, the\nCollege of Health Sciences at Jimma University and the College of\nHealth Sciences at Addis Ababa University approved the study;\napproval was also obtained from appropriate administrative bod-\nies at each hospital. Neither patients nor the public were involved\nin designing this study.\n"
+    },
+    {
+     "bbox": [
+      309.5,
+      219.6,
+      553.0,
+      458.6
+     ],
+     "text": "Demographic and clinical characteristics of patients in the\nbaseline phase and after the intervention were compared using\nv2 tests for categorical variables and Student’s t test for age as a\ncontinuous variable. Adherence to the six standards at baseline\ncompared with after intervention was evaluated in univariable\nanalyses using v2 tests. The relative risk of infection after imple-\nmentation of the programme was calculated using modified\nPoisson regression analysis with a robust error variance18, con-\ntrolling for age, sex, urgency, wound class, type of operation and\nhospital modelled as fixed effects. The relative risk of infection\nwas also assessed based on the degree of adherence to the stand-\nards of interest using a similar model adjusted for the same co-\nvariables. Sensitivity analyses were undertaken using multivari-\nable logistic regression models, controlling for the same factors,\nto assess the relative risk of infection during the postintervention\nphase as well as with increased adherence to infection preven-\ntion standards; these regression models were also computed us-\ning log-binomial regression, as well as mixed-effects hierarchical\nregression with a random effect by hospital (Appendix S1, support-\ning information) and other co-variables modelled as fixed effects.\nAll\nanalyses\nwere\npreplanned,\nstatistical\nsignificance\nwas\nassessed at the level a ¼ 0\u000205, and all tests were two-sided. SASV\nR\n"
+    },
+    {
+     "bbox": [
+      309.5,
+      461.5,
+      552.7,
+      480.6
+     ],
+     "text": "version 9.4 (SAS Institute, Cary, North Carolina, USA) was used\nfor statistical analysis.\n"
+    },
+    {
+     "bbox": [
+      309.5,
+      499.3,
+      349.3,
+      510.7
+     ],
+     "text": "Results\n"
+    },
+    {
+     "bbox": [
+      309.5,
+      516.8,
+      552.8,
+      601.9
+     ],
+     "text": "Compliance data were collected prospectively from 2213 opera-\ntions in 2202 patients, 374 during baseline assessment and 1839\nafter implementation. Follow-up outcomes were complete for\n2159 patients (98\u00020 per cent). Demographics of the patients in the\nbaseline and postintervention cohorts are shown in Table 1. There\nwere proportionally more emergency and contaminated opera-\ntions after the intervention, but age, sex and the variety of opera-\ntions were well matched.\n"
+    },
+    {
+     "bbox": [
+      309.5,
+      604.8,
+      552.8,
+      744.9
+     ],
+     "text": "Adherence to each of the infection prevention standards sig-\nnificantly improved after process mapping and quality improve-\nment interventions (Fig. 1). All standards had major gaps and\nweaknesses, as each had multiple components of compliance\nand frequently one or two of these were critically deficient.\nHowever, adherence to each standard increased as processes\nwere strengthened and component parts of full compliance were\nenhanced (Table 2). For example, for assurance of instrument ste-\nrility, both the presence of sterile indicators and the absence of\ncondensation and fluid within the trays are critical to ensuring\nappropriate sterility of the instrument tray. However, in the base-\nline period only 133 of 374 surgical trays had sterility indicators\nlocated in the tray, and 123 had condensation (indicative of a\n"
+    },
+    {
+     "bbox": [
+      469.5,
+      28.0,
+      552.7,
+      36.0
+     ],
+     "text": "Forrester et al.\n|\n729\n"
+    },
+    {
+     "bbox": [
+      571.4,
+      213.6,
+      578.9,
+      568.8
+     ],
+     "text": "Downloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "poor heating cycle of the steam autoclave). Refining the process\nby which sterility indicators are included in the instrument trays,\ngowns and drapes, and adjusting the autoclave, improved com-\npliance with instrument sterility standards more than fourfold,\nand gown and drape sterility standards almost fivefold (Table 2).\nAt baseline, perioperative teams complied with only a mean of\n2\u00029 of the six critical perioperative infection prevention stand-\nards; after implementation of process improvement changes,\ncompliance rose to a mean of 4\u00025 (P < 0\u0002001) (Table 3). This im-\nprovement in compliance resulted in a non-significant reduction\nin surgical infections from 7\u00024 to 5\u00028 per cent (P ¼ 0\u0002246) on uni-\nvariable analysis. In multivariable analysis controlling for sex,\nage, urgency, wound class, type of operation and facility, the rela-\ntive risk of infection following Clean Cut implementation was\n0\u000265 (95 per cent c.i. 0\u000243 to 0\u000299; P ¼ 0\u0002043) (Table 4). Improved\ncompliance was significantly associated with reductions in post-\noperative infections. Comparing operations with low compliance\n(2 or fewer critical standards) versus those with high compliance\n(3 or more), the relative risk of infection dropped by 46 per cent\n(relative risk 0\u000254, 0\u000230 to 0\u000297; P ¼ 0\u0002038) (Table 5). Sensitivity anal-\nyses showed the point estimate results to be robust to several dif-\nferent modelling strategies (Appendix S1, supporting information).\nDuration of hospital stay remained unchanged, and owing to low\nnumbers of deaths (20 in total) it was not possible to use multi-\nvariable modelling to assess the relative risk of death after pro-\ngramme implementation.\nDiscussion\nUsing an adaptive, multimodal intervention, five hospitals in\nEthiopia with substantial resource limitations were able to signif-\nicantly improve compliance with six critical standards of infec-\ntion prevention and reduced the risk of postoperative infections\nby 35 per cent; mortality and duration of hospital stay remained\nunchanged.\nAppropriate\nimplementation\nwas\naccomplished\nthrough a combination of collaborative, cross-disciplinary efforts\nTable 1 Patient demographics and operations before and after\nprocess improvement interventions\nBaseline\n(n ¼ 374)\nAfter\nimplementation\n(n ¼ 1839)\nP**\nAge (years)*\n35\u00027(16\u00024)\n34\u00020(14\u00025)\n0\u0002061††\n\u0003 25\n108 (29\u00020)\n572 (31\u00022)\n0\u0002125\n26–30\n78 (21\u00020)\n449 (24\u00025)\n31–40\n82 (22\u00020)\n396 (21\u00026)\n\u0004 41\n104 (28\u00020)\n416 (22\u00027)\nMissing\n2\n6\nSex ratio (M : F)\n250 : 124\n1321 : 518\n0\u0002053\nUrgency\n< 0\u0002001\nElective\n235 (62\u00028)\n892 (48\u00025)\nEmergency\n139 (37\u00022)\n947 (51\u00025)\nType of operation\n< 0\u0002001\nOrthopaedic†\n6 (1\u00026)\n31 (1\u00027)\nSoft tissue‡\n20 (5\u00023)\n70 (3\u00028)\nEar, nose and throat§\n42 (11\u00022)\n128 (7\u00020)\nGynaecological¶\n15 (4\u00020)\n46 (2\u00025)\nVascular\n6 (1\u00026)\n36 (2\u00020)\nAppendicectomy\n32 (8\u00026)\n183 (10\u00020)\nCholecystectomy\n12 (3\u00022)\n28 (1\u00025)\nColorectal\n21 (5\u00026)\n104 (5\u00027)\nCaesarean\n107 (28\u00026)\n737 (40\u00021)\nHernia\n9 (2\u00024)\n58 (3\u00022)\nHysterectomy\n16 (4\u00023)\n39 (2\u00021)\nGastrointestinal/laparotomy#\n54 (14\u00024)\n307 (16\u00027)\nUrological\n34 (9\u00021)\n71 (3\u00029)\nMissing\n0\n1\nWound classiﬁcation\n0\u0002100\nClean\n68 (18\u00022)\n316 (17\u00022)\nClean contaminated\n254 (67\u00029)\n1185 (64\u00025)\nContaminated\n40 (10\u00027)\n288 (15\u00027)\nDirty\n12 (3\u00022)\n49 (2\u00027)\nMissing\n0\n1\nValues in parentheses are percentages unless indicated otherwise; *values are\nmean(s.d.). †Includes extremity amputations; ‡includes skin, breast and\nexternal anal procedures; §head and neck operations, including thyroid;\n¶includes operations for ectopic pregnancy; #gastrointestinal and other intra-\nabdominal operations via a laparotomy. **v2 test, except ††Student’s t test with\nSatterthwaite method.\nFig. 1 Radar plot of adherence to each Clean Cut standards category at baseline and after process improvement interventions\nPerfect compliance is deﬁned by the outer edge of the plot. P < 0\u0002001 for all improvement processes (Fisher’s exact test).\n730\n|\nBJS, 2021, Vol. 108, No. 6\nDownloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n",
+   "n_chars": 3971,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      303.8,
+      54.8,
+      547.1,
+      106.9
+     ],
+     "text": "poor heating cycle of the steam autoclave). Refining the process\nby which sterility indicators are included in the instrument trays,\ngowns and drapes, and adjusting the autoclave, improved com-\npliance with instrument sterility standards more than fourfold,\nand gown and drape sterility standards almost fivefold (Table 2).\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      109.8,
+      547.1,
+      337.8
+     ],
+     "text": "At baseline, perioperative teams complied with only a mean of\n2\u00029 of the six critical perioperative infection prevention stand-\nards; after implementation of process improvement changes,\ncompliance rose to a mean of 4\u00025 (P < 0\u0002001) (Table 3). This im-\nprovement in compliance resulted in a non-significant reduction\nin surgical infections from 7\u00024 to 5\u00028 per cent (P ¼ 0\u0002246) on uni-\nvariable analysis. In multivariable analysis controlling for sex,\nage, urgency, wound class, type of operation and facility, the rela-\ntive risk of infection following Clean Cut implementation was\n0\u000265 (95 per cent c.i. 0\u000243 to 0\u000299; P ¼ 0\u0002043) (Table 4). Improved\ncompliance was significantly associated with reductions in post-\noperative infections. Comparing operations with low compliance\n(2 or fewer critical standards) versus those with high compliance\n(3 or more), the relative risk of infection dropped by 46 per cent\n(relative risk 0\u000254, 0\u000230 to 0\u000297; P ¼ 0\u0002038) (Table 5). Sensitivity anal-\nyses showed the point estimate results to be robust to several dif-\nferent modelling strategies (Appendix S1, supporting information).\nDuration of hospital stay remained unchanged, and owing to low\nnumbers of deaths (20 in total) it was not possible to use multi-\nvariable modelling to assess the relative risk of death after pro-\ngramme implementation.\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      362.9,
+      363.6,
+      374.2
+     ],
+     "text": "Discussion\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      380.3,
+      547.1,
+      454.4
+     ],
+     "text": "Using an adaptive, multimodal intervention, five hospitals in\nEthiopia with substantial resource limitations were able to signif-\nicantly improve compliance with six critical standards of infec-\ntion prevention and reduced the risk of postoperative infections\nby 35 per cent; mortality and duration of hospital stay remained\nunchanged.\nAppropriate\nimplementation\nwas\naccomplished\nthrough a combination of collaborative, cross-disciplinary efforts\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      56.3,
+      276.4,
+      73.3
+     ],
+     "text": "Table 1 Patient demographics and operations before and after\nprocess improvement interventions\n"
+    },
+    {
+     "bbox": [
+      166.8,
+      82.4,
+      196.3,
+      99.6
+     ],
+     "text": "Baseline\n(n ¼ 374)\n"
+    },
+    {
+     "bbox": [
+      201.6,
+      82.4,
+      256.9,
+      99.6
+     ],
+     "text": "After\nimplementation\n"
+    },
+    {
+     "bbox": [
+      212.5,
+      102.4,
+      246.0,
+      109.6
+     ],
+     "text": "(n ¼ 1839)\n"
+    },
+    {
+     "bbox": [
+      269.2,
+      81.1,
+      276.7,
+      89.6
+     ],
+     "text": "P**\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      116.8,
+      285.4,
+      126.0
+     ],
+     "text": "Age (years)*\n35\u00027(16\u00024)\n34\u00020(14\u00025)\n0\u0002061††\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      127.2,
+      285.8,
+      395.9
+     ],
+     "text": "\u0003 25\n108 (29\u00020)\n572 (31\u00022)\n0\u0002125\n26–30\n78 (21\u00020)\n449 (24\u00025)\n31–40\n82 (22\u00020)\n396 (21\u00026)\n\u0004 41\n104 (28\u00020)\n416 (22\u00027)\nMissing\n2\n6\nSex ratio (M : F)\n250 : 124\n1321 : 518\n0\u0002053\nUrgency\n< 0\u0002001\nElective\n235 (62\u00028)\n892 (48\u00025)\nEmergency\n139 (37\u00022)\n947 (51\u00025)\nType of operation\n< 0\u0002001\nOrthopaedic†\n6 (1\u00026)\n31 (1\u00027)\nSoft tissue‡\n20 (5\u00023)\n70 (3\u00028)\nEar, nose and throat§\n42 (11\u00022)\n128 (7\u00020)\nGynaecological¶\n15 (4\u00020)\n46 (2\u00025)\nVascular\n6 (1\u00026)\n36 (2\u00020)\nAppendicectomy\n32 (8\u00026)\n183 (10\u00020)\nCholecystectomy\n12 (3\u00022)\n28 (1\u00025)\nColorectal\n21 (5\u00026)\n104 (5\u00027)\nCaesarean\n107 (28\u00026)\n737 (40\u00021)\nHernia\n9 (2\u00024)\n58 (3\u00022)\nHysterectomy\n16 (4\u00023)\n39 (2\u00021)\nGastrointestinal/laparotomy#\n54 (14\u00024)\n307 (16\u00027)\nUrological\n34 (9\u00021)\n71 (3\u00029)\nMissing\n0\n1\nWound classiﬁcation\n0\u0002100\nClean\n68 (18\u00022)\n316 (17\u00022)\nClean contaminated\n254 (67\u00029)\n1185 (64\u00025)\nContaminated\n40 (10\u00027)\n288 (15\u00027)\nDirty\n12 (3\u00022)\n49 (2\u00027)\nMissing\n0\n1\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      403.3,
+      282.9,
+      448.7
+     ],
+     "text": "Values in parentheses are percentages unless indicated otherwise; *values are\nmean(s.d.). †Includes extremity amputations; ‡includes skin, breast and\nexternal anal procedures; §head and neck operations, including thyroid;\n¶includes operations for ectopic pregnancy; #gastrointestinal and other intra-\nabdominal operations via a laparotomy. **v2 test, except ††Student’s t test with\nSatterthwaite method.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      734.7,
+      466.6,
+      750.9
+     ],
+     "text": "Fig. 1 Radar plot of adherence to each Clean Cut standards category at baseline and after process improvement interventions\nPerfect compliance is deﬁned by the outer edge of the plot. P < 0\u0002001 for all improvement processes (Fisher’s exact test).\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      28.0,
+      162.6,
+      36.0
+     ],
+     "text": "730\n|\nBJS, 2021, Vol. 108, No. 6\n"
+    },
+    {
+     "bbox": [
+      571.4,
+      213.6,
+      578.9,
+      568.8
+     ],
+     "text": "Downloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "coupled with surveillance of processes and outcomes, and a pro-\ncess-mapping exercise to identify gaps and opportunities for im-\nprovement. The SSC was used both as an audit tool to identify\ncompliance gaps and as a safety tool to leverage improvements\nin perioperative care through a combination of process mapping\nand teamwork.\nAlthough use of the WHO SSC has spread widely, implementa-\ntion and compliance are challenging19. Evidence suggests that\nfacilities demonstrably able to implement the checklist appropri-\nately can reduce complications20,21, presumably owing to the\nability of those facilities to comply with the standards embedded\nin the checklist and to meet the spirit of the checklist as a tool to\nimprove communication among perioperative team members. In\nlow-income countries, compliance with the checklist is hindered\nby severe resource constraints, staff shortages, weak processes\nand limited infrastructure22,23. Adoption of the checklist can be\nseen as impractical, particularly when resource constraints\nprohibit compliance with many of its critical elements. However,\nmany safety checks are based on communication and confirma-\ntion of processes that are part of standard operating procedure,\nso checklist use can be implemented even in settings with com-\npliance challenges24. Indeed, compliance challenges are present\nuniversally, regardless of setting, and teams must work to over-\ncome them when implementing the checklist.\nAlthough barriers to surgical improvement and safety in low-\nincome countries are frequently ascribed to infrastructural limi-\ntations, the mechanisms by which safety tools like the checklist\nare introduced appear to matter a great deal25,26. Clean Cut aims\nto strengthen underlying processes of care that cannot be cor-\nrected easily with the introduction of the checklist alone. As a\nquality improvement programme, it is supported by three funda-\nmental and interconnected strategies: the building of a multidis-\nciplinary team; appropriate surveillance of compliance with\nstandards and outcomes of care; and process mapping coupled\nwith a mechanism to identify opportunities for improving com-\npliance with the six critical standards of surgical infection pre-\nvention. Process mapping allowed the team to identify gaps in\nworkflow, deficiencies in standard operating procedures, poor or\ninadequate training and misperceptions of appropriate infection\nprevention practices, and weaknesses in management oversight.\nThe data collected enumerating the lack of compliance with\nstandards were a powerful motivator to establish an improve-\nment programme. Finally, the multidisciplinary nature of the\nteam allowed each member to leverage their respective position\nto enact changes in workflow within their sphere of influence.\nFurthermore, it allowed multiple disciplines to collectively lobby\nTable 2 Adherence to Clean Cut surgical infection prevention standards at baseline and after process improvement interventions\nBaseline (n ¼ 374)\nAfter implementation (n ¼ 1839)\nP*\nSkin preparation compliance\nSurgeon hand scrub completed\n340 (90\u00029)\n1824 (99\u00022)\n< 0\u0002001\nSurgical site skin preparation completed\n370 (98\u00029)\n1828 (99\u00024)\n0\u0002311\nTotal compliance\n336 (89\u00028)\n1814 (98\u00026)\n< 0\u0002001\nSterile ﬁeld compliance\nNew surgical gloves used by surgeon\n371 (99\u00022)\n1832 (99\u00026)\n0\u0002268\nSterility indicator present inside gown and drape pack\n52 (13\u00029)\n1209 (65\u00027)\n< 0\u0002001\nIf so, had colour changed indicating sterility\n51 (98\u00021)\n1188 (98\u00023)\n0\u0002920\nDry gowns and drapes used\n251 (67\u00021)\n1819 (98\u00029)\n< 0\u0002001\nGowns without holes or tears\n366 (97\u00029)\n1815 (98\u00027)\n0\u0002218\nDrapes without holes or tears\n366 (97\u00029)\n1832 (99\u00026)\n< 0\u0002001\nTotal compliance\n50 (13\u00024)\n1151 (62\u00026)\n< 0\u0002001\nInstrument sterility compliance\nSterility indicator present inside instrument tray\n133 (35\u00026)\n1258 (68\u00024)\n< 0\u0002001\nIf so, had colour changed indicating sterility\n132 (99\u00022)\n1240 (98\u00026)\n0\u0002521\nInside of the instrument tray dry\n251 (67\u00021)\n1801 (97\u00029)\n< 0\u0002001\nTotal compliance\n57 (15\u00022)\n1207 (65\u00026)\n< 0\u0002001\nAntibiotic administration compliance\nAntibiotics given before surgery\n322 (86\u00021)\n1706 (92\u00028)\n< 0\u0002001\nAntibiotics given in operating room\n110 (29\u00024)\n877 (47\u00027)\n< 0\u0002001\nTotal compliance\n147 (39\u00023)\n951 (51\u00027)\n< 0\u0002001\nGauze count compliance\nGauze count before operation\n301 (80\u00025)\n1756 (95\u00025)\n< 0\u0002001\nGauze count after operation\n294 (78\u00026)\n1749 (95\u00021)\n< 0\u0002001\nTotal compliance\n282 (75\u00024)\n1716 (93\u00023)\n< 0\u0002001\nChecklist compliance\nProcedure announced before the start of the operation\n304 (81\u00023)\n1716 (93\u00023)\n< 0\u0002001\nTime out/team introductions performed\n231 (61\u00028)\n1457 (79\u00022)\n< 0\u0002001\nEstimated blood loss stated aloud\n319 (85\u00023)\n1678 (91\u00022)\n< 0\u0002001\nTotal compliance\n216 (57\u00028)\n1417 (77\u00021)\n< 0\u0002001\nValues in parentheses are percentages. Total compliance includes full compliance with each of the processes within the category. *v2 test.\nTable 3 Overall adherence score at baseline and after process\nimprovement interventions\nAdherence score (out of 6)\nBaseline\n(n ¼ 374)\nAfter\nimplementation\n(n ¼ 1839)\nDifference\nP\nMean (95% c.i.) 2\u00029 (2\u00028, 3\u00021)\n4\u00025 (4\u00024, 4\u00025)\n1\u00026 (1\u00024, 1\u00027)\n< 0\u0002001*\nMedian (i.q.r.)\n3 (2–4)\n5 (4–5)\n< 0\u0002001†\n*Student’s t test with Satterthwaite method; †Wilcoxon rank-sum test.\nForrester et al.\n|\n731\nDownloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n",
+   "n_chars": 5310,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      48.2,
+      532.8,
+      291.5,
+      595.8
+     ],
+     "text": "coupled with surveillance of processes and outcomes, and a pro-\ncess-mapping exercise to identify gaps and opportunities for im-\nprovement. The SSC was used both as an audit tool to identify\ncompliance gaps and as a safety tool to leverage improvements\nin perioperative care through a combination of process mapping\nand teamwork.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      598.7,
+      291.5,
+      716.8
+     ],
+     "text": "Although use of the WHO SSC has spread widely, implementa-\ntion and compliance are challenging19. Evidence suggests that\nfacilities demonstrably able to implement the checklist appropri-\nately can reduce complications20,21, presumably owing to the\nability of those facilities to comply with the standards embedded\nin the checklist and to meet the spirit of the checklist as a tool to\nimprove communication among perioperative team members. In\nlow-income countries, compliance with the checklist is hindered\nby severe resource constraints, staff shortages, weak processes\nand limited infrastructure22,23. Adoption of the checklist can be\nseen as impractical, particularly when resource constraints\n"
+    },
+    {
+     "bbox": [
+      309.5,
+      403.0,
+      552.8,
+      477.1
+     ],
+     "text": "prohibit compliance with many of its critical elements. However,\nmany safety checks are based on communication and confirma-\ntion of processes that are part of standard operating procedure,\nso checklist use can be implemented even in settings with com-\npliance challenges24. Indeed, compliance challenges are present\nuniversally, regardless of setting, and teams must work to over-\ncome them when implementing the checklist.\n"
+    },
+    {
+     "bbox": [
+      309.5,
+      480.0,
+      552.7,
+      719.1
+     ],
+     "text": "Although barriers to surgical improvement and safety in low-\nincome countries are frequently ascribed to infrastructural limi-\ntations, the mechanisms by which safety tools like the checklist\nare introduced appear to matter a great deal25,26. Clean Cut aims\nto strengthen underlying processes of care that cannot be cor-\nrected easily with the introduction of the checklist alone. As a\nquality improvement programme, it is supported by three funda-\nmental and interconnected strategies: the building of a multidis-\nciplinary team; appropriate surveillance of compliance with\nstandards and outcomes of care; and process mapping coupled\nwith a mechanism to identify opportunities for improving com-\npliance with the six critical standards of surgical infection pre-\nvention. Process mapping allowed the team to identify gaps in\nworkflow, deficiencies in standard operating procedures, poor or\ninadequate training and misperceptions of appropriate infection\nprevention practices, and weaknesses in management oversight.\nThe data collected enumerating the lack of compliance with\nstandards were a powerful motivator to establish an improve-\nment programme. Finally, the multidisciplinary nature of the\nteam allowed each member to leverage their respective position\nto enact changes in workflow within their sphere of influence.\nFurthermore, it allowed multiple disciplines to collectively lobby\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      56.3,
+      536.1,
+      64.3
+     ],
+     "text": "Table 2 Adherence to Clean Cut surgical infection prevention standards at baseline and after process improvement interventions\n"
+    },
+    {
+     "bbox": [
+      285.4,
+      72.1,
+      542.8,
+      80.6
+     ],
+     "text": "Baseline (n ¼ 374)\nAfter implementation (n ¼ 1839)\nP*\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      89.2,
+      153.7,
+      96.9
+     ],
+     "text": "Skin preparation compliance\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      98.2,
+      552.8,
+      132.9
+     ],
+     "text": "Surgeon hand scrub completed\n340 (90\u00029)\n1824 (99\u00022)\n< 0\u0002001\nSurgical site skin preparation completed\n370 (98\u00029)\n1828 (99\u00024)\n0\u0002311\nTotal compliance\n336 (89\u00028)\n1814 (98\u00026)\n< 0\u0002001\nSterile ﬁeld compliance\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      134.2,
+      552.8,
+      204.9
+     ],
+     "text": "New surgical gloves used by surgeon\n371 (99\u00022)\n1832 (99\u00026)\n0\u0002268\nSterility indicator present inside gown and drape pack\n52 (13\u00029)\n1209 (65\u00027)\n< 0\u0002001\nIf so, had colour changed indicating sterility\n51 (98\u00021)\n1188 (98\u00023)\n0\u0002920\nDry gowns and drapes used\n251 (67\u00021)\n1819 (98\u00029)\n< 0\u0002001\nGowns without holes or tears\n366 (97\u00029)\n1815 (98\u00027)\n0\u0002218\nDrapes without holes or tears\n366 (97\u00029)\n1832 (99\u00026)\n< 0\u0002001\nTotal compliance\n50 (13\u00024)\n1151 (62\u00026)\n< 0\u0002001\nInstrument sterility compliance\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      206.2,
+      552.8,
+      249.9
+     ],
+     "text": "Sterility indicator present inside instrument tray\n133 (35\u00026)\n1258 (68\u00024)\n< 0\u0002001\nIf so, had colour changed indicating sterility\n132 (99\u00022)\n1240 (98\u00026)\n0\u0002521\nInside of the instrument tray dry\n251 (67\u00021)\n1801 (97\u00029)\n< 0\u0002001\nTotal compliance\n57 (15\u00022)\n1207 (65\u00026)\n< 0\u0002001\nAntibiotic administration compliance\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      251.2,
+      552.8,
+      285.9
+     ],
+     "text": "Antibiotics given before surgery\n322 (86\u00021)\n1706 (92\u00028)\n< 0\u0002001\nAntibiotics given in operating room\n110 (29\u00024)\n877 (47\u00027)\n< 0\u0002001\nTotal compliance\n147 (39\u00023)\n951 (51\u00027)\n< 0\u0002001\nGauze count compliance\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      287.2,
+      552.8,
+      321.9
+     ],
+     "text": "Gauze count before operation\n301 (80\u00025)\n1756 (95\u00025)\n< 0\u0002001\nGauze count after operation\n294 (78\u00026)\n1749 (95\u00021)\n< 0\u0002001\nTotal compliance\n282 (75\u00024)\n1716 (93\u00023)\n< 0\u0002001\nChecklist compliance\n"
+    },
+    {
+     "bbox": [
+      55.7,
+      323.2,
+      552.8,
+      357.9
+     ],
+     "text": "Procedure announced before the start of the operation\n304 (81\u00023)\n1716 (93\u00023)\n< 0\u0002001\nTime out/team introductions performed\n231 (61\u00028)\n1457 (79\u00022)\n< 0\u0002001\nEstimated blood loss stated aloud\n319 (85\u00023)\n1678 (91\u00022)\n< 0\u0002001\nTotal compliance\n216 (57\u00028)\n1417 (77\u00021)\n< 0\u0002001\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      363.6,
+      471.3,
+      373.2
+     ],
+     "text": "Values in parentheses are percentages. Total compliance includes full compliance with each of the processes within the category. *v2 test.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      406.6,
+      279.4,
+      423.7
+     ],
+     "text": "Table 3 Overall adherence score at baseline and after process\nimprovement interventions\n"
+    },
+    {
+     "bbox": [
+      114.4,
+      432.7,
+      202.4,
+      440.0
+     ],
+     "text": "Adherence score (out of 6)\n"
+    },
+    {
+     "bbox": [
+      113.0,
+      450.5,
+      142.5,
+      467.7
+     ],
+     "text": "Baseline\n(n ¼ 374)\n"
+    },
+    {
+     "bbox": [
+      154.3,
+      450.5,
+      209.6,
+      467.7
+     ],
+     "text": "After\nimplementation\n"
+    },
+    {
+     "bbox": [
+      165.2,
+      470.5,
+      198.8,
+      477.7
+     ],
+     "text": "(n ¼ 1839)\n"
+    },
+    {
+     "bbox": [
+      218.7,
+      450.5,
+      279.1,
+      457.7
+     ],
+     "text": "Difference\nP\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      486.3,
+      291.5,
+      503.1
+     ],
+     "text": "Mean (95% c.i.) 2\u00029 (2\u00028, 3\u00021)\n4\u00025 (4\u00024, 4\u00025)\n1\u00026 (1\u00024, 1\u00027)\n< 0\u0002001*\nMedian (i.q.r.)\n3 (2–4)\n5 (4–5)\n< 0\u0002001†\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      510.4,
+      263.2,
+      518.3
+     ],
+     "text": "*Student’s t test with Satterthwaite method; †Wilcoxon rank-sum test.\n"
+    },
+    {
+     "bbox": [
+      469.5,
+      28.0,
+      552.7,
+      36.0
+     ],
+     "text": "Forrester et al.\n|\n731\n"
+    },
+    {
+     "bbox": [
+      571.4,
+      213.6,
+      578.9,
+      568.8
+     ],
+     "text": "Downloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n"
+    }
+   ]
+  },
+  {
+   "page": 6,
+   "text": "for attention and resources that had not previously been identi-\nfied or agreed on. Clean Cut also used implementation strategies\nthat were often not readily available to providers given the way\nfacilities and human resources were managed and organized be-\nfore the programme.\nA limitation of this study is its pre–post design, and lack of in-\nvolvement with patient advocates and the general public during\nplanning and delivery. Similar to many surgical safety checklist\nand other quality improvement studies27, this study did not ran-\ndomize patients or hospitals. Checklists are considered a stan-\ndard of care in many countries, and improved checklist use is a\npriority for the Federal Ministry of Health of Ethiopia11; as such,\nrandomization was impracticable as part of the strategy was to\nimprove appropriate compliance with the checklist. Data collec-\ntors were not specifically blinded to the intervention, but neither\nwere they necessarily aware of when specific interventions were\nmade within the facility, as many improvements were under-\ntaken outside of the operating theatre (such as how antibiotics\nwere delivered to patients or how sterility of instruments was as-\nsured). Furthermore, although oversight was provided by the se-\nnior author, data analysis was undertaken by a separate team\nnot involved in programme implementation. Data collection was\nchallenging, and obtaining 30-day follow-up information was\nlimited by the ability to reach patients and families by telephone;\ndespite this, it was possible to follow up 98\u00020 per cent of patients\nundergoing surgery, a much higher proportion than originally\nanticipated. An additional unexpected finding was the satisfac-\ntion the nursing staff expressed at being able to contact patients\nafter discharge23. The observed infection rates were lower than\nhas been reported previously in these settings, although still\nfairly high overall. The diagnosis of surgical infection was modi-\nfied from the CDC definition, and antibiotics are commonly used\nempirically after surgery without regard to the actual presence of\ninfection. Imaging modalities and other ancillary testing such as\nlaboratory blood work was not readily available; definitions were\ntherefore based on clearly defined, easily observable objective\nsigns of surgical infection (such as pus, reopening of a closed\nwound, or foul smell emanating from the wound). This may have\nlimited the ability to capture more subtle wound infections, but\nas these definitions were applied consistently during the study\nthe findings are still valid. Improvements in the ability to detect\ninfections were noted as the study progressed, but this would be\nexpected to bias the study against findings of improvement.\nFurthermore, this study was not powered to detect significant\nimprovements at individual facilities and, in agreement with\neach facility, all results are reported in aggregate owing to reputa-\ntion considerations. However, each site was able to improve com-\npliance with standards to some degree, indicating an ability to\nenact positive changes to the perioperative routine (Appendix S1,\nsupporting information). A Hawthorne effect rather than the pro-\ngramme itself might also explain improvements in both compli-\nance and outcomes, although it is a phenomenon that those\nTable 5 Relative risk of postoperative infection based on\nadherence to six critical standards in infection prevention, after\nadjusting for sex, age, urgency, wound class and hospital using\nmodiﬁed robust Poisson regression\nRelative risk\nP\nAdherence score\n0–2\n1\u000200 (reference)\n3–6\n0\u000254 (0\u000230, 0\u000297)\n0\u0002038\nSex\nF\n1\u000200 (reference)\nM\n0\u000282 (0\u000251, 1\u000232)\n0\u0002414\nAge (years)\n\u0003 25\n1\u000200 (reference)\n26–30\n0\u000272 (0\u000245, 1\u000214)\n0\u0002162\n31–40\n0\u000282 (0\u000251, 1\u000232)\n0\u0002418\n\u0004 41\n0\u000280 (0\u000245, 1\u000244)\n0\u0002460\nUrgency\nElective\n1\u000200 (reference)\nEmergency\n1\u000208 (0\u000268, 1\u000272)\n0\u0002740\nWound class\nClean\n1\u000200 (reference)\nClean contaminated\n0\u000240 (0\u000209, 1\u000283)\n0\u0002237\nContaminated\n0\u000287 (0\u000219, 4\u000207)\n0\u0002860\nDirty\n2\u000210 (0\u000245, 9\u000277)\n0\u0002345\nType of operation\nEar, nose and throat\n1\u000200 (reference)\nOrthopaedic\n4\u000238 (0\u000260, 32\u000224)\n0\u0002147\nSoft tissue\n3\u000247 (0\u000285, 14\u000214)\n0\u0002083\nGynaecological\n3\u000299 (0\u000259, 26\u000288)\n0\u0002155\nVascular\n1\u000214 (0\u000211, 11\u000233)\n0\u0002912\nAppendicectomy\n4\u000276 (0\u000274, 30\u000269)\n0\u0002101\nCholecystectomy\n9\u000237 (1\u000210, 79\u000270)\n0\u0002041\nColorectal\n11\u000208 (1\u000274, 70\u000258)\n0\u0002011\nCaesarean\n9\u000294 (1\u000258, 62\u000272)\n0\u0002015\nHernia\n2\u000233 (0\u000240, 13\u000246)\n0\u0002343\nHysterectomy\n11\u000208 (1\u000245, 84\u000272)\n0\u0002021\nGastrointestinal/laparotomy\n5\u000241 (0\u000292, 31\u000290)\n0\u0002062\nUrological\n4\u000201 (0\u000231, 51\u000293)\n0\u0002288\nValues in parentheses are 95 per cent conﬁdence intervals. The analysis was\nbased on 2159 procedures. Relative risks by hospital are not shown.\nTable 4 Relative risk of postoperative infection based on timing\nof process improvements, after adjusting for sex, age, urgency,\nwound class and hospital using modiﬁed robust Poisson\nregression\nRelative risk\nP\nInfection\nBaseline\n1\u000200 (reference)\nAfter implementation\n0\u000265 (0\u000243, 0\u000299)\n0\u0002043\nSex\nF\n1\u000200 (reference)\nM\n0\u000283 (0\u000252, 1\u000232)\n0\u0002429\nAge (years)\n\u0003 25\n1\u000200 (reference)\n26–30\n0\u000272 (0\u000245, 1\u000215)\n0\u0002169\n31–40\n0\u000281 (0\u000250, 1\u000230)\n0\u0002382\n\u0004 41\n0\u000282 (0\u000246, 1\u000247)\n0\u0002511\nUrgency\nElective\n1\u000200 (reference)\nEmergency\n1\u000210 (0\u000270, 1\u000274)\n0\u0002683\nWound class\nClean\n1\u000200 (reference)\nClean contaminated\n0\u000238 (0\u000208, 1\u000268)\n0\u0002202\nContaminated\n0\u000284 (0\u000218, 3\u000287)\n0\u0002827\nDirty\n2\u000201 (0\u000244, 9\u000222)\n0\u0002367\nType of operation\nEar, nose and throat\n1\u000200 (reference)\nOrthopaedic\n4\u000244 (0\u000263, 31\u000219)\n0\u0002134\nSoft tissue\n3\u000272 (0\u000292, 15\u000209)\n0\u0002066\nGynaecological\n4\u000236 (0\u000262, 30\u000244)\n0\u0002138\nVascular\n1\u000222 (0\u000212, 12\u000227)\n0\u0002867\nAppendicectomy\n4\u000273 (0\u000276, 29\u000263)\n0\u0002097\nCholecystectomy\n9\u000289 (1\u000220, 81\u000243)\n0\u0002033\nColorectal\n10\u000293 (1\u000276, 67\u000292)\n0\u0002010\nCaesarean\n11\u000209 (1\u000282, 67\u000274)\n0\u0002009\nHernia\n2\u000231 (0\u000240, 13\u000234)\n0\u0002348\nHysterectomy\n12\u000209 (1\u000263, 89\u000257)\n0\u0002015\nGastrointestinal/laparotomy\n5\u000248 (0\u000296, 31\u000231)\n0\u0002056\nUrological\n3\u000292 (0\u000230, 50\u000267)\n0\u0002295\nValues in parentheses are 95 per cent conﬁdence intervals. Relative risks by\nhospital are not shown.\n732\n|\nBJS, 2021, Vol. 108, No. 6\nDownloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n",
+   "n_chars": 6070,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      42.5,
+      452.0,
+      285.8,
+      504.0
+     ],
+     "text": "for attention and resources that had not previously been identi-\nfied or agreed on. Clean Cut also used implementation strategies\nthat were often not readily available to providers given the way\nfacilities and human resources were managed and organized be-\nfore the programme.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      507.0,
+      285.8,
+      735.0
+     ],
+     "text": "A limitation of this study is its pre–post design, and lack of in-\nvolvement with patient advocates and the general public during\nplanning and delivery. Similar to many surgical safety checklist\nand other quality improvement studies27, this study did not ran-\ndomize patients or hospitals. Checklists are considered a stan-\ndard of care in many countries, and improved checklist use is a\npriority for the Federal Ministry of Health of Ethiopia11; as such,\nrandomization was impracticable as part of the strategy was to\nimprove appropriate compliance with the checklist. Data collec-\ntors were not specifically blinded to the intervention, but neither\nwere they necessarily aware of when specific interventions were\nmade within the facility, as many improvements were under-\ntaken outside of the operating theatre (such as how antibiotics\nwere delivered to patients or how sterility of instruments was as-\nsured). Furthermore, although oversight was provided by the se-\nnior author, data analysis was undertaken by a separate team\nnot involved in programme implementation. Data collection was\nchallenging, and obtaining 30-day follow-up information was\nlimited by the ability to reach patients and families by telephone;\ndespite this, it was possible to follow up 98\u00020 per cent of patients\nundergoing surgery, a much higher proportion than originally\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      452.0,
+      547.1,
+      735.0
+     ],
+     "text": "anticipated. An additional unexpected finding was the satisfac-\ntion the nursing staff expressed at being able to contact patients\nafter discharge23. The observed infection rates were lower than\nhas been reported previously in these settings, although still\nfairly high overall. The diagnosis of surgical infection was modi-\nfied from the CDC definition, and antibiotics are commonly used\nempirically after surgery without regard to the actual presence of\ninfection. Imaging modalities and other ancillary testing such as\nlaboratory blood work was not readily available; definitions were\ntherefore based on clearly defined, easily observable objective\nsigns of surgical infection (such as pus, reopening of a closed\nwound, or foul smell emanating from the wound). This may have\nlimited the ability to capture more subtle wound infections, but\nas these definitions were applied consistently during the study\nthe findings are still valid. Improvements in the ability to detect\ninfections were noted as the study progressed, but this would be\nexpected to bias the study against findings of improvement.\nFurthermore, this study was not powered to detect significant\nimprovements at individual facilities and, in agreement with\neach facility, all results are reported in aggregate owing to reputa-\ntion considerations. However, each site was able to improve com-\npliance with standards to some degree, indicating an ability to\nenact positive changes to the perioperative routine (Appendix S1,\nsupporting information). A Hawthorne effect rather than the pro-\ngramme itself might also explain improvements in both compli-\nance and outcomes, although it is a phenomenon that those\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      56.3,
+      544.7,
+      91.3
+     ],
+     "text": "Table 5 Relative risk of postoperative infection based on\nadherence to six critical standards in infection prevention, after\nadjusting for sex, age, urgency, wound class and hospital using\nmodiﬁed robust Poisson regression\n"
+    },
+    {
+     "bbox": [
+      450.0,
+      100.4,
+      539.7,
+      107.6
+     ],
+     "text": "Relative risk\nP\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      116.2,
+      364.5,
+      124.0
+     ],
+     "text": "Adherence score\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      125.2,
+      547.1,
+      151.0
+     ],
+     "text": "0–2\n1\u000200 (reference)\n3–6\n0\u000254 (0\u000230, 0\u000297)\n0\u0002038\nSex\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      152.2,
+      547.1,
+      177.9
+     ],
+     "text": "F\n1\u000200 (reference)\nM\n0\u000282 (0\u000251, 1\u000232)\n0\u0002414\nAge (years)\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      179.2,
+      547.1,
+      223.0
+     ],
+     "text": "\u0003 25\n1\u000200 (reference)\n26–30\n0\u000272 (0\u000245, 1\u000214)\n0\u0002162\n31–40\n0\u000282 (0\u000251, 1\u000232)\n0\u0002418\n\u0004 41\n0\u000280 (0\u000245, 1\u000244)\n0\u0002460\nUrgency\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      224.2,
+      547.1,
+      249.9
+     ],
+     "text": "Elective\n1\u000200 (reference)\nEmergency\n1\u000208 (0\u000268, 1\u000272)\n0\u0002740\nWound class\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      251.2,
+      547.1,
+      295.0
+     ],
+     "text": "Clean\n1\u000200 (reference)\nClean contaminated\n0\u000240 (0\u000209, 1\u000283)\n0\u0002237\nContaminated\n0\u000287 (0\u000219, 4\u000207)\n0\u0002860\nDirty\n2\u000210 (0\u000245, 9\u000277)\n0\u0002345\nType of operation\n"
+    },
+    {
+     "bbox": [
+      311.3,
+      296.2,
+      547.1,
+      412.0
+     ],
+     "text": "Ear, nose and throat\n1\u000200 (reference)\nOrthopaedic\n4\u000238 (0\u000260, 32\u000224)\n0\u0002147\nSoft tissue\n3\u000247 (0\u000285, 14\u000214)\n0\u0002083\nGynaecological\n3\u000299 (0\u000259, 26\u000288)\n0\u0002155\nVascular\n1\u000214 (0\u000211, 11\u000233)\n0\u0002912\nAppendicectomy\n4\u000276 (0\u000274, 30\u000269)\n0\u0002101\nCholecystectomy\n9\u000237 (1\u000210, 79\u000270)\n0\u0002041\nColorectal\n11\u000208 (1\u000274, 70\u000258)\n0\u0002011\nCaesarean\n9\u000294 (1\u000258, 62\u000272)\n0\u0002015\nHernia\n2\u000233 (0\u000240, 13\u000246)\n0\u0002343\nHysterectomy\n11\u000208 (1\u000245, 84\u000272)\n0\u0002021\nGastrointestinal/laparotomy\n5\u000241 (0\u000292, 31\u000290)\n0\u0002062\nUrological\n4\u000201 (0\u000231, 51\u000293)\n0\u0002288\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      420.5,
+      539.0,
+      434.7
+     ],
+     "text": "Values in parentheses are 95 per cent conﬁdence intervals. The analysis was\nbased on 2159 procedures. Relative risks by hospital are not shown.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      56.3,
+      280.9,
+      91.3
+     ],
+     "text": "Table 4 Relative risk of postoperative infection based on timing\nof process improvements, after adjusting for sex, age, urgency,\nwound class and hospital using modiﬁed robust Poisson\nregression\n"
+    },
+    {
+     "bbox": [
+      188.7,
+      100.4,
+      278.4,
+      107.6
+     ],
+     "text": "Relative risk\nP\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      116.2,
+      75.0,
+      124.0
+     ],
+     "text": "Infection\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      125.2,
+      285.8,
+      151.0
+     ],
+     "text": "Baseline\n1\u000200 (reference)\nAfter implementation\n0\u000265 (0\u000243, 0\u000299)\n0\u0002043\nSex\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      152.2,
+      285.8,
+      177.9
+     ],
+     "text": "F\n1\u000200 (reference)\nM\n0\u000283 (0\u000252, 1\u000232)\n0\u0002429\nAge (years)\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      179.2,
+      285.8,
+      223.0
+     ],
+     "text": "\u0003 25\n1\u000200 (reference)\n26–30\n0\u000272 (0\u000245, 1\u000215)\n0\u0002169\n31–40\n0\u000281 (0\u000250, 1\u000230)\n0\u0002382\n\u0004 41\n0\u000282 (0\u000246, 1\u000247)\n0\u0002511\nUrgency\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      224.2,
+      285.8,
+      249.9
+     ],
+     "text": "Elective\n1\u000200 (reference)\nEmergency\n1\u000210 (0\u000270, 1\u000274)\n0\u0002683\nWound class\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      251.2,
+      285.8,
+      295.0
+     ],
+     "text": "Clean\n1\u000200 (reference)\nClean contaminated\n0\u000238 (0\u000208, 1\u000268)\n0\u0002202\nContaminated\n0\u000284 (0\u000218, 3\u000287)\n0\u0002827\nDirty\n2\u000201 (0\u000244, 9\u000222)\n0\u0002367\nType of operation\n"
+    },
+    {
+     "bbox": [
+      50.0,
+      296.2,
+      285.8,
+      412.0
+     ],
+     "text": "Ear, nose and throat\n1\u000200 (reference)\nOrthopaedic\n4\u000244 (0\u000263, 31\u000219)\n0\u0002134\nSoft tissue\n3\u000272 (0\u000292, 15\u000209)\n0\u0002066\nGynaecological\n4\u000236 (0\u000262, 30\u000244)\n0\u0002138\nVascular\n1\u000222 (0\u000212, 12\u000227)\n0\u0002867\nAppendicectomy\n4\u000273 (0\u000276, 29\u000263)\n0\u0002097\nCholecystectomy\n9\u000289 (1\u000220, 81\u000243)\n0\u0002033\nColorectal\n10\u000293 (1\u000276, 67\u000292)\n0\u0002010\nCaesarean\n11\u000209 (1\u000282, 67\u000274)\n0\u0002009\nHernia\n2\u000231 (0\u000240, 13\u000234)\n0\u0002348\nHysterectomy\n12\u000209 (1\u000263, 89\u000257)\n0\u0002015\nGastrointestinal/laparotomy\n5\u000248 (0\u000296, 31\u000231)\n0\u0002056\nUrological\n3\u000292 (0\u000230, 50\u000267)\n0\u0002295\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      420.5,
+      275.0,
+      434.7
+     ],
+     "text": "Values in parentheses are 95 per cent conﬁdence intervals. Relative risks by\nhospital are not shown.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      28.0,
+      162.6,
+      36.0
+     ],
+     "text": "732\n|\nBJS, 2021, Vol. 108, No. 6\n"
+    },
+    {
+     "bbox": [
+      571.4,
+      213.6,
+      578.9,
+      568.8
+     ],
+     "text": "Downloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n"
+    }
+   ]
+  },
+  {
+   "page": 7,
+   "text": "implementing quality improvement programmes leverage to\ntheir advantage. Finally, despite intensive efforts, it was rarely\npossible to attain full compliance with all six standards. This\nattests to the ongoing challenges in Ethiopia and other resource-\nconstrained environments in fully implementing safety pro-\ngrammes and improving care processes in facilities with multiple\norganizational challenges.\nImplementation of Clean Cut required the concerted efforts of\na number of practitioners and administrators not typically used\nto working together. It also required the ongoing support of a pro-\ngramme manager and surgical research fellow to help coordinate\nthe work across facilities, and leverage support within them and\nwith the health ministry. As much of the data did not exist sepa-\nrately from the programme, the hiring of data collectors was\nseen as critical. For all these reasons, long-term sustainability is\nnot yet proven. Furthermore, the actual implementation costs\nare unclear. Start-up costs to develop, adapt and assess the pro-\ngramme were substantial, but subsequent work has required se-\nquentially fewer resources; new-site onboarding and ongoing\nmaintenance costs are under investigation. However, the pro-\ngramme now has the support of the Federal Ministry of Health,\nand Clean Cut is being rolled out in a number of new facilities us-\ning staff familiar with the programme to encourage the new\nteams and to drive training, organization of workflow and high-\nquality data collection. The authors continue to support the\nefforts in Ethiopia and anticipate bringing Clean Cut to new set-\ntings in the coming years. A robust, large-scale experimental\nstudy, such as a pragmatic stepped-wedge cluster-randomized\ntrial, would be ideally suited to test the intervention more rigor-\nously, and allow closer observation of the features and strategies\nthat lead to successful implementation27.\nAcknowledgements\nThe authors thank the many data collectors, administrators,\nnurses and surgeons in Ethiopia who helped make this pro-\ngramme possible; W. Berry, from Ariadne Labs; M. Derbew,\ntrustee of Lifebox UK; K. Fernandez, Lifebox Head of Programmes\nin London; K. Stave and K. Torgeson, Chief Operating Ofﬁcer and\nChief Executive Ofﬁcer of Lifebox respectively, for their help and\nsupport; and A. Gawande and A. Haynes for reviewing a draft of\nthis manuscript. Deidentiﬁed data with anonymized hospital fa-\ncilities may be made available upon reasonable request to the\nauthors. This study was supported in part by a grant from the GE\nFoundation. J.A.F. was, and N.S. is, a Lifebox Safe Surgery Fellow;\nN.S. is supported by NIH T32 training grant DK007573; T.N. is the\nlead clinical advisor for Lifebox Ethiopia; S.B. is the programme\nmanager for Lifebox Ethiopia; T.G.W. is a former trustee of\nLifebox USA and current Consulting Medical Ofﬁcer for the orga-\nnization.\nDisclosure: The authors declare no other conﬂict of interest.\nSupporting information\nAdditional supporting information can be found online in the\nSupporting Information section at the end of the article.\nReferences\n1.\nWHO. Global Guidelines for the Prevention of Surgical Site Infection.\nWHO: Geneva, 2016.\n2.\nWHO. Improving Infection Prevention and Control at the Health\nFacility: Interim Practical Manual Supporting Implementation of the\nWHO Guidelines on Core Components of Infection Prevention and\nControl Programmes. WHO: Geneva, 2018.\n3.\nWHO. Implementation Manual to Support the Prevention of Surgical\nSite Infections at the Facility Level – Turning Recommendations into\nPractice (Interim Version). WHO: Geneva, 2018.\n4.\nStulberg JJ, Delaney CP, Neuhauser DV, Aron DC, Fu P,\nKoroukian SM. Adherence to surgical care improvement project\nmeasures and the association with postoperative infections.\nJAMA 2010;303:2479–2485.\n5.\nGlobalSurg Collaborative. Surgical site infection after gastroin-\ntestinal surgery in high-income, middle-income, and low-in-\ncome\ncountries:\na\nprospective,\ninternational,\nmulticentre\ncohort study. Lancet Infect Dis 2018;18:516–525.\n6.\nBiccard\nBM,\nMadiba\nTE,\nKluyts\nHL,\nMunlemvo\nDM,\nMadzimbamuto FD, Basenero A et al. Perioperative patient out-\ncomes in the African Surgical Outcomes Study: a 7-day prospec-\ntive observational cohort study. Lancet 2018;391:1589–1598.\n7.\nLifebox. http://www.lifebox.org [accessed 21 May 2012].\n8.\nFeinmann J. Clean cut surgery. BMJ 2016;353:i2686.\n9.\nPowell BJ, Waltz TJ, Chinman MJ, Damschroder LJ, Smith JL,\nMatthieu MM et al. A reﬁned compilation of implementation\nstrategies: results from the Expert Recommendations for\nImplementing Change (ERIC) project. Implement Sci 2015;10:\n21.\n10.\nProctor E, Silmere H, Raghavan R, Hovmand P, Aarons G, Bunger\nA et al. Outcomes for implementation research: conceptual dis-\ntinctions, measurement challenges, and research agenda. Adm\nPolicy Ment Health 2011;38:65–76.\n11.\nBurssa D, Teshome A, Iverson K, Ahearn O, Ashengo T, Barash D\net al. Safe surgery for all: early lessons from implementing a na-\ntional government-driven surgical plan in Ethiopia. World J Surg\n2017;41:3038–3045.\n12.\nForrester JA, Koritsanszky L, Parsons BD, Hailu M, Amenu D,\nAlemu S et al. Development of a surgical infection surveillance\nprogram at a tertiary hospital in Ethiopia: lessons learned from\ntwo surveillance strategies. Surg Infect 2018;19:25–32.\n13.\nForrester JA, Koritsanszky LA, Amenu D, Haynes AB, Berry\nWR, Alemu S et al. Developing process maps as a tool for a sur-\ngical infection prevention quality improvement initiative in\nresource-constrained\nsettings.\nJ\nAm\nColl\nSurg\n2018;226:\n1103–1116.\n14.\nGarland NY, Kheng S, De Leon M, Eap H, Forrester JA, Hay J et al.\nUsing the WHO surgical safety checklist to direct perioperative\nquality improvement at a surgical hospital in Cambodia: the im-\nportance of objective conﬁrmation of process completion. World\nJ Surg 2017;41:3012–3024.\n15.\nMangram AJ, Horan TC, Pearson ML, Silver LC, Jarvis WR.\nGuideline for prevention of surgical site infection, 1999. Centers\nfor Disease Control and Prevention (CDC) Hospital Infection\nControl Practices Advisory Committee. Am J Infect Control 1999;27:\n97–134.\n16.\nWoelber E, Schrick EJ, Gessner BD, Evans HL. Proportion of surgi-\ncal site infections occurring after hospital discharge: a system-\natic review. Surg Infect 2016;17:510–519.\n17.\nTrebble TM, Hansi N, Hydes T, Smith MA, Baker M. Process map-\nping the patient journey: an introduction. BMJ 2010;341:c4078.\n18.\nZou G. A modiﬁed poisson regression approach to prospective\nstudies with binary data. Am J Epidemiol 2004;159:702–706.\n19.\nDelisle M, Pradarelli JC, Panda N, Koritsanszky L, Sonnay Y,\nLipsitz S et al. Variation in global uptake of the Surgical Safety\nChecklist. Br J Surg 2020;107:e151–e160.\nForrester et al.\n|\n733\nDownloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n",
+   "n_chars": 6845,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      48.2,
+      54.8,
+      291.4,
+      128.9
+     ],
+     "text": "implementing quality improvement programmes leverage to\ntheir advantage. Finally, despite intensive efforts, it was rarely\npossible to attain full compliance with all six standards. This\nattests to the ongoing challenges in Ethiopia and other resource-\nconstrained environments in fully implementing safety pro-\ngrammes and improving care processes in facilities with multiple\norganizational challenges.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      131.8,
+      291.5,
+      392.9
+     ],
+     "text": "Implementation of Clean Cut required the concerted efforts of\na number of practitioners and administrators not typically used\nto working together. It also required the ongoing support of a pro-\ngramme manager and surgical research fellow to help coordinate\nthe work across facilities, and leverage support within them and\nwith the health ministry. As much of the data did not exist sepa-\nrately from the programme, the hiring of data collectors was\nseen as critical. For all these reasons, long-term sustainability is\nnot yet proven. Furthermore, the actual implementation costs\nare unclear. Start-up costs to develop, adapt and assess the pro-\ngramme were substantial, but subsequent work has required se-\nquentially fewer resources; new-site onboarding and ongoing\nmaintenance costs are under investigation. However, the pro-\ngramme now has the support of the Federal Ministry of Health,\nand Clean Cut is being rolled out in a number of new facilities us-\ning staff familiar with the programme to encourage the new\nteams and to drive training, organization of workflow and high-\nquality data collection. The authors continue to support the\nefforts in Ethiopia and anticipate bringing Clean Cut to new set-\ntings in the coming years. A robust, large-scale experimental\nstudy, such as a pragmatic stepped-wedge cluster-randomized\ntrial, would be ideally suited to test the intervention more rigor-\nously, and allow closer observation of the features and strategies\nthat lead to successful implementation27.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      416.0,
+      157.4,
+      427.4
+     ],
+     "text": "Acknowledgements\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      433.7,
+      291.5,
+      606.8
+     ],
+     "text": "The authors thank the many data collectors, administrators,\nnurses and surgeons in Ethiopia who helped make this pro-\ngramme possible; W. Berry, from Ariadne Labs; M. Derbew,\ntrustee of Lifebox UK; K. Fernandez, Lifebox Head of Programmes\nin London; K. Stave and K. Torgeson, Chief Operating Ofﬁcer and\nChief Executive Ofﬁcer of Lifebox respectively, for their help and\nsupport; and A. Gawande and A. Haynes for reviewing a draft of\nthis manuscript. Deidentiﬁed data with anonymized hospital fa-\ncilities may be made available upon reasonable request to the\nauthors. This study was supported in part by a grant from the GE\nFoundation. J.A.F. was, and N.S. is, a Lifebox Safe Surgery Fellow;\nN.S. is supported by NIH T32 training grant DK007573; T.N. is the\nlead clinical advisor for Lifebox Ethiopia; S.B. is the programme\nmanager for Lifebox Ethiopia; T.G.W. is a former trustee of\nLifebox USA and current Consulting Medical Ofﬁcer for the orga-\nnization.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      619.7,
+      266.0,
+      627.8
+     ],
+     "text": "Disclosure: The authors declare no other conﬂict of interest.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      649.8,
+      176.6,
+      661.2
+     ],
+     "text": "Supporting information\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      667.3,
+      291.4,
+      686.3
+     ],
+     "text": "Additional supporting information can be found online in the\nSupporting Information section at the end of the article.\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      706.9,
+      107.6,
+      718.2
+     ],
+     "text": "References\n"
+    },
+    {
+     "bbox": [
+      48.2,
+      726.1,
+      291.4,
+      744.8
+     ],
+     "text": "1.\nWHO. Global Guidelines for the Prevention of Surgical Site Infection.\nWHO: Geneva, 2016.\n"
+    },
+    {
+     "bbox": [
+      309.5,
+      54.6,
+      552.8,
+      744.4
+     ],
+     "text": "2.\nWHO. Improving Infection Prevention and Control at the Health\nFacility: Interim Practical Manual Supporting Implementation of the\nWHO Guidelines on Core Components of Infection Prevention and\nControl Programmes. WHO: Geneva, 2018.\n3.\nWHO. Implementation Manual to Support the Prevention of Surgical\nSite Infections at the Facility Level – Turning Recommendations into\nPractice (Interim Version). WHO: Geneva, 2018.\n4.\nStulberg JJ, Delaney CP, Neuhauser DV, Aron DC, Fu P,\nKoroukian SM. Adherence to surgical care improvement project\nmeasures and the association with postoperative infections.\nJAMA 2010;303:2479–2485.\n5.\nGlobalSurg Collaborative. Surgical site infection after gastroin-\ntestinal surgery in high-income, middle-income, and low-in-\ncome\ncountries:\na\nprospective,\ninternational,\nmulticentre\ncohort study. Lancet Infect Dis 2018;18:516–525.\n6.\nBiccard\nBM,\nMadiba\nTE,\nKluyts\nHL,\nMunlemvo\nDM,\nMadzimbamuto FD, Basenero A et al. Perioperative patient out-\ncomes in the African Surgical Outcomes Study: a 7-day prospec-\ntive observational cohort study. Lancet 2018;391:1589–1598.\n7.\nLifebox. http://www.lifebox.org [accessed 21 May 2012].\n8.\nFeinmann J. Clean cut surgery. BMJ 2016;353:i2686.\n9.\nPowell BJ, Waltz TJ, Chinman MJ, Damschroder LJ, Smith JL,\nMatthieu MM et al. A reﬁned compilation of implementation\nstrategies: results from the Expert Recommendations for\nImplementing Change (ERIC) project. Implement Sci 2015;10:\n21.\n10.\nProctor E, Silmere H, Raghavan R, Hovmand P, Aarons G, Bunger\nA et al. Outcomes for implementation research: conceptual dis-\ntinctions, measurement challenges, and research agenda. Adm\nPolicy Ment Health 2011;38:65–76.\n11.\nBurssa D, Teshome A, Iverson K, Ahearn O, Ashengo T, Barash D\net al. Safe surgery for all: early lessons from implementing a na-\ntional government-driven surgical plan in Ethiopia. World J Surg\n2017;41:3038–3045.\n12.\nForrester JA, Koritsanszky L, Parsons BD, Hailu M, Amenu D,\nAlemu S et al. Development of a surgical infection surveillance\nprogram at a tertiary hospital in Ethiopia: lessons learned from\ntwo surveillance strategies. Surg Infect 2018;19:25–32.\n13.\nForrester JA, Koritsanszky LA, Amenu D, Haynes AB, Berry\nWR, Alemu S et al. Developing process maps as a tool for a sur-\ngical infection prevention quality improvement initiative in\nresource-constrained\nsettings.\nJ\nAm\nColl\nSurg\n2018;226:\n1103–1116.\n14.\nGarland NY, Kheng S, De Leon M, Eap H, Forrester JA, Hay J et al.\nUsing the WHO surgical safety checklist to direct perioperative\nquality improvement at a surgical hospital in Cambodia: the im-\nportance of objective conﬁrmation of process completion. World\nJ Surg 2017;41:3012–3024.\n15.\nMangram AJ, Horan TC, Pearson ML, Silver LC, Jarvis WR.\nGuideline for prevention of surgical site infection, 1999. Centers\nfor Disease Control and Prevention (CDC) Hospital Infection\nControl Practices Advisory Committee. Am J Infect Control 1999;27:\n97–134.\n16.\nWoelber E, Schrick EJ, Gessner BD, Evans HL. Proportion of surgi-\ncal site infections occurring after hospital discharge: a system-\natic review. Surg Infect 2016;17:510–519.\n17.\nTrebble TM, Hansi N, Hydes T, Smith MA, Baker M. Process map-\nping the patient journey: an introduction. BMJ 2010;341:c4078.\n18.\nZou G. A modiﬁed poisson regression approach to prospective\nstudies with binary data. Am J Epidemiol 2004;159:702–706.\n19.\nDelisle M, Pradarelli JC, Panda N, Koritsanszky L, Sonnay Y,\nLipsitz S et al. Variation in global uptake of the Surgical Safety\nChecklist. Br J Surg 2020;107:e151–e160.\n"
+    },
+    {
+     "bbox": [
+      469.5,
+      28.0,
+      552.7,
+      36.0
+     ],
+     "text": "Forrester et al.\n|\n733\n"
+    },
+    {
+     "bbox": [
+      571.4,
+      213.6,
+      578.9,
+      568.8
+     ],
+     "text": "Downloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n"
+    }
+   ]
+  },
+  {
+   "page": 8,
+   "text": "20.\nHaynes AB, Edmondson L, Lipsitz SR, Molina G, Neville BA,\nSinger SJ et al. Mortality trends after a voluntary checklist-based\nsurgical safety collaborative. Ann Surg 2017;266:923–929.\n21.\nHaugen AS, Søfteland E, Almeland SK, Sevdalis N, Vonen B, Eide\nGE et al. Effect of the World Health Organization checklist on pa-\ntient outcomes: a stepped wedge cluster randomized controlled\ntrial. Ann Surg 2015;261:821–828.\n22.\nAveling EL, McCulloch P, Dixon-Woods M. A qualitative study\ncomparing experiences of the surgical safety checklist in hospitals\nin high-income and low-income countries. Br Med J Open 2013;3:\ne003039.\n23.\nMattingly AS, Starr N, Bitew S, Forrester JA, Negussie T, Merrell\nSB et al. Qualitative outcomes of clean cut: implementation les-\nsons from reducing surgical infection in Ethiopia. BMC Health\nServ Res 2019;19:579.\n24.\nLilaonitkul\nM,\nKwikiriza\nA,\nTtendo\nS,\nKiwanuka\nJ,\nMunyarungero E, Walker IA et al. Implementation of the WHO\nSurgical Safety Checklist and surgical swab and instrument\ncounts at a regional referral hospital in Uganda – a quality im-\nprovement project. Anaesthesia 2015;70:1345–1355.\n25.\nRuss SJ, Sevdalis N, Moorthy K, Mayer EK, Rout S, Caris J et al.\nA qualitative evaluation of the barriers and facilitators to-\nward implementation of the WHO surgical safety checklist\nacross hospitals in England: lessons from the ‘Surgical\nChecklist\nImplementation\nProject’.\nAnn\nSurg\n2015;261:\n81–91.\n26.\nVats A, Vincent CA, Nagpal K, Davies RW, Darzi A, Moorthy K.\nPractical challenges of introducing WHO surgical checklist: UK\npilot experience. BMJ 2010;340:b5433.\n27.\nAllegranzi B, Aiken AM, Kubilay NZ, Nthumba P, Barasa J,\nOkumu G et al. A multimodal infection control and patient\nsafety intervention to reduce surgical site infections in Africa: a\nmulticentre, before–after, cohort study. Lancet Infect Dis 2018;18:\n507–515.\n734\n|\nBJS, 2021, Vol. 108, No. 6\nDownloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n",
+   "n_chars": 1988,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      42.5,
+      54.6,
+      285.8,
+      238.3
+     ],
+     "text": "20.\nHaynes AB, Edmondson L, Lipsitz SR, Molina G, Neville BA,\nSinger SJ et al. Mortality trends after a voluntary checklist-based\nsurgical safety collaborative. Ann Surg 2017;266:923–929.\n21.\nHaugen AS, Søfteland E, Almeland SK, Sevdalis N, Vonen B, Eide\nGE et al. Effect of the World Health Organization checklist on pa-\ntient outcomes: a stepped wedge cluster randomized controlled\ntrial. Ann Surg 2015;261:821–828.\n22.\nAveling EL, McCulloch P, Dixon-Woods M. A qualitative study\ncomparing experiences of the surgical safety checklist in hospitals\nin high-income and low-income countries. Br Med J Open 2013;3:\ne003039.\n23.\nMattingly AS, Starr N, Bitew S, Forrester JA, Negussie T, Merrell\nSB et al. Qualitative outcomes of clean cut: implementation les-\nsons from reducing surgical infection in Ethiopia. BMC Health\nServ Res 2019;19:579.\n24.\nLilaonitkul\nM,\nKwikiriza\nA,\nTtendo\nS,\nKiwanuka\nJ,\nMunyarungero E, Walker IA et al. Implementation of the WHO\n"
+    },
+    {
+     "bbox": [
+      303.8,
+      54.6,
+      547.1,
+      238.3
+     ],
+     "text": "Surgical Safety Checklist and surgical swab and instrument\ncounts at a regional referral hospital in Uganda – a quality im-\nprovement project. Anaesthesia 2015;70:1345–1355.\n25.\nRuss SJ, Sevdalis N, Moorthy K, Mayer EK, Rout S, Caris J et al.\nA qualitative evaluation of the barriers and facilitators to-\nward implementation of the WHO surgical safety checklist\nacross hospitals in England: lessons from the ‘Surgical\nChecklist\nImplementation\nProject’.\nAnn\nSurg\n2015;261:\n81–91.\n26.\nVats A, Vincent CA, Nagpal K, Davies RW, Darzi A, Moorthy K.\nPractical challenges of introducing WHO surgical checklist: UK\npilot experience. BMJ 2010;340:b5433.\n27.\nAllegranzi B, Aiken AM, Kubilay NZ, Nthumba P, Barasa J,\nOkumu G et al. A multimodal infection control and patient\nsafety intervention to reduce surgical site infections in Africa: a\nmulticentre, before–after, cohort study. Lancet Infect Dis 2018;18:\n507–515.\n"
+    },
+    {
+     "bbox": [
+      42.5,
+      28.0,
+      162.6,
+      36.0
+     ],
+     "text": "734\n|\nBJS, 2021, Vol. 108, No. 6\n"
+    },
+    {
+     "bbox": [
+      571.4,
+      213.6,
+      578.9,
+      568.8
+     ],
+     "text": "Downloaded from academic.oup.com/bjs/article/108/6/727/6307799 by guest on 08 September 2026\n"
+    }
+   ]
+  }
+ ]
+}

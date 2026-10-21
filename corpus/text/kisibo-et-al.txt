@@ -1,0 +1,671 @@
+
+
+===== PAGE 1 =====
+
+49
+ISSN 2073-9990 East Cent. Afr. J. surg
+Surgical Site Infection
+among
+Patients Undergone
+Orthopaedic Surgery at Muhimbili Orthopaedic Institute,
+Dar es Salaam, Tanzania.
+A Kisibo1, V A Ndume², A Semiono³, E Mika4, A Sariah⁵, J Protas6, H Landolin7
+1Hubert Kairuki Memorial University (HKMU), Faculty of Nursing Dar es Salaam Tanzania.
+2Dar es Salaam Institute of Technology (DIT) Department of Computer Studies Tanzania.
+3Kairuki School of Nursing.(KSN), Department of Maternal and Child Health, Dar es Salaam,
+Tanzania.
+4Hubert Kairuki Memorial University (HKMU), Department of Fundamental of Nursing and
+Basic Sciences, Dar es Salaam, Tanzania
+5Hubert Kairuki Memorial University (HKMU), Department of Maternal and Child Health, Dar
+es Salaam, Tanzania.
+6Hubert Kairuki Memorial University (HKMU), Department of Community Health Nursing,
+Dar es Salaam, Tanzania.
+7Muhimbili National Hospital (MNH), Department of Surgery, Dar es Salaam, Tanzania
+Correspondence to: Joyce Protas, Email: mlay.joyce@yahoo.com
+https://dx.doi.org/10.4314/ecajs.v22i1.7
+Background: The aim of this study was to determine prevalence and factors associated
+with surgical site infection at Muhimbili Orthopedic Institute.
+Method: This was a cross-sectional study conducted at Muhimbili Orthopaedic Institute
+(MOl) in Dar es Salaam, from August, 2015 to October 2015. Convenience sampling
+technique was used to recruit postoperative patients for this study. Standardized
+questionnaires were used to obtain demographic, social, and clinical information from
+respondents. Determination of the relationship between outcome and exposure variables
+was done using chi square test. Multivariate logistic regression was used to measure the
+association after controlling for confounders. Odds ratio corresponding to 95% confidence
+interval with a p value of ≤ 0.05 was considered significant.
+Results: Out of 300 study participants 75(25.0%) had surgical site infection. This was highly
+determined by more than 2 hours length of surgical procedure (AOR= 1.4; 95%CI 1.14-6.69;
+P value=0.05), none prophylactic use of antibiotics (AOR= 3.4; 95%CI 1.6-7.78; P
+value=0.03), more than one week stay before surgery (AOR=3.3; 95%CI 2.24-3.34; P value
+=0.00).
+Conclusion: The overall prevalence of surgical site infection at Muhimbili Orthopedic
+Institute was high. This was associated with more than 2 hours length of surgery, lack of
+prophylaxis use, and pre-operative hospital stay.
+Introduction
+Surgical site infections (SSis) in orthopaedic surgery are globally common and continue to be
+a major problem among orthopaedic patients 1-3. A surgical site infection is clinically defined
+as presence of pain at a surgically created wound, which is accompanied by erythema,
+induration and local tenderness or presence of purulent discharge at wound site 1, 4. Surgical
+COSECSA/ASEA Publication -East & Central African Journal of Surgery 2017; Vol. 22 (1)
+
+===== PAGE 2 =====
+
+50
+ISSN 2073-9990East Cent. Afr. J. surg
+site infection (SSl) is the infection which occurs within 30 days after surgery or one year if
+implant left in the site after procedure (5,-7,). Worldwide, orthopaedic SSI rates range
+between 1.4 and 41.9% 3, 8. Surgical site infections in orthopedic practice can have
+significant effects on quality of life for the patient. They are associated with considerable
+morbidity, financial burden to the patient and health care providers and extended hospital
+stay. Other effects of SSls include revision surgery, delayed wound healing, increased use of
+antibiotics, all of which have a significant impact on patients and the cost of health
+care1-5-11.
+To alleviate the problem of SSIs among orthopaedic cases several measures have been
+reco    te nt cct    ctig
+antibiotics administration at about 30 minutes prior incision, use of appropriate antiseptic
+agents and techniques for surgical site skin preparation, reduction of movements and
+number of staff in the operating rooms and protection of incision site with sterile
+dressings 3,5,6. Little is known about the magnitude and risk factors for SSls among
+orthopaedic cases in our environment as a limited number of studies about SSls have been
+conducted in Tanzania which mainly based on general surgical patients 12. More over there
+is no recent survey done on SSI in orthopaedic patients in our setting. Therefore this study
+dl s   s  t srt t il t it
+infection in patients with skeletal trauma at Muhimbili orthopaedic institute.
+Patients and Methods
+This study was conducted at Muhimbili orthopedic Institute which is the main referral
+hospital for orthopedic cases in Dar es Salaam, Tanzania. This was a hospital based cross-
+sec ss o s i  so t   s io
+included patients who had undergone long bones surgical operation admitted in the wards
+and those attended at the out patients department (OPD) for follow up. Both elective and
+emergency operated patients were involved. Patients who had initial trauma surgery at
+another hospital or those who presented with SSls after being treated at an outside
+hospital, those with metastatic fractures, back, spine were not included as they fall under
+different realms. Hand and finger injuries were also excluded from the study. The sample
+size was calculated to be 300 participants.
+Dao o    o n  o n       nc
+method of sampling was used to select participants .All post operative patients who met the
+inclusion criteria were included in the study. Prior to an interview informed consent was
+obtained and then by using a standardized questionnaire a participant was asked a series of
+closed questions about their demographic, clinical and social background information which
+included the age, sex, marital status, education level, length of surgical procedure, antibiotic
+use, health condition before surgery, place of dressing, HIV status, length of hospitalization,
+and time of stay prior surgery. Then the wound site was examined for at least one of the
+following signs or symptoms of wound infection: pain or tenderness, localized swelling,
+redness and purulent discharge 4, 5. The patients files were also reviewed. Data entry and
+analysis was carried out using SPSS computer software version 20 and frequency tables
+COSECSA/ASEA Publication -East & Central African Journal of Surgery 2017; Vol. 22 (1)
+
+===== PAGE 3 =====
+
+51
+ISSN 2073-9990East Cent. Afr. J. surg
+were obtained for all study variables. Descriptive analysis was done by using frequencies,
+percentages and means where appropriate. Association between explanatory variable and
+the outcome of interest was done using 2x2 tables. Multivariate logistic regression analyses
+were used to examine independent variables that influence the outcome variable. Odds
+Ratios with corresponding 95% confidence interval are presented. All independent variables
+found significant in the univariate analysis were included in the multivariate analysis.
+A P-value of ≤ 0.05 was considered statistically significant. Ethical clearance for conducting
+this research was obtained from the Institutional Research Board of the Hubert Kairuki
+Memorial University and the permission to carry out the study was obtained from the
+Muhimbili Orthopedic Institute administration.
+Results
+The study involved 300 patients. Most of cases were aged below 46 years and the peak age
+was under 30 years of age. The median age was 46.5(15-78) years and each group of males
+and females accounted for almost a half of the study population. About 159(53.0%)
+participants were married and 125(41.7%) had primary education level (Table1).
+Table 1. Frequency Distribution of Demographic Data (N=300).
+Demographic characteristics
+Frequency
+Percentage
+Age
+15-30
+135
+45.0
+31-46
+102
+34.0
+47-62
+48
+16.0
+63-78
+15
+5.0
+Sex
+Male
+152
+50.7
+Female
+148
+49.3
+Marital status
+Married/living with partner
+159
+53.0
+ared red
+(single, divorced,
+widow,
+141
+47.0
+widower)
+Education level
+Primary
+125
+41.7
+Secondary
+89
+29.7
+Collage/University
+78
+26.0
+No education
+8
+2.7
+COSECSA/ASEA Publication -East & Central African Journal of Surgery 2017; Vol. 22 (1)
+
+===== PAGE 4 =====
+
+52
+ISSN 2073-9990 East Cent. Afr. J. surg
+Table 2. Frequency Distribution of Clinical Characteristics of Study Participants
+Clinical characteristics
+Frequency
+Percentage
+Length of surgical procedure
+Two hours
+208
+69.3
+More than two hours
+92
+30.7
+Use of prophylaxis
+Yes
+270
+90.0
+No
+30
+10.0
+Health Condition before surgery
+Sick
+82
+27.3
+Well
+218
+72.7
+Place of dressing
+Hospital
+276
+92.0
+Home
+24
+8.0
+HIV Status
+Positive
+34
+11.3
+Negative
+201
+67 .0
+Not tested
+65
+21.7
+Length of hospitalization
+Less than seven days
+217
+72.3
+More than seven days
+81
+27.0
+More than a month
+2
+0.7
+Time of Stay before Surgery
+Two days
+82
+27.3
+More than a week
+125
+41.7
+More than a month
+32
+10.7
+Emergency
+61
+20.3
+The proportion of surgical wound infection among study participants.
+Out of 300 study participants surgical wound infection was observed in 75(25.0%) cases.
+Surgical site infection was common among those aged above 46 years and in HIV negative
+patients (P values >0.087). Females, unmarried participants, and those with no formal
+education commonly developed SSI (P values <0.049). But on multivariate logistic analysis
+this observation was statistically insignificant. The duration of surgery in most of patients,
+69.3% (208/300), was less than 2hours and wound sepsis occurred frequently among those
+who were operated for more than two hours, 35.5% (33/92). This finding was statistically
+significant even on multivariate logistic regression analysis.
+The majority of cases, 90% (270/300), were given prophylactic antibiotics prior incision. SSI
+occurred commonly among individuals who did not receive prophylactic antibiotics, 56.7 %(
+17/30), and statistically this result was significant even after controlling for confounders.
+COSECSA/ASEA Publication -East & Central African Journal of Surgery 2017; Vol. 22 (1)
+
+===== PAGE 5 =====
+
+53
+ISSN 2073-9990 East Cent. Afr. J. surg
+Table 3. Factors associated with Surgical site infection, N=300
+Factors
+Sepsis (%)
+Total (%)
+x2
+p-value
+Age
+15-30
+30(22.2)
+135(100.0)
+31-46
+22(21.6)
+102(100.0)
+6.73
+0.087
+47-62
+16(33.3)
+48(100.0)
+63-78
+7(46.7)
+15(100.0)
+Sex
+Male
+30(19.7)
+152(100.0)
+11.12
+0.025
+Female
+45(30.4)
+148(100.0)
+Marital status
+Married/living with partner
+36(22.6)
+159(100.0)
+9.17
+0.049
+Not married
+39(27.6)
+141(100.0)
+Education level
+Primary
+30(24.0)
+125(100.0)
+Secondary
+21(23.6)
+89(100.0)
+11.01
+0.026
+Collage/University
+18(23.1)
+78(100.0)
+No education
+6(75.0)
+8(100.0)
+Length of surgical procedure
+Two hours
+42(20.2)
+208(100.0)
+8.36
+0.006
+More than two hours
+33(35.9)
+92(100.0)
+Use of prophylaxis
+Yes
+58(21.5)
+270(100.0)
+17.83
+0.00
+No
+17(56.7)
+30(100.0)
+Health education before surgery
+Sidk
+31(37.8)
+82(100.0)
+9.87
+0.003
+Well
+44(20.2)
+218(100.0)
+Place of dressing
+Hospital
+65(23.6)
+276(100.0)
+3.87
+0.049
+Home
+10(41.7)
+24(100.0)
+HIV Status
+Positive
+8(23.5)
+34(100.0)
+Negative
+55(27.4)
+201(100.0)
+4.3
+0.381
+Not tested
+12(18.5)
+65(100.0)
+Length of hospitalization
+Less than seven days
+22(10.1)
+217(100.0)
+19.58
+0.00
+More than seven days
+53(65.4)
+81(100.0)
+More than a month
+0(0.0)
+2(100.0)
+Time of stay before surgery
+Two days
+8(9.8)
+82(100.0)
+More than a week
+43(34.4)
+125(100.0)
+More than a month
+10(31.3)
+32(100.0)
+19.48
+0.00
+Emergency
+14(23.0)
+61(100.0)
+COSECSA/ASEA Publication -East & Central African Journal of Surgery 2017; Vol. 22 (1)
+
+===== PAGE 6 =====
+
+54
+ISSN 2073-9990 East Cent. Afr. J. surg
+Table 4. Multivariate Logistic Regression on Factors Associated with SSI (n=300)
+Factors
+Sepsis (%)
+Total (%)
+AOR
+P- value
+Sex
+Male
+30(19.7)
+152(100.0)
+1
+Female
+45(30.4)
+148(100.0)
+1.624
+0.343-1.136
+0.123
+Marital status
+Married/living with partner
+36(22.6)
+159(100.0)
+1
+Not married
+39(27.6)
+141(100.0)
+1.473
+0.45-5.019
+0.535
+Education level
+No education
+6(75.0)
+8(100.0)
+1
+Primary
+30(24.0)
+125(100.0)
+0.208
+0.034-1.261
+0.08
+Secondary
+21(23.6)
+89(100.0)
+0.205
+0.033-1.252
+0.08
+Collage/University
+18(23.1)
+78(100.0)
+0.190
+0.030-1.220
+0.07
+Length of
+surgical procedure
+Two hours
+42(20.2)
+208(100.0)
+1
+More than two hours
+33(35.9)
+92(100.0)
+1.4
+1.14-6.69
+0.05
+Use of prophylaxis
+Yes
+58(21.5)
+270(100.0)
+1
+No
+17(56.7)
+30(100.0)
+3.4
+1.6-7.78
+0.03
+Health
+condition
+before
+surgery
+Well
+44(20.2)
+218(100.0)
+1
+Se
+31(37.8)
+82(100.0)
+1.14
+0.04-1.15
+0.093
+Place of dressing
+Hospital
+65(23.6)
+276(100.0)
+1
+Home
+10(41.7)
+24(100.0)
+1.04
+0.467-1.66
+0.202
+Time of stay before surgery
+Two days
+8(9.8)
+82(100.0)
+1
+More than a week
+43(34.4)
+125(100.0)
+3.3
+2.24-3.34
+0.00
+More than a month
+10(31.3)
+32(100.0)
+2.8
+1.13-3.36
+0.001
+Emergency
+14(23.0)
+61(100.0)
+1.6
+0.99-1.8
+0.24
+Wound dressing in the majority of patients was being done in the health facility, 92.0%
+(276/300), SSI affected commonly those participants who were being cared for their wounds
+at their homes, 417% (10/24). But this observation was statistically insignificant when
+analyzed by multivariate logistic regression. Surgical site infection was common among
+COSECSA/ASEA Publication -East & Central African Journal of Surgery 2017; Vol. 22 (1)
+
+===== PAGE 7 =====
+
+55
+ISSN 2073-9990 East Cent. Afr. J. surg
+those who had no HIV infection 27.4% (55/201). Nevertheless this finding was not
+statistically significant. A total of 83 (27.7 %) of the 300 patients stayed in the hospital for
+less than 7 days. The majority (52.4%) 0t cases stayed for more than 1 week in the hospital
+before surgery. Prolonged hospitalization for more than one week duration of hospital stay
+prior surgery are statistically associated with development of SSI (Tables 3 and 4).
+Discussion
+Surgical site infection is a major problem among orthopaedic patients 1,5. The prevalence of
+SSI in the current study is higher than that reported by other authors 2,3,4,6,7,8,9,10. However,
+similar prevalence of SSI was observed in other studies done by 1,12,. The reasons for high
+prevalence of SSI in this study could be due to inadequate adherence to aseptic techniques
+perioperative, a significant number of cases having contaminated wounds during surgery,
+overcrowding of patients in the wards causing high cross infection, inadequate knowledge
+and poor adherence to aseptic practice in wound care among health personnel causing
+wound contamination and infection.
+Vars s s s s  o as ss s s s sty
+asos   it   s    c tct sot
+surgical site infection and the length of surgery. Orthopaedic surgeries done for more than 2
+hours are at higher risk of infection3,7,10,11,12,13,14. Similar finding was noted in the present
+study. High risk of infection in prolonged surgeries may be due to increased tissue and
+surgical instruments exposure to the environmental bacteria, surgical team exhaustion
+enhancing poor adherence to aseptic techniques and decreasing of patient`s micro-
+organisms systemic defenses as same as it was explained by others 7, 11.
+The use of anti microbial prophylaxis in orthopaedic surgery is important as it helps to
+ir mr s s d  s s s s lld
+to decrease SSI rates to 1-3% compared with 4-8% without prophylactic antibiotics. Timing
+of antimicrobial prophylaxis is extremely important as it is related to the rate of SSI.
+Antimicrobial prophylaxis should be administered ideally within 30 minutes to 1 hour prior
+incision (5,15). The above explanation given by(6) is confirmed by this survey as most of the
+patients who did not use prophylactic antibiotics developed SSI and equal observations
+were reported by other surveyors2,14.
+Prolonged hospital stay generally pause a higher risk of developing surgical site
+infection2,4,5,9,,13,14. This is evidenced by the findings of this current analysis whereby
+prolonged hospitalization for more than a week was noted to be highly a risk factor for SSI.
+In particular to preoperative duration of hospital stay the present study observed a
+significant association between prolonged preoperative length of stay for more than 7 days
+and occurrence of SSI which is corresponding to the findings obtained in other previous
+stui t  ti      i  titvs
+hospital stay period predisposes to skin colonization by hospital microbes that are resistant
+to antibiotics and so it is important to minimize preoperative hospitalization period in order
+to lower SSl rate 2,8,11. However (8) found preoperative length of hospitalization not to have
+COSECSA/ASEA Publication -East & Central African Journal of Surgery 2017; Vol. 22 (1)
+
+===== PAGE 8 =====
+
+56
+ISSN 2073-9990 East Cent. Afr. J. surg
+any association with development of SSI. This difference might be reflecting low rate of
+hospital acquired cross infection or absence of overcrowding there setting. It may also be
+due to the fact that compared their cases based on more or less than 4 days pre operative
+hospital stay while in the current and other studies based on seven days.
+Although SSI was high in aged patients (>45 years of age) in the present analysis, but this
+finding was not statistically significant likewise the findings of the study done by 2, 3, 10
+indicating age alone not to be a risk factor for SSI. However other authors 1, 11, 13 stress old
+age to be a risk factor for development of SSI probably mainly due to the elderly associated
+morbid conditions like depression of the body immunity, reduced appetite causing poor
+nutrition status and diabetes mellitus 11.
+Post surgical appropriate wound care is among the important aspects in reduction of SSI
+rate. Experts reports that inappropriate wound care contributes to as high as 10% of
+SSI 14, 16. In this survey some patients were being cared for their wounds at their home
+places by health care personnel and this was not associated with occurrence of SSI depicting
+place of wound dressing not to be a mere risk factor for SSI rather than aseptic dressing
+techniques and other already explained factors
+The presence of the underlying disease processes, systemic infections, metabolic imbalance
+or endocrine disorders increases the incidence of postoperative SSI. Failure of the immune
+system in HIV infected patients increase the possibility of developing surgical site infections
+post operatively 17, 18 ,19. In the current study HIV infection was not statistically significantly
+associated with development of SSI as similar as it was documented by other surveyors (20,
+21) reflecting HIV per se not to be a major risk factor for SSI development in orthopaedic
+practice. However, this observation might be due to small sample size analysed in these
+studies. In this analysis gender had no influence on occurrence of SSI as same as it was
+documented in other studies,4, 5, 7, 8,11 13. Also in this study, marital status and level of
+education were not found to influence development of SSI.
+Conclusion and Recommendation.
+Surgical site infection rate is high at MOl and the independent risk factors for SSI were
+length of surgical procedure for more than two hours, lack of use of prophylactic antibiotics,
+prolonged pre operative hospital stay and prolonged hospital stay for more than 1 week. It
+is therefore recommended that the hospital staff to adhere to aseptic practices and
+appropriate use of prophylactic antibiotics. The hospital management should try to set the
+environment that will ensure that cases are managed promptly and discharged home early
+to minimize acquisition of cross infection.
+References
+1. Sabir MR, Iqbar MZ, Malick MR. Surgical site infections in orthopaedic patients; a
+public health dilemma.PJMHS online
+COSECSA/ASEA Publication -East & Central African Journal of Surgery 2017; Vol. 22 (1)
+
+===== PAGE 9 =====
+
+57
+ISSN 2073-9990 East Cent. Afr. J. surg
+Zric i Miis  ic ' Mic  Mrc ' tc' tic io
+surveillance in orthopaedic patients in the military medical academy, Belgrade.
+Vojnosanit pregl 2015; 72 (6):499-504.
+3. Al-Mulhim FA, Baragbah MA, Sadat-Ali M, Alomran AS, Azam MQ. Prevalence of
+surgical site infection in orthopaedic surgery: A 5 years analysis. Int Surg 2014; 99
+(3):264-268.
+4. Afifi IK, Baghagho EA. Three months study of orthopaedic surgical site infections in
+an Egyptian university hospital. Int J Infect Control 2010; 6 (1):1-6.
+5. Maksimovic J, Markovic-Denic L, Bumbasirevic M, Marinkovic J, Vlajinac H. Surgical
+site infections in orthopaedic patients: Prospective cohort study. Croat Med J 2008;
+49(1):58-65.
+6. Rajdi M, Aini F, Fauziyah S. Evaluation of antibiotic prophylaxis administration at the
+orthopaedic surgery clinic of tertiary hospital in Jarkata, Indonesia. Asian Pac J Trop
+Dis 2014; 4 (3): 190-193.
+7. Bachoura A, Guitton TG, Smith RM, Vrahas MS, Zurakowski D, Ring D. Infirmity and
+injury complexity are risk factors for surgical site infection after operative fracture
+care. Clin Orthop Relat Res 2011; 469 (9):2621-2630.
+8. Ercole FF, Franco LMC, Macierina TGR, Wenceslau LCC, Resende HIN, Chianca TCM.
+Risk of surgical site infection in patients undergoing orthopaedic surgery. Rev.Latino-
+Am Enfermagem 2011; 19 (6): 1362-1368.
+9. Rajkumari N, Gupta AK, Mathur P, Trikha V, Sharma V, Farooque K, Misra MC.
+Outcomes of surgical site infections in orthopaedic trauma surgeries in a tertiary
+care center in India J Postgrad Med 2014; 60(3):254-259.
+10. Mabit C, Marcheix PS, Mounier M, Dijoux P, Pestourie N, Bonnevialle P et al. Impact
+of a surgical site infection (SSI) surveillance program in orthopaedics and
+traumatology. Orthopaedic and Traumatology: Surgery and Research 2012; 98 (3):
+690-695.
+11. Ikaenyi UOE, Chokwuka CN, Chukwuanukwu TOG. Risk factors for surgical site
+infections following clean orthopaedic operations. Nigerian Journal of clinical
+practice 2013; 16(4): 443-447.
+12. Manyahi J.Bacteriologiacl spectrum of post operative wound infection and their
+antimicrobial in tertiary hospitals ,Dar es salaam, Tanzania
+13. Abdul-Haleim KM, Ibraheim ZAK, El-Tahlawy EM. Surgical site infections and
+associated risk factors in Egyptian orthopaedic patients. Journal of American science
+2010; 6(7): 272-280.
+14. Thu LTA, Ewald B, Dibley MJ, Tien NP, Lam LD. Incidence of surgical site infections
+and accompanying risk factors in Vietnamese orthopaedic patients. J Hosp Infect
+2005; 60 (4):360-367.
+15. Ahmed M,Alam NS,Khan O, Manzar S.Post operative wound infection.Surgeon's
+Dilema.Pakistan Journal of Surgery 2007;23(1) 41-47
+16. Uckay I, Hoffmeyer P, Lew D, Pittet D. Prevention of surgical site infections in
+orthopaedic surgery and bone trauma: State of the art update. Journal of hospital
+infection 2013; 84 (1): 5-12.
+COSECSA/ASEA Publication -East & Central African Journal of Surgery 2017; Vol. 22 (1)
+
+===== PAGE 10 =====
+
+58
+ISSN 2073-9990East Cent. Afr. J. surg
+17. Abalo A, Patassi A, James YE, Walla A, Sangare A, Dossim A. Risk factors for surgical
+wound infection in HIV- positive patients undergoing surgery for ortopaedic trauma.
+Journal of orthopaedic surgery 2010; 18(2):224-227.
+18. Zhang L, Liu BC, Zhang XY, Li L, Xia XJ, Guo RZ. Prevention and treatment of surgical
+site infection in HIV- infected patients. BMC infectious Diseases 2012; 12(115): 1-4.
+19. Osakwe JO,Nnaji GA,Osakwe RC,Agu U, and Mosanya JTRole of premorbid status and
+wound related facttos in surgical site infection in a tertiary hospital in sub Saharan
+Africa HOAJ, 2014 Vol.3(2)
+20. Kigera JWM, Straetemans M, Vuhaka SK, Nagel IM, Naddumba EK Boer K. Is there an
+increased risk of post-operative surgical site infection after orthopaedic surgery in
+HIV patrients? A systematic review and Meta-analysis. PLOS ONE 2012; 8 (8):1-11.
+21. Li X, Zhang Q, Zhao C, Zhao R. Wound complications in HIV- positive male patients
+with fractures after operations. Austin J HIV/AIDS Res 2014; 1 (1):1-3.
+COSECSA/ASEA Publication -East & Central African Journal of Surgery 2017; Vol. 22 (1)

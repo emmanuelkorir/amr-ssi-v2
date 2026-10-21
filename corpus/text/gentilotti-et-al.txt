@@ -1,0 +1,1373 @@
+
+
+===== PAGE 1 =====
+
+RESEARCH
+Open Access
+Implementing a combined infection
+prevention and control with antimicrobial
+stewardship joint program to prevent
+caesarean section surgical site infections
+and antimicrobial resistance: a Tanzanian
+tertiary hospital experience
+Elisa Gentilotti1,2*†
+, Pasquale De Nardo1,2†, Boniface Nguhuni1,2, Alessandro Piscini1,2, Caroline Damian3,
+Francesco Vairo1, Zainab Chaula2, Paola Mencarini1, Peter Torokaa2, Alimuddin Zumla4,5, Emanuele Nicastri1 and
+Giuseppe Ippolito1
+Abstract
+Background: Surgical site infections are a leading cause of morbidity and mortality after caesarean section,
+especially in Low and Middle Income Countries. We hypothesized that a combined infection prevention and
+control with antimicrobial stewardship joint program would decrease the rate of post- caesarean section surgical
+site infections at the Obstetrics & Gynaecology Department of a Tanzanian tertiary hospital.
+Methods: The intervention included: 1. formal and on-job trainings on infection prevention and control; 2. evidence-
+based education on antimicrobial resistance and good antimicrobial prescribing practice. A second survey was performed
+to determine the impact of the intervention. The primary outcome of the study was post-caesarean section surgical site
+infections prevalence and secondary outcome the determinant factors of surgical site infections before/after the
+intervention and overall. The microbiological characteristics and patterns of antimicrobial resistance were ascertained.
+(Continued on next page)
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+* Correspondence: dr.elisagentilotti@gmail.com
+†Elisa Gentilotti and Pasquale De Nardo contributed equally to this work.
+1”Lazzaro Spallanzani” National Institute for Infectious Diseases-IRCCS, Via
+Portuense 292, Rome, Italy
+2Resource Centre for Infectious Diseases, Dodoma Regional Referral Hospital,
+Dodoma, Tanzania
+Full list of author information is available at the end of the article
+Gentilotti et al. Antimicrobial Resistance and Infection Control           (2020) 9:69 
+https://doi.org/10.1186/s13756-020-00740-7
+
+
+===== PAGE 2 =====
+
+(Continued from previous page)
+Results: Total 464 and 573 women were surveyed before and after the intervention, respectively. After the intervention,
+the antibiotic prophylaxis was administered to a significantly higher number of patients (98% vs 2%, p < 0.001), caesarean
+sections were performed by more qualified operators (40% vs 28%, p = 0.001), with higher rates of Pfannenstiel skin
+incisions (29% vs 18%, p < 0.001) and of absorbable continuous intradermic sutures (30% vs 19%, p < 0.001). The total
+number of post-caesarean section surgical site infections was 225 (48%) in the pre-intervention and 95 (17%) in the post
+intervention group (p < 0.001). A low prevalence of gram-positive isolates and of methicillin-resistant Staphylococus aureus
+was detected in the post-intervention survey.
+Conclusions: Further researches are needed to better understand the potential of a hospital-based multidisciplinary
+approach to surgical site infections and antimicrobial resistance prevention in resource-constrained settings.
+Keywords: Caesarean section, Surgical site infection, Antimicrobial resistance, Antimicrobial stewardship, Resource-limited
+settings
+Background
+Health-care associated infections (HAIs) and antimicro-
+bial resistance (AMR) are major global health challenges
+recognized worldwide The spread of HAIs and AMR is
+particularly alarming in low and middle income coun-
+tries (LMICs) [1, 2] where high level of resistance to
+commonly prescribed antibiotics together with lack of
+local AMR surveillance systems need urgent attention
+[3, 4]. According to the World Health Organization
+(WHO), HAIs are increasing at alarming high rates in
+LMICs, being two- to 20-times higher than in high-
+income countries [5].
+Surgical Site infection (SSI) is the most frequent cause of
+HAIs in LMICs, affecting up to one third of patients under-
+going surgery [6]. In light of this, WHO guidelines for SSI
+prevention outlined a roadmap for quality improvement
+and suggested a multimodal strategy and multidisciplinary
+approach [7–9]. A cultural and attitude change is essential
+to ensure that protocols for Infection Prevention and Con-
+trol (IPC) and Antimicrobial Stewardship (AMS) are strictly
+followed [10]. Although SSIs are largely avoidable, in
+LMICs they continue to be a leading cause of morbidity
+and mortality also among women undergoing caesarean
+section (CS), a live-saving procedure classified as a clean-
+contaminated operative wound according to Centre for
+Diseases Control (CDC) Classification [11].
+Dodoma Regional Referral Hospital (DRRH) is one of
+the few centres of the Dodoma Region, Tanzania, offer-
+ing CS services. A prospective observational study con-
+ducted
+in
+2013
+at
+the
+Obstetrics
+&
+Gynaecology
+Department (OGD) of DRRH reported an extremely
+high prevalence of CS-SSIs (48.2%), 40.6% of them
+caused by Staphylococcus aureus. Seventy-nine percent
+of the Staphylococcus aureus detected were methicillin-
+resistant (MRSA) [12]. A recent before-after intervention
+cohort study, conducted in five hospitals of sub-Saharan
+Africa, found that a multimodal SSI prevention strategy
+in low-resource settings can reduce the risk of SSIs [13].
+Our study aimed to assess the impact of the imple-
+mentation of a combined IPC with AMS joint program
+on the prevalence of CS associated SSIs at DRRH.
+Methods
+Study design
+A before-after intervention cohort study was conducted
+during 2 years starting from August 2013 at the OGD of
+DRRH. The study included a pre-intervention survey
+(PRE-Int), an intervention and a post-intervention survey
+(POST-Int). Each of the two surveys lasted 3 months
+and were conducted during the dry season. The study
+was directly supported by the Resource Centre for In-
+fectious Diseases (RCID) of DRRH. The intervention
+included literature-based education, on-job training
+and the constitution of an AMS multidisciplinary
+team.
+Study sites and study population
+DRRH has a bed capacity of 580 and 5 operating the-
+atres, one of them dedicated to the OGD. Data available
+from 2013 to 2015 report an average number of 14,800
+deliveries per year, with approximately 2700 (18%) CS.
+Study procedures
+A four-steps protocol was adopted (Fig. 1). The first step
+consisted
+of
+the
+PRE-Int,
+enrolling
+all
+consecutive
+women undergoing a CS during 3 months from August
+19, 2013, with a 30 days post-CS follow up. During the
+second step, data from the PRE-Int were shared with the
+hospital
+staff.
+Therefore,
+an
+AMS
+Multidisciplinary
+Team was constituted, including an Infectious Diseases
+(ID) Specialist, the head of OGD, a pharmacist, an IPC
+nurse, a clinical microbiologist and a representative of
+the hospital management. These professionals identified
+the prevention measures and the interventions to be
+prioritized: a) implementing the reporting system; b)
+strengthening the supply chain for antibiotics, disinfec-
+tants and operating room/laboratory disposables; c)
+Gentilotti et al. Antimicrobial Resistance and Infection Control           (2020) 9:69 
+Page 2 of 11
+
+
+===== PAGE 3 =====
+
+proper surgical hand preparation; d) administration of a
+pre-operative prophylaxis 30–60 min before the incision;
+e) optimizing the appropriateness of antibiotic prescrip-
+tion in the post-operative period; f) improving operating
+theatre discipline and organization and g) strengthening
+the capability and capacity of the Microbiology Unit. In
+particular,
+the
+importance
+of
+the
+prophylaxis
+was
+stressed. In fact, before the intervention, almost every
+woman received an antibiotic course lasting 8–10 days
+post-CS, irrespective of the presence of risk factors or
+signs/symptoms of infection. The antibiotic course usu-
+ally included 3 days of intravenous ceftriaxone plus
+metronidazole, followed by oral penicillin (amoxicillin
+alone or ampicillin/cloxacillin) plus metronidazole for at
+least 5 days. The timing was highly variable, ranging
+from 1 to 24 h post-CS. A pre-operative prophylaxis with
+ampicillin 1 g given 30–60 min before the incision was
+suggested, based on drugs availability. The third step
+consisted in the introduction of the prevention measures
+into clinical practice and in the organization of seminars
+focusing on IPC and AMS. Literature-based education
+was encouraged. On-job trainings were also conducted
+under the supervision of a pool of ID specialists and
+clinical microbiologists. Standard Operating Procedures
+(SOPs), recent publications, guidelines, expert consult-
+ation and mentorship on data collection were available
+at the RCID from Monday to Friday. The last step in-
+cluded the POST-Int, enrolling all consecutive women
+undergoing a CS during 3 months starting from April 1,
+2015, followed by 30 days post-CS surveillance.
+Survey and laboratory procedures
+A 30-days follow up was conducted, including a variable
+number of visits starting from day 7 post-CS. We aimed
+to have at least one post-operative contact with the pa-
+tient, either by clinical visit or telephone [14]. Patients
+were considered lost to follow up after five unsuccessful
+attempts by telephone. At each visit, an examination of
+the wound was performed by an ID specialist and the
+antibiotic treatment history was collected. In case of
+telephone contact, a structured interview was used to
+detect SSIs. In the suspicion of SSI, the patient was re-
+ferred to the nearest health centre. The classification of
+SSIs was done according to CDC definitions [11]. A
+wound swab was collected in any case of suspicion of
+SSI. The specimens were processed soon after collection.
+Briefly, the specimens were inoculated on blood agar
+and MacConkey agar and incubated aerobically. Petri
+dishes were checked after 24 and 48 h for bacteria detec-
+tion and identification. Antimicrobial susceptibility of
+isolates was determined using disc diffusion method.
+The antibiotics tested included: oxacillin (1 μg), ampicil-
+lin (10 μg), amoxicillin (25 μg), amoxicillin/clavulanate
+(20 μg + 10 μg), clindamycin (2 μg), erythromycin (15 μg),
+ciprofloxacin
+(5 μg),
+trimethoprim-sulfamethoxazole
+(1.25 μg + 23.75 μg), ceftriaxone (30 μg), chloramphenicol
+(30 μg), gentamicin (10 μg), tetracycline (30 μg). Vanco-
+mycin 5 μg, ceftazidime 10 μg and meropenem 10 μg
+were also tested in the POST-Int study. Based on Kirby-
+Bauer susceptibility test, gram-negative bacteria were
+classified as multidrug resistant organisms (MDROs) if
+Fig. 1 Four-steps protocol of the study. PRE-Int = pre-intervention; CS = caesarean section; SSI=Surgical Site Infections; DRRH = Dodoma Regional
+Referral Hospital; AMS = Antimicrobial stewardship; SOPs = Standard Operating Procedures; IPC=Infection Prevention and Control; ID = Infectious
+Diseases; OGD = Obstetrics & Gynaecology Department; POST-Int = post-intervention
+Gentilotti et al. Antimicrobial Resistance and Infection Control           (2020) 9:69 
+Page 3 of 11
+
+
+===== PAGE 4 =====
+
+resistances to amoxicillin/clavulanate, ceftriaxone (or
+ceftazidime), and/or gentamycin, and/or ciprofloxacin
+were detected. MRSA were identified by using the diffu-
+sion method with oxacillin disc [15, 16].
+Outcomes
+The primary outcome was to report the CS-SSIs rate.
+The secondary outcome was to assess the determinant
+factors of SSIs before/after the intervention and overall.
+The microbiological characteristics and patterns of AMR
+were determined to provide an overall picture of the
+SSIs.
+Data collection and statistical analysis
+All consecutive CS performed during the study period
+were eligible for inclusion in the analysis. Data were re-
+trieved from different sources, including: hospital medical
+records, antenatal cards, surgical notes and structured tele-
+phone interviews questionnaires. Data collection was done
+by trained staff from the RCID and entered in a dedicated
+Microsoft Excel dataset. Comparison of mean values was
+done using the Student’s t test. The χ2 test and Fisher’s
+exact test were used to explore univariate associations be-
+tween categorical variables. Log binomial regression model
+was adopted for multivariate analysis to detect the associ-
+ation between predictor variables and SSIs and to assess the
+impact of the intervention on outcomes. Co-variates with
+p < 0.1 and considered to be relevant based on clinical
+knowledge and available evidences, were included in the
+multivariate analysis. Odd ratios and confidence intervals
+were computed. A p < 0.05 was considered significant. The
+statistical analysis was performed using SPSS (software
+version 21, NY, U.S.A.).
+Results
+Comparison of demographic and surgical procedure
+characteristics
+Overall, 1377 women with CS were enrolled, 664 (48.2%)
+in the PRE-Int study and 713 (51.8%) in the POST-Int
+study. The follow-up was available for 1040 women, 467
+(70%) and 573 (81%) in the two studies, respectively
+(Fig. 2). A total number of 337 (25%) women (197 and 140
+in the two studies, respectively) were lost to follow up.
+The demographic characteristics were similar in the two
+populations. In the POST-Int a higher proportion of
+women had a college/university education (adj. p = 0.027),
+but SSIs prevalence was not affected by the level of
+education.
+Table 1 presents the CS characteristics and the surgi-
+cal procedures in all enrolled patients with available
+follow-up and in the two study populations, separately
+(Table 1).
+In the POST-Int study, a greater CS number was per-
+formed by experienced surgeons (adj. p = 0.052) and pre-
+incision antibiotic prophylaxis was administered in more
+cases (adj. p < 0.001). The timing of prophylaxis was re-
+ported to be adequate only in 28% of cases in the POST-
+Int group, but this did not seem to affect SSI prevalence.
+On the other hand, post-operative antibiotic administra-
+tion was significantly lower in the POST-Int group (adj.
+Fig. 2 Number of patients surveyed for post-CS SSI in the Pre-Intervention and Post-Intervention groups
+Gentilotti et al. Antimicrobial Resistance and Infection Control           (2020) 9:69 
+Page 4 of 11
+
+
+===== PAGE 5 =====
+
+Table 1 Overall and per-groups analysis of surgical procedure and CS-SSI Characteristics
+Overall (n = 1040)
+n (col%)
+PRE-Int (n = 467)
+n (col%)
+POST-Int (n = 573)
+n (col%)
+p-value
+adj-p-value*
+CS type
+0.059
+0.170β
+Elective
+76 (7.3)
+42 (9.0)
+34 (5.9)
+Emergency
+964 (92.7)
+425 (91.0)
+539 (94.1)
+Reason for CS
+0.043
+0.155γ
+CS indication
+431 (41.4)
+209 (44.8)
+222 (38.7)
+No CS indication
+606 (58.3)
+255 (54.6)
+351 (61.3)
+Not known
+3 (0.3)
+3 (0.6)
+0
+Operator grade
+0.001
+0.052 γ
+Senior
+345 (33.1)
+127 (27.2)
+218 (38.1)
+Junior
+685 (65.9)
+337 (72.2)
+348 60.7)
+Not known
+10 (1.0)
+3 (0.6)
+7 (1.2)
+Skin disinfection
+0.000
+0.001 γ
+Dettol
+2 (0.2)
+0
+2 (0.3)
+Ethanol
+94 (9.0)
+90 (19.3)
+4 (0.7)
+Povidone/Iodine
+923 (88.8)
+366 (78.4)
+557 (97.2)
+Not known
+21 (2.0)
+11 (2.4)
+10 (1.7)
+Tipe of CS incision
+0.000
+0.058 γ
+Pfannenstiel
+247 (23.8)
+82 (17.6)
+165 (28.8)
+Midline Vertical
+737 (70.9)
+341 (73.0)
+396 (69.1)
+Not known
+56 (5.4)
+44 (9.4)
+12 (2.1)
+Material used for skin suture
+0.000
+0.044 γ
+Silk (non-absorbable)
+693 (66.6)
+339 (72.6)
+354 (61.8)
+Vicryl (absorbable)
+265 (25.5)
+91 (19.5)
+174 (30.4)
+Not known
+82 (7.9)
+37 (7.9)
+45 (7.9)
+Suture type
+0.000
+0.076 γ
+Interrupted
+700 (67.3)
+327 (70.0)
+373 (65.1)
+Continuousintradermic and semisubcutaneous
+260 (26.0)
+96 (20.6)
+174 (30.4)
+Not known
+70 6.7
+44 (9.4)
+26 (4.5)
+Pre-Incision Antibiotic Prophylaxis
+0.000
+0.000 γ
+No
+457 (43.9)
+451 (96.6)
+6 (1.0)
+Yes
+572 (55.0)
+10 (2.1)
+562 (98.1)
+Not Known
+11 (1.1)
+6 (1.3)
+5 (0.9)
+Timing of Pre-Incision Antibiotic Prophylaxis
+0.017
+0.011 γ
+Appropriate
+162 (28.3)
+5 (50)
+157 (27.9)
+Not appropriate
+372 (65)
+2 (20)
+370 (65.8)
+Not known
+38 (6.7)
+3 (30)
+35 (6.3)
+Post-Incysion Antibiotic administration
+0.000
+0.000 γ
+No
+406 (39.0)
+4 (0.9)
+402 (70.2)
+Yes
+627 (60.3)
+459 (98.2)
+168 (29.3)
+Not Known
+7 (0.7)
+4 (0.9)
+3 (0.5)
+Day of first visit, mean, range (±SD)
+8.5, 1–38 (3.4)
+8.5, 2–37 (2.5)
+8.4, 1–38 (4.0)
+0.701
+Wound infection
+0.000
+0.001 β
+Yes
+320 (30.8)
+225 (48.2)
+95 (16.6)
+Gentilotti et al. Antimicrobial Resistance and Infection Control           (2020) 9:69 
+Page 5 of 11
+
+
+===== PAGE 6 =====
+
+p < 0.001). Skin disinfection was performed using povi-
+done/iodine more often in POST-Int operations (adj.
+p = 0.001). In the POST-Int group Pfannenstiel incision,
+absorbable and continuous intradermic/semi-subcutane-
+ous suture were more often adopted compared to PRE-Int
+group, but this finding was not significant after Bonferroni
+correction. The mean number of days of hospitalization
+was similar in both groups (approximately 2 days).
+Rate and determinants of SSIs in the PRE-Int and POST-Int
+populations
+Overall, 320 (30.8%) SSIs were reported in all enrolled
+women, 225 (48.2%) in the PRE-Int group and 95
+(16.6%) in the POST-Int group (adj. p = 0.001) (Table 1).
+SSI diagnosis at first visit (approximately 8 days after CS)
+was higher in the PRE-Int group (adj. p = 0.001). The
+analysis of CS-SSI determinant factors is showed in table
+2 (Table 2).
+In the overall and per-group analysis the risk of CS
+SSI was lower in case of Pfannenstiel incision (overall:
+OR 0.288; 95%CI 0.197–0.420; p < 0.001) and of continu-
+ous intradermic/semi-subcutaneous suture (overall: OR
+0.322; 95%CI 0.226–0.460; p < 0.001). In the PRE-Int
+group only, a higher experience of the surgeon was sig-
+nificantly associated with a lower CS-SSI risk (OR 0.644;
+95%CI 0.425–0.974; p = 0.038). In the POST-Int group,
+younger age of the patient was significantly associated
+with higher risk of SSI (OR 2.379; 95%CI 1.384–4.089;
+p = 0.001), whereas the use of absorbable stitches was
+found to be protective (OR 0.468; 95%CI 0.269–0.814;
+p = 0.006). This finding was confirmed when pooled data
+from the two studies were combined (OR 0.539; 95%CI
+0.387–0.750; p < 0.001).
+In the PRE-Int and POST-Int studies no significant
+SSI differences with respect of skin disinfection and
+body mass index (BMI) were reported. Nevertheless, in
+all enrolled population the use of povidone-iodine and a
+low BMI were significantly associated with a lower SSI
+risk (p = 0.031 and p < 0.001, respectively).
+Multivariate analysis showed an independent associ-
+ation between SSI and lack of pre-incision antibiotic
+prophylaxis (OR 3.588; 95%CI 1.922–6.696; p < 0.001)
+and skin disinfection performed with Dettol or Ethanol
+(OR 2.396; 95%CI 1.000–5.738; p = 0.050). Conversely,
+the utilization of absorbable suture for skin closure was
+an independent protective factor (OR 0.522; 95%CI
+0.280–0.970; p = 0.040), together with a normal BMI
+(18,5-24,9) (OR 0.632; 95%CI 0.403–0.990; p = 0.045).
+Microbiological characteristics
+Microbiological characteristics are displayed in Table 3.
+The rate of microbiologically-confirmed SSIs was consider-
+ably higher in the POST-Int study compared with the pre-
+vious survey (OR 2.534; 95% CI 1.435–4.475; p = 0.001).
+The prevalence of SSIs caused by gram-positive bacteria
+significantly decreased (OR 0.263; 95% CI 0.126–0.548; p <
+0.001), and the MRSA prevalence rate dropped down from
+79 to 21.4% (OR 0.072; 95% CI 0.016–0.314; p < 0.001). All
+MRSA isolates detected in the second survey had an indu-
+cible resistance to clindamycin (data not available in the
+first survey). Overall, 16 (43.2%), 5 (13.5%) and 2 (5.4%)
+MRSA isolates were susceptible to tetracycline, chloram-
+phenicol and cotrimoxazole, respectively (data not shown
+in the table). Enterococcus spp was not identified in the
+PRE-Int study while in the POST-Int accounted for 16.1%
+of the pathogens isolated. Eighty per cent of the Entero-
+coccus spp were resistant to ampicillin. The prevalence of
+SSIs due to gram-negative (including Klebsiella spp and
+Pseudomonas spp) significantly increased in the POST-Int
+study (OR 3.800; 95% CI 1.822–7.926; p < 0.001). Overall,
+more than half gram-negative had a phenotypic profile con-
+sistent with MDROs. Finally, no resistances to vancomicin
+and meropenem were observed.
+Discussion
+A substantial decrease in SSI rates was observed after
+the introduction of a combined IPC with AMS joint
+program.
+Table 1 Overall and per-groups analysis of surgical procedure and CS-SSI Characteristics (Continued)
+Overall (n = 1040)
+n (col%)
+PRE-Int (n = 467)
+n (col%)
+POST-Int (n = 573)
+n (col%)
+p-value
+adj-p-value*
+No
+720 (69.2)
+242 (51.8)
+478 (83.4)
+Wound infection at first visit
+0.037
+0.001 γ
+Yes
+224 (21.5)
+166 (73.8)
+58 (61.1)
+No
+742 (71.3)
+57 (25.3)
+37 (38.9)
+Not known
+2 (0.2)
+2 (0.9)
+0
+Type of wound infection
+0.000
+0.045 γ
+Superficial
+218 (21.0)
+138 (61.3)
+80 (84.2)
+Deep/involving organ and/or spaces
+85 (8.2)
+74 (32.9)
+11 (11.6)
+Not known
+17 (1.6)
+13 (5.8)
+4 (4.2)
+CS caesarean section, SSI Surgical Site Infections; *Bonferroni adjusted p-value; β α = 0.012; γα = 0.008
+Gentilotti et al. Antimicrobial Resistance and Infection Control           (2020) 9:69 
+Page 6 of 11
+
+
+===== PAGE 7 =====
+
+Table 2 Analysis of risk factors for SSI in patients undergoing CS in the PRE-Int and POST-Int groups and Overall
+Overall (n = 1040)
+PRE-Int (n = 467)
+POST-Int (n = 573)
+SSI (n = 320) No SSI (n = 720) p-value SSI (n = 225) No SSI (n = 242) p-value SSI (n = 95)
+No SSI (n = 478) p-value
+Age, years
+0.403
+0.561
+0.009
+< 20
+58 (35.2)
+107 (64.8)
+33 (43.4)
+43 (56.6)
+25 (28.1)
+64 (71.9)
+21–34
+220 (29.9)
+516 (70.1)
+164 (48.4)
+175 (51.6)
+56 (14.1)
+341 (85.9)
+> 34
+39 (29.8)
+92 (70.2)
+27 (52.9)
+24 (47.1)
+12 (15.0)
+68 (85.0)
+Not known
+1 (100)
+0
+2 (28.6)
+5 (71.4)
+BMI, median (range)
+27.8 (14–46)
+26.9 (16–66)
+0.031
+27.7 (19–46)
+26.7 (18–45)
+0.060
+27.8 (14–41) 27 (16–66)
+0.224
+Education
+0.327
+0.518
+0.621
+No
+46 (35.1)
+85 (64.9)
+34 (51.5)
+32 (48.5)
+12 (18.5)
+53 (81.5)
+Standard 7a
+165 (31.2)
+364 (68.8)
+112 (46.5)
+129 (53.5)
+53 (18.4)
+235 (81.6)
+Form I-VIb
+88 (30.4)
+201 (69.6)
+68 (51.5)
+64 (48.5)
+20 (12.7)
+137 (87.3)
+College/University
+16 (21.1)
+60 (78.9)
+7 (33.3)
+14 (66.7)
+9 (16.4)
+46 (83.6)
+Not known
+5 (33.3)
+10 (66.7)
+4 (57.1)
+3 (42.9)
+1 (12.5)
+7 (87.5)
+HIV+
+0.097
+0.462
+0.104
+Yes
+16 (44.4)
+20 (55.6)
+10 (58.8)
+7 (41.2)
+6 (31.6)
+13 (68.4)
+No
+295 (30.4)
+676 (69.6)
+211 (48.2)
+227 (51.8)
+84 (15.8)
+449 (84.2)
+Not known
+9 (27.3)
+24 (72.7)
+4 (33.3)
+8 (66.7)
+5 (23.8)
+16 (76.2)
+CS type
+0.607
+0.469
+0.338
+Elective
+21 (27.6)
+55 (72.4)
+18 (42.9)
+24 (57.1)
+3 (8.8)
+31 (91.2)
+Emergency
+299 (21.0)
+665 (69.0)
+207 (48.7)
+218 (51.3)
+92 (17.1)
+447 (82.9)
+Indication for CS
+0.801
+0.558
+0.084
+Previously knownc
+133 (30.8)
+299 (69.2)
+104 (49.5)
+106 (50.5)
+29 (13.1)
+193 (86.9)
+Not previously known
+187 (30.8)
+420 (69.2)
+121 (47.3)
+135 (52.7)
+66 (18.8)
+285 (81.2)
+Operator grade
+0.006
+0.038
+1.000
+Junior
+229 (33.4)
+456 (66.6)
+172 (51.0)
+165 (49.0)
+57 (16.4)
+291 (83.6)
+Senior
+87 (25.2)
+258 (74.8)
+51 (40.2)
+76 (59.8)
+36 (16.5)
+182 (83.5)
+Skin disinfection
+< 0.001
+0.410
+1.000
+Dettol/Ethanol
+48 (50.0)
+48 (50.0)
+47 (52.2)
+43 (47.8)
+1 (16.7)
+5 (83.3)
+Povidone-Iodine
+265 (28.7)
+658 (71.3)
+172 (47.0)
+194 (53.0)
+93 (16.7)
+464 (83.3)
+Type of incision
+< 0.001
+< 0.001
+< 0.001
+Midline Vertical
+280 (38.0)
+457 (62.0)
+198 (58.1)
+143 (41.9)
+82 (20.7)
+152 (92.1)
+Pfannenstiel
+37 (15.0)
+210 (85.0)
+24 (29.3)
+58 (70.7)
+13 (7.9)
+314 (79.3)
+Skin suture
+< 0.001
+0.370
+0.006
+Silk
+237 (34.2)
+456 (65.8)
+167 (49.3)
+172 (50.7)
+70 (19.8)
+284 (80.2)
+Vicryl (absorbable)
+58 (21.9)
+207 (78.1)
+40 (44.0)
+51 (56.0)
+18 (10.3)
+156 (89.7)
+Suture type
+< 0.001
+< 0.001
+< 0.001
+Interrupted
+268 (38.3)
+432 (61.7)
+190 (58.1)
+137 (41.9)
+78 (20.9)
+295 (79.1)
+Continuous intradermic
+and semisubcutaneous
+45 (16.7)
+225 (83.3)
+31 (32.3)
+65 (67.7)
+14 (8.0)
+160 (92.0)
+Pre-Incision Prophylaxis
+< 0.001
+1.000
+1.000
+No
+216 (47.3)
+241 (52.7)
+215 (47.7)
+236 (52.3)
+1 (16.7)
+5 (83.3)
+Yes
+97 (17.0)
+475 (83.0)
+5 (50.0)
+5 (50.0)
+92 (16.4)
+470 (83.6)
+Gentilotti et al. Antimicrobial Resistance and Infection Control           (2020) 9:69 
+Page 7 of 11
+
+
+===== PAGE 8 =====
+
+Table 2 Analysis of risk factors for SSI in patients undergoing CS in the PRE-Int and POST-Int groups and Overall (Continued)
+Overall (n = 1040)
+PRE-Int (n = 467)
+POST-Int (n = 573)
+SSI (n = 320) No SSI (n = 720) p-value SSI (n = 225) No SSI (n = 242) p-value SSI (n = 95)
+No SSI (n = 478) p-value
+Timing of pre-Incision
+Prophylaxis
+0.548
+0.428
+0.307
+Adequate
+25 (27.2)
+137 (31)
+3 (100)
+2 (50)
+22 (24.7)
+135 (30.8)
+Not adequate
+67 (72.8)
+305 (69)
+0
+2 (50)
+67 (75.3)
+303 (69.2)
+Post-CS ATB
+administration
+< 0.001
+1.000
+0.220
+No
+64 (15.8)
+342 (84.2)
+2 (50.0)
+2 (50.0)
+62 (15.4)
+340 (84.6)
+Yes
+253 (40.4)
+374 (59.6)
+220 (47.9)
+239 (52.1)
+33 (19.6)
+135 (80.4)
+aPrimary education; bSecondary education; ccephalopelvic disproportion, bad obstetric history, previous CS
+Table 3 Overall and per-groups analysis of microbiological characteristics
+Overall SSI (n = 320)
+PRE-Int SSI (n = 225)
+POST-Int SSI (n = 95)
+p-value
+Swab Performed, n (col %)
+0.887
+Yes
+280 (87.5)
+197 (87.5)
+83 (87.4)
+No
+40 (12.5)
+28 (12.5)
+12 (12.6)
+Swab result, n (col %)
+n = 280
+n = 197
+n = 83
+0.001
+No bacterial growth
+112 (40)
+91 (45.2)
+21 (25.3)
+Bacterial Growth
+168 (60)
+106 (53.8)
+62 (74.7)
+Isolated pathogen, n (col %)
+n = 168
+n = 106
+n = 62
+< 0.001
+Gram-positive
+127 (75.6)
+90 (84.9)
+37 (59.7)
+Gram-negative
+41 (24.4)
+16 (15.1)
+25 (40.3)
+Gram positive, n (col %)
+n = 127
+n = 90
+n = 37
+Staphylococcus aureus
+57 (44.9)
+43 (40.6)
+14 (37.9)
+MRSA
+37 (64.9)
+34 (79.0)
+3 (21.4)
+Coagulase-negative Staphylococcus species
+57 (44.9)
+47 (44.4)
+10 (27.0)
+Streptococcus A
+3 (2.4)
+0
+3 (8.1)
+Enterococcus spp.
+10 (7.8)
+0
+10 (27.0)
+Gram negative, n (%)
+n = 41
+n = 16
+n = 25
+Escherichia Coli
+4 (9.8)
+1 (6.3)
+3 (12.0)
+MDROs
+2 (50.0)
+1 (100)
+1 (33.4)
+Proteus mirabilis
+4 (9.8)
+3 (18.7)
+1 (4.0)
+MDROs
+1 (25.0)
+1 (33.4)
+0
+Klebsiella spp.
+11 (26.8)
+4 (25.0)
+7 (28.0)
+MDR0s
+7 (63.6)
+4 (100)
+3 (42.8)
+Pseudomonas aeruginosa
+6 (14.6)
+1 (6.3)
+5 (20.0)
+MDROs
+4 (66.7)
+1 (100)
+3 (60.0)
+Other GRAM-negative
+16 (39.0)
+7 (43.7)
+9 (36.0)
+MDROs
+7 (43.7)
+2 (28.6)
+5 (55.6)
+Total MRSA, n (isolated pathogens %)
+37 (22)
+34 (32.0)
+3 (4.8)
+< 0.001
+Total gram negative MDROs, n (isolated pathogens %)
+22 (13)
+9 (8.5)
+12 (19.3)
+0.052
+MRSA Methicillin-Resistant Staphylococcus aureus, MDROs Multidrug Resistant Organisms
+Gentilotti et al. Antimicrobial Resistance and Infection Control           (2020) 9:69 
+Page 8 of 11
+
+
+===== PAGE 9 =====
+
+Impact of IPC and AMS intervention on CS SSI incidence
+This multimodal approach led to a percentage reduction
+in the CS SSIs rates by more than 65%. Furthermore,
+less SSIs were detected at first visit (8 days after the CS)
+in the POST-Int group, possibly suggesting that fewer
+infections were acquired in the theatre room and during
+inpatient stay [17]. Strengthening the chain supply for
+antibiotics and skin disinfectant was a priority. In the
+POST-Int study almost every CS was preceded by an
+antibiotic prophylaxis, and the skin disinfection was per-
+formed following a standardized procedure in the vast
+majority of cases. The AMS intervention led to a better
+appropriateness
+of
+antibiotic
+prescription,
+as
+docu-
+mented also by other studies in LMICs [18]. Post-CS
+antimicrobial prescription was limited to cases requiring
+a treatment. Administering multiple doses of post-
+operative antibiotics was not associated with a better
+outcome
+compared
+with
+pre-operative
+single
+dose
+prophylaxis, as also reported by other authors [19, 20].
+Furthermore, by administering a pre-operative prophy-
+laxis instead of a 3 days intravenous post-operative
+course, we estimate that hospital total cost savings have
+been around €1500 during the Post-Int study. Moreover,
+a reduction of post-discharge antibiotics prescription by
+approximately 70% was achieved. This led to a personal
+saving of around €3/patient in a country where 28% of
+the population is estimated to live under the national
+basic needs poverty line (approximately €14/month per
+adult) [21]. These findings suggest that AMS pro-
+grammes are highly recommended in LMICs to improve
+the prescription attitude and reduce the burden of
+health-care associated costs.
+The study was not designed to assess the impact of
+each prevention measure on the occurrence of SSIs. A
+study with a more robust design, such as an interrupted
+time series analysis or a controlled randomized clinical
+trial would be useful to better address this issue [22, 23].
+Risk factors for post-CS before and after the intervention
+Formal education and on-job training of the health-care
+personnel were essential components of this interven-
+tion. In particular, after sharing literature evidences, in-
+cluding reviews [24–27] and guidelines, we observed
+improvements in the operating room discipline and a
+more rigorous compliance to SOPs and reporting tools.
+The supervision of younger doctors was encouraged ac-
+cording with literature [12, 25, 28]. Therefore, in the
+POST-Int study, a greater number of CS were performed
+by more experienced doctors. Higher rates of Pfannen-
+stiel incision, povidone-iodine for skin disinfection and
+absorbable continuous/semi-subcutaneous sutures for
+skin closure were also observed in the POST-Int. Ab-
+sorbable suture and disinfection with povidone-iodine
+were associated with lower risk of SSIs at multivariate
+analysis. Literature-based evidences suggest that sub-
+cutaneous tissue closure is associated with fewer wound
+complications [29], but the outcome may be different ac-
+cording with the type of CS incision [30]. Further well-
+designed trials at low risk of bias are needed to provide
+non-conflicting results on the best type of suturing.
+Data retrieved did not allow for the evaluation of other
+factors that may have an impact on the risk of develop-
+ing SSI post-CS, including diabetes, chorioamnionitis
+and hypertension. This must be considered a setting-
+related limitation of the present study.
+Changes in the characteristics of the isolates after the
+intervention
+A greater proportion of microbiologically-confirmed
+SSIs in the POST-Int study was reported, possibly re-
+lated to a better collection and processing of the sam-
+ples. Also the laboratory diagnostic capability seemed to
+be improved, as suggested by the detection of Entero-
+coccus spp, which was not identified in the PRE-Int
+study. In 2016 the DRRH Laboratory has been audited
+per the WHO AFRO Stepwise Laboratory Quality Im-
+provement Process Towards Accreditation (SLIPTA)
+Checklist and has met the requirement for “three star”
+recognition level.
+The significant reduction of gram-positive strains iso-
+lated and the lower MRSA prevalence in the second sur-
+vey are noteworthy. This is likely a consequence of the
+AMS education and on-job training which dramatically
+affected the health care workers’ attitude and behaviour
+towards antibiotic prescription and IPC [31]. By avoiding
+unnecessary use of ceftriaxone in the post-operative
+period, the intervention may have contributed to the re-
+duction in MRSA rates in the second survey. The choice
+of Ampicillin for prophylaxis depended on the unavail-
+ability of cefazolin, that is more widely used for surgical
+prophylaxis and more effective against Staphylococcus
+aureus [32]. Probably, this is the reason why we observed
+a similar rate in MSSA before and after the intervention.
+On the other hand, considering the unavailability of sec-
+ond line antibiotics in the majority of health facilities in
+Tanzania, the high rate of MDROs - including gram-
+negative bacteria – detected in this study is a serious con-
+cern. The lack of detailed data on MDROs prevalence all
+over the country highlights the need for building an effi-
+cient surveillance system in order to guide continuous tar-
+geted interventions.
+Conclusions
+The intervention implemented within this study was a
+multidisciplinary collaborative strategy involving, among
+the others, the hospital management, the pharmacist,
+the microbiologist and the dedicated nurse. This AMS
+Multidisciplinary Team worked to improve the SSI
+Gentilotti et al. Antimicrobial Resistance and Infection Control           (2020) 9:69 
+Page 9 of 11
+
+
+===== PAGE 10 =====
+
+prevention, surgical procedures and laboratory capability
+and cooperated to ensure a better management of
+wound infections. The participation of different health
+care figures could be key to obtain an efficient hospital
+based surveillance system, able to detect the gap,
+prioritize interventions and inform national and inter-
+national institutions on the magnitude of AMR [4].
+This multimodal approach demonstrated to be effect-
+ive in a resource-constrained setting and highlighted the
+need to improve IPC and AMR education of hospital
+staff [9]. Improved SSI and AMR surveillance is war-
+ranted to better understand the occurrence of SSIs and
+their microbiological characteristics. Further IPC-AMS
+joint programmes with robust study designs should be
+encouraged and scaled up in LMICs.
+Abbreviations
+AMR: Antimicrobial Resistance; AMS: Antimicrobial Stewardship; BMI: Body
+Mass Index; CDC: Center for Diseases Control; CS: Caesarean Section;
+DRRH: Dodoma Regional Referral Hospital; HAI: Health-care Associated
+Infection; ID: Infectious Diseases; IPC: Infection Prevention and Control;
+LMIC: Low and Middle Income Country; MDRO: Multidrug Resistant
+Organisms; MRSA: Methicillin-Resistant Staphylococcus aureus;
+OGD: Obstetrics & Gynaecology Department; POST-Int: Post-intervention
+survey; PRE- Int: Pre-intervention survey; RCID: Resource Centre for Infectious
+Diseases; SOP: Standard Operating Procedure; SSIs: Surgical site infections;
+WHO: World Health Organization
+Acknowledgements
+We thank Prof. Stephan Harbarth, University of Geneva, for his input into
+scientific advice. We also thank all the staff working at the Obstetrics and
+Gynaecology Department of the Dodoma Regional Referral Hospital and
+Post-Natal Care of the Makole Health Centre.
+Authors’ contributions
+PDN and EG designed the study. Patients were clinically reviewed by PDN,
+EG, BN, and PM. AP was responsible of the microbiology procedures. EG
+performed the statistical analysis. EN and FV were involved in drafting the
+manuscript and reviewing the literature. AZ and GI revised the final paper.
+All authors read and approved the final manuscript.
+Funding
+This work was supported by the Italian Development Cooperation, Ministry
+of Foreign Affairs [AID9562] and the Italian Ministry of Health [Ricerca
+Corrente].
+Availability of data and materials
+The datasets used and/or analysed during the current study are available
+from the corresponding author on reasonable request.
+Ethics approval and consent to participate
+This study was approved by the Hospital Management of DRRH and the
+Tanzanian National Institute for Medical Research (NIMR/HQ/R.8a/vol. IX/
+1927). All enrolled patients provided written informed consent. All data were
+anonymized.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1”Lazzaro Spallanzani” National Institute for Infectious Diseases-IRCCS, Via
+Portuense 292, Rome, Italy. 2Resource Centre for Infectious Diseases, Dodoma
+Regional Referral Hospital, Dodoma, Tanzania. 3Gynaecology and Obstetrics
+Department, Dodoma Regional Referral Hospital, Dodoma, Tanzania.
+4Division of Infection and Immunity, Centre for Clinical Microbiology,
+University College London, London, UK. 5National Institute of Health
+Research Biomedical, Research Centre at UCL Hospitals, London, UK.
+Received: 30 January 2020 Accepted: 12 May 2020
+References
+1.
+Laxminarayan R, Heymann DL. Challenges of drug resistance in the
+developing world. BMJ. 2012;344:e1567.
+2.
+Allegranzi B, Bagheri Nejad S, Combescure C, et al. Burden of endemic
+healthcare-associated infection in developing countries: systematic review
+and meta-analysis. Lancet. 2011;377:228–41.
+3.
+Tadesse BT, Ashley EA, Ongarello S, Havumaki J, Wijegoonewardena M,
+González IJ, Dittrich S. Antimicrobial resistance in Africa: a systematic review.
+BMC Infect Dis. 2017;17(1):616.
+4.
+Perovic O, Schultsz C. Stepwise approach fr implementation of antimicrobial
+resistance surveillance in Africa. Afr J Lab Med. 2016;5(3):482.
+5.
+Bagheri Nejad S, Allegranzi B, Syed SB, Ellis B, Pittet D. Health-care-
+associated infection in Africa: a systematic review. Bull World Health Organ.
+2011;89:757–65.
+6.
+ECDC. Point prevalence survey of healthcare-associated infections and
+antimicrobial use in European acute care hospitals. Stockholm: European Centre
+for Disease Prevention and Control; 2013. Available at: https://www.ecdc.europa.
+eu/sites/default/files/media/en/publications/Publications/healthcare-associated-
+infections-antimicrobial-use-PPS.pdf. Accessed 5 May 2020.
+7.
+Allegranzi B, Bischoff P, de Jonge S, et al. New WHO recommendations on
+preoperative measures for surgical site infection prevention: an evidence-
+based global perspective. Lancet Infect Dis. 2016;16:e276–87.
+8.
+Allegranzi B, Zayed B, Bischoff P, et al. New WHO recommendations on
+intraoperative and postoperative measures for surgical site infection
+prevention: an evidence-based global perspective. Lancet Infect Dis. 2016;
+16:e288–303.
+9.
+WHO. WHO surgical safety checklist. Available at: http://www.who.int/
+patientsafety/safesurgery/checklist/en/. Accessed 5 May 2020.
+10.
+Haynes AB, Weiser TG, Berry WR, et al. Changes in safety attitude and
+relationship to decreased postoperative morbidity and mortality following
+implementation of a checklist-based surgical safety intervention. BMJ Qual
+Saf. 2011;20:102–7.
+11.
+Horan TC, Gaynes RP, Martone WJ, Jarvis WR, Emori TG. CDC definitions of
+nosocomial surgical site infections, 1992: a modification of CDC definitions
+of surgical wound infections. Am J Infect Control. 1992;20:271e274.
+12.
+De Nardo P, Gentilotti E, Nguhuni B, Vairo F, Chaula Z, Nicastri E, Nassoro
+MM, Bevilacqua N, Ismail A, Savoldi A, Zumla A, Ippolito G. Post-caesarean
+section surgical site infections at a Tanzanian tertiary hospital: a prospective
+observational study. J Hosp Infect. 2016;93(4):355–9.
+13.
+Allegranzi B, Aiken AM, Zeynep Kubilay N, Nthumba P, Barasa J, Okumu G,
+Mugarura R, Elobu A, Jombwe J, Maimbo M, Musowoya J, Gayet-Ageron A,
+Berenholtz SM. A multimodal infection control and patient safety intervention
+to reduce surgical site infections in Africa: a multicentre, before-after, cohort
+study. Lancet Infect Dis. 2018;18:507–15 [Epub ahead of print].
+14.
+Nguhuni B, De Nardo P, Gentilotti E, et al. Reliability and validity of using
+telephone calls for post-discharge surveillance of surgical site infection
+following caesarean section at a tertiary hospital in Tanzania. Antimicrob
+Resist Infect Control. 2017;6:43.
+15.
+European Committee on Antimicrobial Susceptibility Testing. Breakpoint
+tables for interpretation of MICs and zone diameters. Version 4.0, 2014.
+Available at: http://www.eucast.org/fileadmin/src/media/PDFs/EUCAST_files/
+Breakpoint_tables/Breakpoint_table_v_4.0.pdf. Accessed 5 May 2020.
+16.
+European Committee on Antimicrobial Susceptibility Testing. Breakpoint
+tables for interpretation of MICs and zone diameters. Version 3.1, 2013.
+Available at: http://www.eucast.org/fileadmin/src/media/PDFs/EUCAST_files/
+Breakpoint_tables/Breakpoint_table_v_3.1.pdf. Accessed 5 May 2020.
+17.
+Kawakita T, Landy HL. Surgical site infections after cesarean delivery:
+epidemiology, prevention and treatment. Matern Health Neonatol Perinatol.
+2017;3:12.
+18.
+Aiken AM, Wanyoro AK, Mwangi J, Juma F, Mugoya IK, Scott JA. Changing
+use of surgical antibiotic prophylaxis in Thika hospital, Kenya: a quality
+improvement intervention with an interrupted time series design. PLoS
+One. 2013;8(11):e78942.
+Gentilotti et al. Antimicrobial Resistance and Infection Control           (2020) 9:69 
+Page 10 of 11
+
+
+===== PAGE 11 =====
+
+19.
+Lyimo FM, Massinde AN, Kidenya BR, Konje ET, Mshana SE. Single dose of
+gentamicin in combination with metronidazole versus multiple doses for
+prevention of post-caesarean infection at Bugando Medical Centre in
+Mwanza, Tanzania: a randomized, equivalence, controlled trial. BMC
+Pregnancy Childbirth. 2013;13:123.
+20.
+Abdel Jalil MH, Abu Hammour K, Alsous M, et al. Surgical site infections
+following caesarean operations at a Jordanian teaching hospital: frequency
+and implicated factors. Sci Rep. 2017;7(1):12210.
+21.
+The World Bank. Tanzania - Mainland poverty assessment (Vol. 2): Main
+report. Available at: http://documents.worldbank.org/curated/en/53060146
+8179976437/Main-report. Accessed 5 May 2020.
+22.
+de Kraker MEA, Abbas M, Huttner B, Harbarth S. Good epidemiological
+practice: a narrative review of appropriate scientific methods to evaluate
+the impact of antimicrobial stewardship interventions. Clin Microbiol Infect.
+2017;23(11):819–25.
+23.
+Schweitzer VA, van Heijl I, van Werkhoven CH, Islam J, Hendriks-Spoor KD,
+Bielicki J, Bonten MJM, Walker AS, Llewelyn MJ, Consensus on Antimicrobial
+Stewardship Evaluations (CASE) study group. The quality of studies
+evaluating antimicrobial stewardship interventions: a systematic review. Clin
+Microbiol Infect. 2018;25:555–61.
+24.
+Nthumba PM, Stepita-Poenaru E, Poenaru D, Bird P, Allegranzi B, Pittet D,
+Harbarth S. Cluster-randomized, crossover trial of the efficacy of plain soap
+and water versus alcohol-based rub for surgical hand preparation in a rural
+hospital in Kenya. Br J Surg. 2010;97(11):1621–8.
+25.
+Mpogoro FJ, Mshana SE, Mirambo MM, et al. Incidence and predictors of
+surgical site infections following caesarean sections at Bugando Medical
+Centre, Mwanza, Tanzania. Antimicrob Resist Infect Control. 2014;3:25.
+26.
+Dahlke JD, Mendez-Figueroa H, Rouse DJ. Evidence-based surgery for
+cesarean delivery: an updated systematic review. Am J Obstet Gynecol.
+2013;209(4):294–306.
+27.
+Mackeen AD, Berghella V, Larsen ML. Techniques and materials for skin
+closure in caesarean section. Cochrane Database Syst Rev. 2012;11:
+CD003577.
+28.
+Corcoran S, Jackson V, Coulter-Smith S, et al. Surgical site infection after
+cesarean section: implementing 3 changes to improve the quality of patient
+care. Am J Infect Control. 2013;41(12):1258–63.
+29.
+Pergialiotis V, Prodromidou A, Perrea DN, et al. The impact of subcutaneous
+tissue suturing at caesarean section on wound complications: a meta-
+analysis. BJOG. 2017;124(7):1018–25.
+30.
+Mackeen AD, Berghella V, Larsen ML. Techniques and materials for skin
+closure in caesarean section. Cochrane Database Syst Rev. 2012;9:CD003577.
+31.
+Bitew Kifilie A, Dagnew M, Tegenie B, Yeshitela B, Howe R, Abate E. Bacterial
+profile, antibacterial resistance pattern, and associated factors from women
+attending postnatal health service at university of gondar teaching hospital,
+northwest ethiopia. Int J Microbiol. 2018;2018:3165391.
+32.
+Bratzler DW, Dellinger EP, Olsen KM, Perl TM, Auwaerter PG, Bolon MK, Fish
+DN, Napolitano LM, Sawyer RG, Slain D, Steinberg JP, Weinstein RA,
+American Society of Health-System Pharmacists; Infectious Disease Society
+of America; Surgical Infection Society; Society for Healthcare Epidemiology
+of America. Clinical practice guidelines for antimicrobial prophylaxis in
+surgery. Am J Health Syst Pharm. 2013;70(3):195–283.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Gentilotti et al. Antimicrobial Resistance and Infection Control           (2020) 9:69 
+Page 11 of 11

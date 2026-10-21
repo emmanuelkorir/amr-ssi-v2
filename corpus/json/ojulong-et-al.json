@@ -1,0 +1,622 @@
+{
+ "doc_id": "ojulong-et-al",
+ "source_file": "amr-ssis-ecsa-files/amr-ssis-ecsa/Ojulong et al.pdf",
+ "sha256": "515783a9c00fe0984a0e0fae74ac838a0546da92cddd3314355150d822e8077a",
+ "document_type": "pdf",
+ "n_pages": 5,
+ "pdf_metadata": {
+  "format": "PDF 1.6",
+  "title": "NIMR Volume 11, Number 3, July 2009.indd",
+  "author": "cptldesign4",
+  "subject": "",
+  "keywords": "",
+  "creator": "",
+  "producer": "Acrobat Distiller 7.0 for Macintosh",
+  "creationDate": "D:20091111100910+02'00'",
+  "modDate": "D:20091111100916+02'00'",
+  "trapped": "",
+  "encryption": null
+ },
+ "extracted_at_utc": "2026-10-20T18:17:56+00:00",
+ "extraction_method": "pymupdf get_text('text') + blocks",
+ "pages": [
+  {
+   "page": 1,
+   "text": "149\nTanzania Journal of Health Research, Vol. 11, No. 3, July 2009\nRelative prevalence of methicilline resistant Staphylococcus aureus and\nits susceptibility pattern in Mulago Hospital, Kampala, Uganda\nJ. OJULONG1*, T.P. MWAMBU2, M. JOLOBA1, F. BWANGA1 and D.H. KADDU-MULINDWA1\n1Department of Microbiology,  Makerere University, Kampala, Uganda\n2Mulago Hospital Complex, P.O. Box 7051, Kampala, Uganda\n_______________________________________________________________________________________\nAbstract: Methicilline resistant Staphylococcus aureus (MRSA) strains are becoming increasingly\nmultiresistant, and have recently developed resistance to vancomycin, which has been used \nsuccessfully to treat MRSA for many years. In-vitro determination of resistance patterns of S. aureus is\ncritical in terms of administering suitable antimicrobial treatments. The objective of this study was to \ndetermine the relative prevalence of MRSA among S. aureus isolates from surgical site infections and \ntheir antibiotic susceptibility pattern in Mulago Hospital, Kampala, Uganda. One hundred eighty\neight pus swabs were collected from patients with surgical site infections. Swabs were inoculated \nfor culture at the Microbiology Laboratory of the Faculty of Medicine, Makerere University. S. aurues\nisolates were identiﬁ ed using standard procedures and tested for oxacillin resistance according to \nmethods of the National Committee for Clinical Laboratory Standards. Out of the 188 specimens, 54 \n(28.7%) grew S. aureus. Seventeen (31.5%) of the S. aureus isolates were conﬁ rmed as MRSA by PCR.\nResistance rates of MRSA were 88.2% for trimethoprim-sulfamethoxazole, 88.2% for erythromycin,\n58.8% for gentamycin, 70.6% for ciproﬂ oxacin, and 88.2% for chloramphenicol. All isolates were \nfound to be sensitive to vancomycin and clindamycin though the D-test was found to be positive \nin 82.4% of the isolates. In our region, although methicillin resistance increased in S. aureus strains,\nbecause of the unavailability and the high cost of alternative antibiotics, gentamycin is still suggested \nas an alternative for treatment of S. aureus infections. These results however indicate that vancomycin\nseemed to be the only antimicrobial agent effective against MRSA and it could be the drug of choice\nin treating multidrug resistant MRSA infection.\n_______________________________________________________________________________________\nKey words: Staphylococcus aureus, antibiotic, methicilline, resistance, susceptibility, Uganda\nIntroduction\nStaphylococcus aureus is recognized as one of the\nmost important bacterial pathogens seriously\ncontributing to the problem of nosocomial and\ncommunity acquired infections (Jan et al., 2002).\nSince the ﬁ rst isolation of methicillin-resistant S.\naureus (MRSA) in the United Kingdom in 1961,\nincreasing rates of methicillin resistance among\nS. aureus strains have been a cause for concern\n(Jevons, 1961; Gorwitz et al, 2006). MRSA is a \nmajor nosocomial pathogen that causes severe\nmorbidity and mortality worldwide (Anjali\n& Daum, 999; Rodriguez & Khan, 1974). It\nspreads more readily than other strains once\nintroduced into hospitals, and are often difﬁ cult\nto eradicate once established. In some countries\nMRSA make up to 75% of all S. aureus isolates\nin hospitals (Gorwitz et al., 2006; Kesah et al.,\n2003). Transmission of MRSA occurs primarily\nfrom colonized or infected patients or staff to \nother patients or staff, or vice versa. Among the\nresistant pathogens, MRSA is of great concern \nbecause of the importance in causing various \nclinical infections (Stefani & Varaldo, 2003; \nKloos & Schleifer, 1986).\nAntimicrobial drug resistance has become \nagreat public health problem worldwide (Aribas \net al, 2001; Unlu & Unlu, 2001). As incidence of \nMRSA increased, the efﬁ cacies of penicillins and \ncephalosporins have waned. Essentially, many \nMRSA strains acquired resistance to both beta \nlactam and aminoglycosides. Therefore, it is \nnecessary to know the MRSA prevalence and to \nchoose suitable antibiotics with respect to their\nantimicrobial proﬁ les for treating the infections \n(Aribas et al, 2001; Unlu & Unlu, 2001).\nThe major challenge to controlling\nhospital infections has been due to emergence of \nmultiple antibiotic resistant organisms among\nMRSA isolates. The knowledge of the pattern \nof antibiotic resistance among isolates is very\nimportant clinically and epidemiologically.\nThe results of antimicrobial resistance patterns\nare of great concern due to the predominant \nbacterial isolates which are highly resistant to \n* Correspondence: Dr. Julius Ojulong; E-mail: ojulong_julius@yahoo.co.uk\n",
+   "n_chars": 4651,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      54.4,
+      48.5,
+      536.6,
+      58.6
+     ],
+     "text": "149\nTanzania Journal of Health Research, Vol. 11, No. 3, July 2009\n"
+    },
+    {
+     "bbox": [
+      63.4,
+      80.2,
+      527.8,
+      95.6
+     ],
+     "text": "Relative prevalence of methicilline resistant Staphylococcus aureus and\n"
+    },
+    {
+     "bbox": [
+      92.9,
+      97.0,
+      498.4,
+      112.4
+     ],
+     "text": "its susceptibility pattern in Mulago Hospital, Kampala, Uganda\n"
+    },
+    {
+     "bbox": [
+      66.0,
+      122.2,
+      525.3,
+      138.0
+     ],
+     "text": "J. OJULONG1*, T.P. MWAMBU2, M. JOLOBA1, F. BWANGA1 and D.H. KADDU-MULINDWA1\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      139.1,
+      539.3,
+      454.8
+     ],
+     "text": "1Department of Microbiology,  Makerere University, Kampala, Uganda\n2Mulago Hospital Complex, P.O. Box 7051, Kampala, Uganda\n_______________________________________________________________________________________\nAbstract: Methicilline resistant Staphylococcus aureus (MRSA) strains are becoming increasingly\nmultiresistant, and have recently developed resistance to vancomycin, which has been used \nsuccessfully to treat MRSA for many years. In-vitro determination of resistance patterns of S. aureus is\ncritical in terms of administering suitable antimicrobial treatments. The objective of this study was to \ndetermine the relative prevalence of MRSA among S. aureus isolates from surgical site infections and \ntheir antibiotic susceptibility pattern in Mulago Hospital, Kampala, Uganda. One hundred eighty\neight pus swabs were collected from patients with surgical site infections. Swabs were inoculated \nfor culture at the Microbiology Laboratory of the Faculty of Medicine, Makerere University. S. aurues\nisolates were identiﬁ ed using standard procedures and tested for oxacillin resistance according to \nmethods of the National Committee for Clinical Laboratory Standards. Out of the 188 specimens, 54 \n(28.7%) grew S. aureus. Seventeen (31.5%) of the S. aureus isolates were conﬁ rmed as MRSA by PCR.\nResistance rates of MRSA were 88.2% for trimethoprim-sulfamethoxazole, 88.2% for erythromycin,\n58.8% for gentamycin, 70.6% for ciproﬂ oxacin, and 88.2% for chloramphenicol. All isolates were \nfound to be sensitive to vancomycin and clindamycin though the D-test was found to be positive \nin 82.4% of the isolates. In our region, although methicillin resistance increased in S. aureus strains,\nbecause of the unavailability and the high cost of alternative antibiotics, gentamycin is still suggested \nas an alternative for treatment of S. aureus infections. These results however indicate that vancomycin\nseemed to be the only antimicrobial agent effective against MRSA and it could be the drug of choice\nin treating multidrug resistant MRSA infection.\n_______________________________________________________________________________________\nKey words: Staphylococcus aureus, antibiotic, methicilline, resistance, susceptibility, Uganda\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      470.9,
+      118.2,
+      483.0
+     ],
+     "text": "Introduction\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      497.3,
+      288.5,
+      773.4
+     ],
+     "text": "Staphylococcus aureus is recognized as one of the\nmost important bacterial pathogens seriously\ncontributing to the problem of nosocomial and\ncommunity acquired infections (Jan et al., 2002).\nSince the ﬁ rst isolation of methicillin-resistant S.\naureus (MRSA) in the United Kingdom in 1961,\nincreasing rates of methicillin resistance among\nS. aureus strains have been a cause for concern\n(Jevons, 1961; Gorwitz et al, 2006). MRSA is a \nmajor nosocomial pathogen that causes severe\nmorbidity and mortality worldwide (Anjali\n& Daum, 999; Rodriguez & Khan, 1974). It\nspreads more readily than other strains once\nintroduced into hospitals, and are often difﬁ cult\nto eradicate once established. In some countries\nMRSA make up to 75% of all S. aureus isolates\nin hospitals (Gorwitz et al., 2006; Kesah et al.,\n2003). Transmission of MRSA occurs primarily\nfrom colonized or infected patients or staff to \nother patients or staff, or vice versa. Among the\nresistant pathogens, MRSA is of great concern \n"
+    },
+    {
+     "bbox": [
+      305.5,
+      470.7,
+      539.3,
+      509.2
+     ],
+     "text": "because of the importance in causing various \nclinical infections (Stefani & Varaldo, 2003; \nKloos & Schleifer, 1986).\n"
+    },
+    {
+     "bbox": [
+      305.5,
+      510.3,
+      539.3,
+      654.4
+     ],
+     "text": "Antimicrobial drug resistance has become \nagreat public health problem worldwide (Aribas \net al, 2001; Unlu & Unlu, 2001). As incidence of \nMRSA increased, the efﬁ cacies of penicillins and \ncephalosporins have waned. Essentially, many \nMRSA strains acquired resistance to both beta \nlactam and aminoglycosides. Therefore, it is \nnecessary to know the MRSA prevalence and to \nchoose suitable antibiotics with respect to their\nantimicrobial proﬁ les for treating the infections \n(Aribas et al, 2001; Unlu & Unlu, 2001).\n"
+    },
+    {
+     "bbox": [
+      305.6,
+      655.5,
+      539.3,
+      773.2
+     ],
+     "text": "The major challenge to controlling\nhospital infections has been due to emergence of \nmultiple antibiotic resistant organisms among\nMRSA isolates. The knowledge of the pattern \nof antibiotic resistance among isolates is very\nimportant clinically and epidemiologically.\nThe results of antimicrobial resistance patterns\nare of great concern due to the predominant \nbacterial isolates which are highly resistant to \n"
+    },
+    {
+     "bbox": [
+      54.7,
+      796.8,
+      349.1,
+      810.7
+     ],
+     "text": "* Correspondence: Dr. Julius Ojulong; E-mail: ojulong_julius@yahoo.co.uk\n"
+    }
+   ]
+  },
+  {
+   "page": 2,
+   "text": "Tanzania Journal of Health Research, Vol. 11, No. 3, July 2009\n150\nthe commonly available antimicrobial agents.\nLately, it has become increasingly reported in\nmany countries that most hospital infections\ncaused by MRSA have become multi-drug\nresistant (Aribas et al., 2001; Unlu & Unlu,\n2001; Leclercq, 2002). For instance, MRSA\naccounts for nosocomial S. aureus infections in\nhospitals in the USA for up to 40% (Suntharam\net al., 2001, Anjali & Daum, 1999; Rodriguez &\nKhan, 1974). While in Europe, prevalence is 2-\n50% (Chambers, 2001), studies in eight African\nHospitals estimated the prevalence of MRSA to\nbe 30% (Kesah et al., 2003).\nThere are no published studies on the\nprevalence of MRSA strains and their resistance\npatterns against antibiotics in Uganda. The\npresent study was undertaken to ascertain the\nrelative prevalence of MRSA and its antibiotic\nsusceptibility in Mulago National Hospital\nin Kampala, Uganda. The objectives were to\ndetermine the prevalence of MRSA and to\ninvestigate the resistance patterns of the isolated\nMRSA strains for various antibiotics.\nMaterials and Methods\nStudy site\nThe study was conducted in Mulago National\nHospital in Kampala, Uganda. It is the Uganda’s\nlargest national referral, teaching and research\nhospital. It has an average inpatient of about\n120,000 and attends to over 480,000 outpatients\nand delivers about 27,000 mothers per year. The\nhospital has a bed capacity of 1500, handling\npatients in and around Kampala Capital City.\nThis study was performed to ﬁ nd the prevalence\nof MRSA infection from Surgical, Obstetrics\nand Gynaecology wards between February\nand May 2007. In this study, the isolation rate\nof coagulase positive Staphylococci was 28.7%\n(54/188) from pus swabs.\nLaboratory protocol\nIdentiﬁ cation of S. aureus was conﬁ rmed by\nstandard methods and susceptibility testing\nwas performed by disc diffusion on Mueller-\nHinton agar (Difco, USA) with 24-h incubation\nat 35°C. Interpretation criteria were those of the\nNational Committee for Clinical Laboratory\nStandards (2003). Resistance to oxacillin was\nconﬁ rmed by agar screen method using an\nagar plate containing 6g/ml of oxacillin and\nMueller-Hinton agar supplemented with NaCl \n(4% w/v; 0.68 mol/L). Susceptibility of isolated \nMRSA strains to gentamycin (10 g/disk),\ntrimethoprim-sulphamethoxazole \n(25 \ng/\ndisk) erythromycin (15 g/disk), clindamycin\n(2\ng/disk), chloramphenicol (30g/disk),\nciproﬂ oxacin (5 g/disk), and vancomycin (30 \ng/disk) were tested as well as a D-test done. \nThe clindamycin disk was placed at a standard \ndistance of 15 mm from the erythromycin disc. \nThe petri dish was then incubated at 35°C for \n18 hours. “D zone “of inhibition was seen with\nan inducible strain of MRSA (Jorgensen et al.,\n2004). All antibiotic disks were obtained from \n(Lioﬁ lchem-Roseto-Italy). ATCC 25923 was \nused as the control strain for identiﬁ cation and \nsusceptibility tests.\nData analysis\nStatistical analysis was performed using a \nChi-squared test and p-values less than 0.05 \nwere considered statistically signiﬁ cant. The\nstatistical analyses were performed by using \nSTATA software.\nEthical consideration\nA clearance from the Department Research\nCommittee, Faculty of Medicine Research and \nEthics Committee of the Makerere University,\nUganda was sought. In addition, a written \nconsent from participants was also obtained\nand the conﬁ dentiality of the information was \nguaranteed to the participants. Further still \npositive results were communicated to the\nSurgeon In-charge for management of patients.\nResults\nFifty four (28.7%) isolates of S. aureus were\nanalysed from 188 patients and 17(31.5%) \nwere MRSA isolates which were studied. \nThe most effective antibiotic against MRSA \nwas \nvancomycin \n(Table \n1). \nResistance \nto \ntrimethoprim/sulfamethoxazole,\nchloramphenicol \nand \nerythromycin \nwere \nhighest at 88.2%. Resistance to ciproﬂ axacin \nfrom the quinolone group and gentamycin was \n70.6% and 58.8%, respectively. All strains were \nresistant to penicillin (resistance rate: 100%). \nClindamycin sensitivity was found to be 100%, \nhowever, 82.4% of the isolates showed a positive\nD-test (Figure 1).\n",
+   "n_chars": 4158,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      54.7,
+      48.5,
+      536.6,
+      58.6
+     ],
+     "text": "Tanzania Journal of Health Research, Vol. 11, No. 3, July 2009\n150\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      80.2,
+      285.7,
+      250.7
+     ],
+     "text": "the commonly available antimicrobial agents.\nLately, it has become increasingly reported in\nmany countries that most hospital infections\ncaused by MRSA have become multi-drug\nresistant (Aribas et al., 2001; Unlu & Unlu,\n2001; Leclercq, 2002). For instance, MRSA\naccounts for nosocomial S. aureus infections in\nhospitals in the USA for up to 40% (Suntharam\net al., 2001, Anjali & Daum, 1999; Rodriguez &\nKhan, 1974). While in Europe, prevalence is 2-\n50% (Chambers, 2001), studies in eight African\nHospitals estimated the prevalence of MRSA to\nbe 30% (Kesah et al., 2003).\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      251.8,
+      285.7,
+      382.7
+     ],
+     "text": "There are no published studies on the\nprevalence of MRSA strains and their resistance\npatterns against antibiotics in Uganda. The\npresent study was undertaken to ascertain the\nrelative prevalence of MRSA and its antibiotic\nsusceptibility in Mulago National Hospital\nin Kampala, Uganda. The objectives were to\ndetermine the prevalence of MRSA and to\ninvestigate the resistance patterns of the isolated\nMRSA strains for various antibiotics.\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      397.0,
+      171.4,
+      409.1
+     ],
+     "text": "Materials and Methods\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      424.4,
+      285.7,
+      620.3
+     ],
+     "text": "Study site\nThe study was conducted in Mulago National\nHospital in Kampala, Uganda. It is the Uganda’s\nlargest national referral, teaching and research\nhospital. It has an average inpatient of about\n120,000 and attends to over 480,000 outpatients\nand delivers about 27,000 mothers per year. The\nhospital has a bed capacity of 1500, handling\npatients in and around Kampala Capital City.\nThis study was performed to ﬁ nd the prevalence\nof MRSA infection from Surgical, Obstetrics\nand Gynaecology wards between February\nand May 2007. In this study, the isolation rate\nof coagulase positive Staphylococci was 28.7%\n(54/188) from pus swabs.\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      635.6,
+      285.7,
+      765.5
+     ],
+     "text": "Laboratory protocol\nIdentiﬁ cation of S. aureus was conﬁ rmed by\nstandard methods and susceptibility testing\nwas performed by disc diffusion on Mueller-\nHinton agar (Difco, USA) with 24-h incubation\nat 35°C. Interpretation criteria were those of the\nNational Committee for Clinical Laboratory\nStandards (2003). Resistance to oxacillin was\nconﬁ rmed by agar screen method using an\nagar plate containing 6g/ml of oxacillin and\n"
+    },
+    {
+     "bbox": [
+      305.6,
+      80.2,
+      539.3,
+      303.5
+     ],
+     "text": "Mueller-Hinton agar supplemented with NaCl \n(4% w/v; 0.68 mol/L). Susceptibility of isolated \nMRSA strains to gentamycin (10 g/disk),\ntrimethoprim-sulphamethoxazole \n(25 \ng/\ndisk) erythromycin (15 g/disk), clindamycin\n(2\ng/disk), chloramphenicol (30g/disk),\nciproﬂ oxacin (5 g/disk), and vancomycin (30 \ng/disk) were tested as well as a D-test done. \nThe clindamycin disk was placed at a standard \ndistance of 15 mm from the erythromycin disc. \nThe petri dish was then incubated at 35°C for \n18 hours. “D zone “of inhibition was seen with\nan inducible strain of MRSA (Jorgensen et al.,\n2004). All antibiotic disks were obtained from \n(Lioﬁ lchem-Roseto-Italy). ATCC 25923 was \nused as the control strain for identiﬁ cation and \nsusceptibility tests.\n"
+    },
+    {
+     "bbox": [
+      305.6,
+      318.8,
+      539.3,
+      395.9
+     ],
+     "text": "Data analysis\nStatistical analysis was performed using a \nChi-squared test and p-values less than 0.05 \nwere considered statistically signiﬁ cant. The\nstatistical analyses were performed by using \nSTATA software.\n"
+    },
+    {
+     "bbox": [
+      305.6,
+      411.2,
+      539.3,
+      541.1
+     ],
+     "text": "Ethical consideration\nA clearance from the Department Research\nCommittee, Faculty of Medicine Research and \nEthics Committee of the Makerere University,\nUganda was sought. In addition, a written \nconsent from participants was also obtained\nand the conﬁ dentiality of the information was \nguaranteed to the participants. Further still \npositive results were communicated to the\nSurgeon In-charge for management of patients.\n"
+    },
+    {
+     "bbox": [
+      305.6,
+      555.4,
+      342.8,
+      567.5
+     ],
+     "text": "Results\n"
+    },
+    {
+     "bbox": [
+      305.5,
+      581.8,
+      539.3,
+      765.5
+     ],
+     "text": "Fifty four (28.7%) isolates of S. aureus were\nanalysed from 188 patients and 17(31.5%) \nwere MRSA isolates which were studied. \nThe most effective antibiotic against MRSA \nwas \nvancomycin \n(Table \n1). \nResistance \nto \ntrimethoprim/sulfamethoxazole,\nchloramphenicol \nand \nerythromycin \nwere \nhighest at 88.2%. Resistance to ciproﬂ axacin \nfrom the quinolone group and gentamycin was \n70.6% and 58.8%, respectively. All strains were \nresistant to penicillin (resistance rate: 100%). \nClindamycin sensitivity was found to be 100%, \nhowever, 82.4% of the isolates showed a positive\nD-test (Figure 1).\n"
+    }
+   ]
+  },
+  {
+   "page": 3,
+   "text": "151\nTanzania Journal of Health Research, Vol. 11, No. 3, July 2009\nTable1: Susceptibility pattern of methicilline resistant Staphylococcus areus isolates\nDrug\nSusceptibility pattern\nNo. isolates\n%\nCiproﬂ oxacin\nResistant\n12\n70.59\nSensitive\n5\n29.41\nVancomycin\nResistant\n0\n0\nSensitive\n17\n100\nClindamycin\nResistant\n0\n0\nSensitive\n17\n100\nGentamycin\nResistant\n10\n58.82\nSensitive\n7\n41.18\nSulfamethoxazole- Trimethroprim\nResistant\n15\n88.24\nSensitive\n2\n11.76\nChloramphenicol\nResistant\n15\n88.24\nSensitive\n2\n11.76\nErythromycin\nResistant\n15\n88.24\nSensitive\n2\n11.76\np y\nWhen gentamycin and ciproﬂ oxacin sensitivities\nto MRSA isolates were compared, 59% and 71%\nof the isolates were resistant, respectively.\nFigure 1:  Positive D-test for MRSA isolate\nDiscussion\nMany investigators have reported an increase\nin the incidence of MRSA during recent\nyears, most of which originated from wounds\n(pus) (Mansouri & Khaleghi, 1997; Vidhani\net al, 2001). Resistance to multiple antibiotics\namong the Staphylococci isolates in hospitals\nhas been recognized as one of the major\nchallenges in controlling hospital infections.\nThe pattern of bacterial resistance is important\nfor epidemiological and clinical purposes. The\nresults of the antimicrobial resistance pattern\ngive serious cause for concern because the\npredominant bacterial isolates were highly\nresistant to the commonly available antimicrobial\nagents. Recently, a substantial increase in the \nnumber of hospital infections due to MRSA \nhas been reported in many countries (Leclercq, \n2002; Kesah et al., 2003; Braun & Hassler, 2003).\nWe also found a high rate of MRSA isolates i.e. \n88.2% from the clinical specimens also showed\nmultiple drug resistance. In our study, MRSA \nisolates were resistant to most antibiotics tested. \nWe have observed in our study that resistance \nto different antibiotics among MRSA strains \nwas quite high.\nGentamycin, which was proposed to be \nan alternative therapy to MRSA infection, was \nfound to be still better in this part of the world \n(52.6%). This is perhaps due to the different \nclonal expansion and drug pressure in the \ncommunity. Another alternative to gentamycin\ntreatment of MRSA infections would\nbe\nclindamycin. However, due to cross resistance \nwith erythromycin for patients who\nhave\never been exposed to one drug, in this study,\nresistance was found to be high (82.4%).\nErythromycin \n(a \nmacrolide) \nand \nclindamycin (a lincosamide) represent two \ndistinct classes of antimicrobial agents that \ninhibit protein synthesis by binding to the 50S \nribosomal subunits of bacterial cells (Christine\net al, 2005).  In staphylococci, resistance to both \nof these antimicrobial agents can occur through\nmethylation of their ribosomal target site. \nThe target site modiﬁ cation mechanism, also \ncalled macrolide-lincosamide-streptograminB\nresistance, results in resistance to erythromycin,\nclindamycin, and streptogramin B. Therefore \nS. aureus isolates that test as resistant to\nerythromycin and susceptible to clindamycin can \nstillbe resistant to clindamycinby an inducible or \n",
+   "n_chars": 3057,
+   "n_images": 5,
+   "blocks": [
+    {
+     "bbox": [
+      54.4,
+      48.5,
+      536.6,
+      58.6
+     ],
+     "text": "151\nTanzania Journal of Health Research, Vol. 11, No. 3, July 2009\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      80.2,
+      481.3,
+      92.3
+     ],
+     "text": "Table1: Susceptibility pattern of methicilline resistant Staphylococcus areus isolates\n"
+    },
+    {
+     "bbox": [
+      60.1,
+      96.1,
+      463.9,
+      309.6
+     ],
+     "text": "Drug\nSusceptibility pattern\nNo. isolates\n%\nCiproﬂ oxacin\nResistant\n12\n70.59\nSensitive\n5\n29.41\nVancomycin\nResistant\n0\n0\nSensitive\n17\n100\nClindamycin\nResistant\n0\n0\nSensitive\n17\n100\nGentamycin\nResistant\n10\n58.82\nSensitive\n7\n41.18\nSulfamethoxazole- Trimethroprim\nResistant\n15\n88.24\nSensitive\n2\n11.76\nChloramphenicol\nResistant\n15\n88.24\nSensitive\n2\n11.76\nErythromycin\nResistant\n15\n88.24\nSensitive\n2\n11.76\n"
+    },
+    {
+     "bbox": [
+      345.6,
+      81.2,
+      365.3,
+      92.3
+     ],
+     "text": "p y\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      325.6,
+      285.7,
+      364.1
+     ],
+     "text": "When gentamycin and ciproﬂ oxacin sensitivities\nto MRSA isolates were compared, 59% and 71%\nof the isolates were resistant, respectively.\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      576.4,
+      267.3,
+      588.5
+     ],
+     "text": "Figure 1:  Positive D-test for MRSA isolate\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      602.8,
+      110.3,
+      614.9
+     ],
+     "text": "Discussion\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      629.2,
+      285.7,
+      812.9
+     ],
+     "text": "Many investigators have reported an increase\nin the incidence of MRSA during recent\nyears, most of which originated from wounds\n(pus) (Mansouri & Khaleghi, 1997; Vidhani\net al, 2001). Resistance to multiple antibiotics\namong the Staphylococci isolates in hospitals\nhas been recognized as one of the major\nchallenges in controlling hospital infections.\nThe pattern of bacterial resistance is important\nfor epidemiological and clinical purposes. The\nresults of the antimicrobial resistance pattern\ngive serious cause for concern because the\npredominant bacterial isolates were highly\nresistant to the commonly available antimicrobial\n"
+    },
+    {
+     "bbox": [
+      305.5,
+      325.9,
+      539.3,
+      470.0
+     ],
+     "text": "agents. Recently, a substantial increase in the \nnumber of hospital infections due to MRSA \nhas been reported in many countries (Leclercq, \n2002; Kesah et al., 2003; Braun & Hassler, 2003).\nWe also found a high rate of MRSA isolates i.e. \n88.2% from the clinical specimens also showed\nmultiple drug resistance. In our study, MRSA \nisolates were resistant to most antibiotics tested. \nWe have observed in our study that resistance \nto different antibiotics among MRSA strains \nwas quite high.\n"
+    },
+    {
+     "bbox": [
+      305.5,
+      471.1,
+      539.3,
+      615.2
+     ],
+     "text": "Gentamycin, which was proposed to be \nan alternative therapy to MRSA infection, was \nfound to be still better in this part of the world \n(52.6%). This is perhaps due to the different \nclonal expansion and drug pressure in the \ncommunity. Another alternative to gentamycin\ntreatment of MRSA infections would\nbe\nclindamycin. However, due to cross resistance \nwith erythromycin for patients who\nhave\never been exposed to one drug, in this study,\nresistance was found to be high (82.4%).\n"
+    },
+    {
+     "bbox": [
+      305.5,
+      616.3,
+      539.3,
+      813.2
+     ],
+     "text": "Erythromycin \n(a \nmacrolide) \nand \nclindamycin (a lincosamide) represent two \ndistinct classes of antimicrobial agents that \ninhibit protein synthesis by binding to the 50S \nribosomal subunits of bacterial cells (Christine\net al, 2005).  In staphylococci, resistance to both \nof these antimicrobial agents can occur through\nmethylation of their ribosomal target site. \nThe target site modiﬁ cation mechanism, also \ncalled macrolide-lincosamide-streptograminB\nresistance, results in resistance to erythromycin,\nclindamycin, and streptogramin B. Therefore \nS. aureus isolates that test as resistant to\nerythromycin and susceptible to clindamycin can \nstillbe resistant to clindamycinby an inducible or \n"
+    }
+   ]
+  },
+  {
+   "page": 4,
+   "text": "Tanzania Journal of Health Research, Vol. 11, No. 3, July 2009\n152\nconstitutive mechanism encoded by theermgene\nby methylation of the 23S rRNA. Erythromycin\nhas been found to be an effective inducer, yet\nclindamycin a weak inducer. Therefore, clinical\nfailure may ensue when clindamycin therapy is\ninstituted on patients who have taken or have\nbeen exposed to erythromycin (Christine et al,\n2005). In this study all isolates of MRSA showed\nsensitivity to clindamycin. However, 82.4% of \nthem were actually having inducible resistance\nto clindamycin. Recently, in a similar study in\nTanzania clindamycin inducible resistance was\nobserved in 61% of MRSA (Mshana et al., 2009).\nAs high as 82% inducible clindamycin resistance\nhas been reported in Kwa-Zulu Natal in South\nAfrica (Shiitu & Lin, 2006).\nSince, complete eradication of MRSA\nmay not be possible, control of transmission\nseems to be the appropriate goal. The efﬁ cacy\nof some controlling methods are widely\nrecognized and recommended by most authors.\nThe ﬁ rst and the most effective way among\nthese are to avoid transmission through hand\ncontamination by the person responsible for\ncaring the infected patients. The use of broad-\nspectrum antibiotics for treating infections also\nincreases the rate of MRSA and other resistant\nbacteria (Vidhani et al., 2001). Some patients\ncan be treated with clindamycin, but inducible\nresistance may occur in some strains that\nappear susceptible in broth susceptibility tests.\nTherefore chemotherapy should be guided by\nsensitivity of the probable causative organism\nthrough accurate detection of MRSA by clinical\nlaboratories as well as making a D-test a routine\nprocedure. A further large study with a large\nsample should be carried out to ﬁ nd antibiotic\nsusceptibility of MRSA in various hospitals in\nthe East African region.\n________________\nReceived 16 May 2009\nRevised 23 June 2009\nAccepted 24 June 2009\nReferences\nAnjali Jain, R. & Daum, S. (1999) Staphylococcal\ninfections in children. American Academy\nof Paediatrics.Review 20, 183-191.\nAribas, E.T., Ozcan, M. & Altindis, M. (2001)\nThe antibiotics resistance rates of\nStaphylococci isolated from various\nclinical specimens. Infek Derg 15, 73-77.\nBraun, R. & Hassler, D. (2003) Methicillin-\nresistant Staphylococcus aureus (MRSA)\ninfections spread in USA. Dtsch Med\nWochenschr 28, 855.\nChambers, \nH.F. \n(2001) \nThe \nchanging\nepidemiology of Staphylococcus aureus?\nEmerging Infectious Disease 7, 178-182.\nGorwitz, R.J., Jernigan, D.B., Powers, J.H., \nJernigan, J.A. and CDC Convened \nExperts’ \nMeeting \non \nManagement\nof MRSA in the Community (2006) \nStrategies for Clinical Management of \nMRSA in the Community: Summary of an \nexperts’ meeting convened by the Centers for \nDisease Control and Prevention. Available\nat http://www.cdc.gov/ncidod/dhqp/\nar_mrsa_ca.html.\nJan, M.B., Turnidge, J.D. & SENTRY APAC \nParticipants. (2002) High prevalence of \noxacillin-resistant Staphylococcus aureus\nisolates from hospitalized patients in \nAsia-Paciﬁ c and South Africa: results \nfrom SENTRY Antimicrobial Surveillance\nProgram, 1998-1999. Antimicrobial Agents \nand Chemotherapy 46, 879–881. \nJevons, \nM.P. \n(1961) \nCelbenin-resistant \nstaphylococci. British Medical Journal 1,\n124-125.\nJorgensen, J.H., Crawford, S.A., McElmeel,\nM.L. \n& \nFiebelkorn, \nK.R. \n(2004)\nDetection of Inducible Clindamycin\nResistance \nof \nStaphylococci \nin \nconjunction \nwith \nperformance \nof \nautomated broth susceptibility testing.\nJournal of Clinical Microbiology  42, 1800 \n- 1802. \nKesah, C., Redjeb, S.B., Odugbemi, T.O., Boye,\nCS-B., Dosso, M., Ndinya Achola, J.O., \nKoulla-Shiro, S., Benbachir, M., Rahal,\nK., & Borg, M. (2003) Prevalence of \nMethicillin-resistant\nStaphylococcus\naureus in eight African hospitals and \nMalta. Clinical Microbiology and  Infection \n9, 153-156.\nKloos, \nW.E. \n& \nSchleifer, \nK.H. \n(1986)\nStaphylococcus. In P. H. A. Sneath et \nal. (ed.), Bergey’s Manual of Systematic \nBacteriology, Vol. 2. The Williams and \nWilkins      Co., Baltimore, MD. 1013-\n1019.\nLeclercq, R. (2002) Staphylococci resistant to \nantibiotic therapy. Annales Francaises \nd’Anesthesie et de Reanimation 21, 375-83.\nMansouri, S. & Khaleghi, M. (1997) Antibacterial \nresistance pattern and frequency of\nMethicillin \nresistant\nStaphylococcus\n",
+   "n_chars": 4267,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      54.7,
+      48.5,
+      536.6,
+      58.6
+     ],
+     "text": "Tanzania Journal of Health Research, Vol. 11, No. 3, July 2009\n152\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      80.2,
+      288.5,
+      290.3
+     ],
+     "text": "constitutive mechanism encoded by theermgene\nby methylation of the 23S rRNA. Erythromycin\nhas been found to be an effective inducer, yet\nclindamycin a weak inducer. Therefore, clinical\nfailure may ensue when clindamycin therapy is\ninstituted on patients who have taken or have\nbeen exposed to erythromycin (Christine et al,\n2005). In this study all isolates of MRSA showed\nsensitivity to clindamycin. However, 82.4% of \nthem were actually having inducible resistance\nto clindamycin. Recently, in a similar study in\nTanzania clindamycin inducible resistance was\nobserved in 61% of MRSA (Mshana et al., 2009).\nAs high as 82% inducible clindamycin resistance\nhas been reported in Kwa-Zulu Natal in South\nAfrica (Shiitu & Lin, 2006).\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      291.4,
+      285.7,
+      638.9
+     ],
+     "text": "Since, complete eradication of MRSA\nmay not be possible, control of transmission\nseems to be the appropriate goal. The efﬁ cacy\nof some controlling methods are widely\nrecognized and recommended by most authors.\nThe ﬁ rst and the most effective way among\nthese are to avoid transmission through hand\ncontamination by the person responsible for\ncaring the infected patients. The use of broad-\nspectrum antibiotics for treating infections also\nincreases the rate of MRSA and other resistant\nbacteria (Vidhani et al., 2001). Some patients\ncan be treated with clindamycin, but inducible\nresistance may occur in some strains that\nappear susceptible in broth susceptibility tests.\nTherefore chemotherapy should be guided by\nsensitivity of the probable causative organism\nthrough accurate detection of MRSA by clinical\nlaboratories as well as making a D-test a routine\nprocedure. A further large study with a large\nsample should be carried out to ﬁ nd antibiotic\nsusceptibility of MRSA in various hospitals in\nthe East African region.\n________________\nReceived 16 May 2009\nRevised 23 June 2009\nAccepted 24 June 2009\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      653.8,
+      109.7,
+      665.9
+     ],
+     "text": "References\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      680.2,
+      285.7,
+      692.3
+     ],
+     "text": "Anjali Jain, R. & Daum, S. (1999) Staphylococcal\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      693.4,
+      285.7,
+      731.9
+     ],
+     "text": "infections in children. American Academy\nof Paediatrics.Review 20, 183-191.\nAribas, E.T., Ozcan, M. & Altindis, M. (2001)\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      733.0,
+      285.8,
+      784.7
+     ],
+     "text": "The antibiotics resistance rates of\nStaphylococci isolated from various\nclinical specimens. Infek Derg 15, 73-77.\nBraun, R. & Hassler, D. (2003) Methicillin-\n"
+    },
+    {
+     "bbox": [
+      90.7,
+      785.8,
+      285.7,
+      811.4
+     ],
+     "text": "resistant Staphylococcus aureus (MRSA)\ninfections spread in USA. Dtsch Med\n"
+    },
+    {
+     "bbox": [
+      305.6,
+      80.2,
+      539.3,
+      146.3
+     ],
+     "text": "Wochenschr 28, 855.\nChambers, \nH.F. \n(2001) \nThe \nchanging\nepidemiology of Staphylococcus aureus?\nEmerging Infectious Disease 7, 178-182.\nGorwitz, R.J., Jernigan, D.B., Powers, J.H., \n"
+    },
+    {
+     "bbox": [
+      305.6,
+      147.7,
+      539.4,
+      281.3
+     ],
+     "text": "Jernigan, J.A. and CDC Convened \nExperts’ \nMeeting \non \nManagement\nof MRSA in the Community (2006) \nStrategies for Clinical Management of \nMRSA in the Community: Summary of an \nexperts’ meeting convened by the Centers for \nDisease Control and Prevention. Available\nat http://www.cdc.gov/ncidod/dhqp/\nar_mrsa_ca.html.\nJan, M.B., Turnidge, J.D. & SENTRY APAC \n"
+    },
+    {
+     "bbox": [
+      305.6,
+      282.7,
+      539.3,
+      433.3
+     ],
+     "text": "Participants. (2002) High prevalence of \noxacillin-resistant Staphylococcus aureus\nisolates from hospitalized patients in \nAsia-Paciﬁ c and South Africa: results \nfrom SENTRY Antimicrobial Surveillance\nProgram, 1998-1999. Antimicrobial Agents \nand Chemotherapy 46, 879–881. \nJevons, \nM.P. \n(1961) \nCelbenin-resistant \nstaphylococci. British Medical Journal 1,\n124-125.\nJorgensen, J.H., Crawford, S.A., McElmeel,\n"
+    },
+    {
+     "bbox": [
+      305.5,
+      435.2,
+      539.3,
+      545.3
+     ],
+     "text": "M.L. \n& \nFiebelkorn, \nK.R. \n(2004)\nDetection of Inducible Clindamycin\nResistance \nof \nStaphylococci \nin \nconjunction \nwith \nperformance \nof \nautomated broth susceptibility testing.\nJournal of Clinical Microbiology  42, 1800 \n- 1802. \nKesah, C., Redjeb, S.B., Odugbemi, T.O., Boye,\n"
+    },
+    {
+     "bbox": [
+      305.5,
+      547.2,
+      539.3,
+      741.3
+     ],
+     "text": "CS-B., Dosso, M., Ndinya Achola, J.O., \nKoulla-Shiro, S., Benbachir, M., Rahal,\nK., & Borg, M. (2003) Prevalence of \nMethicillin-resistant\nStaphylococcus\naureus in eight African hospitals and \nMalta. Clinical Microbiology and  Infection \n9, 153-156.\nKloos, \nW.E. \n& \nSchleifer, \nK.H. \n(1986)\nStaphylococcus. In P. H. A. Sneath et \nal. (ed.), Bergey’s Manual of Systematic \nBacteriology, Vol. 2. The Williams and \nWilkins      Co., Baltimore, MD. 1013-\n1019.\nLeclercq, R. (2002) Staphylococci resistant to \n"
+    },
+    {
+     "bbox": [
+      305.6,
+      743.2,
+      539.3,
+      783.3
+     ],
+     "text": "antibiotic therapy. Annales Francaises \nd’Anesthesie et de Reanimation 21, 375-83.\nMansouri, S. & Khaleghi, M. (1997) Antibacterial \n"
+    },
+    {
+     "bbox": [
+      341.6,
+      784.7,
+      536.6,
+      810.3
+     ],
+     "text": "resistance pattern and frequency of\nMethicillin \nresistant\nStaphylococcus\n"
+    }
+   ]
+  },
+  {
+   "page": 5,
+   "text": "153\nTanzania Journal of Health Research, Vol. 11, No. 3, July 2009\naureus . Iran Journal of Medical Sciences\n22:93.\nMshana, S.E., Kamugisha, E., Mirambo, M., \nChalya, P., Rambau, P., Mahalu, W. \n& Lyamuya, E. (2009) Prevalence of \nclindamycin inducible resistance among \nmethicillin-resistant\nStaphylococcus\naureus\nat Bugando Medical Centre, \nMwanza, Tanzania. Tanzania Journal of\nHealth Research 11, 60-65.\nNational Committee for Clinical Laboratory\nStandards. \nMethods \nfor \nDilution \nAntimicrobial \nSusceptibility \nTests \nfor Bacteria that Grow Aerobically:\nApproved Standard M7-A6. NCCLS, \nWayne, PA, USA, 2003\nNational Committee for Clinical Laboratory\nStandards. Performance standards for\nantimicrobial disc susceptibility tests. \nApproved standard. M2-A6. NCCLS, \n6th ed. Wayne, PA: 1997.\nRichet HM, Mohammed, J., McDonald, L.C, \nJavis, W.R. & INSPEAR (2001) Building\nCommunication networks: International\nnetwork for the study and prevention \nof emerging antimicrobial resistance. \nEmerging Infectious Diseases 7,319-322\nnetworks: International network\nfor\nthe study and prevention of emerging \nantimicrobial \nresistance.\nEmerging\nInfectious Diseases 7: 319-22.\nRodriguez, W. & Khan, W. (1974) Staphylococcal\nsusceptibility to penicillin G: The \nchanging pattern among community\nisolates.\nJournal of American Medical \nAssociation 229, 1075-1077.\nShiitu, A.O. & Lin, J. (2006) Antimicrobial \nsusceptibility \npatterns \nand \ncharacterization of clinical isolates of\nStaphylococcus aureus in Kwa Zulu-Natal\nProvince, South Africa. BMC Infectious \nDiseases 6, 2334-2336.\nStefani, S. & Varaldo, P.E. (2003) Epidemiology\nof methicillin-resistant staphylococci\nin Europe. Clinical and  Microbiology \nInfections 9, 1179-1186.\nSteward, C.D., Raney, P.M., Morrell, A.K., \nWilliams, P.P., McDougal, L.K., Jevitt, \nL., McGowan, J.E. & Tenover, F.C. (2005) \nTesting for induction of clindamycin\nresistance \nin \nerythromycin-resistant\nisolates of Staphylococcus aureus. Journal\nof Clinical Microbiology 43, 1716–1721.\nSuntharam, N., Hacek, D. & Peterson, L.R. (2001)\nLow Prevalence of     community-acquired\nmethicillin-resistant\nStaphylococcus\naureus in adults at a University Hospital\nin the Central United States. Journal of\nClinical Microbiology 39, 1669–1671.\nSzewczyk, E.M., Piotrowski, A., Rozalska, M. \n(2000) Predominant staphylococci in \nthe intensive care unit of a paediatric\nhospital. Journal of Hospital  Infections 45,\n145-154.\nUnlu, G. & Unlu, M. (2001) Aminoglycosides\nsusceptibility of Staphylococcus aureus\nstrains    isolated from wound specimens.\nInfek Derg 15, 239-242.\nVidhani, S., Mehndiratta, P.L. & Mathur, M.D. \n(2001) Study of Methicillin resistant \nS. aureus (MRSA) isolates from high\nrisk patients. Indian Journal of Medical \nMicrobiology19, 13-16.\n",
+   "n_chars": 2771,
+   "n_images": 0,
+   "blocks": [
+    {
+     "bbox": [
+      54.4,
+      48.5,
+      536.6,
+      58.6
+     ],
+     "text": "153\nTanzania Journal of Health Research, Vol. 11, No. 3, July 2009\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      80.2,
+      288.5,
+      118.3
+     ],
+     "text": "aureus . Iran Journal of Medical Sciences\n22:93.\nMshana, S.E., Kamugisha, E., Mirambo, M., \n"
+    },
+    {
+     "bbox": [
+      54.7,
+      119.0,
+      288.5,
+      220.7
+     ],
+     "text": "Chalya, P., Rambau, P., Mahalu, W. \n& Lyamuya, E. (2009) Prevalence of \nclindamycin inducible resistance among \nmethicillin-resistant\nStaphylococcus\naureus\nat Bugando Medical Centre, \nMwanza, Tanzania. Tanzania Journal of\nHealth Research 11, 60-65.\nNational Committee for Clinical Laboratory\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      221.4,
+      288.5,
+      297.5
+     ],
+     "text": "Standards. \nMethods \nfor \nDilution \nAntimicrobial \nSusceptibility \nTests \nfor Bacteria that Grow Aerobically:\nApproved Standard M7-A6. NCCLS, \nWayne, PA, USA, 2003\nNational Committee for Clinical Laboratory\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      298.2,
+      288.5,
+      361.5
+     ],
+     "text": "Standards. Performance standards for\nantimicrobial disc susceptibility tests. \nApproved standard. M2-A6. NCCLS, \n6th ed. Wayne, PA: 1997.\nRichet HM, Mohammed, J., McDonald, L.C, \n"
+    },
+    {
+     "bbox": [
+      54.7,
+      362.2,
+      288.5,
+      489.5
+     ],
+     "text": "Javis, W.R. & INSPEAR (2001) Building\nCommunication networks: International\nnetwork for the study and prevention \nof emerging antimicrobial resistance. \nEmerging Infectious Diseases 7,319-322\nnetworks: International network\nfor\nthe study and prevention of emerging \nantimicrobial \nresistance.\nEmerging\nInfectious Diseases 7: 319-22.\nRodriguez, W. & Khan, W. (1974) Staphylococcal\n"
+    },
+    {
+     "bbox": [
+      54.7,
+      490.2,
+      288.5,
+      553.5
+     ],
+     "text": "susceptibility to penicillin G: The \nchanging pattern among community\nisolates.\nJournal of American Medical \nAssociation 229, 1075-1077.\nShiitu, A.O. & Lin, J. (2006) Antimicrobial \n"
+    },
+    {
+     "bbox": [
+      305.6,
+      80.2,
+      539.3,
+      158.3
+     ],
+     "text": "susceptibility \npatterns \nand \ncharacterization of clinical isolates of\nStaphylococcus aureus in Kwa Zulu-Natal\nProvince, South Africa. BMC Infectious \nDiseases 6, 2334-2336.\nStefani, S. & Varaldo, P.E. (2003) Epidemiology\n"
+    },
+    {
+     "bbox": [
+      305.6,
+      159.4,
+      539.4,
+      211.1
+     ],
+     "text": "of methicillin-resistant staphylococci\nin Europe. Clinical and  Microbiology \nInfections 9, 1179-1186.\nSteward, C.D., Raney, P.M., Morrell, A.K., \n"
+    },
+    {
+     "bbox": [
+      305.6,
+      212.2,
+      539.3,
+      303.5
+     ],
+     "text": "Williams, P.P., McDougal, L.K., Jevitt, \nL., McGowan, J.E. & Tenover, F.C. (2005) \nTesting for induction of clindamycin\nresistance \nin \nerythromycin-resistant\nisolates of Staphylococcus aureus. Journal\nof Clinical Microbiology 43, 1716–1721.\nSuntharam, N., Hacek, D. & Peterson, L.R. (2001)\n"
+    },
+    {
+     "bbox": [
+      305.6,
+      304.6,
+      539.3,
+      382.7
+     ],
+     "text": "Low Prevalence of     community-acquired\nmethicillin-resistant\nStaphylococcus\naureus in adults at a University Hospital\nin the Central United States. Journal of\nClinical Microbiology 39, 1669–1671.\nSzewczyk, E.M., Piotrowski, A., Rozalska, M. \n"
+    },
+    {
+     "bbox": [
+      305.6,
+      383.8,
+      539.3,
+      448.7
+     ],
+     "text": "(2000) Predominant staphylococci in \nthe intensive care unit of a paediatric\nhospital. Journal of Hospital  Infections 45,\n145-154.\nUnlu, G. & Unlu, M. (2001) Aminoglycosides\n"
+    },
+    {
+     "bbox": [
+      305.5,
+      449.8,
+      539.3,
+      501.5
+     ],
+     "text": "susceptibility of Staphylococcus aureus\nstrains    isolated from wound specimens.\nInfek Derg 15, 239-242.\nVidhani, S., Mehndiratta, P.L. & Mathur, M.D. \n"
+    },
+    {
+     "bbox": [
+      341.5,
+      502.6,
+      539.4,
+      554.3
+     ],
+     "text": "(2001) Study of Methicillin resistant \nS. aureus (MRSA) isolates from high\nrisk patients. Indian Journal of Medical \nMicrobiology19, 13-16.\n"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1790 @@
+
+
+===== PAGE 1 =====
+
+SAGE Open Medicine
+Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons  
+Attribution-NonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, 
+reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open 
+Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+https://doi.org/10.1177/20503121231172345
+SAGE Open Medicine
+Volume 11: 1­–13
+© The Author(s) 2023
+Article reuse guidelines: 
+sagepub.com/journals-permissions
+DOI: 10.1177/20503121231172345
+journals.sagepub.com/home/smo
+Introduction
+Surgical site infection (SSI) is an infection that occurs after 
+surgery in the part of the body where the surgery took place 
+due to contamination during the time of the operation.1,2 It is 
+the most common postoperative complication worldwide, 
+representing a major burden for patients and health systems.3 
+The infection causes a significant amount of morbidity and 
+mortality among patients, particularly those who live in low 
+resource areas.4 SSIs occur within 30 days after the operative 
+Incidence of surgical site infection,  
+bacterial isolate, and their antimicrobial 
+susceptibility pattern among patients who 
+underwent surgery at Dessie Comprehensive 
+Specialized Hospital, Northeast Ethiopia
+Abdurrahman Ali1, Daniel Gebretsadik1
+ and Kassu Desta2
+Abstract
+Objective: Surgical site infection is the most common postoperative complication worldwide, representing a major burden 
+for patients and health systems. The aim of the study is to determine the incidence and bacterial profile that cause surgical 
+site infection among patients who underwent surgery in parts of Northeast Ethiopia.
+Methods: A health facility-based cross-sectional study was conducted in Dessie Comprehensive Specialized Hospital from 
+July 22 to October 25, 2016. A total of 338 patients from the obstetrics and gynecology and general surgical wards were 
+included, through consecutive sampling technique. The specimens were collected aseptically on the first day when the 
+patients had presented with clinical evidence of infection and then sent to the microbiology laboratory. The data were 
+entered and analyzed by SPSS version 20, and the results were explained by frequency distribution in tables and figures.
+Results: The majority of participants were female (74.3%) and more than half (61.2%) of the surgeries were performed in 
+the gynecology and obstetrics ward. Clinically, 49 patients (14.5%) were diagnosed as developing surgical site infection, and 
+wound swabs were taken for bacteriological study. About 41 (83.7%) swabs showed bacterial growth, indicating 12.13% 
+overall prevalence of bacterial surgical site infection. Out of 48 bacterial isolates, more than half (56.25%) of them were 
+Gram negative. The most frequent isolate was Staphylococcus aureus, 14 (66.67%), followed by Escherichia coli, 9 (33.33%). 
+Out of the total bacterial isolates, 38 (79.2%) isolates were found to be multidrug resistant, and the rate of multidrug 
+resistant was higher among Gram-negative isolates.
+Conclusion: An average rate of surgical site infection was found to be reported and significant numbers of bacterial isolates 
+were also detected. The highest rate of surgical site infection was reported in prostate surgery, followed by small bowel, 
+vaginal hysterectomy, and exploratory laparotomy surgical procedures. Periodic surveillance on the incidence rate and 
+bacterial profile along with the determination of their antibiotic susceptibility should be performed.
+Keywords
+Incidence, surgical site infection, bacteria, antimicrobial resistance, Ethiopia
+Date received: 29 November 2022; accepted: 11 April 2023
+1Department of Medical Laboratory Science, College of Medicine and 
+Health Sciences, Wollo University, Dessie, Ethiopia
+2Department of Medical Laboratory Sciences, School of Allied Health 
+Sciences, College of Health Science, Addis Ababa University, Addis 
+Ababa, Oromia, Ethiopia
+Corresponding author:
+Daniel Gebretsadik, Department of Medical Laboratory Science, College 
+of Medicine and Health Sciences, Wollo University, P.O. Box 1145, 
+Dessie, 1145, Ethiopia. 
+Email: gebretsadikd@gmail.com
+1172345 SMO0010.1177/20503121231172345SAGE Open MedicineAli et al.
+research-article2023
+Original Article
+
+
+===== PAGE 2 =====
+
+2	
+SAGE Open Medicine
+procedure (except in the case of added implants, when the 
+duration extends to 1 year from the operation).2,5 In order to 
+minimize the chance of occurrence of SSI, the patient, the 
+healthcare providers, and other stakeholders should be aware 
+of and implement the different preventive measures before 
+and after the surgical procedures.2,6
+In different parts of the world, varied proportions of SSI 
+have been reported so far. A global, multicenter study across 
+66 countries including low-income, middle-income, and 
+high-income countries indicated that the overall incidence of 
+SSI was 12.3%.7 Among study participants in Sierra Leone, 
+the incidence of SSI reported was 11.5%.8 A systematic 
+review and meta-analysis in sub-Saharan Africa indicated 
+that the pooled incidence of SSI was 14.8%.9 A relatively 
+low incidence rate of SSI was revealed in a study conducted 
+in China.10 In Ethiopia, a similar study revealed the overall 
+incidence of SSI to be 21.1%.11 The incidence of SSI in these 
+studies showed that the problem is still worsening in devel-
+oping countries compared to developed countries. A study 
+conducted in low- and middle-income countries showed 
+another rationale for the increasing burden of SSI in wide 
+areas of those regions as well as globally.12 In different parts 
+of the world, either elective or emergent types of surgery 
+have been performed at various points in time. In each of 
+these surgery types, various surgical procedures have been 
+accomplished successfully. But the bad scenario is that 
+patients who undergo these surgical procedures are highly 
+vulnerable to SSI.13–15 These SSIs can be reduced while we 
+comply with infection prevention practices; this was demon-
+strated by the reduction of SSIs during COVID-19, which 
+included compliance with hand hygiene, universal mask 
+usage, and social distancing practices.16,17
+In many studies in various locations, a variety of different 
+bacterial pathogens are responsible for causing infection in 
+the surgical area. The majority of studies concluded that 
+Gram-negative pathogens are the primary cause of infec-
+tion.8,11,18–20 The frequently isolated Gram-negative bacterial 
+pathogens are Escherichia coli, Klebsiella species, 
+Pseudomonas species, and Proteus species.11,19 Although 
+Gram-positive bacterial pathogens are not the dominant iso-
+lates in general, but specifically some species like 
+Staphylococcus aureus, coagulase-negative Staphylococcus 
+(CoNS), and Streptococcus species were considered as the 
+cause of devastating effect on the patients.11,19,21 These path-
+ogens are exhibiting a prominent level of antibiogram resist-
+ance against the tested drugs.22,23
+In Ethiopia, limited studies have been conducted on SSI 
+and different outputs have also been forwarded about the dif-
+ferent aspects of the problem.11,24–26 But still, there is a pau-
+city of research on SSI in the country, particularly in the 
+northeastern part of Ethiopia. As a result, the current study 
+was carried out to fill this research gap by determining the 
+prevalence of bacterial infection with their antibiograms in 
+the country’s northeastern region. The study provided the 
+bacterial profile that can cause infection at surgical wards in 
+the health facility. It also provided the health facility’s 
+stakeholders and physicians the spectrum of the problem. 
+The result of the current study rings an alarm for the antimi-
+crobial stewardship activities in all cases of bacterial infec-
+tion in the health facilities.
+Methods
+Study area, period, and design
+From July 22 to October 25, 2016, a hospital-based cross-
+sectional study was conducted at Dessie Comprehensive 
+Specialized Hospital (DCSH). The hospital is situated in 
+South Wollo Zone, Amhara Region, Northeast Ethiopia, and 
+it is the only referral hospital in Wollo Province, which serves 
+about 8 million people including the neighboring regions. The 
+hospital has more than 200 beds and offers different special-
+ized services, including pediatrics, surgery, obstetrics and 
+gynecology, orthopedics, and internal medicine. On average, 
+about 10 major operations are performed per day.
+Population
+All patients who underwent surgery at the hospital were con-
+sidered as the source population. All patients from obstetrics 
+and gynecology and general surgical wards who underwent 
+clean and clean contaminated surgeries during the study period 
+were taken as the study population. Patients who were admit-
+ted to obstetrics and gynecology and general surgical wards for 
+surgery and underwent clean or clean contaminated surgeries 
+and/or those who were willing to give informed consent to par-
+ticipate in this study were included. Patients with infection 
+occurring 30 days after the operation if no implant was in place, 
+infection on the episiotomy, contaminated wounds, procedures 
+in which healthy skin was not incised, such as opening 
+abscesses, pediatrics below the age of 15 years, and orthopedic 
+surgeries were not included in this study.
+Sample size and sampling technique
+In this study, a total of 338 patients from the obstetrics and 
+gynecology and general surgical wards who fulfilled the 
+inclusion criteria during the study period were included. A 
+consecutive sampling technique was employed to select the 
+study subjects.
+We have considered 95% confidence interval, 11.4% pre-
+vious prevalence,27 and 4% margin of error (d)
+n
+Z
+p
+p
+d
+ 
+ 
+ 
+=
+−
+(
+) ×
+(
+)
+α/2
+2
+2
+1
+n =
+×
+−
+(
+)
+(
+)
+[
+]
+ 1 96
+0 114 1 0 114
+0 04
+2
+2
+.
+.
+.
+.
+n = 243
+
+
+===== PAGE 3 =====
+
+Ali et al.	
+3
+By adding 10% contingency, the final minimum calcu-
+lated sample size became 268. In order to increase the repre-
+sentativeness of the study, we enrolled 338 study subjects 
+that had visited the hospital during the study period.
+Data collection
+Data regarding the study participants were collected through 
+the reviewing of the patient’s card and through microbiologi-
+cal techniques. The reviewed data were collected by the phy-
+sician from the patient card, and the data collectors were 
+requesting the patients themselves for confirmation. The 
+microbiological data (information) were obtained via the 
+laboratory analysis of a swab from the wound site.
+Specimen collection
+The specimens were collected aseptically on the first day 
+when the patients presented with clinical evidence of infec-
+tion (purulent drainage from the incision or drain) before the 
+wound was cleaned with antiseptic. SSI cases were defined 
+by surgical and obstetrics and gynecology residents who had 
+provided adequate information regarding the CDC SSI crite-
+ria. The samples were collected by experienced nurses, from 
+the depth of the wound with strict aseptic precautions with 
+the help of sterile cotton swab sticks moistened with sterile 
+saline for bacteriological examination. Two swabs from each 
+sample were obtained, one for the direct smear study and the 
+other for an aerobic culture, which was immediately sent 
+(with a maximum delay of 20 mins) to the Amhara Public 
+Health Institute (APHI)—Dessie branch in a separate sterile 
+test tube for investigation.
+Laboratory investigation
+First direct microscopic examination was done via Gram 
+staining technique to look for pus cells and the bacteria. The 
+first swab was used for making a smear by rolling the swab 
+stick on a clean glass slide, which was then alcohol fixed and 
+stained by the Gram staining technique following the standard 
+operating procedure (SOP). The Gram-stained smear was 
+examined under a microscope and the bacteria were broadly 
+classified into cocci and bacilli, Gram positive or Gram nega-
+tive. This report was then correlated with the growth on the 
+culture plates after 24–48 h. The second swab was inoculated 
+on sheep blood agar and MacConkey agar as well as Mannitol 
+salt agar and incubated at 37°C for 24–48 h under aerobic con-
+ditions. The culture media were prepared by following the 
+manufacturer’s instructions as well as inputs from SOPs.28 
+Then, identification of the growth was performed by studying 
+the morphology of the colonies; smear from pure colonies 
+were prepared and stained with Gram stain; and a microscopic 
+examination was performed to aid the identification process. 
+When there was a mixed growth, colonies of different mor-
+phological characteristics were subcultured on appropriate 
+media in order to obtain a pure colony. The isolated bacteria 
+were further microbiologically identified by using the rele-
+vant biochemical tests. The test for antibiotic susceptibility 
+was performed by using the Kirby–Bauer disc diffusion 
+method on Mueller–Hinton agar using antibiotics according 
+to the Clinical and Laboratory Standards Institute (CLSI) 
+guideline.29 The Mueller–Hinton agar was enriched with 5% 
+sheep blood in the case of fastidious bacteria like 
+Streptococcus species. Several isolated colonies of similar 
+morphology were taken carefully and suspended in sterile 
+nutrient broth and/or sterile normal saline. The suspension 
+was then gently agitated to get a uniform suspension and the 
+turbidity of the suspension was matched with the McFarland 
+0.5% barium sulfate opacity standard. A sterile swab was 
+dipped into the suspension of the isolate, squeezed against 
+the side of the tube to remove excess fluid and spread over 
+the Mueller–Hinton agar plate following the SOP. Sensitivity 
+discs for appropriate drugs were placed on the media and 
+incubated at 37°C for 24 h.9 The final identification of the 
+bacteria was made by taking into account the results of the 
+various biochemical tests. Antibiotic susceptibility patterns 
+were reported by measuring the zone of inhibition on a mil-
+limeter scale. The antibiotic discs were reported as suscepti-
+ble, intermediate, susceptible-dose dependent, and resistant, 
+based on the criteria provided by CLSI document M100-S24. 
+We have used two 150 mm antimicrobial susceptibility testing 
+(AST) plates for each of the Gram-positive bacterial isolate.
+Methicillin resistance for S. aureus and CoNS was deter-
+mined by a disc diffusion test using a cefoxitin (30 μg) disc 
+on Mueller–Hinton agar. Plates were incubated and main-
+tained at 33–35°C for 24 h. Results were interpreted accord-
+ing to CLSI guidelines, that is, for S. aureus and CoNS, zone 
+diameters ⩽21 and ⩽24 mm, respectively, were considered 
+resistant to methicillin. Extended Spectrum Beta-Lactamases 
+(ESBL) production was screened on Mueller–Hinton agar 
+with a 30 μg ceftriaxone disc, and isolates with zone diame-
+ters of ⩽25 mm were considered positive for ESBL screen-
+ing according to CLSI guidelines and confirmed using the 
+double disc approximation method. Discs containing ceftazi-
+dime (30 μg) and cefotaxime (30 μg) were placed 20 mm 
+center-to-center with the amoxicillin/clavulanate (20/10 μg) 
+disc. The plate was then incubated at 37°C for 18–20 h. An 
+enhanced zone of inhibition toward the amoxicillin/clavula-
+nate (20/10 μg) disc was considered positive for ESBL pro-
+duction.30 
+Multidrug-resistant 
+(MDR) 
+bacteria 
+were 
+identified based on the ECDC definition, in which a bacte-
+rium is classified as MDR when the isolate is non-suscepti-
+ble to at least one agent in three or more antimicrobial 
+categories.31 For Gram-positive organisms, susceptibility 
+was tested against penicillin (10 units), ampicillin (10 μg), 
+ceftriaxone (30 μg), vancomycin (30 μg), gentamicin (10 μg), 
+erythromycin (15 μg), tetracycline (30 μg), ciprofloxacin 
+(5 μg), clindamycin (2 μg), trimethoprim/sulfamethoxazole 
+(1.25/23.75 μg), tetracycline (30 μg), cefoxitin (30 μg), 
+cefepime (30 μg), and chloramphenicol (30 μg). Gram-negative 
+
+
+===== PAGE 4 =====
+
+4	
+SAGE Open Medicine
+organisms were tested against ampicillin (10 μg), amoxicillin/
+clavulanate (20/10 μg), ceftriaxone (30 μg), ceftazidime 
+(30 μg), gentamicin (10 μg), ciprofloxacin (5 μg), trimetho-
+prim/sulfamethoxazole (1.25/23.75 μg), piperacillin (100 μg), 
+cefepime (30 μg), cefoxitin (30 μg), and amikacin (30 μg).
+Quality control
+The reliability of the laboratory test results was ensured by 
+implementing quality control measures throughout the whole 
+processes of the laboratory work. All materials, equipment, 
+and procedures were adequately controlled. Aseptic tech-
+niques were followed in all the steps of specimen collection 
+and inoculation onto culture media to minimize contamina-
+tion. All the culture media were prepared according to the 
+manufacturer’s instruction. SOPs for sample collection, 
+transport, culture, and susceptibility testing of the isolated 
+organisms were followed to ensure procedural quality. 
+International control bacterial strains were used in control-
+ling the tests carried out in this study. Qualities of the culture 
+media, antibiotic discs, as well as personal performance, 
+were controlled by reference strains, such as E. coli American 
+Type Culture Collection (ATCC) 25922, S. aureus ATCC 
+25923, and Pseudomonas aeruginosa ATCC 27853.
+Statistical analysis.  The data were entered and analyzed by 
+SPSS version 20 and the results were explained by frequency 
+distribution in tables and different figures. Descriptive anal-
+ysis like simple frequency and cross tabulation were per-
+formed in order to obtain the distribution of data.
+Ethical considerations
+Ethical clearance was obtained from the Ethical Review 
+Committee of Addis Ababa University, College of Health 
+Science, Department of Medical Laboratory Sciences. 
+Written permission to conduct the study in DCSH and APHI, 
+Dessie Branch, was requested from the administrators of 
+both institutions. Written informed consent was obtained 
+from the subjects and legally authorized representative of the 
+minor subjects for participation in the study. Information 
+about the study was given to the participants to ensure they 
+had the necessary information to provide informed consent. 
+Appropriate counseling and assurance of confidentiality 
+were given to participants with worries and anxiety about the 
+study. The study participants’ laboratory results were com-
+municated to the attending physician for use in guiding 
+patients’ management.
+Results
+Sociodemographic characteristic of the study 
+participants
+Overall, a total of 338 patients who fulfilled the inclusion cri-
+teria were enrolled in this study and the majority of them 
+were female (74.3%). More than half (61.2%) of the surgeries 
+were performed in the gynecology and obstetrics ward, while 
+the rest 38.8 % were in general surgery. Participants in the 
+study ranged in age from 16 to 76 years old, with a mean age 
+of 35.25 ± 15.07 years. The majority of study participants 
+(42.6%) were between the ages of 25 and 34 years (Table 1).
+Culture results
+Forty-nine (14.5%) of the total study subjects were clinically 
+diagnosed with SSI, and wound swabs were collected from 
+these patients for bacteriological testing. Bacterial growth 
+was detected in 41 (83.7%) of the 49 wound swabs, resulting 
+in a 12.13% overall prevalence of bacterial SSI. Single bac-
+teria were isolated from 34 (82.9%) of the samples with bac-
+terial growth, whereas the remaining seven (17.1%) of the 
+samples showed mixed bacterial growth. Out of 48 bacterial 
+isolates, more than half (56.25%) of them were Gram nega-
+tive (Table 2).
+The rate and distribution of SSI
+The rate of SSI was 16.8% and 9.2% in the general surgical 
+ward and the obstetrics and gynecology ward, respectively. 
+Among the procedures, the highest rate of SSI was found in 
+prostate surgery (PRST), followed by small bowel (SB), 
+vaginal hysterectomy (VHYS), and exploratory laparotomy 
+(XLAP) with their respective rates of 22.2%, 21.1%, 20%, 
+and 18.8% (Table 3).
+Bacterial etiology of SSI
+The most predominant isolate among Gram-positive bacteria 
+was S. aureus (n = 14; 66.67%), followed by CoNS (n = 4; 
+Table 1.  Sociodemographic characteristics of the study 
+participants in DCSH, from July 22 to October 25, 2016.
+Variables
+No
+%
+Sex of the participant
+  Male
+87
+25.7
+  Female
+251
+74.3
+Ward type
+  General surgery
+131
+38.8
+  Gynecology and obstetrics
+207
+61.2
+Residence
+  Rural
+164
+48.5
+  Urban
+174
+51.5
+Age in years
+  15–24
+74
+21.9
+  25–34
+144
+42.6
+  35–44
+34
+10.1
+  45–54
+28
+8.3
+  55–64
+38
+11.2
+  ⩾65
+20
+5.9
+Mean ± SD
+35.25 ± 15.07
+ 
+Median
+28
+ 
+Range
+16–76
+ 
+
+
+===== PAGE 5 =====
+
+Ali et al.	
+5
+19.05%). The principal organisms isolated as Gram-negative 
+rods were E. coli (9, 33.33%), Klebsiella species (7, 25.93%), 
+and Citrobacter freundii (3, 11.11%) (Figure 1).
+The majority of the isolates were from cesarean sections, 
+accounting for 15/48 (31.25%). Among these, S. aureus was 
+the most prevalent organism, which was detected in 6/15 
+(40%) samples, followed by Streptococci, Klebsiella spe-
+cies, and C. freundii. E. coli was the most common organism 
+isolated from colon and prostate surgery specimens, which 
+were isolated from 3/7 (42.9%) and 2/5 (33.3%) specimens, 
+respectively (Table 4).
+Antibiotic susceptibility pattern
+As presented in Table 5, 100% of the Staphylococcus species 
+were resistant to penicillin, whereas a moderate resistance 
+was observed for the rest of the antibiotics tested, including 
+cotrimoxazole (55.6%), cefoxitin (55.6%), and tetracycline 
+(38.9%). But all the Staphylococcus species were sensitive to 
+chloramphenicol and 77.8% of them were also found to be 
+sensitive to ciprofloxacin and clindamycin. About 66.67% of 
+E. coli and two of the K. pneumoniae species were found to 
+be ESBL-producing strains. Out of 14 S. aureus species, 6 
+(42.86%) 
+were 
+found 
+to 
+be 
+methicillin-resistant 
+Staphylococcus aureus (MRSA), whereas all 4 CoNS spe-
+cies were found to be Methicillin-Resistant Coagulase nega-
+tive Staphylococcus (MRCoNS). All Enterobacteriaceae 
+isolates showed a high degree of resistance to multiple anti-
+microbial agents tested: 91.3% for ampicillin, 87% for aug-
+mentin, and 73.9% for cotrimoxazole and ceftriaxone. A 
+moderate degree of resistance was observed for ciprofloxa-
+cin, cefepime, and gentamicin (52.2%, 47.8%, and 34.8%, 
+respectively). But 95.7% of the Enterobacteriaceae isolates 
+were found to be sensitive to amikacin (Table 5).
+Out of the total bacterial isolates, 38 (79.2%) isolates 
+were found to be MDR and the rate of MDR was higher 
+among Gram-negative isolates. While considering specific 
+bacterial species, the predominant rate of MDR was indi-
+cated in S. aureus, followed by E. coli and Klebsiella species 
+(Table 6).
+Only two bacterial isolates, one from the Gram positive 
+and one from the Gram negative, were fully susceptible to 
+the tested antibiotics, whereas only two isolates from the 
+Gram-positive category were found to be resistant to the 
+seven tested antibiotics. The trends in the number of antibi-
+otic-resistant isolates revealed that Gram-negative isolates 
+were resistant to the most antibiotic classes (Figure 2).
+Discussion
+Our study had focused on the determination of the preva-
+lence of SSIs, identification of the bacterial isolate responsi-
+ble for SSIs, and investigation of the drug susceptibility 
+pattern of the isolate. This information was communicated 
+with the physician and the physician took appropriate action 
+for the better management of the health of their patients.
+In this study, the rate of clinical SSI (14.5%) was slightly 
+higher than that in similar studies done in Addis Ababa, 
+Ethiopia (9.8%),32 and Alexandria, Egypt (2.3%),33 but it 
+was lower than that in other studies performed in the Harari 
+region, Mekelle, and Jimma, Ethiopia.11,23,25,34 It was also 
+lower than a pooled prevalence report that was conducted in 
+Ethiopia.35 This difference across studies could be due to the 
+fact that the rate of SSIs varies widely across study periods, 
+between hospitals and between surgeons, suggesting that 
+working practices play a critical role in the prevention of 
+these infections.36
+The overall culture-confirmed SSI rate in the present 
+study was 12.1% (41/338). This is in agreement with studies 
+performed in Addis Ababa, Bahir Dar, and Mekelle, Ethiopia, 
+as well as other studies conducted in India, which reported 
+10.9%–17.7%.25,26,37–39 Whereas it was higher than that in 
+studies conducted in two European countries, Italy and 
+Table 2.  Culture results of samples taken from the study 
+participants suspected to develop SSI in DCSH, July 22 to 
+October 25, 2016.
+Number
+Percent
+Culture result N = 49
+  Growth
+41
+83.7
+  No growth
+8
+16.3
+  Single bacterial growth
+34
+82.9
+  Mixed bacterial growth
+7
+17.1
+The bacteria isolated N = 48
+  Gram-negative rods
+27
+56.25
+  Gram-positive cocci
+21
+43.75
+Table 3.  Distribution of SSI by surgical procedure in DCSH, July 
+22 to October 25, 2016.
+Surgical 
+procedure
+Total number of 
+procedures
+Total number 
+of SSI
+Rate of SSI (%)
+APPY
+28
+3
+10.70
+COLO
+34
+6
+17.60
+CSEC
+166
+12
+7.20
+HER
+15
+1
+6.70
+HYST
+27
+5
+18.50
+PRST
+18
+4
+22.20
+SB
+19
+4
+21.10
+VHYS
+10
+2
+20.00
+XLAP
+16
+3
+18.80
+Others
+5
+1
+20.00
+Total
+338
+41
+12.13
+APPY: appendix surgery; COLO: colon surgery; CSEC: cesarean section; 
+HER: herniorraphy; HYST: abdominal hysterectomy; PRST: prostate 
+surgery; SB: small bowel surgery; VHYS: vaginal hysterectomy; XLAP: 
+exploratory laparotomy.
+
+
+===== PAGE 6 =====
+
+6	
+SAGE Open Medicine
+66.67%
+19.05%
+9.52%
+4.76%
+S. aureus
+CoNS
+Streptococci
+Enterococcus
+33.33%
+25.93%
+11.11%
+7.41%
+7.41%
+7.41%
+3.70%
+3.70%
+E. coli
+Klebsiella spp.
+C. freundii
+Pseudomonas spp.
+Acitenobacter
+M. morganii
+S. marcescens
+P. mirabilis
+Figure 1.  Distribution of pathogenic bacteria isolated from the study participants with SSI in DCSH, July 22 to October 25, 2016.
+SSI: surgical site infection; DCSH: Dessie Comprehensive Specialized Hospital.
+Table 4.  Distribution of pathogenic bacterial isolate in relation to type of surgical procedure in DCSH, July 22 to October 25, 2016.
+Bacterial isolate
+Surgical procedure
+APPY 
+N = 4
+COLO 
+N = 7
+CSEC 
+N = 15
+HER 
+N = 1
+HYST 
+N = 5
+PRST 
+N = 6
+SB 
+N = 4
+VHYS 
+N = 2
+XLAP 
+N = 3
+OTHERS 
+N = 1
+Staphylococcus aureus no
+1
+1
+6
+1
+1
+1
+1
+1
+1
+0
+CoNS no
+0
+1
+0
+0
+1
+1
+0
+0
+1
+0
+Enterococcus no
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+Streptococci no
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+Escherichia coli no
+1
+3
+1
+0
+1
+2
+0
+0
+1
+0
+Pseudomonas sp. no
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+Proteus mirabilis no
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+Klebsiella sp. no
+2
+1
+2
+0
+1
+0
+1
+0
+0
+0
+Citrobacter freundii no
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+Serratia marcescens no
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+Acinetobacter no
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+Morganella morganii no
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+APPY: appendix surgery; COLO: colon surgery; CSEC: cesarean section; HER: herniorraphy; HYST: abdominal hysterectomy; PRST: prostate surgery; SB: 
+small bowel surgery; VHYS: vaginal hysterectomy; XLAP: exploratory laparotomy.
+
+
+===== PAGE 7 =====
+
+Ali et al.	
+7
+Table 5.  Antibiotic resistance pattern of SSI bacterial isolates in DCSH, July 22 to October 25, 2016.
+Isolated bacteria
+Antibiotics
+Staphylococcus 
+aureus
+CoNS
+Enterococcus
+Streptococcus 
+sp.
+Escherichia 
+coli
+Pseudomonas 
+sp.
+Proteus 
+mirabilis
+Klebsiellas 
+sp.
+Citrobacter 
+freundii
+Serratia 
+marcescens
+Acinetobacter 
+sp.
+Morganella 
+morganii
+ERY
+  Sensitive
+10
+1
+0
+1
+ 
+  Intermediate
+2
+0
+0
+0
+ 
+  Resistance
+2
+3
+1
+1
+ 
+PEN
+  Resistance
+14
+4
+1
+2
+ 
+CPR
+  Sensitive
+12
+2
+1
+1
+3
+2
+0
+0
+1
+  Intermediate
+1
+0
+1
+0
+1
+1
+0
+0
+0
+  Resistance
+1
+2
+7
+0
+3
+0
+1
+2
+1
+DA
+  Sensitive
+11
+3
+2
+ 
+  Intermediate
+0
+0
+0
+ 
+  Resistance
+3
+1
+0
+ 
+TET
+  Sensitive
+7
+2
+ 
+  Intermediate
+2
+0
+ 
+  Resistance
+5
+2
+ 
+CAF
+  Sensitive
+14
+4
+0
+ 
+  Intermediate
+0
+0
+0
+ 
+  Resistance
+0
+0
+1
+ 
+COT
+  Sensitive
+6
+1
+3
+1
+0
+0
+0
+0
+  Intermediate
+0
+1
+0
+0
+1
+0
+0
+1
+  Resistance
+8
+2
+6
+0
+6
+3
+1
+1
+CN
+  Sensitive
+12
+4
+6
+1
+1
+4
+1
+0
+0
+2
+  Intermediate
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+  Resistance
+0
+0
+2
+1
+0
+3
+2
+1
+2
+0
+CXT
+  Sensitive
+8
+0
+7
+1
+5
+1
+0
+2
+  Intermediate
+0
+0
+1
+0
+0
+0
+0
+0
+  Resistance
+6
+4
+1
+0
+2
+2
+1
+0
+CTR
+  Sensitive
+0
+0
+ 
+  Intermediate
+0
+0
+ 
+  Resistance
+2
+2
+ 
+ (Continued)
+
+
+===== PAGE 8 =====
+
+8	
+SAGE Open Medicine
+Isolated bacteria
+Antibiotics
+Staphylococcus 
+aureus
+CoNS
+Enterococcus
+Streptococcus 
+sp.
+Escherichia 
+coli
+Pseudomonas 
+sp.
+Proteus 
+mirabilis
+Klebsiellas 
+sp.
+Citrobacter 
+freundii
+Serratia 
+marcescens
+Acinetobacter 
+sp.
+Morganella 
+morganii
+PIPC
+  Sensitive
+0
+0
+ 
+  Intermediate
+0
+0
+ 
+  Resistance
+2
+2
+ 
+AMK
+  Sensitive
+9
+2
+1
+6
+3
+1
+2
+2
+  Intermediate
+0
+0
+0
+0
+0
+0
+0
+0
+  Resistance
+0
+0
+0
+1
+0
+0
+0
+0
+FEP
+  Sensitive
+1
+2
+1
+3
+1
+0
+0
+1
+  SDD
+0
+1
+0
+1
+1
+1
+0
+0
+  Resistance
+1
+6
+0
+3
+1
+0
+2
+1
+AMP
+  Sensitive
+1
+0
+1
+1
+0
+0
+0
+  Intermediate
+0
+0
+0
+0
+0
+0
+0
+  Resistance
+0
+9
+0
+6
+3
+1
+2
+AUG
+  Sensitive
+0
+1
+2
+0
+0
+0
+  Intermediate
+0
+0
+0
+0
+0
+0
+  Resistance
+9
+0
+5
+3
+1
+2
+CTR
+  Sensitive
+1
+1
+1
+2
+0
+0
+0
+1
+  Intermediate
+1
+0
+0
+1
+0
+0
+0
+0
+  Resistance
+0
+8
+0
+4
+3
+1
+2
+1
+Vancomycin
+  Sensitive
+1
+2
+ 
+  Intermediate
+0
+0
+ 
+  Resistance
+0
+0
+ 
+ESBL
+Positive
+6
+2
+ 
+Negative
+3
+0
+ 
+ERY: erythromycin; PEN: penicillin; CPR: ciprofloxacin; DA: clindamycin; TET: tetracycline; CAF: chloramphenicol; COT: cotrimoxazole; CN: gentamicin; CXT: cefoxitin; FEP: cefepime; AMP: ampicillin; 
+AUG: augmentin; CTR: ceftriaxone; PIPC: piperacillin; AMK: amikacin; CN: gentamicin.
+Table 5.  (Continued)
+
+
+===== PAGE 9 =====
+
+Ali et al.	
+9
+Turkey, which reported 2.6% and 4.3%, respectively.40,41 
+This might be due to the fact that these studies were con-
+ducted at a national level on a large and diverse group of 
+people as well as the availability of advanced infection con-
+trol practices including advanced surgical techniques, 
+improved operating room ventilation, sterilization methods, 
+barriers, patient care, and safety. The poor state of infrastruc-
+ture and equipment, unreliable supplies and quality of medi-
+cations, shortcomings in organizational management and 
+infection control, difficulties in the supply and training of 
+personnel, and severe underfinancing in the developing 
+world contribute to the difficulties in surgical safety and 
+patient care.42
+More than half of the pathogenic bacteria isolated from 
+post-surgical wound infection in the present study were 
+Gram-negative rods (56.25%) and the rest were Gram-
+positive cocci (43.75%). This finding was in line with other 
+studies conducted in Bahir Dar, Addis Ababa, Hawassa, and 
+Mekelle, Ethiopia, as well as studies in Nigeria and 
+India.22,25,26,32,43,44 A prospective cohort study conducted in 
+Sierra Leone indicates more than 83% of bacterial isolates 
+were Gram negative, and another study conducted in Ethiopia 
+also showed about 80% of the isolates were Gram-negative 
+bacteria, which demonstrates that Gram-negative bacteria 
+are still significant isolates in causing SSIs.8,11 On the con-
+trary, other similar studies reported Gram-positive cocci as a 
+predominant isolate over Gram-negative rods.5,39,45 The pre-
+dominance of Gram-negative rods in this study can be justi-
+fied by the fact that, as Jnaneshwara et al.28 explain, there has 
+been an increase in postoperative wound infections caused 
+by Gram-negative organisms in recent years. One source of 
+variation in the bacterial isolates could be the variation in the 
+wards in which the surgery procedures are performed.
+The predominant isolates among the 21 Gram-positive 
+isolates in this study were S. aureus 14 (66.67%), followed 
+by CoNS (19.05%), Streptococcus species (9.52%), and 
+Enterococcus species (4.76%). Among the 27 Gram-negative 
+isolates, E. coli accounted for the highest proportion 
+(33.33%), followed by Klebsiella species (25.93%) and C. 
+freundii (11.11%). Overall, S. aureus was the predominant 
+isolate (29.2%), followed by E. coli (18.6%), Klebsiella spe-
+cies (14.6%), and CoNS (8.3%). Similar to the findings of 
+the present study, a study conducted in the Harari region of 
+Ethiopia indicated S. aureus and E. coli were the two most 
+predominant isolates among the Gram-positive and Gram-
+negative categories.23 In contrast to the current study, another 
+similar study conducted in Ethiopia and Spain found E. coli 
+to be the most common bacterial isolate rather than S. 
+aureus.11,46 Even though we did not differentiate the specific 
+species of the genus Streptococcus in the isolates in this 
+study, there were two isolates from the cesarean section. 
+Similarly, Group B Streptococcus is a major cause of cesar-
+ean section SSI around the world.21
+The bacterial profile in different surgical procedures was 
+variable in this study. The bacteria isolated in appendix sur-
+gery were two Klebsiella species, S. aureus, and E. coli (one 
+each). Two independent previous studies also isolated these 
+organisms in appendix surgery, even though, there was little 
+variation in the number between studies and additional iso-
+lates that were reported.47,48 In colon surgery, the most domi-
+nant isolate was E. coli (three), followed by S. aureus, CoNS, 
+Pseudomonas species, and Klebsiella species (one each). S. 
+aureus was the predominant isolate (six) in cesarean sec-
+tions, followed by Streptococcus species, Klebsiella species, 
+and C. freundii (two each) and E. coli, S. marcescens, and 
+Acinetobacter species (one each). S. aureus was also the pre-
+dominant isolates in cesarean section, as it was reported by 
+previous studies from Uganda and Nigeria, but the pattern in 
+the distribution of the entire isolates was different.47,48
+In this study, the highest resistance which is exhibited by 
+Enterobacteriaceae isolates was for ampicillin (91.3%), fol-
+lowed by augmentin (87%), cotrimoxazole (82.6%), and cef-
+triaxone (78.3). The resistance of Enterobacteriaceae isolates 
+to ampicillin in this study was in line with previous studies 
+conducted in Bahir Dar, Mekelle, Addis Ababa, and Hawassa, 
+Ethiopia, as well as Uganda, which reported 88.2%–
+96.5%.25,26,32,44,48 This study’s cotrimoxazole resistance by 
+Enterobacteriaceae isolates was consistent with an Indian 
+report (88.3%), but it was slightly higher than reports from 
+Bahir Dar (64.7%) and Hawassa (58.6%).25,44,49 Ceftriaxone 
+resistance by Enterobacteriaceae isolates in the present study 
+was in harmony with previous findings from Bahir Dar, 
+Mekelle, and Addis Ababa.25,26,32 This high rate of resistance 
+for ampicillin, augmentin, cotrimoxazole, and ceftriaxone 
+could be attributed to the fact that they are relatively cheap 
+and/or widely prescribed in the empirical treatment of 
+Table 6.  Frequency of multidrug-resistant bacteria in Gram-
+positive and Gram-negative bacteria isolated from SSI in DCSH, 
+July 22 to October 25, 2016.
+Group of the isolate
+MDR
+Yes
+No
+Number
+%
+Number
+%
+Staphylococcus aureus
+9
+18.8
+5
+10.4
+CoNS
+3
+6.2
+1
+2.1
+Enterococcus
+1
+2.1
+0
+0
+Streptococcus sp.
+1
+2.1
+1
+2.1
+Escherichia coli
+8
+16.7
+1
+2.1
+Pseudomonas sp.
+1
+2.1
+1
+2.1
+Proteus mirabilis
+0
+0
+1
+2.1
+Klebsiella sp.
+7
+14.6
+0
+0
+Citrobacter freundii
+3
+6.2
+0
+0
+Serratia marcescens
+1
+2.1
+0
+0
+Acinetobacter sp.
+2
+4.2
+0
+0
+Morganella morganii
+2
+4.2
+0
+0
+Total (N = 48)
+38
+79.2
+10
+20.8
+Gram positive (N = 21)
+14
+66.7
+7
+33.3
+Gram negative (N = 27)
+24
+88.9
+3
+11.1
+
+
+===== PAGE 10 =====
+
+10	
+SAGE Open Medicine
+various bacterial infections. This can be justified by the fact 
+that in this study, ampicillin and ceftriaxone (alone or 
+together with metronidazole) were the antibiotics given to 
+97.1% of the patients who had received preoperative antibi-
+otic prophylaxis. The rate of cefoxitin resistance in the pre-
+sent study was lower than that of a previous report from 
+Addis Ababa, which reported 72.1%.32 Only 1 (4.3%) out of 
+the 23 Enterobacteriaceae isolates showed resistance to ami-
+kacin in this study. In contrast to this study, a study from 
+India reported a resistance rate of 25.9% for amikacin.49 The 
+lowest resistance for amikacin in the present study could be 
+due to the unavailability of this drug in the study setting.
+In the present study, around 80% of all the isolates were 
+found to be MDR, which is higher than a study conducted in 
+Egypt, which showed only 13% of the total isolates were 
+MDR.33 The MDR rates for Gram-negative and Gram-
+positive isolates were 88.9% and 66.7%, respectively. The 
+overall MDR rate in this study was slightly lower than that of 
+the previous reports from Bahir Dar and Hawassa, Ethiopia, 
+which reported 97.6% and 93.2%, respectively.26,44 The rate 
+of MDR among Gram-negative isolates in this study was 
+also relatively lower as compared to that of previous reports 
+from Bahir Dar and Addis Ababa, Ethiopia.26,32 The reason 
+for the relatively lower rate of MDR in the present study 
+could be due to differences in defining MDR; in the afore-
+mentioned previous studies, isolates not susceptible to at 
+least two drugs were considered to be MDR.
+In this study, most of the Gram-positive isolates (6 out of 
+21) showed resistance to three classes of antibiotics, whereas 
+2 out of the 21 Gram-positive isolates showed a resistance 
+pattern for seven classes of antibiotics. Concerning Gram-
+negative isolates, most (12 out of 27) of them were resistant 
+to five classes of antibiotics. A maximum of six classes of 
+antibiotics were resisted by four of the Gram-negative iso-
+lates. Although the rate of MDR in the present study was 
+relatively lower than that of the reports from Bahir Dar and 
+Addis Ababa, Ethiopia, due to differences in defining MDR, 
+it was still alarmingly high. This coincides with the fact that 
+the problem of MDR continues to grow, especially in devel-
+oping countries, as a result of antimicrobial drug overuse, 
+overdosing, drug prescription with an improper susceptibil-
+ity test, unethical drug promotion, self-medication, and a 
+long duration of hospitalization.50
+Limitation of the study
+The study was conducted in a health facility that serves a 
+huge number of clients and also provides referral health ser-
+vices for outlying catchment areas. The current study was 
+conducted in a single institution, but it would be more repre-
+sentative if it was conducted in several health facilities. We 
+have done the study only in general surgery and gynecology 
+and obstetrics wards, but it would be good if we included 
+other wards in the study area. Because of a lack of microbiol-
+ogy laboratory facilities, we could not isolate anaerobic bac-
+terial pathogens from the study participants.
+Conclusion
+In the present study, an average rate of SSI was found to be 
+reported and significant numbers of bacterial isolates were 
+also detected. The rate of SSI was high in the general surgi-
+cal ward in comparison with that in the obstetrics and gyne-
+cology ward. The highest rate of SSI was reported in PRST, 
+1
+2
+4
+6
+3
+1
+2
+2
+1
+0
+2
+4
+4
+12
+4
+0
+2
+2
+6
+10
+7
+13
+6
+2
+0
+2
+4
+6
+8
+10
+12
+14
+Zero
+One
+Two
+Three
+Four
+Five
+Six
+Seven
+Gram Posive
+Gram Negave
+Total
+Figure 2.  Distribution of Gram-positive and Gram-negative bacteria based on their resistance for different number of classes of 
+antibiotics in DCSH, July 22 to October 25, 2016.
+
+
+===== PAGE 11 =====
+
+Ali et al.	
+11
+followed by SB, VHYS, and XLAP surgical procedures. The 
+number and percentage of Gram-negative rod isolates were 
+found to be relatively high. The predominant Gram-negative 
+and Gram-positive isolates were E. coli and S. aureus, 
+respectively. Among the various surgical procedures, the 
+cesarean section was found to have the highest rate of bacte-
+rial infection. S. aureus was the most prevalent organism in 
+this surgical procedure and E. coli was the most common 
+organism isolated from colon and PRST. Different patterns 
+of antibiotic resistance had been observed among various 
+bacterial isolates and the rate of MDR was found to be 
+higher, particularly among Gram-negative isolates. Periodic 
+surveillance of the incidence rate and bacterial profile, as 
+well as antibiotic susceptibility testing, should be carried out.
+Acknowledgements
+We deeply express our gratitude to Addis Ababa University and 
+the APHI-Dessie branch for all their necessary supports, without 
+which this project would not have been possible. The authors 
+would like to thank the study participants and their families. The 
+authors would also like to acknowledge the laboratory personnel of 
+the DCSH for their cooperation leading up to the accomplishment 
+of this study.
+Author contributions
+All authors were involved in proposal writing, designed the study, 
+and participated in all implementation stages of the project. We 
+were all involved in laboratory work, analyzing the data and final-
+izing the manuscript. The authors were responsible for the critical 
+revision of the manuscript. All authors reviewed and approved the 
+final manuscript.
+Declaration of conflicting interests
+The author(s) declared no potential conflicts of interest with 
+respect to the research, authorship, and/or publication of this 
+article.
+Funding
+The author(s) received no financial support for the research, author-
+ship, and/or publication of this article.
+Ethics approval
+Ethical approval for this study was obtained from Ethical Review 
+Committee of Addis Ababa University, College of Health Science, 
+Department of Medical Laboratory Sciences (DRERC/196/15/
+MLS)*.
+Informed consent
+Written informed consent was obtained from the subjects and 
+legally authorized representative of the minor subjects.
+Data availability
+The authors confirm that all data underlying the findings are fully 
+available without restriction. All relevant data are within the 
+manuscript.
+ORCID iD
+Daniel Gebretsadik 
+ https://orcid.org/0000-0001-5032-5143
+References
+	 1.	 Spagnolo A, Ottria G, Amicizia D, et  al. Operating theatre 
+quality and prevention of surgical site infections. J Preventive 
+Med Hyg 2013; 54(3): 131.
+	 2.	 Berríos-Torres SI, Umscheid CA, Bratzler DW, et al. Centers 
+for disease control and prevention guideline for the preven-
+tion of surgical site infection, 2017. JAMA Surg 2017; 152(8): 
+784–791.
+	 3.	 Mukagendaneza MJ, Munyaneza E, Muhawenayo E, et  al. 
+Incidence, root causes, and outcomes of surgical site infec-
+tions in a tertiary care hospital in Rwanda: a prospective obser-
+vational cohort study. Patient Saf Surg 2019; 13(1): 1–8.
+	 4.	 Mehtar S, Wanyoro A, Ogunsola F, et al. Implementation of 
+surgical site infection surveillance in low-and middle-income 
+countries: a position statement for the International Society for 
+Infectious Diseases. Int J Infect Dis 2020; 100: 123–131.
+	 5.	 Pal N and Guhathakurta R. Surgical site infection in surgery 
+ward at a tertiary care hospital: the infection rate and the bac-
+teriological profile. IOSR J Pharm 2012; 2(5): 1–5.
+	 6.	 Chauveaux D. Preventing surgical-site infections: measures 
+other than antibiotics. Orthop Traumatol Surg Res 2015; 
+101(1): S77–S83.
+	 7.	 Sawyer RG and Evans HL. Surgical site infection—the next 
+frontier in global surgery. Lancet Infect Dis 2018; 18(5): 477–
+478.
+	 8.	 Lakoh S, Yi L, Sevalie S, et  al. Incidence and risk fac-
+tors of surgical site infections and related antibiotic resist-
+ance in Freetown, Sierra Leone: a prospective cohort study. 
+Antimicrob Resist Infect Control 2022; 11(1): 1–12.
+	 9.	 Ngah JE, Bénet T and Djibrilla Y. Incidence of surgical site 
+infections in sub-Saharan Africa: systematic review and meta-
+analysis. Pan Afr Med J 2016; 24: 171.
+	10.	 Li Z, Gao J, Song L, et al. Risk factors for surgical site infec-
+tion after emergency abdominal surgery: a multicenter cross-
+sectional study in China. Chin J Gastrointest Surg 2020; 
+23(11): 1043–1050.
+	11.	 Misha G, Chelkeba L and Melaku T. Bacterial profile and 
+antimicrobial susceptibility patterns of isolates among patients 
+diagnosed with surgical site infection at a tertiary teaching 
+hospital in Ethiopia: a prospective cohort study. Ann Clin 
+Microbiol Antimicrob 2021; 20(1): 1–10.
+	12.	 Ademuyiwa AO, Hardy P, Runigamugabo E, et al. Reducing 
+surgical site infections in low-income and middle-income 
+countries (FALCON): a pragmatic, multicentre, stratified, 
+randomised controlled trial. Lancet 2021; 398(10312): 1687–
+1699.
+	13.	 Velin L, Umutesi G, Riviello R, et al. Surgical site infections 
+and antimicrobial resistance after cesarean section delivery in 
+rural Rwanda. Ann Global Health 2021; 87(1): 77.
+	14.	 Bediako-Bowan AA, Kurtzhals JA, Mølbak K, et  al. High 
+rates of multi-drug resistant gram-negative organisms asso-
+ciated with surgical site infections in a teaching hospital in 
+Ghana. BMC Infect Dis 2020; 20(1): 1–9.
+	15.	 Bediako-Bowan A, Owusu E, Debrah S, et al. Surveillance of 
+surgical site infection in a teaching hospital in Ghana: a pro-
+spective cohort study. J Hosp Infect 2020; 104(3): 321–327.
+
+
+===== PAGE 12 =====
+
+12	
+SAGE Open Medicine
+	16.	 Pantvaidya G, Joshi S, Nayak P, et al. Surgical Site Infections 
+in patients undergoing major oncological surgery during the 
+COVID-19 paNdemic (SCION): a propensity-matched analy-
+sis. J Surg Oncol 2022; 125(3): 327–335.
+	17.	 Cappelli S, Corallino D, Clementi M, et al. Surgical site infec-
+tions in patients undergoing breast oncological surgery during 
+the lockdown: an unexpected lesson from the COVID-19 pan-
+demic. G Chir 2022; 42(2): e02.
+	18.	 Lubega A, Joel B and Justina Lucy N. Incidence and etiol-
+ogy of surgical site infections among emergency postoperative 
+patients in Mbarara regional referral hospital, South Western 
+Uganda. Surg Res Pract 2017; 2017: 6365172.
+	19.	 El-Saed A, Balkhy HH, Alshamrani MM, et al. High contribu-
+tion and impact of resistant gram negative pathogens causing 
+surgical site infections at a multi-hospital healthcare system in 
+Saudi Arabia, 2007–2016. BMC Infect Dis 2020; 20(1): 1–9.
+	20.	 El-Kholy AA, Elanany MG, Sherif MM, et al. High preva-
+lence of VIM, KPC, and NDM expression among surgical site 
+infection pathogens in patients having emergency surgery. 
+Surg Infect 2018; 19(6): 629–633.
+	21.	 Collin SM, Shetty N, Guy R, et al. Group B Streptococcus in 
+surgical site and non-invasive bacterial infections worldwide: 
+a systematic review and meta-analysis. Int J Infect Dis 2019; 
+83: 116–129.
+	22.	 Singh PP, Begum R and Singh S. Identification and anti-
+biogram of the micro-organisms isolated from postoperative 
+wound infections among patients admitted in the hospital 
+TMMC and RC Moradabad. EJBPS 2015; 2(4): 932–942.
+	23.	 Shakir A, Abate D, Tebeje F, et al. Magnitude of surgical site 
+infections, bacterial etiologies, associated factors and antimi-
+crobial susceptibility patterns of isolates among post-operative 
+patients in Harari Region Public Hospitals, Harar, Eastern 
+Ethiopia. Infect Drug Resist 2021; 14: 4629.
+	24.	 Legesse Laloto T, Hiko Gemeda D and Abdella SH. Incidence 
+and predictors of surgical site infection in Ethiopia: prospec-
+tive cohort. BMC Infect Dis 2017; 17(1): 1–9.
+	25.	 Mengesha RE, Kasa BG-S, Saravanan M, et al. Aerobic bac-
+teria in post surgical wound infections and pattern of their 
+antimicrobial susceptibility in Ayder Teaching and Referral 
+Hospital, Mekelle, Ethiopia. BMC Res Notes 2014; 7(1): 1–6.
+	26.	 Mulu W, Kibru G, Beyene G, et al. Postoperative nosocomial 
+infections and antimicrobial resistance pattern of bacteria 
+isolates among patients admitted at Felege Hiwot Referral 
+Hospital, Bahirdar, Ethiopia. Ethiop J Health Sci 2012; 22(1): 
+7–18.
+	27.	 Amenu D, Belachew T and Araya F. Surgical site infection rate 
+and risk factors among obstetric cases of Jimma University 
+Specialized Hospital, Southwest Ethiopia. Ethiop J Health Sci 
+2011; 21(2): 91–100.
+	28.	 Jnaneshwara K, Singh RE, Lava R, et al. The bacterial profile 
+of the postoperative wound infection in a South Indian hospi-
+tal. Int J Pharm Chem Biol Sci 2015; 5(3): 676–682.
+	29.	 Humphries RM and Linscott AJ. Practical guidance for clini-
+cal microbiology laboratories: diagnosis of bacterial gastroen-
+teritis. Clin Microbiol Rev 2015; 28(1): 3–31.
+	30.	 Goyal A, Prasad K, Prasad A, et al. Extended spectrum beta-
+lactamases in Escherichia coli & Klebsiella pneumoniae & 
+associated risk factors. Indian J Med Res 2009; 129(6): 695–
+700.
+	31.	 Magiorakos A-P, Srinivasan A, Carey RB, et al. Multidrug-
+resistant, extensively drug-resistant and pandrug-resistant 
+bacteria: an international expert proposal for interim standard 
+definitions for acquired resistance. Clin Microbiol Infect 2012; 
+18(3): 268–281.
+	32.	 Dessie W, Mulugeta G, Fentaw S, et  al. Pattern of bacte-
+rial pathogens and their susceptibility isolated from surgical 
+site infections at selected referral hospitals, Addis Ababa, 
+Ethiopia. Int J Microbiol 2016; 2016: 2418902.
+	33.	 Raouf M, Ghazal T, Kassem M, et al. Surveillance of surgi-
+cal-site infections and antimicrobial resistance patterns in a 
+tertiary hospital in Alexandria, Egypt. J Infect Dev Countries 
+2020; 14(03): 277–283.
+	34.	 Misha G, Chelkeba L and Melaku T. Incidence, risk fac-
+tors and outcomes of surgical site infections among patients 
+admitted to Jimma Medical Center, South West Ethiopia: 
+Prospective cohort study. Ann Med Surg 2021; 65: 102247.
+	35.	 Birhanu Y and Endalamaw A. Surgical site infection and 
+pathogens in Ethiopia: a systematic review and meta-analysis. 
+Patient Safe Surg 2020; 14(1): 1–8.
+	36.	 Adams-Howell P, Bhabra M, Enright M, et al. Taking a zero 
+tolerance approach to preventable surgical site infections in 
+UK hospitals [Internet]. Clean-safe-care: NHS (UK), 2006 
+[actualizado 2011; citado octubre de 2011].
+	37.	 Patil HV, Mohite ST, Karande G, et al. Incidence, bacteriol-
+ogy and risk factors of surgical site infection (SSI) at tertiary 
+care teaching hospital. Res J Pharm Biol Chem Sci 2015; 6(2): 
+1870–1880.
+	38.	 Negi V, Pal S, Juyal D, et al. Bacteriological profile of surgi-
+cal site infections and their antibiogram: a study from resource 
+constrained rural setting of Uttarakhand state, India. J Clin 
+Diagn Res 2015; 9(10): DC17.
+	39.	 Kalayu AA, Diriba K, Girma C, et al. Incidence and bacterial 
+etiologies of surgical site infections in a Public Hospital, Addis 
+Ababa, Ethiopia. Open Microbiol J 2019; 13(1): 301–307.
+	40.	 Leblebicioglu H, Erben N, Rosenthal VD, et  al. Surgical 
+site infection rates in 16 cities in Turkey: findings of the 
+International Nosocomial Infection Control Consortium 
+(INICC). Am J Infect Control 2015; 43(1): 48–52.
+	41.	 Marchi M, Pan A, Gagliotti C, et al. The Italian national sur-
+gical site infection surveillance programme and its positive 
+impact, 2009 to 2011. Eurosurveillance 2014; 19(21): 20815.
+	42.	 World Health Organization. World alliance for patient safety. 
+WHO guidelines for safe surgery. Available at: http://www-
+gawandecom/documents/WHOGuidelinesforSafeSurgerypdf 
+(2008, accessed 16 September 2022).
+	43.	 Makanjuola OB, Olowe OA and Adeyankinnu AF. Bacterial 
+agents of surgical site infections in South-Western Nigeria. 
+Am J Biomed Sci 2013; 5(4): 217–225.
+	44.	 Dessalegn L, Shimelis T, Tadesse E, et al. Aerobic bacterial 
+isolates from post-surgical wound and their antimicrobial sus-
+ceptibility pattern: a hospital based cross-sectional study. J 
+Med Res 2014; 3(2): 18–23.
+	45.	 Ahmed MI. Prevalence of nosocomial wound infection among 
+postoperative patients and antibiotics patterns at teaching hos-
+pital in Sudan. North Am J Med Sci 2012; 4(1): 29.
+	46.	 Múñez E, Ramos A, de Espejo TÁ, et  al. Microbiology of 
+surgical site infections in abdominal tract surgery patients. 
+Cirugía Española (English Edition) 2011; 89(9): 606–612.
+
+
+===== PAGE 13 =====
+
+Ali et al.	
+13
+	47.	 Yah S, Yusuf E and Haruna T. Patterns of antibiotics suscepti-
+bility of isolates and plasmid analysis of Staphylococcus from 
+surgical site infections in Nigeria. Int J Biol Chem Sci 2009; 
+3(4): 810–818.
+	48.	 Anguzu J and Olila D. Drug sensitivity patterns of bacterial 
+isolates from septic post-operative wounds in a regional refer-
+ral hospital in Uganda. Afr Health Sci 2007; 7(3): 148–154.
+	49.	 Rao R, Sumathi S, Anuradha K, et al. Bacteriology of postop-
+erative wound infections. Int J Pharm Biomed Res 2013; 4(2): 
+72–76.
+	50.	 Godebo G, Kibru G and Tassew H. Multidrug-resistant 
+bacterial isolates in infected wounds at Jimma University 
+Specialized Hospital, Ethiopia. Ann Clin Microbiol Antimicrob 
+2013; 12(1): 1–7.
