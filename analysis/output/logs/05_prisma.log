@@ -1,0 +1,36 @@
+PRISMA flow counts
+==================
+
+                                             Stage  n
+ Documents in supplied corpus after de-duplication 56
+                                Documents excluded 18
+                           Unique cohorts included 38
+           Cohorts with an SSI incidence component 26
+          Cohorts in the primary SSI meta-analysis 25
+                     Cohorts with an AMR component 26
+                                  AMR-only cohorts 12
+       Studies contributing priority AMR estimates 23
+                     Priority AMR estimates (rows) 54
+                                                                                           Note
+           Starting point of the supplied extraction; identification counts were not available.
+                                                                     See Table S12 for reasons.
+                                               No duplicate study IDs among included documents.
+                                                                           Includes Starr 2023.
+ Starr 2023 excluded from pooling because the reported counts and percentages are incompatible.
+                                                                     Incidence and/or AMR data.
+                                           No operated-patient denominator; AMR synthesis only.
+                         Three AMR-component studies contributed no species-level priority row.
+                           Before within-pathogen de-duplication; 51 rows after de-duplication.
+
+Exclusion categories
+--------------------
+                         Exclusion category n
+           Duplicate or overlapping reports 9
+ Not a primary study or no extractable data 5
+                Wrong population or outcome 3
+         Post-hoc FALCON secondary analysis 1
+                                                                                             Examples
+                          Copy of Gashaw 2026; Copy of Mbabazi 2025; De Nardo 2016 (duplicate cohort)
+                               Human data-extraction workbook; Review protocol; Response to reviewers
+ Kihla 2014 (mixed wounds); Kumburu 2015 (all hospital infections); Jung 2024 (post-traumatic wounds)
+                                                       FALCON secondary analysis (Aaron Oladipo 2024)
