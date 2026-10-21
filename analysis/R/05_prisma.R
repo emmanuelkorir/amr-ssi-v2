@@ -161,7 +161,7 @@ p <- ggplot() +
   theme_void() +
   theme(plot.margin = margin(10, 10, 10, 10))
 
-save_png(p, "figS5_prisma_flow.png", width = 11, height = 8.5)
+save_png(p, "figS4_prisma_flow.png", width = 11, height = 8.5)
 
 # ---------------------------------------------------------------------------
 # Save results
