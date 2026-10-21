@@ -21,7 +21,7 @@ Billoro 2019,2019,Ethiopia,East Africa,Tertiary/referral,3GC/ESBL resistance,E. 
 Burugu 2022,2022,Kenya,East Africa,Tertiary/referral,3GC/ESBL resistance,E. coli,3GC resistance,11,12,91.7
 Chipaga 2025,2025,Tanzania,East Africa,Tertiary/referral,3GC/ESBL resistance,E. coli; Klebsiella spp.,ESBL,39,70,55.7
 Gashaw 2026,2026,Ethiopia,East Africa,Tertiary/referral,3GC/ESBL resistance,Enterobacterales (aggregate),ESBL,135,200,67.5
-Hamudu 2025,2025,Tanzania,East Africa,Tertiary/referral,3GC/ESBL resistance,Enterobacterales (aggregate),3GC resistance,12,15,80
+Hamudu 2025,2025,Tanzania,East Africa,Mixed,3GC/ESBL resistance,Enterobacterales (aggregate),3GC resistance,12,15,80
 Manyahi 2014,2014,Tanzania,East Africa,Tertiary/referral,3GC/ESBL resistance,E. coli; Klebsiella spp.,ESBL,23,29,79.3
 Mbabazi 2025,2025,Uganda,East Africa,Tertiary/referral,3GC/ESBL resistance,E. coli; Klebsiella spp.,3GC resistance,30,31,96.8
 Misha 2021,2021,Ethiopia,East Africa,Tertiary/referral,3GC/ESBL resistance,E. coli; Klebsiella spp.,3GC resistance,8,14,57.1
@@ -32,7 +32,7 @@ Worku 2023,2023,Ethiopia,East Africa,Tertiary/referral,3GC/ESBL resistance,E. co
 Scherbaum 2014,2014,Gabon,Central Africa,Tertiary/referral,3GC/ESBL resistance,E. coli; Klebsiella spp.,ESBL,8,20,40
 Abosse 2021,2021,Ethiopia,East Africa,Tertiary/referral,Carbapenem resistance,A. baumannii,Carbapenem resistance,3,9,33.3
 Chipaga 2025,2025,Tanzania,East Africa,Tertiary/referral,Carbapenem resistance,A. baumannii; P. aeruginosa,Carbapenem resistance,13,46,28.3
-Hamudu 2025,2025,Tanzania,East Africa,Tertiary/referral,Carbapenem resistance,Enterobacterales (aggregate),Carbapenem resistance,0,15,0
+Hamudu 2025,2025,Tanzania,East Africa,Mixed,Carbapenem resistance,Enterobacterales (aggregate),Carbapenem resistance,0,15,0
 Mbabazi 2025,2025,Uganda,East Africa,Tertiary/referral,Carbapenem resistance,A. baumannii,Carbapenem resistance,17,26,65.4
 Misha 2021,2021,Ethiopia,East Africa,Tertiary/referral,Carbapenem resistance,E. coli; P. aeruginosa,Carbapenem resistance,5,17,29.4
 Odoko 2024,2024,Ethiopia,East Africa,Mixed,Carbapenem resistance,Enterobacterales (aggregate),Carbapenem resistance,17,61,27.9

@@ -422,21 +422,40 @@ p_sa <- ggplot(sa_summary, aes(x = Median, y = drug)) +
 save_png(p_sa, "fig7_ast_saureus.png", width = 9, height = 6.5)
 
 # Figure S3: pathogen-specific priority AMR estimates
-p_path <- amr_dedup %>%
+# Draw each outcome separately so that pathogens with no data for that outcome
+# are not shown as empty rows.
+path_plot_df <- amr_dedup %>%
   mutate(pct = n_resistant / n_tested) %>%
-  filter(outcome_group != "MRSA") %>%
-  ggplot(aes(x = pathogen_group2, y = 100 * pct, colour = outcome_group)) +
-  geom_jitter(width = 0.12, height = 0, size = 2.2, alpha = 0.8) +
-  stat_summary(fun = median, geom = "errorbar",
-               aes(ymin = after_stat(y), ymax = after_stat(y)),
-               width = 0.35, linewidth = 0.7, colour = "black") +
-  facet_wrap(~ outcome_group, scales = "free_x", ncol = 1) +
-  coord_flip() +
-  scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, 20)) +
-  labs(x = NULL, y = "Resistance among isolates (%)",
-       subtitle = "Each point is a study-level estimate; bars are medians.") +
-  theme_ecsa() +
-  theme(legend.position = "none", axis.text.y = element_text(size = 8))
+  filter(outcome_group != "MRSA")
+
+make_path_plot <- function(d, title) {
+  ggplot(d, aes(x = pathogen_group2, y = 100 * pct, colour = outcome_group)) +
+    geom_jitter(width = 0.12, height = 0, size = 2.2, alpha = 0.8) +
+    stat_summary(fun = median, geom = "errorbar",
+                 aes(ymin = after_stat(y), ymax = after_stat(y)),
+                 width = 0.35, linewidth = 0.7, colour = "black") +
+    coord_flip() +
+    scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, 20)) +
+    labs(x = NULL, y = NULL, title = title) +
+    theme_ecsa() +
+    theme(legend.position = "none",
+          plot.title = element_text(size = 10),
+          axis.text.y = element_text(size = 8))
+}
+
+p_path <- make_path_plot(
+  dplyr::filter(path_plot_df, outcome_group == "3GC/ESBL resistance"),
+  "3GC/ESBL resistance"
+) / make_path_plot(
+  dplyr::filter(path_plot_df, outcome_group == "Carbapenem resistance"),
+  "Carbapenem resistance"
+)
+
+p_path <- p_path +
+  patchwork::plot_annotation(
+    subtitle = "Each point is a study-level estimate; bars are medians.",
+    theme = theme(plot.subtitle = element_text(colour = "grey30"))
+  )
 
 save_png(p_path, "figS3_amr_pathogen_specific.png", width = 9, height = 8)
 

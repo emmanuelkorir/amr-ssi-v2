@@ -37,21 +37,21 @@ By hospital level
                Outcome    Hospital level Studies Isolates tested
                   MRSA Tertiary/referral      14             493
                   MRSA Secondary/primary       2              24
-   3GC/ESBL resistance Tertiary/referral      13             659
+   3GC/ESBL resistance Tertiary/referral      12             644
    3GC/ESBL resistance Secondary/primary       1              39
-   3GC/ESBL resistance             Mixed       1              61
- Carbapenem resistance Tertiary/referral       7             195
+   3GC/ESBL resistance             Mixed       2              76
+ Carbapenem resistance Tertiary/referral       6             180
  Carbapenem resistance Secondary/primary       1              30
- Carbapenem resistance             Mixed       1              61
+ Carbapenem resistance             Mixed       2              76
  Resistant isolates Crude aggregate % Median study %    Range %     IQR %
                 268              54.4           50.3 10.0-100.0 38.8-68.4
                  15              62.5           79.5 59.1-100.0 69.3-89.8
-                503              76.3           73.9  27.3-98.2 57.1-91.7
+                491              76.2           70.7  27.3-98.2 56.8-92.9
                  36              92.3           92.3  92.3-92.3 92.3-92.3
-                 58              95.1           95.1  95.1-95.1 95.1-95.1
-                 85              43.6           33.3   0.0-84.2 28.8-49.7
+                 70              92.1           87.5  80.0-95.1 83.8-91.3
+                 85              47.2           33.7  28.3-84.2 30.4-57.6
                   0               0.0            0.0    0.0-0.0   0.0-0.0
-                 17              27.9           27.9  27.9-27.9 27.9-27.9
+                 17              22.4           13.9   0.0-27.9  7.0-20.9
 
 By pathogen
 -----------

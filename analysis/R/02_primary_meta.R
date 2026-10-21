@@ -281,6 +281,7 @@ meta::forest(
   fontsize = 8,
   spacing = 1.1,
   addrow = TRUE,
+  xlim = c(0, 70),
   label.left = "Lower SSI incidence",
   label.right = "Higher SSI incidence"
 )
@@ -365,9 +366,9 @@ p_sub <- ggplot(subgroup_plot_df, aes(x = 100 * Proportion, y = label)) +
   geom_pointrange(aes(xmin = 100 * Lower, xmax = 100 * Upper), size = 0.45,
                   colour = "steelblue") +
   facet_wrap(~ Subgroup_variable, scales = "free_y", ncol = 2) +
-  coord_cartesian(xlim = c(0, 65)) +
+  coord_cartesian(xlim = c(0, 70)) +
   labs(x = "SSI proportion (%)", y = NULL,
-       subtitle = "Dashed line is the overall random-effects estimate.\nSubgroup CIs extending beyond 65% are truncated for readability.") +
+       subtitle = "Dashed line is the overall random-effects estimate.\nSubgroup CIs extending beyond 70% are truncated for readability.") +
   theme_ecsa() +
   theme(panel.grid.major.y = element_blank())
 

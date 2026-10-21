@@ -58,6 +58,7 @@ specialty_group <- function(x) {
 hospital_group <- function(x) {
   x <- tolower(x)
   dplyr::case_when(
+    grepl("^mixed", x) ~ "Mixed",
     grepl("tertiary|referral", x) ~ "Tertiary/referral",
     grepl("secondary|district|primary", x) ~ "Secondary/primary",
     TRUE ~ "Mixed"
@@ -208,8 +209,8 @@ tableS1 <- study_level %>%
     Design = design,
     Specialty = specialty,
     `Cohort n` = cohort_n,
-    Incidence = ifelse(has_incidence, "Yes", "No"),
-    AMR = ifelse(has_amr, "Yes", "No"),
+    `Incidence component` = ifelse(incidence_component, "Yes", "No"),
+    AMR = ifelse(amr_component, "Yes", "No"),
     `Primary incidence rows` = n_primary_incidence_rows,
     `AMR rows` = n_amr_rows,
     Quality = quality_overall

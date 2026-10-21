@@ -10,6 +10,11 @@
 source("analysis/R/00_setup.R")
 
 flow <- readRDS(file.path(data_dir, "flow_counts.rds"))
+amr <- readRDS(file.path(data_dir, "amr_results.rds"))
+primary <- readr::read_csv(
+  file.path(data_dir, "analysis_incidence.csv"),
+  show_col_types = FALSE, progress = FALSE
+)
 screening <- readr::read_csv(
   file.path(root, "output", "screening.csv"),
   show_col_types = FALSE, progress = FALSE
@@ -72,8 +77,10 @@ tableS11 <- tibble::tibble(
     "Starr 2023 excluded from pooling because the reported counts and percentages are incompatible.",
     "Incidence and/or AMR data.",
     "No operated-patient denominator; AMR synthesis only.",
-    "Three AMR-component studies contributed no species-level priority row.",
-    "Before within-pathogen de-duplication; 51 rows after de-duplication."
+    sprintf("%d AMR-component studies contributed no species-level priority row.",
+            flow$amr_component - flow$amr_priority_studies),
+    sprintf("Before within-pathogen de-duplication; %d rows after de-duplication.",
+            amr$n_dedup_rows)
   )
 )
 
@@ -118,26 +125,35 @@ p <- ggplot() +
            size = 2.8, colour = "grey40", fontface = "bold") +
   # Main boxes
   box(14, 58, 90, 97) +
-  box_text(36, 93.5, "Documents in the supplied corpus\nafter de-duplication\nn = 56", fontface = "bold") +
+  box_text(36, 93.5, sprintf("Documents in the supplied corpus\nafter de-duplication\nn = %d", flow$documents),
+           fontface = "bold") +
   box(14, 58, 78, 86) +
-  box_text(36, 82, "Documents assessed for eligibility\nn = 56") +
+  box_text(36, 82, sprintf("Documents assessed for eligibility\nn = %d", flow$documents)) +
   box(14, 58, 62, 72) +
-  box_text(36, 67, "Unique cohorts included\nn = 38", fontface = "bold") +
+  box_text(36, 67, sprintf("Unique cohorts included\nn = %d", flow$included), fontface = "bold") +
   # Branches
   box(8, 44, 42, 56, fill = "#f4f4f4") +
-  box_text(26, 49, "SSI incidence component\nn = 26 cohorts") +
+  box_text(26, 49, sprintf("SSI incidence component\nn = %d cohorts", flow$incidence_component)) +
   box(52, 92, 42, 56, fill = "#f4f4f4") +
-  box_text(72, 49, "AMR component\nn = 26 cohorts\n12 AMR-only") +
+  box_text(72, 49, sprintf("AMR component\nn = %d cohorts\n%d AMR-only",
+                           flow$amr_component, flow$amr_only)) +
   # Analysis boxes
   box(6, 46, 20, 34, fill = "#e8f5e9") +
-  box_text(26, 27, "Primary SSI meta-analysis\nn = 25 cohorts\n2,077 events / 13,233 patients\nStarr 2023 excluded from pooling: incompatible counts",
+  box_text(26, 27, sprintf("Primary SSI meta-analysis\nn = %d cohorts\n%s events / %s patients\nStarr 2023 excluded from pooling: incompatible counts",
+                           flow$primary_incidence,
+                           format(sum(primary$events), big.mark = ",", scientific = FALSE, trim = TRUE),
+                           format(sum(primary$n), big.mark = ",", scientific = FALSE, trim = TRUE)),
            size = 2.9, fontface = "bold") +
   box(50, 94, 20, 34, fill = "#e8f5e9") +
-  box_text(72, 27, "Priority AMR synthesis\nn = 23 studies\n54 extracted priority estimates\n3 AMR-component studies had no priority row",
+  box_text(72, 27, sprintf("Priority AMR synthesis\nn = %d studies\n%d extracted priority estimates\n%d AMR-component studies had no priority row",
+                           flow$amr_priority_studies, flow$amr_priority_rows,
+                           flow$amr_component - flow$amr_priority_studies),
            size = 2.9, fontface = "bold") +
   # Bottom summary
   box(14, 86, 4, 13, fill = "#fff8e1") +
-  box_text(50, 8.5, "38 cohorts included: 25 contributed to the primary SSI meta-analysis\nand 23 to the priority AMR synthesis", fontface = "bold") +
+  box_text(50, 8.5, sprintf("%d cohorts included: %d contributed to the primary SSI meta-analysis\nand %d to the priority AMR synthesis",
+                            flow$included, flow$primary_incidence, flow$amr_priority_studies),
+           fontface = "bold") +
   # Excluded side box
   box(64, 98, 68, 88, fill = "#fdecec", colour = "#b03a2e") +
   box_text(81, 78, sprintf(

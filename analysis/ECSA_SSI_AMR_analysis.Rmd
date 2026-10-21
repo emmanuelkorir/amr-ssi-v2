@@ -1,0 +1,696 @@
+---
+title: "Burden and antimicrobial resistance patterns of surgical site infections in East, Central and Southern Africa"
+subtitle: "Results and Methods"
+author: "ECSA SSI/AMR systematic review and meta-analysis"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    theme: cosmo
+    fig_caption: true
+    df_print: paged
+  word_document:
+    toc: true
+    toc_depth: 3
+    fig_caption: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE,
+  comment = NA,
+  fig.align = "center",
+  out.width = "95%"
+)
+
+# Keep absolute figure paths so that pandoc can embed the PNGs in both HTML
+# and DOCX outputs.
+options(knitr.graphics.rel_path = FALSE)
+
+
+suppressPackageStartupMessages({
+  library(readr)
+  library(dplyr)
+  library(tidyr)
+  library(knitr)
+  library(ggplot2)
+})
+
+# ---- Core results objects -------------------------------------------------
+pm  <- readRDS("analysis/data/primary_meta_results.rds")
+amr <- readRDS("analysis/data/amr_results.rds")
+sec <- readRDS("analysis/data/secondary_results.rds")
+pr  <- readRDS("analysis/data/prisma_results.rds")
+
+inc     <- read_csv("analysis/data/analysis_incidence.csv", show_col_types = FALSE)
+studies <- read_csv("analysis/data/analysis_studies.csv", show_col_types = FALSE)
+starr   <- read_csv("output/incidence.csv", show_col_types = FALSE) %>%
+  filter(study_id == "starr2023")
+
+ov         <- pm$overall
+ov_common  <- pm$overall_common
+ov_classic <- pm$overall_classic
+subg       <- pm$subgroups
+mr         <- pm$metareg
+sens       <- pm$sensitivity
+loo        <- pm$loo
+bias       <- pm$bias
+tf         <- pm$trimfill
+flow       <- pr$flow
+exc        <- pr$exclusion_counts
+
+# ---- Formatting helpers ---------------------------------------------------
+f1    <- function(x) sprintf("%.1f", x)
+f2    <- function(x) sprintf("%.2f", x)
+f3    <- function(x) sprintf("%.3f", x)
+f4    <- function(x) sprintf("%.4f", x)
+pct1  <- function(x) sprintf("%.1f%%", 100 * x)
+pct2  <- function(x) sprintf("%.2f%%", 100 * x)
+ci1   <- function(lo, hi) sprintf("%.1f%%\u2013%.1f%%", 100 * lo, 100 * hi)
+ci2   <- function(lo, hi) sprintf("%.2f%%\u2013%.2f%%", 100 * lo, 100 * hi)
+pval  <- function(p) {
+  ifelse(is.na(p), "NA", ifelse(p < 0.001, "<0.001", sprintf("%.3f", p)))
+}
+comma <- function(x) format(x, big.mark = ",", scientific = FALSE, trim = TRUE)
+astp  <- function(x) sprintf("%.1f%%", x)
+spct  <- function(x, d = 2) sprintf(paste0("%.", d, "f%%"), x)
+sci   <- function(lo, hi, d = 2) sprintf(paste0("%.", d, "f%%\u2013%.", d, "f%%"), lo, hi)
+
+# subgroup lookup
+sg <- function(var, lev, col) {
+  out <- subg[[col]][subg$Subgroup_variable == var & subg$Subgroup == lev]
+  if (length(out) == 0) NA else out
+}
+sgci <- function(var, lev, d = 1) {
+  lo <- sg(var, lev, "Lower"); hi <- sg(var, lev, "Upper")
+  if (d == 1) ci1(lo, hi) else ci2(lo, hi)
+}
+
+# meta-regression lookup
+mg <- function(cov, col) {
+  out <- mr[[col]][mr$Covariate == cov]
+  if (length(out) == 0) NA else out
+}
+
+# AMR lookups
+ao <- function(outcome, col) {
+  out <- amr$overall[[col]][amr$overall$outcome_group == outcome]
+  if (length(out) == 0) NA else out
+}
+ar <- function(outcome, region, col) {
+  out <- amr$by_region[[col]][amr$by_region$outcome_group == outcome &
+                                amr$by_region$subregion == region]
+  if (length(out) == 0) NA else out
+}
+ah <- function(outcome, hosp, col) {
+  out <- amr$by_hospital[[col]][amr$by_hospital$outcome_group == outcome &
+                                  amr$by_hospital$hospital_group == hosp]
+  if (length(out) == 0) NA else out
+}
+ap <- function(outcome, pathogen, col) {
+  out <- amr$by_pathogen[[col]][amr$by_pathogen$outcome_group == outcome &
+                                  amr$by_pathogen$pathogen_group2 == pathogen]
+  if (length(out) == 0) NA else out
+}
+astv <- function(pathogen, drug, col) {
+  out <- amr$ast_summary[[col]][amr$ast_summary$pathogen == pathogen &
+                                  amr$ast_summary$drug == drug]
+  if (length(out) == 0) NA else out
+}
+```
+
+```{css, echo=FALSE}
+body { font-size: 11pt; }
+table { font-size: 9pt; }
+```
+
+This document presents the **Results** first and the **Methods** second, in manuscript order. All counts, estimates and confidence intervals are generated directly from the curated analysis datasets when the document is rendered; no result was typed manually. The corresponding scripts, datasets and figure files are listed at the end.
+
+# Results
+
+## Study selection and characteristics
+
+The supplied, de-duplicated corpus contained `r flow$documents` documents. After screening, `r flow$excluded` documents were excluded and `r flow$included` unique cohorts were included (Figure S4). Exclusions comprised `r exc$n[exc$category == "Duplicate or overlapping reports"]` duplicate or overlapping reports, `r exc$n[exc$category == "Not a primary study or no extractable data"]` documents that were not primary studies or contained no extractable data, `r exc$n[exc$category == "Wrong population or outcome"]` studies with the wrong population or outcome, and `r exc$n[exc$category == "Post-hoc FALCON secondary analysis"]` post-hoc FALCON secondary analysis (Table S12). Of the `r flow$included` included cohorts, `r flow$incidence_component` had an SSI incidence component, `r flow$primary_incidence` entered the primary SSI meta-analysis, `r flow$amr_component` had an AMR component, and `r flow$amr_only` were AMR-only cohorts without an operated-patient denominator (Tables S1 and S2).
+
+The `r nrow(inc)` cohorts in the primary SSI meta-analysis contributed `r comma(sum(inc$n))` surgical patients and `r comma(sum(inc$events))` SSI events (Table 1). Studies were published between `r min(inc$publication_year)` and `r max(inc$publication_year)`; `r sum(inc$period_group == "2020-2026")` of `r nrow(inc)` (`r f1(100 * mean(inc$period_group == "2020-2026"))`%) were published from 2020 onwards. The cohorts came from `r n_distinct(inc$country)` countries: Ethiopia (`r sum(inc$country == "Ethiopia")` cohorts), Tanzania (`r sum(inc$country == "Tanzania")`), Rwanda (`r sum(inc$country == "Rwanda")`), Kenya (`r sum(inc$country == "Kenya")`), and one each from the Democratic Republic of the Congo, Gabon, Malawi, Namibia and Zambia. By ECSA sub-region, `r sum(inc$subregion == "East Africa")` cohorts were from East Africa, `r sum(inc$subregion == "Southern Africa")` from Southern Africa and `r sum(inc$subregion == "Central Africa")` from Central Africa. `r sum(inc$hospital_group == "Tertiary/referral")` cohorts were from tertiary or referral hospitals, `r sum(inc$hospital_group == "Secondary/primary")` from secondary or primary hospitals and `r sum(inc$hospital_group == "Mixed")` from mixed hospital networks. The design distribution was `r sum(inc$design_group == "Cohort")` cohort studies, `r sum(inc$design_group == "Cross-sectional")` cross-sectional studies, `r sum(inc$design_group == "RCT")` randomised trials and `r sum(inc$design_group == "Before-after/QI")` before–after or quality-improvement cohorts. Surgical specialty was mixed or other in `r sum(inc$specialty_group == "Mixed/other")` cohorts, general surgery in `r sum(inc$specialty_group == "General surgery")`, obstetrics/gynaecology in `r sum(inc$specialty_group == "Obstetrics/gynaecology")` and orthopaedics in `r sum(inc$specialty_group == "Orthopaedic")`. Study quality was high in `r sum(inc$quality_overall == "High")` cohorts, moderate in `r sum(inc$quality_overall == "Moderate")` and low in `r sum(inc$quality_overall == "Low")`.
+
+```{r table1a}
+tab1 <- read_csv("analysis/output/tables/table1_primary_incidence_studies.csv",
+                 show_col_types = FALSE)
+
+tab1a <- tab1 %>%
+  select(Study, Country, Subregion, `Hospital level`, Design, Specialty, Quality)
+
+kable(
+  tab1a,
+  caption = "Table 1 (Panel A). Study, setting and design characteristics of the 25 cohorts in the primary SSI incidence meta-analysis.",
+  align = "lllllll",
+  format.args = list(big.mark = ",")
+)
+```
+
+```{r table1b}
+tab1b <- tab1 %>%
+  select(Study, `Cohort n`, `SSI events`, `SSI %`, `SSI definition`,
+         `Derived numerator`, `AMR data`)
+
+kable(
+  tab1b,
+  caption = "Table 1 (Panel B). SSI counts, definitions and data availability in the same 25 cohorts.",
+  align = "lrrllll",
+  digits = 1,
+  format.args = list(big.mark = ",")
+)
+```
+
+The `r nrow(read_csv("analysis/output/tables/table2_amr_only_studies.csv", show_col_types = FALSE))` AMR-only cohorts were observational studies of patients already diagnosed with SSI; they reported pathogen isolation and susceptibility results but no operated-patient denominator, so they could not contribute to SSI incidence (Table 2). They were retained for the AMR synthesis because they satisfy the AMR eligibility criterion (microbiologically confirmed SSI with antimicrobial susceptibility testing).
+
+```{r table2}
+tab2 <- read_csv("analysis/output/tables/table2_amr_only_studies.csv",
+                 show_col_types = FALSE) %>%
+  select(Study, Country, Subregion, `Hospital level`, Design, `AMR rows`, Quality)
+
+kable(
+  tab2,
+  caption = "Table 2. Characteristics of the 12 AMR-only cohorts.",
+  align = "lllllll"
+)
+```
+
+Two inclusion decisions require explicit justification. First, **Starr 2023** was retained in the review (Table S1) but excluded from the primary pooling. The paper reports `r starr$n_ssi_events[1]` SSI events in `r comma(starr$n_total[1])` pre-intervention patients (`r f1(starr$pct_reported[1])`%) and `r starr$n_ssi_events[2]` events in `r comma(starr$n_total[2])` post-intervention patients (`r f1(starr$pct_reported[2])`%), but the counts and percentages are incompatible: `r starr$n_ssi_events[1]`/`r comma(starr$n_total[1])` is `r f1(starr$pct_calculated[1])`%, not `r f1(starr$pct_reported[1])`%, and `r starr$n_ssi_events[2]`/`r comma(starr$n_total[2])` is `r f1(starr$pct_calculated[2])`%, not `r f1(starr$pct_reported[2])`%. The reported percentages imply denominators of approximately `r comma(round(starr$n_ssi_events[1] / (starr$pct_reported[1] / 100)))` and `r comma(round(starr$n_ssi_events[2] / (starr$pct_reported[2] / 100)))`, respectively, rather than the stated cohort sizes. Because no reliable event count can be recovered, including either estimate would introduce an arbitrary and potentially large bias; Starr 2023 is therefore described narratively and in Table S1 but not pooled.
+
+Second, the **FALCON secondary analysis (Aaron Oladipo 2024)** was excluded at screening. It is a post-hoc secondary analysis of a multinational trial conducted across seven low- and middle-income countries (Benin, Ghana, India, Mexico, Nigeria, Rwanda and South Africa), of which only Rwanda and South Africa are in ECSA. It reports no ECSA-specific strata and is not a primary ECSA surgical cohort. Including it would violate the population criterion and risk double-counting trial participants; the exclusion is recorded in Table S2.
+
+One further harmonisation decision affected a pooled estimate. **Mukagendaneza 2019** reported 10.2% in the results and 10.9% in the abstract, whereas its extracted counts give `r f1(100 * 34 / 294)`% (`34/294`). The count-based estimate (`r f1(100 * 34 / 294)`%) was used, consistent with the pre-specified rule of preferring reported counts over inconsistently reported percentages.
+
+## Primary outcome: SSI incidence
+
+Across the `r ov$k` cohorts, `r comma(ov$Events)` SSI events occurred among `r comma(ov$Patients)` patients. The random-effects pooled SSI proportion was **`r pct2(ov$Proportion)` (95% CI `r ci2(ov$Lower, ov$Upper)`)**, with a 95% prediction interval of `r ci2(ov$PI_lower, ov$PI_upper)` (Table 3; Figure 1). The crude, unweighted proportion was `r pct1(sum(inc$events) / sum(inc$n))` (`r comma(sum(inc$events))`/`r comma(sum(inc$n))`). Between-study heterogeneity was very high: I² = `r f1(ov$I2)`%, tau² = `r f4(ov$tau2)` on the logit scale, and Cochran Q = `r comma(round(ov$Q))` (df = `r ov$k - 1`, p `r pval(ov$p_Q)`). Individual study estimates ranged from `r f1(min(inc$pct_calculated))`% (Scherbaum 2014) to `r f1(max(inc$pct_calculated))`% (Habtemariam 2023).
+
+The prediction interval is a better guide to transportability than the confidence interval alone: a future ECSA surgical population with a similar distribution of settings could plausibly have an SSI proportion anywhere between `r f1(100 * ov$PI_lower)`% and `r f1(100 * ov$PI_upper)`%. The common-effect estimate was `r pct2(ov_common$Proportion)` (95% CI `r ci2(ov_common$Lower, ov_common$Upper)`) and the random-effects model with a conventional Wald interval gave `r pct2(ov_classic$Proportion)` (95% CI `r ci2(ov_classic$Lower, ov_classic$Upper)`); both are presented only as sensitivity comparisons, because the common-effect assumption is not credible with this degree of heterogeneity.
+
+```{r table3}
+tab3 <- tibble::tibble(
+  Analysis = "Primary random-effects model",
+  k = ov$k,
+  Events = ov$Events,
+  Patients = ov$Patients,
+  `Pooled SSI % (95% CI)` = sprintf("%.2f (%.2f\u2013%.2f)",
+                                    100 * ov$Proportion, 100 * ov$Lower, 100 * ov$Upper),
+  `Prediction interval` = sprintf("%.2f\u2013%.2f",
+                                  100 * ov$PI_lower, 100 * ov$PI_upper),
+  `I² (%)` = round(ov$I2, 1),
+  `tau²` = round(ov$tau2, 4),
+  Q = round(ov$Q, 1),
+  `p heterogeneity` = pval(ov$p_Q)
+)
+
+kable(
+  tab3,
+  caption = "Table 3. Primary random-effects meta-analysis of SSI incidence.",
+  align = "lrrrrrrrrr",
+  format.args = list(big.mark = ",")
+)
+```
+
+```{r fig1, fig.cap="Figure 1. Forest plot of SSI incidence in the 25 primary cohorts. Weights are inverse-variance random-effects weights; the diamond is the pooled estimate and the red bar is the 95% prediction interval. The x-axis is truncated at 60% for readability; one study estimate (Habtemariam 2023, 61.8%) lies beyond the plotted range."}
+knitr::include_graphics(normalizePath("analysis/output/figures/fig1_forest_primary.png"))
+```
+
+## Publication bias and sensitivity analyses
+
+Visual inspection of the funnel plot showed no clear asymmetry (Figure 2). Egger's regression test did not indicate small-study effects (test statistic `r f3(unname(pm$egger$statistic))`; bias coefficient `r f3(unname(pm$egger$estimate["bias"]))`, SE `r f3(unname(pm$egger$estimate["se.bias"]))`, p = `r pval(bias$p_value[bias$Test == "Egger regression"])`), whereas Begg's rank-correlation test was statistically significant (test statistic `r f3(unname(pm$begg$statistic))`; Kendall score `r f1(unname(pm$begg$estimate["ks"]))`, SE `r f1(unname(pm$begg$estimate["se.ks"]))`, p = `r pval(bias$p_value[bias$Test == "Begg rank correlation"])`). Trim-and-fill added `r tf$k0` hypothetical studies and shifted the pooled estimate to `r pct2(tf$proportion)` (95% CI `r ci2(tf$lower, tf$upper)`). The discrepancy between Egger's and Begg's tests, and the trim-and-fill result, suggest that some small studies with low SSI proportions may be missing; the primary estimate should therefore be interpreted with caution rather than as a definitive regional burden.
+
+```{r fig2, fig.cap="Figure 2. Funnel plot of study-level SSI proportions against precision. The dashed line is the random-effects pooled estimate. Egger's test p = 0.223; Begg's test p = 0.025."}
+knitr::include_graphics(normalizePath("analysis/output/figures/fig2_funnel_primary.png"))
+```
+
+Leave-one-out analysis produced pooled estimates from `r pct2(min(loo$Proportion))` to `r pct2(max(loo$Proportion))`; the pooled estimate remained within this range in every leave-one-out model (Table S4; Figure S1). The largest change followed omission of Habtemariam 2023 (`r pct2(loo$Proportion[loo$Omitted == "Omitting Habtemariam 2023"])`, 95% CI `r ci2(loo$Lower[loo$Omitted == "Omitting Habtemariam 2023"], loo$Upper[loo$Omitted == "Omitting Habtemariam 2023"])`), the cohort with the highest observed SSI proportion. The primary conclusion was not sensitive to any single study.
+
+The pre-specified sensitivity analyses are summarised in Table S3. Excluding the 3 cohorts with derived incidence counts gave `r spct(sens$Proportion[sens$Analysis == "Excluding derived incidence counts"])` (95% CI `r sci(sens$Lower[sens$Analysis == "Excluding derived incidence counts"], sens$Upper[sens$Analysis == "Excluding derived incidence counts"])`, k = `r sens$k[sens$Analysis == "Excluding derived incidence counts"]`). Excluding low-quality cohorts gave `r spct(sens$Proportion[sens$Analysis == "Excluding low-quality studies"])` (95% CI `r sci(sens$Lower[sens$Analysis == "Excluding low-quality studies"], sens$Upper[sens$Analysis == "Excluding low-quality studies"])`, k = `r sens$k[sens$Analysis == "Excluding low-quality studies"]`). Excluding before–after/quality-improvement designs gave `r spct(sens$Proportion[sens$Analysis == "Excluding before-after/quality-improvement designs"])` (95% CI `r sci(sens$Lower[sens$Analysis == "Excluding before-after/quality-improvement designs"], sens$Upper[sens$Analysis == "Excluding before-after/quality-improvement designs"])`, k = `r sens$k[sens$Analysis == "Excluding before-after/quality-improvement designs"]`). Restricting to cohort studies gave `r spct(sens$Proportion[sens$Analysis == "Cohort studies only"])` (95% CI `r sci(sens$Lower[sens$Analysis == "Cohort studies only"], sens$Upper[sens$Analysis == "Cohort studies only"])`, k = `r sens$k[sens$Analysis == "Cohort studies only"]`). Excluding cohorts with more than 1,000 patients gave `r spct(sens$Proportion[sens$Analysis == "Excluding cohorts with >1,000 patients"])` (95% CI `r sci(sens$Lower[sens$Analysis == "Excluding cohorts with >1,000 patients"], sens$Upper[sens$Analysis == "Excluding cohorts with >1,000 patients"])`, k = `r sens$k[sens$Analysis == "Excluding cohorts with >1,000 patients"]`). All sensitivity estimates remained within the range of the primary estimate and its prediction interval, although the cohort-only estimate was lower (`r spct(sens$Proportion[sens$Analysis == "Cohort studies only"])`).
+
+```{r figS1, fig.cap="Figure S1. Leave-one-out sensitivity analysis. Each point is the pooled SSI proportion after omitting the named cohort; horizontal bars are 95% confidence intervals."}
+knitr::include_graphics(normalizePath("analysis/output/figures/figS1_leave_one_out.png"))
+```
+
+## Pre-specified subgroup analyses
+
+Subgroup analyses are shown in Table 4 and Figure 3 (specialty forest plot in Figure S2). There was evidence of differences by surgical specialty (p = `r pval(sg("Surgical specialty", "General surgery", "p_between"))`), but not by hospital level (p = `r pval(sg("Hospital level", "Tertiary/referral", "p_between"))`), ECSA sub-region (p = `r pval(sg("ECSA sub-region", "East Africa", "p_between"))`), study design (p = `r pval(sg("Study design", "Cohort", "p_between"))`) or publication period (p = `r pval(sg("Publication period", "2013-2019", "p_between"))`).
+
+For surgical specialty, the pooled proportions were `r pct1(sg("Surgical specialty", "General surgery", "Proportion"))` (95% CI `r sgci("Surgical specialty", "General surgery")`, k = `r sg("Surgical specialty", "General surgery", "k")`) in general surgery, `r pct1(sg("Surgical specialty", "Mixed/other", "Proportion"))` (`r sgci("Surgical specialty", "Mixed/other")`, k = `r sg("Surgical specialty", "Mixed/other", "k")`) in mixed/other surgery, `r pct1(sg("Surgical specialty", "Orthopaedic", "Proportion"))` (`r sgci("Surgical specialty", "Orthopaedic")`, k = `r sg("Surgical specialty", "Orthopaedic", "k")`) in orthopaedics and `r pct1(sg("Surgical specialty", "Obstetrics/gynaecology", "Proportion"))` (`r sgci("Surgical specialty", "Obstetrics/gynaecology")`, k = `r sg("Surgical specialty", "Obstetrics/gynaecology", "k")`) in obstetrics/gynaecology. For hospital level, tertiary/referral hospitals had `r pct1(sg("Hospital level", "Tertiary/referral", "Proportion"))` (`r sgci("Hospital level", "Tertiary/referral")`, k = `r sg("Hospital level", "Tertiary/referral", "k")`), secondary/primary hospitals `r pct1(sg("Hospital level", "Secondary/primary", "Proportion"))` (`r sgci("Hospital level", "Secondary/primary")`, k = `r sg("Hospital level", "Secondary/primary", "k")`) and mixed networks `r pct1(sg("Hospital level", "Mixed", "Proportion"))` (`r sgci("Hospital level", "Mixed")`, k = `r sg("Hospital level", "Mixed", "k")`).
+
+Regional estimates were `r pct1(sg("ECSA sub-region", "East Africa", "Proportion"))` (`r sgci("ECSA sub-region", "East Africa")`, k = `r sg("ECSA sub-region", "East Africa", "k")`) in East Africa, `r pct1(sg("ECSA sub-region", "Central Africa", "Proportion"))` (`r sgci("ECSA sub-region", "Central Africa")`, k = `r sg("ECSA sub-region", "Central Africa", "k")`) in Central Africa and `r pct1(sg("ECSA sub-region", "Southern Africa", "Proportion"))` (`r sgci("ECSA sub-region", "Southern Africa")`, k = `r sg("ECSA sub-region", "Southern Africa", "k")`) in Southern Africa. The Central African estimate is based on only two cohorts and has a confidence interval spanning the entire allowable range; it should not be interpreted as a regional burden estimate. The same caution applies to the orthopaedic (k = 2), mixed-hospital (k = `r sg("Hospital level", "Mixed", "k")`), before–after/quality-improvement (k = 2) and randomised-trial (k = 2) subgroups. These sparse subgroups are reported for completeness, as required by the protocol, but were not used to support comparative conclusions.
+
+```{r table4}
+tab4 <- subg %>%
+  transmute(
+    `Subgroup variable` = Subgroup_variable,
+    Subgroup,
+    k,
+    Events,
+    Patients,
+    `SSI % (95% CI)` = sprintf("%.1f (%.1f\u2013%.1f)",
+                               100 * Proportion, 100 * Lower, 100 * Upper),
+    `I² (%)` = round(I2, 1),
+    `p within` = pval(p_within),
+    `p between` = pval(p_between)
+  )
+
+kable(
+  tab4,
+  caption = "Table 4. Pre-specified subgroup analyses of SSI incidence.",
+  align = "llrrrrrrr",
+  format.args = list(big.mark = ",")
+)
+```
+
+```{r fig3, fig.cap="Figure 3. Subgroup summary plot for SSI incidence. Points are subgroup random-effects estimates; horizontal bars are 95% confidence intervals. The dashed line is the overall random-effects estimate. Confidence intervals extending beyond 70% are truncated for readability."}
+knitr::include_graphics(normalizePath("analysis/output/figures/fig3_subgroup_summary.png"))
+```
+
+```{r figS2, fig.cap="Figure S2. Forest plot of SSI incidence by surgical specialty."}
+knitr::include_graphics(normalizePath("analysis/output/figures/figS2_forest_specialty.png"))
+```
+
+The protocol also specified wound contamination class as a subgroup. Studies in the incidence component did not report SSI incidence stratified by CDC wound class, so this subgroup could not be estimated at the incidence level. Wound class was instead examined in the SSI-positive ecological analyses described below, using study-level proportions of contaminated or dirty wounds among SSI cases; that analysis does not substitute for an incidence subgroup and is interpreted accordingly.
+
+## SSI-positive ecological analyses
+
+To explore whether characteristics of SSI-positive patients explained between-study variation, we assembled study-level data on the proportion of SSI cases who were male, HIV-positive, exposed to preoperative antibiotic prophylaxis, or had a contaminated/dirty wound (Table 5). Data were available for `r sum(!is.na(inc$male_ssi))` cohorts for gender, `r sum(!is.na(inc$hiv_positive))` for HIV, `r sum(!is.na(inc$preop_prophylaxis_yes))` for preoperative prophylaxis and `r sum(!is.na(inc$contaminated_pct))` for wound class. These are **ecological, study-level analyses**, not individual-patient subgroup analyses: the exposure and outcome are both aggregated within each cohort, and the resulting odds ratios describe between-cohort associations.
+
+None of the four SSI-positive characteristics was statistically associated with the pooled SSI proportion. A 10-percentage-point higher proportion of male SSI cases was associated with an OR of `r f2(mg("Male proportion among SSI cases", "OR"))` (95% CI `r f2(mg("Male proportion among SSI cases", "Lower"))`–`r f2(mg("Male proportion among SSI cases", "Upper"))`, p = `r pval(mg("Male proportion among SSI cases", "p_value"))`, k = `r mg("Male proportion among SSI cases", "k")`, R² = `r f1(mg("Male proportion among SSI cases", "R2_percent"))`%). For HIV, the OR was `r f2(mg("HIV positivity among SSI cases", "OR"))` (95% CI `r f2(mg("HIV positivity among SSI cases", "Lower"))`–`r f2(mg("HIV positivity among SSI cases", "Upper"))`, p = `r pval(mg("HIV positivity among SSI cases", "p_value"))`, k = `r mg("HIV positivity among SSI cases", "k")`, R² = `r f1(mg("HIV positivity among SSI cases", "R2_percent"))`%). For preoperative antibiotic prophylaxis, the OR was `r f2(mg("Preoperative antibiotic prophylaxis", "OR"))` (95% CI `r f2(mg("Preoperative antibiotic prophylaxis", "Lower"))`–`r f2(mg("Preoperative antibiotic prophylaxis", "Upper"))`, p = `r pval(mg("Preoperative antibiotic prophylaxis", "p_value"))`, k = `r mg("Preoperative antibiotic prophylaxis", "k")`, R² = `r f1(mg("Preoperative antibiotic prophylaxis", "R2_percent"))`%). For contaminated or dirty wounds, the OR was `r f2(mg("Contaminated or dirty wound class", "OR"))` (95% CI `r f2(mg("Contaminated or dirty wound class", "Lower"))`–`r f2(mg("Contaminated or dirty wound class", "Upper"))`, p = `r pval(mg("Contaminated or dirty wound class", "p_value"))`, k = `r mg("Contaminated or dirty wound class", "k")`, R² = `r f1(mg("Contaminated or dirty wound class", "R2_percent"))`%).
+
+Two additional study-level covariates were examined. Each additional publication year was associated with an OR of `r f2(mg("Publication year", "OR"))` (95% CI `r f2(mg("Publication year", "Lower"))`–`r f2(mg("Publication year", "Upper"))`, p = `r pval(mg("Publication year", "p_value"))`), and each doubling of cohort size with an OR of `r f2(mg("Cohort size (log10)", "OR"))` (95% CI `r f2(mg("Cohort size (log10)", "Lower"))`–`r f2(mg("Cohort size (log10)", "Upper"))`, p = `r pval(mg("Cohort size (log10)", "p_value"))`). Neither was statistically significant. The absence of associations should not be read as evidence that gender, HIV, prophylaxis or wound class are unrelated to SSI risk: the analyses are underpowered, exposure definitions vary across studies, and ecological bias can operate in either direction.
+
+```{r table5}
+tab5 <- mr %>%
+  transmute(
+    Covariate,
+    k,
+    Increment,
+    `OR (95% CI)` = sprintf("%.2f (%.2f\u2013%.2f)", OR, Lower, Upper),
+    p = pval(p_value),
+    `R² (%)` = round(R2_percent, 1),
+    `tau²` = round(tau2, 4)
+  )
+
+kable(
+  tab5,
+  caption = "Table 5. Exploratory study-level meta-regression of SSI incidence.",
+  align = "lrllrrr"
+)
+```
+
+## Priority AMR outcomes
+
+The AMR component yielded `r amr$n_priority_rows` extracted priority estimates from `r amr$n_studies` studies. After removing duplicate third-generation cephalosporin/ESBL rows for the same study and pathogen, `r amr$n_dedup_rows` rows remained; collapsing species-level rows into one estimate per study and outcome produced `r amr$n_study_outcome_rows` study–outcome rows. The three priority outcomes were MRSA, third-generation cephalosporin/ESBL resistance, and carbapenem resistance.
+
+Across studies, MRSA was identified in `r ao("MRSA", "Resistant")` of `r ao("MRSA", "Tested")` tested isolates (`r ao("MRSA", "Studies")` studies; crude aggregate `r pct1(ao("MRSA", "Crude"))`; median study estimate `r pct1(ao("MRSA", "Median"))`, range `r f1(100 * ao("MRSA", "Min"))`–`r f1(100 * ao("MRSA", "Max"))`%; IQR `r f1(100 * ao("MRSA", "Q1"))`–`r f1(100 * ao("MRSA", "Q3"))`%). Third-generation cephalosporin/ESBL resistance was identified in `r ao("3GC/ESBL resistance", "Resistant")` of `r ao("3GC/ESBL resistance", "Tested")` isolates (`r ao("3GC/ESBL resistance", "Studies")` studies; crude `r pct1(ao("3GC/ESBL resistance", "Crude"))`; median `r pct1(ao("3GC/ESBL resistance", "Median"))`, range `r f1(100 * ao("3GC/ESBL resistance", "Min"))`–`r f1(100 * ao("3GC/ESBL resistance", "Max"))`%; IQR `r f1(100 * ao("3GC/ESBL resistance", "Q1"))`–`r f1(100 * ao("3GC/ESBL resistance", "Q3"))`%). Carbapenem resistance was identified in `r ao("Carbapenem resistance", "Resistant")` of `r ao("Carbapenem resistance", "Tested")` isolates (`r ao("Carbapenem resistance", "Studies")` studies; crude `r pct1(ao("Carbapenem resistance", "Crude"))`; median `r pct1(ao("Carbapenem resistance", "Median"))`, range `r f1(100 * ao("Carbapenem resistance", "Min"))`–`r f1(100 * ao("Carbapenem resistance", "Max"))`%; IQR `r f1(100 * ao("Carbapenem resistance", "Q1"))`–`r f1(100 * ao("Carbapenem resistance", "Q3"))`%) (Table 6; Figures 4 and 5).
+
+These estimates are **not pooled**. The studies differ in whether the denominator is infected patients or isolates, in whether species-level or aggregate Gram-negative results are reported, in AST method and breakpoint interpretation, and in the resistance definition (phenotypic MRSA, oxacillin/cefoxitin resistance, 3GC resistance, ESBL phenotype or carbapenemase production). A random-effects pooled prevalence would be statistically precise but clinically difficult to interpret and would not transport to a particular setting. We therefore report the median study estimate (equal weight per study), the range and IQR (between-study variation), and the crude aggregate proportion (isolate-weighted, for transparency). This is a deliberate departure from the protocol's pooled-prevalence wording, justified by the heterogeneity described in the Methods.
+
+```{r table6}
+tab6 <- read_csv("analysis/output/tables/table6_amr_overall.csv",
+                 show_col_types = FALSE)
+kable(
+  tab6,
+  caption = "Table 6. Priority AMR outcomes: study-level and crude aggregate summaries.",
+  align = "lrrrrrrr"
+)
+```
+
+```{r fig4, fig.cap="Figure 4. Study-level priority AMR estimates. Each point is one study-level proportion; horizontal bars are medians. Point shape indicates hospital level and colour indicates ECSA sub-region. No meta-analysis was performed."}
+knitr::include_graphics(normalizePath("analysis/output/figures/fig4_amr_priority_dotplot.png"))
+```
+
+```{r fig5, fig.cap="Figure 5. Heatmap of study-level priority AMR estimates by ECSA sub-region. Each cell is one study-level estimate; blank cells indicate no priority AMR row for that study and outcome."}
+knitr::include_graphics(normalizePath("analysis/output/figures/fig5_amr_study_outcome_heatmap.png"))
+```
+
+### Regional and hospital-level patterns
+
+Priority AMR data were concentrated in East Africa (Table 7). MRSA was reported by `r ar("MRSA", "East Africa", "Studies")` East African studies (`r ar("MRSA", "East Africa", "Resistant")`/`r ar("MRSA", "East Africa", "Tested")` isolates; crude `r pct1(ar("MRSA", "East Africa", "Crude"))`; median `r pct1(ar("MRSA", "East Africa", "Median"))`) and by one Central African study (`r ar("MRSA", "Central Africa", "Resistant")`/`r ar("MRSA", "Central Africa", "Tested")`; `r pct1(ar("MRSA", "Central Africa", "Crude"))`). Third-generation cephalosporin/ESBL resistance was reported by `r ar("3GC/ESBL resistance", "East Africa", "Studies")` East African studies (`r ar("3GC/ESBL resistance", "East Africa", "Resistant")`/`r ar("3GC/ESBL resistance", "East Africa", "Tested")`; crude `r pct1(ar("3GC/ESBL resistance", "East Africa", "Crude"))`; median `r pct1(ar("3GC/ESBL resistance", "East Africa", "Median"))`) and by one Central African study (`r ar("3GC/ESBL resistance", "Central Africa", "Resistant")`/`r ar("3GC/ESBL resistance", "Central Africa", "Tested")`; `r pct1(ar("3GC/ESBL resistance", "Central Africa", "Crude"))`). Carbapenem resistance was reported only by East African studies (`r ar("Carbapenem resistance", "East Africa", "Studies")` studies; `r ar("Carbapenem resistance", "East Africa", "Resistant")`/`r ar("Carbapenem resistance", "East Africa", "Tested")`; crude `r pct1(ar("Carbapenem resistance", "East Africa", "Crude"))`; median `r pct1(ar("Carbapenem resistance", "East Africa", "Median"))`). **No Southern African study contributed a priority AMR estimate**, and Central Africa contributed only one estimate for MRSA and one for 3GC/ESBL resistance. The regional comparison is therefore a description of where evidence exists, not a test of regional differences.
+
+```{r table7}
+tab7 <- read_csv("analysis/output/tables/table7_amr_by_region.csv",
+                 show_col_types = FALSE)
+kable(
+  tab7,
+  caption = "Table 7. Priority AMR outcomes by ECSA sub-region.",
+  align = "llrrrrrrr"
+)
+```
+
+By hospital level (Table 8), MRSA crude prevalence was `r pct1(ah("MRSA", "Tertiary/referral", "Crude"))` in tertiary/referral hospitals (`r ah("MRSA", "Tertiary/referral", "Studies")` studies; median `r pct1(ah("MRSA", "Tertiary/referral", "Median"))`) and `r pct1(ah("MRSA", "Secondary/primary", "Crude"))` in secondary/primary hospitals (`r ah("MRSA", "Secondary/primary", "Studies")` studies; median `r pct1(ah("MRSA", "Secondary/primary", "Median"))`). Third-generation cephalosporin/ESBL resistance was `r pct1(ah("3GC/ESBL resistance", "Tertiary/referral", "Crude"))` in tertiary/referral hospitals (`r ah("3GC/ESBL resistance", "Tertiary/referral", "Studies")` studies; median `r pct1(ah("3GC/ESBL resistance", "Tertiary/referral", "Median"))`), `r pct1(ah("3GC/ESBL resistance", "Secondary/primary", "Crude"))` in the single secondary/primary study and `r pct1(ah("3GC/ESBL resistance", "Mixed", "Crude"))` in mixed hospital networks (`r ah("3GC/ESBL resistance", "Mixed", "Studies")` studies). Carbapenem resistance was `r pct1(ah("Carbapenem resistance", "Tertiary/referral", "Crude"))` in tertiary/referral hospitals (`r ah("Carbapenem resistance", "Tertiary/referral", "Studies")` studies; median `r pct1(ah("Carbapenem resistance", "Tertiary/referral", "Median"))`), `r pct1(ah("Carbapenem resistance", "Secondary/primary", "Crude"))` in the single secondary/primary study and `r pct1(ah("Carbapenem resistance", "Mixed", "Crude"))` in mixed hospital networks (`r ah("Carbapenem resistance", "Mixed", "Studies")` studies). These hospital-level contrasts are based on very few studies and should be treated as hypothesis-generating.
+
+```{r table8}
+tab8 <- read_csv("analysis/output/tables/table8_amr_by_hospital.csv",
+                 show_col_types = FALSE)
+kable(
+  tab8,
+  caption = "Table 8. Priority AMR outcomes by hospital level.",
+  align = "llrrrrrrr"
+)
+```
+
+### Pathogen-specific patterns
+
+Pathogen-specific estimates are shown in Table 9 and Figure S3 (pathogen-by-region detail in Table S7). Among *S. aureus* isolates, MRSA prevalence was `r pct1(ap("MRSA", "Staphylococcus aureus", "Crude"))` (`r ap("MRSA", "Staphylococcus aureus", "Resistant")`/`r ap("MRSA", "Staphylococcus aureus", "Tested")`; `r ap("MRSA", "Staphylococcus aureus", "Studies")` studies; median `r pct1(ap("MRSA", "Staphylococcus aureus", "Median"))`, range `r f1(100 * ap("MRSA", "Staphylococcus aureus", "Min"))`–`r f1(100 * ap("MRSA", "Staphylococcus aureus", "Max"))`%). Third-generation cephalosporin/ESBL resistance was `r pct1(ap("3GC/ESBL resistance", "E. coli", "Crude"))` in *E. coli* (`r ap("3GC/ESBL resistance", "E. coli", "Resistant")`/`r ap("3GC/ESBL resistance", "E. coli", "Tested")`; `r ap("3GC/ESBL resistance", "E. coli", "Studies")` studies; median `r pct1(ap("3GC/ESBL resistance", "E. coli", "Median"))`, range `r f1(100 * ap("3GC/ESBL resistance", "E. coli", "Min"))`–`r f1(100 * ap("3GC/ESBL resistance", "E. coli", "Max"))`%) and `r pct1(ap("3GC/ESBL resistance", "Klebsiella spp.", "Crude"))` in *Klebsiella* spp. (`r ap("3GC/ESBL resistance", "Klebsiella spp.", "Resistant")`/`r ap("3GC/ESBL resistance", "Klebsiella spp.", "Tested")`; `r ap("3GC/ESBL resistance", "Klebsiella spp.", "Studies")` studies; median `r pct1(ap("3GC/ESBL resistance", "Klebsiella spp.", "Median"))`, range `r f1(100 * ap("3GC/ESBL resistance", "Klebsiella spp.", "Min"))`–`r f1(100 * ap("3GC/ESBL resistance", "Klebsiella spp.", "Max"))`%). Carbapenem resistance was `r pct1(ap("Carbapenem resistance", "A. baumannii", "Crude"))` in *A. baumannii* (`r ap("Carbapenem resistance", "A. baumannii", "Resistant")`/`r ap("Carbapenem resistance", "A. baumannii", "Tested")`; `r ap("Carbapenem resistance", "A. baumannii", "Studies")` studies; median `r pct1(ap("Carbapenem resistance", "A. baumannii", "Median"))`) and `r pct1(ap("Carbapenem resistance", "P. aeruginosa", "Crude"))` in *P. aeruginosa* (`r ap("Carbapenem resistance", "P. aeruginosa", "Resistant")`/`r ap("Carbapenem resistance", "P. aeruginosa", "Tested")`; `r ap("Carbapenem resistance", "P. aeruginosa", "Studies")` studies; median `r pct1(ap("Carbapenem resistance", "P. aeruginosa", "Median"))`).
+
+```{r table9}
+tab9 <- read_csv("analysis/output/tables/table9_amr_by_pathogen.csv",
+                 show_col_types = FALSE)
+kable(
+  tab9,
+  caption = "Table 9. Priority AMR outcomes by pathogen group.",
+  align = "llrrrrrrr"
+)
+```
+
+```{r figS3, fig.cap="Figure S3. Pathogen-specific priority AMR estimates. Each point is a study-level estimate; horizontal bars are medians. No meta-analysis was performed."}
+knitr::include_graphics(normalizePath("analysis/output/figures/figS3_amr_pathogen_specific.png"))
+```
+
+## Antimicrobial susceptibility patterns
+
+The AST panel contained `r comma(amr$n_ast_rows)` isolate–drug observations from `r amr$n_ast_studies` studies and five pathogens (Tables S9 and S10). Equivalent agents were combined into drug classes (for example, oxacillin and cefoxitin as the MRSA marker; cefotaxime and ceftriaxone as third-generation cephalosporins; meropenem and imipenem as carbapenems), and repeated agents within the same study and class were averaged so that each study contributed once per class. The resulting `r nrow(amr$ast_summary)` pathogen–drug summaries are displayed in Figures 6 and 7; all values are medians of study-level resistance percentages, not pooled prevalence estimates.
+
+For *S. aureus* (Figure 7), median resistance was `r astp(astv("Staphylococcus aureus", "Oxacillin/cefoxitin (MRSA)", "Median"))` for oxacillin/cefoxitin (`r astv("Staphylococcus aureus", "Oxacillin/cefoxitin (MRSA)", "Studies")` studies; range `r f1(astv("Staphylococcus aureus", "Oxacillin/cefoxitin (MRSA)", "Min"))`–`r f1(astv("Staphylococcus aureus", "Oxacillin/cefoxitin (MRSA)", "Max"))`%), `r astp(astv("Staphylococcus aureus", "Vancomycin", "Median"))` for vancomycin (`r astv("Staphylococcus aureus", "Vancomycin", "Studies")` studies; maximum `r f1(astv("Staphylococcus aureus", "Vancomycin", "Max"))`%), `r astp(astv("Staphylococcus aureus", "Gentamicin", "Median"))` for gentamicin, `r astp(astv("Staphylococcus aureus", "Ciprofloxacin", "Median"))` for ciprofloxacin, `r astp(astv("Staphylococcus aureus", "Clindamycin", "Median"))` for clindamycin, `r astp(astv("Staphylococcus aureus", "Erythromycin/azithromycin", "Median"))` for erythromycin/azithromycin and `r astp(astv("Staphylococcus aureus", "Penicillin", "Median"))` for penicillin. The low median vancomycin resistance is reassuring, but the maximum of `r f1(astv("Staphylococcus aureus", "Vancomycin", "Max"))`% shows that non-susceptible isolates have been reported; the number of studies contributing to each drug varies widely.
+
+For Gram-negative pathogens (Figure 6), median third-generation cephalosporin resistance was `r astp(astv("Escherichia coli", "Cefotaxime/ceftriaxone (3GC)", "Median"))` in *E. coli* (`r astv("Escherichia coli", "Cefotaxime/ceftriaxone (3GC)", "Studies")` studies; range `r f1(astv("Escherichia coli", "Cefotaxime/ceftriaxone (3GC)", "Min"))`–`r f1(astv("Escherichia coli", "Cefotaxime/ceftriaxone (3GC)", "Max"))`%) and `r astp(astv("Klebsiella pneumoniae", "Cefotaxime/ceftriaxone (3GC)", "Median"))` in *K. pneumoniae* (`r astv("Klebsiella pneumoniae", "Cefotaxime/ceftriaxone (3GC)", "Studies")` studies; range `r f1(astv("Klebsiella pneumoniae", "Cefotaxime/ceftriaxone (3GC)", "Min"))`–`r f1(astv("Klebsiella pneumoniae", "Cefotaxime/ceftriaxone (3GC)", "Max"))`%). Median carbapenem resistance was `r astp(astv("Escherichia coli", "Meropenem/imipenem", "Median"))` in *E. coli* (`r astv("Escherichia coli", "Meropenem/imipenem", "Studies")` studies), `r astp(astv("Klebsiella pneumoniae", "Meropenem/imipenem", "Median"))` in *K. pneumoniae* (`r astv("Klebsiella pneumoniae", "Meropenem/imipenem", "Studies")` studies), `r astp(astv("Pseudomonas aeruginosa", "Meropenem/imipenem", "Median"))` in *P. aeruginosa* (`r astv("Pseudomonas aeruginosa", "Meropenem/imipenem", "Studies")` studies) and `r astp(astv("Acinetobacter baumannii", "Meropenem/imipenem", "Median"))` in *A. baumannii* (`r astv("Acinetobacter baumannii", "Meropenem/imipenem", "Studies")` studies). Amikacin resistance was consistently lower than resistance to the other agents shown, with medians of `r astp(astv("Escherichia coli", "Amikacin", "Median"))` in *E. coli*, `r astp(astv("Klebsiella pneumoniae", "Amikacin", "Median"))` in *K. pneumoniae*, `r astp(astv("Pseudomonas aeruginosa", "Amikacin", "Median"))` in *P. aeruginosa* and `r astp(astv("Acinetobacter baumannii", "Amikacin", "Median"))` in *A. baumannii*.
+
+```{r fig6, fig.cap="Figure 6. Heatmap of median antimicrobial resistance among Gram-negative pathogens. Cell values are medians of study-level resistance percentages; n is the number of studies contributing to each pathogen–drug cell."}
+knitr::include_graphics(normalizePath("analysis/output/figures/fig6_ast_gram_negative_heatmap.png"))
+```
+
+```{r fig7, fig.cap="Figure 7. Staphylococcus aureus resistance patterns. Bars are medians of study-level resistance percentages; points are individual study estimates; n is the number of contributing studies."}
+knitr::include_graphics(normalizePath("analysis/output/figures/fig7_ast_saureus.png"))
+```
+
+## Secondary clinical and economic outcomes
+
+Twelve outcome rows were extracted from `r sec$n_outcome_studies` studies (Table 10). Mortality was reported by five studies. Agade 2026 reported `34/393` deaths (`8.7%`) in the whole cohort; Deyem 2025 reported `24/218` (`11.0%`) and a strong association between SSI and mortality (`23.94%` vs `4.76%`; OR `6.30`, 95% CI `2.50`–`16.00`, p < 0.0001); Mukagendaneza 2019 reported `3/294` (`1.0%`); Starr 2023 reported `4.4%` vs `5.5%` (p = 0.34); and Forrester 2021 reported 20 deaths in total without an SSI-specific denominator. The mortality definitions and time windows were not comparable, and only one study provided an SSI-versus-no-SSI contrast, so no pooled mortality estimate was calculated.
+
+Length of stay was reported by three studies. Agade 2026 reported a mean of 5 days and a median of 3 days (IQR 3–10); Starr 2023 reported 5.1 vs 5.6 days (p = 0.35); and Forrester 2021 reported no numeric estimate. Gentilotti 2020 reported an estimated hospital cost saving of approximately EUR 1500 after the intervention, explicitly described by the authors as an estimate rather than a measured provider cost. Kachipedzu 2024 reported readmission in `12/20` (`60%`) women with SSI, and Starr 2023 reported reoperation in `1.0%` vs `2.9%` (p < 0.001). The paucity of comparable definitions, time horizons and denominators precluded meta-analysis; the evidence is summarised narratively.
+
+```{r table10}
+tab10 <- read_csv("analysis/output/tables/table10_secondary_outcomes.csv",
+                  show_col_types = FALSE) %>%
+  select(Study, Year, Country, Domain, Outcome, `Group / comparator`,
+         `Reported value`, `Effect (95% CI)`, p)
+
+kable(
+  tab10,
+  caption = "Table 10. Reported clinical and economic outcomes associated with SSI.",
+  align = "lllllllll"
+)
+```
+
+## Reported drivers of SSI and AMR
+
+Twenty-six driver rows were extracted from `r sec$n_driver_studies` studies across `r nrow(sec$table12)` domains; `r sec$n_ratio_estimates` rows contained a ratio estimate with a confidence interval and are displayed in Figure 8 (Tables 11 and 12). The most consistent signal was wound contamination: Kefale 2020 reported adjusted odds ratios of `6.01` (95% CI `1.77`–`16.80`) for contaminated wounds and `7.20` (`1.23`–`12.10`) for dirty wounds relative to clean wounds; Deyem 2025 reported `4.50` (`1.80`–`11.50`) for contaminated or dirty wounds; and Boru 2025 reported `3.17` (`1.21`–`8.30`) for clean-contaminated wounds. These estimates are directionally consistent despite different adjustment sets and outcome definitions.
+
+Hospital stay was associated with SSI in several studies, most extreme in Mukagendaneza 2019 (stay >14 days: OR `42.30`, 95% CI `16.40`–`108.90`), with smaller estimates from Haifete 2025 (postoperative stay ≥5 days: COR `3.18`, `2.13`–`4.75`), Boru 2025 (hospital stay ≥10 days: AOR `2.66`, `1.06`–`6.66`), Odoko 2024 (stay >15 days: AOR `3.81`, `2.08`–`6.95`) and others. These associations are vulnerable to reverse causation, because postoperative stay may be prolonged *because* of SSI rather than causing it; they should not be interpreted as causal effects.
+
+Antimicrobial prophylaxis was examined in four studies. Billoro 2019 reported an adjusted risk ratio of `5.05` (95% CI `1.79`–`14.21`) for administration more than 1 hour before incision relative to administration within 1 hour; Gashaw 2026 reported a crude hazard ratio of `1.50` (`1.19`–`1.92`) for no preoperative prophylaxis; and Kefale 2020 reported an AOR of `6.63` (`0.89`–`19.30`) for no surgical antibiotic prophylaxis, which the authors described as significant although the confidence interval includes 1. Kefale 2020 also reported higher odds for prophylaxis given 1–2 hours before incision (AOR `8.20`, `4.34`–`18.10`) and for a 48-hour duration of prophylaxis (AOR `7.20`, `1.23`–`28.17`), suggesting that timing and duration, not only receipt, matter.
+
+Infection prevention and control was examined by Forrester 2021, where high compliance with at least three critical IPC standards was associated with a lower risk of SSI (RR `0.54`, 95% CI `0.30`–`0.97`), and by Gashaw 2026, where no chlorhexidine cloth wash was associated with higher risk (cHR `2.30`, `2.11`–`3.30`). Diagnostic capacity was directly quantified by Kachipedzu 2024: only `10/20` women with SSI had culture results, and only `5/10` of those were culture-positive, illustrating the fragility of AMR estimates based on routine culture. Other reported drivers included previous antibiotic use (`388/752`, `52.9%`, Worku 2023), previous hospital admission (`619/752`, `82.4%`), blood transfusion (OR `6.80`, `2.90`–`16.30`), operation duration ≥2 hours (AOR `2.64`, `1.01`–`6.90`), comorbidity (AOR `9.18`, `5.17`–`17.90`) and age >54 years (AOR `4.76`, `1.10`–`20.56`).
+
+```{r table11}
+tab11 <- read_csv("analysis/output/tables/table11_reported_drivers.csv",
+                  show_col_types = FALSE) %>%
+  select(Study, Year, Country, Domain, Driver, Comparison,
+         `Effect (95% CI)`, p, Direction)
+
+kable(
+  tab11,
+  caption = "Table 11. Reported drivers of SSI and AMR.",
+  align = "lllllllll"
+)
+```
+
+```{r table12}
+tab12 <- read_csv("analysis/output/tables/table12_driver_domains.csv",
+                  show_col_types = FALSE)
+kable(
+  tab12,
+  caption = "Table 12. Driver domains, number of studies and availability of ratio estimates.",
+  align = "lrrrl"
+)
+```
+
+```{r fig8, fig.cap="Figure 8. Study-level ratio estimates for reported drivers of SSI. Ratios above 1 indicate higher SSI risk; the x-axis is logarithmic. Estimates are not pooled. Point shape indicates the effect measure and colour indicates the direction of association."}
+knitr::include_graphics(normalizePath("analysis/output/figures/fig8_driver_effect_estimates.png"))
+```
+
+## Certainty of evidence
+
+Certainty in the pooled SSI estimate was **very low**. The included evidence is almost entirely observational, between-study heterogeneity was extreme (I² = `r f1(ov$I2)`%), SSI definitions and follow-up windows varied, several cohorts were of moderate or low quality, and the small-study tests were inconsistent. The prediction interval (`r ci2(ov$PI_lower, ov$PI_upper)`) is wide enough that the pooled estimate should be viewed as a regional average rather than a setting-specific parameter. Certainty in the AMR estimates was also **very low**, because the estimates are descriptive, geographically concentrated, based on different denominators and breakpoints, and not pooled. Certainty in the secondary clinical and economic outcomes was **very low** because definitions, time horizons and denominators were not comparable and the number of studies was small.
+
+# Methods
+
+## Design and reporting
+
+This was a systematic review and meta-analysis of studies reporting SSI incidence and/or antimicrobial resistance among patients undergoing surgery in East, Central and Southern Africa (ECSA). The review was conducted according to a pre-specified protocol that defined the population, exposure, eligible designs, outcomes, subgroup analyses and synthesis strategy (protocol archived with the project). Reporting follows the PRISMA 2020 statement. The protocol's main outcomes were the pooled incidence/prevalence of SSI and the prevalence of priority AMR combinations; additional outcomes were mortality, length of stay, readmission, economic costs and reported drivers of AMR.
+
+The protocol text contains an internal inconsistency: one line states that "only randomized study types will be included", while the adjacent list of eligible designs includes non-randomised cohort, case–control and cross-sectional studies. Because the review question is descriptive and the evidence base is overwhelmingly observational, we included randomised trials and the listed observational designs, and excluded only the design categories that the protocol explicitly excluded (case reports and small case series with fewer than 10 participants, editorials, expert opinion, animal studies and in vitro studies). This interpretation is stated here as a protocol deviation.
+
+## Eligibility criteria
+
+**Population.** Patients undergoing surgical procedures in ECSA countries. Studies of non-surgical wounds, all hospital-acquired infections without a surgical denominator, or post-traumatic wounds without a surgical procedure were excluded.
+
+**Exposure.** For the SSI-incidence question, the exposure was having undergone a surgical procedure. For the AMR question, the exposure was a microbiologically confirmed SSI with pathogen isolation and antimicrobial susceptibility testing.
+
+**Designs.** Randomised controlled trials, prospective and retrospective cohort studies, case–control studies and cross-sectional studies were eligible. Case reports, small case series (n < 10), reviews, editorials, expert opinion, animal studies and in vitro studies were excluded.
+
+**Outcomes.** The primary outcome was SSI incidence (proportion of operated patients who developed SSI). Priority AMR outcomes were MRSA; third-generation cephalosporin/ESBL resistance in *E. coli* and *Klebsiella* spp.; and carbapenem resistance in *A. baumannii* and *P. aeruginosa*. Additional outcomes were antimicrobial susceptibility patterns for the commonest bacteria, mortality, length of hospital stay, readmission, reoperation, direct provider and out-of-pocket costs, and reported contextual drivers of AMR.
+
+**Language and date.** Studies published in English from 1 January 2011 onwards were eligible; there was no end date. The included studies were published between `r min(inc$publication_year)` and `r max(inc$publication_year)`.
+
+**Setting.** Hospitals and surgical care settings in ECSA. The included cohorts came from Ethiopia, Tanzania, Rwanda, Kenya, the Democratic Republic of the Congo, Gabon, Malawi, Namibia and Zambia.
+
+## Search and screening
+
+The protocol specified searches of MEDLINE/PubMed, Embase, Scopus, the Cochrane Central Register of Controlled Trials, African Journals Online, the WHO Global Index Medicus/African Index Medicus and ECAJS, supplemented by citation searching. The analysis used the supplied, de-duplicated corpus of `r flow$documents` documents. Stage-level identification and de-duplication counts were not available in the supplied corpus, so the PRISMA diagram begins at the assessed-for-eligibility stage and does not report database-specific yield (Table S11). This is a limitation of the available audit trail rather than a claim that no searches were performed.
+
+Documents were screened against the eligibility criteria and decisions were recorded in a structured screening log with reasons and linked study identifiers. Exclusion reasons are reported in Table S2 and summarised in Table S12. The log records the final decisions but does not contain reviewer-level fields, so independent duplicate screening could not be verified from the supplied corpus; this is acknowledged in the limitations below.
+
+## Data extraction and harmonisation
+
+A standardised extraction form captured study identifiers, first author, publication year, country, ECSA subregion, hospital level, design, surgical specialty, study period, cohort size, SSI events and denominator, SSI definition and follow-up, AMR organism and susceptibility results, quality domains and verbatim evidence (page and quote) for each quantitative estimate. Extracted data were stored in the project workbook and exported to analysis-ready CSV files.
+
+SSI counts were extracted as reported. Where a study reported a percentage and a denominator but not an event count, the count was derived by multiplying the percentage by the denominator; `r sum(tab1[["Derived numerator"]] == "Yes")` of the `r nrow(inc)` cohorts required this step. Where reported counts and percentages disagreed, the count-based estimate was preferred. This affected Mukagendaneza 2019 (`34/294` = `r f1(100 * 34 / 294)`%, rather than the reported 10.2% or 10.9%). Starr 2023 was not pooled because its counts and percentages could not be reconciled (see Results and Table S1).
+
+AMR data were extracted at the level of study, pathogen and resistance outcome. To avoid double counting, one estimate was retained per study, pathogen and outcome. When a study reported both a direct third-generation cephalosporin result and an ESBL phenotype for the same isolates, the direct 3GC result was preferred, followed by non-susceptibility and then ESBL. When a study reported an aggregate Enterobacterales or Gram-negative row, that row was used alone; otherwise species-level rows were summed. These steps reduced `r amr$n_priority_rows` extracted rows to `r amr$n_dedup_rows` de-duplicated rows and `r amr$n_study_outcome_rows` study–outcome rows.
+
+For the AST panel, equivalent agents were combined into drug classes (oxacillin/cefoxitin for the MRSA marker; cefotaxime/ceftriaxone for third-generation cephalosporins; meropenem/imipenem for carbapenems; erythromycin/azithromycin; amoxicillin-clavulanate). Within each study, pathogen and drug class, repeated agent results were averaged so that one study contributed once per class. The panel contained `r comma(amr$n_ast_rows)` isolate–drug observations from `r amr$n_ast_studies` studies.
+
+For the SSI-positive ecological analyses, we extracted the number of male SSI cases, the number of HIV-positive SSI cases and the number with known HIV status, the number exposed to preoperative antibiotic prophylaxis, and the number with a contaminated or dirty wound, together with the SSI denominator. These variables were available for `r sum(!is.na(inc$male_ssi))`, `r sum(!is.na(inc$hiv_positive))`, `r sum(!is.na(inc$preop_prophylaxis_yes))` and `r sum(!is.na(inc$contaminated_pct))` cohorts, respectively.
+
+## Quality assessment
+
+Study quality was assessed with a structured five-domain rubric covering selection, outcome ascertainment, denominator validity, AMR methods and analysis. Each domain was rated high, moderate or low, and an overall rating was assigned. The rubric was modelled on the domains of ROBINS-I for observational studies and RoB 2 for the randomised cohorts, but it was not a formal application of either tool because the included studies were predominantly observational and did not provide the information required for domain-level signalling questions. Overall quality was high in `r sum(inc$quality_overall == "High")` of the `r nrow(inc)` primary cohorts, moderate in `r sum(inc$quality_overall == "Moderate")` and low in `r sum(inc$quality_overall == "Low")`. The AMR-only cohorts were all rated high because they had clear microbiological denominators, although they could not contribute to incidence.
+
+## Outcomes and effect measures
+
+The primary effect measure was the proportion of operated patients who developed SSI, with 95% confidence intervals. Priority AMR outcomes were study-level proportions of resistant isolates among tested isolates, summarised descriptively. Secondary clinical outcomes were extracted as counts, percentages, means/medians with dispersion, or ratios with 95% confidence intervals, depending on what each study reported. Economic outcomes were extracted as reported costs or cost savings and are presented narratively.
+
+## Statistical analysis
+
+**Primary meta-analysis.** Proportions were pooled with a random-effects model using the logit transformation (`meta::metaprop`, `sm = "PLOGIT"`), inverse-variance weights, restricted maximum likelihood (REML) estimation of tau², and Hartung–Knapp confidence intervals. A 95% prediction interval was calculated to describe the range of true effects expected in a future setting. A common-effect model was fitted only as a sensitivity analysis. The logit transformation was chosen because it respects the 0–1 bounds of proportions and stabilises variances; studies with zero cells would receive the default continuity correction, although no primary cohort had zero SSI events.
+
+**Heterogeneity.** Between-study heterogeneity was quantified with Cochran's Q, I² and tau². I² was interpreted as the proportion of variability attributable to between-study heterogeneity rather than sampling error; tau² describes the absolute magnitude of that heterogeneity on the logit scale.
+
+**Subgroups.** Pre-specified subgroup analyses were performed for surgical specialty, hospital level, ECSA subregion, study design and publication period. Each subgroup was fitted with a separate random-effects model, and differences between subgroups were tested with a Q-between test. Subgroups with fewer than three studies were reported for completeness but interpreted cautiously; the protocol's general threshold of at least three studies per subgroup was applied to interpretation rather than to suppression of results. Wound contamination class was pre-specified but could not be analysed at the incidence level because studies did not report SSI incidence stratified by CDC wound class.
+
+**Meta-regression.** Exploratory univariable random-effects meta-regression was used to examine study-level covariates: the proportion of SSI cases who were male, HIV-positive, exposed to preoperative antibiotic prophylaxis, or had a contaminated/dirty wound; publication year; and log10 cohort size. Odds ratios for proportion covariates are expressed per 10-percentage-point increase; publication year per additional year; and cohort size per doubling. R² was used to describe the proportion of between-study variance explained. These analyses are ecological and do not estimate individual-level effects.
+
+**Sensitivity analyses.** Pre-specified sensitivity analyses excluded cohorts with derived incidence counts, low-quality cohorts, before–after/quality-improvement designs and the culture-confirmed-only cohort (Boru 2025); restricted to cohort studies; excluded cohorts with more than 1,000 patients; and compared common-effect and Wald-interval models. Leave-one-out analysis was used to identify influential cohorts.
+
+**Publication bias.** Funnel-plot asymmetry was assessed visually and with Egger's regression test and Begg's rank-correlation test. Trim-and-fill (Duval–Tweedie) was used to estimate the number of potentially missing studies and an adjusted pooled proportion. These methods are exploratory and can be misleading when heterogeneity is high; they were interpreted alongside the sensitivity analyses rather than as definitive evidence of bias.
+
+**AMR synthesis.** Priority AMR outcomes were not meta-analysed. For each outcome, we report the number of studies, the number of resistant and tested isolates, the crude aggregate proportion (sum of resistant isolates divided by sum of tested isolates), the median of study-level proportions, the range and the interquartile range. This descriptive approach was chosen because the studies differ in denominator (patients vs isolates), pathogen scope (species vs aggregate), AST method and breakpoint interpretation, and resistance definition. A random-effects pooled estimate would be dominated by these differences and would not be clinically transportable. The same descriptive approach was applied to the AST panel, where medians of study-level resistance percentages are reported for each pathogen–drug combination.
+
+**Secondary outcomes and drivers.** Clinical and economic outcomes were synthesised narratively because fewer than three studies shared a comparable definition and time horizon for any outcome. Reported drivers were tabulated with their effect measure, comparison, confidence interval, direction and adjustment set where available. Ratio estimates were plotted on a logarithmic scale but were not pooled, because the drivers were measured in different populations with different adjustment sets and because some associations are vulnerable to reverse causation.
+
+**Software and reproducibility.** Analyses were performed in R version 4.4.3 with `meta` 8.5-0, `metafor` 5.0-1, `ggplot2` 4.0.3, `dplyr` 1.2.1, `knitr` 1.52 and `rmarkdown` 2.32. The analysis is fully scripted: `00_setup.R` defines paths, themes and helpers; `01_data_prep.R` builds the analysis datasets and descriptive tables; `02_primary_meta.R` fits the primary model, subgroups, meta-regression, sensitivity analyses and publication-bias tests; `03_amr.R` produces the AMR and AST summaries; `04_secondary.R` produces the secondary-outcome and driver tables; `05_prisma.R` produces the PRISMA flow; and `00_run_all.R` runs the pipeline and renders this document. `99_verify.R` checks the key counts and estimates against pre-specified expectations. All derived datasets, table CSV files, figure PNG files and logs are retained in `analysis/data`, `analysis/output/tables`, `analysis/output/figures` and `analysis/output/logs`.
+
+## Inclusion and exclusion decisions
+
+The `r flow$excluded` excluded documents fall into four categories (Table S12). Nine were duplicate or overlapping reports; they were removed to prevent double counting of the same cohort. Five were not primary studies or contained no extractable data (the human data-extraction workbook, the review protocol, a response to reviewers and similar documents). Three had the wrong population or outcome: Kihla 2014 (mixed wounds), Kumburu 2015 (all hospital infections) and Jung 2024 (post-traumatic wounds). One was the post-hoc FALCON secondary analysis.
+
+The FALCON analysis was excluded because it pooled seven low- and middle-income countries, only two of which (Rwanda and South Africa) are in ECSA, and reported no ECSA-specific strata. It is a secondary analysis of a trial rather than a primary ECSA cohort, and including it would violate the population criterion and risk double-counting. Starr 2023 was included in the review but excluded from the primary pool because its reported counts and percentages are incompatible: `r starr$n_ssi_events[1]`/`r comma(starr$n_total[1])` = `r f1(starr$pct_calculated[1])`%, not the reported `r f1(starr$pct_reported[1])`%, and `r starr$n_ssi_events[2]`/`r comma(starr$n_total[2])` = `r f1(starr$pct_calculated[2])`%, not the reported `r f1(starr$pct_reported[2])`%. No reliable event count could be recovered, so pooling either estimate would introduce arbitrary bias. Starr 2023 remains in Table S1 and in the narrative synthesis.
+
+The 12 AMR-only cohorts were included because they reported SSI with pathogen isolation and susceptibility testing but lacked an operated-patient denominator. They contribute to the AMR synthesis only and are listed separately in Table 2. Three AMR-component cohorts contributed no species-level priority estimate: Kachipedzu 2024 and Mengesha 2014 reported organisms outside the priority panel, and Mukagendaneza 2019 reported no usable isolate-level susceptibility data.
+
+## Protocol deviations and limitations
+
+Several deviations from the protocol should be explicit. First, the protocol specified pooled prevalence for priority AMR outcomes, but the observed heterogeneity in denominators, pathogens, AST methods and resistance definitions made pooling uninterpretable; we therefore used a descriptive synthesis with medians, ranges and crude aggregate proportions. Second, the pre-specified wound contamination subgroup could not be estimated at the incidence level because studies did not report SSI incidence by CDC wound class; we examined wound class in the SSI-positive ecological analyses instead. Third, the protocol specified GRADE; we used a narrative certainty assessment rather than a formal GRADEpro table, and rated certainty as very low for the primary and AMR outcomes. Fourth, the protocol specified RoB 2 and ROBINS-I; we used a structured five-domain quality rubric modelled on those tools because the included studies were predominantly observational and did not provide the information needed for formal domain-level judgements. Fifth, identification and de-duplication counts were unavailable, so the PRISMA diagram begins at the eligibility stage. Sixth, independent duplicate screening could not be verified from the supplied screening log. Seventh, the protocol's statement that only randomised studies would be included conflicts with its list of eligible observational designs; we included the listed observational designs.
+
+The main limitations follow from these choices. The evidence base is observational and heterogeneous; SSI definitions, follow-up windows and denominators vary; several cohorts are small; Ethiopia contributes `r sum(inc$country == "Ethiopia")` of `r nrow(inc)` cohorts and East Africa `r sum(inc$subregion == "East Africa")` of `r nrow(inc)`, so regional estimates are dominated by one country and one subregion. The SSI-positive covariate analyses are ecological and underpowered. AMR estimates are concentrated in East Africa, with no Southern African priority estimate and only one Central African estimate for MRSA and one for 3GC/ESBL resistance. AST methods and breakpoints were not harmonised across studies, and the number of studies contributing to each pathogen–drug cell is often small. The secondary outcome and driver evidence is narrative and vulnerable to reverse causation, selective reporting and uncontrolled confounding. Finally, the review was restricted to English-language publications, and the search yield could not be independently audited from the supplied corpus.
+
+These limitations do not invalidate the main descriptive findings: SSI remains common in ECSA surgical cohorts, with a pooled proportion of about one in seven and a prediction interval extending from very low to very high; MRSA and third-generation cephalosporin/ESBL resistance are widespread among the pathogens studied; and carbapenem resistance, although based on fewer studies, is present in several settings. The estimates should be used to plan surveillance and infection-prevention research, not as setting-specific targets.
+
+# Supplementary material
+
+## Supplementary figures
+
+```{r figS4, fig.cap="Figure S4. PRISMA 2020 flow diagram. The supplied corpus began after database searching and de-duplication, so identification counts are not shown."}
+knitr::include_graphics(normalizePath("analysis/output/figures/figS4_prisma_flow.png"))
+```
+
+## Supplementary tables
+
+```{r tableS1}
+tabS1 <- read_csv("analysis/output/tables/tableS1_all_included_studies.csv",
+                  show_col_types = FALSE) %>%
+  select(Study, Country, Subregion, `Hospital level`, Design, `Cohort n`,
+         `Incidence component`, AMR, `Primary incidence rows`, `AMR rows`, Quality)
+
+kable(
+  tabS1,
+  caption = "Table S1. All 38 included cohorts, including Starr 2023 and the AMR-only cohorts. Starr 2023 had an incidence component but no primary pooled row because its counts and percentages were incompatible.",
+  align = "lllllrrrrrr",
+  format.args = list(big.mark = ",")
+)
+```
+
+```{r tableS2}
+tabS2 <- read_csv("analysis/output/tables/tableS2_excluded_documents.csv",
+                  show_col_types = FALSE)
+kable(
+  tabS2,
+  caption = "Table S2. Documents excluded at screening and reasons.",
+  align = "lllll"
+)
+```
+
+```{r tableS3}
+tabS3 <- read_csv("analysis/output/tables/tableS3_sensitivity_analyses.csv",
+                  show_col_types = FALSE)
+kable(
+  tabS3,
+  caption = "Table S3. Sensitivity analyses for the primary SSI estimate.",
+  align = "lrrrrrrr"
+)
+```
+
+```{r tableS4}
+tabS4 <- read_csv("analysis/output/tables/tableS4_leave_one_out.csv",
+                  show_col_types = FALSE)
+kable(
+  tabS4,
+  caption = "Table S4. Leave-one-out sensitivity analysis.",
+  align = "lrrrr"
+)
+```
+
+```{r tableS5}
+tabS5 <- read_csv("analysis/output/tables/tableS5_small_study_effects.csv",
+                  show_col_types = FALSE)
+kable(
+  tabS5,
+  caption = "Table S5. Small-study-effect tests and trim-and-fill adjustment.",
+  align = "lrrl"
+)
+```
+
+```{r tableS6}
+tabS6 <- read_csv("analysis/output/tables/tableS6_study_level_estimates.csv",
+                  show_col_types = FALSE)
+kable(
+  tabS6,
+  caption = "Table S6. Study-level SSI estimates and Wilson confidence intervals.",
+  align = "lllllrrrrrl"
+)
+```
+
+```{r tableS7}
+tabS7 <- read_csv("analysis/output/tables/tableS7_amr_pathogen_region.csv",
+                  show_col_types = FALSE)
+kable(
+  tabS7,
+  caption = "Table S7. Priority AMR estimates by pathogen group and ECSA sub-region.",
+  align = "lllrrrrrrr"
+)
+```
+
+```{r tableS8}
+tabS8 <- read_csv("analysis/output/tables/tableS8_amr_region_hospital.csv",
+                  show_col_types = FALSE)
+kable(
+  tabS8,
+  caption = "Table S8. Priority AMR estimates by ECSA sub-region and hospital level.",
+  align = "lllrrrrrrr"
+)
+```
+
+```{r tableS9}
+tabS9 <- read_csv("analysis/output/tables/tableS9_amr_study_estimates.csv",
+                  show_col_types = FALSE)
+kable(
+  tabS9,
+  caption = "Table S9. Study-level priority AMR estimates.",
+  align = "lllllllrrrr"
+)
+```
+
+```{r tableS10}
+tabS10 <- read_csv("analysis/output/tables/tableS10_ast_summary.csv",
+                   show_col_types = FALSE)
+kable(
+  tabS10,
+  caption = "Table S10. Antimicrobial susceptibility summary: median study-level resistance by pathogen and drug class.",
+  align = "llrrrr"
+)
+```
+
+```{r tableS11}
+tabS11 <- read_csv("analysis/output/tables/tableS11_prisma_counts.csv",
+                   show_col_types = FALSE)
+kable(
+  tabS11,
+  caption = "Table S11. PRISMA flow counts.",
+  align = "lrl"
+)
+```
+
+```{r tableS12}
+tabS12 <- read_csv("analysis/output/tables/tableS12_exclusion_reasons.csv",
+                   show_col_types = FALSE)
+kable(
+  tabS12,
+  caption = "Table S12. Exclusion categories and examples.",
+  align = "lrl"
+)
+```
+
+## Software and session information
+
+```{r session}
+si <- sessionInfo()
+cat("R version:", R.version.string, "\n\n")
+pkgs <- c("meta", "metafor", "ggplot2", "dplyr", "readr", "tidyr",
+          "knitr", "rmarkdown", "patchwork", "scales", "forcats", "stringr")
+for (p in pkgs) {
+  if (requireNamespace(p, quietly = TRUE)) {
+    cat(sprintf("%-12s %s\n", p, as.character(packageVersion(p))))
+  }
+}
+```
+
+## Data and code availability
+
+The analysis-ready datasets are in `analysis/data/`. The primary incidence dataset is `analysis_incidence.csv` (25 cohorts); the priority AMR dataset is `analysis_amr.csv` (54 extracted rows); the AST panel is `ast_panel.csv` (535 isolate–drug rows); and `ssi_positive_characteristics.csv` contains the study-level covariates used in the ecological analyses. The analysis scripts are in `analysis/R/`, the rendered tables in `analysis/output/tables/`, the figures in `analysis/output/figures/` and the run logs in `analysis/output/logs/`. The source PDFs are not redistributed for copyright reasons; the derived text and extraction workbook are retained in the project corpus.
+
+The pipeline can be reproduced from the repository root with:
+
+```bash
+.analysis-env/r-env/bin/Rscript analysis/R/00_run_all.R
+```
+
+which runs scripts `01`–`05` in order, executes `99_verify.R`, and renders this document to HTML and DOCX.

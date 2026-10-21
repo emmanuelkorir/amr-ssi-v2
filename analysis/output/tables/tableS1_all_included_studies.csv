@@ -1,4 +1,4 @@
-Study,Country,Subregion,Hospital level,Design,Specialty,Cohort n,Incidence,AMR,Primary incidence rows,AMR rows,Quality
+Study,Country,Subregion,Hospital level,Design,Specialty,Cohort n,Incidence component,AMR,Primary incidence rows,AMR rows,Quality
 Abayneh 2022,Ethiopia,East Africa,Tertiary/referral,Prospective observational cohort,"Mixed (caesarean 57%, gastrointestinal 20%, genitourinary 8%)",262,Yes,Yes,1,2,Low
 Abosse 2021,Ethiopia,East Africa,Tertiary/referral,Hospital-based cross-sectional,"Mixed surgical, orthopaedic and medical wards",165,No,Yes,0,5,High
 Agade 2026,Kenya,East Africa,Tertiary/referral,Retrospective cohort,General surgery (laparotomy),393,Yes,No,1,0,Moderate
@@ -29,11 +29,11 @@ Manyahi 2014,Tanzania,East Africa,Tertiary/referral,Descriptive cross-sectional,
 Mbabazi 2025,Uganda,East Africa,Tertiary/referral,Prospective cohort,Obstetrics (post-caesarean SSI),66,No,Yes,0,3,High
 Mengesha 2014,Ethiopia,East Africa,Tertiary/referral,Prospective cross-sectional,General surgery and orthopaedics,610,Yes,Yes,1,2,High
 Misha 2021,Ethiopia,East Africa,Tertiary/referral,Prospective cohort,Mixed surgical,251,Yes,Yes,1,4,Moderate
-Mukagendaneza 2019,Rwanda,East Africa,Tertiary/referral,Prospective observational cohort,"Mixed surgical (orthopaedic 74%, general 22%)",294,Yes,No,1,0,Moderate
+Mukagendaneza 2019,Rwanda,East Africa,Tertiary/referral,Prospective observational cohort,"Mixed surgical (orthopaedic 74%, general 22%)",294,Yes,Yes,1,0,Moderate
 Ntirushwa 2021,Rwanda,East Africa,Secondary (district),Randomised controlled trial,Obstetrics (emergency caesarean section),301,Yes,No,1,0,Low
 Odoko 2024,Ethiopia,East Africa,Mixed (two hospitals),Hospital-based cross-sectional,Mixed surgical,422,No,Yes,0,5,High
 Scherbaum 2014,Gabon,Central Africa,Tertiary/referral,Prospective surveillance cohort,"Surgery, internal medicine, obstetrics/gynaecology",1022,Yes,Yes,1,2,Moderate
-Starr 2023,Ethiopia,East Africa,Mixed (seven hospitals),Prospective pre-post quality improvement cohort,Mixed surgery,3364,No,No,0,0,High
+Starr 2023,Ethiopia,East Africa,Mixed (seven hospitals),Prospective pre-post quality improvement cohort,Mixed surgery,3364,Yes,No,0,0,High
 Velin 2021,Rwanda,East Africa,Secondary (district),Prospective cohort,Obstetrics (caesarean section),795,Yes,Yes,1,3,Low
 Wekesa 2020,Uganda,East Africa,Tertiary/referral,Cross-sectional,Obstetrics (post-caesarean SSI),109,No,Yes,0,6,High
 Worku 2023,Ethiopia,East Africa,Tertiary/referral (four hospitals),Multicentre cross-sectional,Mixed surgical,752,No,Yes,0,4,High

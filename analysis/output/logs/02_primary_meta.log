@@ -24,9 +24,9 @@ Protocol subgroups
  Surgical specialty            Mixed/other 13    988     6374 14.40  8.2-24.0
  Surgical specialty            Orthopaedic  2    111      420 26.57  7.5-61.8
  Surgical specialty Obstetrics/gynaecology  5    567     4254 11.18  2.7-36.1
-     Hospital level      Tertiary/referral 19   1658     8871 17.65 11.7-25.7
+     Hospital level      Tertiary/referral 18   1622     8751 17.10 11.1-25.4
      Hospital level      Secondary/primary  4    126     1505  8.61  2.6-24.8
-     Hospital level                  Mixed  2    293     2857  9.32  0.9-53.4
+     Hospital level                  Mixed  3    329     2977 13.78  1.8-57.9
     ECSA sub-region            East Africa 20   1628     9415 16.43 11.5-22.9
     ECSA sub-region         Central Africa  2     85     1240  7.62 0.0-100.0
     ECSA sub-region        Southern Africa  3    364     2578 12.69  4.4-31.5
@@ -41,9 +41,9 @@ Protocol subgroups
    97.3   <0.001     0.014
     9.0    0.294     0.014
    99.1   <0.001     0.014
-   97.3   <0.001     0.030
-   94.5   <0.001     0.030
-   71.8    0.060     0.030
+   97.4   <0.001     0.233
+   94.5   <0.001     0.233
+   95.4   <0.001     0.233
    97.5   <0.001     0.602
    99.3   <0.001     0.602
    95.5   <0.001     0.602

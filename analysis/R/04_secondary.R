@@ -37,6 +37,26 @@ drivers <- drivers %>%
     p_value = as.character(p_value)
   )
 
+# Worku 2023 reports two descriptive proportions whose stated percentages do
+# not match the stated denominator (388/752 = 51.6%, not 52.9%; 619/752 =
+# 82.3%, not 82.4%). Apply the pre-specified count-first rule so that the
+# manuscript and Table 11 use the arithmetic values.
+drivers <- drivers %>%
+  mutate(
+    effect_value = dplyr::case_when(
+      study_id == "worku2023" & driver == "Previous use of antibiotics" ~ 100 * 388 / 752,
+      study_id == "worku2023" & driver == "History of hospital admission" ~ 100 * 619 / 752,
+      TRUE ~ effect_value
+    ),
+    notes = dplyr::case_when(
+      study_id == "worku2023" & driver == "Previous use of antibiotics" ~
+        paste0(notes, " Count-based percentage 51.6%; source reports 52.9%."),
+      study_id == "worku2023" & driver == "History of hospital admission" ~
+        paste0(notes, " Count-based percentage 82.3%; source reports 82.4%."),
+      TRUE ~ notes
+    )
+  )
+
 if (any(is.na(outcomes$study_label))) stop("Outcome row without study metadata")
 if (any(is.na(drivers$study_label))) stop("Driver row without study metadata")
 

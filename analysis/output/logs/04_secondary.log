@@ -186,7 +186,7 @@ Driver estimates
                                                                Contaminated wound
                                                                       Dirty wound
                                Comparison                Effect (95% CI)
-                          No previous use                          52.9%
+                          No previous use                          51.6%
  Administration within 1 hour of incision   ARR 5.05 (95% CI 1.79-14.21)
                  Preoperative prophylaxis    cHR 1.50 (95% CI 1.19-1.92)
    3-day postoperative intravenous course                          98.0%
@@ -195,7 +195,7 @@ Driver estimates
               Guideline-concordant timing   AOR 8.20 (95% CI 4.34-18.10)
                            No comorbidity   AOR 9.18 (95% CI 5.17-17.90)
              All clinically diagnosed SSI                          50.0%
-                    No previous admission                          82.4%
+                    No previous admission                          82.3%
                                  <=7 days    ARR 2.48 (95% CI 1.28-4.79)
                                  <10 days    AOR 2.66 (95% CI 1.06-6.66)
                                   <5 days    COR 3.18 (95% CI 2.13-4.75)
@@ -239,33 +239,33 @@ Driver estimates
  <0.0001  Increases risk
    0.019  Increases risk
    0.029  Increases risk
-                                                                             Notes
- 388/752 (52.9%) reported previous antibiotic use; no adjusted estimate extracted.
-                                                                              <NA>
-                                  Adjusted HR 2.8 (0.79-9.80) was not significant.
-         Prophylaxis administered to 98% post-intervention vs 2% pre-intervention.
-                                                                              <NA>
-                           Reported as significant although the 95% CI includes 1.
-                                                                              <NA>
-                                                                              <NA>
-                        Only 10/20 SSI had culture results; 5/10 culture-positive.
-                                  619/752 (82.4%); no adjusted estimate extracted.
-                                                                              <NA>
-                                                                              <NA>
-                        Reverse-causation risk: postoperative stay may follow SSI.
-        Reverse-causation risk: prolonged stay due to postoperative complications.
-                   Association with ESBL/carbapenemase-producing Enterobacterales.
-                                                                              <NA>
-                                  Adjusted HR 1.5 (0.85-2.71) was not significant.
-                                                                              <NA>
-                                                                              <NA>
-                                                                              <NA>
-                 Reported as significantly associated; effect sizes not extracted.
-                                                                              <NA>
-                                                                              <NA>
-                                                                              <NA>
-                                                                              <NA>
-                                                                              <NA>
+                                                                                                                                 Notes
+ 388/752 (52.9%) reported previous antibiotic use; no adjusted estimate extracted. Count-based percentage 51.6%; source reports 52.9%.
+                                                                                                                                  <NA>
+                                                                                      Adjusted HR 2.8 (0.79-9.80) was not significant.
+                                                             Prophylaxis administered to 98% post-intervention vs 2% pre-intervention.
+                                                                                                                                  <NA>
+                                                                               Reported as significant although the 95% CI includes 1.
+                                                                                                                                  <NA>
+                                                                                                                                  <NA>
+                                                                            Only 10/20 SSI had culture results; 5/10 culture-positive.
+                                  619/752 (82.4%); no adjusted estimate extracted. Count-based percentage 82.3%; source reports 82.4%.
+                                                                                                                                  <NA>
+                                                                                                                                  <NA>
+                                                                            Reverse-causation risk: postoperative stay may follow SSI.
+                                                            Reverse-causation risk: prolonged stay due to postoperative complications.
+                                                                       Association with ESBL/carbapenemase-producing Enterobacterales.
+                                                                                                                                  <NA>
+                                                                                      Adjusted HR 1.5 (0.85-2.71) was not significant.
+                                                                                                                                  <NA>
+                                                                                                                                  <NA>
+                                                                                                                                  <NA>
+                                                                     Reported as significantly associated; effect sizes not extracted.
+                                                                                                                                  <NA>
+                                                                                                                                  <NA>
+                                                                                                                                  <NA>
+                                                                                                                                  <NA>
+                                                                                                                                  <NA>
 
 Exclusion checks
 ----------------

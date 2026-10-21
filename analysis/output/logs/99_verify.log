@@ -1,0 +1,88 @@
+ECSA SSI/AMR verification
+=========================
+Run: 2026-10-21 11:07:28 
+
+[PASS] PRISMA documents = 56
+[PASS] PRISMA excluded = 18
+[PASS] PRISMA included cohorts = 38
+[PASS] Incidence component = 26
+[PASS] Primary incidence cohorts = 25
+[PASS] AMR component = 26
+[PASS] AMR-only cohorts = 12
+[PASS] Priority AMR studies = 23
+[PASS] Priority AMR rows = 54
+[PASS] Exclusion categories sum to 18  (9+5+3+1)
+[PASS] Primary dataset has 25 rows  (25)
+[PASS] Primary events = 2,077  (2077)
+[PASS] Primary patients = 13,233  (13233)
+[PASS] No duplicate study IDs in primary dataset
+[PASS] All primary events <= denominator
+[PASS] All primary denominators positive
+[PASS] Model k = 25
+[PASS] Model events = 2,077
+[PASS] Model patients = 13,233
+[PASS] Pooled SSI proportion = 15.03%  (0.1503)
+[PASS] Pooled SSI 95% CI lower = 10.60%  (0.1060)
+[PASS] Pooled SSI 95% CI upper = 20.89%  (0.2089)
+[PASS] I2 = 97.5%  (97.51)
+[PASS] tau2 = 0.8986  (0.8986)
+[PASS] Prediction interval lower = 2.35%  (0.0235)
+[PASS] Prediction interval upper = 56.57%  (0.5657)
+[PASS] Common-effect estimate = 18.45%  (0.1845)
+[PASS] Subgroup table has 16 rows
+[PASS] Meta-regression table has 6 rows
+[PASS] Sensitivity table has 9 rows
+[PASS] Leave-one-out table has 25 rows
+[PASS] Trim-and-fill added 6 studies
+[PASS] Trim-and-fill adjusted estimate = 20.26%  (0.2026)
+[PASS] Starr is absent from the primary analysis dataset
+[PASS] Starr is present in the included-study data
+[PASS] Starr has zero primary incidence rows
+[PASS] Starr has an incidence component
+[PASS] Starr is absent from Table 1
+[PASS] Starr is present in Table S1
+[PASS] FALCON is absent from all analysis datasets
+[PASS] FALCON is recorded as an exclusion in Table S2
+[PASS] Priority AMR extracted rows = 54
+[PASS] Priority AMR de-duplicated rows = 51
+[PASS] AMR study-outcome rows = 40
+[PASS] AMR studies = 23
+[PASS] AST panel rows = 535
+[PASS] AST panel studies = 16
+[PASS] AMR overall table has 3 rows
+[PASS] AMR study-level rows = 40
+[PASS] No duplicate study/outcome AMR rows
+[PASS] No AMR resistant count exceeds tested
+[PASS] No Southern African priority AMR row
+[PASS] MRSA studies = 16
+[PASS] MRSA resistant/tested = 283/517
+[PASS] 3GC/ESBL studies = 15
+[PASS] 3GC/ESBL resistant/tested = 597/759
+[PASS] Carbapenem studies = 9
+[PASS] Carbapenem resistant/tested = 102/286
+[PASS] Secondary outcome rows = 12
+[PASS] Secondary outcome studies = 7
+[PASS] Driver rows = 26
+[PASS] Driver studies = 13
+[PASS] Ratio estimates = 21
+[PASS] Table 10 has 12 rows
+[PASS] Table 11 has 26 rows
+[PASS] Table 12 has 12 domains
+[PASS] All 24 table files exist
+[PASS] Table 1 has 25 rows
+[PASS] Table 2 has 12 rows
+[PASS] Table S1 has 38 rows
+[PASS] Table S2 has 18 rows
+[PASS] Table S7 has 14 rows
+[PASS] Table S8 has 10 rows
+[PASS] Table S9 has 40 rows
+[PASS] Table S10 has 107 rows
+[PASS] All 12 figure files exist
+[PASS] Manuscript Rmd exists
+[PASS] Manuscript HTML exists
+[PASS] Manuscript DOCX exists
+[PASS] Manuscript DOCX is non-empty  (2485553)
+
+Summary: 80 checks; 80 passed; 0 failed.
+
+Verification log written to: /code/amr-ssi-v2/analysis/output/logs/99_verify.log 

@@ -1,0 +1,196 @@
+ECSA SSI/AMR full pipeline
+==========================
+Repository root: /code/amr-ssi-v2 
+Started: 2026-10-21 11:06:52 
+
+
+--- Running analysis/R/01_data_prep.R ---
+--- Completed analysis/R/01_data_prep.R ---
+
+--- Running analysis/R/02_primary_meta.R ---
+--- Completed analysis/R/02_primary_meta.R ---
+
+--- Running analysis/R/03_amr.R ---
+--- Completed analysis/R/03_amr.R ---
+
+--- Running analysis/R/04_secondary.R ---
+--- Completed analysis/R/04_secondary.R ---
+
+--- Running analysis/R/05_prisma.R ---
+--- Completed analysis/R/05_prisma.R ---
+
+--- Rendering manuscript ---
+
+Rendering html_document ...
+1/81                  
+2/81 [setup]          
+3/81                  
+4/81 [unnamed-chunk-1]
+5/81                  
+6/81 [table1a]        
+7/81                  
+8/81 [table1b]        
+9/81                  
+10/81 [table2]         
+11/81                  
+12/81 [table3]         
+13/81                  
+14/81 [fig1]           
+15/81                  
+16/81 [fig2]           
+17/81                  
+18/81 [figS1]          
+19/81                  
+20/81 [table4]         
+21/81                  
+22/81 [fig3]           
+23/81                  
+24/81 [figS2]          
+25/81                  
+26/81 [table5]         
+27/81                  
+28/81 [table6]         
+29/81                  
+30/81 [fig4]           
+31/81                  
+32/81 [fig5]           
+33/81                  
+34/81 [table7]         
+35/81                  
+36/81 [table8]         
+37/81                  
+38/81 [table9]         
+39/81                  
+40/81 [figS3]          
+41/81                  
+42/81 [fig6]           
+43/81                  
+44/81 [fig7]           
+45/81                  
+46/81 [table10]        
+47/81                  
+48/81 [table11]        
+49/81                  
+50/81 [table12]        
+51/81                  
+52/81 [fig8]           
+53/81                  
+54/81 [figS4]          
+55/81                  
+56/81 [tableS1]        
+57/81                  
+58/81 [tableS2]        
+59/81                  
+60/81 [tableS3]        
+61/81                  
+62/81 [tableS4]        
+63/81                  
+64/81 [tableS5]        
+65/81                  
+66/81 [tableS6]        
+67/81                  
+68/81 [tableS7]        
+69/81                  
+70/81 [tableS8]        
+71/81                  
+72/81 [tableS9]        
+73/81                  
+74/81 [tableS10]       
+75/81                  
+76/81 [tableS11]       
+77/81                  
+78/81 [tableS12]       
+79/81                  
+80/81 [session]        
+81/81                  
+/code/amr-ssi-v2/.analysis-env/r-env/bin/pandoc +RTS -K512m -RTS ECSA_SSI_AMR_analysis.knit.md --to html4 --from markdown+autolink_bare_uris+tex_math_single_backslash --output /code/amr-ssi-v2/analysis/output/ECSA_SSI_AMR_analysis.html --lua-filter /code/amr-ssi-v2/.analysis-env/r-env/lib/R/library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /code/amr-ssi-v2/.analysis-env/r-env/lib/R/library/rmarkdown/rmarkdown/lua/latex-div.lua --lua-filter /code/amr-ssi-v2/.analysis-env/r-env/lib/R/library/rmarkdown/rmarkdown/lua/table-classes.lua --embed-resources --standalone --variable bs3=TRUE --section-divs --table-of-contents --toc-depth 3 --variable toc_float=1 --variable toc_selectors=h1,h2,h3 --variable toc_collapsed=1 --variable toc_smooth_scroll=1 --variable toc_print=1 --template /code/amr-ssi-v2/.analysis-env/r-env/lib/R/library/rmarkdown/rmd/h/default.html --syntax-highlighting none --variable highlightjs=1 --variable theme=cosmo --mathjax --variable 'mathjax-url=https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' --include-in-header /tmp/RtmpqBdUgn/rmarkdown-str8cf4f72f07e.html 
+
+Rendering word_document ...
+1/81                  
+2/81 [setup]          
+3/81                  
+4/81 [unnamed-chunk-1]
+5/81                  
+6/81 [table1a]        
+7/81                  
+8/81 [table1b]        
+9/81                  
+10/81 [table2]         
+11/81                  
+12/81 [table3]         
+13/81                  
+14/81 [fig1]           
+15/81                  
+16/81 [fig2]           
+17/81                  
+18/81 [figS1]          
+19/81                  
+20/81 [table4]         
+21/81                  
+22/81 [fig3]           
+23/81                  
+24/81 [figS2]          
+25/81                  
+26/81 [table5]         
+27/81                  
+28/81 [table6]         
+29/81                  
+30/81 [fig4]           
+31/81                  
+32/81 [fig5]           
+33/81                  
+34/81 [table7]         
+35/81                  
+36/81 [table8]         
+37/81                  
+38/81 [table9]         
+39/81                  
+40/81 [figS3]          
+41/81                  
+42/81 [fig6]           
+43/81                  
+44/81 [fig7]           
+45/81                  
+46/81 [table10]        
+47/81                  
+48/81 [table11]        
+49/81                  
+50/81 [table12]        
+51/81                  
+52/81 [fig8]           
+53/81                  
+54/81 [figS4]          
+55/81                  
+56/81 [tableS1]        
+57/81                  
+58/81 [tableS2]        
+59/81                  
+60/81 [tableS3]        
+61/81                  
+62/81 [tableS4]        
+63/81                  
+64/81 [tableS5]        
+65/81                  
+66/81 [tableS6]        
+67/81                  
+68/81 [tableS7]        
+69/81                  
+70/81 [tableS8]        
+71/81                  
+72/81 [tableS9]        
+73/81                  
+74/81 [tableS10]       
+75/81                  
+76/81 [tableS11]       
+77/81                  
+78/81 [tableS12]       
+79/81                  
+80/81 [session]        
+81/81                  
+/code/amr-ssi-v2/.analysis-env/r-env/bin/pandoc +RTS -K512m -RTS ECSA_SSI_AMR_analysis.knit.md --to docx --from markdown+autolink_bare_uris+tex_math_single_backslash --output /code/amr-ssi-v2/analysis/output/ECSA_SSI_AMR_analysis.docx --lua-filter /code/amr-ssi-v2/.analysis-env/r-env/lib/R/library/rmarkdown/rmarkdown/lua/pagebreak.lua --table-of-contents --toc-depth 3 --syntax-highlighting tango --lua-filter /code/amr-ssi-v2/.analysis-env/r-env/lib/R/library/rmarkdown/rmarkdown/lua/extract-data-uri.lua 
+
+--- Verifying outputs ---
+
+Pipeline completed: 2026-10-21 11:07:28 
+HTML: /code/amr-ssi-v2/analysis/output/ECSA_SSI_AMR_analysis.html 
+DOCX: /code/amr-ssi-v2/analysis/output/ECSA_SSI_AMR_analysis.docx 
