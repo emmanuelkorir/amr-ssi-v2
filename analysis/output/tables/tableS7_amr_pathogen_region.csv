@@ -1,0 +1,15 @@
+Outcome,Pathogen,Region,Studies,Isolates tested,Resistant isolates,Crude aggregate %,Median study %,Range %,IQR %
+3GC/ESBL resistance,E. coli,Central Africa,1,14,5,35.7,35.7,35.7-35.7,35.7-35.7
+3GC/ESBL resistance,E. coli,East Africa,9,223,186,83.4,92.3,44.4-100.0,66.7-99.0
+3GC/ESBL resistance,Enterobacterales (aggregate),East Africa,4,299,222,74.2,77,67.5-95.1,72.3-83.8
+3GC/ESBL resistance,Gram-negative (aggregate),East Africa,1,39,36,92.3,92.3,92.3-92.3,92.3-92.3
+3GC/ESBL resistance,Klebsiella spp.,Central Africa,1,6,3,50,50,50.0-50.0,50.0-50.0
+3GC/ESBL resistance,Klebsiella spp.,East Africa,8,178,145,81.5,72.4,11.1-100.0,58.2-94.7
+Carbapenem resistance,A. baumannii,East Africa,4,81,55,67.9,51.4,33.3-84.2,36.5-70.1
+Carbapenem resistance,E. coli,East Africa,1,9,0,0,0,0.0-0.0,0.0-0.0
+Carbapenem resistance,Enterobacterales (aggregate),East Africa,2,76,17,22.4,13.9,0.0-27.9,7.0-20.9
+Carbapenem resistance,Gram-negative (aggregate),East Africa,1,30,0,0,0,0.0-0.0,0.0-0.0
+Carbapenem resistance,Klebsiella spp.,East Africa,1,44,15,34.1,34.1,34.1-34.1,34.1-34.1
+Carbapenem resistance,P. aeruginosa,East Africa,2,46,15,32.6,44.4,26.3-62.5,35.4-53.5
+MRSA,Staphylococcus aureus,Central Africa,1,74,47,63.5,63.5,63.5-63.5,63.5-63.5
+MRSA,Staphylococcus aureus,East Africa,15,443,236,53.3,56.2,10.0-100.0,40.2-74.5

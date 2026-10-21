@@ -157,6 +157,35 @@ table6  <- format_summary(amr_overall)
 table7  <- format_summary(amr_by_region, "subregion") %>% rename(Region = Group)
 table8  <- format_summary(amr_by_hosp, "hospital_group") %>% rename(`Hospital level` = Group)
 table9  <- format_summary(amr_by_pathogen, "pathogen_group2") %>% rename(Pathogen = Group)
+tableS7 <- amr_dedup %>%
+  mutate(pct = n_resistant / n_tested) %>%
+  group_by(outcome_group, pathogen_group2, subregion) %>%
+  summarise(
+    Studies = n_distinct(study_id),
+    Resistant = sum(n_resistant),
+    Tested = sum(n_tested),
+    Crude = Resistant / Tested,
+    Median = median(pct),
+    Min = min(pct),
+    Max = max(pct),
+    Q1 = unname(quantile(pct, 0.25)),
+    Q3 = unname(quantile(pct, 0.75)),
+    .groups = "drop"
+  ) %>%
+  transmute(
+    Outcome = as.character(outcome_group),
+    Pathogen = pathogen_group2,
+    Region = as.character(subregion),
+    Studies,
+    `Isolates tested` = Tested,
+    `Resistant isolates` = Resistant,
+    `Crude aggregate %` = round(100 * Crude, 1),
+    `Median study %` = round(100 * Median, 1),
+    `Range %` = sprintf("%.1f-%.1f", 100 * Min, 100 * Max),
+    `IQR %` = sprintf("%.1f-%.1f", 100 * Q1, 100 * Q3)
+  ) %>%
+  arrange(Outcome, Pathogen, Region)
+
 tableS8 <- amr_by_reg_hosp %>%
   transmute(
     Outcome = as.character(outcome_group),
@@ -418,6 +447,7 @@ write_csv(table6,  file.path(tab_dir, "table6_amr_overall.csv"))
 write_csv(table7,  file.path(tab_dir, "table7_amr_by_region.csv"))
 write_csv(table8,  file.path(tab_dir, "table8_amr_by_hospital.csv"))
 write_csv(table9,  file.path(tab_dir, "table9_amr_by_pathogen.csv"))
+write_csv(tableS7, file.path(tab_dir, "tableS7_amr_pathogen_region.csv"))
 write_csv(tableS8, file.path(tab_dir, "tableS8_amr_region_hospital.csv"))
 write_csv(tableS9_study, file.path(tab_dir, "tableS9_amr_study_estimates.csv"))
 write_csv(tableS10_ast,  file.path(tab_dir, "tableS10_ast_summary.csv"))
