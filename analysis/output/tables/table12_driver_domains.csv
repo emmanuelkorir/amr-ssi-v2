@@ -1,0 +1,13 @@
+Domain,Studies,Estimates,Ratio estimates with CI,Example drivers
+Hospital stay,5,5,5,Hospital stay >=10 days; Surgery waiting time >7 days; Hospital stay >14 days
+Antimicrobial prophylaxis,4,6,5,No surgical antibiotic prophylaxis; Prophylaxis 1-2 hours before incision; 48-hour duration of prophylaxis
+Wound class,3,4,4,Contaminated wound; Dirty wound; Clean-contaminated wound
+Infection prevention,2,2,2,No chlorhexidine cloth wash; High compliance with >=3 critical IPC standards
+Operation factors,2,2,2,Operation duration >=2 hours; Laparotomy
+Antibiotic exposure,1,1,0,Previous use of antibiotics
+Comorbidity,1,1,1,Presence of comorbidity
+Diagnostic capacity,1,1,0,SSI cases with microbiology culture result
+Healthcare exposure,1,1,0,History of hospital admission
+Patient factors,1,1,1,Age >54 years
+Patient/operation factors,1,1,0,"Age >50, comorbidity, postoperative stay >14 days, ASA >=III, contaminated wound"
+Transfusion,1,1,1,Blood transfusion during surgery

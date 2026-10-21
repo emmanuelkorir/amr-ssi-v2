@@ -1,0 +1,13 @@
+Study,Year,Country,Region,Domain,Outcome,Group / comparator,Reported value,Effect (95% CI),p,Notes
+Gentilotti 2020,2020,Tanzania,East Africa,Economic,Estimated hospital cost saving after intervention,All patients,Approximately EUR 1500,Approximately EUR 1500 estimated hospital saving (author estimate),NA,"Author estimate, not a measured provider cost."
+Agade 2026,2026,Kenya,East Africa,Length of stay,Hospital length of stay,All patients,Mean 5 days; median 3 (IQR 3-10),NA,NA,NA
+Forrester 2021,2021,Ethiopia,East Africa,Length of stay,Duration of hospital stay,All patients,Unchanged (no numeric estimate reported),NA,NA,Narrative finding only.
+Starr 2023,2023,Ethiopia,East Africa,Length of stay,"Length of stay, pre vs post implementation",All patients,5.1 vs 5.6 days,NA,0.35,NA
+Agade 2026,2026,Kenya,East Africa,Mortality,All-cause in-hospital mortality,All patients,34/393 (8.7%),NA,NA,"Overall cohort mortality, not SSI-attributable."
+Deyem 2025,2025,Democratic Republic of the Congo,Central Africa,Mortality,All-cause mortality,All patients,24/218 (11.0%),NA,NA,NA
+Deyem 2025,2025,Democratic Republic of the Congo,Central Africa,Mortality,Mortality by SSI status,SSI vs No SSI,23.94% vs 4.76%,OR 6.30 (95% CI 2.50-16.00),<0.0001,NA
+Forrester 2021,2021,Ethiopia,East Africa,Mortality,Deaths during follow-up,All patients,20 deaths in total,NA,NA,Too few deaths for multivariable modelling; mortality reported unchanged.
+Mukagendaneza 2019,2019,Rwanda,East Africa,Mortality,In-hospital mortality,All patients,3/294 (1.0%),NA,NA,NA
+Starr 2023,2023,Ethiopia,East Africa,Mortality,"Overall mortality, pre vs post implementation",All patients,4.4% vs 5.5%,NA,0.34,Not statistically significant.
+Kachipedzu 2024,2024,Malawi,Southern Africa,Readmission,Readmission among women with SSI,SSI,12/20 (60%),NA,NA,NA
+Starr 2023,2023,Ethiopia,East Africa,Reoperation,"Need for subsequent operations, pre vs post implementation",All patients,1.0% vs 2.9%,NA,<0.001,NA

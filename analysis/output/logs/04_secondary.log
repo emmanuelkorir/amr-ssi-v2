@@ -1,0 +1,273 @@
+ECSA secondary outcomes and AMR/SSI drivers
+===========================================
+
+Secondary outcome rows: 12 from 7 studies
+Driver rows: 26 from 13 studies
+Ratio estimates plotted: 21 
+
+Secondary outcomes
+------------------
+              Study Year                          Country          Region
+    Gentilotti 2020 2020                         Tanzania     East Africa
+         Agade 2026 2026                            Kenya     East Africa
+     Forrester 2021 2021                         Ethiopia     East Africa
+         Starr 2023 2023                         Ethiopia     East Africa
+         Agade 2026 2026                            Kenya     East Africa
+         Deyem 2025 2025 Democratic Republic of the Congo  Central Africa
+         Deyem 2025 2025 Democratic Republic of the Congo  Central Africa
+     Forrester 2021 2021                         Ethiopia     East Africa
+ Mukagendaneza 2019 2019                           Rwanda     East Africa
+         Starr 2023 2023                         Ethiopia     East Africa
+    Kachipedzu 2024 2024                           Malawi Southern Africa
+         Starr 2023 2023                         Ethiopia     East Africa
+         Domain                                                    Outcome
+       Economic          Estimated hospital cost saving after intervention
+ Length of stay                                    Hospital length of stay
+ Length of stay                                  Duration of hospital stay
+ Length of stay                 Length of stay, pre vs post implementation
+      Mortality                            All-cause in-hospital mortality
+      Mortality                                        All-cause mortality
+      Mortality                                    Mortality by SSI status
+      Mortality                                    Deaths during follow-up
+      Mortality                                      In-hospital mortality
+      Mortality              Overall mortality, pre vs post implementation
+    Readmission                           Readmission among women with SSI
+    Reoperation Need for subsequent operations, pre vs post implementation
+ Group / comparator                           Reported value
+       All patients                   Approximately EUR 1500
+       All patients         Mean 5 days; median 3 (IQR 3-10)
+       All patients Unchanged (no numeric estimate reported)
+       All patients                          5.1 vs 5.6 days
+       All patients                            34/393 (8.7%)
+       All patients                           24/218 (11.0%)
+      SSI vs No SSI                          23.94% vs 4.76%
+       All patients                       20 deaths in total
+       All patients                             3/294 (1.0%)
+       All patients                             4.4% vs 5.5%
+                SSI                              12/20 (60%)
+       All patients                             1.0% vs 2.9%
+                                                    Effect (95% CI)       p
+ Approximately EUR 1500 estimated hospital saving (author estimate)    <NA>
+                                                               <NA>    <NA>
+                                                               <NA>    <NA>
+                                                               <NA>    0.35
+                                                               <NA>    <NA>
+                                                               <NA>    <NA>
+                                        OR 6.30 (95% CI 2.50-16.00) <0.0001
+                                                               <NA>    <NA>
+                                                               <NA>    <NA>
+                                                               <NA>    0.34
+                                                               <NA>    <NA>
+                                                               <NA>  <0.001
+                                                                     Notes
+                            Author estimate, not a measured provider cost.
+                                                                      <NA>
+                                                   Narrative finding only.
+                                                                      <NA>
+                           Overall cohort mortality, not SSI-attributable.
+                                                                      <NA>
+                                                                      <NA>
+ Too few deaths for multivariable modelling; mortality reported unchanged.
+                                                                      <NA>
+                                            Not statistically significant.
+                                                                      <NA>
+                                                                      <NA>
+
+Driver domains
+--------------
+                    Domain Studies Estimates Ratio estimates with CI
+             Hospital stay       5         5                       5
+ Antimicrobial prophylaxis       4         6                       5
+               Wound class       3         4                       4
+      Infection prevention       2         2                       2
+         Operation factors       2         2                       2
+       Antibiotic exposure       1         1                       0
+               Comorbidity       1         1                       1
+       Diagnostic capacity       1         1                       0
+       Healthcare exposure       1         1                       0
+           Patient factors       1         1                       1
+ Patient/operation factors       1         1                       0
+               Transfusion       1         1                       1
+                                                                                            Example drivers
+                              Hospital stay >=10 days; Surgery waiting time >7 days; Hospital stay >14 days
+ No surgical antibiotic prophylaxis; Prophylaxis 1-2 hours before incision; 48-hour duration of prophylaxis
+                                                  Contaminated wound; Dirty wound; Clean-contaminated wound
+                               No chlorhexidine cloth wash; High compliance with >=3 critical IPC standards
+                                                                   Operation duration >=2 hours; Laparotomy
+                                                                                Previous use of antibiotics
+                                                                                    Presence of comorbidity
+                                                                 SSI cases with microbiology culture result
+                                                                              History of hospital admission
+                                                                                              Age >54 years
+                           Age >50, comorbidity, postoperative stay >14 days, ASA >=III, contaminated wound
+                                                                           Blood transfusion during surgery
+
+Driver estimates
+----------------
+              Study Year                          Country          Region
+         Worku 2023 2023                         Ethiopia     East Africa
+       Billoro 2019 2019                         Ethiopia     East Africa
+        Gashaw 2026 2026                         Ethiopia     East Africa
+    Gentilotti 2020 2020                         Tanzania     East Africa
+        Kefale 2020 2020                         Ethiopia     East Africa
+        Kefale 2020 2020                         Ethiopia     East Africa
+        Kefale 2020 2020                         Ethiopia     East Africa
+        Kefale 2020 2020                         Ethiopia     East Africa
+    Kachipedzu 2024 2024                           Malawi Southern Africa
+         Worku 2023 2023                         Ethiopia     East Africa
+       Billoro 2019 2019                         Ethiopia     East Africa
+          Boru 2025 2025                         Ethiopia     East Africa
+       Haifete 2025 2025                          Namibia Southern Africa
+ Mukagendaneza 2019 2019                           Rwanda     East Africa
+         Odoko 2024 2024                         Ethiopia     East Africa
+     Forrester 2021 2021                         Ethiopia     East Africa
+        Gashaw 2026 2026                         Ethiopia     East Africa
+          Boru 2025 2025                         Ethiopia     East Africa
+         Deyem 2025 2025 Democratic Republic of the Congo  Central Africa
+          Boru 2025 2025                         Ethiopia     East Africa
+       Abayneh 2022 2022                         Ethiopia     East Africa
+ Mukagendaneza 2019 2019                           Rwanda     East Africa
+          Boru 2025 2025                         Ethiopia     East Africa
+         Deyem 2025 2025 Democratic Republic of the Congo  Central Africa
+        Kefale 2020 2020                         Ethiopia     East Africa
+        Kefale 2020 2020                         Ethiopia     East Africa
+                    Domain
+       Antibiotic exposure
+ Antimicrobial prophylaxis
+ Antimicrobial prophylaxis
+ Antimicrobial prophylaxis
+ Antimicrobial prophylaxis
+ Antimicrobial prophylaxis
+ Antimicrobial prophylaxis
+               Comorbidity
+       Diagnostic capacity
+       Healthcare exposure
+             Hospital stay
+             Hospital stay
+             Hospital stay
+             Hospital stay
+             Hospital stay
+      Infection prevention
+      Infection prevention
+         Operation factors
+         Operation factors
+           Patient factors
+ Patient/operation factors
+               Transfusion
+               Wound class
+               Wound class
+               Wound class
+               Wound class
+                                                                           Driver
+                                                      Previous use of antibiotics
+                               Antibiotic administered before 1 hour pre-incision
+                                                      No preoperative prophylaxis
+                                            Pre-operative single-dose prophylaxis
+                                                  48-hour duration of prophylaxis
+                                               No surgical antibiotic prophylaxis
+                                            Prophylaxis 1-2 hours before incision
+                                                          Presence of comorbidity
+                                       SSI cases with microbiology culture result
+                                                    History of hospital admission
+                                                     Surgery waiting time >7 days
+                                                          Hospital stay >=10 days
+                                                      Postoperative stay >=5 days
+                                                           Hospital stay >14 days
+                                                          Length of stay >15 days
+                                  High compliance with >=3 critical IPC standards
+                                                      No chlorhexidine cloth wash
+                                                     Operation duration >=2 hours
+                                                                       Laparotomy
+                                                                    Age >54 years
+ Age >50, comorbidity, postoperative stay >14 days, ASA >=III, contaminated wound
+                                                 Blood transfusion during surgery
+                                                         Clean-contaminated wound
+                                                      Contaminated or dirty wound
+                                                               Contaminated wound
+                                                                      Dirty wound
+                               Comparison                Effect (95% CI)
+                          No previous use                          52.9%
+ Administration within 1 hour of incision   ARR 5.05 (95% CI 1.79-14.21)
+                 Preoperative prophylaxis    cHR 1.50 (95% CI 1.19-1.92)
+   3-day postoperative intravenous course                          98.0%
+                         Shorter duration   AOR 7.20 (95% CI 1.23-28.17)
+                        Prophylaxis given   AOR 6.63 (95% CI 0.89-19.30)
+              Guideline-concordant timing   AOR 8.20 (95% CI 4.34-18.10)
+                           No comorbidity   AOR 9.18 (95% CI 5.17-17.90)
+             All clinically diagnosed SSI                          50.0%
+                    No previous admission                          82.4%
+                                 <=7 days    ARR 2.48 (95% CI 1.28-4.79)
+                                 <10 days    AOR 2.66 (95% CI 1.06-6.66)
+                                  <5 days    COR 3.18 (95% CI 2.13-4.75)
+                                <=14 days OR 42.30 (95% CI 16.40-108.90)
+                             Shorter stay    AOR 3.81 (95% CI 2.08-6.95)
+           Low compliance (<=2 standards)     RR 0.54 (95% CI 0.30-0.97)
+                 Chlorhexidine cloth wash    cHR 2.30 (95% CI 2.11-3.30)
+                                 <2 hours    AOR 2.64 (95% CI 1.01-6.90)
+               Other abdominal procedures   AOR 4.20 (95% CI 1.70-10.30)
+                              Younger age   AOR 4.76 (95% CI 1.10-20.56)
+                     Reference categories                           <NA>
+                           No transfusion    OR 6.80 (95% CI 2.90-16.30)
+                              Clean wound    AOR 3.17 (95% CI 1.21-8.30)
+           Clean/clean-contaminated wound   AOR 4.50 (95% CI 1.80-11.50)
+                              Clean wound   AOR 6.01 (95% CI 1.77-16.80)
+                              Clean wound   AOR 7.20 (95% CI 1.23-12.10)
+       p       Direction
+    <NA>     Descriptive
+   0.002  Increases risk
+   0.001  Increases risk
+  <0.001 Practice change
+   0.027  Increases risk
+   0.006  Increases risk
+   0.001  Increases risk
+  <0.001  Increases risk
+    <NA>    Capacity gap
+    <NA>     Descriptive
+   0.007  Increases risk
+    <NA>  Increases risk
+    <NA>  Increases risk
+  <0.001  Increases risk
+    <NA>  Increases risk
+   0.038  Decreases risk
+  <0.001  Increases risk
+    <NA>  Increases risk
+ <0.0001  Increases risk
+    <NA>  Increases risk
+   <0.05  Increases risk
+  <0.001  Increases risk
+    <NA>  Increases risk
+ <0.0001  Increases risk
+   0.019  Increases risk
+   0.029  Increases risk
+                                                                             Notes
+ 388/752 (52.9%) reported previous antibiotic use; no adjusted estimate extracted.
+                                                                              <NA>
+                                  Adjusted HR 2.8 (0.79-9.80) was not significant.
+         Prophylaxis administered to 98% post-intervention vs 2% pre-intervention.
+                                                                              <NA>
+                           Reported as significant although the 95% CI includes 1.
+                                                                              <NA>
+                                                                              <NA>
+                        Only 10/20 SSI had culture results; 5/10 culture-positive.
+                                  619/752 (82.4%); no adjusted estimate extracted.
+                                                                              <NA>
+                                                                              <NA>
+                        Reverse-causation risk: postoperative stay may follow SSI.
+        Reverse-causation risk: prolonged stay due to postoperative complications.
+                   Association with ESBL/carbapenemase-producing Enterobacterales.
+                                                                              <NA>
+                                  Adjusted HR 1.5 (0.85-2.71) was not significant.
+                                                                              <NA>
+                                                                              <NA>
+                                                                              <NA>
+                 Reported as significantly associated; effect sizes not extracted.
+                                                                              <NA>
+                                                                              <NA>
+                                                                              <NA>
+                                                                              <NA>
+                                                                              <NA>
+
+Exclusion checks
+----------------
+FALCON / Oladipo rows in outcomes or drivers: 0 
+Starr 2023 secondary rows included: 3  (not used in primary pooling)

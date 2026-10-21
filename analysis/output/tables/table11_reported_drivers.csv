@@ -1,0 +1,27 @@
+Study,Year,Country,Region,Domain,Driver,Comparison,Effect (95% CI),p,Direction,Notes
+Worku 2023,2023,Ethiopia,East Africa,Antibiotic exposure,Previous use of antibiotics,No previous use,52.9%,NA,Descriptive,388/752 (52.9%) reported previous antibiotic use; no adjusted estimate extracted.
+Billoro 2019,2019,Ethiopia,East Africa,Antimicrobial prophylaxis,Antibiotic administered before 1 hour pre-incision,Administration within 1 hour of incision,ARR 5.05 (95% CI 1.79-14.21),0.002,Increases risk,NA
+Gashaw 2026,2026,Ethiopia,East Africa,Antimicrobial prophylaxis,No preoperative prophylaxis,Preoperative prophylaxis,cHR 1.50 (95% CI 1.19-1.92),0.001,Increases risk,Adjusted HR 2.8 (0.79-9.80) was not significant.
+Gentilotti 2020,2020,Tanzania,East Africa,Antimicrobial prophylaxis,Pre-operative single-dose prophylaxis,3-day postoperative intravenous course,98.0%,<0.001,Practice change,Prophylaxis administered to 98% post-intervention vs 2% pre-intervention.
+Kefale 2020,2020,Ethiopia,East Africa,Antimicrobial prophylaxis,48-hour duration of prophylaxis,Shorter duration,AOR 7.20 (95% CI 1.23-28.17),0.027,Increases risk,NA
+Kefale 2020,2020,Ethiopia,East Africa,Antimicrobial prophylaxis,No surgical antibiotic prophylaxis,Prophylaxis given,AOR 6.63 (95% CI 0.89-19.30),0.006,Increases risk,Reported as significant although the 95% CI includes 1.
+Kefale 2020,2020,Ethiopia,East Africa,Antimicrobial prophylaxis,Prophylaxis 1-2 hours before incision,Guideline-concordant timing,AOR 8.20 (95% CI 4.34-18.10),0.001,Increases risk,NA
+Kefale 2020,2020,Ethiopia,East Africa,Comorbidity,Presence of comorbidity,No comorbidity,AOR 9.18 (95% CI 5.17-17.90),<0.001,Increases risk,NA
+Kachipedzu 2024,2024,Malawi,Southern Africa,Diagnostic capacity,SSI cases with microbiology culture result,All clinically diagnosed SSI,50.0%,NA,Capacity gap,Only 10/20 SSI had culture results; 5/10 culture-positive.
+Worku 2023,2023,Ethiopia,East Africa,Healthcare exposure,History of hospital admission,No previous admission,82.4%,NA,Descriptive,619/752 (82.4%); no adjusted estimate extracted.
+Billoro 2019,2019,Ethiopia,East Africa,Hospital stay,Surgery waiting time >7 days,<=7 days,ARR 2.48 (95% CI 1.28-4.79),0.007,Increases risk,NA
+Boru 2025,2025,Ethiopia,East Africa,Hospital stay,Hospital stay >=10 days,<10 days,AOR 2.66 (95% CI 1.06-6.66),NA,Increases risk,NA
+Haifete 2025,2025,Namibia,Southern Africa,Hospital stay,Postoperative stay >=5 days,<5 days,COR 3.18 (95% CI 2.13-4.75),NA,Increases risk,Reverse-causation risk: postoperative stay may follow SSI.
+Mukagendaneza 2019,2019,Rwanda,East Africa,Hospital stay,Hospital stay >14 days,<=14 days,OR 42.30 (95% CI 16.40-108.90),<0.001,Increases risk,Reverse-causation risk: prolonged stay due to postoperative complications.
+Odoko 2024,2024,Ethiopia,East Africa,Hospital stay,Length of stay >15 days,Shorter stay,AOR 3.81 (95% CI 2.08-6.95),NA,Increases risk,Association with ESBL/carbapenemase-producing Enterobacterales.
+Forrester 2021,2021,Ethiopia,East Africa,Infection prevention,High compliance with >=3 critical IPC standards,Low compliance (<=2 standards),RR 0.54 (95% CI 0.30-0.97),0.038,Decreases risk,NA
+Gashaw 2026,2026,Ethiopia,East Africa,Infection prevention,No chlorhexidine cloth wash,Chlorhexidine cloth wash,cHR 2.30 (95% CI 2.11-3.30),<0.001,Increases risk,Adjusted HR 1.5 (0.85-2.71) was not significant.
+Boru 2025,2025,Ethiopia,East Africa,Operation factors,Operation duration >=2 hours,<2 hours,AOR 2.64 (95% CI 1.01-6.90),NA,Increases risk,NA
+Deyem 2025,2025,Democratic Republic of the Congo,Central Africa,Operation factors,Laparotomy,Other abdominal procedures,AOR 4.20 (95% CI 1.70-10.30),<0.0001,Increases risk,NA
+Boru 2025,2025,Ethiopia,East Africa,Patient factors,Age >54 years,Younger age,AOR 4.76 (95% CI 1.10-20.56),NA,Increases risk,NA
+Abayneh 2022,2022,Ethiopia,East Africa,Patient/operation factors,"Age >50, comorbidity, postoperative stay >14 days, ASA >=III, contaminated wound",Reference categories,NA,<0.05,Increases risk,Reported as significantly associated; effect sizes not extracted.
+Mukagendaneza 2019,2019,Rwanda,East Africa,Transfusion,Blood transfusion during surgery,No transfusion,OR 6.80 (95% CI 2.90-16.30),<0.001,Increases risk,NA
+Boru 2025,2025,Ethiopia,East Africa,Wound class,Clean-contaminated wound,Clean wound,AOR 3.17 (95% CI 1.21-8.30),NA,Increases risk,NA
+Deyem 2025,2025,Democratic Republic of the Congo,Central Africa,Wound class,Contaminated or dirty wound,Clean/clean-contaminated wound,AOR 4.50 (95% CI 1.80-11.50),<0.0001,Increases risk,NA
+Kefale 2020,2020,Ethiopia,East Africa,Wound class,Contaminated wound,Clean wound,AOR 6.01 (95% CI 1.77-16.80),0.019,Increases risk,NA
+Kefale 2020,2020,Ethiopia,East Africa,Wound class,Dirty wound,Clean wound,AOR 7.20 (95% CI 1.23-12.10),0.029,Increases risk,NA
