@@ -1,0 +1,9 @@
+Outcome,Hospital level,Studies,Isolates tested,Resistant isolates,Crude aggregate %,Median study %,Range %,IQR %
+MRSA,Tertiary/referral,14,493,268,54.4,50.3,10.0-100.0,38.8-68.4
+MRSA,Secondary/primary,2,24,15,62.5,79.5,59.1-100.0,69.3-89.8
+3GC/ESBL resistance,Tertiary/referral,13,659,503,76.3,73.9,27.3-98.2,57.1-91.7
+3GC/ESBL resistance,Secondary/primary,1,39,36,92.3,92.3,92.3-92.3,92.3-92.3
+3GC/ESBL resistance,Mixed,1,61,58,95.1,95.1,95.1-95.1,95.1-95.1
+Carbapenem resistance,Tertiary/referral,7,195,85,43.6,33.3,0.0-84.2,28.8-49.7
+Carbapenem resistance,Secondary/primary,1,30,0,0,0,0.0-0.0,0.0-0.0
+Carbapenem resistance,Mixed,1,61,17,27.9,27.9,27.9-27.9,27.9-27.9

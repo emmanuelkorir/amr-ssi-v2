@@ -1,0 +1,11 @@
+Outcome,Region,Hospital level,Studies,Isolates tested,Resistant isolates,Crude aggregate %,Median study %,Range %,IQR %
+3GC/ESBL resistance,Central Africa,Tertiary/referral,1,20,8,40,40,40.0-40.0,40.0-40.0
+3GC/ESBL resistance,East Africa,Mixed,1,61,58,95.1,95.1,95.1-95.1,95.1-95.1
+3GC/ESBL resistance,East Africa,Secondary/primary,1,39,36,92.3,92.3,92.3-92.3,92.3-92.3
+3GC/ESBL resistance,East Africa,Tertiary/referral,12,639,495,77.5,76.6,27.3-98.2,58.3-92.9
+Carbapenem resistance,East Africa,Mixed,1,61,17,27.9,27.9,27.9-27.9,27.9-27.9
+Carbapenem resistance,East Africa,Secondary/primary,1,30,0,0,0,0.0-0.0,0.0-0.0
+Carbapenem resistance,East Africa,Tertiary/referral,7,195,85,43.6,33.3,0.0-84.2,28.8-49.7
+MRSA,Central Africa,Tertiary/referral,1,74,47,63.5,63.5,63.5-63.5,63.5-63.5
+MRSA,East Africa,Secondary/primary,2,24,15,62.5,79.5,59.1-100.0,69.3-89.8
+MRSA,East Africa,Tertiary/referral,13,419,221,52.7,44.4,10.0-100.0,37.5-70.0
