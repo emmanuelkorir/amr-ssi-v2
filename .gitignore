@@ -16,3 +16,6 @@ amr-ssis-ecsa-files/
 *.swp
 .idea/
 .vscode/
+
+# Local R environment (not committed)
+.analysis-env/

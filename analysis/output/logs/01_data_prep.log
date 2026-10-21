@@ -1,0 +1,37 @@
+ECSA SSI/AMR data preparation
+=============================
+
+Documents screened: 56 
+Excluded documents: 18 
+Included unique cohorts: 38 
+Studies with incidence component: 26 
+Primary incidence cohorts: 25 
+Studies with AMR component: 26 
+AMR-only studies: 12 
+Primary AMR rows: 54 from 23 studies
+
+Primary incidence rows and checked percentages:
+# A tibble: 25 × 7
+   study_id       events     n    pct percent_check derived_flag quality_overall
+   <chr>           <dbl> <dbl>  <dbl> <chr>         <chr>        <chr>          
+ 1 dinda2013          12   171 0.0702 OK            reported     Moderate       
+ 2 mengesha2014      128   610 0.210  OK            reported     High           
+ 3 scherbaum2014      14  1022 0.0137 OK            derived      Moderate       
+ 4 kisibo2017         75   300 0.25   OK            reported     Moderate       
+ 5 billoro2019        42   255 0.165  OK            reported     Low            
+ 6 mukagendaneza…     34   294 0.116  MISMATCH (re… reported     Moderate       
+ 7 gentilotti2020    225   467 0.482  OK            reported     Moderate       
+ 8 kefale2020         55   281 0.196  OK            derived      Moderate       
+ 9 forrester2021      28   374 0.0749 OK            derived      Moderate       
+10 misha2021          53   251 0.211  OK            reported     Moderate       
+# ℹ 15 more rows
+
+Missingness in SSI-positive covariates:
+# A tibble: 1 × 4
+  male_pct hiv_pct preop_pct contaminated_pct
+     <int>   <int>     <int>            <int>
+1       17       5        14                9
+
+Covariate denominator checks (n_ssi should equal events):
+# A tibble: 0 × 3
+# ℹ 3 variables: study_id <chr>, events <dbl>, n_ssi <dbl>

@@ -1,0 +1,26 @@
+Study,Country,Subregion,Hospital level,Design,Specialty,Cohort n,SSI events,SSI %,SSI definition,AMR data,Quality,Derived numerator
+Dinda 2013,Kenya,East Africa,Tertiary/referral,Prospective cohort,General surgery,171,12,7,'True SSI' (CDC),Yes,Moderate,No
+Mengesha 2014,Ethiopia,East Africa,Tertiary/referral,Prospective cross-sectional,Mixed/other,610,128,21,Clinical post-surgical wound infection,Yes,High,No
+Scherbaum 2014,Gabon,Central Africa,Tertiary/referral,Prospective surveillance cohort,Mixed/other,1022,14,1.4,SSI (CDC/RKI),Yes,Moderate,Yes
+Kisibo 2017,Tanzania,East Africa,Tertiary/referral,Cross-sectional,Orthopaedic,300,75,25,Clinical SSI,No,Moderate,No
+Billoro 2019,Ethiopia,East Africa,Tertiary/referral,Prospective cohort,Mixed/other,255,42,16.5,Clinical SSI (CDC),Yes,Low,No
+Mukagendaneza 2019,Rwanda,East Africa,Tertiary/referral,Prospective observational cohort,Mixed/other,294,34,11.6,"Clinical SSI (CDC), superficial only",No,Moderate,No
+Gentilotti 2020,Tanzania,East Africa,Tertiary/referral,Before-after intervention cohort,Obstetrics/gynaecology,467,225,48.2,Clinical SSI (CDC) within 30 days,Yes,Moderate,No
+Kefale 2020,Ethiopia,East Africa,Secondary,Retrospective cross-sectional,General surgery,281,55,19.6,Clinical SSI (CDC),No,Moderate,Yes
+Forrester 2021,Ethiopia,East Africa,Mixed (five hospitals),Prospective pre-post quality improvement cohort,Mixed/other,374,28,7.5,Postoperative surgical infection (modified CDC),No,Moderate,Yes
+Misha 2021,Ethiopia,East Africa,Tertiary/referral,Prospective cohort,Mixed/other,251,53,21.1,Clinical SSI (CDC),Yes,Moderate,No
+Ntirushwa 2021,Rwanda,East Africa,Secondary (district),Randomised controlled trial,Obstetrics/gynaecology,301,12,4,Clinical SSI (CDC) within 30 days,No,Low,No
+Velin 2021,Rwanda,East Africa,Secondary (district),Prospective cohort,Obstetrics/gynaecology,795,45,5.7,Clinical SSI (CDC) at POD 11,Yes,Low,No
+Abayneh 2022,Ethiopia,East Africa,Tertiary/referral,Prospective observational cohort,Mixed/other,262,33,12.6,Clinical SSI (CDC) within 30 days,Yes,Low,No
+Ali 2023,Ethiopia,East Africa,Tertiary/referral,Hospital-based cross-sectional,Mixed/other,338,49,14.5,Clinical SSI (CDC),Yes,Moderate,No
+Bayardorj 2023,Tanzania,East Africa,Secondary (district),Retrospective cross-sectional,Mixed/other,128,14,10.9,Clinical SSI documented in records,No,High,No
+Habtemariam 2023,Ethiopia,East Africa,Tertiary/referral,Prospective cross-sectional,Mixed/other,204,126,61.8,Clinical SSI (CDC),No,Moderate,No
+Kachipedzu 2024,Malawi,Southern Africa,Tertiary/referral,Prospective cohort,Obstetrics/gynaecology,208,20,9.6,Clinical SSI (CDC) within 30 days,Yes,Moderate,No
+Mammo 2024,Ethiopia,East Africa,"Mixed (nine hospitals, five clusters)",Stepped-wedge cluster randomised clinical trial,Obstetrics/gynaecology,2483,265,10.7,Clinical SSI (CDC) within 30 days,No,Low,No
+Boru 2025,Ethiopia,East Africa,Tertiary/referral,Institution-based cross-sectional,Mixed/other,183,29,15.8,Culture-confirmed SSI,Yes,Moderate,No
+Deyem 2025,Democratic Republic of the Congo,Central Africa,Tertiary/referral,Prospective longitudinal analytical,General surgery,218,71,32.6,Clinical SSI (CDC) within 30 days,No,Low,No
+Haifete 2025,Namibia,Southern Africa,Tertiary/referral (two hospitals),Retrospective cross-sectional chart review,Mixed/other,1248,126,10.1,SSI documented in chart,No,Moderate,No
+Hamudu 2025,Tanzania,East Africa,Mixed (tertiary and regional referral),Longitudinal prospective cohort,Orthopaedic,120,36,30,Clinical SSI (CDC) within 3 months,Yes,Low,No
+Kazuma 2025,Zambia,Southern Africa,Tertiary/referral (three hospitals),Prospective observational cross-sectional,General surgery,1122,218,19.4,Clinical SSI with pus swab,No,Moderate,No
+Agade 2026,Kenya,East Africa,Tertiary/referral,Retrospective cohort,General surgery,393,55,14,Clinical SSI,No,Moderate,No
+Gashaw 2026,Ethiopia,East Africa,Tertiary/referral,Longitudinal prospective cohort,Mixed/other,1205,312,25.9,Clinical SSI (WHO/CDC) within 28 days,Yes,Low,No

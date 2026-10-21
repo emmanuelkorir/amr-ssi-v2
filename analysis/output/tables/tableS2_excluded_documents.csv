@@ -1,0 +1,19 @@
+Document,Document ID,Reason,Linked study,Notes
+FALCON secondary analysis (Aaron Oladipo 2024),aaron-oladipo-et-al,"FALCON post-hoc secondary analysis across seven LMICs (Benin, Ghana, India, Mexico, Nigeria, Rwanda, South Africa); no ECSA-specific strata",NA,NA
+Copy of Gashaw 2026,copy-of-gashaw-et-al-amr,Duplicate copy of the included Gashaw 2026 article,gashaw2026,NA
+Copy of Mbabazi 2025,copy-of-mbabazi-et-al-amr,Duplicate copy of the included Mbabazi 2025 article,mbabazi2025,NA
+Human data-extraction workbook,data-extraction,"Human data-extraction workbook, not a primary study",NA,NA
+Kihla 2014 (mixed wounds),kihla-et-al,"Wound infections across healthcare facilities, including non-surgical wounds; no SSI-specific operated-patient denominator",NA,NA
+Kumburu 2015 (all hospital infections),kumburu-et-al,"All hospital-acquired infections at a tertiary hospital, not restricted to SSI",NA,NA
+Jung 2024 (post-traumatic wounds),laura-jung-et-al,"Post-traumatic wound infections, not surgical site infections",NA,NA
+De Nardo 2016 (duplicate cohort),nardo-et-al,Duplicate/overlapping report of the Gentilotti 2020 pre-intervention cohort,gentilotti2020,NA
+Ojulong 2009 (isolate-level MRSA),ojulong-et-al,Isolate-level MRSA report without an SSI-patient denominator; duplicate report of the same Mulago cohort,NA,NA
+Ojulong 2010 (duplicate cohort),ojulongandezera,Duplicate report of the Ojulong 2009 Mulago SSI cohort,NA,NA
+Clean Cut pilot duplicate,pmc10364890-clean-cut-ethiopia,Duplicate report of the Forrester 2021 Clean Cut pilot cohort,forrester2021,NA
+Review protocol,protocol,"Review protocol, not a study",NA,NA
+Response to reviewers,response-to-reviewers-1,"Response to reviewers, not a study",NA,NA
+Similar systematic review correction,similar-sr-to-ssis-in-ecsa,"Correction/other systematic review, not a primary study",NA,NA
+One-page image,soi230088-featured-1707866555-17813,One-page image with no extractable study data,NA,NA
+Orthopaedic DOCX duplicate,surgical-site-infection-among-patients-undergone-orthopaedic-surgery-at-muhimbil,Duplicate DOCX of the Kisibo 2017 orthopaedic cohort,kisibo2017,NA
+Worku 2023 molecular report,worku-et-al-molecular,Overlapping molecular report of the Worku 2023 SSI cohort,worku2023,NA
+Worku 2023 molecular report,worku-et-al-b6295820,Overlapping molecular report of the Worku 2023 SSI cohort,worku2023,NA

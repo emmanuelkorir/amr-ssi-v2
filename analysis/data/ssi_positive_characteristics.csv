@@ -1,0 +1,26 @@
+study_id,n_ssi,male_ssi,female_ssi,hiv_positive,hiv_known,preop_prophylaxis_yes,preop_prophylaxis_known,wound_clean,wound_clean_contaminated,wound_contaminated,wound_dirty,wound_unclassified,wound_class_known,notes
+abayneh2022,33,14,19,1,33,33,33,22,0,11,0,0,33,Gender and HIV among SSI patients from Table 1 (HIV 1/33 SSI positive); clean and clean-contaminated combined (22/33); preoperative prophylaxis received by all SSI patients.
+agade2026,55,26,29,,,52,54,2,5,15,23,0,45,Wound class known for 45/55 SSI; gender from Table 1; prophylaxis known for 54/55.
+ali2023,49,,,,,,,,,,,,,Clinical SSI primary definition; SSI-positive gender/prophylaxis/wound class not reported in usable form.
+bayardorj2023,14,3,11,,,13,14,12,2,0,0,0,14,SSI population 78.6% female (11/14); prophylaxis and wound class from SSI cross-tabulation.
+billoro2019,42,,,,,42,42,,,,,,,All 42 SSI patients received prophylaxis; wound class only reported for the whole cohort.
+boru2025,29,16,13,,,13,29,,,,,,,Gender and prophylaxis among SSI patients; wound class only reported for whole cohort.
+deyem2025,71,40,31,,,59,71,37,0,34,0,0,71,"Gender, prophylaxis and wound class among SSI patients (37 clean; 34 contaminated/dirty)."
+dinda2013,12,,,,,,,,,,,,,"Gender counts in the source refer to all 39 post-surgical infections, not the 12 true SSI, so not used."
+forrester2021,28,,,,,,,,,,,,,Pre-post quality-improvement cohort; SSI-positive characteristics not reported.
+gashaw2026,312,217,95,,,216,312,,,,,,,Gender and prophylaxis among SSI patients; wound class not available by SSI status.
+gentilotti2020,225,0,225,,,5,225,,,,,,,All women; pre-intervention prophylaxis coverage 2% (5/225 SSI). HIV not used because denominator mixes SSI and non-SSI women.
+habtemariam2023,126,,,,,126,126,,,,,,,All 126 SSI patients received prophylaxis per the source; gender not reported for SSI subgroup.
+haifete2025,126,77,49,16,91,105,112,5,14,5,0,102,24,HIV among SSI with known status 16/91; prophylaxis known for 112/126; wound class classified for only 24 SSI (102 unclassified).
+hamudu2025,36,,,,,33,36,,,,,,,Prophylaxis among SSI patients; gender and wound class not reported by SSI status.
+kachipedzu2024,20,0,20,4,20,20,20,,,,,,,All women; HIV 4/20 and prophylaxis 20/20 among SSI patients.
+kazuma2025,218,,,,,,,89,37,20,72,0,218,Wound class among all 218 SSI patients; gender not reported by SSI status.
+kefale2020,55,27,28,,,39,55,15,11,17,12,0,55,"Gender, prophylaxis and wound class among SSI patients."
+kisibo2017,75,30,45,8,63,,,,,,,,,"HIV status known for 63/75 SSI (8 positive); prophylaxis reported for whole cohort (270/300), not SSI subgroup."
+mammo2024,265,0,265,,,,,,,,,,,All women (caesarean deliveries); control period used as primary incidence.
+mengesha2014,128,98,30,,,127,128,9,17,29,41,0,96,"Wound class available for 96 culture-positive SSI patients, not all 128; prophylaxis 127/128."
+misha2021,53,34,19,1,53,,,,,28,,,,HIV among SSI 1/53; contaminated wound reported for 28 SSI but full CDC class distribution not available.
+mukagendaneza2019,34,27,7,,,,,30,0,4,0,0,34,Wound class grouped as clean/clean-contaminated (30) versus contaminated/dirty (4); prophylaxis not reported for SSI subgroup.
+ntirushwa2021,12,0,12,,,,,,,,,,,"All women; both trial arms received prophylaxis by design, but SSI-specific prophylaxis counts not extracted."
+scherbaum2014,14,,,,,,,,,,,,,Surveillance cohort; SSI-positive characteristics not reported.
+velin2021,45,0,45,,,,,,,,,,,All women; prophylaxis and HIV not reported for the SSI subgroup in a usable form.
