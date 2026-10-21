@@ -1,0 +1,17 @@
+Subgroup variable,Subgroup,k,Events,Patients,SSI %,95% CI,I2 (%),p within,p between
+Surgical specialty,General surgery,5,411,2185,17.34,8.5-32.2,91.2,<0.001,0.014
+Surgical specialty,Mixed/other,13,988,6374,14.4,8.2-24.0,97.3,<0.001,0.014
+Surgical specialty,Orthopaedic,2,111,420,26.57,7.5-61.8,9,0.294,0.014
+Surgical specialty,Obstetrics/gynaecology,5,567,4254,11.18,2.7-36.1,99.1,<0.001,0.014
+Hospital level,Tertiary/referral,19,1658,8871,17.65,11.7-25.7,97.3,<0.001,0.030
+Hospital level,Secondary/primary,4,126,1505,8.61,2.6-24.8,94.5,<0.001,0.030
+Hospital level,Mixed,2,293,2857,9.32,0.9-53.4,71.8,0.060,0.030
+ECSA sub-region,East Africa,20,1628,9415,16.43,11.5-22.9,97.5,<0.001,0.602
+ECSA sub-region,Central Africa,2,85,1240,7.62,0.0-100.0,99.3,<0.001,0.602
+ECSA sub-region,Southern Africa,3,364,2578,12.69,4.4-31.5,95.5,<0.001,0.602
+Study design,Cohort,12,727,5194,12.73,7.3-21.4,96.4,<0.001,0.160
+Study design,Cross-sectional,9,820,4414,20.05,12.1-31.5,96.9,<0.001,0.160
+Study design,Before-after/QI,2,253,841,21.63,0.0-100.0,99.2,<0.001,0.160
+Study design,RCT,2,277,2784,6.82,0.0-98.3,91.9,<0.001,0.160
+Publication period,2013-2019,6,305,2652,10.54,3.4-28.4,96.4,<0.001,0.302
+Publication period,2020-2026,19,1772,10581,16.71,11.5-23.7,97.8,<0.001,0.302

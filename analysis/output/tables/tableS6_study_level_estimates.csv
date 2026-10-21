@@ -1,0 +1,26 @@
+Study,Country,Subregion,Surgical specialty,Hospital level,Events,Patients,SSI %,Wilson 95% CI,Derived count,Quality
+Abayneh 2022,Ethiopia,East Africa,Mixed/other,Tertiary/referral,33,262,12.6,9.1-17.2,No,Low
+Agade 2026,Kenya,East Africa,General surgery,Tertiary/referral,55,393,14,10.9-17.8,No,Moderate
+Ali 2023,Ethiopia,East Africa,Mixed/other,Tertiary/referral,49,338,14.5,11.1-18.6,No,Moderate
+Bayardorj 2023,Tanzania,East Africa,Mixed/other,Secondary/primary,14,128,10.9,6.6-17.5,No,High
+Billoro 2019,Ethiopia,East Africa,Mixed/other,Tertiary/referral,42,255,16.5,12.4-21.5,No,Low
+Boru 2025,Ethiopia,East Africa,Mixed/other,Tertiary/referral,29,183,15.8,11.3-21.8,No,Moderate
+Deyem 2025,Democratic Republic of the Congo,Central Africa,General surgery,Tertiary/referral,71,218,32.6,26.7-39.0,No,Low
+Dinda 2013,Kenya,East Africa,General surgery,Tertiary/referral,12,171,7,4.1-11.9,No,Moderate
+Forrester 2021,Ethiopia,East Africa,Mixed/other,Mixed,28,374,7.5,5.2-10.6,Yes,Moderate
+Gashaw 2026,Ethiopia,East Africa,Mixed/other,Tertiary/referral,312,1205,25.9,23.5-28.4,No,Low
+Gentilotti 2020,Tanzania,East Africa,Obstetrics/gynaecology,Tertiary/referral,225,467,48.2,43.7-52.7,No,Moderate
+Habtemariam 2023,Ethiopia,East Africa,Mixed/other,Tertiary/referral,126,204,61.8,54.9-68.2,No,Moderate
+Haifete 2025,Namibia,Southern Africa,Mixed/other,Tertiary/referral,126,1248,10.1,8.5-11.9,No,Moderate
+Hamudu 2025,Tanzania,East Africa,Orthopaedic,Tertiary/referral,36,120,30,22.5-38.7,No,Low
+Kachipedzu 2024,Malawi,Southern Africa,Obstetrics/gynaecology,Tertiary/referral,20,208,9.6,6.3-14.4,No,Moderate
+Kazuma 2025,Zambia,Southern Africa,General surgery,Tertiary/referral,218,1122,19.4,17.2-21.8,No,Moderate
+Kefale 2020,Ethiopia,East Africa,General surgery,Secondary/primary,55,281,19.6,15.4-24.6,Yes,Moderate
+Kisibo 2017,Tanzania,East Africa,Orthopaedic,Tertiary/referral,75,300,25,20.4-30.2,No,Moderate
+Mammo 2024,Ethiopia,East Africa,Obstetrics/gynaecology,Mixed,265,2483,10.7,9.5-11.9,No,Low
+Mengesha 2014,Ethiopia,East Africa,Mixed/other,Tertiary/referral,128,610,21,17.9-24.4,No,High
+Misha 2021,Ethiopia,East Africa,Mixed/other,Tertiary/referral,53,251,21.1,16.5-26.6,No,Moderate
+Mukagendaneza 2019,Rwanda,East Africa,Mixed/other,Tertiary/referral,34,294,11.6,8.4-15.7,No,Moderate
+Ntirushwa 2021,Rwanda,East Africa,Obstetrics/gynaecology,Secondary/primary,12,301,4,2.3-6.8,No,Low
+Scherbaum 2014,Gabon,Central Africa,Mixed/other,Tertiary/referral,14,1022,1.4,0.8-2.3,Yes,Moderate
+Velin 2021,Rwanda,East Africa,Obstetrics/gynaecology,Secondary/primary,45,795,5.7,4.3-7.5,No,Low

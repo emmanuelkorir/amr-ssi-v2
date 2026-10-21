@@ -1,0 +1,10 @@
+Analysis,k,Events,Patients,SSI %,95% CI,I2 (%),tau2
+Primary (all cohorts),25,2077,13233,15.03,10.6-20.9,97.5,0.8986
+Excluding derived incidence counts,22,1980,11556,16.83,12.2-22.8,97.5,0.6912
+Excluding low-quality studies,17,1261,7594,15.28,9.6-23.4,97.6,1.0176
+Excluding before-after/quality-improvement designs,23,1824,12392,14.54,10.2-20.3,96.8,0.8221
+Excluding the culture-confirmed-only cohort (Boru 2025),24,2048,13050,14.99,10.4-21.1,97.6,0.9394
+Cohort studies only,12,727,5194,12.73,7.3-21.4,96.4,0.9072
+"Excluding cohorts with >1,000 patients",20,1142,6153,16.59,11.6-23.2,97,0.7648
+Common-effect model,25,2077,13233,18.45,17.7-19.2,97.5,0.8986
+Random-effects model with Wald CI,25,2077,13233,15.03,10.8-20.5,97.5,0.8986

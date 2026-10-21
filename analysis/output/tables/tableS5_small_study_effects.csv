@@ -1,0 +1,4 @@
+Test,Estimate,p_value,Detail
+Egger regression,-1.2514192138974936,0.2233606738351528,bias coefficient -3.665 (SE 2.929)
+Begg rank correlation,-2.242076959185187,0.024956398846621975,Kendall score -96.0 (SE 42.8)
+Trim-and-fill (adjusted),0.20257752722713426,NA,6 studies added; adjusted proportion 20.3% (95% CI 14.1-28.3)

@@ -1,0 +1,99 @@
+ECSA SSI primary random-effects meta-analysis
+=============================================
+
+Cohorts: 25  Events: 2077  Patients: 13233 
+Pooled SSI: 15.03% (95% CI 10.60-20.89)
+Prediction interval: 2.35-56.57%
+I2 = 97.5%, tau2 = 0.8986, Q = 962.0, p < 1e-187
+
+Small-study effects
+-------------------
+                     Test   Estimate   p_value
+         Egger regression -1.2514192 0.2233607
+    Begg rank correlation -2.2420770 0.0249564
+ Trim-and-fill (adjusted)  0.2025775        NA
+                                                        Detail
+                            bias coefficient -3.665 (SE 2.929)
+                                 Kendall score -96.0 (SE 42.8)
+ 6 studies added; adjusted proportion 20.3% (95% CI 14.1-28.3)
+
+Protocol subgroups
+------------------
+  Subgroup variable               Subgroup  k Events Patients SSI %    95% CI
+ Surgical specialty        General surgery  5    411     2185 17.34  8.5-32.2
+ Surgical specialty            Mixed/other 13    988     6374 14.40  8.2-24.0
+ Surgical specialty            Orthopaedic  2    111      420 26.57  7.5-61.8
+ Surgical specialty Obstetrics/gynaecology  5    567     4254 11.18  2.7-36.1
+     Hospital level      Tertiary/referral 19   1658     8871 17.65 11.7-25.7
+     Hospital level      Secondary/primary  4    126     1505  8.61  2.6-24.8
+     Hospital level                  Mixed  2    293     2857  9.32  0.9-53.4
+    ECSA sub-region            East Africa 20   1628     9415 16.43 11.5-22.9
+    ECSA sub-region         Central Africa  2     85     1240  7.62 0.0-100.0
+    ECSA sub-region        Southern Africa  3    364     2578 12.69  4.4-31.5
+       Study design                 Cohort 12    727     5194 12.73  7.3-21.4
+       Study design        Cross-sectional  9    820     4414 20.05 12.1-31.5
+       Study design        Before-after/QI  2    253      841 21.63 0.0-100.0
+       Study design                    RCT  2    277     2784  6.82  0.0-98.3
+ Publication period              2013-2019  6    305     2652 10.54  3.4-28.4
+ Publication period              2020-2026 19   1772    10581 16.71 11.5-23.7
+ I2 (%) p within p between
+   91.2   <0.001     0.014
+   97.3   <0.001     0.014
+    9.0    0.294     0.014
+   99.1   <0.001     0.014
+   97.3   <0.001     0.030
+   94.5   <0.001     0.030
+   71.8    0.060     0.030
+   97.5   <0.001     0.602
+   99.3   <0.001     0.602
+   95.5   <0.001     0.602
+   96.4   <0.001     0.160
+   96.9   <0.001     0.160
+   99.2   <0.001     0.160
+   91.9   <0.001     0.160
+   96.4   <0.001     0.302
+   97.8   <0.001     0.302
+
+Exploratory meta-regression
+--------------------------
+                           Covariate  k                Increment
+     Male proportion among SSI cases 17 per 10 percentage points
+      HIV positivity among SSI cases  5 per 10 percentage points
+ Preoperative antibiotic prophylaxis 14 per 10 percentage points
+   Contaminated or dirty wound class  9 per 10 percentage points
+                    Publication year 25                 per year
+                 Cohort size (log10) 25             per doubling
+      OR (95% CI)     p R2 (%)   tau2
+ 1.09 (0.95-1.24) 0.210    3.3 0.5240
+ 0.73 (0.26-2.01) 0.395    0.0 0.2489
+ 0.90 (0.76-1.06) 0.182    7.6 0.5815
+ 1.09 (0.96-1.25) 0.162   15.7 0.1711
+ 1.08 (0.98-1.20) 0.128    5.4 0.8499
+ 0.81 (0.57-1.16) 0.235    2.1 0.8797
+
+Sensitivity analyses
+--------------------
+                                                Analysis  k Events Patients
+                                   Primary (all cohorts) 25   2077    13233
+                      Excluding derived incidence counts 22   1980    11556
+                           Excluding low-quality studies 17   1261     7594
+      Excluding before-after/quality-improvement designs 23   1824    12392
+ Excluding the culture-confirmed-only cohort (Boru 2025) 24   2048    13050
+                                     Cohort studies only 12    727     5194
+                  Excluding cohorts with >1,000 patients 20   1142     6153
+                                     Common-effect model 25   2077    13233
+                       Random-effects model with Wald CI 25   2077    13233
+ SSI %    95% CI I2 (%)   tau2
+ 15.03 10.6-20.9   97.5 0.8986
+ 16.83 12.2-22.8   97.5 0.6912
+ 15.28  9.6-23.4   97.6 1.0176
+ 14.54 10.2-20.3   96.8 0.8221
+ 14.99 10.4-21.1   97.6 0.9394
+ 12.73  7.3-21.4   96.4 0.9072
+ 16.59 11.6-23.2   97.0 0.7648
+ 18.45 17.7-19.2   97.5 0.8986
+ 15.03 10.8-20.5   97.5 0.8986
+
+Leave-one-out range: 13.92% to 16.42% 
+
+Outputs written to analysis/output/figures and analysis/output/tables
